@@ -1,5 +1,5 @@
 """
-valuation_model.py
+valuation.py
 ├── prepare_features(df_theta, df_financial, df_macro)
 ├── train_model(X, y)
 ├── evaluate_model(model, X_test, y_test)
@@ -14,15 +14,6 @@ valuation_model.py
 | $M_t$             | 宏观指标 | 通胀、利率、政策不确定性              |
 | $P_{i,t}$         | 目标市值 | 来自真实市值（如 Compustat, Wind） |
 """
-
-import pandas as pd
-import numpy as np
-from lightgbm import LGBMRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error, r2_score
-import shap
-import matplotlib.pyplot as plt
-import joblib
 
 import pandas as pd
 import numpy as np
