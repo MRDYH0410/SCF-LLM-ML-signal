@@ -60,7 +60,7 @@ def classify_capability_dimension(text: str) -> str:
         text (str): 一段英文句子或段落
 
     返回：
-        str: 所属维度标签（reputation, executive, patent, brand, crypto）
+        str: 所属维度标签（reputation, executive.txt, patent.txt, brand.txt, crypto.txt）
     """
     lowered = text.lower()  # 转为小写，便于匹配关键词
 
@@ -78,7 +78,7 @@ def classify_capability_dimension(text: str) -> str:
 
 # ✅ 示例测试：展示 NER 和分类器效果
 if __name__ == "__main__":
-    text = "Apple announced a major brand expansion on Ethereum."
+    text = "Apple announced a major brand.txt expansion on Ethereum."
 
     print("Entities:", extract_named_entities(text))
     print("Classified as:", classify_capability_dimension(text))

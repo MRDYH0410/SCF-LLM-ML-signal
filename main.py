@@ -25,16 +25,21 @@ from digital_asset_valuation.valuation import compute_valuation_model_with_shap,
     plot_feature_importance, save_model_to_disk
 
 import pandas as pd
+
+pd.set_option('display.max_columns', None)
+
 import numpy as np
 
 # ✅ 示例原始输入（可替换为真实文本数据）
 example_input = [
     {"firm_id": "BYD", "date": "2025-05-01", "text": "BYD announced a strategic expansion plan."},
-    {"firm_id": "BYD", "date": "2025-05-01", "text": "The brand reputation of BYD surged on Google Trends."},
+    {"firm_id": "BYD", "date": "2025-05-01", "text": "The brand.txt reputation of BYD surged on Google Trends."},
     {"firm_id": "BYD", "date": "2025-05-01", "text": "The company filed 12 new battery patents."},
     {"firm_id": "TSLA", "date": "2025-05-01", "text": "Tesla launched its tokenized loyalty platform."},
     {"firm_id": "TSLA", "date": "2025-05-01",
-     "text": "Market perception of Tesla fell sharply after leadership changes."}
+     "text": "Market perception of Tesla fell sharply after leadership changes."},
+    {"firm_id": "BYD", "date": "2025-05-01", "text": "BYD submitted 20 new battery-related patent applications."},
+    {"firm_id": "BYD", "date": "2025-05-01", "text": "BYD filed several patents with the US Patent Office."}
 ]
 
 if __name__ == "__main__":
@@ -42,6 +47,7 @@ if __name__ == "__main__":
     df_R = run_pipeline(example_input)
 
     score_cols = ['executive', 'brand', 'patent', 'crypto', 'reputation']
+    score_cols = [col for col in score_cols if col in df_R.columns]
 
     print("\n🔁 Step 2: 状态估计 - Kalman Filter 滤波")
     df_theta = run_state_estimation(df_R, score_cols)

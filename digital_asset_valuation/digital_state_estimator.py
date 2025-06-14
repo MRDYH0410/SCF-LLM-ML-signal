@@ -95,7 +95,7 @@ def run_state_estimation(df: pd.DataFrame, score_cols: list, rho=0.95, q_scale=0
 if __name__ == "__main__":
     example_input = [
         {"firm_id": "BYD", "date": "2025-05-01", "text": "BYD announced a strategic expansion plan."},
-        {"firm_id": "BYD", "date": "2025-05-01", "text": "The brand reputation of BYD surged on Google Trends."},
+        {"firm_id": "BYD", "date": "2025-05-01", "text": "The brand.txt reputation of BYD surged on Google Trends."},
         {"firm_id": "BYD", "date": "2025-05-01", "text": "The company filed 12 new battery patents."},
         {"firm_id": "TSLA", "date": "2025-05-01", "text": "Tesla launched its tokenized loyalty platform."},
         {"firm_id": "TSLA", "date": "2025-05-01",
@@ -104,7 +104,7 @@ if __name__ == "__main__":
 
     # df = pd.read_csv("aggregated_result.csv")  # 或 run_pipeline 输出
     df = run_pipeline(example_input)
-    score_cols = ['executive', 'brand', 'patent', 'crypto', 'reputation']
+    score_cols = ['executive.txt', 'brand.txt', 'patent.txt', 'crypto.txt', 'reputation']
 
     state_df = run_state_estimation(df, score_cols)
     print(state_df.head())
