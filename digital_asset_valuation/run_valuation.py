@@ -24,35 +24,31 @@ from digital_asset_valuation.digital_state_estimator import run_state_estimation
 from digital_asset_valuation.valuation import compute_valuation_model_with_shap, generate_shap_visualizations, \
     plot_feature_importance, save_model_to_disk
 
+from digital_asset_valuation.valuation import plot_prediction_vs_actual, plot_residuals_vs_actual, \
+                                                generate_shap_dependence_plot, generate_shap_summary_bar,\
+                                                generate_shap_group_table, plot_shap_force_plot
+
+
 import pandas as pd
 
 pd.set_option('display.max_columns', None)
 
 import numpy as np
 
-# ✅ 示例原始输入（可替换为真实文本数据）
-example_input = [
-    {"firm_id": "BYD", "date": "2025-05-01", "text": "BYD announced a strategic expansion plan."},
-    {"firm_id": "BYD", "date": "2025-05-01", "text": "The brand.txt reputation of BYD surged on Google Trends."},
-    {"firm_id": "BYD", "date": "2025-05-01", "text": "The company filed 12 new battery patents."},
-    {"firm_id": "TSLA", "date": "2025-05-01", "text": "Tesla launched its tokenized loyalty platform."},
-    {"firm_id": "TSLA", "date": "2025-05-01",
-     "text": "Market perception of Tesla fell sharply after leadership changes."},
-    {"firm_id": "BYD", "date": "2025-05-01", "text": "BYD submitted 20 new battery-related patent applications."},
-    {"firm_id": "BYD", "date": "2025-05-01", "text": "BYD filed several patents with the US Patent Office."}
-]
+
 
 if __name__ == "__main__":
-    print("🚀 Step 1: LLM 语义打分 Pipeline 开始...")
-    df_R = run_pipeline(example_input)
+    df_R = pd.read_csv("../LLM_signal_generation/output/aggregated_result.csv")
+    print(df_R)
 
     score_cols = ['executive', 'brand', 'patent', 'crypto', 'reputation']
     score_cols = [col for col in score_cols if col in df_R.columns]
 
-    print("\n🔁 Step 2: 状态估计 - Kalman Filter 滤波")
+    print("\n🔁 Step 1: 状态估计 - Kalman Filter 滤波")
     df_theta = run_state_estimation(df_R, score_cols)
+    print(df_theta)
 
-    print("\n📎 Step 3: 构建估值模型输入数据（拼接财务 + 宏观）")
+    print("\n📎 Step 2: 构建估值模型输入数据（拼接财务 + 宏观）")
 
     # 合成财务 + 宏观指标 + 目标变量（此处为示例数据）
     np.random.seed(42)
@@ -83,15 +79,27 @@ if __name__ == "__main__":
     ]
     target_col = "market_value"
 
-    print("\n🎯 Step 4: 模型训练 + SHAP 分析 + 保存模型")
+    print("\n🎯 Step 3: 模型训练 + SHAP 分析 + 保存模型")
     model, shap_values, explainer, metrics, X_train = compute_valuation_model_with_shap(
         df_theta, feature_cols, target_col
     )
 
     print(f"\n📈 模型性能:\n - MSE: {metrics['mse']:.2f}\n - R²:  {metrics['r2']:.2f}")
 
-    generate_shap_visualizations(explainer, shap_values, X_train)
-    plot_feature_importance(model, X_train.columns)
+    # ✅ 新增验证图
+    y_pred = model.predict(X_train)
+    y_true = df_theta.loc[X_train.index, target_col].reset_index(drop=True)
+
+    plot_prediction_vs_actual(y_true, y_pred)  # 图 2
+    plot_residuals_vs_actual(y_true, y_pred)  # 图 3
+
+    generate_shap_dependence_plot(shap_values, X_train, feature_name="theta_reputation", interaction_index="roe") # 图 4
+    generate_shap_summary_bar(shap_values, X_train) # 图 5
+
+    generate_shap_group_table(shap_values, X_train) # 表 4
+    plot_shap_force_plot(model, X_train, sample_index=0) # 图 6
+
     save_model_to_disk(model)
+
 
     print("\n✅ 全流程执行完成。估值模型与 SHAP 解释结果已输出。")

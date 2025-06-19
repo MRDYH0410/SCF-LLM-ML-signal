@@ -51,29 +51,45 @@ def extract_named_entities(texts: Union[str, List[str]]) -> Union[List[tuple], L
     return structured_results[0] if is_single else structured_results
 
 
-def classify_capability_dimension(text: str) -> str:
+def classify_with_emotion_and_semantics(text: str, scorer, sentiment_model, emotion_weight=0.3, threshold=0.4) -> str:
     """
-    根据输入文本内容判断该句子属于哪类数字能力维度。
-    用于后续评分时路由到正确的评分器。
+    根据语义相似度 + 情绪 polarity 共同判断文本属于哪个数字能力维度。
 
-    参数：
-        text (str): 一段英文句子或段落
+    语义打分仍然是第一要义，情绪是作用的放大器，用于分析这句话的重要程度并给予一定的权重
 
-    返回：
-        str: 所属维度标签（reputation, executive.txt, patent.txt, brand.txt, crypto.txt）
+    参数:
+        text: 输入文本
+        scorer: 已初始化的 Scorer 对象
+        sentiment_model: Huggingface pipeline, 支持情绪分析（如 FinBERT）
+        emotion_weight: 情绪影响在最终打分中的权重（建议 0.2~0.5）
+        threshold: 如果最大加权分数低于此，则返回 'uncertain'
+
+    返回:
+        str: 最终推断维度名（如 'brand', 'patent'）
     """
-    lowered = text.lower()  # 转为小写，便于匹配关键词
 
-    if any(keyword in lowered for keyword in ["patent", "uspto", "intellectual property"]):
-        return "patent"
-    elif any(keyword in lowered for keyword in ["search volume", "brand", "google trends"]):
-        return "brand"
-    elif any(keyword in lowered for keyword in ["token", "ethereum", "etherscan", "crypto"]):
-        return "crypto"
-    elif any(keyword in lowered for keyword in ["announce", "launch", "initiate", "expand", "commit"]):
-        return "executive"
-    else:
-        return "reputation"  # 默认为声誉类文本
+    # Step 1: 获取情绪极性得分
+    sentiment = sentiment_model(text)[0]
+    sentiment_score = sentiment["score"]
+    polarity = 1.0 if sentiment["label"].lower() == "positive" else -1.0
+    emotion_value = sentiment_score * polarity  # 范围 [-1, +1]
+
+    # Step 2: 获取语义相似度分数
+    similarity_scores = scorer.score_all(text, top_k=1)
+
+    # Step 3: 综合加权评分（语义 + 情绪）
+    final_scores = {}
+    for dim, match_list in similarity_scores.items():
+        semantic_score = match_list[0][1]  # 相似度
+        combined = (1 - emotion_weight) * semantic_score + emotion_weight * abs(emotion_value)
+        final_scores[dim] = combined
+
+    # Step 4: 选择最大分数维度（超过阈值）
+    best_dim, best_score = max(final_scores.items(), key=lambda x: x[1])
+    if best_score < threshold:
+        return "uncertain"
+
+    return best_dim
 
 
 # ✅ 示例测试：展示 NER 和分类器效果

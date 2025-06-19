@@ -1,12 +1,16 @@
 # 功能：组织全流程，输入原始记录，输出 R_{i,t}^{(k)} 聚合结果
 
-from LLM_signal_generation.preprocess import classify_capability_dimension
+from LLM_signal_generation.preprocess import classify_with_emotion_and_semantics
+
 from LLM_signal_generation.embedder import SentenceEmbedder
 from LLM_signal_generation.aggregator import aggregate_scores_by_firm_time
 from LLM_signal_generation.scorer import Scorer
+
+from LLM_signal_generation.generate_test_cases import generate_test_records
 from util import load_dimension_examples_from_files
 
 from sentence_transformers import SentenceTransformer
+from transformers import pipeline
 import pandas as pd
 import os
 from typing import List, Dict
@@ -15,7 +19,7 @@ from typing import List, Dict
 embedder = SentenceEmbedder()
 
 # ✅ 加载维度样例（按文本文件管理）
-base_dir = os.path.dirname(os.path.abspath(__file__))  # 获取 main.py 所在目录
+base_dir = os.path.dirname(os.path.abspath(__file__))  # 获取 run_valuation.py 所在目录
 example_dir = os.path.join(base_dir, "scorer_examples")
 DIMENSION_EXAMPLES = load_dimension_examples_from_files(example_dir)
 
@@ -55,7 +59,9 @@ def run_pipeline(records: List[Dict]) -> pd.DataFrame:
         print("📐 Embedding vector (shape):", embedding.shape)
 
         # Step 2: 分类该句子属于哪种能力维度（分类器输出）
-        dimension = classify_capability_dimension(text)
+        # dimension = classify_capability_dimension(text)
+        sentiment_model = pipeline("sentiment-analysis", model="ProsusAI/finbert")
+        dimension = classify_with_emotion_and_semantics(text, scorer, sentiment_model)
         print("🏷️  Classified Dimension:", dimension)
 
         # Step 3: 直接调用 scorer 评分（按分类维度匹配）
@@ -83,14 +89,13 @@ def run_pipeline(records: List[Dict]) -> pd.DataFrame:
 
 # ✅ 示例测试
 if __name__ == "__main__":
-    example_input = [
-        {"firm_id": "BYD", "date": "2025-05-01", "text": "BYD announced a strategic expansion plan."},
-        {"firm_id": "BYD", "date": "2025-05-01", "text": "The reputation of BYD surged on Google Trends."},
-        {"firm_id": "BYD", "date": "2025-05-01", "text": "The company filed 12 new battery patents."},
-        {"firm_id": "TSLA", "date": "2025-05-01", "text": "Tesla launched its tokenized loyalty platform."},
-        {"firm_id": "TSLA", "date": "2025-05-01", "text": "Market perception of Tesla fell sharply after leadership changes."}
-    ]
+    # example_input = generate_test_records(n=100)
+    # df_result = run_pipeline(example_input)
+    # print("\n✅ Pipeline finished.")
 
+    example_df = pd.read_csv("input/example.csv")
+    example_input = example_df.to_dict(orient="records")
     df_result = run_pipeline(example_input)
-    print("\n✅ Pipeline finished.")
+    df_result.to_csv("output/aggregated_result.csv", index=False)
 
+    print("\n✅ Pipeline finished.")

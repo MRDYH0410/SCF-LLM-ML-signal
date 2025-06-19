@@ -23,6 +23,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import shap
 import matplotlib.pyplot as plt
 import joblib
+import seaborn as sns
 
 # ⬇️ 模型训练 + SHAP解释函数
 def compute_valuation_model_with_shap(df: pd.DataFrame, feature_cols: list, target_col: str):
@@ -36,7 +37,13 @@ def compute_valuation_model_with_shap(df: pd.DataFrame, feature_cols: list, targ
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=42
     )
-    model = LGBMRegressor(random_state=42)
+    model = LGBMRegressor(
+        random_state=42,
+        n_estimators=150,  # 增加树数量
+        min_child_samples=15,  # 降低样本门槛
+        num_leaves=11,  # 提高叶子数
+        learning_rate=0.1,  # 轻微降速以便学习复杂关系
+    )
     model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
     mse = mean_squared_error(y_test, y_pred)
@@ -61,6 +68,164 @@ def plot_feature_importance(model, feature_names):
     plt.tight_layout()
     plt.show()
 
+# 预测值与真实值对比分析
+def plot_prediction_vs_actual(y_test, y_pred):
+    plt.figure(figsize=(6, 6))
+    sns.set(style="whitegrid")
+
+    # 散点图 + 对角线
+    sns.scatterplot(x=y_test, y=y_pred, s=50, color="steelblue", alpha=0.6, edgecolor="black", linewidth=0.3)
+    plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'k--', lw=2)
+
+    # 设置标题和标签
+    plt.title("Predicted vs Actual Market Value", fontsize=13, fontweight='bold')
+    plt.xlabel("Actual Market Value", fontsize=11)
+    plt.ylabel("Predicted Market Value", fontsize=11)
+
+    # 坐标轴一致范围（可选）
+    min_val = min(y_test.min(), y_pred.min()) - 1
+    max_val = max(y_test.max(), y_pred.max()) + 1
+    plt.xlim(min_val, max_val)
+    plt.ylim(min_val, max_val)
+
+    plt.grid(True, linestyle='--', alpha=0.5)
+    plt.tight_layout()
+    plt.show()
+
+# 误差分析
+def plot_residuals_vs_actual(y_test, y_pred):
+    residuals = y_pred - y_test
+    plt.figure(figsize=(6, 4))
+    sns.scatterplot(x=y_test, y=residuals)
+    plt.axhline(0, color='red', linestyle='--')
+    plt.xlabel("Actual Market Value")
+    plt.ylabel("Prediction Residuals")
+    plt.title("Residuals vs Actual Market Value")
+    plt.tight_layout()
+    plt.show()
+
+# SHAP图
+def generate_shap_dependence_plot(
+    shap_values, X_train,
+    feature_name="theta_reputation",
+    interaction_index="roe",
+    save_path="output/figure_dependence_reputation_demo.png"
+):
+    """
+    生成类似论文 Figure 4 的 SHAP dependence plot（示意图风格）
+    特征值：X轴，SHAP值：Y轴，颜色：interaction特征（如ROE）
+    """
+
+    # 提取主特征 + SHAP值 + interaction特征
+    x = X_train[feature_name].values
+    shap_val = pd.DataFrame(shap_values, columns=X_train.columns)[feature_name].values
+    color_feat = X_train[interaction_index].values
+
+    # 可视化：模拟 Figure 4 风格
+    plt.figure(figsize=(6, 5))
+    scatter = plt.scatter(
+        x, shap_val,
+        c=color_feat,
+        cmap="coolwarm", edgecolor="k", alpha=0.8
+    )
+    plt.axhline(0, color='gray', linestyle='--', linewidth=1)
+    cbar = plt.colorbar(scatter)
+    cbar.set_label(interaction_index)
+    plt.xlabel("Digital Asset Score: Reputation")
+    plt.ylabel("SHAP Value on Valuation")
+    plt.title("SHAP Dependence Plot")
+    plt.tight_layout()
+    plt.show()
+
+# SHAP summary
+def generate_shap_summary_bar(shap_values, X_train, filename="figure_shap_summary_bar.png"):
+    """
+    生成 SHAP summary bar plot（论文图5风格）：展示特征平均重要性条形图，颜色渐变 + 美观布局
+    """
+
+    # 1. 计算每个特征的 mean(|SHAP|) 值
+    mean_shap = np.abs(shap_values).mean(axis=0)
+    feature_names = X_train.columns
+
+    # 2. 组装为DataFrame，并按重要性升序（便于水平条形图从下往上）
+    summary_df = pd.DataFrame({
+        "Feature": feature_names,
+        "MeanSHAP": mean_shap
+    }).sort_values("MeanSHAP", ascending=True)
+
+    # 3. 配色美化
+    palette = sns.color_palette("viridis", len(summary_df))  # 你可以替换成 "Blues" 等更清淡配色
+
+    # 4. 绘图
+    plt.figure(figsize=(8, 5))
+    sns.barplot(
+        x="MeanSHAP",
+        y="Feature",
+        data=summary_df,
+        palette=palette
+    )
+
+    # 5. 格式优化
+    plt.title("SHAP Summary Plot", fontsize=14)
+    plt.xlabel("Mean(|SHAP Value|)", fontsize=12)
+    plt.ylabel("")  # 不显示y轴标题
+    plt.grid(axis='x', linestyle='--', alpha=0.6)
+    plt.tight_layout()
+    plt.show()
+
+
+# 生成group
+def generate_shap_group_table(shap_values, X_train):
+    """
+    生成 SHAP Attribution by Feature Group 表格（用于论文 Table 4）
+    """
+    # SHAP dataframe
+    shap_df = pd.DataFrame(shap_values, columns=X_train.columns)
+
+    # 分组映射（你可以根据实际变量名调整）
+    group_map = {
+        "Digital Capabilities ($R_{i,t}$)": [
+            "theta_brand", "theta_patent", "theta_crypto", "theta_reputation", "theta_executive"
+        ],
+        "Financial Fundamentals ($Z_{i,t}$)": ["roe", "debt_ratio"],
+        "Macroeconomic Variables ($M_t$)": ["interest_rate", "epu_index"],
+        "Interaction Terms": []  # 可根据需要添加交互项
+    }
+
+    # 汇总每组的平均绝对 SHAP 值
+    group_data = []
+    total_value = 0
+    for group, features in group_map.items():
+        mean_shap = shap_df[features].abs().mean().sum() if features else 0.0
+        group_data.append((group, mean_shap))
+        total_value += mean_shap
+
+    # 构建表格
+    df_group = pd.DataFrame(group_data, columns=["Feature Group", "Mean SHAP Value"])
+    df_group["Share of Total (%)"] = df_group["Mean SHAP Value"] / total_value * 100
+    df_group["Share of Total (%)"] = df_group["Share of Total (%)"].map(lambda x: f"{x:.1f}%")
+    df_group["Ranking"] = df_group["Mean SHAP Value"].rank(ascending=False).astype(int)
+    df_group.sort_values("Ranking", inplace=True)
+
+    df_group.to_csv("output/shap_group_table.csv", index=False)
+
+    return df_group
+
+def plot_shap_force_plot(model, X_train, sample_index=0, save_path="output/shap_force_plot.png"):
+    explainer = shap.TreeExplainer(model)
+    shap_values = explainer.shap_values(X_train)
+    sample_shap = shap_values[sample_index]
+    contributions = pd.Series(sample_shap, index=X_train.columns).sort_values()
+    colors = ['red' if val < 0 else 'green' for val in contributions]
+
+    plt.figure(figsize=(8, 4))
+    contributions.plot(kind='barh', color=colors)
+    plt.title("SHAP Force-like Plot (Single Firm Observation)")
+    plt.xlabel("Contribution to Predicted Valuation")
+    plt.tight_layout()
+    plt.show()
+
+
 # ⬇️ 保存模型函数
 def save_model_to_disk(model, path="valuation_model_lgbm.pkl"):
     joblib.dump(model, path)
@@ -70,8 +235,8 @@ def save_model_to_disk(model, path="valuation_model_lgbm.pkl"):
 if __name__ == "__main__":
     # 合成数据生成
     np.random.seed(42)
-    firms = [f"Firm_{i}" for i in range(20)]
-    dates = pd.date_range("2022-01-01", periods=8, freq="Q")
+    firms = [f"Firm_{i}" for i in range(80)]
+    dates = pd.date_range("2022-01-01", periods=6, freq="Q")
     rows = []
 
     for firm in firms:
@@ -94,7 +259,7 @@ if __name__ == "__main__":
                 10 * row["theta_crypto"] + 15 * row["theta_reputation"] +
                 18 * row["theta_exec"] + 80 * row["roe"] -
                 30 * row["debt_ratio"] - 200 * row["interest_rate"] -
-                0.1 * row["epu_index"] + np.random.normal(0, 3)
+                0.1 * row["epu_index"] + np.random.normal(0, 8)
             )
             rows.append(row)
 
