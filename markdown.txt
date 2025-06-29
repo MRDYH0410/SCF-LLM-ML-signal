@@ -1,0 +1,204 @@
+| 模型名称                                      | 类型            | 实际用途                                                                | 在代码中的位置                                   |
+| ----------------------------------------- | ------------- | ------------------------------------------------------------------- | ----------------------------------------- |
+| `SentenceTransformer("all-MiniLM-L6-v2")` | 🔶 语义嵌入模型     | 🔹对每个句子和维度示例做**语义相似度打分**<br>🔹产生最终打分值 → `score_all`, `score_ranked` | `Scorer` 类全流程                             |
+| `ProsusAI/finbert`                        | 🔷 财经情绪分析模型   | 🔹辅助判断句子情绪（positive/negative）<br>🔹情绪作为**加权因子参与维度分类**               | `classify_with_emotion_and_semantics()` 中 |
+| `dslim/bert-base-NER`                     | 🔶 NER 实体识别模型 | 🔹识别人名、公司名、组织名、地点等<br>🔹目前仅用于实体展示（无参与打分）                            | `extract_named_entities()` 中              |
+
+
+
+example:
+| 维度                          | 子类编号 | 子类主题方向    | 关键词示意             | 商业情境构造说明           | 示例语句                           |
+| --------------------------- | ---- | --------- | ----------------- | ------------------ | ------------------------------ |
+| 🔺 **brand\_positive**      | 1    | 客户满意与口碑   | 好评、复购、品牌体验        | 用户主动表达良好体验或社群反馈    | “Walmart 的门店服务赢得了大量顾客称赞。”      |
+|                             | 2    | 市场口碑传播    | 传播、品牌热度、模仿        | 品牌活动受到模仿或转发热议      | “Tesla 的新广告引发 TikTok 大量二创。”    |
+|                             | 3    | 跨界联名/创新合作 | 联名、生态、品牌溢出        | 与时尚/科技/潮流联动创新      | “Exxon 与环保机构共同打造可持续包装。”        |
+| 🔻 **brand\_negative**      | 1    | 产品/服务负面体验 | 投诉、退货、排队、服务差      | 顾客抱怨产品质量、客服、物流等    | “顾客抱怨 HubSpot 服务无人响应。”         |
+|                             | 2    | 媒体曝光负面    | 曝光、质量门、虚假宣传       | 媒体揭露虚假行为或不实宣传      | “Walmart 因虚假促销被主流媒体点名。”        |
+|                             | 3    | 被抵制或公关危机  | 抵制、恶意营销、下架        | 社交媒体抵制或公关失误        | “Tesla 被批种族歧视，引发大规模抵制。”        |
+| 🔺 **reputation\_positive** | 1    | 企业公益行为    | 捐赠、救灾、绿色出行        | 积极履行社会责任，引起媒体赞扬    | “Chevron 向飓风灾区捐款 2000 万美元。”    |
+|                             | 2    | 政府奖项/认证   | 模范单位、ESG评级        | 获得监管或政府荣誉          | “Brunswick 被授予可持续制造先锋称号。”      |
+|                             | 3    | 员工/供应商口碑  | 雇主品牌、合同满意度        | 员工或外部合作方公开称赞       | “GE 入选福布斯最佳雇主榜单。”              |
+| 🔻 **reputation\_negative** | 1    | 合规问题曝光    | 罚款、垄断、环保违规        | 公司违反规定被调查或处罚       | “Exxon 被指排放超标，遭监管约谈。”          |
+|                             | 2    | 数据/安全事件   | 数据泄露、信息失窃         | 内部系统或客户数据安全问题      | “HubSpot 客户数据被黑客盗取引发担忧。”       |
+|                             | 3    | 丑闻影响声誉    | 舞弊、造假、工人维权        | 丑闻或员工抗议影响外部形象      | “Walmart 工人集体罢工抗议薪资。”          |
+| 🔺 **executive\_positive**  | 1    | 战略坚定与远见   | 布局、转型、引领行业        | 高管展现卓越战略能力         | “Tesla CEO 强调自动驾驶是长期方向。”       |
+|                             | 2    | 合规/中立姿态   | 尊重监管、避免站队         | 公共场合避免政治表态         | “Chevron CEO 表示尊重监管政策。”        |
+|                             | 3    | 激励文化塑造    | 倡导包容、女性领导、员工幸福    | 高管引领积极文化价值观        | “HubSpot CEO 称员工福祉是战略核心。”      |
+| 🔻 **executive\_negative**  | 1    | 高管争议言论    | 推特风波、政治偏见         | 高管私下/公开发表攻击性/不当观点  | “Tesla 高管发布带有种族偏见内容被批。”        |
+|                             | 2    | 涉嫌不当行为    | 醉驾、性骚扰、权力滥用       | 卷入负面丑闻或司法调查        | “Chevron CFO 涉嫌性骚扰辞职。”         |
+|                             | 3    | 越权决策      | 强硬辞退、排斥异议         | 不尊重治理规则或员工声音       | “HubSpot CEO 被指越权解雇数位高管。”      |
+| 🔺 **patent\_positive**     | 1    | 核心技术突破    | 创新、原创、全球首发        | 拥有突破性原创专利          | “GE 公布全球首个 AI 发电调度系统专利。”       |
+|                             | 2    | 绿色/能源相关专利 | 零碳、CCUS、储能、氢能     | 推动新能源与节能方向专利化      | “Chevron 申请新型碳捕集技术专利。”         |
+|                             | 3    | 国际认可      | PCT、USPTO、欧盟专利授权  | 获国际专利组织认证          | “Tesla 磁悬浮系统专利获欧盟授权。”          |
+| 🔻 **patent\_negative**     | 1    | 被控侵权或抄袭   | 山寨、套壳、知识产权诉讼      | 被其他公司起诉或败诉         | “HubSpot 被竞争对手控告算法抄袭。”         |
+|                             | 2    | 夸大宣传无落地   | 宣称、吹牛、产品未实现       | 宣传中所说的专利被质疑无效      | “Exxon 声称突破性电池专利被专家驳斥。”        |
+|                             | 3    | 专利失效/被驳回  | 被吊销、无效、申请失败       | 专利审查失败或技术路线被否定     | “Walmart 新物流专利申请被驳回。”          |
+| 🔺 **crypto\_positive**     | 1    | 支持支付      | BTC支付、USDT支付、钱包支持 | 企业允许用加密货币结算        | “Tesla 支持比特币支付购车。”             |
+|                             | 2    | 战略布局 Web3 | 参投、DAO平台、加密合作     | 企业参与区块链或DAO建设      | “GE 参与建设基于区块链的电网交易系统。”         |
+|                             | 3    | 链上身份/供应链  | 溯源、防伪、智能合约        | 区块链用于业务流程或身份验证     | “Chevron 使用链上合约追踪油品运输。”        |
+| 🔻 **crypto\_negative**     | 1    | 代币价格大跌/跑路 | 破发、跑路、项目倒闭        | 涉及的项目崩溃或投资受损       | “Brunswick 投资的 GameFi 项目清零跑路。” |
+|                             | 2    | 被指违规操作    | 无合规、匿名钱包、SEC诉讼    | 项目违反 KYC、AML 或监管红线 | “Tesla 自有 Token 涉嫌证券化被调查。”     |
+|                             | 3    | 技术安全问题    | 钱包被盗、DDoS、代码漏洞    | 技术架构或钱包出现问题        | “HubSpot 区块链服务被黑客攻击。”          |
+
+
+
+brand_positive_categories = {
+    "1. Award & Recognition": [
+        "recognized", "awarded", "ranked", "honored", "won", "listed"
+    ],
+    "2. Positive Public Image": [
+        "praised", "positive media", "public support", "endorsement", "celebrated"
+    ],
+    "3. Brand Trust & Loyalty": [
+        "trusted", "customer loyalty", "high retention", "brand love", "brand reputation"
+    ],
+    "4. Innovation & Design": [
+        "innovative", "cutting-edge", "design award", "patented", "breakthrough"
+    ],
+    "5. Sustainability & Ethics": [
+        "eco-friendly", "sustainable", "carbon neutral", "ethical sourcing", "green brand"
+    ],
+    "6. Global Presence & Growth": [
+        "global expansion", "international growth", "worldwide reach", "new markets", "overseas success"
+    ],
+    "7. Strategic Partnerships": [
+        "partnered with", "collaborated", "strategic alliance", "brand synergy", "exclusive agreement"
+    ],
+    "8. Social Responsibility Campaigns": [
+        "community outreach", "donation", "CSR campaign", "charity support", "social impact"
+
+
+ brand_negative：
+| 序号  | 细分方向                                     | 涵盖内容关键词例举                 |
+| --- | ---------------------------------------- | ------------------------- |
+| 1️⃣ | Brand Scandals & Public Controversy      | 丑闻、丑闻曝光、公共事件、性骚扰、造假、欺诈    |
+| 2️⃣ | Consumer Complaints & Product Defects    | 质量问题、退货、召回、投诉、服务差         |
+| 3️⃣ | Boycotts & Social Backlash               | 抵制、舆论反弹、网络发起联署、政治敏感言论引发抵制 |
+| 4️⃣ | Misleading Advertising or Branding       | 虚假宣传、夸大其词、误导性承诺、不实广告      |
+| 5️⃣ | Negative Media Coverage or Rankings      | 新闻负面报道、品牌价值下滑、权威评级下降      |
+| 6️⃣ | Brand Dilution or Identity Confusion     | 品牌被滥用、商标侵权、形象混乱           |
+| 7️⃣ | Poor Customer Experience or Loyalty Drop | 客户流失、会员制度崩溃、品牌忠诚度下降       |
+| 8️⃣ | Ethics or Values Misalignment            | 品牌与公众价值观冲突、歧视、性别或种族偏见行为   |
+
+reputation_positive：
+| 序号  | 方向名称                                         | 简要说明                                    |
+| --- | -------------------------------------------- | --------------------------------------- |
+| 1️⃣ | **Strong Ethical Standards**                 | 企业在道德、透明、诚信、合规等方面表现出色，被公众、监管或第三方机构正面认可。 |
+| 2️⃣ | **Environmental Leadership**                 | 在可持续发展、净零排放、绿色供应链等方面展现长期承诺，受到环保团体或公众称赞。 |
+| 3️⃣ | **Social Responsibility & Impact**           | 企业在公益、员工福利、多元包容或教育投资等社会责任方面表现积极。        |
+| 4️⃣ | **Innovation & Industry Leadership**         | 企业被认为在技术创新、产品领先、行业变革方面具有领军地位。           |
+| 5️⃣ | **Crisis Response & Transparency**           | 在重大危机、事故或负面新闻中反应迅速、透明、有责任感，从而树立积极形象。    |
+| 6️⃣ | **Customer Trust & Brand Reputation**        | 企业获得高客户满意度、忠诚度或在品牌声誉榜中长期居高不下。           |
+| 7️⃣ | **Recognition by Reputable Institutions**    | 被政府、专业机构、行业榜单授予荣誉或积极评价。                 |
+| 8️⃣ | **Global Reputation & Diplomatic Alignment** | 企业在国际事务中树立良好形象，或在政治、外交议题中保持中立、稳定地位。     |
+
+reputation_negative：
+| No. | Subcategory                                      | Example Topics / Keywords                                                     |
+| --- | ------------------------------------------------ | ----------------------------------------------------------------------------- |
+| 1️⃣ | **Legal Lawsuits & Corporate Scandals**          | Lawsuits, bribery, insider trading, fraud, accounting scandals                |
+| 2️⃣ | **Privacy Violations & Data Breaches**           | Data misuse, personal data leaks, GDPR violations, consumer trust loss        |
+| 3️⃣ | **Misleading Advertising & Public Deception**    | False claims, exaggerated capabilities, misleading marketing                  |
+| 4️⃣ | **Environmental Harm & Sustainability Neglect**  | Oil spills, emissions violations, deforestation, environmental fines          |
+| 5️⃣ | **Labor Abuse & Employee Mistreatment**          | Worker exploitation, anti-union actions, discrimination, unsafe conditions    |
+| 6️⃣ | **Ethical Controversies & Moral Failures**       | Racism, sexism, harassment, cultural insensitivity, child labor               |
+| 7️⃣ | **Government Investigations & Regulatory Fines** | SEC/EPA probes, antitrust violations, financial penalties                     |
+| 8️⃣ | **Public Trust Erosion & PR Crises**             | Customer backlash, viral boycotts, public outrage, mishandled crisis response |
+
+executive_positive
+| Subcategory | Topic Theme                                       | Keywords (Sample)                                         | Logic (构造逻辑)                                                                    |
+| ----------- | ------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1           | **Alignment with National Policy & Reform**       | support, comply, align, national strategy, dual-carbon    | Executives publicly affirm alignment with government initiatives or reforms.    |
+| 2           | **Promotion of Social Harmony & Core Values**     | law-abiding, equality, inclusivity, anti-extremism        | Proactively advocating for social cohesion, anti-hate, and shared values.       |
+| 3           | **Respect for International & Local Law**         | regulatory compliance, international norms, data security | Affirming commitment to both local and global compliance requirements.          |
+| 4           | **Political Neutrality & Business Focus**         | neutrality, business-centric, no political stance         | Avoiding divisive commentary, emphasizing business mission.                     |
+| 5           | **Crisis Leadership & Transparent Communication** | leadership, open statement, empathy, guidance             | Executive takes accountability and offers public guidance during challenges.    |
+| 6           | **Sustainable Development Advocacy**              | ESG, climate, net-zero, social impact, carbon-neutral     | Championing sustainability and future-oriented global challenges.               |
+| 7           | **Global Collaboration & Innovation Leadership**  | international partnership, R\&D, innovation, cooperation  | Representing the company as a visionary in international innovation leadership. |
+| 8           | **Workforce Empowerment & Ethical Leadership**    | fairness, respect, diversity, employee rights, ethics     | Recognized as a model of fairness, ethics, and respect toward the workforce.    |
+
+
+executive_negative
+| 子方向名称                                             | 描述说明                                                                                                                    |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **1. Excessive Political Commentary**             | Executives frequently express extreme or polarizing political views, especially in public or social media platforms.    |
+| **2. Attacks on Government or Leaders**           | Executives directly insult or criticize government officials or institutions in a provocative or derogatory tone.       |
+| **3. Involvement in Controversial Movements**     | Executives take sides or participate in divisive social or political protests, boycotts, or radical campaigns.          |
+| **4. Misuse of Corporate Platform for Politics**  | Executives use official company channels (statements, social media, events) to promote personal political agendas.      |
+| **5. Ethical Violations or Scandals**             | Executives are involved in fraud, harassment, insider trading, discrimination, or other moral/ethical breaches.         |
+| **6. Leadership Instability or Erratic Behavior** | Executives exhibit irrational decisions, frequent resignations, or hostile work environments affecting corporate image. |
+| **7. Public Disrespect or Insensitive Comments**  | Executives make offensive remarks on social, racial, gender, or religious matters, causing public backlash.             |
+| **8. Abuse of Power or Authoritarian Conduct**    | Executives show autocratic control, suppress dissent, or retaliate against internal critics or whistleblowers.          |
+
+
+patent_positive
+| 类别                  | 主题方向         | 示例关键词                 | 构造逻辑                       | 示例句子（中文示例）                      |
+| ------------------- | ------------ | --------------------- | -------------------------- | ------------------------------- |
+| 🔺 patent\_positive | 核心技术突破       | 原创、首创、世界首个、自主研发、技术领先  | 自主或全球首次发布核心专利，具技术革命性       | “GE 公布全球首个 AI 发电调度系统专利。”        |
+| 🔺 patent\_positive | 绿色/能源相关专利    | 零碳、碳捕集、储能、氢能、可再生      | 发明用于节能减排、绿色能源的专利           | “Chevron 申请新型碳捕集技术专利。”          |
+| 🔺 patent\_positive | 国际权威认证       | USPTO、PCT、欧盟专利局、WIPO  | 专利通过国际机构审查和授权，获得全球性认可      | “Tesla 磁悬浮系统专利获欧盟授权。”           |
+| 🔺 patent\_positive | 行业内率先部署      | 行业首发、领先部署、行业标准        | 在所属行业内率先实现专利转化或投入商业化       | “ExxonMobil 是首家部署碳复合材料壳体的企业。”   |
+| 🔺 patent\_positive | 自动化与AI相关技术突破 | 智能调度、自动驾驶、计算优化、机器学习   | 专利涉及自动化、智能系统、AI等技术，提升效率    | “Tesla 获 AI 驾驶路径规划核心算法专利。”      |
+| 🔺 patent\_positive | 智能制造或工业设备    | 工业4.0、机械臂、智能产线、边缘设备   | 面向制造自动化、工业设备控制类的原创性专利      | “GE 发布工业边缘设备优化算法的专利。”           |
+| 🔺 patent\_positive | 面向用户的产品创新    | 消费者友好、用户交互、智能家居、穿戴设备  | 提升终端用户体验的应用型技术，例如智能终端或交互体验 | “Brunswick 新型可穿戴运动追踪专利引关注。”     |
+| 🔺 patent\_positive | 协作与授权合作      | 技术转让、联合申请、跨国合作、开放创新平台 | 与其他企业/机构合作开发并共享知识产权成果      | “HubSpot 与 MIT 联合获得客户行为预测模型专利。” |
+
+patent_negative
+子方向	描述
+1. 专利侵权诉讼或法律纠纷
+Patent Infringement Lawsuit	公司被第三方控告侵犯其专利权，或因专利无效遭到起诉，带来经济和声誉风险。
+✅（例：GE 被起诉非法使用涡轮专利）
+
+| 2. 专利被判无效或撤销
+Patent Invalidated or Revoked | 已获批专利被法院或监管机构判决无效，丧失技术保护与竞争优势。
+✅（例：Tesla 自研电池专利被 USPTO 驳回）
+
+| 3. 专利覆盖技术落后 / 市场淘汰
+Obsolete or Outdated Patent Technology| 专利所涵盖的技术已过时，不再适用于当前市场需求或被新技术替代。
+✅（例：Chevron 的老式提炼专利失去市场）
+
+| 4. 专利过度申请 / 无实质转化
+Overpatenting with No Real Output | 大量申请专利但无实际产品落地，或被外界质疑是“堆积纸面创新”。
+✅（例：Walmart 提交大量供应链专利但从未部署）
+
+| 5. 专利技术应用失败或造成事故
+Failed Implementation of Patented Tech| 专利技术在实际落地中失败，引发安全事故或客户损失。
+✅（例：Tesla 的自动驾驶技术导致事故）
+
+| 6. 专利侵犯国家安全或数据隐私法规
+Patent Conflicts with Regulations | 专利涉及敏感领域如加密、能源、数据，触犯国家安全或国际出口控制。
+✅（例：ExxonMobil 某加密专利涉嫌出口违规）
+
+| 7. 专利引发行业/舆论争议
+Controversial Patent Scope or Ethics | 专利内容涉及道德边界、劳动压迫、隐私侵犯等问题，引发公众和舆论批评。
+✅（例：HubSpot 的员工监控专利引发隐私争议）
+
+| 8. 专利被竞争对手超越或规避设计
+Competitor Bypass or Superior Tech | 专利技术被竞争对手绕开设计或技术能力迅速超越，失去领先性。
+✅（例：Brunswick 专利技术被低成本中国对手取代）
+
+
+crypto positive
+
+| 类别                      | 主题方向（英文）                                        | 示例关键词（英文）                                               | 构造逻辑说明                                       |
+| ----------------------- | ----------------------------------------------- | ------------------------------------------------------- | -------------------------------------------- |
+| 🔺 **crypto\_positive** | 1. Crypto-based Payments                        | BTC, ETH, USDT, stablecoin, crypto wallet, Lightning    | 企业支持或试点使用加密货币进行商品或服务支付，例如 Tesla 启用比特币购车。     |
+|                         | 2. Web3 / DAO Strategic Investment              | DAO, NFT platform, token economy, Web3, metaverse       | 公司投资或创建 Web3 相关平台、参与 DAO 或发行代币，或积极探索加密生态合作。  |
+|                         | 3. Blockchain-based Supply Chain                | traceability, provenance, smart contracts, tokenized ID | 利用区块链技术追踪商品来源、防伪、自动结算或实现链上身份验证。              |
+|                         | 4. Tokenized Incentive Program                  | reward token, loyalty token, gamification               | 将代币用于员工激励、用户忠诚计划，或作为生态奖励体系一部分。               |
+|                         | 5. Stablecoin Treasury Management               | USDC, USDT, DAI, on-chain reserve                       | 使用稳定币（如USDC）做短期资金配置或提高资金流动效率。                |
+|                         | 6. Integration with DeFi Protocols              | liquidity pool, staking, lending, DeFi vault            | 公司探索 DeFi 协议中资金池或存借贷产品，例如将闲置资金配置至可信 DeFi 平台。 |
+|                         | 7. Participation in Layer 2 / Scaling Solutions | Polygon, Arbitrum, zk-rollup, L2                        | 企业部署或测试扩展性更强的二层网络解决方案，提高链上效率并降低交易成本。         |
+|                         | 8. Public Acknowledgement & Vision              | crypto-ready, digital assets, pro-crypto strategy       | 高管、发言人在报告或采访中公开表达对区块链/加密的认可，传递拥抱数字经济的正面信号。   |
+
+
+crypto negative
+| 方向类别                  | 子类方向                       | 构造逻辑（负面影响）                                |
+| --------------------- | -------------------------- | ----------------------------------------- |
+| 1. **涉足非法或灰色加密交易**    | 涉及未经授权平台、暗网交易、黑市支付等        | 公司或高管被曝使用非法渠道交易数字货币，引发监管调查或负面新闻           |
+| 2. **监管合规缺失**         | 无牌照经营、违反KYC/AML、被罚款、未披露资产  | 被曝未登记为虚拟资产服务商或因违反监管规定（如SEC、FATF）遭处罚或警告    |
+| 3. **虚拟币或NFT骗局/欺诈行为** | 涉嫌发售“空气币”、跑路项目、NFT炒作、误导性宣传 | 公司涉足欺诈性代币项目或NFT欺诈，使投资者受损，引发诉讼或退市风险        |
+| 4. **币价暴跌导致资产大幅缩水**   | 重仓高波动资产、未对冲风险、账面巨亏         | 公司加密持仓遭遇市场暴跌，导致季度财务报表大幅亏损，影响股价与投资人信心      |
+| 5. **使用加密资产进行逃税或避税**  | 使用去中心化钱包避税、资产转移、未申报收入等     | 财务审计或媒体揭露公司利用加密货币手段逃避纳税义务，引发公众批评与罚款       |
+| 6. **安全漏洞与加密资产丢失**    | 钱包被盗、私钥泄露、黑客攻击、平台崩溃        | 公司平台或合作钱包商出现技术问题，导致大额资产损失或客户资产丢失，引起用户集体诉讼 |
+| 7. **与可疑项目或人物合作**     | 与洗钱、犯罪背景项目或组织合作、支持受制裁实体    | 与存在刑事或灰色背景的代币或DAO合作，引起舆论反弹和政府制裁           |
+| 8. **能源消耗与环保批评**      | 高能耗挖矿、碳排放不透明、未披露碳足迹        | 公司被指加密业务中碳排放严重，未采用绿色能源，引发环保组织与社会大众批评      |

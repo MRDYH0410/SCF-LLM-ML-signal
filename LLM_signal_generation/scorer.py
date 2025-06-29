@@ -3,6 +3,7 @@ import joblib                  # 高效的Python对象持久化工具，用于�
 import numpy as np            # 数值处理库
 from sklearn.metrics.pairwise import cosine_similarity  # 用于计算余弦相似度
 from sentence_transformers import SentenceTransformer
+from scipy.special import softmax
 from util import load_dimension_examples_from_files
 
 class Scorer:
@@ -51,6 +52,100 @@ class Scorer:
                     "embeddings": embeddings    # 刚刚生成的嵌入
                 }
 
+    def score_softmax(self, input_text, normalize=False):
+        """
+        改进版打分函数：使用 sigmoid 映射替代 softmax，显著放大维度差异
+        返回格式与 score_all 一致：{dim: [(None, score)]}
+        """
+        input_embedding = self.model.encode([input_text], convert_to_numpy=True)[0]
+        max_similarities = []
+        dimensions = []
+
+        for dim, data in self.dimension_embeddings.items():
+            similarities = cosine_similarity([input_embedding], data["embeddings"])[0]
+            max_sim = np.max(similarities)
+            max_similarities.append(max_sim)
+            dimensions.append(dim)
+
+        def scale_similarity(sim):
+            """ 将余弦相似度映射到 [0.1, 0.95] 区间，放大差异 """
+            scaled = 1 / (1 + np.exp(-10 * (sim - 0.5)))  # sigmoid 放大非线性差异
+            return float(0.85 * scaled + 0.1)  # 映射到 [0.1, 0.95]
+
+        if normalize:
+            # 可选 fallback softmax 分支
+            scores = softmax(max_similarities)
+        else:
+            scores = [scale_similarity(s) for s in max_similarities]
+
+        return {
+            dim: [(None, score)]
+            for dim, score in zip(dimensions, scores)
+        }
+
+    def score_sparse(self, input_text, top_k=2):
+        """
+        稀疏打分方式：只给 top_k 个最相关维度高分，其它维度置为 0
+        每条文本将只在少数维度上获得高分，从而增强区分度
+        :return: dict，格式为 {dimension: [(None, score)]}
+        """
+        input_embedding = self.model.encode([input_text], convert_to_numpy=True)[0]
+        max_similarities = []
+        dimensions = []
+
+        # 计算每个维度中与输入最接近的示例相似度
+        for dim, data in self.dimension_embeddings.items():
+            similarities = cosine_similarity([input_embedding], data["embeddings"])[0]
+            max_sim = np.max(similarities)
+            max_similarities.append(max_sim)
+            dimensions.append(dim)
+
+        # 排序获取 top_k 的维度索引
+        sorted_indices = np.argsort(max_similarities)[::-1]
+        top_indices = sorted_indices[:top_k]
+
+        # 使用强化映射策略（sigmoid 放大 + 非线性缩放）确保区分度
+        def enhanced_mapping(sim):
+            s = 1 / (1 + np.exp(-12 * (sim - 0.5)))  # 强化 sigmoid 差异
+            return float(0.85 * s + 0.1)  # 放缩到 [0.1, 0.95]
+
+        # 构建稀疏结果：只保留 top_k，其它维度为 0.0
+        result = {}
+        for i, dim in enumerate(dimensions):
+            if i in top_indices:
+                score = enhanced_mapping(max_similarities[i])
+            else:
+                score = 0.0
+            result[dim] = [(None, score)]
+
+        return result
+
+    def score_ranked(self, input_text, top_k=2):
+        """
+        使用相对排名的方法打分：Top-K 维度给高分，其他维度为低分或 0
+        得分分布固定为：前两名 [0.95, 0.85]，第三名后统一给 0.2 或更低
+        """
+        input_embedding = self.model.encode([input_text], convert_to_numpy=True)[0]
+        max_similarities = []
+        dimensions = []
+
+        for dim, data in self.dimension_embeddings.items():
+            similarities = cosine_similarity([input_embedding], data["embeddings"])[0]
+            max_sim = float(np.max(similarities))
+            max_similarities.append(max_sim)
+            dimensions.append(dim)
+
+        # 对相似度进行排序
+        ranked = sorted(zip(dimensions, max_similarities), key=lambda x: x[1], reverse=True)
+
+        # 得分分配规则
+        base_scores = [0.95, 0.85, 0.2, 0.1, 0.05, 0.0]  # 按名次映射
+        result = {}
+        for idx, (dim, sim) in enumerate(ranked):
+            score = base_scores[idx] if idx < len(base_scores) else 0.0
+            result[dim] = [(None, score)]
+
+        return result
 
     def score_all(self, input_text, top_k=1):
         """

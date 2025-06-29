@@ -97,4 +97,4 @@ if __name__ == "__main__":
     text = "Apple announced a major brand.txt expansion on Ethereum."
 
     print("Entities:", extract_named_entities(text))
-    print("Classified as:", classify_capability_dimension(text))
+    print("Classified as:", classify_with_emotion_and_semantics(text))

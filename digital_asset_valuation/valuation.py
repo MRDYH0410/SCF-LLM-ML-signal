@@ -52,12 +52,6 @@ def compute_valuation_model_with_shap(df: pd.DataFrame, feature_cols: list, targ
     shap_values = explainer.shap_values(X_train)
     return model, shap_values, explainer, {"mse": mse, "r2": r2}, X_train
 
-# ⬇️ 生成 SHAP 可视化
-def generate_shap_visualizations(explainer, shap_values, X_train):
-    shap.summary_plot(shap_values, X_train)
-    if "theta_brand" in X_train.columns:
-        shap.dependence_plot("theta_brand", shap_values, X_train)
-
 # ⬇️ 画 LightGBM 的特征重要性图
 def plot_feature_importance(model, feature_names):
     importances = model.feature_importances_
@@ -279,7 +273,6 @@ if __name__ == "__main__":
     print(f" - MSE: {metrics['mse']:.2f}")
     print(f" - R²:  {metrics['r2']:.2f}")
 
-    generate_shap_visualizations(explainer, shap_values, X_train)
     plot_feature_importance(model, X_train.columns)
     save_model_to_disk(model)
 
