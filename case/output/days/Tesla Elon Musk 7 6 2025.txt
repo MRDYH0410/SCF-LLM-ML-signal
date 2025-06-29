@@ -1,0 +1,502 @@
+firm_id,date,text
+Tesla,2025-6-7,23:52:08  [MOTFOO] (TSLA.O UBER.N) - Tesla vs. Uber: Which Stock Is the Better Investment as Tesla Prepares for Driverless Car Testing? -
+Tesla,2025-6-7,"23:52:02  [CRYPTT] (TSLA.O) - Trump publicly addresses his feud with Elon Musk, DOGE efforts and Tesla subsidies -"
+Tesla,2025-6-7,"23:47:07  [WALLST] (TSLA.O) - This Wall Street Veteran Thinks Tesla Stock Can Double Over the Next 12-18 Months, But Another Pro Thinks It'll Drop 33% -"
+Tesla,2025-6-7,23:44:09  [EPOTIM] (TSLA.O .NDX) - Trump-Musk Induced Tesla Slide Points to Market Risks From Massive Stocks -
+Tesla,2025-6-7,23:42:07  [MSNUKA] (TSLA.O) - Is this the Tesla stock buying opportunity Ive been waiting for? -
+Tesla,2025-6-7,23:29:22  [NAINIG] (TSLA.O) - Tesla Shares Plunge 14% After Trump-Musk Clash Over Controversial U.S. Spending Bill -
+Tesla,2025-6-7,23:28:10  [YAHNEX] (TSLA.O) - What Elon Musk's feud with Trump means for Tesla shareholders -
+Tesla,2025-6-7,23:17:01  [MOTFOO] (TSLA.O) - Is this the Tesla stock buying opportunity I've been waiting for? -
+Tesla,2025-6-7,23:14:39  [YAHSIN] (TSLA.O) - The head of Tesla's Optimus humanoid robot program leaves the company -
+Tesla,2025-6-7,"23:08:09  [DAIPOL] (TSLA.O) - First Affirmative Financial Network Has $800,000 Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"23:07:22  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Hennion & Walsh Asset Management Inc. -"
+Tesla,2025-6-7,"23:07:16  [DAILYQ] (TSLA.O) - First Affirmative Financial Network Has $800,000 Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,22:52:31  [MIDDAY] (TSLA.O) - Is Musk-Trump battle ending? Tesla CEO deletes controversial Trump post on 'Epstein Files' -
+Tesla,2025-6-7,22:45:35  [MALTAT] (TSLA.O) - Tesla shares crumble as Musk and Trump go head-to-head on social media -
+Tesla,2025-6-7,"22:37:09  [TRADAJ] (TSLA.O) - Blue Zone Wealth Advisors LLC Has $2.01 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,22:28:09  [YAHNEX] (TSLA.O) - High-ranking Tesla executive departs after decade-long run at the company: 'It's hard to put into words' -
+Tesla,2025-6-7,"22:27:12  [BIGNET] (TSLA.O VOLVb.ST) - Kia, Toyota Score Better Than Tesla, Volvo In Euro NCAP ADAS Tests -"
+Tesla,2025-6-7,22:08:14  [ENGADG] (TSLA.O) - The head of Tesla's Optimus humanoid robot program leaves the company -
+Tesla,2025-6-7,"22:07:47  [DAILYQ] (TSLA.O) - Littlejohn Financial Services Inc. Raises Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"22:07:31  [WATNEW] (TSLA.O) - D. Scott Neal Inc. Acquires Shares of 1,553 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"22:07:22  [TICREP] (TSLA.O) - SeaCrest Wealth Management LLC Cuts Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"22:07:21  [TICREP] (TSLA.O) - Littlejohn Financial Services Inc. Buys 3,607 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"22:07:19  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by KFG Wealth Management LLC -"
+Tesla,2025-6-7,"22:07:15  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Arkfeld Wealth Strategies L.L.C. -"
+Tesla,2025-6-7,"22:07:13  [TICREP] (TSLA.O) - KFG Wealth Management LLC Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"22:05:09  [YAHNEX] (TSLA.O PLTR.O) - Dow Jones Futures: S&P 500 Nears Highs, Palantir Leads Buys; What Matters For Tesla -"
+Tesla,2025-6-7,"22:04:08  [DAIPOL] (TSLA.O) - Littlejohn Financial Services Inc. Raises Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,22:02:22  [DAIONL] (TSLA.O) - Tesla shares rebound slightly after $150bn wipe-out triggered by Musk's spat with Trump -
+Tesla,2025-6-7,"21:54:13  [MARBEA] (TSLA.O) - Fiduciary Planning LLC Has $1.79 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,21:50:10  [WNCOMA] (TSLA.O) - Tesla shares rebound slightly after $150bn wipe-out triggered by Musk's spat with Trump -
+Tesla,2025-6-7,21:45:10  [MSNAUS] (TSLA.O) - Tesla shares plummet as Trump and Musks war of words erupts -
+Tesla,2025-6-7,21:44:14  [MINTNE] (TSLA.O) - Donald Trump vs Elon Musk: Can the Tesla boss be deported? POTUS ally's demands fuels big ugly breakup -
+Tesla,2025-6-7,"21:44:10  [MARBEA] (TSLA.O) - Gateway Investment Advisers LLC Trims Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"21:38:09  [MARBEA] (TSLA.O) - Vanguard Capital Wealth Advisors Sells 950 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"21:37:07  [BENZIN] (TSLA.O) - Dan Ives Weighs In On Musk-Trump Drama, Says TSLA Stock Reaction Overblown: 'I Still Believe They're Allies' -"
+Tesla,2025-6-7,21:34:11  [LIVEMI] (TSLA.O) - Donald Trump vs Elon Musk: Can the Tesla boss be deported? POTUS ally's demands fuels big ugly breakup -
+Tesla,2025-6-7,"21:33:07  [DAILYQ] (TSLA.O) - Impact Capital Partners LLC Has $1.42 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"21:32:08  [DAIPOL] (TSLA.O) - Impact Capital Partners LLC Has $1.42 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"21:27:05  [BENZIN] (TSLA.O) - Piers Morgan Hosts Heated Debate On Musk's Legacy: While Kevin O'Leary Defends His Achievements, Scott Galloway Criticizes Tesla CEO's Behavior, Sa... -"
+Tesla,2025-6-7,"21:17:34  [MARBEA] (TSLA.O) - D. Scott Neal Inc. Acquires Shares of 1,553 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,21:13:08  [MSNCAN] (TSLA.O) - Tesla shares rise as Politico reports Musk-White House to hold call -
+Tesla,2025-6-7,"21:11:38  [QUANAV] (TSLA.O) - Tesla stock plunges, layoffs surge, and housing cracks: Markets news roundup -"
+Tesla,2025-6-7,21:10:29  [YAHNEX] (TSLA.O) - Tesla Stock Jumps in Premarket Trading After Sharp Selloff -
+Tesla,2025-6-7,21:10:10  [WNCOMA] (TSLA.O) - Tesla shares rebound slightly after $150bn wipe-out triggered by Musk's spat with Trump | This ... -
+Tesla,2025-6-7,21:08:11  [UNIIND] (TSLA.O) - Elon Musk suggests forming his own political party after Trump feud -
+Tesla,2025-6-7,21:06:32  [FORONL] (TSLA.O) - What Elon Musk's feud with Trump means for Tesla shareholders -
+Tesla,2025-6-7,"21:02:10  [WATNEW] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) CFO Sells $350,000.00 in Stock -"
+Tesla,2025-6-7,"21:01:16  [MARBEA] (TSLA.O) - City State Bank Has $991,000 Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"20:41:11  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Horizon Wealth Management LLC -"
+Tesla,2025-6-7,"20:34:17  [MARBEA] (TSLA.O FXNC.O) - First National Corp MA ADV Increases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,20:27:34  [TICREP] (TSLA.O) - Tesla (NASDAQ:TSLA) Price Target Lowered to $285.00 at The Goldman Sachs Group -
+Tesla,2025-6-7,20:27:32  [WATNEW] (TSLA.O) - The Goldman Sachs Group Lowers Tesla (NASDAQ:TSLA) Price Target to $285.00 -
+Tesla,2025-6-7,20:26:12  [DECHER] (TSLA.O) - Tesla's head of humanoid Optimus robot quits; Ashok Elluswamy to take over -
+Tesla,2025-6-7,20:26:08  [WNCOMA] (TSLA.O) - Reconciliation with Trump? Elon Musk deletes 'Trump is in the Epstein files' tweet -
+Tesla,2025-6-7,20:25:07  [YAHUKI] (TSLA.O) - The Weekend: Tesla's problems mount as Trump-Musk 'bromance' hits the rocks -
+Tesla,2025-6-7,20:13:18  [YAHNEX] (TSLA.O) - Tesla Stock: What Wall Street Is Saying After Brutal Slump -
+Tesla,2025-6-7,"20:05:16  [DAIJAG] (TSLA.O) - Trump-Musk Feud: Tesla CEO Pulls 'Epstein Files' Post, More; Is It A Step Toward Reconciliation? -"
+Tesla,2025-6-7,19:43:42  [MSNCAN] (TSLA.O) - Tesla shares gain as Trump-Musk feud appears to cool -
+Tesla,2025-6-7,"19:42:39  [MARBEA] (TSLA.O) - SeaCrest Wealth Management LLC Cuts Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"19:36:08  [MSNCAN] (EUR= TSLA.O) - Stocks on guard for US jobs data, Tesla shares claw back ground premarket -"
+Tesla,2025-6-7,19:33:43  [INDTVA] (TSLA.O) - Trump-Musk Feud Escalates as Tesla CEO Drops Epstein Claims: What Are the Mysterious Epstein Files? -
+Tesla,2025-6-7,19:26:11  [BUSSTA] (TSLA.O) - Tesla tanks $380 bn after Musk calls Trump's bill 'disgusting abomination' -
+Tesla,2025-6-7,19:23:43  [BUSSTB] (TSLA.O) - Tesla tanks $380 bn after Musk calls Trump's bill 'disgusting abomination' -
+Tesla,2025-6-7,"19:13:38  [MSNCAN] (TSLA.O) - Tesla shares gain after $152 billion selloff, but Trump-Musk truce uncertain -"
+Tesla,2025-6-7,19:12:52  [MINTNE] (TSLA.O) - How much has Tesla lost in 2025 amid Elon Musk's public spat with Donald Trump? -
+Tesla,2025-6-7,"19:12:25  [NOTENG] (TSLA.O STLAM.MI) - Tesla in decline, Stellantis in change: who holds the wheel in the automotive sector? -"
+Tesla,2025-6-7,"19:12:23  [WATNEW] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) CFO Sells 6,000 Shares of Stock -"
+Tesla,2025-6-7,19:12:19  [NOTENG] (TSLA.O) - Musk could lose billions of dollars depending on the outcome of the tug-of-war with Trump -
+Tesla,2025-6-7,"19:12:10  [TICREP] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) CFO Sells $2,046,120.00 in Stock -"
+Tesla,2025-6-7,19:11:59  [BENZIN] (TSLA.O) - Elon Musk's Tesla Optimus Robot Program Head Milan Kovac Steps Down -
+Tesla,2025-6-7,19:01:56  [MENREP] (TSLA.O) - Tesla Weld Cut 160 N (or Analog) Plasma Cutting Apparatus -
+Tesla,2025-6-7,"19:00:08  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stake Boosted by Vest Financial LLC -"
+Tesla,2025-6-7,18:57:10  [AGEAAA] (TSLA.O) - Trump considers getting rid of his Tesla after Musk feud -
+Tesla,2025-6-7,18:52:11  [BRITIN] (TSLA.O) - Trump considers getting rid of his Tesla after Musk feud -
+Tesla,2025-6-7,Don't tell me fiscal discipline isn't popular with general public.
+Tesla,2025-6-7,"18:47:23  [NEWUSN] (TSLA.O) - CORPORATE ACTION IN AUTO SECTOR ON THE NASDAQ STOCK EXCHANGE FRIDAY JUNE 06, 2025 -"
+Tesla,2025-6-7,"18:37:14  [WNCOMA] (TSLA.O) - ""Don't Fight Guys"": Ex-Russia President To Trump, Musk. Tesla CEO Responds -"
+Tesla,2025-6-7,18:34:09  [LUXLUA] (TSLA.O) - Tesla's EV deliveries are seen falling as demand erodes sharply -
+Tesla,2025-6-7,18:21:14  [YAHNEX] (TSLA.O) - Elon Musk's feud with Donald Trump is hugely damaging to Tesla but don't expect any action from the board -
+Tesla,2025-6-7,18:20:32  [PHIINQ] (.IXIC TSLA.O) - US stocks slump as Tesla shares tank on Trump-Musk row -
+Tesla,2025-6-7,17:57:00  [CRYBAS] (TSLA.O) - Many Still Doubt Tesla-Like XRP 10x to 30x Rally as XRP Follows Tesla's Early Fall -
+Tesla,2025-6-7,"The number of doctors in California, for example, is fairly constant, so if the number of patients increase significantly, there will not be enough doctors to take care -"
+Tesla,2025-6-7,17:41:40  [HINDUT] (TSLA.O) - Is Elon Musk floating a new political party after Donald Trump feud? Tesla CEO reveals name -
+Tesla,2025-6-7,17:37:01  [GURCOM] (TSLA.O) - Tesla's Optimus Project Faces Uncertainty as Leader Departs -
+Tesla,2025-6-7,"17:29:08  [NDTNEW] (TSLA.O) - ""Don't Fight Guys"": Ex-Russia President To Trump, Musk. Tesla CEO Responds -"
+Tesla,2025-6-7,17:20:28  [WNCOMA] (TSLA.O) - Tesla shares caught in the middle of Musk-Trump breakup -
+Tesla,2025-6-7,17:15:11  [DAINEW] (TSLA.O) - Trump may get rid of his Tesla after Musk row: official -
+Tesla,2025-6-7,17:03:59  [WNCOMA] (TSLA.O) - Trump is considering selling his Tesla after feuding with Elon Musk -
+Tesla,2025-6-7,"17:01:53  [FREJOU] (TSLA.O) - 'Don't Fight, Guys': Russia Mocks Donald Trump-Elon Musk Feud, Offers Mediation In Peace deal, Asylum To Tesla CEO -"
+Tesla,2025-6-7,"16:58:07  [WNCOMA] (TSLA.O) - Amid Trump-Musk feud, Russia makes BIG offer to Tesla boss, says... -"
+Tesla,2025-6-7,16:58:00  [MINTNE] (TSLA.O) - How much has Tesla lost in 2025 amid Elon Musk's political ambitions and public spat with Donald Trump -
+Tesla,2025-6-7,16:46:17  [LIVEMI] (TSLA.O) - How much has Tesla lost in 2025 amid Elon Musk's political ambitions and public spat with Donald Trump -
+Tesla,2025-6-7,16:40:10  [WNCOMA] (TSLA.O) - Elon Musk LIVE Tesla CEO Musk Snaps In Front Of Donald Trump Trump Tax Cut ... -
+Tesla,2025-6-7,"16:31:50  [INDIAE] (TSLA.O) - Amid Trump-Musk fallout, will Tesla's India story run out of charge before it begins? -"
+Tesla,2025-6-7,16:22:10  [MSNUKA] (TSLA.O) - Tesla seeks to block city of Austin from releasing records on robotaxi trial -
+Tesla,2025-6-7,"16:17:14  [NDTNEW] (TSLA.O) - ""Went Off Cliff Faster Than Tesla"": Late-Night Hosts On Trump-Musk Breakup -"
+Tesla,2025-6-7,16:17:14  [WNCOMA] (TSLA.O) - President Trump's Tesla Model S May Go On Sale Amid Feud With Elon Musk -
+Tesla,2025-6-7,16:06:17  [FORONL] (TSLA.O) - Elon Musk's feud with Donald Trump is hugely damaging to Tesla but don't expect any action from the board -
+Tesla,2025-6-7,15:52:01  [MOTFOO] (TSLA.O) - The Tesla share price could skyrocket next week! -
+Tesla,2025-6-7,15:46:57  [CRYPTT] (TSLA.O) - Retail traders bought $201.3 million worth of Tesla stock -
+Tesla,2025-6-7,15:36:14  [HINBUS] (TSLA.O) - Tesla shares caught in the middle of Musk-Trump breakup -
+Tesla,2025-6-7,15:32:13  [BUSLIN] (TSLA.O) - Tesla shares caught in the middle of Musk-Trump breakup -
+Tesla,2025-6-7,15:28:13  [ETFDAI] (TSLA.O) - Tesla (NASDAQ:TSLA) Shares Gap Down Following Insider Selling -
+Tesla,2025-6-7,15:26:12  [ETFDAI] (TSLA.O) - Tesla (NASDAQ:TSLA) Trading Down 3.8% After Insider Selling -
+Tesla,2025-6-7,15:19:38  [MSNCAN] (TSLA.O) - Tesla shares briefly pare gains on report no plans for Trump-Musk call -
+Tesla,2025-6-7,15:18:40  [NEWSAA] (TSLA.O) - 6m ago Share Trump says Musk has 'lost his mind' as feud fallout mounts 0:00 Subscribers can listen to this article Tesla CEO Elon Musk in the Oval... -
+Tesla,2025-6-7,15:13:40  [BUSSTB] (TSLA.O) - Tesla's head of Optimus humanoid robot programme Milan Kovac exits company -
+Tesla,2025-6-7,"15:12:14  [NOTENG] (TSLA.O) - Trump plans to sell Tesla he bought from Musk, White House says -"
+Tesla,2025-6-7,15:08:09  [NDTNEW] (TSLA.O) - President Trump's Tesla Model S May Go On Sale Amid Feud With Elon Musk -
+Tesla,2025-6-7,15:06:46  [SACBUS] (TSLA.O) - Tesla quietly opens massive collision center at McClellan Park -
+Tesla,2025-6-7,15:01:08  [LIVEMI] (TSLA.O) - How the cybertruck came to embody Tesla's problems -
+Tesla,2025-6-7,14:54:07  [TIMINT] (TSLA.O) - Fact check: Is JD Vance resigning from his role as Vice President over Donald Trump and Elon Musk's feud? Viral claims debunked -
+Tesla,2025-6-7,14:49:06  [WNCOMA] (TSLA.O) - Donald Trump reveals 'true feelings' about fued with Elon Musk: 'Nothing catches me by surprise' -
+Tesla,2025-6-7,14:38:10  [IRITIM] (TSLA.O) - Tesla shares rise after Musk says he is open to making peace with Trump -
+Tesla,2025-6-7,14:24:52  [HINDUT] (TSLA.O) - Russian official takes jibe at US after Trump-Musk spat: 'Why can't we all just get along?' -
+Tesla,2025-6-7,14:18:08  [IDNFIN] (TSLA.O) - Trump vs Musk continues on social media as Tesla shares plunge 14% -
+Tesla,2025-6-7,"14:13:35  [NOTENG] (TSLA.O .SPX) - Rise and fall of Tesla, the stock market icon of the Trump movement -"
+Tesla,2025-6-7,14:12:58  [NOTENG] (TSLA.O) - Russia 'shelters' Elon Musk: Russian MP offers political asylum to Tesla CEO after spat with Trump -
+Tesla,2025-6-7,14:11:46  [NOTENG] (EUR= USD=) - Tesla shares drive Wall Street opening higher -
+Tesla,2025-6-7,14:06:15  [BUSSTB] (TSLA.O) - Musk's trans daughter mocks his feud with Trump: 'Love being proven right' -
+Tesla,2025-6-7,14:06:10  [BUSSTA] (TSLA.O) - Musk's trans daughter mocks his feud with Trump: 'Love being proven right' -
+Tesla,2025-6-7,13:58:08  [BUSTIM] (TSLA.O) - BYD Sealion 7 vs Tesla Model Y: Which should you buy? -
+Tesla,2025-6-7,"13:51:14  [HOLREQ] (TSLA.O) - Bill Maher Compares Musk vs. Trump Rift to 'It Ends With Us' Legal Battle: ""Winner Faces Blake Lively"" -"
+Tesla,2025-6-7,13:38:29  [WNCOMA] (TSLA.O) - How the Cybertruck Came to Embody Tesla's Problems -
+Tesla,2025-6-7,13:33:13  [FIRSTP] (TSLA.O) - 'The America Party': Musk floats a new party amid feud with Trump -
+Tesla,2025-6-7,13:32:08  [WNCOMA] (TSLA.O) - Trump downplays plans to speak with Elon Musk: Hope he does well with Tesla -
+Tesla,2025-6-7,13:30:09  [MIDDAY] (TSLA.O) - Musk threatens to withdraw Dragon capsule from NASA use -
+Tesla,2025-6-7,13:30:05  [YAHNEX] (TSLA.O) - Tesla Stock Plummets. Musk-Trump Spat and 3 Other Things Slamming Shares. -
+Tesla,2025-6-7,13:24:23  [HINDUT] (TSLA.O) - 'Does Musk have access to Epstein files?' Kash Patel reacts to Tesla CEO's 'crazy' Trump claim -
+Tesla,2025-6-7,"13:18:15  [BUSSTB] (TSLA.O) - Trump distances himself from Musk, hints at reviewing govt contracts -"
+Tesla,2025-6-7,13:13:28  [NOTENG] (TSLA.O) - Some investment firms write Tesla off as dead after Musk and Trump's war: its share price is purely speculative -
+Tesla,2025-6-7,"13:13:06  [YAHNEX] (TSLA.O PL.N) - These Stocks Moved the Most Today: Broadcom, Tesla, Circle, Brown-Forman, MongoDB, Planet Labs, ChargePoint, Ciena, and More -"
+Tesla,2025-6-7,13:13:03  [NOTENG] (TSLA.O) - Tesla recovers after fierce fight between Trump and Musk: experts think it's good for the brand to distance itself from the president -
+Tesla,2025-6-7,"13:12:52  [NOTENG] (TSLA.O) - Musk concedes first: after sharp clashes with Trump, billionaire seeks to de-escalate confrontation -"
+Tesla,2025-6-7,13:12:52  [NOTENG] (TSLA.O) - Tesla shares tumble on Wall Street over crossfire between Trump and Musk -
+Tesla,2025-6-7,13:12:37  [NOTENG] (.IXIC TSLA.O) - Wall Street rises on better-than-expected U.S. jobs report; Tesla recovers ground after plunge -
+Tesla,2025-6-7,13:11:36  [NOTENG] (TSLA.O) - The fortune lost by Elon Musk in his fight with Donald Trump -
+Tesla,2025-6-7,"13:02:10  [NEWUSN] (TSLA.O) - CORPORATE ACTION IN AUTO SECTOR ON THE NASDAQ STOCK EXCHANGE FRIDAY JUNE 06, 2025 -"
+Tesla,2025-6-7,"12:59:36  [YAHNEX] (TSLA.O DJT.O) - Stocks to Watch Recap: Tesla, Trump Media, Broadcom, Circle -"
+Tesla,2025-6-7,"12:59:31  [INDTOE] (TSLA.O) - From peace talks to asylum, Russia has a laugh as Trump and Elon Musk feud -"
+Tesla,2025-6-7,12:51:59  [BENZIN] (TSLA.O) - Trump-Musk Feud May Not End Anytime Soon As President Says He Has No Plans To Speak To The Tesla CEO -
+Tesla,2025-6-7,12:47:21  [YAHNEX] (TSLA.O) - Consumer Discretionary Stocks Post Worst Day Since April -
+Tesla,2025-6-7,"12:24:09  [FINSWI] (TSLA.O) - Tesla Shares Plunge 14%, Loses $152 Bln Amid Elon Musk - Donald Trump Fallout -"
+Tesla,2025-6-7,12:17:10  [GULCOM] (TSLA.O) - Tesla's head of Optimus humanoid robot exits company -
+Tesla,2025-6-7,12:13:35  [NOTENG] (TSLA.O) - Bad news for Trump: conspiracy theories linking him to Epstein revived after Elon Musk allegations -
+Tesla,2025-6-7,"12:11:56  [BENZIN] (TSLA.O) - Elon Musk Is A 'Bad Man' Running A 'Bad Company' Says British Green Energy Mogul Dale Vince, Ten Years After Tesla's 'Smash And Grab' Tactics Spark... -"
+Tesla,2025-6-7,"12:00:06  [YAHNEX] (TSLA.O) - Departure of Tesla's humanoid robot boss caps tough week for Elon Musk, amid bitter fallout with Trump -"
+Tesla,2025-6-7,"11:59:06  [YAHSIN] (TSLA.O) - Departure of Tesla's humanoid robot boss caps tough week for Elon Musk, amid bitter fallout with Trump -"
+Tesla,2025-6-7,11:36:06  [WNCOMA] (TSLA.O) - Tesla shares jump 5% after all-out Trump-Musk feud wipes out $150B market value -
+Tesla,2025-6-7,11:35:31  [WNCOMA] (TSLA.O) - Trump wants to get rid of the Tesla he bought to show support for Elon ... -
+Tesla,2025-6-7,11:31:08  [WNCOMA] (TSLA.O) - Tesla already had big problems. Then Musk went to battle with Trump -
+Tesla,2025-6-7,11:31:08  [WNCOMA] (TSLA.O) - Jim Cramer on what the Trump-Musk feud means for Tesla -
+Tesla,2025-6-7,11:20:52  [GLOWEE] (TSLA.O .NDX) - Weekly: Tesla (TSLA: $295.14) in bottom 3% performers of NASDAQ-100 Index in past week; -$51.32 [14.8%] -
+Tesla,2025-6-7,"11:12:13  [NOTENG] (TSLA.O) - Trump plans to sell Tesla he bought from Musk, White House says -"
+Tesla,2025-6-7,"10:48:23  [STOOBS] (TSLA.O) - Breakwater Capital Group Boosts Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"10:48:23  [STOOBS] (TSLA.O) - Intellectus Partners LLC Buys 1,655 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"10:48:12  [STOOBS] (TSLA.O) - MKT Advisors LLC Increases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,10:44:07  [FINSWI] (TSLA.O) - Tesla Stock Rebounds Over 6% Following Political Trump Fallout -
+Tesla,2025-6-7,"10:34:58  [MARDAJ] (TSLA.O) - Breakwater Capital Group Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"10:34:54  [CERGEM] (TSLA.O) - Chesley Taft & Associates LLC Buys 300 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"10:34:44  [CERGEM] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Retirement Planning Group LLC -"
+Tesla,2025-6-7,"When 5.6 million people tell you they're politically homeless, perhaps it's time to bulldoze the entire neighborhood."
+Tesla,2025-6-7,"10:33:41  [CERGEM] (TSLA.O) - Choice Wealth Advisors LLC Buys 100 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,10:33:38  [WNCOMA] (TSLA.O) - Tesla Optimus robotics vice president Milan Kovac is leaving the company -
+Tesla,2025-6-7,"10:33:20  [CERGEM] (TSLA.O) - Annex Advisory Services LLC Sells 474 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"10:33:02  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by MKT Advisors LLC -"
+Tesla,2025-6-7,"10:32:36  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) is Intellectus Partners LLC's 2nd Largest Position -"
+Tesla,2025-6-7,10:29:09  [INDTOE] (TSLA.O) - Tesla team forever: Robot chief Milan Kovac exits with emotional farewell -
+Tesla,2025-6-7,10:14:06  [NOTENG] (TSLA.O) - Political commotion in the United States: How far will the war between Donald Trump and Elon Musk go? -
+Tesla,2025-6-7,10:12:42  [NOTENG] (TSLA.O) - Milei plays for balance between Trump and Musk after fierce fight rocks U.S. politics. -
+Tesla,2025-6-7,10:12:15  [NOTENG] (TSLA.O) - Tesla shares rise on Trump-Elon Musk spat? Here's what happened -
+Tesla,2025-6-7,10:12:12  [YAHNEX] (TSLA.O .SPX) - Tesla sales plunge in key European markets with one shocking exception -
+Tesla,2025-6-7,10:11:07  [YAHNEX] (TSLA.O) - Musk could lose billions of dollars depending on how spat with Trump unfolds -
+Tesla,2025-6-7,09:59:43  [WNCOMA] (TSLA.O) - Head Of Tesla's Optimus Humanoid Robot Program To Exit Firm: Report -
+Tesla,2025-6-7,09:51:09  [WNCOMA] (TSLA.O) - Who gets the cybertruck? Both MAGA World and liberals have turned on Musk's Tesla as ... -
+Tesla,2025-6-7,"09:45:09  [FORONL] (TSLA.O) - Departure of Tesla's humanoid robot boss caps tough week for Elon Musk, amid bitter fallout with Trump -"
+Tesla,2025-6-7,09:42:05  [MEDIAI] (TSLA.O) - House Dem Wants Musk Back on Party's Side After Left Spent Months Calling Tesla CEO a 'Nazi' -
+Tesla,2025-6-7,"09:29:10  [GLOREV] (TSLA.O) - Tesla's Optimus humanoid robot program head exiting firm, Bloomberg News reports -"
+Tesla,2025-6-7,09:12:33  [NOTENG] (TSLA.O) - The government reaffirms the relationship with the United States and avoids pronouncing itself on the internal dispute between Trump and Musk. -
+Tesla,2025-6-7,09:11:53  [INDEPE] (TSLA.O) - Donald Trump says Elon Musk 'has lost his mind' -
+Tesla,2025-6-7,"They want raw truth, real-time updates, and open debate."
+Tesla,2025-6-7,09:04:22  [RTRS] (TSLA.O) - Trump says he has no plans to speak to Musk as feud persists (UPDATE 11) -
+Tesla,2025-6-7,08:46:19  [RTRS] (TSLA.O) - Tesla's head of Optimus humanoid robot program to leave firm (UPDATE 1) -
+Tesla,2025-6-7,08:39:14  [WNCOMA] (TSLA.O) - Watch: What's happening with Trump's Tesla parked at White House? -
+Tesla,2025-6-7,08:35:13  [RTRS] (TSLA.O) - Trump on Musk's government contracts: We'll look at everything -
+Tesla,2025-6-7,"08:34:12  [WNCOMA] (TSLA.O) - US stocks close higher on jobs data, China hopes while Tesla bounces -"
+Tesla,2025-6-7,08:27:48  [NEWUSN] (TSLA.O .NDX) - Tesla (TSLA: $295.14) in top 3% performers of NASDAQ-100 Index; CFO Taneja Vaibhav sells; +$10.44 [+3.7%] Vol Index 1.3 [1 is avg] -
+Tesla,2025-6-7,"08:27:40  [YAHNEX] (.IXIC TSLA.O) - Strong jobs report, Tesla rebound buoy markets as S&P 500 nears all-time highs -"
+Tesla,2025-6-7,"08:23:39  [WNCOMA] (TSLA.O) - Snub of Musk's NASA nominee ally preceded sudden 'big, beautiful bill' criticism, Trump feud -"
+Tesla,2025-6-7,08:19:40  [YAHUKI] (TSLA.O) - A renowned Tesla bear says he's selling stock after Musk's 'disaster' feud with Trump -
+Tesla,2025-6-7,08:19:24  [RTRS] (TSLA.O) - TRUMP ON TESLA: 'I HOPE HE DOES WELL WITH TESLA' -
+Tesla,2025-6-7,"08:15:07  [MSNSOU] (TSLA.O) - Donald Trump refuses to reconcile with Elon Musk for now, Tesla shares plummet following public feud -"
+Tesla,2025-6-7,08:13:11  [NOTENG] (TSLA.O) - White House reveals that Donald Trump plans to sell the Tesla he bought from Elon Musk. -
+Tesla,2025-6-7,"08:12:55  [NOTENG] (TSLA.O) - Red kilometer-zero Tesla S for sale, reason: the White House. -"
+Tesla,2025-6-7,08:12:20  [NOTENG] (TSLA.O) - The government reaffirms the relationship with the United States and avoids pronouncing itself on the internal dispute between Trump and Musk. -
+Tesla,2025-6-7,08:07:18  [CHAASI] (TSLA.O) - Commentary: Tesla is being eaten alive by Chinese rivals it inspired -
+Tesla,2025-6-7,08:06:16  [TRATOP] (TSLA.O) - Tesla's EV Deliveries Dropping as Demand Erodes Sharply -
+Tesla,2025-6-7,08:05:09  [NDTNEW] (TSLA.O) - Head Of Tesla's Optimus Humanoid Robot Program To Exit Firm: Report -
+Tesla,2025-6-7,07:57:15  [ABCNEY] (TSLA.O) - Musk could lose billions of dollars depending on how spat with Trump unfolds -
+Tesla,2025-6-7,07:57:09  [AUSFIO] (TSLA.O) - Musk picks a fight with the White House and Tesla loses -
+Tesla,2025-6-7,07:56:20  [CITYNE] (TSLA.O) - Musk could lose billions of dollars depending on how spat with Trump unfolds -
+Tesla,2025-6-7,07:51:10  [BBCBRI] (TSLA.O) - Watch: What's happening with Trump's Tesla parked at White House? -
+Tesla,2025-6-7,07:45:13  [YAHUKI] (TSLA.O) - Tesla stock jumps after wipeout sparked by the Musk-Trump blowup -
+Tesla,2025-6-7,07:41:55  [CENAFT] (TSLA.O) - Tesla rebounds after plunge and tries to bootstrap in the war between Musk and Trump -
+Tesla,2025-6-7,07:41:47  [MSNUKA] (TSLA.O) - Retail traders scooped up Tesla as Trump-Musk spat hit stock -
+Tesla,2025-6-7,07:41:37  [CENAFT] (TSLA.O) - Tesla shares 'put the pedal to the metal' after biggest loss in 2025 due to Trump-Musk lawsuit -
+Tesla,2025-6-7,07:41:12  [MARBEA] (TSLA.O) - Musk could lose billions of dollars depending on how spat with Trump unfolds -
+Tesla,2025-6-7,"07:40:17  [WNCOMA] (CLF.N DG.N) - The Score: Tesla, Cleveland-Cliffs, Dollar General and More Stocks That Defined the Week -"
+Tesla,2025-6-7,"07:38:28  [MSNSOU] (TSLA.O) - Trump dismisses Musk's call after public fallout, considers selling Tesla -"
+Tesla,2025-6-7,07:33:09  [WNCOMA] (TSLA.O) - Investors dump Tesla on bet Trump may lash out at Musk through his car company -
+Tesla,2025-6-7,07:27:11  [WRAPAA] (TSLA.O) - Kara Swisher Says Trump Has Met His Match in Battle With Elon Musk: 'He Doesn't Mind Chaos' -
+Tesla,2025-6-7,07:20:09  [LIVEMI] (TSLA.O) - Tesla's Head of Optimus Humanoid Robot Program Exits Company -
+Tesla,2025-6-7,07:17:08  [SKYAUS] (TSLA.O) - Trump considers selling his Tesla amid dispute with Elon Musk -
+Tesla,2025-6-7,"07:15:14  [YAHSIN] (TSLA.O) - Tesla's Optimus humanoid robot program head exiting firm, Bloomberg News reports -"
+Tesla,2025-6-7,07:12:54  [NOTENG] (TSLA.O) - Trump plans to sell his Tesla and gives Musk's flagship car the chop -
+Tesla,2025-6-7,07:12:54  [NOTENG] (TSLA.O) - Wall Street back in the green with help from the labor market. Tesla recovers -
+Tesla,2025-6-7,"07:12:19  [NOTENG] (TSLA.O) - Scandal: Musk hints at potential rapprochement, but Trump warns he won't pick up the phone -"
+Tesla,2025-6-7,"07:12:10  [NOTENG] (TSLA.O) - Donald Trump plans to sell the Tesla he bought from Elon Musk, according to the White House. -"
+Tesla,2025-6-7,"07:12:09  [YAHUKI] (TSLA.O) - Tesla's Optimus humanoid robot program head exiting firm, Bloomberg News reports -"
+Tesla,2025-6-7,07:11:49  [NOTENG] (TSLA.O) - Musk and Trump: Tesla mogul suggests reconciliation with U.S. president -
+Tesla,2025-6-7,This is all based on reported numbers and there are no assumptions/forecasts.
+Tesla,2025-6-7,07:10:29  [YAHNEX] (TSLA.O) - Elon Musk & Tesla recap: Why the damage will take time to undo -
+Tesla,2025-6-7,07:05:32  [LIVEMI] (TSLA.O) - Tesla's EV Deliveries Are Seen Falling as Demand Erodes Sharply -
+Tesla,2025-6-7,06:59:18  [WNCOMA] (TSLA.O) - Why Tesla (TSLA) Stock Is Trading Up Today -
+Tesla,2025-6-7,"06:59:07  [RTRS] (TSLA.O) - Tesla's Optimus humanoid robot program head exiting firm, Bloomberg News reports -"
+Tesla,2025-6-7,06:57:12  [NEWUSN] (TSLA.O) - Tesla top gainer in Weitzel Financial Services jumps 15.5% in 66 days; +$12.93 [4.5%] -
+Tesla,2025-6-7,"06:55:57  [RTRS] (TSLA.O TSLA.F) - Tesla shares gain after $152 billion selloff, but Trump-Musk truce uncertain (UPDATE 8) -"
+Tesla,2025-6-7,06:52:17  [MSNCAN] (TSLA.O) - The Unlikely Connections Between History's Greatest Creative Minds -
+Tesla,2025-6-7,06:50:10  [TECHCR] (TSLA.O) - Tesla's Optimus robot VP is reportedly leaving the company -
+Tesla,2025-6-7,06:47:14  [SKYAUS] (TSLA.O) - Donald Trump says he is 'not even thinking' about Elon Musk and claims 'the poor guy's got a problem' after public spat over bill -
+Tesla,2025-6-7,06:46:58  [GURCOM] (TSLA.O) - Tesla (TSLA) Seeks to Protect Confidential Robotaxi Project Details -
+Tesla,2025-6-7,"06:44:10  [RTRS] (TSLA.O SPY.P) - Wall St Week Ahead-US stocks edge toward records with inflation data, policy progress in focus -"
+Tesla,2025-6-7,06:43:15  [NEWUSN] (TSLA.O .NDX) - Tesla (TSLA: $295.14) in top 3% performers of NASDAQ-100 Index; CFO Taneja Vaibhav sells; +$10.44 [+3.7%] Vol Index 1.3 [1 is avg] -
+Tesla,2025-6-7,06:41:57  [GURCOM] (TSLA.O) - Tesla (TSLA) Faces Uncertainty as Key Optimus Project Leader Departs -
+Tesla,2025-6-7,06:38:20  [YAHNEX] (TSLA.O MSFT.O) - Why Tesla (TSLA) Stock Is Trading Up Today -
+Tesla,2025-6-7,06:37:02  [GURCOM] (TSLA.O) - Key Engineering Figure Departs Tesla's (TSLA) Optimus Project | TSLA Stock News -
+Tesla,2025-6-7,"06:35:08  [WPRPRO] (TSLA.O) - E-Cite Motors RJ9 Truck Redefines the EV Market with 900-Mile Range, Rapid Charging, and Unrivaled Luxury - Surpassing Tesla, Rivian, and Legacy OEMs -"
+Tesla,2025-6-7,"06:33:05  [RTRS] (USD= US10YT=RR) - Wall Street posts weekly gains, Treasury yields jump as upbeat jobs data ease economic fears (GLOBAL MARKETS) -"
+Tesla,2025-6-7,06:31:52  [RTRS] (USD= TSLA.O) - Wall Street ends the week on an optimistic tone (LIVE MARKETS) -
+Tesla,2025-6-7,06:30:00  [RTRS] (USD= TSLA.O) - TRADING DAY-Markets rise above the fray -
+Tesla,2025-6-7,06:27:07  [NEWUSN] (TSLA.O) - Tesla top gainer in Weitzel Financial Services jumps 15.5% in 66 days; +$12.93 [4.5%] -
+Tesla,2025-6-7,"06:26:15  [RTRS] (TSLA.O LULU.O) - US stocks end up on jobs data, China hopes; Tesla bounces (US STOCKS) -"
+Tesla,2025-6-7,"06:17:07  [YAHSIN] (TSLA.O) - That Tesla Trump Shilled At The White House? Yeah, He's Selling It. -"
+Tesla,2025-6-7,06:16:56  [BENZIN] (TSLA.O) - 'Tesla's Leader of Optimus Humanoid Robot Program Leaves Company'- Bloomberg -
+Tesla,2025-6-7,06:15:31  [KASREA] (TSLA.O) - Elon Musk thought he could play politics. Now Tesla's paying the price -
+Tesla,2025-6-7,"06:14:07  [FOXNEW] (TSLA.O) - Rep. Randy Fine Pushes Back On Critics Of The Big, Beautiful Bill: 'Every Play Can't Be A Hail May Pass' -"
+Tesla,2025-6-7,06:13:39  [NOTENG] (TSLA.O) - No turning back: Donald Trump now plans to sell the Tesla he bought from Elon Musk -
+Tesla,2025-6-7,06:13:34  [NOTENG] (TSLA.O) - Donald Trump considers ditching his Tesla after Elon Musk controversy -
+Tesla,2025-6-7,06:12:13  [FOXNEW] (TSLA.O) - Caroline Sunshine: This Is Why You Don't Put Two Betta Fish In The Same Bowl -
+Tesla,2025-6-7,06:11:43  [NOTENG] (TSLA.O DJT.O) - Elon Musk loses $34 billion after sharp confrontation with Donald Trump: here's how the controversy unfolded -
+Tesla,2025-6-7,06:11:12  [WNCOMA] (TSLA.O) - Trump shuns call with Musk and considers selling Tesla -
+Tesla,2025-6-7,"06:07:39  [DAIPOL] (TSLA.O) - Magnus Financial Group LLC Purchases 451 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"06:07:20  [YAHUKI] (USD= .IXIC) - Stock market today: S&P 500 closes at 6,000 as Tesla rebounds amid Trump-Musk feud cooldown -"
+Tesla,2025-6-7,"06:07:10  [DAILYQ] (TSLA.O) - Magnus Financial Group LLC Purchases 451 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,06:06:44  [MINTNE] (TSLA.O) - Elon Musk and Donald Trump's big ugly breakup of bromance: From Epstein files to Tesla stock - a timeline -
+Tesla,2025-6-7,"06:06:08  [FOXNEW] (TSLA.O) - Mike Johnson says he hopes Trump, Musk 'reconcile' amid ongoing feud -"
+Tesla,2025-6-7,"06:00:25  [RTRS] (TSLA.O LULU.O) - US stocks end up on jobs data, China hopes; Tesla bounces (US STOCKS) -"
+Tesla,2025-6-7,05:58:10  [WNCOMA] (TSLA.O) - Tesla moves to block release of Austin robotaxi documents -
+Tesla,2025-6-7,"05:52:21  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.72) surges 5.6% on average volume, top rise in today's top 20 rises; +$16.02 [5.6%] -"
+Tesla,2025-6-7,05:52:11  [NEWUSN] (TSLA.O) - Tesla top gainer in Weitzel Financial Services jumps 15.5% in 66 days; +$12.93 [4.5%] -
+Tesla,2025-6-7,05:47:08  [WNCOMA] (TSLA.O) - Watch CNBC's full interview with former Ford CEO Mark Fields -
+Tesla,2025-6-7,05:45:30  [FORIND] (TSLA.O) - Tesla stock claws back 6% after $150B wipeout as Elon Musk-Trump feud escalates -
+Tesla,2025-6-7,05:44:07  [NIPJOU] (TSLA.O) - What the Elon Musk-Trump meltdown means for Tesla stock -
+Tesla,2025-6-7,05:42:11  [YAHIRE] (TSLA.O) - Fake Trump post on Musk's drug use spreads amid blowup -
+Tesla,2025-6-7,05:42:05  [MOTFOO] (.IXIC TSLA.O) - Why Tesla Stock Is Bouncing Higher Today -
+Tesla,2025-6-7,05:39:08  [FUTCOM] (TSLA.O) - Tesla Seems Terrified These Messages About Its Robotaxi Rollout Will Be Released -
+Tesla,2025-6-7,05:38:10  [YAHNEX] (.IXIC TSLA.O) - Why Tesla Stock Is Bouncing Higher Today -
+Tesla,2025-6-7,"05:32:21  [DAIPOL] (TSLA.O) - Ullmann Wealth Partners Group LLC Reduces Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"05:32:10  [DAILYQ] (TSLA.O) - Ullmann Wealth Partners Group LLC Reduces Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"05:32:08  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Edge Wealth Management LLC -"
+Tesla,2025-6-7,"05:32:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.22) jumps 5.5% on firm volume, ranks 2 in today's top 20 rises; +$15.52 [5.5%] Vol Index 1.3 [1 is avg] -"
+Tesla,2025-6-7,"05:32:07  [WATNEW] (TSLA.O) - Edge Wealth Management LLC Has $280,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"05:32:07  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Thurston Springer Miller Herd & Titak Inc. -"
+Tesla,2025-6-7,"05:32:06  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Ullmann Wealth Partners Group LLC -"
+Tesla,2025-6-7,05:32:02  [GURCOM] (TSLA.O) - TSLA Stock Rebounds Amid Market Momentum and Employment Data Boost -
+Tesla,2025-6-7,"05:23:12  [SALMED] (TSLA.O) - ""Lost his mind"": Trump planning to sell Tesla after falling out with Elon Musk -"
+Tesla,2025-6-7,05:23:04  [RTRS] (TSLA.O STLAM.MI) - US declares Biden fuel economy rules exceeded legal authority (UPDATE 2) -
+Tesla,2025-6-7,05:22:23  [INVONL] (TSLA.O) - Musk counts the cost of Trump feud as Tesla stock slumps wiping $150B off value -
+Tesla,2025-6-7,"05:22:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.72) surges 5.6% on average volume, top rise in today's top 20 rises; +$16.02 [5.6%] -"
+Tesla,2025-6-7,"After Trump threatened Musk's contracts, retail investors snapped up $201M in Tesla shares."
+Tesla,2025-6-7,05:19:08  [WASEXA] (TSLA.O) - Kevin O'Leary says Tesla stock owners are 'used to the chaos' -
+Tesla,2025-6-7,05:19:07  [WASEXA] (TSLA.O) - Trump considering ditching his Tesla after breakup with Musk -
+Tesla,2025-6-7,"05:18:40  [RTRS] (USD= US10YT=RR) - Wall Street surges, Treasury yields jump as upbeat jobs report eases economic fears (GLOBAL MARKETS) -"
+Tesla,2025-6-7,05:16:07  [MSNSOU] (TSLA.O) - Elon Musk takes Trump feud to next level with more Epstein files claims: Live updates -
+Tesla,2025-6-7,05:15:09  [YAHUKI] (TSLA.O) - Retail traders scooped up Tesla as Trump-Musk spat hit stock -
+Tesla,2025-6-7,05:14:11  [YAHNEX] (TSLA.O) - Retail traders scooped up Tesla as Trump-Musk spat hit stock -
+Tesla,2025-6-7,"05:13:16  [NOTENG] (TSLA.O) - Trump plans to sell Tesla he bought from Musk, White House says -"
+Tesla,2025-6-7,"05:13:11  [NOTENG] (TSLA.O) - Trump may dump red Tesla he bought from Musk, White House official says -"
+Tesla,2025-6-7,05:11:26  [NOTENG] (TSLA.O) - Tesla shares fall 14% after rift between Trump and Musk -
+Tesla,2025-6-7,05:11:14  [DPAENG] (TSLA.O) - Russian leaders offer advice on Trump-Musk controversy -
+Tesla,2025-6-7,05:10:28  [YAHUKI] (TSLA.O) - TSLA: Tesla Delivery Growth Slumps as Goldman Lowers Forecasts -
+Tesla,2025-6-7,"05:03:07  [INVCOA] (TSLA.O) - Munster comments on Tesla's robotaxi service, set for unveiling amid Musk-Trump drama -"
+Tesla,2025-6-7,05:02:41  [ECOCOM] (TSLA.O) - Did Elon Musk make his biggest mistake by feuding with Donald Trump? Reports say the Tesla CEO is in a spot -
+Tesla,2025-6-7,"04:57:34  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.22) jumps 5.5% on firm volume, ranks 2 in today's top 20 rises; +$15.52 [5.5%] Vol Index 1.3 [1 is avg] -"
+Tesla,2025-6-7,04:57:00  [RTRS] (TSLA.O) - Retail traders scooped up Tesla as Trump-Musk spat hit stock -
+Tesla,2025-6-7,"04:52:23  [GLOSTO] (TSLA.O) - Tesla (TSLA: $299.71) surges 5.3% on robust volume, ranks 2 in today's top 20 rises; +$15.01 [5.3%] Vol Index 1.4 [1 is avg] -"
+Tesla,2025-6-7,04:51:13  [WNCOMA] (TSLA.O) - Tesla moves to block release of Austin robotaxi documents -
+Tesla,2025-6-7,"04:49:05  [WNCOMA] (TSLA.O) - Trump-Musk Feud: Tesla Now Worst-Performing Stock, Loses $380 Billion In 2025 -"
+Tesla,2025-6-7,04:42:10  [FINSWI] (TSLA.O) - Stocks Rally On Strong Jobs Numbers; Tesla Rebounds As Trump-Musk Feud Softens: What's Driving Markets Friday? -
+Tesla,2025-6-7,04:33:33  [RTRS] (TSLA.O LULU.O) - Wall Street stocks rise on jobs data; Tesla bounces (US STOCKS) -
+Tesla,2025-6-7,04:28:12  [WNCOMA] (TSLA.O) - Trump considers getting rid of his Tesla on heels of Elon Musk feud -
+Tesla,2025-6-7,"04:27:05  [WATNEW] (TSLA.O) - Retirement Planning Group LLC Boosts Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,04:23:13  [ECOCOM] (TSLA.O) - Donald Trump not interested in talking to Elon Musk as feud gets nasty - here's what could happen next -
+Tesla,2025-6-7,"04:22:58  [GLOBEA] (.GDAXI .IXIC) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $284.70) Friday June 06, 2025 07:06 EDT -"
+Tesla,2025-6-7,04:22:47  [GLOBEA] (TSLA.O .NDX) - Bottom Performers Past Week: Tesla (TSLA: $284.70) in bottom 1% performers of NASDAQ-100 Index in past week -
+Tesla,2025-6-7,"04:22:14  [WNCOMA] (TSLA.O BARC.L) - Tesla's fundamentals don't matter until it matters, says Barclays' Dan Levy -"
+Tesla,2025-6-7,04:18:11  [YAHUKI] (TSLA.O .NDX) - Trump-Musk induced Tesla slide points to market risks from massive stocks -
+Tesla,2025-6-7,"04:17:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $299.71) surges 5.3% on robust volume, ranks 2 in today's top 20 rises; +$15.01 [5.3%] Vol Index 1.4 [1 is avg] -"
+Tesla,2025-6-7,"04:16:59  [PROUKA] (TSLA.O) - Tesla shares rebound as Wedbush sees Trump-Musk reconciliation as ""huge relief"" for investors -"
+Tesla,2025-6-7,"04:16:33  [LEGINT] (TSLA.O) - Jury Rejects 'Phantom Driver' Claim, Awards $2.9M in Tesla Crash -"
+Tesla,2025-6-7,04:14:08  [YAHNEX] (TSLA.O .NDX) - Trump-Musk induced Tesla slide points to market risks from massive stocks -
+Tesla,2025-6-7,"04:13:22  [RTRS] (XOM.N WEC.N) - U.S. STOCKS ON THE MOVE-WEC Energy, FuelCell Energy, Phathom Pharma (BUZZ) -"
+Tesla,2025-6-7,04:12:12  [MARBEA] (TSLA.O GE.N) - Best Industrial Stocks To Watch Today - June 6th -
+Tesla,2025-6-7,04:11:59  [NOTENG] (TSLA.O) - Trump considering ditching Tesla after Elon Musk controversy -
+Tesla,2025-6-7,"04:11:51  [INVCOM] (TSLA.O) - Munster comments on Tesla's robotaxi service, set for unveiling amid Musk-Trump drama -"
+Tesla,2025-6-7,04:11:28  [WNCOMA] (TSLA.O) - More Bad News For Tesla Amid Musk-Trump Spat: Goldman Forecasts Worst-Ever Quarterly Delivery Growth -
+Tesla,2025-6-7,04:11:09  [WNCOMA] (TSLA.O) - 'Nobody on the right or left is gonna buy a Tesla' - the Trump spat threat to Musk's business empire -
+Tesla,2025-6-7,04:09:10  [ASSMAH] (TSLA.O) - New Volvo EV to Feature High-Tech Seat Belts -
+Tesla,2025-6-7,"04:07:25  [PROINV] (TSLA.O) - Tesla shares rebound as Wedbush sees Trump-Musk reconciliation as ""huge relief"" for investors -"
+Tesla,2025-6-7,04:07:21  [GURCOM] (TSLA.O) - TSLA: Tesla Delivery Growth Slumps as Goldman Lowers Forecasts -
+Tesla,2025-6-7,04:04:07  [WNCOMA] (TSLA.O) - Donald Trump Feud Wipes $34 Billion From Elon Musk's Net Worth -
+Tesla,2025-6-7,04:02:20  [YAHUKI] (TSLA.O) - Trump-Musk feud: Are electric vehicles and Tesla at the heart of the breakup? | Analysis -
+Tesla,2025-6-7,"04:02:11  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.49) jumps 5.5% strengthening above moving average price, ranks 2 in today's top 20 rises; +$15.79 [5.5%] Vol Index 1.5 [1 is avg] -"
+Tesla,2025-6-7,"04:02:10  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.49) jumps 5.5% on robust volume, ranks 2 in today's top 20 rises; +$15.79 [5.5%] Vol Index 1.5 [1 is avg] -"
+Tesla,2025-6-7,04:01:41  [USADAY] (TSLA.O) - Trump-Musk feud: Are electric vehicles and Tesla at the heart of the breakup? | Analysis -
+Tesla,2025-6-7,"03:47:27  [WATNEW] (TSLA.O) - Choice Wealth Advisors LLC Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,03:47:10  [CRYPTV] (TSLA.O) - Musk vs Trump: Why Did Bitcoin Fall... And Will It Fall Further? 21min ago by cryptonews.com -
+Tesla,2025-6-7,03:45:09  [GIZMOD] (TSLA.O) - Trump Could Be the First Person to Turn a Profit on a Used Tesla in Years -
+Tesla,2025-6-7,03:44:11  [WNCOMA] (TSLA.O) - 'Trees Not Tesla': Australian city's protest ignites a war over environment- and Elon Musk -
+Tesla,2025-6-7,"03:39:14  [IOLSOU] (TSLA.O) - AFP | Published 3 minutes ago Trump dismisses Musk's call after public fallout, considers selling Tesla -"
+Tesla,2025-6-7,"03:38:27  [GRAIND] (TSLA.O) - The dispute between Trump and Musk has caused a huge shock in the crypto market, with $124 billion evaporated, and ... -"
+Tesla,2025-6-7,"03:34:11  [ABCNEY] (TSLA.O) - How the Trump-Musk feud is affecting Tesla's stock, other business ventures -"
+Tesla,2025-6-7,"03:33:08  [YAHNEX] (.DJT TSLA.O) - Trump Media, Docusign, Circle post-IPO: Trending Tickers -"
+Tesla,2025-6-7,03:32:22  [THEGRD] (TSLA.O DJT.O) - Tesla share plunge amid Trump feud wipes $152bn off Elon Musk's company -
+Tesla,2025-6-7,"03:32:05  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR263.55) keeps sliding, down 15% in 3 days; -EUR45.40 [-14.7%] Vol Index 5.2 [1 is avg] -"
+Tesla,2025-6-7,03:30:10  [YAHNEX] (TSLA.O) - What does the Trump-Musk feud mean for Tesla stock? Experts weigh in. -
+Tesla,2025-6-7,"03:27:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.49) jumps 5.5% on robust volume, ranks 2 in today's top 20 rises; +$15.79 [5.5%] Vol Index 1.5 [1 is avg] -"
+Tesla,2025-6-7,"03:27:16  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.49) jumps 5.5% strengthening above moving average price, ranks 2 in today's top 20 rises; +$15.79 [5.5%] Vol Index 1.5 [1 is avg] -"
+Tesla,2025-6-7,03:27:11  [ABCNEY] (TSLA.O) - What does the Trump-Musk feud mean for Tesla stock? Experts weigh in. -
+Tesla,2025-6-7,03:24:06  [MSNAUS] (TSLA.O) - Tesla shares rebound on news of Musk and Trump talks after explosive feud cost firm $99bn in a day -
+Tesla,2025-6-7,1:15 JUNE IS HERE FOR TESLA ... Expectations for the rollout of Full Self Driving
+Tesla,2025-6-7,03:18:12  [YAHIRE] (TSLA.O) - Trump looks to unload red Tesla he bought from Elon Musk in March amid titans' nuclear fallout -
+Tesla,2025-6-7,03:18:10  [SILICO] (USD= TSLA.O) - Tesla shares recover some losses as Musk-Trump conflict eases -
+Tesla,2025-6-7,"03:17:31  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by 626 Financial LLC -"
+Tesla,2025-6-7,"03:17:30  [WATNEW] (TSLA.O) - Chesley Taft & Associates LLC Has $805,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"03:17:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.75) surges 5.6% on robust volume, ranks 2 in today's top 20 rises; +$16.05 [5.6%] Vol Index 1.7 [1 is avg] -"
+Tesla,2025-6-7,"03:17:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.75) surges 5.6% strengthening above moving average price, ranks 2 in today's top 20 rises; +$16.05 [5.6%] Vol Index 1.7 [1 is avg] -"
+Tesla,2025-6-7,03:14:59  [RTTNEW] (TSLA.O) - Tesla Stock Rebounds Over 6% Following Political Trump Fallout -
+Tesla,2025-6-7,"03:11:47  [NOTENG] (TSLA.O) - After Musk's attacks, Donald Trump becomes Tesla's new nightmare and threatens to sink its U.S. plans. -"
+Tesla,2025-6-7,03:11:23  [NOTENG] (TSLA.O) - Elon Musk lost US$ 25 billion in a single day after his fierce fight with Trump -
+Tesla,2025-6-7,03:07:29  [WNCOMA] (TSLA.O) - Investors dump Tesla on bet Trump may lash out at Musk through his car company -
+Tesla,2025-6-7,03:02:25  [DAIONL] (TSLA.O) - Report: Trump may sell his brand-new Tesla -
+Tesla,2025-6-7,03:01:10  [MIDDAY] (TSLA.O) - Donald Trump vs Elon Musk fight gets ugly: Tesla CEO's 'Epstein Files' claim explained -
+Tesla,2025-6-7,"02:58:08  [NDTNEW] (TSLA.O) - Trump-Musk Feud: Tesla Now Worst-Performing Stock, Loses $380 Billion In 2025 -"
+Tesla,2025-6-7,02:57:18  [AXIOSB] (TSLA.O) - Trump weighs selling his Tesla as spat with Musk escalates -
+Tesla,2025-6-7,02:56:33  [DIGITA] (TSLA.O) - Tesla shares bounce on hopes Trump-Musk spat will simmer down -
+Tesla,2025-6-7,"02:56:08  [WNCOMA] (TSLA.O LULU.O) - Stocks making the biggest moves midday: Petco Health, Tesla, Circle, Lululemon & more -"
+Tesla,2025-6-7,02:54:59  [RTRS] (TSLA.O) - Elon Musk picks a losing fight with Donald Trump (BREAKINGVIEWS) -
+Tesla,2025-6-7,02:52:25  [SLATEA] (TSLA.O) - How Much Will Elon's Feud With Trump Cost Tesla? -
+Tesla,2025-6-7,"02:52:22  [WNCOMA] (TSLA.O) - Russia Mocks Trump-Musk Spat, Offers To Broker 'Peace Talks' And Give Tesla A Home -"
+Tesla,2025-6-7,"02:42:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.75) surges 5.6% strengthening above moving average price, ranks 2 in today's top 20 rises; +$16.05 [5.6%] Vol Index 1.7 [1 is avg] -"
+Tesla,2025-6-7,"02:42:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.75) surges 5.6% on robust volume, ranks 2 in today's top 20 rises; +$16.05 [5.6%] Vol Index 1.7 [1 is avg] -"
+Tesla,2025-6-7,"02:33:44  [NEONET] (TSLA.O) - Tesla now sells Cybertruck with 0% APR, the biggest discount ever -"
+Tesla,2025-6-7,"02:33:11  [STOOBS] (TSLA.O) - Beacon Financial Group Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,"02:32:59  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Stablepoint Partners LLC -"
+Tesla,2025-6-7,02:29:13  [FORONL] (TSLA.O) - Tesla loses $152 billion in market cap after Musk-Trump spat in the stock's biggest-ever hit -
+Tesla,2025-6-7,02:29:08  [MSNAUS] (TSLA.O) - Tesla stock rises as it rebounds from Trump-Musk public feud -
+Tesla,2025-6-7,02:25:33  [FINBOL] (TSLA.O) - What will happen to Tesla stock if Trump cuts Musk off? -
+Tesla,2025-6-7,02:25:10  [WNCOMA] (TSLA.O) - Tesla offers huge discounts on Cybertruck model as Trump-Musk public spat grows bitter -
+Tesla,2025-6-7,02:25:10  [WNCOMA] (TSLA.O) - Can Donald Trump legally deport Tesla CEO Elon Musk? A look at what U.S. immigration ... -
+Tesla,2025-6-7,02:25:08  [MSNUKA] (TSLA.O) - Tesla stock rises as it rebounds from Trump-Musk public feud -
+Tesla,2025-6-7,"02:25:08  [CERGEM] (TSLA.O) - Oxinas Partners Wealth Management LLC Has $3.99 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-7,02:23:08  [GLOBEA] (TSLA.O .NDX) - Bottom Performers Past Week: Tesla (TSLA: $284.70) in bottom 1% performers of NASDAQ-100 Index in past week -
+Tesla,2025-6-7,"02:22:59  [GLOBEA] (.GDAXI .IXIC) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $284.70) Friday June 06, 2025 07:06 EDT -"
+Tesla,2025-6-7,02:22:18  [TALKMA] (TSLA.O) - Tesla Stock See-Saws As Musk-Trump Drama Takes New Turn -
+Tesla,2025-6-7,"02:21:52  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Holdings Increased by Beacon Financial Group -"
+Tesla,2025-6-7,02:21:06  [TALKMA] (TSLA.O) - Tesla Stock See-Saws As Musk-Trump Drama Takes New Turn -
+Tesla,2025-6-7,02:18:50  [DEUBUS] (TSLA.O) - What Trump-Musk feud means for tech billionaire's business empire -
+Tesla,2025-6-7,"02:17:30  [GLOSTO] (TSLA.O) - Tesla (TSLA: $303.83) jumps 6.7% on robust volume, top rise in today's top 20 rises; +$19.13 [6.7%] Vol Index 1.7 [1 is avg] -"
+Tesla,2025-6-7,"02:17:20  [GLOSTO] (TSLA.O) - Tesla (TSLA: $303.83) jumps 6.7% strengthening above moving average price, top rise in today's top 20 rises; +$19.13 [6.7%] Vol Index 1.7 [1 is avg] -"
+Tesla,2025-6-7,02:15:11  [ZIMMAI] (TSLA.O) - Trump-Musk Feud Reaches Point of No Return as White House Rejects Reconciliation -
+Tesla,2025-6-7,02:13:24  [NOTENG] (TSLA.O) - Trump and Musk's political divorce: a $34 billion loss for the Tesla mogul -
+Tesla,2025-6-7,02:13:24  [YAHNEX] (TSLA.O DJT.O) - Trump Media Stock Bounces After President's Public Dustup With Elon Musk -
+Tesla,2025-6-7,02:13:18  [NOTENG] (TSLA.O) - Short-sellers earned 3.5 billion euros as Tesla shares fell -
+Tesla,2025-6-7,"02:13:17  [ITNEWS] (TSLA.O) - The dispute between Trump and Musk has caused a huge shock in the crypto market, with $124 billion evaporated, and investors have turned to XRP Min... -"
+Tesla,2025-6-7,02:13:10  [NOTENG] (TSLA.O) - Donald Trump wants to get rid of his Tesla after fight with Elon Musk -
+Tesla,2025-6-7,02:10:17  [MATINE] (TSLA.O) - Will Trump sell his red Tesla after the Musk fallout? -
+Tesla,2025-6-7,02:05:11  [ENGADG] (TSLA.O) - Tesla is reportedly blocking the city of Austin from releasing Robotaxi records -
+Tesla,2025-6-7,02:05:11  [WNCOMA] (TSLA.O) - Trump may get rid of his Tesla after row with erstwhile ally Musk -
+Tesla,2025-6-7,02:02:56  [DAIONL] (TSLA.O) - How much Elon Musk stands to lose in Trump spat as his staggering government contracts are revealed -
+Tesla,2025-6-7,02:02:52  [DAIONL] (TSLA.O) - Trump plans to sell his brand new red Tesla to 'stick it' to Musk -
+Tesla,2025-6-7,"02:02:11  [NEWUSN] (TSLA.O .NDX) - Tesla up 6.7%; leads market higher Friday, June 06, 2025 11:00:00 -"
+Tesla,2025-6-7,02:01:42  [RTRS] (TSLA.O .SPX) - Wall Street rises on jobs data optimism; Tesla rebounds (US STOCKS) -
+Tesla,2025-6-7,01:57:36  [INVEZZ] (TSLA.O) - Goldman Sachs sees little upside for Tesla on falling sales volume -
+Tesla,2025-6-7,01:57:34  [INVEZZ] (TSLA.O) - What a war with President Trump could cost Elon Musk's business empire -
+Tesla,2025-6-7,"01:57:11  [INVEZZ] (TSLA.O) - Trump-Musk feud could end up helping Tesla stock, Tom Lee predicts -"
+Tesla,2025-6-7,01:54:14  [ABCNEX] (TSLA.O) - Goodbye Mr. Nice Guy? Investors dump Tesla on bet Trump may lash out at Musk through his car company -
+Tesla,2025-6-7,01:52:32  [GLOSTO] (TSLA.O) - How Tesla's investment commitment under Trump 2.0 compares to the other 58+ companies -
+Tesla,2025-6-7,"01:52:19  [YAHNEX] (TSLA.O) - Tesla Stock Bounces After Musk-Trump Blowup, But Maybe There's More To Thursday's Decline -"
+Tesla,2025-6-7,01:51:12  [WNCOMA] (TSLA.O) - Tesla plunges after conflict between Musk and Trump spills into open -
+Tesla,2025-6-7,"01:50:44  [RTRS] (XOM.N WEC.N) - U.S. STOCKS ON THE MOVE-Tesla, Lululemon, energy stocks, Sunnova (BUZZ) -"
+Tesla,2025-6-7,01:48:18  [GLOTRA] (TSLA.O) - Tesla among top gainers of Weitzel Financial Services holdings; jumps 17% in 66 days; +$19.13 [6.7%] Vol Index 1.7 [1 is avg] -
+Tesla,2025-6-7,"01:47:35  [GLOSTO] (TSLA.O) - Tesla (TSLA: $303.83) jumps 6.7% on robust volume, top rise in today's top 20 rises; +$19.13 [6.7%] Vol Index 1.7 [1 is avg] -"
+Tesla,2025-6-7,"01:47:24  [GLOSTO] (TSLA.O) - Tesla (TSLA: $303.83) jumps 6.7% strengthening above moving average price, top rise in today's top 20 rises; +$19.13 [6.7%] Vol Index 1.7 [1 is avg] -"
+Tesla,2025-6-7,"01:46:33  [WNCOMA] (TSLA.O) - 'Ready to facilitate for a reasonable fee': Russia mocks Donald Trump-Elon Musk feud, offers 'peace talks' & business haven for Tesla CEO -"
+Tesla,2025-6-7,"01:45:09  [YAHNEX] (TSLA.O) - Tesla Stock, Fund With SpaceX Exposure Rebound After Big Selloffs -"
+Tesla,2025-6-7,01:44:09  [YAHNEX] (TSLA.O) - 'Get the popcorn out': Dan Ives warns Tesla shareholders Musk-Trump war may have only just begun -
+Tesla,2025-6-7,01:42:17  [QUANAV] (TSLA.O) - Tesla stock rebounds almost 6%. Wedbush says shares were 'way oversold' on the Trump-Musk breakup -
+Tesla,2025-6-7,"01:41:08  [CHAASI] (TSLA.O) - Tesla shares gain after $152 billion selloff, but Trump-Musk truce uncertain -"
+Tesla,2025-6-7,"01:37:13  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Stablepoint Partners LLC -"
+Tesla,2025-6-7,"01:37:12  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stake Boosted by Oxinas Partners Wealth Management LLC -"
+Tesla,2025-6-7,"01:36:54  [BENZIN] (TSLA.O PONY.O) - Pony.ai Begins Testing Futuristic Robotaxis In China, Mass Rollout Could Be Next -"
+Tesla,2025-6-7,"01:36:34  [RTRS] (USUNR=ECI USNFAR=ECI) - Settling for ""so-so"" over disastrous: A jobs report deep-dive (LIVE MARKETS) -"
+Tesla,2025-6-7,01:36:19  [YAHUKI] (TSLA.O) - Tesla stock rebounds after Trump-Musk blowup leads to $150 billion wipeout -
+Tesla,2025-6-7,01:35:14  [YAHNEX] (TSLA.O) - A renowned Tesla bear says he's selling stock after Musk's 'disaster' feud with Trump -
+Tesla,2025-6-7,01:32:16  [MARBEA] (TSLA.O) - Tesla (NASDAQ:TSLA) Price Target Lowered to $285.00 at The Goldman Sachs Group -
+Tesla,2025-6-7,"01:32:08  [GURCOM] (TSLA.O) - Tesla's Elon Musk Highly Welcomed in Europe, Says EU Spokesperson -"
+Tesla,2025-6-7,"01:32:06  [TRAINE] (TSLA.O) - Tesla Doesn't Want To Make Electric Cars In India, Only Sell Them Here -"
+Tesla,2025-6-7,01:27:12  [FINBUZ] (TSLA.O) - Tesla Rebounds as Investors Hope for Calm After Musk-Trump Feud -
+Tesla,2025-6-7,"01:26:17  [WNCOMA] (TSLA.O) - Tesla's stock has room to fall, says Tusk Ventures' Bradley Tusk -"
+Tesla,2025-6-7,"01:25:13  [YAHUKI] (.IXIC TSLA.O) - Stock market today: Dow, S&P 500, Nasdaq surge after jobs report, Tesla jumps on Musk-Trump cooldown -"
+Tesla,2025-6-7,01:24:15  [LIVEMI] (TSLA.O) - Tesla share price climbs 7% after $152 billion selloff even as Musk-Trump truce uncertain; stock down 20% YTD -
+Tesla,2025-6-7,"01:22:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $297.30) gains 4.4% on robust volume, ranks 2 in today's top 20 rises; +$12.60 [4.4%] Vol Index 1.8 [1 is avg] -"
+Tesla,2025-6-7,"01:22:08  [GLOSTO] (TSLA.O) - Tesla among top gainers of Weitzel Financial Services holdings; climbs 14% in 66 days, ranks 2 in today's top 20 rises; +$12.60 [4.4%] Vol Index 1.... -"
+Tesla,2025-6-7,01:21:10  [MSNUKA] (TSLA.O) - Tesla shares gain as Trump-Musk feud appears to cool -
+Tesla,2025-6-7,"01:19:20  [ECOCOM] (.IXIC TSLA.O) - US stock market rallies as Dow jumps 550 points, S&P 500 tops 6,000, Nasdaq surges and Tesla leads tech comeback after strong jobs report -"
+Tesla,2025-6-7,"01:18:15  [INDCOO] (TSLA.O) - Meet Ashok Elluswamy engineer, brain behind Elon Musk's Tesla's AI success, not from IIT, IIM; earned Bachelor's degree from.. -"
+Tesla,2025-6-7,"01:13:14  [MINTNE] (TSLA.O) - Elon Musk vs Donald Trump feud: What's at stake here as Tesla boss takes on POTUS in this 'big, beautiful' fight? -"
+Tesla,2025-6-7,01:13:12  [WNCOMA] (TSLA.O) - Trump-Musk feud: Here's what's at stake for the Tesla CEO -
+Tesla,2025-6-7,01:12:37  [INDEPE] (TSLA.O) - Musk lost $34 billion in net worth as Tesla stock tanked amid Trump online war -
+Tesla,2025-6-7,01:12:37  [INDEPE] (TSLA.O) - Who gets the cybertruck? Both MAGA World and liberals have turned on Musk's Tesla as Trump divorce turns friends to foe -
+Tesla,2025-6-7,"01:12:13  [RTRS] (USD= US10YT=RR) - Wall Street jumps, Treasury yields advance as upbeat jobs report eases economic fears (GLOBAL MARKETS) -"
+Tesla,2025-6-7,01:09:42  [DAICOP] (TSLA.O) - Tesla Stock Rebounds As Trump-Musk Feud Hits New Lows -
+Tesla,2025-6-7,01:08:10  [NDTNEW] (TSLA.O) - Trump May Get Rid Of His Tesla After Musk Row: Official -
+Tesla,2025-6-7,01:05:20  [WALPIT] (TSLA.O) - Tesla Stock Bounces Back After $150B Trump-Musk Fallout -
+Tesla,2025-6-7,01:02:32  [MIRONL] (TSLA.O) - Donald Trump speaks out on Elon Musk feud and says Tesla CEO has 'lost his mind' -
+Tesla,2025-6-7,"01:01:43  [DNAIND] (TSLA.O) - US President Donald Trump's BIG statement day after his spat with Elon Musk, says 'he lost...' -"
+Tesla,2025-6-7,"01:01:40  [FREJOU] (TSLA.O) - 'Don't Fight Guys!': Amid Tug Of War Between Donald Trump And Elon Musk, Ex-Russian President Dmitry Medvedev Offers To Mediate 'Peace Deal' -"
+Tesla,2025-6-7,"01:01:39  [DAIANA] (TSLA.O) - US President Donald Trump's BIG statement day after his spat with Elon Musk, says 'he lost...' -"
+Tesla,2025-6-7,"01:01:12  [WNCOMA] (TSLA.O) - Red Car, Now Red Face? Trump Considering Selling His Tesla As Elon Musk Feud Heats Up -"
+Tesla,2025-6-7,00:59:22  [GLOREV] (TSLA.O) - Tesla's $380 billion wipeout marks biggest 2025 loss among top companies -
+Tesla,2025-6-7,00:59:17  [SALMED] (TSLA.O) - Elon Musk suffers one of the largest wealth losses ever as Trump feud escalates -
+Tesla,2025-6-7,00:56:15  [MARBEA] (TSLA.O) - Tesla (NASDAQ:TSLA) Shares Gap Up - Here's What Happened -
+Tesla,2025-6-7,00:54:13  [PUNCHA] (TSLA.O) - Elon Musk's net worth plunges $34bn after public spat with Trump -
+Tesla,2025-6-7,00:50:12  [STRMLS] (TSLA.O) - Tesla seeks to block city of Austin from releasing records on robotaxi trial -
+Tesla,2025-6-7,00:47:33  [YAHNEX] (TSLA.O) - Musk-Trump Messy Breakup Wipes Out $150B in TSLA Stock: What's Next? -
+Tesla,2025-6-7,00:47:23  [GLOTRA] (TSLA.O .NDX) - Tesla (TSLA: $297.30) in top 2% performers of NASDAQ-100 Index; +$12.60 [4.4%] Vol Index 1.8 [1 is avg] -
+Tesla,2025-6-7,00:47:22  [THECOM] (TSLA.O) - Every Popcorn Moment on the Day Musk-Trump Exploded -
+Tesla,2025-6-7,"00:47:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $297.30) gains 4.4% on robust volume, ranks 2 in today's top 20 rises; +$12.60 [4.4%] Vol Index 1.8 [1 is avg] -"
+Tesla,2025-6-7,"00:47:04  [GLOSTO] (TSLA.O) - Tesla among top gainers of Weitzel Financial Services holdings; climbs 14% in 66 days, ranks 2 in today's top 20 rises; +$12.60 [4.4%] Vol Index 1.... -"
+Tesla,2025-6-7,00:46:59  [NEWSOW] (TSLA.O) - Trump may get rid of his Tesla after Musk row - official -
+Tesla,2025-6-7,"00:43:17  [ENASCO] (TSLA.O) - Tech analyst warns Musk vs Trump feud ""putting major fear for Tesla investors on what is ahead"" -"
+Tesla,2025-6-7,00:42:15  [YAHIRE] (TSLA.O) - Who gets the cybertruck? Both MAGA World and liberals have turned on Musk's Tesla as Trump divorce turns friends to foe -
+Tesla,2025-6-7,00:41:37  [RTRS] (TSLA.O .SPX) - Wall Street rises on jobs data optimism; Tesla rebounds (US STOCKS) -
+Tesla,2025-6-7,00:38:11  [ECOCOM] (TSLA.O) - Tesla offers huge discounts on Cybertruck model as Trump-Musk public spat grows bitter -
+Tesla,2025-6-7,"00:37:15  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.52) in top 1% performers of NASDAQ-100 Index, top rise in today's top 20 rises; +$15.82 [5.6%] Vol Index 4.2 [1 is avg] -"
+Tesla,2025-6-7,00:36:18  [ECOCOM] (TSLA.O) - Can Donald Trump legally deport Tesla CEO Elon Musk? A look at what U.S. immigration law says -
+Tesla,2025-6-7,00:34:27  [RTRS] (US10YT=RR TSLA.O) - Wall Street rallies after solid jobs report (LIVE MARKETS) -
+Tesla,2025-6-7,00:33:40  [RTRS] (TSLA.O) - From bros to foes: how the unlikely Trump-Musk relationship imploded (UPDATE 2) -
+Tesla,2025-6-7,00:33:16  [POLITI] (TSLA.O) - Trump-Musk split could leave Tesla politically homeless -
+Tesla,2025-6-7,00:32:23  [ZACKSC] (TSLA.O) - Musk-Trump Messy Breakup Wipes Out $150B in TSLA Stock: What's Next? -
+Tesla,2025-6-7,00:32:10  [WALLST] (TSLA.O) - Live Tesla Stock Price Updates June 6: Will Tesla Stock Rebound Amid Musk & Trump Feud? -
+Tesla,2025-6-7,"00:32:10  [DNAIND] (TSLA.O) - After falling out with Donald Trump, Elon Musk's Tesla loses THIS much in one day, equal to value of THIS Tata company... -"
+Tesla,2025-6-7,"00:32:10  [DAIANA] (TSLA.O) - After falling out with Donald Trump, Elon Musk's Tesla loses THIS much in one day, equal to value of THIS Tata company... -"
+Tesla,2025-6-7,00:31:46  [QUANAV] (TSLA.O) - Trump calls Elon Musk 'the man who lost his mind' -
+Tesla,2025-6-7,00:30:20  [INVUKA] (TSLA.O) - Tesla shares surge at the open following largest one-day drop amid Trump-Musk spat -
+Tesla,2025-6-7,00:29:45  [HINDUT] (TSLA.O) - 'Donald Trump and Elon Musk are fighting like two school girls': Vir Das reviews US Pres and Tesla founder's ugly feud -
+Tesla,2025-6-7,"00:29:19  [ENCNEW] (TSLA.O) - Musk 'very welcome' in Europe after Trump bust-up, official says -"
+Tesla,2025-6-7,00:29:17  [WNCOMA] (TSLA.O) - Investors dump Tesla stock following war of words between Elon Musk and Donald Trump -
+Tesla,2025-6-7,00:29:16  [BIGNET] (TSLA.O) - Xinhua Headlines: Bromance ends -- Trump-Musk feud over tax-cut bill explodes into public view -
+Tesla,2025-6-7,00:29:14  [MSNCAN] (TSLA.O) - Tesla shares rebound on news of Musk and Trump talks after explosive feud cost firm $99bn in a day -
+Tesla,2025-6-7,00:29:12  [CHAASI] (TSLA.O) - Tesla seeks to block city of Austin from releasing records on robotaxi trial -
+Tesla,2025-6-7,"00:28:21  [WEBCOM] (TSLA.O) - Elon Musk's father, Errol concludes 6-day India visit; praises green tech leap and cultural depth -"
+Tesla,2025-6-7,"00:28:14  [YAHNEX] (TSLA.O) - Tesla, Inc. (TSLA) Is Caught In A Tough Place, Says Jim Cramer -"
+Tesla,2025-6-7,00:26:17  [WNCOMA] (TSLA.O) - Tesla gives biggest discount on Cybertruck as Trump-Musk trade blows on social media -
+Tesla,2025-6-7,00:26:15  [YAHAUS] (TSLA.O) - Tesla seeks to block city of Austin from releasing records on robotaxi trial -
+Tesla,2025-6-7,00:24:49  [YAHUKI] (TSLA.O) - Trump may get rid of his Tesla after Musk row: official -
+Tesla,2025-6-7,"00:24:16  [WNCOMA] (TSLA.O) - US President Donald Trump\u0026#039;s BIG statement day after his spat with Elon Musk, says \u0026#039;he lost...\u0026#039; -"
+Tesla,2025-6-7,00:22:18  [MEDIAI] (TSLA.O) - Peter Doocy Says Tesla Trump Bought During White House Event Will Be 'Sold or Given Away' Amid Epic Feud -
+Tesla,2025-6-7,00:22:00  [MINTNE] (TSLA.O) - Elon Musk vs Donald Trump: Tesla boss' alleged baby mama Ashley St Claire joins debate; offers POTUS 'breakup advice -
+Tesla,2025-6-7,"00:19:13  [FORSTR] (USD= TSLA.O) - US Payrolls and Tesla help S&P 500 get back above 6,000 -"
+Tesla,2025-6-7,"Tesla seeks to block public access to emails on its self-driving rollout, citing trade secrets."
+Tesla,2025-6-7,00:18:16  [WNCOMA] (TSLA.O) - Tesla stock rises premarket after the Musk-Trump blowup sparked Thursday's wipeout -
+Tesla,2025-6-7,"00:18:14  [SHIUIM] (TSLA.O) - Will create messy environment, huge impact on US: Foreign policy expert on Trump-Musk conflict -"
+Tesla,2025-6-7,"00:17:21  [INSMON] (TSLA.O) - Tesla, Inc. (TSLA) Is Caught In A Tough Place, Says Jim Cramer -"
+Tesla,2025-6-7,00:16:15  [STACHI] (TSLA.O) - Wall Street opens higher on jobs data optimism; Tesla rebounds -
+Tesla,2025-6-7,00:13:21  [NOTENG] (TSLA.O) - I don't even think about the trump speaks after the media fight with musk. -
+Tesla,2025-6-7,00:12:48  [NOTENG] (TSLA.O) - Trump and Musk: the long-rumored contentious divorce with serious and frivolous accusations has arrived -
+Tesla,2025-6-7,00:12:15  [WNCOMA] (TSLA.O) - Tesla's India entry appears in doubt after minister questions intent -
+Tesla,2025-6-7,00:12:14  [QUANAV] (TSLA.O .SPX) - Shorts rake in $4 billion as Tesla stock sinks -
+Tesla,2025-6-7,00:10:17  [NAICOM] (TSLA.O) - Trump may get rid of his Tesla after Musk row: official -
+Tesla,2025-6-7,"00:10:12  [YAHNEX] (AVGO.O TSLA.O) - These Stocks Are Moving the Most Today: Tesla, DJT, Broadcom, Circle, Lululemon, Docusign, Braze, and More -"
+Tesla,2025-6-7,00:09:12  [RTRS] (TSLA.O) - Tesla seeks to block city of Austin from releasing records on robotaxi trial -
+Tesla,2025-6-7,"00:09:10  [CMNW] (TSLA.O F.N) - E Cite Motors RJ9 Truck Redefines the EV Market with 900 Mile Range, Rapid Charging, and Unrivaled Luxury Surpassing Tesla, Rivian, and Legacy OEMs -"
+Tesla,2025-6-7,00:06:09  [LIVEMI] (TSLA.O) - Elon Musk vs Donald Trump: Tesla boss' alleged baby mama Ashley St Claire joins debate; offers POTUS 'breakup advice -
+Tesla,2025-6-7,00:05:30  [YAHNEX] (TSLA.O) - The Trump-Musk rift is realistically 'permanent' after fallout -
+Tesla,2025-6-7,00:03:13  [MSNAUS] (TSLA.O) - Tesla shares rebound on news of Musk and Trump talks after explosive feud cost firm $99bn in a day -
+Tesla,2025-6-7,00:02:47  [LATNIG] (TSLA.O) - Tesla Loses $150 billion as Shares Take A Huge Plunge Following Musk-Trump Feud -
+Tesla,2025-6-7,00:02:27  [PRECIT] (TSLA.O) - Investors dump Tesla on bet Trump may lash out at Musk through his car company -
+Tesla,2025-6-7,00:02:23  [MSNSOU] (TSLA.O) - Does Teslas worst ever day make it the best time to invest? Experts are split -
+Tesla,2025-6-7,"00:02:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $300.52) in top 1% performers of NASDAQ-100 Index, top rise in today's top 20 rises; +$15.82 [5.6%] Vol Index 4.2 [1 is avg] -"

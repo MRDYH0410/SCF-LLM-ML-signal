@@ -1,0 +1,255 @@
+firm_id,date,text
+Tesla,2025-6-2,23:59:07  [NEWUSN] (TSLA.O VFS.O) - VinFast Auto continues to underperform Tesla by 5.1% year to date -
+Tesla,2025-6-2,"23:57:55  [YAHNEX] (TSLA.O) - As Tesla stalls across Europe, sales rise in Norway -"
+Tesla,2025-6-2,23:57:26  [NEWUSN] (TSLA.O GNTX.O) - Gentex continues to underperform Tesla by 10.7% year to date -
+Tesla,2025-6-2,23:57:10  [NEWUSN] (TSLA.O) - How Tesla's investment commitment under Trump 2.0 compares to the other 58+ companies -
+Tesla,2025-6-2,23:47:40  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $346.46) in top 4% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-6-2,"23:44:08  [YAHUKI] (TSLA.O) - As Tesla stalls across Europe, sales rise in Norway -"
+Tesla,2025-6-2,"23:38:00  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Shulman DeMeo Asset Management LLC -"
+Tesla,2025-6-2,"23:37:57  [TRADAJ] (TSLA.O) - Fiduciary Alliance LLC Boosts Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"23:37:54  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Milestone Asset Management LLC -"
+Tesla,2025-6-2,"23:35:38  [STOOBS] (TSLA.O) - Cypress Financial Planning LLC Buys 243 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"23:34:11  [MATINE] (TSLA.O) - Tesla will have a plant in India, Modi and Elon will work it out: Errol Musk | WATCH -"
+Tesla,2025-6-2,23:27:12  [WNCOMA] (TSLA.O) - Why aren't we having Teslas in India?: Elon Musk's father hints at India potential as Tesla skips manufact -
+Tesla,2025-6-2,"23:26:12  [FINGEV] (AMZN.O TSLA.O) - Michael Saylor's Strategy Outperforms Apple, Tesla, Amazon And Other Mag 7 Stocks And It's Not Even Close: Has The 'Bitcoin Treasury' Bet Paid Off? -"
+Tesla,2025-6-2,23:25:20  [WNCOMA] (TSLA.O) - Tesla not interested in local electric vehicle production says India minister -
+Tesla,2025-6-2,"23:24:46  [CERGEM] (TSLA.O) - 2,927 Shares in Tesla, Inc. (NASDAQ:TSLA) Acquired by Sweeney & Michel LLC -"
+Tesla,2025-6-2,23:23:10  [INVEZZ] (TSLA.O) - Tesla not interested in local electric vehicle production says India minister -
+Tesla,2025-6-2,"23:22:07  [RTRS] (VOWG.DE TSLA.O) - Tesla not keen on local production, minister says, as India finalises EV policy (UPDATE 3) -"
+Tesla,2025-6-2,"23:18:14  [NAICOM] (TSLA.O) - As Tesla stalls across Europe, sales rise in Norway -"
+Tesla,2025-6-2,23:17:28  [PROUKA] (TSLA.O) - Tesla marked down ahead of the bell as European sales continue slide -
+Tesla,2025-6-2,23:15:15  [BNEINT] (TSLA.O) - Chinese firms carving up Tesla's once solid brand recognition (COMMENT) -
+Tesla,2025-6-2,"23:15:01  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Milestone Asset Management LLC -"
+Tesla,2025-6-2,23:14:52  [LIVEMI] (BA.N TSLA.O) - Elon Musk laid out plans for Mars. SpaceX production will outstrip Boeing and Airbus -
+Tesla,2025-6-2,23:14:00  [GLOWEE] (TSLA.O .NDX) - Weekly: Tesla (TSLA: $346.46) lifts 2.1% on below average volume; +$7.12 [2.1%] -
+Tesla,2025-6-2,23:13:16  [RTRS] (YMcv1 TSLA.O) - Wall Street set for lower open after Trump's steel tariff threat (US STOCKS) -
+Tesla,2025-6-2,"23:11:31  [TRADAJ] (TSLA.O) - Cypress Financial Planning LLC Buys 243 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"23:10:17  [HANIND] (TSLA.O) - Tesla has to manufacture in India, PM Modi and Elon will work it out soon: Errol Musk -"
+Tesla,2025-6-2,"23:10:00  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Milestone Asset Management LLC -"
+Tesla,2025-6-2,23:09:37  [ECOCOM] (TSLA.O) - Why aren't we having Teslas in India?: Elon Musk's father hints at India potential as Tesla skips manufacturing pitch -
+Tesla,2025-6-2,"23:09:08  [CHIGLO] (TSLA.O) - Tesla executives questioned Musk after he denied killing $25,000 EV project, sources say -"
+Tesla,2025-6-2,23:07:03  [FORONL] (TSLA.O) - Elon Musk is distancing himself from Trump: 'I don't want to take responsibility for everything' -
+Tesla,2025-6-2,23:04:50  [NEWUSN] (TSLA.O VOWG.DE) - Tesla continues to underperform Volkswagen by 27.0% year to date -
+Tesla,2025-6-2,23:04:35  [NEWNYS] (TSLA.O BWA.N) - BorgWarner continues to outperform Tesla by 18.3% year to date -
+Tesla,2025-6-2,"23:02:33  [GLOBUL] (TSLA.O .NDX) - Tesla top gainer in Demars Financial Group soars 35.0% in 59 days Monday June 02, 2025 07:06 EDT -"
+Tesla,2025-6-2,23:01:20  [GLOSTO] (TSLA.O) - Investors concerned as Tesla down in recent days -
+Tesla,2025-6-2,"22:52:49  [HANIND] (TSLA.O) - Tesla has to manufacture in India, PM Modi and Elon will work it out soon: Errol Musk -"
+Tesla,2025-6-2,22:52:47  [YAHNEX] (TSLA.O) - Tesla Stock Is Falling. Is It a 'Sell the News' Month? -
+Tesla,2025-6-2,"22:52:37  [CBTNEW] (TSLA.O) - Trump doubles steel tariffs to 50%, Tesla execs raise concerns, Rivian gets $1B investment from VW -"
+Tesla,2025-6-2,"22:51:39  [RTRS] (TSLA.O) - Tesla executives questioned Musk after he denied killing $25,000 EV project, sources say (UPDATE 1, EXCLUSIVE) -"
+Tesla,2025-6-2,22:47:38  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $346.46) in top 4% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-6-2,"22:37:58  [YAHNEX] (TSLA.O NUE.N) - Dow Jones Futures Fall On U.S.-China Tensions; Palantir, Tesla, Nucor Are Early Movers -"
+Tesla,2025-6-2,22:31:37  [MINTNE] (TSLA.O) - Elon Musk's Tesla not keen on making in India under EV incentive plan: Minister -
+Tesla,2025-6-2,"22:27:15  [WATNEW] (TSLA.O) - Sweeney & Michel LLC Makes New Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"Ashok, who now leads the team, was the first person I interviewed."
+Tesla,2025-6-2,"then it took only 3 years to go from 1,000 to 2,000 TWh."
+Tesla,2025-6-2,22:20:01  [LIVEMI] (TSLA.O 005380.KS) - Elon Musk's Tesla not keen on making in India under EV incentive plan: Minister -
+Tesla,2025-6-2,"India will permit companies to import electric vehicles which are valued at min $35,000 (~30 lakhs) at just 15% custom duty."
+Tesla,2025-6-2,A prime example is the British Empire. In many places it occupied it:
+Tesla,2025-6-2,"22:18:15  [CRYPTV] (AMZN.O TSLA.O) - Michael Saylor's Strategy Outperforms Apple, Tesla, Amazon And Other Mag 7 Stocks And It's Not Even Close: Has The 'Bitcoin Treasury' Bet Paid Off?... -"
+Tesla,2025-6-2,22:17:12  [GLOWEE] (TSLA.O .NDX) - Weekly: Tesla (TSLA: $346.46) lifts 2.1% on below average volume; +$7.12 [2.1%] -
+Tesla,2025-6-2,"22:12:28  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $346.46) Monday June 02, 2025 07:06 EDT -"
+Tesla,2025-6-2,"22:12:02  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $346.46) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday June 02, 2025 07:06 EDT -"
+Tesla,2025-6-2,22:11:32  [WNCOMA] (TSLA.O) - Did Elon Musk mislead investors about Tesla's future EV plans? What you need to know -
+Tesla,2025-6-2,22:10:09  [PATCHA] (TSLA.O) - Tesla Service Center Property Hits The Market In Milford -
+Tesla,2025-6-2,"22:05:10  [STACHI] (TSLA.O) - Tesla executives questioned Musk after he denied killing $25,000 EV project - sources -"
+Tesla,2025-6-2,22:03:59  [YAHNEX] (TSLA.O) - Tesla attempts to backtrack with new incentives and discounts as sales plummet: 'Truly pulling all demand levers' -
+Tesla,2025-6-2,22:00:03  [GLOBUL] (.IXIC TSLA.O) - Top Performers Monthly: Tesla (TSLA: $346.46) in top 4% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-6-2,21:58:27  [ECOCOM] (TSLA.O) - Elon Musk's uneasy encounter: He dodged a question on Trump policies. Here's what the Tesla CEO was asked -
+Tesla,2025-6-2,"21:54:58  [ZAWYA] (TSLA.O) - PRESSR: 55th Watch and Jewellery Middle East Show concludes on a high note with world records and 87,000+ visitors -"
+Tesla,2025-6-2,21:54:43  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $346.46) in top 4% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-6-2,"21:53:03  [CBTNEW] (TSLA.O) - Tesla execs raise red flags after Musk denied $25K EV cancellation, Reuters reports -"
+Tesla,2025-6-2,21:51:10  [GLOWEE] (TSLA.O .NDX) - Weekly: Tesla (TSLA: $346.46) lifts 2.1% on below average volume; +$7.12 [2.1%] -
+Tesla,2025-6-2,Overall electric vehicle sales in both markets rose by almost a quarter in May.
+Tesla,2025-6-2,"Tesla's May sales plunged up to 68% in key EU markets, with backlash against Elon Musk and lack of new models fueling the decline."
+Tesla,2025-6-2,"21:34:11  [MARBEA] (TSLA.O) - Arlington Financial Advisors LLC Has $3.96 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"21:27:31  [DAILYQ] (TSLA.O) - Future Financial Wealth Managment LLC Purchases 300 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"21:27:22  [DAIPOL] (TSLA.O) - Future Financial Wealth Managment LLC Purchases 300 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,21:24:34  [RTRS] (TSLA.O 9868.HK) - Tesla's European sales rout continues but new Model Y boosts Norway deliveries -
+Tesla,2025-6-2,"21:22:01  [BENZIN] (TSLA.O 9866.HK) - China's NIO Clocks 13% Deliveries Growth In May, Tesla Lags -"
+Tesla,2025-6-2,21:17:16  [INVEZZ] (TSLA.O) - What makes Tesla stock better than Waymo for a bet on autonomous driving? -
+Tesla,2025-6-2,"21:14:46  [RTRS] (TSLA.O 7035.T) - New Tesla sales in Spain, Portugal fall in May, while other EV sales soar (UPDATE 1) -"
+Tesla,2025-6-2,21:08:52  [DAIEXC] (TSLA.O) - Tesla not interested in manufacturing electric cars in India: Kumaraswamy -
+Tesla,2025-6-2,"21:07:55  [INDTOE] (TSLA.O) - Tesla not ready to Make in India, says Union Minister: Report -"
+Tesla,2025-6-2,21:06:30  [YAHNEX] (TSLA.O) - Tesla Sales Plunge 67% to an Almost Three-Year Low in France -
+Tesla,2025-6-2,21:05:31  [YAHUKI] (TSLA.O) - Tesla Slides After Q1 Miss as Musk Vows to Cut DOGE Time -
+Tesla,2025-6-2,20:51:48  [GLOSTO] (TSLA.O) - Weekly: Tesla (TSLA: $346.46) lifts 2.1% on below average volume; +$7.12 [2.1%] -
+Tesla,2025-6-2,20:48:05  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $346.46) in top 4% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-6-2,"20:47:41  [WATNEW] (TSLA.O) - Mid American Wealth Advisory Group Inc. Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"20:45:09  [YAHIRE] (TSLA.O) - New Tesla sales in Spain fall 29% in May, while other EV sales soar -"
+Tesla,2025-6-2,20:35:15  [INDCOO] (TSLA.O) - Bad news for Tesla lovers in India as world's richest man Elon Musk.... -
+Tesla,2025-6-2,20:35:11  [ECOCOM] (TSLA.O) - Did Elon Musk mislead investors about Tesla's future EV plans? What you need to know -
+Tesla,2025-6-2,"20:33:19  [WNCOMA] (TSLA.O) - Elon Musk's Tesla 'not interested' to produce, manufacture in India, says Union minister HD Kumaraswamy -"
+Tesla,2025-6-2,"20:31:11  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Worth Asset Management LLC -"
+Tesla,2025-6-2,"20:30:33  [RTRS] (TSLA.O) - New Tesla sales in Spain fall 29% in May, while other EV sales soar -"
+Tesla,2025-6-2,"20:30:14  [MINTNE] (TSLA.O) - Why is Errol Musk, father of Tesla CEO Elon Musk, in India for 5 days? Check details of his visit -"
+Tesla,2025-6-2,"20:30:11  [ECOCOM] (TSLA.O) - Tesla executives question Musk after he denies killing $25,000 EV project: Sources -"
+Tesla,2025-6-2,"20:20:24  [HINDUT] (TSLA.O) - Elon Musk's Tesla 'not interested' to produce, manufacture in India, says Union minister HD Kumaraswamy -"
+Tesla,2025-6-2,"20:18:08  [YAHUKI] (TSLA.O) - Exclusive-Tesla executives questioned Musk after he denied killing $25,000 EV project - sources -"
+Tesla,2025-6-2,"20:18:05  [TRADAJ] (TSLA.O) - Baker Tilly Wealth Management LLC Increases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"20:17:15  [YAHIRE] (TSLA.O) - Exclusive-Tesla executives questioned Musk after he denied killing $25,000 EV project - sources -"
+Tesla,2025-6-2,"20:15:17  [YAHSIN] (TSLA.O) - Exclusive-Tesla executives questioned Musk after he denied killing $25,000 EV project - sources -"
+Tesla,2025-6-2,"20:15:13  [YAHNEX] (TSLA.O) - Exclusive-Tesla executives questioned Musk after he denied killing $25,000 EV project - sources -"
+Tesla,2025-6-2,"20:14:46  [YAHCAN] (TSLA.O) - Exclusive-Tesla executives questioned Musk after he denied killing $25,000 EV project - sources -"
+Tesla,2025-6-2,"20:13:09  [AUTCOO] (TSLA.O) - Waymo leads autonomy race, but Tesla could quickly close gap in competition of 'heavyweights' -"
+Tesla,2025-6-2,20:12:10  [MSNUKA] (TSLA.O) - Tesla's sale in Norway rises 213% year-on-year in May -
+Tesla,2025-6-2,"20:10:10  [LIVEMI] (TSLA.O) - Tesla not keen on local production, minister says, as India finalises EV policy -"
+Tesla,2025-6-2,"20:05:16  [NJCOMA] (TSLA.O) - Today's audio update: Workers say toxic waste is killing them, Tesla chargers leaving Turnpike, school named for astronaut closing -"
+Tesla,2025-6-2,"20:04:27  [KASMON] (TSLA.O) - Tesla not looking to manufacture in India, says minister -"
+Tesla,2025-6-2,20:01:15  [WNCOMA] (TSLA.O) - 3 members of the 'Tesla mafia' share what they learned from Elon Musk's company -
+Tesla,2025-6-2,"20:00:00  [RTRS] (XAU= US10YT=RR) - US stocks weekly: Topsy-turvy (RPT, BUZZ) -"
+Tesla,2025-6-2,"20:00:00  [RTRS] (TSLA.O) - Tesla executives questioned Musk after he denied killing $25,000 EV project - sources (EXCLUSIVE) -"
+Tesla,2025-6-2,19:59:17  [GLOREV] (TSLA.O) - Tesla's sale in Norway rises 213% year-on-year in May -
+Tesla,2025-6-2,19:53:13  [DECCHR] (TSLA.O) - Tesla Not Interested In Manufacturing in India: Minister HD Kumaraswamy -
+Tesla,2025-6-2,"19:51:16  [ECOCOM] (TSLA.O) - Tesla not interested in manufacturing in India, minister says -"
+Tesla,2025-6-2,"19:50:20  [ARCUKA] (TSLA.O) - Tesla is launching the Robotaxis service in Austin, USA -"
+Tesla,2025-6-2,19:49:19  [TRTWOR] (TSLA.O) - Tesla does not want to manufacture in India: federal minister -
+Tesla,2025-6-2,"19:48:28  [YAHNEX] (TSLA.O) - Tesla sales in Norway soar 213% in May, driven by Model Y demand -"
+Tesla,2025-6-2,19:48:09  [INCAAA] (TSLA.O) - Tesla Not Interested In Manufacturing In India: Union Minister HD Kumaraswamy -
+Tesla,2025-6-2,"19:45:12  [ECOCOM] (TSLA.O) - Tesla unlikely to make in India, will focus only on imports: All you need to know -"
+Tesla,2025-6-2,"19:40:16  [DAIPOL] (TSLA.O MCHB.PK) - 1,113 Shares in Tesla, Inc. (NASDAQ:TSLA) Acquired by Mechanics Bank Trust Department -"
+Tesla,2025-6-2,19:40:09  [UDAIND] (TSLA.O) - Tesla not interested in manufacturing electric cars in India: Kumaraswamy -
+Tesla,2025-6-2,"19:38:06  [TICREP] (TSLA.O MCHB.PK) - Mechanics Bank Trust Department Makes New $288,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"19:37:37  [DAILYQ] (TSLA.O MCHB.PK) - 1,113 Shares in Tesla, Inc. (NASDAQ:TSLA) Acquired by Mechanics Bank Trust Department -"
+Tesla,2025-6-2,19:36:12  [DECHER] (TSLA.O) - Tesla not interested in manufacturing electric cars in India: Kumaraswamy -
+Tesla,2025-6-2,19:33:47  [WNCOMA] (TSLA.O USB.N) - Tesla not interested in manufacturing electric cars in India: Kumaraswamy -
+Tesla,2025-6-2,19:33:25  [AAFN] (TSLA.O 9988.HK) - ~50 Partners to Leave PwC HK Office This Mth; Multiple Departments Face 20-30% Pay Cuts: Report -
+Tesla,2025-6-2,"19:33:18  [BIGNET] (TSLA.O) - Tesla not interested in manufacturing in India, but many European countries have shown interest: Minister HD Kumaraswamy -"
+Tesla,2025-6-2,19:28:13  [TELTOD] (TSLA.O) - Tesla not interested in manufacturing electric cars in India: Kumaraswamy -
+Tesla,2025-6-2,19:23:26  [HINDUI] (TSLA.O) - Tesla not interested in manufacturing electric cars in India: Kumaraswamy -
+Tesla,2025-6-2,"19:15:48  [LIVEMI] (TSLA.O SERO.NS) - Why is Errol Musk, father of Tesla CEO Elon Musk, in India for 5 days? Check details of his visit -"
+Tesla,2025-6-2,19:15:08  [YAHSIN] (USD= TSLA.O) - Tesla sales in Norway rise 213% year-on-year in May -
+Tesla,2025-6-2,"19:09:16  [INDTVA] (TSLA.O) - Tesla's current focus in India on establishing showrooms, not on manufacturing electric cars: Kumaraswamy -"
+Tesla,2025-6-2,19:09:12  [YAHCAN] (TSLA.O) - 3 members of the 'Tesla mafia' share what they learned from Elon Musk's company -
+Tesla,2025-6-2,19:09:11  [YAHNEX] (TSLA.O) - 3 members of the 'Tesla mafia' share what they learned from Elon Musk's company -
+Tesla,2025-6-2,19:08:21  [YAHIRE] (TSLA.O) - 3 members of the 'Tesla mafia' share what they learned from Elon Musk's company -
+Tesla,2025-6-2,"19:06:14  [BUSLIN] (TSLA.O) - Mercedes, Skoda Auto, Hyundai, Kia show interest to participate electric vehicle incentive scheme -"
+Tesla,2025-6-2,"18:58:21  [WEBCOM] (TSLA.O) - Tesla not interested in manufacturing in India, but many European countries have shown interest: Minister HD Kumaraswamy -"
+Tesla,2025-6-2,"18:57:13  [HINBUS] (TSLA.O) - Mercedes, Skoda Auto, Hyundai, Kia show interest to participate Electric Vehicle incentive scheme -"
+Tesla,2025-6-2,18:54:15  [GLOREV] (TSLA.O) - Tesla's sales in Sweden fall 53.7% year-on-year in May -
+Tesla,2025-6-2,"18:44:09  [TRIBUO] (TSLA.O) - Tesla not interested in manufacturing in India, but many European countries have shown interest: Minister HD Kumaraswamy -"
+Tesla,2025-6-2,18:32:10  [GURCOM] (TSLA.O) - Tesla's (TSLA) May Car Sales in Sweden Drop by 53.7% -
+Tesla,2025-6-2,"Tesla registrations in Norway jumped 213% YoY in May, driven by a refreshed Model Y and aggressive zero-interest offers."
+Tesla,2025-6-2,18:31:15  [YAHUKI] (TSLA.O) - Tesla's sale in Norway rises 213% year-on-year in May -
+Tesla,2025-6-2,"18:31:11  [YAHSIN] (TSLA.O VOWG.DE) - Tesla not keen on local production in India, minister says -"
+Tesla,2025-6-2,"18:27:19  [FORIND] (TSLA.O) - Tesla only wants to start 2 showrooms in India, not interested in making cars: HD Kumaraswamy -"
+Tesla,2025-6-2,"Tesla registrations in Norway jumped 213% YoY in May, driven by a refreshed Model Y and aggressive zero-interest offers."
+Tesla,2025-6-2,18:25:26  [RTRS] (TSLA.O) - Tesla's sales in Denmark fall 30.5% year-on-year in May -
+Tesla,2025-6-2,"18:24:39  [RTRS] (TSLA.O) - Tesla sales in Portugal fall 68% in May, while total EVs rise -"
+Tesla,2025-6-2,"18:22:13  [ECOCOM] (TSLA.O) - Tesla not interested in manufacturing in India, minister says -"
+Tesla,2025-6-2,18:20:38  [RTRS] (TSLA.O) - Tesla's sale in Norway rises 213% year-on-year in May -
+Tesla,2025-6-2,18:20:20  [PRETRU] (TSLA.O) - Tesla not interested in manufacturing electric cars in India: Kumaraswamy -
+Tesla,2025-6-2,"18:16:08  [RTRS] (TSLA.O) - TESLA'S SALE IN NORWAY UP 212.5% YEAR-ON-YEAR IN MAY, YEAR-TO-DATE UP 8.3%, REGISTRATION DATA SHOWS -"
+Tesla,2025-6-2,"18:12:01  [RTRS] (TSLA.O) - PORTUGAL'S NEW REGISTRATIONS OF TESLA CARS FALL 67.8% IN MAY FROM YEAR-AGO, DOWN 35.5% IN JANUARY-MAY - ACAP DATA -"
+Tesla,2025-6-2,18:11:42  [NOTENG] (AMZN.O TSLA.O) - Magnificent Seven saw net profit rise 27% in the first quarter -
+Tesla,2025-6-2,"18:06:12  [BUSSTA] (TSLA.O) - Tesla not interested in manufacturing EVs in India, says Union minister -"
+Tesla,2025-6-2,"18:06:11  [BUSSTB] (TSLA.O) - Tesla not interested in manufacturing EVs in India, says Union minister -"
+Tesla,2025-6-2,"17:45:13  [MONCON] (TSLA.O) - Don't expect Tesla to manufacture in India anytime soon, says Union Minister HD Kumaraswamy -"
+Tesla,2025-6-2,"17:40:10  [ECOCOM] (TSLA.O) - Tesla unlikely to manufacture in India anytime soon, minister says -"
+Tesla,2025-6-2,17:24:08  [YAHNEX] (TSLA.O) - Tesla's sales in Sweden fall 53.7% year-on-year in May -
+Tesla,2025-6-2,17:23:11  [YAHSIN] (TSLA.O) - Tesla's sales in Sweden fall 53.7% year-on-year in May -
+Tesla,2025-6-2,"17:23:10  [ECOCOM] (TSLA.O) - Tesla unlikely to manufacture in India anytime soon, minister says -"
+Tesla,2025-6-2,17:07:53  [RTRS] (TSLA.O) - Tesla's sales in Sweden fall 53.7% year-on-year in May -
+Tesla,2025-6-2,16:46:27  [MSNUKA] (TSLA.O) - Musk Trump rift: Why did the Tesla chief walk away from the White House? -
+Tesla,2025-6-2,16:46:08  [RTRS] (TSLA.O) - INDIA HEAVY INDUSTRIES MINISTER: TESLA IS NOT INTERESTED IN MANUFACTURING IN INDIA -
+Tesla,2025-6-2,"16:45:58  [NEWPEO] (TSLA.OQ TSLA.O) - Elon Musk's two bagger Tesla in top 7% of price performers of NASDAQ stocks Monday June 02, 2025 -"
+Tesla,2025-6-2,15:56:15  [PATCHA] (TSLA.O) - Patch AM: Protests persist at Golden Valley Tesla dealership -
+Tesla,2025-6-2,15:55:02  [STOCKP] (TSLA.O) - With a trading volume of USD 42.6 bn TSLA trades -3.34 percent lower today -
+Tesla,2025-6-2,12:23:10  [AAFN] (ZK.N TSLA.O) - CAAM: Price Wars among CN Automakers Hit Hard on Biz Operations; Efforts to be Amplified to Curb 'Involution Competition' -
+Tesla,2025-6-2,12:05:14  [WNCOMA] (TSLA.O) - How Much Should the World's Richest Man Get Paid? -
+Tesla,2025-6-2,11:35:08  [WNCOMA] (TSLA.O) - Even Fox News isn't impressed with Musk dodging question over alleged drug use -
+Tesla,2025-6-2,08:11:35  [NOTENG] (TSLA.O) - Tesla Cybertruck arrives in U.S. patrols: these cities use Elon Musk's futuristic vehicle in police operations -
+Tesla,2025-6-2,"07:52:12  [YAHUKI] (TSLA.O) - ""He Just Greenlit Elon's AI Takeover"": Wall Street Icon Says Trump's New Order Quietly Empowers Musk's Rise in the Machine Economy -"
+Tesla,2025-6-2,"07:20:07  [MSNUKA] (TSLA.O) - 2025 Tesla Model Y review: new look, smarter tech and a much smoother ride -"
+Tesla,2025-6-2,"07:02:59  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Decreased by Rothschild Investment LLC -"
+Tesla,2025-6-2,"07:02:58  [STOOBS] (TSLA.O) - Fifth Third Wealth Advisors LLC Acquires 4,485 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"07:02:30  [STOOBS] (TSLA.O) - Ables Iannone Moore & Associates Inc. Sells 70 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"06:50:23  [MARDAJ] (TSLA.O) - Fifth Third Wealth Advisors LLC Acquires 4,485 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"06:50:09  [CERGEM] (TSLA.O) - Castle Rock Wealth Management LLC Buys 364 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"06:50:02  [TALKMA] (TSLA.O) - Waymo Surges To 10 Million Paid Rides, Tesla Has Zero -"
+Tesla,2025-6-2,"06:49:54  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Ables Iannone Moore & Associates Inc. -"
+Tesla,2025-6-2,"06:49:33  [TALKMA] (TSLA.O) - Waymo Surges To 10 Million Paid Rides, Tesla Has Zero -"
+Tesla,2025-6-2,"06:49:07  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Holdings Trimmed by 180 Wealth Advisors LLC -"
+Tesla,2025-6-2,06:48:34  [POCLIN] (TSLA.O) - I think the sleek-looking Slate truck is yet another nail in Tesla's coffin -
+Tesla,2025-6-2,"06:47:50  [MARDAJ] (TSLA.O) - Rothschild Investment LLC Has $2.69 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"06:47:40  [MISSGL] (TSLA.O) - Waymo Surges to 10 Million Paid Rides, Tesla Has Zero -"
+Tesla,2025-6-2,05:04:07  [AUSFIO] (TSLA.O) - Could the updated Tesla Model Y break Musk's sales slump? -
+Tesla,2025-6-2,"04:18:07  [ARCUKA] (TSLA.O) - Other attacks on Musk's Tesla cars ""Trump considers this"" terrorism left "" -"
+Tesla,2025-6-2,many traders had exceptional May's and I applaud them for following trends & setups!
+Tesla,2025-6-2,some winners I had: $HOOD $GEV $CRWV $TSLA $CEG $RGTI $GLD $ZS $CRDO $PLTR
+Tesla,2025-6-2,"losses $AFRM - this unfortunately was a big loss I took , I thought $SEZL -"
+Tesla,2025-6-2,"04:17:08  [TICREP] (TSLA.O) - Beese Fulmer Investment Management Inc. Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"04:17:08  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Beese Fulmer Investment Management Inc. -"
+Tesla,2025-6-2,04:13:16  [NOTENG] (TSLA.O) - Boycott of Elon Musk: Tesla sales in France plummeted 67% in May -
+Tesla,2025-6-2,"This is built on Rust with (Bitcoin style) encryption, whole new architecture. -"
+Tesla,2025-6-2,"03:42:00  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by JGP Wealth Management LLC -"
+Tesla,2025-6-2,"03:32:09  [BENZIN] (TSLA.O AAPL.O) - Consumer Tech News (May 26-May 30): Germany May Impose 10% Online Platform Tax, Tesla's European Sales Slump & More -"
+Tesla,2025-6-2,01:47:08  [YAHNEX] (TSLA.O) - Drone Footage Shows What Appears to Be a Cheap Tesla Prototype Zooming Around a Test Track -
+Tesla,2025-6-2,01:46:09  [YAHNEX] (TSLA.O) - Tesla Can't Find Legal Places to Store All Its Unsold Cybertrucks -
+Tesla,2025-6-2,"01:46:08  [YAHNEX] (TSLA.O) - Tesla's robotaxi rollout is alarming the public, new report shows -"
+Tesla,2025-6-2,"01:27:33  [DAILYQ] (TSLA.O) - Taylor & Morgan Wealth Management LLC Cuts Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"01:26:08  [DAIPOL] (TSLA.O) - Taylor & Morgan Wealth Management LLC Cuts Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"01:21:09  [TALMAR] (TSLA.O) - Waymo Surges To 10 Million Paid Rides, Tesla Has Zero -"
+Tesla,2025-6-2,"01:14:08  [MSNAUS] (TSLA.O) - Break with Trump, Tesla revival, or reduction in MAGA funding: Elon Musk continues to make waves worldwide -"
+Tesla,2025-6-2,"01:12:01  [BENZIN] (TSLA.O 002594.SZ) - Cybertrucks For FIFA 2026, Chinese Regulators Meet BYD, Tesla's European Troubles, And More: This Week In Mobility -"
+Tesla,2025-6-2,"When Elon made an awkward gesture, headlines exploded with the words N*** salute."
+Tesla,2025-6-2,It's the biggest peacetime immigration spike ever for a country its size.
+Tesla,2025-6-2,"00:31:41  [INDIAE] (TSLA.O) - Hugging Face unveils new low-cost, 'open-source' humanoid robots to take on Tesla -"
+Tesla,2025-6-2,00:23:46  [IRIMAI] (TSLA.O) - Allow me to gloat as Tesla losses put brakes on Musk's megabucks -
+Tesla,2025-6-2,"00:17:16  [TRADAJ] (TSLA.O) - Aletheian Wealth Advisors LLC Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"00:17:16  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) is Rhumbline Advisers' 10th Largest Position -"
+Tesla,2025-6-2,"00:17:08  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Taylor & Morgan Wealth Management LLC -"
+Tesla,2025-6-2,"00:14:09  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) is Rhumbline Advisers' 10th Largest Position -"
+Tesla,2025-6-2,00:13:25  [NOTENG] (TSLA.O) - Elon Musk unveils plan for humans to colonize Mars: 2026 the key year -
+Tesla,2025-6-2,00:07:06  [WNCOMA] (TSLA.O) - Tesla shareholders thankful to have Musk back after his time with DOGE -
+Tesla,2025-6-2,23:22:09  [NJCOMA] (TSLA.O) - Tesla Superchargers to be removed from New Jersey Turnpike -
+Tesla,2025-6-2,23:11:30  [YAHNEX] (LCID.O TSLA.O) - Is Lucid Group Stock Your Ticket to Becoming a Millionaire? -
+Tesla,2025-6-2,"22:32:46  [DAILYQ] (TSLA.O) - JGP Wealth Management LLC Sells 649 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,22:14:10  [FUTCOM] (TSLA.O) - Drone Footage Shows What Appears to Be a Cheap Tesla Prototype Zooming Around a Test Track -
+Tesla,2025-6-2,"22:08:09  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Woodstock Corp -"
+Tesla,2025-6-2,"22:00:13  [MARBEA] (TSLA.O) - Wright Investors Service Inc. Raises Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"21:49:39  [MARBEA] (TSLA.O) - Advance Capital Management Inc. Boosts Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"21:41:13  [MARBEA] (TSLA.O) - Czech National Bank Raises Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"21:31:35  [TELINE] (TSLA.O) - 'I am not taking drugs': Elon Musk shrugs off ketamine story, slams media report -"
+Tesla,2025-6-2,21:18:09  [WNCOMA] (TSLA.O) - Steven Kelley Ryan Veli Victor Hugo Tesla Resonant Frequency JP Morgan Arctic Circle Getty Museum -
+Tesla,2025-6-2,"21:12:24  [DAILYQ] (TSLA.O) - Wallace Advisory Group LLC Has $382,000 Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"21:12:15  [DAIPOL] (TSLA.O) - Wallace Advisory Group LLC Has $382,000 Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"21:12:11  [TICREP] (TSLA.O) - Wallace Advisory Group LLC Increases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"21:01:12  [MARBEA] (TSLA.O) - Mirador Capital Partners LP Purchases 3,307 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"20:53:10  [MARBEA] (TSLA.O) - Kaizen Financial Strategies Reduces Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"20:39:16  [MARBEA] (TSLA.O) - Sanders Morris Harris LLC Buys 2,175 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"20:07:48  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Investors Research Corp -"
+Tesla,2025-6-2,"19:46:26  [SCOEDI] (TSLA.O) - 2025 Tesla Model Y review: new look, smarter tech and a much smoother ride -"
+Tesla,2025-6-2,"19:37:52  [TRADAJ] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) Director Sells $32,732,635.32 in Stock -"
+Tesla,2025-6-2,18:27:44  [DAIFIN] (TSLA.O) - Elon Musk confirms departure from US Govt. role -
+Tesla,2025-6-2,17:10:18  [LIVECH] (TSLA.O) - What the truck is that?... Tesla intrigues L1 shoppers -
+Tesla,2025-6-2,17:10:07  [MSNUKA] (TSLA.O) - 'Focus on Tesla or Step Aside': Shareholders Clash with Musk Over Waning EV Fortunes -
+Tesla,2025-6-2,16:30:00  [INDBUV] (TSLA.O) - International News: BYD beats Tesla in EV sales in Europe -
+Tesla,2025-6-2,16:30:00  [ELEFOR] (TSLA.O) - Industry News - Industry Updates: Tesla Scouts India's Chip Giants For Supply -
+Tesla,2025-6-2,16:30:00  [ELEFOR] (TSLA.O) - International News: Tesla Sales Plummet in Europe Amid Political Backlash and Rising Competition -
+Tesla,2025-6-2,16:28:07  [AUTCOP] (TSLA.O) - VIDEO REVIEW: WORKIN' ON THOSE NIGHT MOVES. 2025 Tesla Model Y AFTER DARK. Are You IMPRESSED? -
+Tesla,2025-6-2,"15:36:10  [INDTVA] (TSLA.O) - Not taking drugs, tried prescription ketamine years ago: Elon Musk denies claims made by media report -"
+Tesla,2025-6-2,14:18:04  [TALKMA] (TSLA.O) - Tesla Inc. Stock Jumped 22% In May Despite Sales Slump And Musk's Political Exit -
+Tesla,2025-6-2,14:17:39  [TALKMA] (TSLA.O) - Tesla Inc. Stock Jumped 22% In May Despite Sales Slump And Musk's Political Exit -
+Tesla,2025-6-2,"""I think the fundamental moral flaw of the left is empathy for the criminals and not empathy for the victims."""
+Tesla,2025-6-2,"14:05:15  [KORJOO] (TSLA.O) - Trump to withdraw nomination of Musk associate Jared Isaacman to lead NASA, AP source says -"
+Tesla,2025-6-2,"14:02:14  [TIMNOW] (TSLA.O) - As Elon Musk Exits DOGE, Major Tesla Shareholders Demand He Work 40 Hours Per Week Amid Crisis -"
+Tesla,2025-6-2,13:06:07  [TALMAR] (TSLA.O) - Tesla Inc. Stock Jumped 22% In May Despite Sales Slump And Musk's Political Exit -
+Tesla,2025-6-2,Imagine being stuck in your own head with a thousand thoughts but no way to say them.
+Tesla,2025-6-2,10:42:06  [YAHNEX] (TSLA.O UBER.N) - Uber Stock Dropped on Fears of Tesla's Robotaxi. It's Time to Buy. -
+Tesla,2025-6-2,10:06:44  [STRAIT] (TSLA.O) - Tesla's board chairman makes $254m from recent sale of shares -
+Tesla,2025-6-2,"09:47:17  [RTRS] (TSLA.O STLA.MI) - France car registrations down 12.3% in May, Tesla sales drop 67.18% -"
+Tesla,2025-6-2,"09:14:11  [RTRS] (TSLA.O) - TESLA REGISTRATIONS IN FRANCE DOWN 67,18% IN MAY-PFA -"
+Tesla,2025-6-2,08:27:31  [YAHNEX] (TSLA.O) - Tesla can't just hit 'undo' on Elon's D.C. adventure -
+Tesla,2025-6-2,"08:26:10  [CAPBRO] (TSLA.O) - 'I'm not going anywhere': Despite Musk exit, protests continue at Tesla dealership -"
+Tesla,2025-6-2,08:04:06  [MSNUKA] (TSLA.O) - Tesla Knocked Off Top Spot in China: What the Rise of BYD Means for the Future of Cars -
+Tesla,2025-6-2,08:03:39  [WEBPRO] (TSLA.O) - Dan Ives: This is going to be a golden era for Tesla -
+Tesla,2025-6-2,"The new, much larger satellites will be at ~350km instead of ~550km altitude, which cuts latency due to speed of light down to ~5ms."
+Tesla,2025-6-2,"07:13:44  [NOTENG] (TSLA.O) - After his departure from the government, Elon Musk argued that ""this is not the end of DOGE, but really the beginning."" -"
+Tesla,2025-6-2,06:47:08  [WNCOMA] (TSLA.O UBER.N) - Is Tesla's robotaxi a long-term threat to Uber's business model? Wedbush Securities weighs in -
+Tesla,2025-6-2,"06:18:30  [STOOBS] (TSLA.O) - Verde Capital Management Buys 997 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"06:18:01  [STOOBS] (TSLA.O) - Doliver Advisors LP Has $810,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"06:17:48  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Avondale Wealth Management -"
+Tesla,2025-6-2,"06:04:01  [CERGEM] (TSLA.O) - James J. Burns & Company LLC Has $2.90 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-2,"06:03:50  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Position Increased by Avondale Wealth Management -"
+Tesla,2025-6-2,"06:03:31  [CERGEM] (TSLA.O) - Farmers Trust Co. Boosts Position in Tesla, Inc. (NASDAQ:TSLA) -"

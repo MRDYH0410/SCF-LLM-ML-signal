@@ -26,7 +26,7 @@ import joblib
 import seaborn as sns
 
 # ⬇️ 模型训练 + SHAP解释函数
-def compute_valuation_model_with_shap(df: pd.DataFrame, feature_cols: list, target_col: str):
+def compute_valuation_model_with_shap(df: pd.DataFrame, feature_cols: list, target_col: str, strict_signal):
     X = df[feature_cols].copy()
     y = df[target_col]
     nunique = X.nunique()
@@ -35,7 +35,15 @@ def compute_valuation_model_with_shap(df: pd.DataFrame, feature_cols: list, targ
         raise ValueError("❌ 所有特征列均为恒定值或无效，无法训练模型")
     X = X[valid_cols]
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-    model = LGBMRegressor(random_state=42, n_estimators=150, min_child_samples=15, num_leaves=11, learning_rate=0.1)
+    if strict_signal == "smooth":
+        model = LGBMRegressor(min_data_in_bin=1,
+        min_data_in_leaf=1,
+        n_estimators=100,
+        learning_rate=0.1)
+    elif strict_signal == "hard":
+        model = LGBMRegressor(random_state=42, n_estimators=150, min_child_samples=15, num_leaves=11, learning_rate=0.1)
+    else:
+        raise "Wrong learner strict requirement"
     model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
     mse = mean_squared_error(y_test, y_pred)
@@ -222,7 +230,7 @@ if __name__ == "__main__":
     target_col = "market_value"
 
     # 模型训练与解释
-    model, shap_values, explainer, metrics, X_train = compute_valuation_model_with_shap(df, feature_cols, target_col)
+    model, shap_values, explainer, metrics, X_train = compute_valuation_model_with_shap(df, feature_cols, target_col,"hard")
 
     print("\n🎯 模型性能:")
     print(f" - MSE: {metrics['mse']:.2f}")

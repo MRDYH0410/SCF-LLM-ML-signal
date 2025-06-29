@@ -218,8 +218,8 @@ def process_single_txt(company_name: str, txt_path: str, month_str: str, output_
 
 # ✅ 示例用法（只需修改以下参数）
 if __name__ == "__main__":
-    txt_path = "input/Tesla Elon Musk 29-30 5 2025.txt"   # 输入文件
-    month = "2025-5(29-30)"   # 设置月份
-    output_csv = "output/Tesla Elon Musk 29-30 5 2025.txt"  # 输出路径
+    txt_path = "input/days/Tesla Elon Musk 31 5 2025.txt"   # 输入文件
+    month = "2025-5-31"   # 设置日期
+    output_csv = "output/days/Tesla Elon Musk 31 5 2025.txt"  # 输出路径
     company_name = 'Tesla'
     process_single_txt(company_name, txt_path, month, output_csv)

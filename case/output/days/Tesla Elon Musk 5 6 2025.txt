@@ -1,0 +1,126 @@
+firm_id,date,text
+Tesla,2025-6-5,23:57:36  [STOCKP] (TSLA.O) - Tesla (TSLA) is trading -3.55 percent lower on Thursday 5th of June and has a trading volume of USD 32.6 bn -
+Tesla,2025-6-5,"23:57:21  [WATNEW] (TSLA.O) - Wealth Management Partners LLC Increases Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,23:57:15  [YAHNEX] (TSLA.O) - Residents Aggravated as Tesla Dumps Dozens of Cybertrucks in Shopping Center -
+Tesla,2025-6-5,23:52:39  [GLOSTO] (TSLA.O) - How Tesla's Tax Rate compares to Its Peers -
+Tesla,2025-6-5,23:52:36  [GLOSTO] (TSLA.O) - Tesla continues to underperform Alphabet Class A by 6.6% year to date -
+Tesla,2025-6-5,23:52:25  [GLOSTO] (TSLA.O INTC.O) - Tesla continues to underperform Intel by 18.8% year to date -
+Tesla,2025-6-5,23:52:12  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla Continues to Outperform its Peers -
+Tesla,2025-6-5,23:51:15  [FORONL] (TSLA.O) - Tesla's largest EV plant in the world suffers eighth straight month of declining demand as May sales sink 15% -
+Tesla,2025-6-5,23:39:16  [FORCOO] (TSLA.O) - U.S. EV Sales Will Be Solid Rather Than Spectacular As Tesla Wobbles -
+Tesla,2025-6-5,23:30:12  [YAHUKI] (TSLA.O) - Morgan Stanley: Tesla Could Shake Up $9 Trillion Drone Market -
+Tesla,2025-6-5,23:23:15  [CRYPTV] (TSLA.O) - Analyst who nailed Tesla's collapse has a new prediction as Musk turns bearish -
+Tesla,2025-6-5,23:19:39  [BIGNET] (TSLA.O) - Tesla Stock Breaks Support On These Headwinds With Robotaxi Launch Imminent -
+Tesla,2025-6-5,"23:17:10  [YAHNEX] (TSLA.O) - Dow Jones Futures: Tesla Breaks Key Level On Demand, Trump; Big Earnings Due -"
+Tesla,2025-6-5,23:14:57  [ECOCOM] (TSLA.O) - Tesla is being eaten alive by Chinese rivals it inspired -
+Tesla,2025-6-5,23:12:49  [NOTENG] (TSLA.O) - Musk returns to take Tesla out of autopilot mode -
+Tesla,2025-6-5,"23:11:24  [RTRS] (YMcv1 TSLA.O) - Wall Street set for higher open as investors focus on trade, key jobs data (US STOCKS) -"
+Tesla,2025-6-5,23:11:23  [ECOCOM] (TSLA.O) - Elon Musk's Tesla seeks to guard crash data from public disclosure -
+Tesla,2025-6-5,22:59:38  [INSMON] (TSLA.O) - Tesla (TSLA) is on the List of Jackson Peak Capital's Top Portfolio Contributors. Here's How -
+Tesla,2025-6-5,"22:53:58  [GLOBUL] (TSLA.O .NDX) - Tesla top gainer in Pine Ridge Advisers soars 28.4% in 64 days Thursday June 05, 2025 07:06 EDT -"
+Tesla,2025-6-5,22:52:52  [GLOSTO] (TSLA.O) - How Tesla's Tax Rate compares to Its Peers -
+Tesla,2025-6-5,22:52:42  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Apple by 4.1% year to date -
+Tesla,2025-6-5,22:52:34  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla Continues to Outperform its Peers -
+Tesla,2025-6-5,22:52:28  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Volvo Car AB by 13.2% year to date -
+Tesla,2025-6-5,"22:37:48  [GURCOM] (TSLA.O UBER.N) - Tesla's (TSLA) Cybercab Launch Has Minimal Impact on Uber, Says RBC | TSLA Stock News -"
+Tesla,2025-6-5,"22:31:17  [CBTNEW] (TSLA.O) - Musk battles Trump over $2.4T tax bill, fights to save EV credit -"
+Tesla,2025-6-5,22:28:17  [MSNSOU] (TSLA.O) - Musk ally pours gasoline on Tesla chief's feud with Trump after it cost him the top job at NASA -
+Tesla,2025-6-5,22:22:20  [YAHNEX] (TSLA.O) - Tesla stock falls again as Musk's 'KILL the BILL' screed hits Trump budget bill -
+Tesla,2025-6-5,"22:18:15  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Grassi Investment Management -"
+Tesla,2025-6-5,"22:16:47  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Holdings Lifted by Wealth Management Partners LLC -"
+Tesla,2025-6-5,22:15:19  [YAHNEX] (TSLA.O) - Stock Market Today: Indexes Waver Ahead Of Jobs Data; Tesla Extends Losses (Live Coverage) -
+Tesla,2025-6-5,22:12:16  [NOTENG] (TSLA.O) - Cybertruck: Video shows that dozens of pickup trucks have been abandoned in a parking lot in the U.S. -
+Tesla,2025-6-5,22:02:29  [DAIONL] (TSLA.O) - Musk ally escalates Tesla chief's feud with Trump -
+Tesla,2025-6-5,"21:52:55  [GLOBEA] (.GDAXI .IXIC) - Tesla (TSLA: $332.05) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Thursday June 05, 2025 07:06 EDT -"
+Tesla,2025-6-5,"21:48:00  [WATNEW] (TSLA.O) - L. Roy Papp & Associates LLP Raises Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,21:47:21  [GLOBEA] (TSLA.O .NDX) - Bottom Performers Past Week: Tesla (TSLA: $332.05) in bottom 3% performers of NASDAQ-100 Index in past week -
+Tesla,2025-6-5,"21:47:19  [GLOBUL] (TSLA.O .NDX) - Rises in the Heavyweights Monthly: Tesla (TSLA: $332.05) adds $144 billion in MCap in past month, leads Auto sector gains -"
+Tesla,2025-6-5,"21:47:06  [GLOBEA] (.GDAXI .IXIC) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $332.05) Thursday June 05, 2025 07:06 EDT -"
+Tesla,2025-6-5,"21:41:11  [MARBEA] (TSLA.O) - Gainplan LLC Purchases 3,181 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,"21:39:37  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Diligent Investors LLC -"
+Tesla,2025-6-5,"21:36:15  [MARBEA] (TSLA.O) - LS Investment Advisors LLC Purchases 755 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,21:31:17  [YAHUKI] (TSLA.O) - Elon Musk Urges Americans Take Action to 'Kill' Trump Tax Cut Bill -
+Tesla,2025-6-5,21:28:48  [WNCOMA] (TSLA.O) - Tesla sales slump sees China's BYD overtake Elon Musk's electric car firm in Britain -
+Tesla,2025-6-5,21:28:18  [NEWSKY] (TSLA.O) - Money blog: New blow for Musk as Tesla sales plunge; UK's 10 cheapest cars to insure revealed; chef says Nando's is overrated -
+Tesla,2025-6-5,21:22:37  [GURCOM] (TSLA.O) - Morgan Stanley: Tesla Could Shake Up $9 Trillion Drone Market -
+Tesla,2025-6-5,"21:12:44  [DAILYQ] (TSLA.O) - Grassi Investment Management Purchases 100 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,"21:12:21  [DAIPOL] (TSLA.O) - Grassi Investment Management Purchases 100 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,21:07:16  [BUSUSA] (TSLA.O) - Tesla rival Rivian inks deal for Orlando market expansion -
+Tesla,2025-6-5,21:05:12  [SHAENG] (TSLA.O) - Elon Musk Wasted Thousands Trying to Stop Trump Targeting Tesla in Tax Bill -
+Tesla,2025-6-5,20:57:54  [GURCOM] (TSLA.O) - Potential Repeal of EV Tax Credits Could Impact Tesla (TSLA) -
+Tesla,2025-6-5,20:42:11  [YAHNEX] (TSLA.O) - Tesla: Why Musk may now believe EV tax credit loss would be bad for business -
+Tesla,2025-6-5,"20:37:48  [TICREP] (TSLA.O) - Apella Capital LLC Buys 658 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,"20:37:40  [WATNEW] (TSLA.O) - Apella Capital LLC Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,"20:33:11  [MARBEA] (TSLA.O) - Clare Market Investments LLC Sells 15,412 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,20:29:22  [WNCOMA] (TSLA.O) - Can Elon Musk get Tesla back on track? Here are four road bumps -
+Tesla,2025-6-5,20:22:58  [ECOCOM] (TSLA.O) - Tesla is being eaten alive by Chinese rivals it inspired -
+Tesla,2025-6-5,20:21:13  [WNCOMA] (TSLA.O) - Will The Return of Elon Drive Tesla Stock Higher? -
+Tesla,2025-6-5,20:16:18  [YAHNEX] (TSLA.O) - Can Elon Musk get Tesla back on track? Here are four road bumps -
+Tesla,2025-6-5,20:03:16  [ECOCOM] (TSLA.O) - Elon Musk's Tesla seeks to guard crash data from public disclosure -
+Tesla,2025-6-5,19:17:12  [PROINV] (TSLA.O) - Tesla loses $36bn in value as political row and weak global sales weigh on shares -
+Tesla,2025-6-5,19:17:00  [PROUKA] (TSLA.O) - Tesla loses $36bn in value as political row and weak global sales weigh on shares -
+Tesla,2025-6-5,"19:14:47  [RTRS] (TSLA.O) - UK new car sales recover in May as EV discounts attract buyers, SMMT data shows -"
+Tesla,2025-6-5,19:12:14  [QUANAV] (TSLA.O) - How stock-based pay minted millionaires and fueled America's wealth gap -
+Tesla,2025-6-5,19:12:12  [WNCOMA] (TSLA.O) - Tesla Model Y Juniper's First Recall Issued- Can't Be Fixed Via Software Update -
+Tesla,2025-6-5,19:07:20  [FORCOO] (TSLA.O) - Will The Return of Elon Drive Tesla Stock Higher? -
+Tesla,2025-6-5,19:02:51  [GURCOM] (TSLA.O) - TSLA Faces Continued Decline Amid Weak Sales in China and Europe -
+Tesla,2025-6-5,18:48:17  [MSNAUS] (TSLA.O) - Tesla crash video raises FSD concerns ahead of Austin Robotaxi launch -
+Tesla,2025-6-5,18:42:20  [MSNCAN] (TSLA.O) - Tesla crash video raises FSD concerns ahead of Austin Robotaxi launch -
+Tesla,2025-6-5,18:36:13  [BUSSTB] (TSLA.O) - Watch: Tesla CEO Elon Musk's father Errol Musk visits Ayodhya -
+Tesla,2025-6-5,"18:25:12  [YAHNEX] (DG.N NVDA.O) - These Stocks Moved the Most Today: Nvidia, Tesla, Dollar General, Credo, Ferguson, Moonlake, and More -"
+Tesla,2025-6-5,17:52:28  [KORJOO] (TSLA.O) - Tesla tops monthly imported car sales in Korea for 1st time in May -
+Tesla,2025-6-5,17:32:07  [MOTFOO] (TSLA.O .SPX) - Is Tesla Stock a Buy After Soaring in May? -
+Tesla,2025-6-5,17:19:31  [CNEVPO] (TSLA.O) - Tesla resumes referral rewards in China as sales face pressure -
+Tesla,2025-6-5,17:13:14  [NOTENG] (TSLA.O) - Is there a kinship between Elon Musk and Nikola Tesla? The reason behind the name of his automotive company. -
+Tesla,2025-6-5,17:11:59  [NOTENG] (TSLA.O) - How is Nikola Tesla related to Elon Musk or why are his cars named after him? -
+Tesla,2025-6-5,17:06:18  [WNCOMA] (TSLA.O) - Tesla tops monthly imported car sales in S. Korea for 1st time in May -
+Tesla,2025-6-5,"17:02:17  [INTYOR] (TSLA.O) - Elon Musk Returns to His Tech Empire, Facing Questions of Inattention. -"
+Tesla,2025-6-5,17:01:54  [BENZIN] (TSLA.O SAMD.NS) - Samvardhana Motherson International shares are trading higher for a second session on optimism following media reports that Tesla secured the fourt... -
+Tesla,2025-6-5,17:01:53  [BENZIN] (VARE.NS TSLA.O) - Varroc Engineering shares are trading higher for a second session on optimism following media reports that Tesla secured the fourth India office in... -
+Tesla,2025-6-5,16:55:08  [MSNUKA] (TSLA.O) - Marjorie Taylor Greenes four-word dagger to Trump and GOP after Musks Big Beautiful takedown -
+Tesla,2025-6-5,"16:51:15  [FIRSTP] (TSLA.O) - France, Germany, UK...Tesla sales slump across Europe as electric car market surges -"
+Tesla,2025-6-5,16:33:46  [DAIONL] (TSLA.O) - Musk ally pours gasoline on Tesla chief's feud with Trump after it cost him the top job at NASA -
+Tesla,2025-6-5,16:17:35  [MALMAI] (TSLA.O) - Ayumi Hamasaki laughs off claims Elon Musk is her baby's father after wild online J-pop rumours -
+Tesla,2025-6-5,"16:04:15  [ECOCOM] (TSLA.O) - Tesla sales continue to fall in Europe's largest car market, here's the Chinese EV company hurting Tesla -"
+Tesla,2025-6-5,15:42:12  [ARADOC] (TSLA.O) - Musk ends amicable divorce with Trump with a campaign against his economic plan -
+Tesla,2025-6-5,15:37:19  [WNCOMA] (TSLA.O) - Tesla's China rivals look closer than they appear in the rear-view mirror -
+Tesla,2025-6-5,15:20:28  [AAFN] (TSLA.O 9868.HK) - Tesla Enters CN NEV 'Countryside' Promotion List for 1st Time -
+Tesla,2025-6-5,14:48:08  [SOUCHI] (TSLA.O) - Tesla's sales decline in China reaches 8th straight month as local rivals close in -
+Tesla,2025-6-5,14:42:21  [DIGITI] (TSLA.O) - SpaceX eyes FOPLP as Washington pushes chip packaging reshoring -
+Tesla,2025-6-5,14:42:08  [CENAFT] (TSLA.O) - Musk calls on Americans to reject Trump's 'disgusting abomination' tax bill -
+Tesla,2025-6-5,14:13:16  [NOTENG] (TSLA.O) - Will Trumpists also stop buying Tesla cars because of Elon Musk's attacks? -
+Tesla,2025-6-5,"13:45:11  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) CFO Sells $350,000.00 in Stock -"
+Tesla,2025-6-5,"13:45:10  [MARBEA] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) CFO Sells 6,000 Shares of Stock -"
+Tesla,2025-6-5,What would be downsides when the cost of letting it pass is so high?
+Tesla,2025-6-5,"I see some people saying ""we should take what we have"" but they never say why we shouldn't push for more when this is our best, and maybe -"
+Tesla,2025-6-5,12:52:05  [BENZIN] (TSLA.O) - Anthony Scaramucci Says The Left Should Focus On Why It Lost Elon Musk Rather Than 'Demonizing' Him: Credits Tesla CEO For 'Enormously Positive' Im... -
+Tesla,2025-6-5,"It's an absolute travesty that Congress (especially republicans, who were so happy to get Elon's support in November) are not codifying these -"
+Tesla,2025-6-5,Elon Musk explains how to end inflation and drop interest payments forever
+Tesla,2025-6-5,12:20:07  [DECCHR] (TSLA.O) - Musk Unleashes Another Attack On Trump's Spending Legislation -
+Tesla,2025-6-5,Rand Paul and Elon see it for what it is: fiscal suicide wrapped in a tax cut bow.
+Tesla,2025-6-5,11:48:08  [WNCOMA] (TSLA.O) - \u0026#039;Kill The Bill\u0026#039;: Elon Musk unleashes another attack on Donald Trump\u0026#039;s spending legislation -
+Tesla,2025-6-5,"11:41:18  [MSNUKA] (TSLA.O) - EVs boost German auto sales, Tesla falls again -"
+Tesla,2025-6-5,11:41:09  [MSNUKA] (TSLA.O) - Detroit suburb revolts as Tesla dumps Cybertrucks in mall parking lot -
+Tesla,2025-6-5,11:35:20  [AAFN] (ZK.N TSLA.O) - CPCA: Tesla's CN-made Car Sales Projected to Fade 15% in May -
+Tesla,2025-6-5,"11:22:07  [BITDYN] (TSLA.O) - Tesla pays on the stock market the fall of its sales in Germany, Italy and the United Kingdom in May -"
+Tesla,2025-6-5,11:07:30  [GLOWEE] (.IXIC TSLA.O) - Past Week: Tesla (TSLA: $332.05) in bottom 3% performers of NASDAQ-100 Index in past week; -$24.85 [-7.0%] -
+Tesla,2025-6-5,11:06:10  [BIGNET] (TSLA.O) - Musk unleashes another attack on Trump's spending legislation -
+Tesla,2025-6-5,11:00:18  [AAFN] (TSLA.O NVDA.O) - USUS Weak Employment Drags DJIA Down by 91 Points at Close; Tesla Sags 3% on Dismal CN Sales -
+Tesla,2025-6-5,10:58:09  [WEBCOM] (TSLA.O) - Musk unleashes another attack on Trump's spending legislation -
+Tesla,2025-6-5,10:42:05  [GURCOM] (TSLA.O) - Tesla (TSLA) Faces Continued Sales Decline in European Markets -
+Tesla,2025-6-5,10:22:28  [GURCOM] (TSLA.O) - Tesla China Reports Eighth Consecutive Month of Declining Sales -
+Tesla,2025-6-5,10:18:40  [STOCKP] (TSLA.O) - Tesla is trading -1.09 percent lower with a volume of USD 28.1 bn on Thursday 5th of June -
+Tesla,2025-6-5,10:09:43  [YAHNEX] (TSLA.O) - Tesla CFO offloads over $2M in stock as EU sales tumble -
+Tesla,2025-6-5,"10:00:00  [EURUNI] (TSLA.O) - EU Contract Notice: Spitalul Municipal Turda Issues contract notice/solicitation for ""Acquisition of a magnetic resonance imaging system - MRI mini... -"
+Tesla,2025-6-5,"10:00:00  [GULOIL] (TSLA.O MSFT.O) - Top Engineer from Microsoft, Tesla Joins The Nuclear Company to Lead Software Division -"
+Tesla,2025-6-5,09:39:36  [EWEEKA] (TSLA.O) - Tesla Refines Robotaxi Trademark Strategy After USPTO Pushback -
+Tesla,2025-6-5,09:21:15  [MSNSOU] (TSLA.O) - Marjorie Taylor Greenes four-word dagger to Trump and GOP after Musks Big Beautiful takedown -
+Tesla,2025-6-5,"09:17:40  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by GenWealth Group Inc. -"
+Tesla,2025-6-5,"09:17:33  [STOOBS] (TSLA.O) - Romano Brothers AND Company Lowers Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,"09:07:40  [CERGEM] (TSLA.O) - Firethorn Wealth Partners LLC Acquires 872 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,"09:07:15  [CERGEM] (TSLA.O) - Greenfield Savings Bank Sells 251 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,"09:07:07  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Amplius Wealth Advisors LLC -"
+Tesla,2025-6-5,"09:07:06  [CERGEM] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Alpha Wealth Funds LLC -"
+Tesla,2025-6-5,"09:06:35  [MARDAJ] (TSLA.O) - GenWealth Group Inc. Boosts Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,"09:04:38  [MARDAJ] (TSLA.O) - TrueWealth Advisors LLC Has $1.03 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-5,"09:04:31  [MARDAJ] (TSLA.O) - Watershed Private Wealth LLC Sells 563 Shares of Tesla, Inc. (NASDAQ:TSLA) -"

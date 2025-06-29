@@ -4,6 +4,7 @@ import joblib
 import matplotlib.pyplot as plt
 from game_model.digital_firm import DigitalAssetFirm
 from game_model.sensitivity_analysis import sensitivity_analysis_grid
+from game_model.strategic_tradeoff_analysis import strategic_tradeoff_analysis
 
 def Investment_Game(df_hist):
     # 可视化
@@ -141,7 +142,14 @@ def simulate_stackelberg_game(T=30):
 
 
 if __name__ == "__main__":
-    mode = "sa"  # 改成 "sa" 即可做敏感性分析
+    """
+    可选: "game", "sa", "tradeoff"
+    "game" 即可进行博弈分析
+    "sa" 即可做敏感性分析  
+    "tradeoff" 即可做战略权衡模拟分析
+    """
+    mode = "tradeoff"
+
     if mode == "game":
         simulate_stackelberg_game()
     elif mode == "sa":
@@ -150,4 +158,12 @@ if __name__ == "__main__":
             tau=0.5,
             grid_mu=np.linspace(0, 1, 41),
             a_grid=np.linspace(0, 2.5, 41),
+        )
+    elif mode == "tradeoff":
+        strategic_tradeoff_analysis(
+            lgb_model_path="../digital_asset_valuation/valuation_model_lgbm.pkl",
+            tau=0.5,
+            n_followers=2,
+            mu_grid=np.linspace(0, 1, 41),
+            invest_grid=np.linspace(0, 2.5, 51),
         )

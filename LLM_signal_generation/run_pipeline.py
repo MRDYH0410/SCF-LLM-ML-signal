@@ -107,7 +107,7 @@ def run_pipeline(records: List[Dict]) -> pd.DataFrame:
     return df
 
 # ✅ 追加或更新已有 CSV（按 firm_id + date 去重）
-def update_csv_with_result(new_df: pd.DataFrame, csv_path: str = "output/aggregated_result_case.csv"):
+def update_csv_with_result(new_df: pd.DataFrame, csv_path: str = "output/aggregated_case_month.csv"):
     if os.path.exists(csv_path):
         existing_df = pd.read_csv(csv_path)
         merged_df = pd.concat([existing_df, new_df])
@@ -121,7 +121,7 @@ def update_csv_with_result(new_df: pd.DataFrame, csv_path: str = "output/aggrega
 # ✅ 测试运行主程序
 if __name__ == "__main__":
     # folder_path = os.path.join(base_dir, "grasp_data/output/aggregate")
-    folder_path = os.path.join(base_dir, "../case/output")
+    folder_path = os.path.join(base_dir, "../case/output/days")
 
     for filename in sorted(os.listdir(folder_path)):
         if filename.endswith(".txt"):

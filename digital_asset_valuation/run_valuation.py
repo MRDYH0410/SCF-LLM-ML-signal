@@ -133,7 +133,7 @@ if __name__ == "__main__":
 
     print("\n🎯 Step 5: 模型训练 + SHAP 分析")
     model, shap_values, explainer, metrics, X_train = compute_valuation_model_with_shap(
-        df_theta, feature_cols, target_col
+        df_theta, feature_cols, target_col, "hard"
     )
     print(f"\n📈 模型性能:\n - MSE: {metrics['mse']:.2f}\n - R²:  {metrics['r2']:.2f}")
 

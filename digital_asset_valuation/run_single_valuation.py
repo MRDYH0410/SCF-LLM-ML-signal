@@ -172,26 +172,26 @@ if __name__ == "__main__":
 
     print("\n🎯 Step 5: 模型训练 + SHAP 分析")
     model_1, shap_values_1, explainer_1, metrics_1, X_train_1 = compute_valuation_model_with_shap(
-        df_theta, digital_cols, target_col
+        df_theta, digital_cols, target_col, "hard"
     )
     print(f"\n📈 模型性能:\n - MSE: {metrics_1['mse']:.2f}\n - R²:  {metrics_1['r2']:.2f}")
 
     model_2, shap_values_2, explainer_2, metrics_2, X_train_2 = compute_valuation_model_with_shap(
-        df_theta, financial_cols, target_col
+        df_theta, financial_cols, target_col, "hard"
     )
     print(f"\n📈 模型性能:\n - MSE: {metrics_2['mse']:.2f}\n - R²:  {metrics_2['r2']:.2f}")
 
     model_3, shap_values_3, explainer_3, metrics_3, X_train_3 = compute_valuation_model_with_shap(
-        df_theta, macro_cols, target_col
+        df_theta, macro_cols, target_col, "hard"
     )
     print(f"\n📈 模型性能:\n - MSE: {metrics_3['mse']:.2f}\n - R²:  {metrics_3['r2']:.2f}")
     model_4, shap_values_4, explainer_4, metrics_4, X_train_4 = compute_valuation_model_with_shap(
-        df_theta, feature_cols, target_col
+        df_theta, feature_cols, target_col, "hard"
     )
     print(f"\n📈 模型性能:\n - MSE: {metrics_4['mse']:.2f}\n - R²:  {metrics_4['r2']:.2f}")
 
     model_5, shap_values_5, explainer_5, metrics_5, X_train_5 = compute_valuation_model_with_shap(
-        df_theta, combine_cols, target_col
+        df_theta, combine_cols, target_col, "hard"
     )
     print(f"\n📈 模型性能:\n - MSE: {metrics_5['mse']:.2f}\n - R²:  {metrics_5['r2']:.2f}")
 

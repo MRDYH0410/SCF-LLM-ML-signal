@@ -3,6 +3,7 @@ import pandas as pd
 import joblib
 from game_model.digital_firm import DigitalAssetFirm
 import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
 
 def heatmap(df_sa, a_grid, grid_mu, tau):
     # 可视化：收益随μ_0和投资/抑制变化（分抑制/不抑制热力图）
@@ -25,10 +26,38 @@ def heatmap(df_sa, a_grid, grid_mu, tau):
     plt.tight_layout()
     plt.savefig("output/sensitivity_analysis/sa_heatmap.png")
 
+def saddle_surface_plot(df_sa, tau=0.5):
+    """
+    绘制Payoff随投资a和抑制s变化的“鞍点结构”三维图（默认μ_0 ≈ tau临界点）
+    """
+    # 只取mu_0 ≈ tau附近的截面，模拟理论敏感点
+    mu0_critical = df_sa['mu_0'].iloc[(df_sa['mu_0']-tau).abs().argsort()[:1]].values[0]
+    df_slice = df_sa[df_sa['mu_0']==mu0_critical]
+    # 构造网格
+    A = df_slice['a'].values
+    S = df_slice['s'].values
+    Z = df_slice['payoff'].values
+    # 用a,s做二维meshgrid重塑（a变化细，s只有0/1）
+    a_grid = np.sort(df_slice['a'].unique())
+    s_grid = np.array([0, 1])
+    Z_matrix = np.zeros((len(s_grid), len(a_grid)))
+    for i, s in enumerate(s_grid):
+        payoffs = df_slice[df_slice['s']==s].sort_values('a')['payoff'].values
+        Z_matrix[i,:] = payoffs
 
-
-
-    return df_sa
+    # 画3D鞍点
+    fig = plt.figure(figsize=(8,6))
+    ax = fig.add_subplot(111, projection='3d')
+    A_mesh, S_mesh = np.meshgrid(a_grid, s_grid)
+    ax.plot_surface(A_mesh, S_mesh, Z_matrix, cmap='inferno', edgecolor='k', linewidth=0.2, alpha=0.92)
+    ax.set_xlabel(r'$a_i$ (Investment)', fontsize=13)
+    ax.set_ylabel(r'$s_i$ (Suppression)', fontsize=13)
+    ax.set_zlabel('Payoff', fontsize=13)
+    ax.set_title('Saddle-like Structure of Leader Payoff', fontsize=15)
+    ax.view_init(elev=28, azim=-65) # 可调整视角更像你的示意图
+    plt.tight_layout()
+    plt.savefig("output/sensitivity_analysis/saddle_structure.png", dpi=220)
+    plt.show()
 
 
 def optimal_strategy_comparison_table(df_sa, tau=0.5, mu0_critical=None):
@@ -122,4 +151,4 @@ def sensitivity_analysis_grid(lgb_model_path, tau=0.5, grid_mu=None, a_grid=None
 
     heatmap(df_sa, a_grid, grid_mu, tau)
     optimal_strategy_comparison_table(df_sa)
-
+    saddle_surface_plot(df_sa)

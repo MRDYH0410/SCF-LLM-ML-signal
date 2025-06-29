@@ -1,0 +1,144 @@
+firm_id,date,text
+Tesla,2025-6-8,"23:57:15  [FUTCOM] (TSLA.O) - Terrifying Footage Shows Self-Driving Tesla Get Confused by the Sun, Mow Down Innocent Grandmother -"
+Tesla,2025-6-8,"23:47:30  [TICREP] (TSLA.O) - Abacus Planning Group Inc. Has $515,000 Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"23:47:12  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Abacus Planning Group Inc. -"
+Tesla,2025-6-8,"23:44:08  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Abacus Planning Group Inc. -"
+Tesla,2025-6-8,23:15:21  [MSNCAN] (TSLA.O) - Top 5 Tesla apps to improve your Tesla experience -
+Tesla,2025-6-8,"23:09:12  [CRYPTV] (TSLA.O) - Tesla Tanks After Trump-Musk Feud Erupts, but These 4 Projects Keep Thriving -"
+Tesla,2025-6-8,"23:04:25  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Capital Investment Advisors LLC -"
+Tesla,2025-6-8,"23:00:00  [RTRS] (TSLA.O SPY.P) - Wall St Week Ahead-US stocks edge toward records with inflation data, policy progress in focus (RPT) -"
+Tesla,2025-6-8,"22:13:09  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Park Avenue Securities LLC -"
+Tesla,2025-6-8,"21:47:08  [MARBEA] (TSLA.O) - KMG Fiduciary Partners LLC Sells 1,392 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"21:37:23  [TRADAJ] (TSLA.O ORRF.O) - Orrstown Financial Services Inc. Has $841,000 Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,21:32:09  [GURCOM] (TSLA.O) - Tesla (TSLA) Faces Challenges with RoboTaxi Launch Despite Potential -
+Tesla,2025-6-8,"21:08:07  [YAHSIN] (TSLA.O) - The Head of Tesla's Humanoid Robot Program Says That He DEFINITELY Wasn't Fired and Is Only Leaving to Spend Time With His Family, Not Because Elon... -"
+Tesla,2025-6-8,"21:05:08  [MARBEA] (TSLA.O) - ARS Wealth Advisors Group LLC Raises Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"20:37:17  [MARBEA] (TSLA.O) - Patriot Financial Group Insurance Agency LLC Boosts Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"20:29:10  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Whitaker Myers Wealth Managers LTD. -"
+Tesla,2025-6-8,"20:27:28  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Wedmont Private Capital -"
+Tesla,2025-6-8,"20:22:19  [DAILYQ] (TSLA.O) - UMB Bank n.a. Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"20:22:08  [DAIPOL] (TSLA.O) - UMB Bank n.a. Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"20:22:07  [TICREP] (TSLA.O) - UMB Bank n.a. Purchases 1,684 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"20:21:09  [MARBEA] (TSLA.O) - UMB Bank n.a. Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"20:20:18  [FUTCOM] (TSLA.O) - The Head of Tesla's Humanoid Robot Program Says That He DEFINITELY Wasn't Fired and Is Only Leaving to Spend Time With His Family, Not Because Elon... -"
+Tesla,2025-6-8,20:11:11  [YAHUKI] (TSLA.O) - Retail Investors Pile Into Tesla (TSLA) After 14% Plunge on Trump-Musk Rift -
+Tesla,2025-6-8,19:46:25  [STARSI] (TSLA.O) - Sheffield cars: Tesla makes announcement about Sheffield showroom amid 'plummeting global reputation' -
+Tesla,2025-6-8,"19:43:57  [WNCOMA] (TSLA.O) - After fallout with Donald Trump, Elon Musk makes BIG statement,\u0026Acirc;\u0026nbsp;says\u0026Acirc;\u0026nbsp;he... -"
+Tesla,2025-6-8,"19:39:17  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Position Cut by Gemmer Asset Management LLC -"
+Tesla,2025-6-8,19:07:06  [GURCOM] (TSLA.O) - Retail Investors Pile Into Tesla (TSLA) After 14% Plunge on Trump-Musk Rift -
+Tesla,2025-6-8,"18:51:07  [YAHNEX] (TSLA.O) - Elon Musk's feud with Trump likely won't blow up Tesla's robotaxi push, analysts say -"
+Tesla,2025-6-8,18:37:07  [STASOU] (AVGO.O TSLA.O) - Does Musk-Trump spat blow a hole in Tesla bull case? -
+Tesla,2025-6-8,18:35:09  [IOLSOU] (TSLA.O) - Neil Wilson | Published 12 minutes ago Does Musk-Trump spat blow a hole in Tesla bull case? -
+Tesla,2025-6-8,"18:26:10  [WNCOMA] (TSLA.O) - As Elon Musk's bromance with Trump crumbles, an incident in Mar-a-Lago with Tesla link re-surfaces -"
+Tesla,2025-6-8,18:02:16  [WNCOMA] (TSLA.O) - Trump-Musk feud live updates: President says Tesla boss will face 'serious consequences' if he funds ... -
+Tesla,2025-6-8,17:49:07  [MSNUKA] (TSLA.O) - New Tesla battery? Jeff Dahn and 1 million miles -
+Tesla,2025-6-8,"17:46:28  [WASHPO] (TSLA.O) - For sale (maybe): Trump's red luxury Tesla - low mileage, almost new -"
+Tesla,2025-6-8,"17:46:09  [ECOCOM] (TSLA.O) - As Elon Musk's bromance with Trump crumbles, an incident in Mar-a-Lago with Tesla link re-surfaces -"
+Tesla,2025-6-8,17:46:09  [MSNUKA] (TSLA.O) - EV wireless charging - powering the future of autonomous vehicles -
+Tesla,2025-6-8,17:20:40  [RISNEQ] (TSLA.O) - Tesla's $380 billion wipeout marks biggest 2025 loss among top companies -
+Tesla,2025-6-8,"15:56:06  [YAHNEX] (CLF.N TSLA.O) - Tesla, Cleveland-Cliffs, Dollar General and More Stocks That Defined the Week -"
+Tesla,2025-6-8,15:43:07  [CRYPTV] (TSLA.O) - Trump Threatens Elon Musk Over Potential Democratic Support -
+Tesla,2025-6-8,"15:22:06  [YAHNEX] (ORCL.N TSLA.O) - Stock Market Week Ahead: Tesla's Robotaxi, Apple WWDC And Oracle Earnings -"
+Tesla,2025-6-8,"15:11:45  [NOTENG] (TSLA.O) - Trump threatens Musk: if he funds Democrats, there will be ""serious consequences -"
+Tesla,2025-6-8,14:44:08  [WNCOMA] (TSLA.O) - 'Trump Was Pissed': US Senator Describes President's Reaction After Elon Musk's Explosive Claims -
+Tesla,2025-6-8,14:42:10  [FIRSTP] (TSLA.O) - Indian-origin Ashok Elluswamy to head Tesla's Optimus robot project -
+Tesla,2025-6-8,14:21:52  [GURCOM] (TSLA.O) - Tensions Between Trump and Musk Escalate Amid Political Disagreement -
+Tesla,2025-6-8,12:48:03  [WNCOMA] (TSLA.O) - Trump says relationship over with Musk; warns him of 'serious consequences' about supporting Democrats -
+Tesla,2025-6-8,"12:35:07  [YAHNEX] (TSLA.O DJT.O) - Tesla, DJT Stocks Rally After Musk-Trump Farrago -"
+Tesla,2025-6-8,12:31:37  [FREJOU] (TSLA.O) - 'Will Face Very Serious Consequences': US President Donald Trump Warns Billionaire Elon Musk Over Funding Democratic Candidates -
+Tesla,2025-6-8,"12:28:08  [BDNCOM] (TSLA.O) - Tesla shares gain after $152 billion selloff, but Trump-Musk truce uncertain -"
+Tesla,2025-6-8,"12:20:08  [BDNCOM] (TSLA.O) - Republican lawmakers try to dodge Trump-Musk crossfire, aim to avoid 2026 damage -"
+Tesla,2025-6-8,11:56:07  [MSNUKA] (TSLA.O) - Tesla shares rebound slightly after $150bn wipe-out triggered by Musk's spat with Trump -
+Tesla,2025-6-8,"11:33:29  [STOOBS] (TSLA.O FXNC.O) - First National Corp MA ADV Increases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,11:32:11  [LOCNEW] (TSLA.O) - 'This is not over': Tesla Takedown protesters keep pressure on Elon Musk despite DOGE exit -
+Tesla,2025-6-8,"11:17:35  [MARDAJ] (TSLA.O FXNC.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by First National Corp MA ADV -"
+Tesla,2025-6-8,11:13:08  [NOTENG] (TSLA.O) - Donald Trump analyzes selling his Tesla after heavy clashes with Elon Musk -
+Tesla,2025-6-8,"11:08:13  [PCMCOM] (TSLA.O) - Trump Is So Mad at Elon He Might Sell His Tesla, But How Much Is a Presidential EV Worth? -"
+Tesla,2025-6-8,"10:46:07  [YAHIRE] (TSLA.O) - Trump Called Musk 'Big-Time Drug Addict,' Said Physical Fight With Treasury Secretary Was 'Too Much' -"
+Tesla,2025-6-8,10:36:50  [DAIBAH] (TSLA.O) - Trump may get rid of his Tesla after Musk row: official -
+Tesla,2025-6-8,"10:35:07  [WRAPAA] (TSLA.O) - Trump Called Musk 'Big-Time Drug Addict,' Said Physical Fight With Treasury Secretary Was 'Too Much' -"
+Tesla,2025-6-8,10:04:36  [YAHNEX] (TSLA.O) - 'It Would Never Happen.' Why the Trump Feud Won't Push Musk Out as Tesla CEO. -
+Tesla,2025-6-8,09:36:07  [WNCOMA] (TSLA.O) - Wall Street lifted by upbeat US jobs report and Tesla rebound -
+Tesla,2025-6-8,"09:17:24  [NEWUSN] (TSLA.O) - CORPORATE ACTION IN AUTO SECTOR ON THE NASDAQ STOCK EXCHANGE FRIDAY JUNE 06, 2025 -"
+Tesla,2025-6-8,09:01:55  [CRYPTT] (TSLA.O) - Tesla and xAI now tangled in political fire -
+Tesla,2025-6-8,08:38:07  [CRYPTV] (TSLA.O) - After the Storm: Why Tesla's Pain is Paving a Golden Path for These 3 Under-the-Radar Altcoins -
+Tesla,2025-6-8,08:11:27  [NOTENG] (TSLA.O) - The fight with Donald Trump cost Elon Musk u$s34 billion in a day -
+Tesla,2025-6-8,"07:55:09  [WNCOMA] (TSLA.O) - After Trump and Bannon, Musk's friendship with Stephen Miller turns nasty as the Tesla CEO ... -"
+Tesla,2025-6-8,07:46:08  [EDICNN] (TSLA.O) - 'This is not over': Tesla Takedown protesters keep pressure on Elon Musk despite DOGE exit -
+Tesla,2025-6-8,07:25:10  [WALPIT] (TSLA.O) - Trump Warns Musk of 'Serious Consequences' Over Potential Democratic Support -
+Tesla,2025-6-8,07:21:31  [WRACOM] (TSLA.O) - 'This is not over:' Tesla Takedown protesters keep pressure on Elon Musk despite DOGE exit -
+Tesla,2025-6-8,07:19:29  [EDICNN] (TSLA.O) - 'This is not over': Tesla Takedown protesters keep pressure on Elon Musk despite DOGE exit -
+Tesla,2025-6-8,"06:13:06  [ECOCOM] (TSLA.O) - After Trump and Bannon, Musk's friendship with Stephen Miller turns nasty as the Tesla CEO walks away with his wife -"
+Tesla,2025-6-8,06:13:02  [NOTENG] (TSLA.O) - The fight goes on: Elon Musk calls for a third party in the U.S. and even talks about funding Democrats -
+Tesla,2025-6-8,06:03:08  [FOXNEW] (TSLA.O) - Drama Between President Donald Trump and Tesla CEO Elon Musk -
+Tesla,2025-6-8,"05:44:06  [ECOCOM] (TSLA.O) - Will Donald Trump investigate Elon Musk, cancel US government contracts with his companies or reconnect with Tesla CEO? Here's all about President'... -"
+Tesla,2025-6-8,05:37:37  [WNCOMA] (TSLA.O) - Ashok Elluswamy to lead Tesla Optimus robot project -
+Tesla,2025-6-8,05:20:15  [WALPIT] (TSLA.O) - Vance Calls for Truce in Trump-Musk Feud: Can Tesla's CEO Rejoin the Fold? -
+Tesla,2025-6-8,05:12:14  [NOTENG] (TSLA.O) - Trump threatens Musk with 'dire consequences' if he endorses Democratic candidates in 2026 -
+Tesla,2025-6-8,05:04:06  [MSNUKA] (TSLA.O) - Tesla's Full Self-Driving Factored in Fatal Crash -
+Tesla,2025-6-8,05:02:31  [DAIONL] (TSLA.O) - Musk's AI bot used to mock him with image of Tesla on sale -
+Tesla,2025-6-8,"04:59:36  [WNCOMA] (TSLA.O) - Michael Saylor Teases Tesla, Bitcoin And Big Tech Rivals With MSTR's 126% One-Year Surge -"
+Tesla,2025-6-8,"04:52:43  [ECOCOM] (TSLA.O) - Will Donald Trump investigate Elon Musk, cancel US government contracts with his companies or reconnect with Tesla CEO? Here's all about President'... -"
+Tesla,2025-6-8,04:51:36  [ECOCOM] (TSLA.O) - Ashok Elluswamy to lead Tesla Optimus robot project -
+Tesla,2025-6-8,04:26:11  [WNCOMA] (TSLA.O) - Trump vs Musk: President warns Tesla CEO of 'very serious consequences' if he backs Democrats -
+Tesla,2025-6-8,04:26:08  [WNCOMA] (TSLA.O) - Donald Trump Says Relationship With Elon Musk Over: 'He'll Pay The Consequences If ' -
+Tesla,2025-6-8,"04:18:40  [WNCOMA] (NVDA.O TSLA.O) - Michael Saylor Highlights Strategy's Dominance Over Tesla, NVIDIA & Meta -"
+Tesla,2025-6-8,"04:18:27  [RTRS] (TSLA.O) - Trump says Musk relationship over, warns of 'serious consequences' if he funds Democrats (UPDATE 2) -"
+Tesla,2025-6-8,04:04:15  [TRTWOR] (TSLA.O) - Trump threatens Musk with 'very serious consequences' if he funds Democrats -
+Tesla,2025-6-8,"04:00:28  [FINSWI] (TSLA.O) - ETFs This Week: Tesla Turmoil, Silver Surge, And A Jobs-Driven Market Rally Drove These 5 ETFs To Outperform -"
+Tesla,2025-6-8,"03:52:12  [TICREP] (TSLA.O) - City State Bank Has $991,000 Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"03:52:10  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Horizon Wealth Management LLC -"
+Tesla,2025-6-8,"03:52:08  [WATNEW] (TSLA.O) - Sara Bay Financial Makes New $516,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"03:52:06  [WATNEW] (TSLA.O) - City State Bank Has $991,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"03:52:02  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Horizon Wealth Management LLC -"
+Tesla,2025-6-8,"03:52:00  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Horizon Wealth Management LLC -"
+Tesla,2025-6-8,"03:51:12  [CLECON] (TSLA.O) - More Bad News For Tesla, EV Charging Edition (It's Not All About New Jersey...) -"
+Tesla,2025-6-8,03:49:10  [TIMNOW] (TSLA.O) - Errol Musk Exclusive: Elon Musk's Father Reveals Inside Story Of Tesla CEO & Trump's Fight | WATCH -
+Tesla,2025-6-8,03:44:08  [NEWSAA] (TSLA.O) - 2m ago Share Trump says Musk to face 'very serious consequences' if he funds Democrats Tesla CEO Elon Musk is seen here when he spoke alongside US ... -
+Tesla,2025-6-8,03:34:07  [SHAENG] (TSLA.O) - JD Vance Tells Theo Von That Musk Made A Huge Mistake Going After Trump -
+Tesla,2025-6-8,"03:18:23  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Pines Wealth Management LLC -"
+Tesla,2025-6-8,"03:18:04  [STOOBS] (TSLA.O) - Fiduciary Planning LLC Has $1.79 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"03:18:03  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Pitti Group Wealth Management LLC -"
+Tesla,2025-6-8,"03:17:50  [STOOBS] (TSLA.O) - DKM Wealth Management Inc. Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"03:17:47  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Gateway Investment Advisers LLC -"
+Tesla,2025-6-8,"03:17:15  [TICREP] (TSLA.O) - Paragon Financial Partners Inc. Has $754,000 Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"03:17:15  [TRADAJ] (TSLA.O) - Fiduciary Planning LLC Has $1.79 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"03:17:00  [WATNEW] (TSLA.O) - Paragon Financial Partners Inc. Buys 597 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,03:15:12  [DAIJAG] (TSLA.O) - Is Your Relationship With Elon Musk Over? Trump Responds With 'Very Serious Consequences' Warning For Tesla CEO -
+Tesla,2025-6-8,03:11:58  [NOTENG] (TSLA.O) - Elon Musk deletes message on X about Trump's alleged link to Epstein case -
+Tesla,2025-6-8,"03:03:27  [MARDAJ] (TSLA.O) - Verum Partners LLC Purchases 193 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"03:03:26  [CERGEM] (TSLA.O) - Udine Wealth Management Inc. Acquires 681 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"03:02:43  [MARDAJ] (TSLA.O) - Pitti Group Wealth Management LLC Sells 47 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,02:56:35  [RTRS] (TSLA.O) - Trump says Musk will face 'very serious consequences' if he funds Democratic candidates -NBC News -
+Tesla,2025-6-8,02:44:07  [WNCOMA] (TSLA.O) - Musk could lose billions of dollars depending on how spat with Trump unfolds -
+Tesla,2025-6-8,02:42:26  [RTRS] (TSLA.O) - TRUMP SAYS HE HAS NOT HAD DISSCUSSIONS ABOUT INVESTIGATING MUSK -NBC NEWS -
+Tesla,2025-6-8,"02:38:36  [RTRS] (TSLA.O) - ASKED IF HE THOUGHT HIS RELATIONSHIP WITH MUSK WAS OVER, TRUMP TELLS NBC: 'I WOULD ASSUME SO, YEAH' -"
+Tesla,2025-6-8,"02:37:11  [TRADAJ] (TSLA.O) - Alliance Wealth Advisors LLC Acquires 106 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"02:37:10  [TRADAJ] (TSLA.O) - Pines Wealth Management LLC Reduces Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"02:21:55  [BENZIN] (TSLA.O) - Musk vs. Trump: Tesla Slashes Cybertruck Prices After Feud Heats Up, Here's How Much You Need To Pay for It Now -"
+Tesla,2025-6-8,02:15:13  [LUXLUA] (TSLA.O) - Vance says he hopes Musk returns to fold after public feud with Trump -
+Tesla,2025-6-8,"02:02:14  [WATNEW] (TSLA.O) - SeaCrest Wealth Management LLC Has $4.90 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"01:30:06  [TRADAJ] (TSLA.O) - DKM Wealth Management Inc. Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"01:27:57  [WATNEW] (TSLA.O) - Joule Financial LLC Sells 62 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"01:27:52  [TRADAJ] (TSLA.O) - Gateway Investment Advisers LLC Trims Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"01:27:41  [TICREP] (TSLA.O) - Joule Financial LLC Decreases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"01:27:29  [DAILYQ] (TSLA.O) - AAFMAA Wealth Management & Trust LLC Buys 480 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"01:24:08  [DAIPOL] (TSLA.O) - AAFMAA Wealth Management & Trust LLC Buys 480 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,01:19:08  [NEWYOT] (TSLA.O) - I HATE MY X!WH aide ignited the feudGrudge over Cabinet digs -
+Tesla,2025-6-8,"01:19:08  [NEWYOT] (TSLA.O) - - EVERYTHING MUST GO! Trump isn't interested in peace with Elon, and even wants to sell his Tesla- Albany hate - Speaker torpedoes measure to com... -"
+Tesla,2025-6-8,01:18:17  [WALPIT] (TSLA.O) - Tesla's Next Frontier? Analyst Sees It Ruling the 'Low-Altitude Economy' -
+Tesla,2025-6-8,01:14:07  [BAHBAH] (TSLA.O .SPX) - U.S. stocks rally on strong jobs data and tech gains -
+Tesla,2025-6-8,"01:02:48  [MOTFOO] (TSLA.O) - Amid the Turmoil, Is Now a Good Time to Buy Tesla Stock? -"
+Tesla,2025-6-8,00:55:09  [WNCOMA] (TSLA.O) - Trump-Musk Induced Tesla Slide Points to Market Risks From Massive Stocks -
+Tesla,2025-6-8,00:52:10  [BUSSTB] (TSLA.O) - Hopes Musk returns to fold after public feud with Trump: JD Vance -
+Tesla,2025-6-8,00:31:45  [FINEXP] (TSLA.O) - Trump may sell his Tesla car after public fallout with Elon Musk -
+Tesla,2025-6-8,00:30:10  [THECOM] (TSLA.O) - Why Bannon Is Tearing Off Musk's Face in MAGA Death Match: Biographer -
+Tesla,2025-6-8,00:26:14  [THECOM] (TSLA.O) - West Wing Civil War Erupts Over Who Caused Trump-Musk Explosion -
+Tesla,2025-6-8,00:25:06  [MSNCAN] (TSLA.O) - Tesla's $380 billion wipeout marks biggest 2025 loss among top companies -
+Tesla,2025-6-8,"00:17:18  [DAILYQ] (TSLA.O) - Pine Haven Investment Counsel Inc Lowers Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"00:17:03  [MINTNE] (TSLA.O) - 'Huge mistake': Amid Donald Trump vs Elon Musk spat, JD Vance says he hopes Tesla CEO will 'come back into fold' -"
+Tesla,2025-6-8,00:15:07  [CRYPTV] (TSLA.O) - Trump speaks publicly after his feud with Elon Musk touches DOGE and Tesla -
+Tesla,2025-6-8,"00:14:14  [DAIPOL] (TSLA.O) - Pine Haven Investment Counsel Inc Lowers Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6-8,"00:14:10  [LIVEMI] (TSLA.O) - 'Huge mistake': Amid Donald Trump vs Elon Musk spat, JD Vance says he hopes Tesla CEO will 'come back into fold' -"
+Tesla,2025-6-8,"00:09:10  [BITCOI] (TSLA.O) - Trump and Musk's dispute caused turmoil in the crypto market, and investors turned to cloud mining to earn $4,780 a day -"
+Tesla,2025-6-8,00:04:31  [YAHNEX] (TSLA.O) - Dow Jones Futures Rise; Tesla Bounces On Musk-Trump Truce Hopes; Jobs Report Due -
