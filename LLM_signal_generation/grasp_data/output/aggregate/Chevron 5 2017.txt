@@ -1,0 +1,652 @@
+firm_id,date,text
+Chevron,2017-5,"{{20170602T182423.405+0000}}BUZZ- DJI: Welcome back to new highs club** DJI <.DJI> finally surpasses its Mar 1 intraday peak, ends its new high dry spell at just over 3 months [nL1N1IR0JJ]"
+Chevron,2017-5,"** Index now up 7.4 pct YTD, with gains led by Apple , Boeing , and McDonald's ; these 3 stocks responsible for about 1/2 of Dow's 1454 pt rise [nL1N1IP0KF]"
+Chevron,2017-5,"** Indeed, it took 65 trading days (tds) from the Mar 1 peak for DJI to set new record, exactly meeting the 65 tds a 38.2 pct Fibo time correction of Jun 2016/Mar 2017 rise called for [nL1N1IE169]"
+Chevron,2017-5,"** And although number of internal measures had not been confirming recent S&P 500 <.SPX>, Nasdaq <.IXIC> highs [nL1N1IY0LG] [nL1N1IX1EO], strength erasing some divergences"
+Chevron,2017-5,"** For example, NYSE new yearly highs <.AD.N> now clearly thrusting above 7-month resistance line, confirming breakout"
+Chevron,2017-5,"** Thus, DJI can be in 5th wave up from early 2016 trough (Elliott Wave terms)"
+Chevron,2017-5,** Wave 5 Fibo projs 21397.43 then 21711.86/22026.29 (another 1-4 pct upside). This would fit with risks for a summer slog [nL1N1IZ0HX]
+Chevron,2017-5,"** However, wave equality with Feb/Apr 2016 advance (5=1) can suggest potential for 23044.17 (close to 9 pct additional upside)"
+Chevron,2017-5,{{20170602T171352.961+0000}}U.S. drillers add oil rigs for record 20th week in a row -Baker HughesBy Scott DiSavino
+Chevron,2017-5,record 20th week in a row in a year-long return to the well pad
+Chevron,2017-5,although some analysts expect the pace of additions could level
+Chevron,2017-5,"Drillers added 11 oil rigs in the week to June 2, bringing"
+Chevron,2017-5,"the total count up to 733, the most since April 2015, energy"
+Chevron,2017-5,That is more than double the same week a year ago when there
+Chevron,2017-5,Monthly additions in May were at the lowest levels since
+Chevron,2017-5,The recovery in oil prices has stalled since February and
+Chevron,2017-5,prices are now no higher than they were a year ago. Experience
+Chevron,2017-5,"indicates the rig count will stop rising within a few months,"
+Chevron,2017-5,"""The active rig count is likely to peak in June or July"
+Chevron,2017-5,putting the front-month on track for a second weekly decline in
+Chevron,2017-5,abandon a climate pact could spark more crude drilling in the
+Chevron,2017-5,"investment bank Piper Jaffray, this week forecast the total oil"
+Chevron,2017-5,"That compares with an average of 798 so far in 2017, 509 in"
+Chevron,2017-5,"be the most since 2014 when there were 1,862 active rigs. The"
+Chevron,2017-5,U.S./Canada natural gas rig count versus Henry Hub futures price
+Chevron,2017-5,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+Chevron,2017-5,"For a list of all Baker Hughes rig counts around the world, see:"
+Chevron,2017-5,"{{20170602T142314.979+0000}}GLOBAL LNG-Prices inch lower as Gorgon plant restarts productionJune 2 (Reuters) - Asian spot LNG prices edged lower this week as the early restart of Chevron's Gorgon production facility in Australia weighed on sentiment, projects offered supply and demand from Japan stayed weak."
+Chevron,2017-5,"Spot prices for July delivery were assessed at $5.40 per million British thermal units (mmBtu), down 5 cents from last week."
+Chevron,2017-5,"""The market is coming off as supply is doing well and demand is mostly covered,"" a Singapore-based trader said."
+Chevron,2017-5,The early restart of Gorgon's first production line on Wednesday provided an unexpected boost to Asian supplies after operator Chevron initially estimated the outage would last until mid-June. [nL8N1IX43X]
+Chevron,2017-5,Project stakeholder Exxon Mobil launched a tender to sell one cargo for delivery in the second half of June days before news of the facility's restart was made public.
+Chevron,2017-5,"""The Gorgon sell tender came as a surprise,"" a second Singapore-based trading source said, adding that a recent Nigerian tender offering three June-loading cargoes was also unexpected."
+Chevron,2017-5,"The various supply tenders from Angola, Nigeria and Australia, which offered June-loading cargoes, came amid muted summer demand from north Asian buyers."
+Chevron,2017-5,"""The Japanese are all filled up. They have left over supplies from a mild winter,"" the second Singapore trader said."
+Chevron,2017-5,"Any downside to Asia spot prices could be capped by relatively firm European demand, including in Spain, traders said."
+Chevron,2017-5,"Results from the Nigerian and Angolan sell tender are expected to emerge in the coming days, but Asian LNG market participants said it was unlikely that the cargoes would be sold to Asia given the strength in Atlantic prices."
+Chevron,2017-5,"{{20170602T133414.260+0000}}UPDATE 1-Rosneft expands in Iraq's Kurdistan with exploration, pipeline deals* Signs production-sharing deals for five oil blocks"
+Chevron,2017-5,"ST PETERSBURG, Russia, June 2 (Reuters) - Russian oil major Rosneft agreed on Friday to explore and develop five fields in Iraq's Kurdistan as the company seeks to become a key player in one of the world's newest and fastest-growing oil provinces."
+Chevron,2017-5,"Kremlin-controlled Rosneft this year became the first oil major to pre-finance Kurdish crude exports, an activity long dominated by trading houses, which had bankrolled the semi-autonomous region amid its fight against Islamic State and a budget crisis caused by low oil prices."
+Chevron,2017-5,"On Friday, Rosneft and the government of Kurdistan signed production-sharing deals for five oil blocks, with Rosneft saying it would also aim to explore for gas in the future."
+Chevron,2017-5,"Igor Sechin, Rosneft chief executive and a close ally of Russian President Vladimir Putin, said the company was widening cooperation with Kurdistan following the first direct purchases of Kurdish oil for Rosneft's German refineries earlier this year."
+Chevron,2017-5,"""The agreements ... set an example of well-weighed investments in one of the key Middle East regions, which will make it possible for the company to expand its exploration and production geography, provide feedstock for Rosneft's growing refining network and to raise profitability of our international assets,"" Sechin said in a statement."
+Chevron,2017-5,"The documents were signed by Sechin and Kurdish natural resources minister Ashti Hawrami on the sidelines of Russia's main investment show, the St Petersburg International Economic Forum, where Putin was due to meet Kurdish premier Nechirvan Barzani."
+Chevron,2017-5,Iraq had long opposed Kurdish independent oil sales but has lately eased its stance amid joint efforts by the regional government and Baghdad to defeat Islamic State.
+Chevron,2017-5,"Rosneft and Kurdistan also said they had agreed on ""monetization of the export oil pipeline in Kurdistan"" with Rosneft getting access to the regional transportation system, which has throughput capacity of 700,000 barrels per day (bpd)."
+Chevron,2017-5,"By the end of 2017, Kurdistan plans to expand the pipeline to 1 million bpd, or 1 percent of global output, betting on the arrival of new volumes from fresh developments."
+Chevron,2017-5,Kurdish oil production has been mainly led in recent years by mid-sized firms including Genel. Larger companies such as Exxon Mobil and Chevron are still at the exploratory stage and have recently returned some blocks to Kurdistan after disappointing searches.
+Chevron,2017-5,"Rosneft said the deals signed on Friday would allow it to talk about ""full entry in one of the most promising regions of the developing global energy market""."
+Chevron,2017-5,Kurdistan estimates its recoverable reserves at 45 billion barrels of oil and 5.66 trillion cubic metres of gas.
+Chevron,2017-5,BRIEF-Shell buys Chevron's Trinidad and Tobago assets for $250 mln - Reuters News
+Chevron,2017-5,{{20170602T102241.416+0000}}BRIEF-Shell buys Chevron's Trinidad and Tobago assets for $250 mlnJune 2 (Reuters) -
+Chevron,2017-5,"** Royal Dutch Shell has agreed to acquire Chevron's assets in Trinidad and Tobago, including its holdings in the East Coast Marine Area Blocks 6, 5a and E, the company said"
+Chevron,2017-5,"** The transaction, worth around $250 million, will allow Shell to optimise its developments across the East Coast Marine Area, a core component of Shell's interests in Trinidad and Tobago through which it is supplying gas to both the domestic market and Atlantic LNG, Shell said"
+Chevron,2017-5,"** ""Shell continues to actively evaluate other options to increase supply from our existing assets, as well as pursue additional opportunities such as the previously announced purchase of Centrica's interests in the North Coast Marine Area,"" said Derek Hudson, Shell's Vice President for Trinidad and Tobago"
+Chevron,2017-5,{{20170531T162547.780+0000}}BRIEF-Chevron says average of 97 pct of votes cast were voted for each of 12 nominees for election to board at annual meetingMay 31 (Reuters) - Chevron Corp
+Chevron,2017-5,* Chevron corp says an average of 97 percent of votes cast were voted for each of 12 nominees for election to board of directors at the annual meeting
+Chevron,2017-5,"* Chevron -about 93 percent of votes cast were voted to approve, on an advisory basis, compensation of company's named executive officers"
+Chevron,2017-5,* Chevron -about 61 percent of votes cast were voted against stockholder proposal to require an independent chairman
+Chevron,2017-5,* Chevron -about 69 percent of votes cast were voted against stockholder proposal to set special meetings threshold at 10 percent
+Chevron,2017-5,* Chevron -about 73 percent of votes cast were voted against stockholder proposal regarding a report on transition to a low carbon economy
+Chevron,2017-5,"{{20170525T132848.889+0000}}BUZZ- DJI: Poised to challenge all-time high** DJI <.DJI> essentially closed right on triangular pattern resistance Weds [nL1N1IQ0H1], but with futures <1YMcv1> suggesting>60 pt jump at open, index can breakout, challenge its all-time high"
+Chevron,2017-5,** These 3 stocks responsible for just over 1/2 of Dow's 1250 pt rise [nL1N1IP0KF]
+Chevron,2017-5,"** At its worst DJI only fell 3.7 pct from its Mar peak, a relatively shallow correction"
+Chevron,2017-5,"** Though it's now been 59 trading days (tds) since the peak, putting the index close to a 38.2 pct Fibo time correction of the Jun/Mar rise (65 tds)"
+Chevron,2017-5,"** And market internals looking more constructive as NYSE advance/decline line <.AD.N> has moved to new high, though NYSE new yearly highs <.AD.N> would still need confirm a DJI breakout"
+Chevron,2017-5,"** In event of new DJI highs, with internals confirming, Wave 5 Fibo projs at 21397.43 then 21711.86 and 22026.29; wave equality with Feb/Apr 2016 advance can proj to 23044.17"
+Chevron,2017-5,"** Failure to make new high, reversal, can keep DJI contained in triangular pattern, threaten 20600 area at a minimum [nL1N1IO0CS] [nL2N1IL0HO]"
+Chevron,2017-5,"{{20170525T130258.376+0000}}UPDATE 1-South Africa wants Sinopec to retain refinery capacity(Adds quote, details)"
+Chevron,2017-5,"CAPE TOWN, May 25 (Reuters) - South Africa is in talks with China's Sinopec about its takeover of Chevron Corp's Cape Town refinery as it wants to ensure its production capacity is retained and enhanced, Economic Development Minister Ebrahim Patel said on Thursday."
+Chevron,2017-5,"Sinopec will pay almost $1 billion for a 75 percent stake in Chevron Corp's South African assets and its subsidiary in Botswana to secure its first major refinery in Africa, the companies announced in March. [nL3N1GZ3PH]"
+Chevron,2017-5,"""A key concern that government will raise in every major transaction like this is how to retain and expand our industrial capability and includes in this case, refinery capability,"" Patel told reporters before his budget vote speech in parliament."
+Chevron,2017-5,Patel's ministry oversees competition authorities in Africa's most industrialised country.
+Chevron,2017-5,"South Africa has a history of taking its time over approving takeovers, partly because competition authorities have a public interest mandate to safeguard jobs in addition to an antitrust mandate to maintain competition."
+Chevron,2017-5,"In 2011, the regulator told U.S. retailer Wal-Mart Stores not to cut jobs for two years following its acquisition of South African retailer Massmart , delaying implementation of the $2.4 billion deal by at least two months."
+Chevron,2017-5,"Last year, Anheuser-Busch InBev said it would invest 1 billion rand ($77.3 million) to support small South African farmers as part of concessions agreed with the government to secure regulatory approval for its $100 billion-plus takeover of SABMiller."
+Chevron,2017-5,"Patel did not go into details of the Sinopec discussions, saying the deal with Chevron would still need to go for formal regulatory scrutiny. ($1 = 12.9335 rand)"
+Chevron,2017-5,"{{20170525T115743.249+0000}}South Africa's govt wants Sinopec to retain refinery capacityCAPE TOWN, May 25 (Reuters) - South Africa is in talks with China's Sinopec over its take-over of Chevron Corp's Cape Town refinery and will look to ensure that production capacity was retained and enhanced, Economic Development Minister Ebrahim Patel said on Thursday."
+Chevron,2017-5,"Sinopec will pay almost $1 billion for a 75 percent stake in Chevron Corp's South African assets and its subsidiary in Botswana to secure its first major refinery in Africa, the companies announced in March. [nL3N1GZ3PH]"
+Chevron,2017-5,"{{20170525T110313.511+0000}}RPT-ANALYSIS-U.S. oilfield service firms lag shale recovery; old deals hold(Repeats ANALYSIS published earlier, no changes to headline or text)"
+Chevron,2017-5,"HOUSTON, May 25 (Reuters) - U.S. oil services companies have been doing a lot more work as recovering oil prices have lifted the shale industry from a two-year slump, but producers have been pocketing much of the new cash generated by rising output and squeezing service providers to keep costs down."
+Chevron,2017-5,"Oil service companies that provide the crews, labor and technology used to drill, construct and operate wells are lagging the recovery in U.S. shale producers. The lopsided situation could chill the production rebound or keep it from spreading to more shale fields, executives of services companies said."
+Chevron,2017-5,"Rising demand for certain services means raising salaries to attract workers and refurbishing equipment, while often being paid under fixed contracts signed during harder times, these companies said. That has pressured margins, leading to further losses. Law firm Haynes and Boone LLP said the U.S. oilfield sector experienced 127 bankruptcies between 2015 and April 2017."
+Chevron,2017-5,"Among the 10 largest oilfield service providers, just five were profitable last quarter, the same number as a year ago. In contrast, seven of the top shale oil producers posted a first quarter profit, up from just one a year ago."
+Chevron,2017-5,"""Both of us have to be able to earn a return and give something back to our shareholders,"" David Lesar, chief executive officer of Halliburton Co , the world's second-largest oilfield services company, said in an interview."
+Chevron,2017-5,"The sector is struggling to change onerous contract terms set when oil prices were much lower. Service companies agreed to those prices out of necessity; they needed cash flow to cover expenses. Those contracts, some of which extend into next year, are contributing to losses, preventing some companies from adding equipment or moving it to oil fields where it could be put to use."
+Chevron,2017-5,"The expiration of those contracts should allow prices for high-demand services to rise, oilfield services executives said."
+Chevron,2017-5,"Even so, some of the changes that shale oil producers made during the downturn are likely to stick, making it harder for service firms to drive up prices."
+Chevron,2017-5,"Oil producers have better returns today because of those cost controls, winning greater favor among investors."
+Chevron,2017-5,"""Many of (oil producers) have reduced capex spending and are increasing capital returns to investors,"" said Tom Bergeron, a senior fund manager for Frost Investment Advisors."
+Chevron,2017-5,"Shale firms have demanded deals that unbundle the functions of service providers, allowing them to spread the work out among more companies, who then have less leverage to raise prices."
+Chevron,2017-5,Those practices allowed shale producer profits to start rebounding just a few months after oil prices began to recover from the $26 a barrel nadir of February 2016 . But it left services companies without a way to immediately benefit from the U.S. crude benchmark's return to about $50 a barrel.
+Chevron,2017-5,"Service companies hope they can raise prices by the second half of this year, but for now there is limited scope to pass along costs, Chakra Mandava, an operations executive at Nabors Drilling USA, , said at an energy conference this month in Houston."
+Chevron,2017-5,Nabors blamed its first quarter loss on an inability to offset costs for new staff and equipment.
+Chevron,2017-5,"Keane Group , which supplies pressure pumping services, one of the highest demand services in the shale patch, reported a first-quarter loss due largely to long-term, fixed price contracts, despite a 59 percent jump in revenue from the fourth quarter. [nL2N1H0233]"
+Chevron,2017-5,One proposal that might resolve the disconnect between oil price moves and contract changes is to tie deals to the cost of crude.
+Chevron,2017-5,"Apache Corp , which plans to drill some 250 wells this year in the Permian Basin, is looking to tie what it pays for services to the U.S. crude benchmark - converting fixed service costs to a variable cost in order to cushion the hit to earnings of future oil-price changes."
+Chevron,2017-5,"That way, if crude prices rise, Apache could afford to pay more for services, but would pay less if oil drops. Chevron also is tying some of its contracts to indexes in a bid to remain competitive, the company said at a recent security analysts meeting."
+Chevron,2017-5,"""We're just opening up the business model to what's possible,"" Michael Behounek, a senior drilling advisor for Apache, said in May at a drilling conference in Houston. ""We want to put a dampener in place."""
+Chevron,2017-5,"""They [service companies] don't want to ride the roller coaster either. If we go down this route, it might be good for both parties."""
+Chevron,2017-5,"{{20170525T084625.872+0000}}Venezuela says OPEC's task is stabilise oil market and force inventory-drawVIENNA, May 25 (Reuters) - The most important issue for OPEC is to stabilise the oil market and prompt a draw on global inventories, Venezuela's oil minister Nelson Martinez said on Thursday."
+Chevron,2017-5,"""The most important issue is to regulate and stabilise the market ... and bring inventories down to their five-year average"" Martinez told reporters."
+Chevron,2017-5,The Organization of the Petroleum Exporting Countries is meeting in Vienna to discuss whether to extend an accord reached in December in which it and 11 non-members agreed to cut oil output by about 1.8 million barrels per day in the first half of 2017.
+Chevron,2017-5,"""This is a problem for producers, rather than exporters. For the first time those of us that have oil-producing facilities in our countries are conscious of the need to regulate and stabilise the market ... and lower our production so as to drain inventory levels to their five-year average."""
+Chevron,2017-5,"Martinez said Venezuela, which is suffering from deep recession and has seen thousands take to the streets daily in protest, is currently producing around 1.97 million barrels per day of crude."
+Chevron,2017-5,"Martinez said he expected the current deal to be extended by nine months, but that six months ""was an option""."
+Chevron,2017-5,{{20170525T050001.159+0000}}ANALYSIS-U.S. oilfield service firms lag shale recovery; old deals holdBy Liz Hampton
+Chevron,2017-5,"HOUSTON, May 25 (Reuters) - U.S. oil services companies have been doing a lot more work as recovering oil prices have lifted the shale industry from a two-year slump, but producers have been pocketing much of the new cash generated by rising output and squeezing service providers to keep costs down."
+Chevron,2017-5,"Oil service companies that provide the crews, labor and technology used to drill, construct and operate wells are lagging the recovery in U.S. shale producers. The lopsided situation could chill the production rebound or keep it from spreading to more shale fields, executives of services companies said."
+Chevron,2017-5,"Rising demand for certain services means raising salaries to attract workers and refurbishing equipment, while often being paid under fixed contracts signed during harder times, these companies said. That has pressured margins, leading to further losses. Law firm Haynes and Boone LLP said the U.S. oilfield sector experienced 127 bankruptcies between 2015 and April 2017."
+Chevron,2017-5,"Among the 10 largest oilfield service providers, just five were profitable last quarter, the same number as a year ago. In contrast, seven of the top shale oil producers posted a first quarter profit, up from just one a year ago."
+Chevron,2017-5,"""Both of us have to be able to earn a return and give something back to our shareholders,"" David Lesar, chief executive officer of Halliburton Co , the world's second-largest oilfield services company, said in an interview."
+Chevron,2017-5,"The sector is struggling to change onerous contract terms set when oil prices were much lower. Service companies agreed to those prices out of necessity; they needed cash flow to cover expenses. Those contracts, some of which extend into next year, are contributing to losses, preventing some companies from adding equipment or moving it to oil fields where it could be put to use."
+Chevron,2017-5,"The expiration of those contracts should allow prices for high-demand services to rise, oilfield services executives said."
+Chevron,2017-5,"Even so, some of the changes that shale oil producers made during the downturn are likely to stick, making it harder for service firms to drive up prices."
+Chevron,2017-5,"Oil producers have better returns today because of those cost controls, winning greater favor among investors."
+Chevron,2017-5,"""Many of (oil producers) have reduced capex spending and are increasing capital returns to investors,"" said Tom Bergeron, a senior fund manager for Frost Investment Advisors."
+Chevron,2017-5,"Shale firms have demanded deals that unbundle the functions of service providers, allowing them to spread the work out among more companies, who then have less leverage to raise prices."
+Chevron,2017-5,Those practices allowed shale producer profits to start rebounding just a few months after oil prices began to recover from the $26 a barrel nadir of February 2016 . But it left services companies without a way to immediately benefit from the U.S. crude benchmark's return to about $50 a barrel.
+Chevron,2017-5,"Service companies hope they can raise prices by the second half of this year, but for now there is limited scope to pass along costs, Chakra Mandava, an operations executive at Nabors Drilling USA, , said at an energy conference this month in Houston."
+Chevron,2017-5,Nabors blamed its first quarter loss on an inability to offset costs for new staff and equipment.
+Chevron,2017-5,"Keane Group , which supplies pressure pumping services, one of the highest demand services in the shale patch, reported a first-quarter loss due largely to long-term, fixed price contracts, despite a 59 percent jump in revenue from the fourth quarter. [nL2N1H0233]"
+Chevron,2017-5,One proposal that might resolve the disconnect between oil price moves and contract changes is to tie deals to the cost of crude.
+Chevron,2017-5,"Apache Corp , which plans to drill some 250 wells this year in the Permian Basin, is looking to tie what it pays for services to the U.S. crude benchmark - converting fixed service costs to a variable cost in order to cushion the hit to earnings of future oil-price changes."
+Chevron,2017-5,"That way, if crude prices rise, Apache could afford to pay more for services, but would pay less if oil drops. Chevron also is tying some of its contracts to indexes in a bid to remain competitive, the company said at a recent security analysts meeting."
+Chevron,2017-5,"""We're just opening up the business model to what's possible,"" Michael Behounek, a senior drilling advisor for Apache, said in May at a drilling conference in Houston. ""We want to put a dampener in place."""
+Chevron,2017-5,"""They [service companies] don't want to ride the roller coaster either. If we go down this route, it might be good for both parties."""
+Chevron,2017-5,{{20170524T042520.455+0000}}PRESS DIGEST - Wall Street Journal - May 24May 24 (Reuters) - The following are the top stories in the Wall Street Journal. Reuters has not verified these stories and does not vouch for their accuracy.
+Chevron,2017-5,{{20170524T030344.330+0000}}UPDATE 1-Process units operational after power snag at Burnaby refinery - Chevron(Updates to say all process units are operating)
+Chevron,2017-5,"May 23 (Reuters) - Chevron Corp said on Tuesday that all process units were operating at its 57,000-barrel-per day (bpd) Burnaby, Vancouver refinery, after it had experienced power disruptions earlier in the day due to a windstorm."
+Chevron,2017-5,"""At this point our crews are working to restore regular operations,"" according to a company official."
+Chevron,2017-5,"{{20170524T024816.827+0000}}BRIEF-Chevron says all process units opertaional at Burnaby, Vancouver refineryMay 24 (Reuters) - Chevron Corp :"
+Chevron,2017-5,"* Chevron says all process units are operating, crews working to restore regular operations at Burnaby, Vancouver refinery"
+Chevron,2017-5,"Refinery capacity: 57,000 barrels per day Related: Chevron says power disruptions at Burnaby, Vancouver refinery [nFWN1IP0QY]"
+Chevron,2017-5,"{{20170524T022718.244+0000}}Chevron says power disruptions at Burnaby, Vancouver refineryMay 23 (Reuters) - Chevron Corp said on Tuesday that it was experiencing power disruptions due to a windstorm at its 57,000-barrel-per day (bpd) Burnaby, Vancouver refinery."
+Chevron,2017-5,"""The refinery is still operating, and we are working to stabilize the units,"" according to a company official."
+Chevron,2017-5,"{{20170523T215511.384+0000}}Venezuela oil executive arrested in corruption probeCARACAS, May 23 (Reuters) - Venezuela has arrested the manager of the Petropiar heavy crude upgrader, owned by state oil company PDVSA [PDVSA.UL] and U.S. major Chevron Corp , for alleged ""irregularities"" in contracts awarded in the oil-rich Orinoco Belt."
+Chevron,2017-5,"Francisco Velasquez was detained on May 13 and he remains behind bars in the city of Barcelona, in the eastern state of Anzoategui, the prosecutor's office said in a statement."
+Chevron,2017-5,"""The investigation began in 2015, after a complaint by PDVSA employees, who pointed out certain irregularities in the awarding of contracts with over-pricing of goods or services,"" the statement read."
+Chevron,2017-5,"President Nicolas Maduro's socialist government and Petroleos de Venezuela SA, familiarly known as PDVSA, have repeatedly vowed to take steps to combat corruption, which has affected Venezuela and its oil industry for decades. [nL2N1H61B7]"
+Chevron,2017-5,Opposition leaders have said PDVSA has been particularly crippled by malfeasance under 18 years of socialist rule. They say sporadic arrests are more the result of infighting among rival government factions than a concerted effort to root out wrongdoing.
+Chevron,2017-5,A probe last year by the opposition-run Congress said $11 billion had gone missing from PDVSA. The government dismissed that as part of a right-wing smear campaign.
+Chevron,2017-5,"PDVSA and Chevron, which has a 30 percent stake in Petropiar, did not immediately respond to a request for comment."
+Chevron,2017-5,"Local media last year published photos from Velasquez's Instagram account that appear to show him and his partner enjoying a lavish life, complete with holidays in Rome and Aruba, a house in the Dominican Republic, and a pink sports car."
+Chevron,2017-5,"The opposition says corrupt officials have enriched themselves on the back of a decade-long oil boom, while the majority of Venezuelans now struggle to eat three square meals a day amid food shortages and spiraling inflation."
+Chevron,2017-5,{{20170523T142234.421+0000}}UPDATE 2-Shell shareholders reject emissions target proposal* 94 pct of shareholders who voted rejected the resolution
+Chevron,2017-5,"THE HAGUE, May 23 (Reuters) - Royal Dutch Shell shareholders on Tuesday widely rejected a proposal by an environmental group calling for the oil company to set and publish annual targets to reduce carbon emissions."
+Chevron,2017-5,"The vote is a setback for climate activists who are increasing pressure on global oil companies, including U.S. firms Exxon Mobil and Chevron , to become more ambitious in helping combat climate change. [nL2N1IK1TB]"
+Chevron,2017-5,"Around 94 percent of Shell shareholders who cast a vote decided against resolution 21, according to final results reported following the company's annual general meeting (AGM) in The Hague. Roughly 5 percent of voters abstained."
+Chevron,2017-5,"""The resolution is an unreasonable ask,"" said Shell Chief Executive Ben van Beurden, promising to engage further with investors on how the oil company can become more transparent about its plans to tackle climate change."
+Chevron,2017-5,"Shell said binding emissions reduction targets would mean ""tying its hands"" and weakening the company because it would be forced to reduce production and sales."
+Chevron,2017-5,Growing investor sensitivity to climate change risks have already led Shell to invest in renewable energy projects such as offshore wind farms.
+Chevron,2017-5,Shareholders overwhelmingly approved the company's new remuneration policy which for the first time ties 10 percent of executives bonuses to cutting greenhouse gas emissions.[nL8N1II59A]
+Chevron,2017-5,Van Beurden's speech at Tuesday's AGM began with a 30 minute presentation of Shell's initiatives to help lower carbon emissions.
+Chevron,2017-5,"Mark van Baal, founder of the Follow This activist group which put forward the resolution, said the group would target other oil companies such as BP as soon as funding was available."
+Chevron,2017-5,"There was also little opposition to a 60 percent increase in van Beurden's pay package, with 93 percent of shareholders supporting it in Tuesday's vote. [nL5N1GM1SF]"
+Chevron,2017-5,"Last week, shareholders of rival London-listed oil company BP approved CEO Bob Dudley's pay package, which was 40 percent lower than the previous year. [nL8N1IJ463]"
+Chevron,2017-5,"Last year, some 60 percent of shareholders voted against Dudley's pay package of nearly $20 million."
+Chevron,2017-5,{{20170523T125741.308+0000}}Chevron threatens to fire Bangladesh staff protesting asset sale - letterBy Serajul Quadir
+Chevron,2017-5,"DHAKA, May 23 (Reuters) - U.S. oil company Chevron has threatened to fire staff protesting against the planned sale of its assets in Bangladesh to Chinese investors, according to a letter seen by Reuters, in a row that could delay the estimated $2 billion deal."
+Chevron,2017-5,"Chevron in April announced the sale of its stakes in three Bangladesh gasfields to Himalaya Energy, which is owned by a consortium made up of state-owned China ZhenHua Oil and CNIC Corp, a Chinese government investment platform. [nL4N1HW3SR]"
+Chevron,2017-5,"The deal would mark China's first major energy investment in the South Asian country, where Beijing is pumping in billions of dollars in a race with India and Japan for influence."
+Chevron,2017-5,"Six hundred staff at Chevron's subsidiary have halted work related to the transition because the deal has not been approved by the government, said Shahriar Abedin, secretary general of Chevron Bangladesh Employees Union (CBEU), who called the process illegal."
+Chevron,2017-5,"Chevron said in the letter, dated May 23, that all employees must comply with requests to do work related to the transition to ensure a smooth and efficient move to new ownership."
+Chevron,2017-5,"""A refusal by any employee to comply with such requests by their supervisor will be subject to disciplinary action, including up to a termination of employment,"" the letter said."
+Chevron,2017-5,"Chevron sells all the output from its Bangladeshi fields, which amounts to 16 million tonnes a year of oil equivalent and is more than half the country's total gas production, to state-run Petrobangla."
+Chevron,2017-5,"The Bangladesh government has the right of first refusal in any sale of Chevron's assets in the country. Mahbub Sarwar, a director at Petrobangla, said the U.S. company needed Petrobangla's approval for a sale to proceed."
+Chevron,2017-5,"He said the government's decision about whether to use its pre-emption rights depended on a report from energy consultant Wood Mackenzie, which has been mandated to evaluate Chevron's assets in Bangladesh."
+Chevron,2017-5,"The Chevron workers union sent a notice on Tuesday to Kevin Lyon, President of Chevron Bangladesh, terming the company's activities as non-compliant, said the CBEU's Abedin."
+Chevron,2017-5,"""We need security and guarantee of our job at least for three years after the handover to the new company. We also wanted guarantee of our achieved gratitude money and compensation,"" he said."
+Chevron,2017-5,Chevron Bangladesh said it had offered a generous compensation package for staff.
+Chevron,2017-5,"""The package included guaranteed employment for two years and a goodwill bonus payment equivalent to nine months salary,"" Chevron said in an emailed response to Reuters."
+Chevron,2017-5,"""Regretfully, employee representatives have refused to accept this benefits package and have instead elected to declare an industrial dispute with the company,"" it said."
+Chevron,2017-5,{{20170523T122458.441+0000}}UPDATE 1-Company climate risk disclosure could become mandatory in a few years(Adds Shell shareholder vote result)
+Chevron,2017-5,"LONDON, May 23 (Reuters) - Companies' disclosure of risks to their business from climate change could become mandatory in a few years as investor pressure gathers pace, climate finance experts said on Tuesday."
+Chevron,2017-5,"Investors have urged companies, particularly those operating in the oil, gas and coal sectors, to disclose the financial impact of long-term climate change and increase transparency as the world shifts away from fossil fuels."
+Chevron,2017-5,"""I think we are moving towards the disclosure of climate change risks and stress testing of investments by companies. That is something which is gaining traction,"" John Roome, senior director of climate change at the World Bank, told an FT climate finance summit in London."
+Chevron,2017-5,"""We are now in the voluntary stage but I suspect that in a few years we may very well see standardised requirements from various regulatory authorities on disclosure of climate risk,"" he added."
+Chevron,2017-5,"Last year, a global task force set up by the G20's Financial Stability Board proposed that companies disclose in their public financial findings how they identify and manage risks to their business from climate change."
+Chevron,2017-5,"Although the measures are voluntary, there are calls for them to become mandatory."
+Chevron,2017-5,"This could happen in a few years and further ahead prudential requirements could be placed on potential stranded assets, Roome said, using a term for assets that no longer provide an economic return because of changes in the market or regulatory environment."
+Chevron,2017-5,"Last year, institutions managing trillions of U.S. dollars of assets called for oil majors Exxon Mobil and Chevron to disclose the impact of curbing global temperature rise on their businesses, although shareholders narrowly voted against resolutions calling for such stress tests."
+Chevron,2017-5,"On Tuesday, Royal Dutch Shell shareholders rejected a proposal by an environmental activist group demanding the oil major sets and publishes annual targets to reduce carbon emissions. [nL9N1BB01U]"
+Chevron,2017-5,"There are also a number of financial regulators who argue that climate risk is not part of companies' core business, Roome said."
+Chevron,2017-5,"Environmental lawyer Alice Garton at ClientEarth said existing laws apply to company disclosure where climate risks are material, or affect the economic decisions of shareholders."
+Chevron,2017-5,There have already been lawsuits in the United States against Exxon Mobil and coal miner Peabody Energy Corp over disclosures related to climate change.
+Chevron,2017-5,"ClientEarth said it had written to energy company BP , miner and trader Glencore and investors this week warning of the risk of investor lawsuits based on statements about future fossil fuel demand in their reporting."
+Chevron,2017-5,"""It is highly likely that more cases like Peabody and Exxon arise in the future. Class action lawyers have become very clever at developing these cases for profit,"" said Garton, company and financial project leader at ClientEarth."
+Chevron,2017-5,{{20170523T121008.604+0000}}Company climate risk disclosure could become mandatory in a few yearsBy Nina Chestney
+Chevron,2017-5,"LONDON, May 23 (Reuters) - Companies' disclosure of risks to their business from climate change could become mandatory in a few years as investor pressure gathers pace, climate finance experts said on Tuesday."
+Chevron,2017-5,"Investors have urged companies, particularly those operating in the oil, gas and coal sectors, to disclose the financial impact of long-term climate change and increase transparency as the world shifts away from fossil fuels."
+Chevron,2017-5,"""I think we are moving towards the disclosure of climate change risks and stress testing of investments by companies. That is something which is gaining traction,"" John Roome, senior director of climate change at the World Bank, told an FT climate finance summit in London."
+Chevron,2017-5,"""We are now in the voluntary stage but I suspect that in a few years we may very well see standardised requirements from various regulatory authorities on disclosure of climate risk,"" he added."
+Chevron,2017-5,"Last year, a global task force set up by the G20's Financial Stability Board proposed that companies disclose in their public financial findings how they identify and manage risks to their business from climate change."
+Chevron,2017-5,"Although the measures are voluntary, there are calls for them to become mandatory. This could happen in a few years and further ahead, prudential requirements could be placed on potential stranded assets, Roome said."
+Chevron,2017-5,"Last year, institutions managing trillions of U.S. dollars of assets called for oil majors Exxon Mobil and Chevron to disclose the impact of curbing global temperature rise on their businesses, although shareholders narrowly voted against resolutions calling for such stress tests."
+Chevron,2017-5,Investors are also pushing oil giant Royal Dutch Shell to explain the finer details of its plan to link executives' bonus pay to lowering carbon emissions. [nL8N1II59A]
+Chevron,2017-5,"However, there are a number of financial regulators who argue that climate risk is not part of companies' core business, Roome said."
+Chevron,2017-5,"Environmental lawyer Alice Garton at ClientEarth said existing laws apply to company disclosure where climate risks are material, or affect the economic decisions of shareholders."
+Chevron,2017-5,There have already been lawsuits in the United States against Exxon Mobil and coal miner Peabody Energy Corp over disclosures related to climate change.
+Chevron,2017-5,"ClientEarth said it had written to energy company BP , miner and trader Glencore and investors this week warning of the risk of investor lawsuits based on statements about future fossil fuel demand in their reporting."
+Chevron,2017-5,"""It is highly likely that more cases like Peabody and Exxon arise in the future. Class action lawyers have become very clever at developing these cases for profit,"" said Garton, company and financial project leader at ClientEarth."
+Chevron,2017-5,"{{20170523T112950.243+0000}}Thailand's largest oil and gas firm plans new Asia investmentBANGKOK, May 23 (Reuters) - Thailand's largest oil and gas explorer PTT Exploration and Production Pcl (PTTEP) is planning new investments or an extension of its operations in fields in Thailand, Malaysia and Myanmar, it said on Tuesday."
+Chevron,2017-5,"In Thailand, state-owned PTTEP would bid to extend its concession to operate the Bongkot gas field beyond the existing expiry date of 2023, Executive Vice President Yongyot Krongpanich told an investor briefing."
+Chevron,2017-5,"""We are confident that we will win the concession as we have expertise from operating in this field for two decades,"" he said, adding the result was expected in the first quarter of 2018."
+Chevron,2017-5,"PTTEP was also in talks for a joint bid with Chevron Group for Thailand's Erawan gas field concession, but was ready to compete against the U.S. major when the tender opens in September if no agreement for a joint bid was reached, he said."
+Chevron,2017-5,"The existing concession for Erawan, which is now operated by Chevron, expires in 2022. [nL3N1H828P]"
+Chevron,2017-5,"Yongyot also said PTTEP planned investments in Malaysia and Myanmar, but did not give details."
+Chevron,2017-5,"PTTEP had $4.4 billion cash and had no plans to issue bonds, he said."
+Chevron,2017-5,PTTEP said earlier this month it was suspending investment in Indonesia after the Indonesian government filed a $2 billion lawsuit against the Thai state-owned energy firm for alleged damage from an oil spill eight years ago. [nL4N1IB25T]
+Chevron,2017-5,"The firm said it expected an average sale of about 300,000 barrels of oil equivalent per day (BOED) in the second quarter, compared with 304,000 BOED in the first quarter."
+Chevron,2017-5,"Parent firm PTT Pcl , Thailand's largest energy firm, plans an initial public offering (IPO) in 2018 of its spin-off company, PTT Oil and Retail (PTTOR), Investor Relations Manager Pichin Apiwanaphon told another investor briefing."
+Chevron,2017-5,"After the IPO, PTT will remain a major shareholder of PTTOR but with less than 50 percent."
+Chevron,2017-5,"{{20170522T185939.134+0000}}BUZZ- Make or break on the charts for DJI's energy duo** DJI's <.DJI> two oil & gas stocks, Exxon Mobil and Chevron not exactly burning up the charts this year [nL1N1IA0DW]; both stocks among biggest drags on the blue-chip index"
+Chevron,2017-5,"** While DJI has gained close to 6 pct YTD, XOM + CVX composite down about 10 pct. Roughly in-line with S&P 500 energy sector <.SPNY> 10.2 pct loss [nL1N1I70K3]"
+Chevron,2017-5,** Composite recent lows ($184.13/$185.26) above 2-year channel support (now $182.70) and Sep 2016 trough ($180.08)
+Chevron,2017-5,"** Meanwhile, since breaking down in Dec, daily RSI once again exhibiting bear-market behavior; unable to push into overbought territory, as was case during protracted 2014/2015 decline"
+Chevron,2017-5,"** Though composite/DJI ratio flirting with its 2015 low, trough yet to be broken [nL2N1IJ0G5]; that trough established as >40 pct bear-market slide from 2014 peak ended"
+Chevron,2017-5,"** Composite needs to reclaim 200-DMA (now $193.03) with RSI over 70.00 and ratio rising, to add credence to a low being in, suggest room for substantial bull-turn in Dow 30's energy group"
+Chevron,2017-5,"** Closes below channel support/Sept low will instead likely see RSI continue to meander, ratio break to new lows, suggest group vulnerable to much more significant decline, and greater period of underperformance"
+Chevron,2017-5,"{{20170522T110001.478+0000}}Ahead of Exxon's annual meeting, climate activists gain groundBy Ross Kerber"
+Chevron,2017-5,"BOSTON, May 22 (Reuters) - Shareholder activists focused on climate issues are gaining traction in their push to have large energy companies and utilities take account of the impact rising global temperatures could have on their businesses."
+Chevron,2017-5,Proponents ranging from giant New York and California state pension funds to Wespath Investment Management of Illinois scored a number of victories this month.
+Chevron,2017-5,Those include a resolution at PPL Corp approved by 57 percent of votes cast calling for the utility holding company to publicly report how it could be affected by policies and technologies aimed at limiting global warning.
+Chevron,2017-5,"The PPL result comes on the heels of a vote at Occidental Petroleum Corp on a similar resolution, backed by two-thirds of votes cast. Also, top proxy advisers recommended votes in favor of a third such resolution set for Exxon Mobil Corp's annual meeting on May 31.[nL4N1IL1K7]"
+Chevron,2017-5,"Activists say the developments suggest they are at an inflection point after years of seeking support from big institutional investors like BlackRock Inc. The giant New York asset manager switched sides in this year's vote at Occidental, citing concerns about the company's pace of disclosures to date.[nL1N1IE20Q]"
+Chevron,2017-5,"The reports the activists have sought through the advisory shareholder resolutions are sometimes known as ""2 degree scenario analysis"" reports after the goal of the 2015 Paris climate accord to limit global temperature increases to 2 degrees Celsius (3.6 degrees Fahrenheit) from preindustrial levels by phasing out fossil fuels."
+Chevron,2017-5,"The limits could hit companies' bottom lines such as by reducing the revenue they can expect from extracting fossil fuel reserves. Activists hope that having the companies lay out plans for dealing with future regulatory, technology and market changes will smooth their transition to cleaner energy."
+Chevron,2017-5,"Edward Kamonjoh, executive director of the 50/50 Climate Project in Washington, which supports the resolutions, said actions by U.S. President Donald Trump like the dismantling of Obama-era climate policies may have moved big investors to take on a more active role."
+Chevron,2017-5,"While Trump has not so far followed through on a campaign promise to take the United States out of the Paris deal, investors cannot count on strong environmental regulations in the future, he said."
+Chevron,2017-5,"""Investors who feel that climate is a risk now realize they just have themselves to manage this risk in the next few years,"" Kamonjoh said."
+Chevron,2017-5,"Most energy company and utility boards have urged their investors to oppose the measures, some arguing they already take climate change seriously."
+Chevron,2017-5,A key test of investors' mood will come at the end of May at Exxon. The largest U.S. oil & gas producer argues a climate report is unnecessary because it already conducts reviews that sufficiently test its business for impacts from changing technology and energy demand.
+Chevron,2017-5,"Exxon has offered other arguments including that it supports the Paris agreement, Exxon Secretary Jeffrey Woodbury told investors in a May 18 letter, and that it has invested nearly $7 billion since 2000 on emissions-reduction technology."
+Chevron,2017-5,"At PPL, spokesman Ryan Hill said via e-mail that its board ""will carefully consider the results and determine the best path forward."" PPL is committed to sustainable energy, he said, noting steps it has taken such as retiring coal plants and building Kentucky's largest solar power facility."
+Chevron,2017-5,"Some companies have made changes even without votes. Activists including Wespath on May 2 said they withdrew a call for a climate-change report from Chevron Corp, citing an 18-page document Chevron issued in March titled ""Managing Climate Risks"" as a good first step."
+Chevron,2017-5,"While it did not analyze all the scenarios sought by activists, the report went further than past efforts to outline how climate change could affect its profitability."
+Chevron,2017-5,"Chevron CEO John Watson said in the report he ""shares the concerns of governments and the public about climate change risks."""
+Chevron,2017-5,"Also, Danielle Fugure, president of California nonprofit As You Sow, said last month it withdrew a shareholder resolution calling for a climate risk report from Anadarko Petroleum Corp.. In return, she said, the Texas company agreed to continue to work with her group and others to develop methods for reporting on climate risks that would be practical for the company but still convey to investors the full extent of the risks it could face."
+Chevron,2017-5,"Anadarko spokesman John Christiansen confirmed the agreement. ""We are consistently looking for ways to further enhance sustainability in our operations, as well as improve transparency regarding these efforts,"" he said via e-mail."
+Chevron,2017-5,"Fugure said the high vote totals such as at Occidental show how climate change is becoming an accepted business issue. ""The market itself is moving to take carbon risk into account, and the market itself will be pricing carbon risk into the value of companies,"" she said."
+Chevron,2017-5,{{20170519T172512.584+0000}}UPDATE 1-U.S. drillers add oil rigs for 18th week in a row -Baker Hughes(Adds rig count from same week last year)
+Chevron,2017-5,"an 18th week in a row, the second-longest such streak on record,"
+Chevron,2017-5,to boost monthly shale production to its highest level since
+Chevron,2017-5,"Drillers added eight oil rigs in the week to May 19,"
+Chevron,2017-5,That is more than double the same week a year ago when there
+Chevron,2017-5,"It was the second-longest run of weekly additions, according"
+Chevron,2017-5,to Baker Hughes data going back to 1987. Drillers added rigs for
+Chevron,2017-5,OPEC and other producers will meet on May 25 to decide
+Chevron,2017-5,whether to extend the cuts aimed at reducing a global crude
+Chevron,2017-5,"consecutive month in June to 5.4 million bpd, its highest since"
+Chevron,2017-5,"investment bank Piper Jaffray, this week forecast the total oil"
+Chevron,2017-5,"That compares with an average of 786 so far in 2017, 509 in"
+Chevron,2017-5,"be the most since 2014 when there were 1,862 active rigs. The"
+Chevron,2017-5,U.S./Canada natural gas rig count versus Henry Hub futures price
+Chevron,2017-5,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+Chevron,2017-5,"For a list of all Baker Hughes rig counts around the world, see:"
+Chevron,2017-5,{{20170519T170428.532+0000}}U.S. drillers add oil rigs for 18th week in a row -Baker HughesMay 19 (Reuters) - U.S. energy firms added oil rigs for an
+Chevron,2017-5,"Drillers added 8 oil rigs in the week to May 19, bringing"
+Chevron,2017-5,The 18-week streak of rig increases was the second-longest
+Chevron,2017-5,run of additions since drillers added rigs for 19 weeks in a row
+Chevron,2017-5,"around $50 on Friday, putting the front-month contract on track"
+Chevron,2017-5,other nations will extend production cuts beyond the end of
+Chevron,2017-5,OPEC and other producers will meet on May 25 to decide
+Chevron,2017-5,"whether to extend the cuts. Saudi Arabia, which is OPEC's"
+Chevron,2017-5,"de-facto leader, Russia and other countries have already agreed"
+Chevron,2017-5,on the need for an extension of the cuts through the end of 2017
+Chevron,2017-5,"consecutive month in June to 5.4 million bpd, its highest since"
+Chevron,2017-5,"investment bank Piper Jaffray, this week forecast the total oil"
+Chevron,2017-5,"That compares with an average of 786 so far in 2017, 509 in"
+Chevron,2017-5,"be the most since 2014 when there were 1,862 active rigs. The"
+Chevron,2017-5,U.S./Canada natural gas rig count versus Henry Hub futures price
+Chevron,2017-5,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+Chevron,2017-5,"For a list of all Baker Hughes rig counts around the world, see:"
+Chevron,2017-5,"{{20170519T121553.469+0000}}Indonesia offers 15 oil blocks amid thin industry interestJAKARTA, May 19 (Reuters) - Indonesia is offering 15 conventional and unconventional oil and gas blocks to potential bidders, government officials said on Friday, hoping more flexible terms will help reverse flagging interest in the sector after lacklustre performance in 2016."
+Chevron,2017-5,"This year the government is applying new production sharing rules and will revise rules on recoverable costs and cut import duties on exploration equipment where possible, said deputy energy minister Arcandra Tahar, among efforts to incentivise new investment. [nL4N1EE3K2][nL4N1F92DN]"
+Chevron,2017-5,"JAKARTA, May 19 (Reuters) - Indonesia is offering 15 conventional and unconventional oil and gas blocks to potential bidders, government officials said on Friday, hoping more flexible terms will help reverse flagging interest in the sector after lacklustre performance in 2016."
+Chevron,2017-5,"This year the government is applying new production sharing rules and will revise rules on recoverable costs and cut import duties on exploration equipment where possible, said deputy energy minister Arcandra Tahar, among efforts to incentivise new investment. [nL4N1EE3K2][nL4N1F92DN]"
+Chevron,2017-5,"""If you can show us in your analysis and data that the split is not good enough, let's talk,"" Tahar said, promising to listen more closely to investors."
+Chevron,2017-5,"""If the result is not enough, we have 5 percent discretion from the minister. If that's still not enough, now we have a problem."""
+Chevron,2017-5,"The latest offer includes 10 conventional blocks and 5 non-conventional oil and gas blocks and all will be offered under a gross split production sharing contract scheme, Wiratmaja Puja, director general of oil and gas told reporters."
+Chevron,2017-5,"Unlike the conventional pools of oil and natural gas, unconventional oil and natural gas do not flow naturally through the rock, making them much more difficult to produce."
+Chevron,2017-5,"Shale gas: 1. Jambi I 2. Jambi II Coal bed methane: 1. Raja (South Sumatra) 2. Bungamas (South Sumatra) 3. West Air Komering (South Sumatra) Indonesia offered a total of 17 oil and gas blocks last year, according to Tunggal, Indonesia's upstream oil and gas director."
+Chevron,2017-5,"""There were lots of bids, but because of evaluations in the end there was only one winner,"" he said."
+Chevron,2017-5,"Thin interest in the 2016 tender was a result of low oil prices, among other factors, said Tahar, who denied that Indonesia was unattractive to energy investors."
+Chevron,2017-5,"""It wasn't the (investment) climate, but there was a combination of what investors' strategies were like (and) oil prices were down,"" Tahar told reporters, noting that the recently introduced gross split mechanism had not proven to be more or less attractive yet."
+Chevron,2017-5,"""In fact we are now more open to change things that never used to be changed. We have opened everything now,"" he added."
+Chevron,2017-5,"""When oil prices pick up (investment) doesn't necessarily go up. It's slow - there's a lag."""
+Chevron,2017-5,"But industry participants were less enthusiastic about the latest offer, and said more work is still needed to make Indonesia attractive."
+Chevron,2017-5,"""In Indonesia at the moment, the returns are difficult, the time to get a return is too long, and the risk of political involvement is quite high,"" said Andrew Harwood, director of Asia Pacific upstream oil and gas research at WoodMackenzie."
+Chevron,2017-5,"""So it's difficult for Indonesia at the current stage to get the gross split to be attractive against other opportunities oil and gas companies have elsewhere,"" he said referring to opportunities in the Gulf of Mexico, Africa, Europe and Australia."
+Chevron,2017-5,"""Indonesia is less economically competitive than other countries,"" said one executive at an international oil company operating in Indonesia, speaking on condition of anonymity because of the sensitivity of the matter."
+Chevron,2017-5,"""Production is going down in oil and gas, while a lot of countries are increasing, so I think that says it all."""
+Chevron,2017-5,"Despite President Joko Widodo's efforts to improve the ease of doing business for energy investors in Indonesia, there is ""still much more work to do,"" he said."
+Chevron,2017-5,"Countries that have traditionally done a very good job in attracting capital from energy investors were those that provided competitive fiscal terms, contract sanctity and a stable regulatory regime, he said."
+Chevron,2017-5,"""Indonesia has to compete well for capital or they'll go somewhere else."""
+Chevron,2017-5,{{20170519T105945.382+0000}}FACTBOX-China's LNG import terminals and plans(Adds ENN's Zhoushan and Guangzhou Gas's Nansha terminals)
+Chevron,2017-5,company to get state approval to build and operate a liquefied
+Chevron,2017-5,"natural gas import terminal, now expects to be ready to take its"
+Chevron,2017-5,"first gas by the middle of next year, an executive said."
+Chevron,2017-5,"third terminal this year, Chen Bo, president of the company's"
+Chevron,2017-5,Since the first LNG terminal in Guangdong province opened in
+Chevron,2017-5,2006 China has become the world's third largest buyer of LNG
+Chevron,2017-5,*These plants have received initial but not final approval from
+Chevron,2017-5,Wood Group wins a ten-year services contract from Chevron - Reuters Investor Briefs
+Chevron,2017-5,Wood Group wins a ten-year services contract from Chevron - Reuters Investor Briefs
+Chevron,2017-5,{{20170517T130505.100+0000}}BRIEF-Wood Group wins a ten-year services contract from ChevronMay 17 (Reuters) - John Wood Group Plc :
+Chevron,2017-5,* Signs global master services agreement with Chevron and is awarded conceptual engineering contracts for Tigris and Anchor
+Chevron,2017-5,"{{20170517T110002.103+0000}}RPT-INSIGHT-In America's largest oilfield, whir of activity confounds OPEC(Repeats for additional clients with no changes to text)"
+Chevron,2017-5,"LEA COUNTY, N.M., May 17 (Reuters) - As oilfield workers for Lilis Energy Inc threaded together drill pipes one recent morning in the Permian Basin, a bulldozer cleared sagebrush to make way for the company's fifth well since January."
+Chevron,2017-5,Lilis aims to expand production sevenfold this year in America's most active oilfield.
+Chevron,2017-5,"The whir of activity is all the more impressive after the small firm nearly collapsed in late 2015 - amid unrestrained production from the Organization of the Petroleum Exporting Countries (OPEC). As per-barrel prices plummeted, Lilis piled on debt and struggled to pay workers."
+Chevron,2017-5,Now - with prices higher after a November OPEC decision to cut output - Lilis can't grow fast enough.
+Chevron,2017-5,"Such resurrections are common these days in the Permian, which stretches across West Texas and eastern New Mexico. They tell the story of the U.S. shale resurgence and the quandary it poses for OPEC as it struggles to tame a global glut."
+Chevron,2017-5,"Surging U.S. production has stalled OPEC's effort to cut supply. Inventories in industrialized nations totaled 3.05 billion barrels in February - about 330 million barrels above the five-year average, according to the International Energy Agency."
+Chevron,2017-5,The Permian boom will be high on the agenda as OPEC oil ministers begin gathering in Vienna ahead of a May 25 policy meeting to decide whether to extend output cuts.[nL4N1IA1M6]
+Chevron,2017-5,"In the long term, too much U.S. output could spur OPEC to open the spigots again - setting off another price war - but for now its member nations' need for revenue makes that unlikely."
+Chevron,2017-5,"On Monday, the world's top two oil producers - OPEC heavyweight Saudi Arabia and Russia, a non-OPEC nation - said they had agreed in principle on the need to continue output cuts for an additional nine months, through March 2018. [nL4N1IH4FH]"
+Chevron,2017-5,"That would extend the initial agreement, which took effect in January and reduced production by 1.2 barrels per day (bpd) from OPEC nations and another 600,000 bpd from non-OPEC producers, including Russia."
+Chevron,2017-5,The pledge to extend cuts marked an evolution in the thinking of Saudi Arabia Oil Minister Khalid al-Falih - in response to surging U.S. output.
+Chevron,2017-5,"After OPEC's decision in November, Al-Falih expressed confidence that no further supply curbs would be needed because of rising demand."
+Chevron,2017-5,"Then in March, Al-Falih told a Houston energy conference that the ""green shoots"" in U.S. shale might be ""growing too fast"" - and warned there would be no ""free rides"" for U.S. producers benefiting from OPEC production cuts."
+Chevron,2017-5,"But by last week, Al-Falih vowed OPEC would do ""whatever it takes"" to control oversupply."
+Chevron,2017-5,"Unlike OPEC nations, U.S. firms are barred by anti-trust laws from colluding to control output or prices, leaving market demand as the only check on production."
+Chevron,2017-5,"""I'm really proud American production is offsetting those OPEC cuts,"" said Lilis Chief Executive Avi Mirman."
+Chevron,2017-5,Now it appears the free ride for U.S. shale producers will continue at least into next year.
+Chevron,2017-5,"U.S. oil output has jumped to 9.31 million bpd this year, up 440,000 bpd from 2016, according to U.S. Energy Information Agency estimates."
+Chevron,2017-5,"About a quarter of that production comes from the Permian, where broad-based growth comes from small firms like Lilis, global majors including Exxon Mobil Corp and large independents such as Parsley Energy Inc ."
+Chevron,2017-5,OPEC's two-year price war sank hundreds of companies and forced majors including Exxon and Chevron Corp to retrench - but it also and stirred their interest in shale.
+Chevron,2017-5,Exxon paid nearly $7 billion in February to double its acreage in the Permian. [nL4N1F74E1]
+Chevron,2017-5,"Earlier this month, about 20 miles (32 km) south of Midland, Texas - the center of the basin's industry - a crew from ProPetro Holding Corp was hydraulically fracturing, or fracking, an Exxon well."
+Chevron,2017-5,"Silver silos held 18 million pounds of sand, which would be mixed with 22 million gallons of water and forced into the well, unlocking oil trapped in rock."
+Chevron,2017-5,"""We're really approaching the Permian as a major project,"" Sara Ortwein, president of Exxon's shale-focused subsidiary, XTO Energy, said in an interview."
+Chevron,2017-5,"Across the Permian, the number of rigs this year has risen 30 percent and the number of fracking crews has jumped 40 percent, according to Primary Vision, which tracks oilfield service equipment usage."
+Chevron,2017-5,"That won't change soon, said Mark Papa, CEO of Centennial Resource Development Inc , which added to its Permian land holdings this month with a $350 million deal."
+Chevron,2017-5,"""A disproportionate amount of U.S. production growth between now and the end of the decade will come from the Permian,"" Papa said in an interview."
+Chevron,2017-5,"In a reversal from the thousands of layoffs here in 2015, oil companies are hiring briskly."
+Chevron,2017-5,"Fracking service provider Keane Group Inc , for instance, has plans to hire at least 240 workers this year."
+Chevron,2017-5,"For the growth to continue, however, prices will have to rise for rigs and other services, executives and analysts have said."
+Chevron,2017-5,"Paul Mosvold, president of drilling contractor Scandrill Inc, has more business than he can handle."
+Chevron,2017-5,"""We're out of rigs,"" he said. ""We have been since January."""
+Chevron,2017-5,"But he won't add more rigs unless producers pay more - maybe $25,000 per day, instead of the current $15,000 to $19,000. That may depend on per-barrel prices going up, an unlikely prospect amid expanding supply."
+Chevron,2017-5,"Oil drillers, meanwhile, continue to hunt for new cost-cutting technologies - after already halving the cost of extracting a barrel since 2014."
+Chevron,2017-5,"Parsley is cutting labor costs with sensors on wells that transmit production and maintenance data to its headquarters in Austin, Texas. [nASA09N8C]"
+Chevron,2017-5,"""We're constantly getting more efficient,"" Mark Timmons, Parsley's vice president of field operations."
+Chevron,2017-5,"The Lilis revival started last year with debt-for-equity swaps and a merger with another troubled oil producer, giving Lilis access to Permian acreage."
+Chevron,2017-5,The company's market value has risen to $210 million from about $3 million two years ago.
+Chevron,2017-5,"At the company's newest well site, Lilis CEO Mirman checked drilling progress on his iPhone and shrugged off any worries about OPEC's next move."
+Chevron,2017-5,"""We're using every tool at our disposal to grow,"" he said."
+Chevron,2017-5,"{{20170517T050001.945+0000}}INSIGHT-In America's largest oilfield, whir of activity confounds OPECBy Ernest Scheyder"
+Chevron,2017-5,"LEA COUNTY, N.M., May 17 (Reuters) - As oilfield workers for Lilis Energy Inc threaded together drill pipes one recent morning in the Permian Basin, a bulldozer cleared sagebrush to make way for the company's fifth well since January."
+Chevron,2017-5,Lilis aims to expand production sevenfold this year in America's most active oilfield.
+Chevron,2017-5,"The whir of activity is all the more impressive after the small firm nearly collapsed in late 2015 - amid unrestrained production from the Organization of the Petroleum Exporting Countries (OPEC). As per-barrel prices plummeted, Lilis piled on debt and struggled to pay workers."
+Chevron,2017-5,Now - with prices higher after a November OPEC decision to cut output - Lilis can't grow fast enough.
+Chevron,2017-5,"Such resurrections are common these days in the Permian, which stretches across West Texas and eastern New Mexico. They tell the story of the U.S. shale resurgence and the quandary it poses for OPEC as it struggles to tame a global glut."
+Chevron,2017-5,"Surging U.S. production has stalled OPEC's effort to cut supply. Inventories in industrialized nations totaled 3.05 billion barrels in February - about 330 million barrels above the five-year average, according to the International Energy Agency."
+Chevron,2017-5,The Permian boom will be high on the agenda as OPEC oil ministers begin gathering in Vienna ahead of a May 25 policy meeting to decide whether to extend output cuts.[nL4N1IA1M6]
+Chevron,2017-5,"In the long term, too much U.S. output could spur OPEC to open the spigots again - setting off another price war - but for now its member nations' need for revenue makes that unlikely."
+Chevron,2017-5,"On Monday, the world's top two oil producers - OPEC heavyweight Saudi Arabia and Russia, a non-OPEC nation - said they had agreed in principle on the need to continue output cuts for an additional nine months, through March 2018. [nL4N1IH4FH]"
+Chevron,2017-5,"That would extend the initial agreement, which took effect in January and reduced production by 1.2 barrels per day (bpd) from OPEC nations and another 600,000 bpd from non-OPEC producers, including Russia."
+Chevron,2017-5,The pledge to extend cuts marked an evolution in the thinking of Saudi Arabia Oil Minister Khalid al-Falih - in response to surging U.S. output.
+Chevron,2017-5,"After OPEC's decision in November, Al-Falih expressed confidence that no further supply curbs would be needed because of rising demand."
+Chevron,2017-5,"Then in March, Al-Falih told a Houston energy conference that the ""green shoots"" in U.S. shale might be ""growing too fast"" - and warned there would be no ""free rides"" for U.S. producers benefiting from OPEC production cuts."
+Chevron,2017-5,"But by last week, Al-Falih vowed OPEC would do ""whatever it takes"" to control oversupply."
+Chevron,2017-5,"Unlike OPEC nations, U.S. firms are barred by anti-trust laws from colluding to control output or prices, leaving market demand as the only check on production."
+Chevron,2017-5,"""I'm really proud American production is offsetting those OPEC cuts,"" said Lilis Chief Executive Avi Mirman."
+Chevron,2017-5,Now it appears the free ride for U.S. shale producers will continue at least into next year.
+Chevron,2017-5,"U.S. oil output has jumped to 9.31 million bpd this year, up 440,000 bpd from 2016, according to U.S. Energy Information Agency estimates."
+Chevron,2017-5,"About a quarter of that production comes from the Permian, where broad-based growth comes from small firms like Lilis, global majors including Exxon Mobil Corp and large independents such as Parsley Energy Inc ."
+Chevron,2017-5,OPEC's two-year price war sank hundreds of companies and forced majors including Exxon and Chevron Corp to retrench - but it also and stirred their interest in shale.
+Chevron,2017-5,Exxon paid nearly $7 billion in February to double its acreage in the Permian. [nL4N1F74E1]
+Chevron,2017-5,"Earlier this month, about 20 miles (32 km) south of Midland, Texas - the center of the basin's industry - a crew from ProPetro Holding Corp was hydraulically fracturing, or fracking, an Exxon well."
+Chevron,2017-5,"Silver silos held 18 million pounds of sand, which would be mixed with 22 million gallons of water and forced into the well, unlocking oil trapped in rock."
+Chevron,2017-5,"""We're really approaching the Permian as a major project,"" Sara Ortwein, president of Exxon's shale-focused subsidiary, XTO Energy, said in an interview."
+Chevron,2017-5,"Across the Permian, the number of rigs this year has risen 30 percent and the number of fracking crews has jumped 40 percent, according to Primary Vision, which tracks oilfield service equipment usage."
+Chevron,2017-5,"That won't change soon, said Mark Papa, CEO of Centennial Resource Development Inc , which added to its Permian land holdings this month with a $350 million deal."
+Chevron,2017-5,"""A disproportionate amount of U.S. production growth between now and the end of the decade will come from the Permian,"" Papa said in an interview."
+Chevron,2017-5,"In a reversal from the thousands of layoffs here in 2015, oil companies are hiring briskly."
+Chevron,2017-5,"Fracking service provider Keane Group Inc , for instance, has plans to hire at least 240 workers this year."
+Chevron,2017-5,"For the growth to continue, however, prices will have to rise for rigs and other services, executives and analysts have said."
+Chevron,2017-5,"Paul Mosvold, president of drilling contractor Scandrill Inc, has more business than he can handle."
+Chevron,2017-5,"""We're out of rigs,"" he said. ""We have been since January."""
+Chevron,2017-5,"But he won't add more rigs unless producers pay more - maybe $25,000 per day, instead of the current $15,000 to $19,000. That may depend on per-barrel prices going up, an unlikely prospect amid expanding supply."
+Chevron,2017-5,"Oil drillers, meanwhile, continue to hunt for new cost-cutting technologies - after already halving the cost of extracting a barrel since 2014."
+Chevron,2017-5,"Parsley is cutting labor costs with sensors on wells that transmit production and maintenance data to its headquarters in Austin, Texas. [nASA09N8C]"
+Chevron,2017-5,"""We're constantly getting more efficient,"" Mark Timmons, Parsley's vice president of field operations."
+Chevron,2017-5,"The Lilis revival started last year with debt-for-equity swaps and a merger with another troubled oil producer, giving Lilis access to Permian acreage."
+Chevron,2017-5,The company's market value has risen to $210 million from about $3 million two years ago.
+Chevron,2017-5,"At the company's newest well site, Lilis CEO Mirman checked drilling progress on his iPhone and shrugged off any worries about OPEC's next move."
+Chevron,2017-5,"""We're using every tool at our disposal to grow,"" he said."
+Chevron,2017-5,"{{20170516T070804.147+0000}}Kazakhstan's Tengizchevroil Q1 oil output slightly down to 7.3 mln tonnesALMATY, May 16 (Reuters) - Kazakh upstream venture Tengizchevroil produced 7.3 million tonnes (58 million barrels) of oil in the first quarter, it said on Tuesday, down from 7.4 million tonnes a year earlier."
+Chevron,2017-5,"Chevron , ExxonMobil , Lukoil and KazMunayGas are partners in the venture, the Central Asian nation's biggest oil producer."
+Chevron,2017-5,"{{20170516T070731.804+0000}}UPDATE 1-Nigerian oil workers extend Exxon Mobil strike to Chevron, Agip and Shell(Adds quote, details)"
+Chevron,2017-5,"ONITSHA, Nigeria, May 16 (Reuters) - Nigerian workers from an oil labour union have extended a strike to oil majors Chevron , Shell and Eni subsidiary Agip in protest over the sacking of members from Exxon Mobil Corp , the union's general secretary said on Tuesday."
+Chevron,2017-5,Nigerian labour unions have held a number of strikes in the last few months in protest at the sacking of workers by oil companies. Members of the Petroleum and Natural Gas Senior Staff Association of Nigeria (PENGASSAN) began a strike at Exxon Mobil last week. [nL8N1ID4TU] [nL5N1EZ3Y2]
+Chevron,2017-5,"PENGASSAN General Secretary Lumumba Okugbara said the union's 10,000 members were taking part in the three-day nationwide strike which began on Monday and would continue until Wednesday."
+Chevron,2017-5,"""Production activities are still on and our members on essential duties are working. Only those in administrative duties are not working in the various multi-national oil companies since yesterday,"" he said."
+Chevron,2017-5,"The strikes are in protest at the sacking of 150 workers in December, of which 82 were PENGASSAN members. Okugbara said union representatives would meet Exxon Mobil management on Tuesday for talks."
+Chevron,2017-5,"Strikes by Exxon workers in Nigeria at the end of last year did impact output, leading to weeks-long loading delays."
+Chevron,2017-5,"{{20170516T063920.988+0000}}Nigerian oil workers extend Exxon Mobil strike to Chevron, Agip and ShellONITSHA, Nigeria, May 16 (Reuters) - Nigerian workers from an oil labour union have extended a strike to oil majors Chevron, Shell and Eni subsidiary Agip in protest over the sacking of members from Exxon Mobil Corp, the union's general secretary said on Tuesday."
+Chevron,2017-5,"Lumumba Okugbara, of the Petroleum and Natural Gas Senior Staff Association of Nigeria (PENGASSAN), said union representatives would meet Exxon Mobil management on Tuesday for talks. Members of the union began a strike at Exxon Mobil last week. [nL8N1ID4TU]"
+Chevron,2017-5,{{20170515T231428.295+0000}}PRESS DIGEST- Financial Times - May 16May 16 (Reuters) - The following are the top stories in the Financial Times. Reuters has not verified these stories and does not vouch for their accuracy.
+Chevron,2017-5,Uber engineer barred from work on key self-driving car technology
+Chevron,2017-5,"Chevron Corp investors have withdrawn a shareholder proposal calling for the oil group to report regularly on the risks it faces from policies to address climate change, after the company published an analysis of the issue."
+Chevron,2017-5,Activist hedge fund investor Jeffrey Ubben is handing over the reins of his $16 billion ValueAct Capital Management LP hedge fund by promoting his long-time business partner Mason Morfit to the position of chief investment officer.
+Chevron,2017-5,A judge in San Francisco has banned the top engineer on Uber Technologies Inc's [UBER.UL] self-driving car programme from any work on a type of laser sensor known as Lidar.
+Chevron,2017-5,American International Group Inc named an insurance industry veteran Brian Duperreault as its new chief executive officer and signalled it would seek to expand the group after years of shrinkage in the wake of its government rescue during the financial crisis.
+Chevron,2017-5,"Soros Fund Management more than triples share stake in Microsoft, takes share stake in Snap, Alibaba - Reuters Investor Briefs"
+Chevron,2017-5,"{{20170515T214340.963+0000}}Soros Fund Management more than triples share stake in Microsoft, takes share stake in Snap, AlibabaMay 15 (Reuters) - Soros Fund Management::Takes share stake in Alibaba of 107,200 ADRs - SEC filing.Dissloves share stake in Amazon.com Inc.Takes share stake of 9,900 shares in Chevron.More than triples share stake in Microsoft to 12,800 shares.Ups share stake in Goldman Sachs Group Inc by 39.8 percent"
+Chevron,2017-5,"{{20170515T213457.184+0000}}BRIEF-Soros Fund Management more than triples share stake in Microsoft, takes share stake in Snap, AlibabaMay 15 (Reuters) - Soros Fund Management:"
+Chevron,2017-5,"* Ups share stake in Goldman Sachs Group Inc by 39.8 percent to 86,800 shares"
+Chevron,2017-5,* Takes share stake of 1.7 million class A shares in Snap Inc
+Chevron,2017-5,"* Takes share stake of 4,100 shares in Wal-Mart Stores Inc"
+Chevron,2017-5,"* Change in holdings are as of March 31, 2017 and compared with the previous quarter ended as of Dec. 31, 2016"
+Chevron,2017-5,"{{20170515T114037.030+0000}}UPDATE 1-Chevron shuts first Gorgon LNG export plant unit for around a month(Adds background on past outages, future plant expansion plans)"
+Chevron,2017-5,"LONDON, May 15 (Reuters) - Chevron Corp has shut the first production line at its giant Gorgon liquefied natural gas (LNG) export plant in Australia and expects the outage to last about a month in order to replace a faulty device, a spokesman said on Monday."
+Chevron,2017-5,"""Production on Gorgon Train 1 was stopped on May 12 due to a failure of a flow measurement device,"" the company said in a statement."
+Chevron,2017-5,"""Train 1 is expected to be down approximately one month for this replacement and we will take this opportunity to perform other routine maintenance,"" it said."
+Chevron,2017-5,"Chevron has struggled to maintain stable production at the $54 billion project, which came on stream in March last year, following a string of unplanned shutdowns since then."
+Chevron,2017-5,"Gorgon's third production line started up in March 2017, bringing combined export capacity to 15.6 million tonnes."
+Chevron,2017-5,"On a conference call in April, Chevron Asia Pacific Exploration and Production president Stephen Green said work was carried out to address a reliability issue identified on Gorgon's first two production lines, or trains."
+Chevron,2017-5,It is unclear if recurring production setbacks at Gorgon could hinder or delay Chevron's plans to bolster the efficiency of the plant and to lift production capacity through a process known as debottlenecking.
+Chevron,2017-5,Chevron said trains 2 and 3 were running normally and the plant is continuing to ship cargoes.
+Chevron,2017-5,"Chevron holds a controlling stake of 47.3 percent in the project, while ExxonMobil and Shell each have a 25 percent stake. The remaining stakes are held by Osaka Gas <9532.T>, Tokyo Gas <9531.T> and JERA."
+Chevron,2017-5,"{{20170515T114035.000+0000}}UPDATE 1-Chevron shuts first Gorgon LNG export plant unit for around a monthLONDON, May 15 (Reuters)"
+Chevron,2017-5,"LONDON, May 15 (Reuters) - Chevron Corp has shut the first production line at its giant Gorgon liquefied natural gas (LNG) export plant in Australia and expects the outage to last about a month in order to replace a faulty device, a spokesman said on Monday."
+Chevron,2017-5,"""Production on Gorgon Train 1 was stopped on May 12 due to a failure of a flow measurement device,"" the company said in a statement."
+Chevron,2017-5,"""Train 1 is expected to be down approximately one month for this replacement and we will take this opportunity to perform other routine maintenance,"" it said."
+Chevron,2017-5,"Chevron has struggled to maintain stable production at the $54 billion project, which came on stream in March last year, following a string of unplanned shutdowns since then."
+Chevron,2017-5,"Gorgon's third production line started up in March 2017, bringing combined export capacity to 15.6 million tonnes."
+Chevron,2017-5,"On a conference call in April, Chevron Asia Pacific Exploration and Production president Stephen Green said work was carried out to address a reliability issue identified on Gorgon's first two production lines, or trains."
+Chevron,2017-5,It is unclear if recurring production setbacks at Gorgon could hinder or delay Chevron's plans to bolster the efficiency of the plant and to lift production capacity through a process known as debottlenecking.
+Chevron,2017-5,Chevron said trains 2 and 3 were running normally and the plant is continuing to ship cargoes.
+Chevron,2017-5,"Chevron holds a controlling stake of 47.3 percent in the project, while ExxonMobil and Shell each have a 25 percent stake. The remaining stakes are held by Osaka Gas <9532.T>, Tokyo Gas <9531.T> and JERA."
+Chevron,2017-5,"{{20170515T104456.131+0000}}Chevron says Gorgon Train 1 LNG shutdown to last around a monthLONDON, May 15 (Reuters) - Chevron Corp has shut the first production line at its giant Gorgon liquefied natural gas (LNG) export plant in Australia and expects the outage to last about a month, a spokesman said on Monday."
+Chevron,2017-5,"""Production on Gorgon Train 1 was stopped on May 12 due to a failure of a flow measurement device,"" the company said in a statement."
+Chevron,2017-5,"""Train 1 is expected to be down approximately one month for this replacement and we will take this opportunity to perform other routine maintenance,"" it said."
+Chevron,2017-5,"{{20170512T215536.401+0000}}UPDATE 2-BlackRock switch helps pass 'historic' climate measure at Occidental(Adds comment from proponent, details on BlackRock talks with Chevron)"
+Chevron,2017-5,"BOSTON, May 12 (Reuters) - BlackRock Inc said on Friday that it voted in favor of a successful shareholder proposal calling for more climate change reporting by Occidental Petroleum Corp , in the first sign the world's largest asset manager was backing up its tough new talk on environmental matters."
+Chevron,2017-5,"Backers of the resolution called its passage a major victory, the first time such a measure succeeded at a major U.S. oil and gas company. Proponents said they were pleased by BlackRock's support, which they had sought."
+Chevron,2017-5,"BlackRock , which has $5.4 trillion under management, traditionally has given few details of its reasoning behind specific proxy votes. On Friday, however, it said it was concerned about Occidental's pace of disclosure to date. It also gave details about its talks with other companies such as Chevron Corp , which BlackRock said has provided more detail on climate risks it faces such as a recent report it published."
+Chevron,2017-5,"A Chevron representative said the company would continue speaking with investors, and that it had held ""extensive dialogue with proponents and other stockholders."""
+Chevron,2017-5,BlackRock spokesman Ed Sweeney said BlackRock would not explain every vote it casts in such detail but wanted to underscore how it promotes its corporate governance priorities in talks with companies.
+Chevron,2017-5,"""We want to highlight our engagement and articulate our voting decisions,"" he said."
+Chevron,2017-5,"Occidental Chairman Eugene Batchelder said in an emailed statement: ""We look forward to continuing our shareholder engagement on the topic and providing additional disclosure about the company's assessment and management of climate-related risks and opportunities."""
+Chevron,2017-5,"Major oil companies have long faced shareholder criticism for being slow to respond to climate concerns, though some have moved to mend fences with activists in recent years such as ExxonMobil's decision earlier this year to name a environmental expert to its board."
+Chevron,2017-5,"Specifically, the resolution at Occidental - which was also backed by Wespath Investment Management and state pension funds including the California Public Employees' Retirement System - called on the energy company to explain the impact it could face from changes like new public policies on climate change, such as the 2016 Paris climate agreement."
+Chevron,2017-5,"BlackRock, Occidental's largest investor with about 8 percent of its shares, last year had opposed a similar resolution, which failed to get a majority of support from investors."
+Chevron,2017-5,"In a statement sent by Sweeney explaining the switch, the fund firm said its vote last year was meant to give Occidental time. But despite talks with Occidental, ""we remain concerned about the lack of discernable improvements to the company's reporting practices"" on climate issues, the statement said."
+Chevron,2017-5,Last year a similar resolution was narrowly defeated with 249 million votes cast for it and 259 million votes cast against. The size of BlackRock's holdings suggested its switch helped give the proposal a majority of support this year. An Occidental spokesman said the company would provide details about the vote in coming days.
+Chevron,2017-5,{{20170512T170700.617+0000}}U.S. drillers add oil rigs for 17th week in a row -Baker HughesMay 12 (Reuters) - U.S. energy firms added oil rigs for a
+Chevron,2017-5,is expected to help boost crude production in the United States
+Chevron,2017-5,"Drillers added nine oil rigs in the week to May 12, bringing"
+Chevron,2017-5,"the total count up to 712, the most April 2015, energy services"
+Chevron,2017-5,While that is more than double the same week a year ago when
+Chevron,2017-5,"there were only 318 active oil rigs, the pace of those additions"
+Chevron,2017-5,has declined with the total over the past four weeks falling to
+Chevron,2017-5,U.S. crude output was expected to rise to an average of 9.3
+Chevron,2017-5,"States, Canada and Brazil, which has offset the Organization of"
+Chevron,2017-5,"to cut production, should limit any upside to global oil prices"
+Chevron,2017-5,"trade around $48 on Friday, putting the front-month contract on"
+Chevron,2017-5,"track to increase for the first time in four weeks, on"
+Chevron,2017-5,OPEC and other producers meet on May 25 to decide whether to
+Chevron,2017-5,expects an extension to the end of 2017 or possibly beyond.
+Chevron,2017-5,one-week drawdown since December last week as imports dropped
+Chevron,2017-5,OPEC on Thursday sharply raised its forecast for oil supply
+Chevron,2017-5,efforts to clear a glut and support prices by cutting output.
+Chevron,2017-5,"ago, the state's energy regulator said on Tuesday, more evidence"
+Chevron,2017-5,"investment bank Piper Jaffray, this week forecast the total oil"
+Chevron,2017-5,"That compares with an average of 780 so far in 2017, 509 in"
+Chevron,2017-5,"be the most since 2014 when there were 1,862 active rigs. The"
+Chevron,2017-5,U.S./Canada natural gas rig count versus Henry Hub futures price
+Chevron,2017-5,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+Chevron,2017-5,"For a list of all Baker Hughes rig counts around the world, see:"
+Chevron,2017-5,"{{20170512T114121.876+0000}}UPDATE 1-Caspian oil pipeline eyes massive expansion thanks to new oilfields(Adds details, quotes, context)"
+Chevron,2017-5,"ASTRAKHAN, Russia, May 12 (Reuters) - The Caspian oil pipeline will boost its capacity this year by some 47 percent thanks to new oilfields in the region including the giant Kashagan deposit in Kazakhstan, the director general of the consortium that owns it, Nikolai Gorban, said on Friday."
+Chevron,2017-5,The plans to boost the oil exports may undermine OPEC-led efforts to cut production of oil in order to reduce bloated global inventories and support sagging oil prices.
+Chevron,2017-5,"The Caspian Pipeline Consortium (CPC), the only private large oil pipeline in Kazakhstan and Russia, is wrapping up its $5.4 billion five-year expansion programme this autumn."
+Chevron,2017-5,Oil exports via the CPC rose by 3.6 percent to 44.3 million tonnes in 2016 and are expected to grow to almost 65 million tonnes (1.3 million barrels per day) this year.
+Chevron,2017-5,"The pipeline connects the Tengiz field in Kazakhstan, and a number of other fields, to the sea terminal near Novorossiisk in Russia."
+Chevron,2017-5,"On Friday, CPC launched two new pumping stations in the region of Astrakhan, Russia's gateway to the Caspian Sea. The stations will increase CPC's capacity by up to 10 million tonnes per year, Gorban told reporters."
+Chevron,2017-5,"It plans to add a further three, bringing its total number of pumping stations to 15."
+Chevron,2017-5,"Gorban said Kazakhstan's Kashagan oilfield will supply 8 million to 9 million tonnes of oil this year, up from more than 800,000 tonnes in 2016."
+Chevron,2017-5,He said work on CPC's expansion would be completed in September and it planned to ship 4.8 million tonnes in May.
+Chevron,2017-5,"Filanovsky and Korchagin Caspian offshore oilfields, owned by Russia's No.2 oil producer Lukoil , are expected to provide CPC with a total of 5.4 million tonnes this year, up from 745,000 tonnes last year."
+Chevron,2017-5,"CPC's top shareholders are Russia with 24 percent, Kazakhstan's KazMunaiGaz energy company with 19 percent and Chevron with 15 percent."
+Chevron,2017-5,"The Organization of the Petroleum Exporting Countries, along with Russia and other non-OPEC producers, pledged to cut output by 1.8 million bpd in the first half of 2017."
+Chevron,2017-5,"{{20170512T103723.296+0000}}Caspian oil pipeline eyes massive expansion thanks to new oilfieldsASTRAKHAN, Russia, May 12 (Reuters) - The Caspian oil pipeline is seen boosting its capacity this year by around 47 percent thanks to new oilfields in the region including the giant Kashagan deposit in Kazakhstan, the consortium's director general, Nikolai Gorban, said on Friday."
+Chevron,2017-5,Oil exports via the Caspian Pipeline Consortium (CPC) rose by 3.6 percent to 44.3 million tonnes in 2016 and are expected to grow to almost 65 million tonnes (1.3 million barrels per day) this year.
+Chevron,2017-5,"{{20170511T172731.087+0000}}BUZZ-US integrated, E&P cos contribute most to Q1 energy profit gain** Big integrated oil & gas cos like Exxon Mobil and Chevron contributed the most to energy sector earnings growth in Q1 along with exploration and production cos, Thomson Reuters data shows"
+Chevron,2017-5,"** The growth rate for energy in Q1 was a whopping 643.9 pct, up from an Apr 1 estimate of 592.9 pct, according to the data. Results are in from all of the S&P 500 energy cos <.SPNY> for Q1"
+Chevron,2017-5,"** Estimated earnings growth the S&P 500 <.SPX> is now at 14.7 pct, but that estimate falls to 10.4 pct excluding the energy sector"
+Chevron,2017-5,"** Among E&P cos with the biggest upside surprises, Noble Energy reported a smaller-than-expected adj qtrly loss"
+Chevron,2017-5,** E&P cos were among the hardest hit last year after a more than two-year slide in oil prices
+Chevron,2017-5,"** Oil and gas storage & transportation cos also posted a sharp yr/yr profit gain in Q1, the data showed"
+Chevron,2017-5,"** S&P 500 oil & gas drilling cos posted a yr/yr decline in earnings in Q1, though, along with equipment and services cos and refining and marketing cos"
+Chevron,2017-5,** S&P energy index <.SPNY> is down 10 pct YTD vs a near 7 pct gain for the overall SPX
+Chevron,2017-5,{{20170511T040101.518+0000}}Company climate risk disclosure would distort markets -IHS MarkitBy Nina Chestney
+Chevron,2017-5,"LONDON, May 11 (Reuters) - Proposals by a G20-backed task force for companies to disclose how they manage climate risks would mislead investors and distort markets, according to research by analytics and data provider IHS Markit on Thursday."
+Chevron,2017-5,"Last year, the Task Force on Climate-Related Financial Disclosure (TCFD), set up by the G20's Financial Stability Board, proposed that companies disclose in their public financial findings how they identify and manage risks to their business from climate change. [nL5N1E94RG]"
+Chevron,2017-5,"Although the measures are voluntary, some of the task force's members argue they should become mandatory."
+Chevron,2017-5,The TCFD was set up due to growing concerns among the financial community that assets are being mispriced because the full extent of climate risk is not being factored in and increased calls for company transparency.
+Chevron,2017-5,IHS Markit said some of the TCFD's proposals could help investors better understand how firms manage potential climate risks but others would actually undermine the aim of improving capital allocation decisions and financial market functioning.
+Chevron,2017-5,"Climate risk disclosure could lead to unintended consequences, such as investors downgrading other risks which might have similar financial impacts but do not have to be disclosed in the same way, the research said."
+Chevron,2017-5,"""The task force's proposals are useful in terms of heightening the discussion around climate risk but eight decades of understanding of the materiality concept would be changed by this initiative,"" Daniel Yergin, IHS Markit vice chairman and co-author of the report, told Reuters."
+Chevron,2017-5,"""The use of scenarios and metrics is misleading; there are issues around confidentiality and why should we single out just one risk?"""
+Chevron,2017-5,"IHS Markit said its report was financed by oil firms BP , Chevron , ConocoPhillips and Total , which are in one of the sectors most exposed to climate-related financial impacts, but its conclusions were its own."
+Chevron,2017-5,"Proposals for disclosing the financial impact of long-term scenarios and using metrics to quantify climate risk could be misleading, the report said."
+Chevron,2017-5,"Not only are scenarios based on a large number of assumptions, the assumptions will vary according to different companies and sources and are not comparable, IHS Markit added."
+Chevron,2017-5,A TCFD recommendation that oil and gas firms disclose information related to the cost of supply for current and future projects could undermine their competitive positions. Such costs change constantly due to market and technology changes.
+Chevron,2017-5,"Companies could also face potential litigation if their future costs do not match the projected costs in their disclosures, the report said."
+Chevron,2017-5,"After a public consultation, the TCFD is expected to bring its final recommendations to the G20 at its meeting in Germany in July. The TCFD has 32 members from large banks, insurance companies, asset management companies, pension funds, credit rating agencies and accounting and consulting firms."
+Chevron,2017-5,"{{20170510T161053.075+0000}}Argentina's YPF sees 3 pct oil and gas production fall in 2017 BUENOS AIRES, May 10 (Reuters) - Argentina's state-run oil firm expects a 3 percent decline in crude and natural gas output this year due to labor problems and bad weather, Chief Financial Officer Daniel Gonzalez told investors during a conference call on Wednesday."
+Chevron,2017-5,"YPF posted first-quarter profit of 192 million pesos ($12.47 million), down 78 percent from 855 million pesos a year earlier, the company announced on Tuesday. It said total petroleum production for the quarter fell 1.5 percent from a year earlier to 573,500 barrels per day. [nL1N1IB1WG]"
+Chevron,2017-5,"""Clearly 2017 is not going to be a strong year in terms of hydrocarbons production,"" Gonzalez told investors on the call."
+Chevron,2017-5,"""At this point we are targeting a 3 percent decline in our hydrocarbons production for this year,"" he added."
+Chevron,2017-5,The company is seeking partners to develop some of the world's largest shale reserves in the southern Patagonia area of the country. The negative production estimate was due to bad flooding in Chubut province and labor disruptions earlier this year as the government was negotiating a new pact with unions.
+Chevron,2017-5,"""We are envisioning (the 3 percent production decline), with some of the conflicts that we went through with the unions, that had to do with structural changes, which I think are a great thing for the long term, and also with negative weather that affected Chubut,"" Gonzalez said."
+Chevron,2017-5,Argentina sealed a deal this year with unions and oil companies including Chevron Corp and Royal Dutch Shell Plc to guarantee investments in exchange for greater labor flexibility and wellhead price subsidies. [nL1N1HY290]
+Chevron,2017-5,{{20170505T133039.615+0000}}BUZZ- Energy ETF drills down to 9-month low** Energy Select Sector SPDR Fund hitting its lowest levels since Aug amid further breakdown in NYMEX Crude Futures [nL4N1I64LA]; risk remains for greater decline on the charts [nL1N1HT0MX]
+Chevron,2017-5,"** Energy <.SPNY> worst performing S&P 500 <.SPX> sector since election-day close, down nearly 5 pct, as well as weakest YTD, down 12 pct [nL1N1I30BW]"
+Chevron,2017-5,** And Exxon Mobil and Chevron among biggest drags on DJI <.DJI> this year
+Chevron,2017-5,"** ETFs Unconventional oil & gas and Oil Services areas hit especially hard YTD, both down 19-20 pct"
+Chevron,2017-5,"** Meanwhile, oil futures off nearly 8 pct this week, and threatening mid-Nov trough ($42.41) as supply concerns intensify [nL1N1I61RA] [nL1N1I61KT]"
+Chevron,2017-5,"** Weekly MACD, which failed at study zero-line in mid-Apr as XLE was unable to close back over its 200-DMA, threatening to break its Mar low"
+Chevron,2017-5,"** Thus, significant room for study to fall before it reaches its troughs of the past 3 years"
+Chevron,2017-5,** ETF needs close over 200-DMA ($70.92) then Apr 5 high ($71.49) to stem negative tide
+Chevron,2017-5,"** Besides XOM and CHV, Schlumberger rounds out top 3 XLE holdings by weight end-Mar, which account for about 50 pct of ETF"
+Chevron,2017-5,"{{20170505T110001.992+0000}}RPT-Pemex seeks investors for its refineries, but who's buying?(Repeating for additional clients with no changes to text.)"
+Chevron,2017-5,"NEW YORK/MEXICO CITY, May 5 (Reuters) - Sweeping energy reforms have turned Mexico into one of the world's most attractive offshore prospects, but one segment is getting no love from U.S. investors: the nation's aging refineries."
+Chevron,2017-5,"Efforts by Mexico's state-owned oil company Pemex to attract about $5 billion in capital to help modernize its two largest refineries so far have proved futile, according to two people familiar with the process who declined to be named because they were not authorized to speak publicly."
+Chevron,2017-5,The company is seeking a joint venture partner for its Salina Cruz refinery on the West Coast. It's also looking for an investor to complete construction of a coking unit to process heavy crude at its Tula refinery just north of Mexico's capital.
+Chevron,2017-5,"Among those to rebuff overtures from Pemex over the past year are U.S. refining giants Valero Energy Corp and Tesoro Corp , the people said."
+Chevron,2017-5,"Valero and Tesoro declined to comment. Those and other companies were deterred by operational, political and market concerns, the people said."
+Chevron,2017-5,"Pemex officials said they ""categorically reject"" the notion that they are struggling to find investors."
+Chevron,2017-5,"""There has been interest,"" a company spokesman said Thursday. ""We've had talks with many companies whose names we can't reveal."""
+Chevron,2017-5,"Pemex has said publicly it's seeking investment from Korean, Japanese and Chinese firms. The company hired Bank of America last year to seek potential partners."
+Chevron,2017-5,"The refining sector has contributed buckets of red ink to Pemex's bottom line. Its six domestic refineries have accumulated annual operating losses of about $5 billion in recent years. Government-set fuel prices, a spate of accidents and other non-scheduled stoppages have cut deeply into margins."
+Chevron,2017-5,"For years, Pemex prioritized investment in profitable drilling projects, neglecting other areas. As a result, refineries built decades ago to process light, sweet crude from Mexico's shallower waters can't efficiently process heavy oil from fields currently in production."
+Chevron,2017-5,"The upshot: Today Mexico imports more than 60 percent of its refined gasoline and diesel from the United States, while its own refineries operate at about half capacity."
+Chevron,2017-5,The mismatch would seem a prime business opportunity. Instead Pemex's refineries have become a virtual third rail for investors.
+Chevron,2017-5,"Some potential partners are leery of the sums needed to bring the aging facilities up to standard, people familiar with the situation said. Then there's the bloated refinery workforce whose jobs are protected by a strong union. On average, Pemex uses about 3,000 full-time workers to operate each refinery. That's triple the number found at U.S. facilities with similar sized operations, according to figures from Pemex and U.S. refiners."
+Chevron,2017-5,"""The refineries aren't competitive. Their product slate doesn't meet the demand of the country,"" said Dave Hackett, an energy consultant at Stillwater Associates in California."
+Chevron,2017-5,"Pemex's refineries could be the biggest challenge yet for Jose Antonio Gonzalez Anaya, who was brought in as chief executive last year to lure investment to Mexico's most important company. The oil giant has struggled in recent years with slumping production, falling oil prices and rising debt."
+Chevron,2017-5,"Gonzalez Anaya, a polished, American-educated technocrat, has scored some early wins. He oversaw cost cuts of more $5 billion last year and has hustled to attract exploration and production partnerships; the first one covering a deep water Gulf block was inked in February between Pemex, U.S. oil major Chevron and Japan's Inpex <1605.T>."
+Chevron,2017-5,"On Wednesday, Pemex reported its first quarterly profit in five years, gaining some $4.7 billion during the January-March period."
+Chevron,2017-5,"Overall, the outlook is bullish for Mexico's oil industry. Reforms to Mexico's constitution four years ago ended Pemex's nearly 80-year monopoly and allowed the government-controlled company to form its first-ever equity partnerships. The changes also permitted private oil companies to operate fields on their own. Major oil companies including Exxon Mobil Corp , Total SA and Statoil have snagged offshore leases at auction."
+Chevron,2017-5,"Overhauling Mexico's refining sector, however, has proven daunting. Unlike offshore production, where new rigs can be brought in and operators can largely call their own shots, the refineries come with baggage. Potential investors must contend with the existing infrastructure, much of it dating back to the 1970s. Then there are entrenched relationships with local government officials and union leaders."
+Chevron,2017-5,"Lowering a massive coking drum into place during an event at the Tula facility last month, Pemex chief Gonzalez Anaya was accompanied, not by foreign investors, but by Carlos Romero Deschamps, head of the powerful oil workers union and a senator with the ruling Institutional Revolutionary Party, or PRI, of President Enrique Pena Nieto."
+Chevron,2017-5,"If refinery investors ""are forced to follow exactly how Pemex has worked in the past, obviously no one will enter,"" said Carlos Petersen, an analyst covering Latin America for Eurasia Group."
+Chevron,2017-5,"Mexico's political climate is another concern. By law, Pena Nieto, who led the oil reform, is limited to a single six-year term that ends next year. The government's decision to open its oil industry to outside producers and sell off some Pemex assets was vehemently opposed by many Mexicans and left-leaning politicians. Among them is Andres Manuel Lopez Obrador, a populist who's the current front-runner for the 2018 presidential race."
+Chevron,2017-5,"In the meantime, Pemex is moving forward - alone - to finance some of its refining needs. Badly in need of more capacity to process heavy crude, Pemex broke ground in 2013 on the coker project at its Tula refinery."
+Chevron,2017-5,"The company will fund half the $2.2-billion cost for the first phase while it seeks partners to help complete the facility, Pemex's top downstream executive Carlos Murrieta told analysts on a conference call earlier this week. He put the final price tag at $4.5 billion and projected the plant would be ready in 2022."
+Chevron,2017-5,Houston oil analyst Jake Fuller is dubious that other new Pemex refinery projects will follow anytime soon.
+Chevron,2017-5,"""It would be a monumental shift,"" said Fuller, downstream expert at IHS."
+Chevron,2017-5,"{{20170505T050002.041+0000}}Pemex seeks investors for its refineries, but who's buying?By Jessica Resnick-Ault and David Alire Garcia"
+Chevron,2017-5,"NEW YORK/MEXICO CITY, May 5 (Reuters) - Sweeping energy reforms have turned Mexico into one of the world's most attractive offshore prospects, but one segment is getting no love from U.S. investors: the nation's aging refineries."
+Chevron,2017-5,"Efforts by Mexico's state-owned oil company Pemex to attract about $5 billion in capital to help modernize its two largest refineries so far have proved futile, according to two people familiar with the process who declined to be named because they were not authorized to speak publicly."
+Chevron,2017-5,The company is seeking a joint venture partner for its Salina Cruz refinery on the West Coast. It's also looking for an investor to complete construction of a coking unit to process heavy crude at its Tula refinery just north of Mexico's capital.
+Chevron,2017-5,"Among those to rebuff overtures from Pemex over the past year are U.S. refining giants Valero Energy Corp and Tesoro Corp , the people said."
+Chevron,2017-5,"Valero and Tesoro declined to comment. Those and other companies were deterred by operational, political and market concerns, the people said."
+Chevron,2017-5,"Pemex officials said they ""categorically reject"" the notion that they are struggling to find investors."
+Chevron,2017-5,"""There has been interest,"" a company spokesman said Thursday. ""We've had talks with many companies whose names we can't reveal."""
+Chevron,2017-5,"Pemex has said publicly it's seeking investment from Korean, Japanese and Chinese firms. The company hired Bank of America last year to seek potential partners."
+Chevron,2017-5,"The refining sector has contributed buckets of red ink to Pemex's bottom line. Its six domestic refineries have accumulated annual operating losses of about $5 billion in recent years. Government-set fuel prices, a spate of accidents and other non-scheduled stoppages have cut deeply into margins."
+Chevron,2017-5,"For years, Pemex prioritized investment in profitable drilling projects, neglecting other areas. As a result, refineries built decades ago to process light, sweet crude from Mexico's shallower waters can't efficiently process heavy oil from fields currently in production."
+Chevron,2017-5,"The upshot: Today Mexico imports more than 60 percent of its refined gasoline and diesel from the United States, while its own refineries operate at about half capacity."
+Chevron,2017-5,The mismatch would seem a prime business opportunity. Instead Pemex's refineries have become a virtual third rail for investors.
+Chevron,2017-5,"Some potential partners are leery of the sums needed to bring the aging facilities up to standard, people familiar with the situation said. Then there's the bloated refinery workforce whose jobs are protected by a strong union. On average, Pemex uses about 3,000 full-time workers to operate each refinery. That's triple the number found at U.S. facilities with similar sized operations, according to figures from Pemex and U.S. refiners."
+Chevron,2017-5,"""The refineries aren't competitive. Their product slate doesn't meet the demand of the country,"" said Dave Hackett, an energy consultant at Stillwater Associates in California."
+Chevron,2017-5,"Pemex's refineries could be the biggest challenge yet for Jose Antonio Gonzalez Anaya, who was brought in as chief executive last year to lure investment to Mexico's most important company. The oil giant has struggled in recent years with slumping production, falling oil prices and rising debt."
+Chevron,2017-5,"Gonzalez Anaya, a polished, American-educated technocrat, has scored some early wins. He oversaw cost cuts of more $5 billion last year and has hustled to attract exploration and production partnerships; the first one covering a deep water Gulf block was inked in February between Pemex, U.S. oil major Chevron and Japan's Inpex <1605.T>."
+Chevron,2017-5,"On Wednesday, Pemex reported its first quarterly profit in five years, gaining some $4.7 billion during the January-March period."
+Chevron,2017-5,"Overall, the outlook is bullish for Mexico's oil industry. Reforms to Mexico's constitution four years ago ended Pemex's nearly 80-year monopoly and allowed the government-controlled company to form its first-ever equity partnerships. The changes also permitted private oil companies to operate fields on their own. Major oil companies including Exxon Mobil Corp , Total SA and Statoil have snagged offshore leases at auction."
+Chevron,2017-5,"Overhauling Mexico's refining sector, however, has proven daunting. Unlike offshore production, where new rigs can be brought in and operators can largely call their own shots, the refineries come with baggage. Potential investors must contend with the existing infrastructure, much of it dating back to the 1970s. Then there are entrenched relationships with local government officials and union leaders."
+Chevron,2017-5,"Lowering a massive coking drum into place during an event at the Tula facility last month, Pemex chief Gonzalez Anaya was accompanied, not by foreign investors, but by Carlos Romero Deschamps, head of the powerful oil workers union and a senator with the ruling Institutional Revolutionary Party, or PRI, of President Enrique Pena Nieto."
+Chevron,2017-5,"If refinery investors ""are forced to follow exactly how Pemex has worked in the past, obviously no one will enter,"" said Carlos Petersen, an analyst covering Latin America for Eurasia Group."
+Chevron,2017-5,"Mexico's political climate is another concern. By law, Pena Nieto, who led the oil reform, is limited to a single six-year term that ends next year. The government's decision to open its oil industry to outside producers and sell off some Pemex assets was vehemently opposed by many Mexicans and left-leaning politicians. Among them is Andres Manuel Lopez Obrador, a populist who's the current front-runner for the 2018 presidential race."
+Chevron,2017-5,"In the meantime, Pemex is moving forward - alone - to finance some of its refining needs. Badly in need of more capacity to process heavy crude, Pemex broke ground in 2013 on the coker project at its Tula refinery."
+Chevron,2017-5,"The company will fund half the $2.2-billion cost for the first phase while it seeks partners to help complete the facility, Pemex's top downstream executive Carlos Murrieta told analysts on a conference call earlier this week. He put the final price tag at $4.5 billion and projected the plant would be ready in 2022."
+Chevron,2017-5,Houston oil analyst Jake Fuller is dubious that other new Pemex refinery projects will follow anytime soon.
+Chevron,2017-5,"""It would be a monumental shift,"" said Fuller, downstream expert at IHS."
+Chevron,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, insurers, energy companies, CF, Global Payments - Reuters News"
+Chevron,2017-5,"{{20170504T173355.622+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, insurers, energy companies, CF, Global Payments* Eikon search string for individual stock moves: STXBZ"
+Chevron,2017-5,U.S. stocks were lower in early afternoon trading on Thursday as a steep fall in
+Chevron,2017-5,"At 13:19 ET, the Dow Jones Industrial Average <.DJI> was down 0.18 percent"
+Chevron,2017-5,UPDATE 3-Tesla plugs older Model S as new buyers turn to Model 3 [nL4N1I54GO]
+Chevron,2017-5,"UPDATE 4-Facebook shares dip from high as investors fret over costs, future"
+Chevron,2017-5,BUZZ-Facebook on pace to snap record-setting streak on ad load warning
+Chevron,2017-5,BUZZ-Energy cos down as oil price drop wipes out OPEC-inspired gains
+Chevron,2017-5,"UPDATE 1-AIG operating profit up, helped by cost cuts; shares rise [nL1N1I5238]"
+Chevron,2017-5,"BUZZ-Square Inc: Hits life high on upbeat forecast, estimate beat [nL4N1I63H4]"
+Chevron,2017-5,BUZZ-Tableau Software Inc: Posts smaller-than-expected Q1 adj. loss
+Chevron,2017-5,BUZZ-Viacom: Deutsche Bank warns of lower fees on Charter re-tiering
+Chevron,2017-5,"BUZZ-Spirit Realty cuts 2017 outlook, drags down retail REIT sector"
+Chevron,2017-5,BUZZ-Health Insurance Innovations Inc: Shares up after profit beat
+Chevron,2017-5,"UPDATE 4-As Eylea fears fade, focus turns to Regeneron's eczema"
+Chevron,2017-5,UPDATE 2-Regional bank First Horizon to buy Capital Bank for $2.2
+Chevron,2017-5,BUZZ-Capital Bank Financial: First Horizon to buy Co at a discount [nL4N1I64CA]
+Chevron,2017-5,BRIEF-ContraVir Pharma to advance second-gen formulation of Tenofovir Exalidex
+Chevron,2017-5,"BUZZ-Perion Network Ltd: Set for worst day in 9 years on results, CFO"
+Chevron,2017-5,BUZZ-Avon Products Inc: Hits more than 9-month low on surprise Q1
+Chevron,2017-5,"BUZZ-Global Payments Inc: Hits record high on strong forecast, Q1 results beat"
+Chevron,2017-5,BUZZ-Inovalon Holdings: Highest in nearly 5 months on profit beat [nL4N1I64A4]
+Chevron,2017-5,BUZZ-FreightCar America: Set for best day in 6 mths after surprise Q1
+Chevron,2017-5,BUZZ-L Brands Inc: Comp sales fall for first time in 2 yrs [nL4N1I64BD]
+Chevron,2017-5,BUZZ-Beazer Homes USA Inc: Shares rise after Q2 revenue jump [nL4N1I64DX]
+Chevron,2017-5,BUZZ-FormFactor: Shares in fine form on strong beat and raise [nL1N1I6109]
+Chevron,2017-5,BUZZ-Unit Corp: Sinks to 6-mth low on weak Q1 results [nL4N1I64HD]
+Chevron,2017-5,"BUZZ-CenturyLink Inc: Shares down as Q1 revenue, profit miss est [nL4N1I64C0]"
+Chevron,2017-5,BUZZ-CommScope set for worst ever day after poor forecast [nL4N1I64JP]
+Chevron,2017-5,"BUZZ-Regis shares tumble, blames Easter for sales blow-out [nL1N1I6168]"
+Chevron,2017-5,BUZZ-Insight Enterprises Inc: Hits record high after Q1 results beat
+Chevron,2017-5,BUZZ-Targa exports 6.5 mln barrels per month of LPG in Q1 [nL1N1I617E]
+Chevron,2017-5,BUZZ-Hercules Capital Inc: Shares drop on plans to be externally managed
+Chevron,2017-5,Chevron Corp says received an administrative order from U.S. EPA in Nov 2016 - Reuters Investor Briefs
+Chevron,2017-5,"{{20170504T164130.938+0000}}Chevron Corp says received an administrative order from U.S. EPA in Nov 2016May 4 (Reuters) - Chevron Corp <CVX.N>:Chevron Corp - On Nov 18, 2016, co received an administrative order from the U.S. Environmental Protection Agency - SEC filing.Chevron Corp - Order alleging noncompliance with water permit that governed conveyances of captured groundwater and spring water from former Questa mine.Chevron Corp says it is in negotiations with EPA regarding the matter."
+Chevron,2017-5,{{20170504T161924.738+0000}}BRIEF-Chevron Corp says received an administrative order from U.S. EPA in Nov 2016May 4 (Reuters) - Chevron Corp
+Chevron,2017-5,"* Chevron Corp - On Nov 18, 2016, co received an administrative order from the U.S. Environmental Protection Agency - SEC filing"
+Chevron,2017-5,* Chevron Corp - Order alleging noncompliance with water permit that governed conveyances of captured groundwater and spring water from former Questa mine
+Chevron,2017-5,"* Chevron Corp says it is in negotiations with EPA regarding the matter. And its resolution may result in payment of civil penalties of $100,000 or more"
+Chevron,2017-5,BUZZ-Energy cos down as oil price drop wipes out OPEC-inspired gains - Reuters News
+Chevron,2017-5,"{{20170504T160302.202+0000}}BUZZ-Energy cos down as oil price drop wipes out OPEC-inspired gains** Oil stocks tumble, tracking a drop in oil prices that hit their lowest level since Nov. 30"
+Chevron,2017-5,"** Chevron down 1.5 pct, Exxon Mobil 0.7 pct and EOG Resources 2.8 pct"
+Chevron,2017-5,** S&P 500 energy sector <.SPNY> top drag on broader index; All SPNY stocks except Noble Energy in the red
+Chevron,2017-5,"** Occidental down 2.9 pct on disappointing forecast, Chesapeake off 8.5 pct after posting bigger-than-expected fall in production [nL4N1I63JU] [nL4N1I63JJ]"
+Chevron,2017-5,** Oil prices drop 2.8 pct to $49.43/barrel amid rising supply and stubbornly high inventories [O/R]
+Chevron,2017-5,** Decline effectively wipes out almost all gains inspired by OPEC's deal to boost prices by limiting supply
+Chevron,2017-5,** Brent crude has fallen 13.2 pct this year despite OPEC's deal that came into effect in January
+Chevron,2017-5,{{20170504T075420.470+0000}}BUZZ-Statoil: production growth propels Q1 beat** Norwegian oil firm's shares rise 2.8 pct
+Chevron,2017-5,** Reports Q1 adj. operating profit 24 pct above RTRS poll expectations; maintains 2017 guidance
+Chevron,2017-5,** co says production from the Norwegian Continental Shelf was at its highest level in five years
+Chevron,2017-5,"** Bernstein says: ""Statoil reported strong earnings on all fronts with DPI returning to profits, strong free cash generation, improved returns, and reduced gearing"""
+Chevron,2017-5,** Morgan Stanley points to FCF -- at highest since Q1'14 -- more than covering the dividend and expects positive market reaction
+Chevron,2017-5,"** Results are in line with industry's broader upward trend as oil majors BP , ExxonMobil , Chevron and Total also have reported better than expected earnings"
+Chevron,2017-5,** Stock among top performers on Stoxx 600 <.STOXX> index and top performer on Oslo Stock Exchange Equity <.OBX> index
+Chevron,2017-5,"{{20170504T000246.435+0000}}BRIEF-Chevron reports equipment malfunction at Richmond, Calif. refineryMay 3 (Reuters) - Chevron Corp :"
+Chevron,2017-5,"* Chevron reports an equipment malfunction in a hydroprocessing unit caused the release of sulfur dioxide at the Richmond, California refinery"
+Chevron,2017-5,"Source: California Emergency Management Agency (CALEMA) filing [nEMN0NU9QD] Refinery capacity: 245,271 barrels per day Related: Chevron confirms flaring at Richmond, California refinery [nFWN1I5100]"
+Chevron,2017-5,"{{20170503T235401.606+0000}}BRIEF-Chevron confirms flaring at Richmond, California refineryMay 3 (Reuters) - Chevron Corp :"
+Chevron,2017-5,"* Chevron says there was flaring at the Richmond, California refinery"
+Chevron,2017-5,"Refinery capacity: 245,271 barrels per day Related: Brief flaring at Chevron's Richmond, California refinery - local official [nL1N1I52JE]"
+Chevron,2017-5,"{{20170503T234214.259+0000}}BUZZ-Brief flaring at Chevron's Richmond, California refinery - local officialHOUSTON, May 3 (Reuters) - Brief flaring occurred on Wednesday afternoon at Chevron's Richmond refinery in the San Francisco Bay-area, resulting in a visible plume of smoke, according to a local official."
+Chevron,2017-5,"* Chevron spokesman Braden Reddall confirmed there was flaring at the refinery. ""It was an isolated issue and the refinery continues to operate."""
+Chevron,2017-5,"* The flaring lasted approximately 10 seconds, the Richmond Fire department said"
+Chevron,2017-5,Oil major Total starts production at Badamyar site - Reuters Investor Briefs
+Chevron,2017-5,"{{20170502T072534.852+0000}}Oil major Total starts production at Badamyar siteMay 2 (Reuters) - Total <TOTF.PA>::* Total has started up production from the Badamyar project, located offshore 220 kilometers south of Yangon in the Republic of the Union of Myanmar.* Total says project will enable an extension of the Yadana gas field's 8 billion cubic meters per year production"
+Chevron,2017-5,{{20170502T064748.542+0000}}BRIEF-Oil major Total starts production at Badamyar siteMay 2 (Reuters) - Total :
+Chevron,2017-5,"* Total has started up production from the Badamyar project, located offshore 220 kilometers south of Yangon in the Republic of the Union of Myanmar"
+Chevron,2017-5,* Total says project will enable an extension of the Yadana gas field's 8 billion cubic meters per year production plateau beyond 2020
+Chevron,2017-5,"* Total is the operator of the project with a 31.2% interest. Its partners are Chevron-Unocal (28.3%), PTTEP (25.5%) and the national company MOGE (15%)."

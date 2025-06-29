@@ -1,0 +1,569 @@
+firm_id,date,text
+Brunswick,2017-10,"23:31:35  [GLOBUL] (BC.N .SPX) - Brunswick jumps 22.2% in past year Wednesday October 30, 2024 08:28 EDT -"
+Brunswick,2017-10,"22:52:47  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $81.60) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Thursday October 31, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:52:44  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $81.60) Thursday October 31, 2024 07:10 EDT -"
+Brunswick,2017-10,21:48:46  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-10,18:27:40  [NEWWIR] (BC.N) - Brunswick Corporation Named One of the Worlds Top Companies for Women 2024 by Forbes -
+Brunswick,2017-10,"16:27:18  [NEWPEO] (BC.N) - Brunswick CEO David M. Foulkes's selling increases by 169% in 2024 Thursday October 31, 2024 -"
+Brunswick,2017-10,09:07:56  [GLOSTO] (BC.N) - Brunswick (BC: $81.59) drops 1.4% on increasing volatility; Independent Director Joseph McClanathan sells; -$1.20 [1.4%] -
+Brunswick,2017-10,08:03:21  [GLOSTO] (BC.N) - Brunswick (BC: $81.59) drops 1.4% on increasing volatility; Independent Director Joseph McClanathan sells; -$1.20 [1.4%] -
+Brunswick,2017-10,"05:42:37  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $82.96) keeps rising, up 7.7% in 5 days Wednesday October 30, 2024 11:29 EDT -"
+Brunswick,2017-10,"05:42:36  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.79) Wednesday October 30, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:42:25  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.79) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 30, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:42:22  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.80) in 4th consecutive rise Wednesday October 30, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:42:43  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $82.96) keeps rising, up 7.7% in 5 days Wednesday October 30, 2024 11:29 EDT -"
+Brunswick,2017-10,"03:42:23  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.79) Wednesday October 30, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:17:32  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $82.96) keeps rising, up 7.7% in 5 days Wednesday October 30, 2024 11:29 EDT -"
+Brunswick,2017-10,"02:58:34  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.79) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 30, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:58:18  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.80) in 4th consecutive rise Wednesday October 30, 2024 07:10 EDT -"
+Brunswick,2017-10,01:53:36  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,"01:53:35  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.96) keeps rising, up 7.7% in 5 days; +17c [0.2%] -"
+Brunswick,2017-10,"00:47:33  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.79) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 30, 2024 07:10 EDT -"
+Brunswick,2017-10,"00:47:23  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.80) in 4th consecutive rise Wednesday October 30, 2024 07:10 EDT -"
+Brunswick,2017-10,"23:49:32  [NEWNYS] (BC.N) - Brunswick rises for a third consecutive day, a three-day rise of 6.4% Monday, October 28, 2024 11:00:00 -"
+Brunswick,2017-10,23:49:09  [GLOSTO] (BC.N) - Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,"22:48:21  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.79) Wednesday October 30, 2024 07:10 EDT -"
+Brunswick,2017-10,21:48:45  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,"21:48:33  [NEWNYS] (BC.N) - Brunswick rises for a third consecutive day, a three-day rise of 6.0% Monday, October 28, 2024 10:00:00 -"
+Brunswick,2017-10,21:48:29  [GLOSTO] (BC.N) - ICYMI: Traders look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,21:28:02  [NEWWIR] (BC.N) - Brunswick Corporation Named One of the Worlds Top Companies for Women 2024 by Forbes -
+Brunswick,2017-10,20:50:19  [GLOSTO] (BC.N) - Update: Traders look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,"17:17:20  [NEWWIR] (BC.N) - How Brunswick's latest insider trade compares to similar recent trades Tuesday October 29, 2024 -"
+Brunswick,2017-10,"17:17:13  [NEWWIR] (BC.N) - How Brunswick's latest insider trade compares to similar recent trades Monday October 28, 2024 -"
+Brunswick,2017-10,"16:37:25  [NEWPEO] (BC.N) - Brunswick director Joseph McClanathan sells shares worth $380,264 Tuesday October 29, 2024 -"
+Brunswick,2017-10,09:08:21  [GLOSTO] (BC.N) - Brunswick (BC: $82.80) up 7.5% in 4 days; Independent Director Joseph McClanathan sells; +$5.79 [7.5%] -
+Brunswick,2017-10,08:03:23  [GLOSTO] (BC.N) - Brunswick (BC: $82.80) up 7.5% in 4 days; Independent Director Joseph McClanathan sells; +$5.79 [7.5%] -
+Brunswick,2017-10,07:20:39  [WPRPRO] (BC.N) - Brunswick Corporation Named One of the 'World's Top Companies for Women 2024' by Forbes -- -
+Brunswick,2017-10,06:44:31  [CMNW] (BC.N) - Brunswick Corporation Named One of the Worlds Top Companies for Women 2024 by Forbes -
+Brunswick,2017-10,06:01:10  [YAHNEX] (BC.N) - Brunswick Corporation Named One of the 'World's Top Companies for Women 2024' by Forbes -- -
+Brunswick,2017-10,05:58:12  [TAICHI] (BC.N) - Brunswick Corporation Named One of the 'World's Top Companies for Women 2024' by Forbes -- -
+Brunswick,2017-10,"05:42:39  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.05) Tuesday October 29, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:42:45  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.05) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday October 29, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:42:24  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.06) in 3rd consecutive rise Tuesday October 29, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:47:49  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.15) keeps rising, up 6.7% in 4 days; +10c [0.1%] -"
+Brunswick,2017-10,"03:42:41  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.05) Tuesday October 29, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:58:12  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.06) in 3rd consecutive rise Tuesday October 29, 2024 07:10 EDT -"
+Brunswick,2017-10,"00:42:37  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.05) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday October 29, 2024 07:10 EDT -"
+Brunswick,2017-10,"00:42:21  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $82.06) in 3rd consecutive rise Tuesday October 29, 2024 07:10 EDT -"
+Brunswick,2017-10,23:49:16  [GLOSTO] (BC.N) - Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,"22:48:02  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.05) Tuesday October 29, 2024 07:10 EDT -"
+Brunswick,2017-10,22:47:46  [GLOSTO] (BC.N) - ICYMI: Traders look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,21:48:26  [GLOSTO] (BC.N) - Update: Traders look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,17:30:00  [INDRET] (BC.N) - Brunswick: Freedom Boat Club Named One of 2024's Top Global Franchises by Entrepreneur Magazine -
+Brunswick,2017-10,"17:07:44  [NEWPEO] (BC.N) - Brunswick director Joseph McClanathan sells shares worth $380,264 Monday October 28, 2024 -"
+Brunswick,2017-10,"11:00:00  [PLUPAT] (BC.N) - Head Line: Brunswick Corporation (Illinois) granted US Patent for ""Convertible Seating System For Marine Vessels"" -"
+Brunswick,2017-10,"11:00:00  [PLUPAT] (BC.N) - Head Line: Brunswick Corporation (Illinois) granted US Patent for ""Marine Vessel With Gyroscope-assisted Joystick Maneuvering"" -"
+Brunswick,2017-10,09:07:43  [GLOSTO] (BC.N) - Brunswick (BC: $82.06) up 6.6% in 3 days; Independent Director Joseph McClanathan sells; +$5.05 [6.6%] -
+Brunswick,2017-10,07:57:36  [GLOSTO] (BC.N) - Brunswick (BC: $82.06) up 6.6% in 3 days; Independent Director Joseph McClanathan sells; +$5.05 [6.6%] -
+Brunswick,2017-10,"06:27:30  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.46) keeps rising, up 5.8% in 3 days; +70c [0.9%] -"
+Brunswick,2017-10,05:42:32  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $81.93) in 3rd consecutive rise 28102024 12:21 EDT -
+Brunswick,2017-10,"05:42:29  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $81.62) keeps rising, up 6.0% in 3 days Monday October 28, 2024 10:31 EDT -"
+Brunswick,2017-10,"05:42:13  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $80.76) Monday October 28, 2024 07:10 EDT -"
+Brunswick,2017-10,"05:27:17  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.55) keeps rising, up 5.9% in 3 days; +79c [1.0%] -"
+Brunswick,2017-10,05:06:55  [GURCOM] (BC.N) - Insider Sale: Director Joseph Mcclanathan Sells Shares of Brunswick Corp (BC) -
+Brunswick,2017-10,"04:44:00  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $80.76) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday October 28, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:43:49  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $80.74) in 2nd consecutive rise Monday October 28, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:42:26  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $80.76) Monday October 28, 2024 07:10 EDT -"
+Brunswick,2017-10,03:27:10  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $81.93) in 3rd consecutive rise 28102024 12:21 EDT -
+Brunswick,2017-10,"03:27:06  [NEWNYS] (BC.N) - Brunswick rises for a third consecutive day, a three-day rise of 6.4% Monday, October 28, 2024 11:00:00 -"
+Brunswick,2017-10,"02:51:52  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $80.76) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday October 28, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:51:08  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $80.74) in 2nd consecutive rise Monday October 28, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:49:04  [TRADAJ] (BC.N) - Brunswick Co. (NYSE:BC) Director Sells $380,264.30 in Stock -"
+Brunswick,2017-10,"02:17:40  [NEWNYS] (BC.N) - Brunswick rises for a third consecutive day, a three-day rise of 6.0% Monday, October 28, 2024 10:00:00 -"
+Brunswick,2017-10,"02:17:31  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $81.62) keeps rising, up 6.0% in 3 days Monday October 28, 2024 10:31 EDT -"
+Brunswick,2017-10,"01:53:31  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.62) keeps rising, up 6.0% in 3 days; +86c [1.1%] -"
+Brunswick,2017-10,00:52:18  [GLOSTO] (BC.N CCL.L) - Carnival continues to outperform Brunswick by 11.2% in the past month -
+Brunswick,2017-10,00:52:15  [GLOSTO] (BC.N LYV.N) - Live Nation Entertainment continues to outperform Brunswick by 12.1% in the past month -
+Brunswick,2017-10,"00:42:09  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $80.76) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday October 28, 2024 07:10 EDT -"
+Brunswick,2017-10,"00:41:56  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $80.74) in 2nd consecutive rise Monday October 28, 2024 07:10 EDT -"
+Brunswick,2017-10,"23:08:08  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $80.76) Monday October 28, 2024 07:10 EDT -"
+Brunswick,2017-10,"21:48:05  [NEWNYS] (BC.N) - Brunswick rises for a second consecutive day, a two-day rise of 5.8% Friday, October 25, 2024 10:00:00 -"
+Brunswick,2017-10,17:47:03  [TICREP] (BC.N) - Brunswick (NYSE:BC) Stock Rating Reaffirmed by Benchmark -
+Brunswick,2017-10,20:07:55  [TICREP] (BC.N) - Brunswick Co. (NYSE:BC) Shares Bought by Tectonic Advisors LLC -
+Brunswick,2017-10,14:51:38  [STOCKP] (BC.N) - Brunswick -De is trading -2.3 percent lower with a volume of USD 77.2 mn on Saturday 26th of October -
+Brunswick,2017-10,09:07:54  [GLOSTO] (BC.N) - Brunswick (BC: $80.74) up 4.8% in 2 days; +$3.73 [4.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,08:08:42  [GLOSTO] (BC.N) - Brunswick (BC: $80.74) up 4.8% in 2 days; +$3.73 [4.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,06:47:21  [GLOSTO] (BC.N) - Brunswick (BC: $80.79) up 4.9% in 2 days; +83c [1.0%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,06:28:33  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $80.79) up 4.9% in 2 days; +83c [1.0%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,06:27:20  [GLOSTO] (BC.N) - Brunswick (BC: $80.93) in 2nd consecutive rise; +97c [1.2%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,06:12:23  [GLOSTO] (BC.N) - Brunswick (BC: $80.79) up 4.9% in 2 days; +83c [1.0%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,06:02:49  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $80.93) in 2nd consecutive rise; +97c [1.2%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,05:52:17  [GLOSTO] (BC.N) - Brunswick (BC: $80.93) in 2nd consecutive rise; +97c [1.2%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,05:46:48  [GLOSTO] (BC.N) - Brunswick (BC: $80.93) up 5.1% in 2 days; +97c [1.2%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,"05:42:46  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $81.44) up 5.8% in 2 days Friday October 25, 2024 10:31 EDT -"
+Brunswick,2017-10,"05:42:41  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $79.96) Friday October 25, 2024 07:10 EDT -"
+Brunswick,2017-10,05:27:26  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $80.93) up 5.1% in 2 days; +97c [1.2%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,05:12:54  [GLOSTO] (BC.N) - Brunswick (BC: $80.93) up 5.1% in 2 days; +97c [1.2%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,05:12:28  [GERCOM] (BC.N BWI.F) - German trading: Brunswick (BWI: EUR74.68) climbs 2.8% on rising relative strength; +EUR2.04 [2.8%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-10,04:57:33  [GLOSTO] (BC.N) - Brunswick (BC: $81.06) in 2nd consecutive rise; +$1.10 [1.4%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,"04:42:23  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $79.96) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday October 25, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:42:20  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $80.04) adds $205 million (3.9%) in MCap, top heavyweight rise in Recreational products sector Friday October 25, 2024 07:10 EDT -"
+Brunswick,2017-10,04:38:34  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.06) in 2nd consecutive rise; +$1.10 [1.4%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,04:22:54  [GLOSTO] (BC.N) - Brunswick (BC: $81.06) in 2nd consecutive rise; +$1.10 [1.4%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,04:22:47  [GLOSTO] (BC.N) - Brunswick (BC: $80.85) lifts 1.1% on firm volume; +89c [1.1%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,04:22:44  [GLOSTO] (BC.N) - Brunswick (BC: $80.85) in 2nd consecutive rise; +89c [1.1%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,04:02:41  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $80.85) lifts 1.1% on firm volume; +89c [1.1%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,03:47:31  [GLOSTO] (BC.N) - Brunswick (BC: $80.85) in 2nd consecutive rise; +89c [1.1%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,03:47:29  [GLOSTO] (BC.N) - Brunswick (BC: $80.85) lifts 1.1% on firm volume; +89c [1.1%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,"03:42:44  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $81.44) up 5.8% in 2 days Friday October 25, 2024 10:31 EDT -"
+Brunswick,2017-10,"03:42:44  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $79.96) Friday October 25, 2024 07:10 EDT -"
+Brunswick,2017-10,03:12:19  [GLOSTO] (BC.N) - Brunswick (BC: $81.38) in 2nd consecutive rise; +$1.42 [1.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,03:12:18  [GLOSTO] (BC.N) - Brunswick (BC: $81.38) up 5.7% in 2 days; +$1.42 [1.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,"02:53:17  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $79.96) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday October 25, 2024 07:10 EDT -"
+Brunswick,2017-10,02:52:56  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.38) in 2nd consecutive rise; +$1.42 [1.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,"02:52:55  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $80.04) adds $205 million (3.9%) in MCap, top heavyweight rise in Recreational products sector Friday October 25, 2024 07:10 EDT -"
+Brunswick,2017-10,02:43:13  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.38) climbs 1.8% on robust volume; +$1.42 [1.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,02:42:16  [GLOSTO] (BC.N) - Brunswick (BC: $81.38) up 5.7% in 2 days; +$1.42 [1.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,02:37:05  [GLOSTO] (BC.N) - Brunswick (BC: $81.38) in 2nd consecutive rise; +$1.42 [1.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,"02:22:29  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $81.44) up 5.8% in 2 days Friday October 25, 2024 10:31 EDT -"
+Brunswick,2017-10,"02:17:48  [NEWNYS] (BC.N) - Brunswick rises for a second consecutive day, a two-day rise of 5.8% Friday, October 25, 2024 10:00:00 -"
+Brunswick,2017-10,"01:52:50  [MARBEA] (BC.N) - Benchmark Reiterates ""Buy"" Rating for Brunswick (NYSE:BC) -- -"
+Brunswick,2017-10,00:49:45  [WNCOMA] (BC.N) - Brunswick aerospace company conducts largest rocket test yet -- -
+Brunswick,2017-10,"00:47:32  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $80.04) adds $205 million (3.9%) in MCap, top heavyweight rise in Recreational products sector Friday October 25, 2024 07:10 EDT -"
+Brunswick,2017-10,"00:47:28  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $79.96) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday October 25, 2024 07:10 EDT -"
+Brunswick,2017-10,23:48:57  [GLOSTO] (BC.N) - Friday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,"23:48:45  [NEWNYS] (BC.N) - Brunswick in 4th consecutive fall, nears two-month low Wednesday, October 23, 2024 11:00:00 -"
+Brunswick,2017-10,"22:48:03  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $79.96) Friday October 25, 2024 07:10 EDT -"
+Brunswick,2017-10,22:47:52  [GLOSTO] (BC.N) - ICYMI: Friday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,"21:48:35  [NEWNYS] (BC.N) - Brunswick in 4th consecutive fall, nears two-month low Wednesday, October 23, 2024 10:00:00 -"
+Brunswick,2017-10,21:48:32  [GLOSTO] (BC.N) - ICYMI: Friday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,21:31:55  [RTRS] (BC.N) - BRUNSWICK CORP  BC.N: CITIGROUP CUTS TARGET PRICE TO $92 FROM $101 -
+Brunswick,2017-10,20:48:51  [GLOSTO] (BC.N) - Update: Friday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,17:23:01  [GURCOM] (BC.N) - Brunswick Corp (BC) Q3 2024 Earnings Call Highlights: Navigating Market Challenges with ... -
+Brunswick,2017-10,09:07:44  [GLOSTO] (BC.N) - Brunswick (BC: $80.04) shares rise after 4 days of declines; +$3.03 [3.9%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,08:08:35  [GLOSTO] (BC.N) - Brunswick (BC: $80.04) shares rise after 4 days of declines; +$3.03 [3.9%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,06:47:25  [GLOSTO] (BC.N) - Brunswick (BC: $79.99) gains 3.9% on robust volume; +$2.98 [3.9%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,06:27:30  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.99) gains 3.9% on robust volume; +$2.98 [3.9%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,06:22:22  [GLOSTO] (BC.N) - Brunswick (BC: $79.75) jumps 3.6% on robust volume; +$2.74 [3.6%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,06:17:35  [GLOSTO] (BC.N) - Brunswick (BC: $79.99) gains 3.9% on robust volume; +$2.98 [3.9%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,06:02:47  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.75) jumps 3.6% on robust volume; +$2.74 [3.6%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,06:00:00  [FDFAIR] (BC.N) - Event Brief of Q3 2024 Brunswick Corp Earnings Call - Final -
+Brunswick,2017-10,05:52:19  [GLOSTO] (BC.N) - Brunswick (BC: $79.75) jumps 3.6% on robust volume; +$2.74 [3.6%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,05:47:20  [GLOSTO] (BC.N) - Brunswick (BC: $79.65) gains 3.4% on robust volume; +$2.64 [3.4%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-10,"05:42:38  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $77.01) Thursday October 24, 2024 07:10 EDT -"
+Brunswick,2017-10,"05:42:19  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $77.06) falls 2.2%, hits 41-day low Thursday October 24, 2024 07:10 EDT -"
+Brunswick,2017-10,05:32:56  [STOCKP] (BC.N) - On Thursday 24th of October Brunswick -De trades -2.3 percent lower -
+Brunswick,2017-10,05:27:27  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.65) gains 3.4% on robust volume; +$2.64 [3.4%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-10,05:12:18  [GLOSTO] (BC.N) - Brunswick (BC: $79.65) gains 3.4% on robust volume; +$2.64 [3.4%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-10,04:57:32  [GLOSTO] (BC.N) - Brunswick (BC: $78.76) climbs 2.3% on robust volume; +$1.75 [2.3%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-10,04:38:35  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.76) climbs 2.3% on robust volume; +$1.75 [2.3%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-10,04:22:23  [GLOSTO] (BC.N) - Brunswick (BC: $78.76) climbs 2.3% on robust volume; +$1.75 [2.3%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-10,04:07:25  [GLOSTO] (BC.N) - Brunswick (BC: $78.73) gains 2.2% on high volume; +$1.72 [2.2%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-10,03:47:47  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.73) gains 2.2% on high volume; +$1.72 [2.2%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-10,"03:42:48  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $77.01) Thursday October 24, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:42:36  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $77.06) falls 2.2%, hits 41-day low Thursday October 24, 2024 07:10 EDT -"
+Brunswick,2017-10,03:31:30  [YAHNEX] (BC.N) - Brunswick (BC) Reports Q3 Earnings: What Key Metrics Have to Say -- -
+Brunswick,2017-10,03:21:26  [RTRS] (BC.N) - Brunswick Corp reports results for the quarter ended in January 1 - Earnings Summary -
+Brunswick,2017-10,03:12:15  [GLOSTO] (BC.N) - Brunswick (BC: $78.61) climbs 2.1% on high volume; +$1.60 [2.1%] Vol Index 2.2 [1 is avg] -
+Brunswick,2017-10,02:58:05  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.61) climbs 2.1% on high volume; +$1.60 [2.1%] Vol Index 2.2 [1 is avg] -
+Brunswick,2017-10,02:43:14  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.61) climbs 2.1% on high volume; +$1.60 [2.1%] Vol Index 2.2 [1 is avg] -
+Brunswick,2017-10,02:37:29  [ZACKSC] (BC.N) - Brunswick (BC) Reports Q3 Earnings: What Key Metrics Have to Say -
+Brunswick,2017-10,02:37:11  [GLOSTO] (BC.N) - Brunswick (BC: $78.61) climbs 2.1% on high volume; +$1.60 [2.1%] Vol Index 2.2 [1 is avg] -
+Brunswick,2017-10,02:12:26  [GLOSTO] (BC.N) - Brunswick (BC: $77.82) lifts 1.1% on strong volume; +81c [1.1%] Vol Index 2.8 [1 is avg] -
+Brunswick,2017-10,01:53:21  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.82) lifts 1.1% on strong volume; +81c [1.1%] Vol Index 2.8 [1 is avg] -
+Brunswick,2017-10,01:53:19  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-10,01:42:23  [GLOSTO] (BC.N) - Brunswick (BC: $77.82) lifts 1.1% on strong volume; +81c [1.1%] Vol Index 2.8 [1 is avg] -
+Brunswick,2017-10,23:49:08  [GLOSTO] (BC.N) - Thursday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,"23:48:56  [NEWNYS] (BC.N) - Brunswick leads Recreational products sector down 0.4% Tuesday, October 22, 2024 11:00:00 -"
+Brunswick,2017-10,"22:52:42  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $77.01) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Thursday October 24, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:52:30  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $77.01) Thursday October 24, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:48:06  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $77.06) falls 2.2%, hits 41-day low Thursday October 24, 2024 07:10 EDT -"
+Brunswick,2017-10,22:48:03  [GLOSTO] (BC.N) - ICYMI: Thursday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,21:48:43  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-10,21:48:39  [GLOSTO] (BC.N) - ICYMI: Thursday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,21:15:36  [PUBT] (BC.N) - Brunswick Corporation - Brunswick Corporation Releases 2024 Third Quarter Earnings -
+Brunswick,2017-10,20:48:20  [GLOSTO] (BC.N) - Update: Thursday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,"06:47:27  [GLOSTO] (BC.N) - Brunswick (BC: $76.83) keeps sliding, down 8.7% in 4 days; -$1.99 [-2.5%] Vol Index 1.5 [1 is avg] -"
+Brunswick,2017-10,06:27:11  [GLOSTO] (BC.N) - Brunswick (BC: $76.87) drops to two-month low on robust volume; -$1.95 [-2.5%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,"06:17:45  [GLOSTO] (BC.N) - Brunswick (BC: $76.83) keeps sliding, down 8.7% in 4 days; -$1.99 [-2.5%] Vol Index 1.5 [1 is avg] -"
+Brunswick,2017-10,05:52:16  [GLOSTO] (BC.N) - Brunswick (BC: $76.87) drops to two-month low on robust volume; -$1.95 [-2.5%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,"05:47:18  [GLOSTO] (BC.N) - Brunswick (BC: $77.50) keeps sliding, down 7.9% in 4 days; -$1.32 [-1.7%] Vol Index 1.5 [1 is avg] -"
+Brunswick,2017-10,"05:42:39  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $78.63) keeps sliding, down 6.6% in 4 days Wednesday October 23, 2024 10:31 EDT -"
+Brunswick,2017-10,"05:42:35  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $78.82) Wednesday October 23, 2024 07:10 EDT -"
+Brunswick,2017-10,"05:42:27  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $77.64) in 4th consecutive fall Wednesday October 23, 2024 11:28 EDT -"
+Brunswick,2017-10,"05:42:21  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $78.82) slides 3.3%, hits 39-day low Wednesday October 23, 2024 07:10 EDT -"
+Brunswick,2017-10,"05:12:20  [GLOSTO] (BC.N) - Brunswick (BC: $77.50) keeps sliding, down 7.9% in 4 days; -$1.32 [-1.7%] Vol Index 1.5 [1 is avg] -"
+Brunswick,2017-10,04:57:29  [GLOSTO] (BC.N) - Brunswick (BC: $78.01) drops to two-month low on firm volume; -81c [-1.0%] -
+Brunswick,2017-10,04:07:23  [GLOSTO] (BC.N) - Brunswick (BC: $77.76) drops to two-month low on firm volume; -$1.06 [-1.3%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-10,03:47:34  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.76) drops to two-month low on firm volume; -$1.06 [-1.3%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-10,"03:42:56  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $78.63) keeps sliding, down 6.6% in 4 days Wednesday October 23, 2024 10:31 EDT -"
+Brunswick,2017-10,"03:42:46  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $77.64) in 4th consecutive fall Wednesday October 23, 2024 11:28 EDT -"
+Brunswick,2017-10,"03:42:37  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $78.82) Wednesday October 23, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:42:30  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $78.82) slides 3.3%, hits 39-day low Wednesday October 23, 2024 07:10 EDT -"
+Brunswick,2017-10,03:37:29  [GLOSTO] (BC.N) - Brunswick (BC: $77.76) drops to two-month low on firm volume; -$1.06 [-1.3%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-10,"03:17:54  [NEWNYS] (BC.N) - Brunswick in 4th consecutive fall, nears two-month low Wednesday, October 23, 2024 11:00:00 -"
+Brunswick,2017-10,"03:17:40  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $77.64) in 4th consecutive fall Wednesday October 23, 2024 11:28 EDT -"
+Brunswick,2017-10,02:57:52  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.64) drops to two-month low on firm volume; -$1.18 [-1.5%] -
+Brunswick,2017-10,"02:43:04  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.64) keeps sliding, down 7.8% in 4 days; -$1.18 [-1.5%] -"
+Brunswick,2017-10,"02:17:51  [NEWNYS] (BC.N) - Brunswick in 4th consecutive fall, nears two-month low Wednesday, October 23, 2024 10:00:00 -"
+Brunswick,2017-10,"02:17:42  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $78.63) keeps sliding, down 6.6% in 4 days Wednesday October 23, 2024 10:31 EDT -"
+Brunswick,2017-10,02:16:48  [GLOSTO] (BC.N) - Brunswick (BC: $78.63) drops to two-month low on robust volume; -19c [-0.2%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,"02:12:26  [GLOSTO] (BC.N) - Brunswick (BC: $78.63) keeps sliding, down 6.6% in 4 days; -19c [-0.2%] Vol Index 1.5 [1 is avg] -"
+Brunswick,2017-10,"01:53:12  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.63) keeps sliding, down 6.6% in 4 days; -19c [-0.2%] Vol Index 1.5 [1 is avg] -"
+Brunswick,2017-10,01:53:11  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,01:52:53  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.63) decreases ; -19c [-0.2%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,01:42:43  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.63) in 4th consecutive fall; -19c [-0.2%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,01:42:26  [GLOSTO] (BC.N) - Brunswick (BC: $78.63) drops to two-month low on robust volume; -19c [-0.2%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-10,"01:42:25  [GLOSTO] (BC.N) - Brunswick (BC: $78.63) keeps sliding, down 6.6% in 4 days; -19c [-0.2%] Vol Index 1.5 [1 is avg] -"
+Brunswick,2017-10,00:52:37  [GLOSTO] (BC.N) - How Brunswick Has Fared Since Its Recent Analyst Ratings Changes -
+Brunswick,2017-10,23:49:14  [GLOSTO] (BC.N) - Investors concerned as Brunswick down in recent days -
+Brunswick,2017-10,23:08:18  [GURCOM] (BC.N) - Earnings To Watch: Brunswick Corp (BC) Reports Q3 2024 Result -
+Brunswick,2017-10,"22:52:22  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $78.82) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 23, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:48:15  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $78.82) slides 3.3%, hits 39-day low Wednesday October 23, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:48:14  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $78.82) Wednesday October 23, 2024 07:10 EDT -"
+Brunswick,2017-10,21:48:29  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,"11:00:00  [PLUPAT] (BC.N) - Head Line: Brunswick Corporation (Illinois) granted US Patent for ""Marine Propulsion Control System And Method With Proximity-based Velocity Limiting"" -"
+Brunswick,2017-10,"11:00:00  [PLUPAT] (BC.N) - Head Line: Brunswick Corporation (Illinois) granted US Patent for ""Method And System For Controlling Attitude Of A Marine Vessel"" -"
+Brunswick,2017-10,"11:00:00  [PLUPAT] (BC.N) - Head Line: Brunswick Corporation (Illinois) granted US Patent for ""System And Method For Controlling Position Of A Marine Drive"" -"
+Brunswick,2017-10,"06:47:15  [GLOSTO] (BC.N) - Brunswick (BC: $78.89) accelerates decline, down 6.1% in 2 days; -$2.66 [-3.3%] Vol Index 1.8 [1 is avg] -"
+Brunswick,2017-10,"06:27:36  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.89) accelerates decline, down 6.1% in 2 days; -$2.66 [-3.3%] Vol Index 1.8 [1 is avg] -"
+Brunswick,2017-10,"06:17:36  [GLOSTO] (BC.N) - Brunswick (BC: $78.89) accelerates decline, down 6.1% in 2 days; -$2.66 [-3.3%] Vol Index 1.8 [1 is avg] -"
+Brunswick,2017-10,05:52:41  [GLOSTO] (BC.N) - How Brunswick's Tax Rate compares to Its Peers -
+Brunswick,2017-10,05:47:07  [GLOSTO] (BC.N) - Brunswick (BC: $79.01) drops to two-month low on robust volume; -$2.54 [-3.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-10,"05:42:47  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $78.71) accelerates decline, down 6.3% in 2 days Tuesday October 22, 2024 11:29 EDT -"
+Brunswick,2017-10,"05:42:39  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $78.71) accelerates decline, down 6.3% in 2 days Tuesday October 22, 2024 10:31 EDT -"
+Brunswick,2017-10,"05:42:37  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $81.55) Tuesday October 22, 2024 07:10 EDT -"
+Brunswick,2017-10,05:12:16  [GLOSTO] (BC.N) - Brunswick (BC: $79.01) drops to two-month low on robust volume; -$2.54 [-3.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-10,04:57:39  [GLOSTO] (BC.N) - Brunswick (BC: $78.78) drops to two-month low on robust volume; -$2.77 [-3.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-10,04:53:58  [GLOSTO] (BC.N) - Brunswick continues to underperform Live Nation Entertainment by 38.5% year to date -
+Brunswick,2017-10,04:52:58  [GLOSTO] (BC.N) - Brunswick continues to underperform Polaris Industries by 0.3% year to date -
+Brunswick,2017-10,04:27:03  [GLOSTO] (BC.N) - Brunswick (BC: $78.78) drops to two-month low on robust volume; -$2.77 [-3.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-10,04:07:29  [GLOSTO] (BC.N) - Brunswick (BC: $78.54) drops to two-month low on high volume; -$3.01 [-3.7%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-10,03:52:59  [GLOSTO] (BC.N FUN.N) - How Brunswick's dividend compares to Cedar Fair -
+Brunswick,2017-10,03:52:58  [GLOSTO] (BC.N LCII.N) - How Brunswick's dividend compares to LCI Industries -
+Brunswick,2017-10,03:47:29  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.54) drops to two-month low on high volume; -$3.01 [-3.7%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-10,"03:42:59  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $78.71) accelerates decline, down 6.3% in 2 days Tuesday October 22, 2024 10:31 EDT -"
+Brunswick,2017-10,"03:42:43  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $81.55) Tuesday October 22, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:42:40  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $78.71) accelerates decline, down 6.3% in 2 days Tuesday October 22, 2024 11:29 EDT -"
+Brunswick,2017-10,03:32:22  [GLOSTO] (BC.N) - Brunswick (BC: $78.54) drops to two-month low on high volume; -$3.01 [-3.7%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-10,"03:12:48  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $78.71) accelerates decline, down 6.3% in 2 days Tuesday October 22, 2024 11:29 EDT -"
+Brunswick,2017-10,"03:12:47  [NEWNYS] (BC.N) - Brunswick leads Recreational products sector down 0.4% Tuesday, October 22, 2024 11:00:00 -"
+Brunswick,2017-10,"03:12:16  [GLOSTO] (BC.N) - Brunswick (BC: $78.40) keeps sliding, down 6.9% in 3 days; -$3.15 [-3.9%] Vol Index 2.2 [1 is avg] -"
+Brunswick,2017-10,02:53:21  [GLOSTO] (BC.N PII.N) - How Brunswick's dividend compares to Polaris Industries -
+Brunswick,2017-10,"02:43:52  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.40) accelerates decline, down 6.7% in 2 days; -$3.15 [-3.9%] Vol Index 2.2 [1 is avg] -"
+Brunswick,2017-10,"02:37:11  [GLOSTO] (BC.N) - Brunswick (BC: $78.40) keeps sliding, down 6.9% in 3 days; -$3.15 [-3.9%] Vol Index 2.2 [1 is avg] -"
+Brunswick,2017-10,"02:22:25  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $78.71) accelerates decline, down 6.3% in 2 days Tuesday October 22, 2024 10:31 EDT -"
+Brunswick,2017-10,02:17:29  [GLOSTO] (BC.N) - Brunswick (BC: $78.71) drops to two-month low on high volume; -$2.84 [-3.5%] Vol Index 2.3 [1 is avg] -
+Brunswick,2017-10,"02:12:29  [GLOSTO] (BC.N) - Brunswick (BC: $78.71) accelerates decline, down 6.3% in 2 days; -$2.84 [-3.5%] Vol Index 2.3 [1 is avg] -"
+Brunswick,2017-10,"01:53:31  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.71) accelerates decline, down 6.3% in 2 days; -$2.84 [-3.5%] Vol Index 2.3 [1 is avg] -"
+Brunswick,2017-10,01:48:07  [RTRS] (BC.N) - Brunswick Corp  BC.N expected to post earnings of $1.20 a share - Earnings Preview -
+Brunswick,2017-10,01:42:32  [GLOSTO] (BC.N) - Brunswick (BC: $78.71) drops to two-month low on high volume; -$2.84 [-3.5%] Vol Index 2.3 [1 is avg] -
+Brunswick,2017-10,"01:42:27  [GLOSTO] (BC.N) - Brunswick (BC: $78.71) accelerates decline, down 6.3% in 2 days; -$2.84 [-3.5%] Vol Index 2.3 [1 is avg] -"
+Brunswick,2017-10,01:22:27  [ZACKSC] (BC.N) - Unveiling Brunswick (BC) Q3 Outlook: Wall Street Estimates for Key Metrics -
+Brunswick,2017-10,23:14:21  [RTRS] (BC.N) - BRUNSWICK CORP  BC.N: JP MORGAN CUTS TARGET PRICE TO $74 FROM $75 -
+Brunswick,2017-10,"22:52:21  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $81.55) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Tuesday October 22, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:48:26  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $81.55) Tuesday October 22, 2024 07:10 EDT -"
+Brunswick,2017-10,22:07:20  [TRADAJ] (BC.N) - Copeland Capital Management LLC Grows Stock Holdings in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-10,22:04:47  [MARBEA] (BC.N) - Copeland Capital Management LLC Grows Stock Holdings in Brunswick Co. (NYSE:BC) -- -
+Brunswick,2017-10,06:47:15  [GLOSTO] (BC.N) - Brunswick (BC: $82.43) falls 1.9% on robust volume; -$1.61 [-1.9%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,06:27:25  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.43) falls 1.9% on robust volume; -$1.61 [-1.9%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,06:22:24  [GLOSTO] (BC.N) - Brunswick (BC: $82.65) drops 1.7% on robust volume; -$1.39 [-1.7%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,06:17:42  [GLOSTO] (BC.N) - Brunswick (BC: $82.43) falls 1.9% on robust volume; -$1.61 [-1.9%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,06:02:32  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.65) drops 1.7% on robust volume; -$1.39 [-1.7%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,05:52:08  [GLOSTO] (BC.N) - Brunswick (BC: $82.65) drops 1.7% on robust volume; -$1.39 [-1.7%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,05:47:20  [GLOSTO] (BC.N) - Brunswick (BC: $82.64) falls 1.7% on robust volume; -$1.40 [-1.7%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,"05:42:25  [GLOSNI] (.GDAXI BC.N) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $84.04) Monday October 21, 2024 07:10 EDT -"
+Brunswick,2017-10,05:12:15  [GLOSTO] (BC.N) - Brunswick (BC: $82.64) falls 1.7% on robust volume; -$1.40 [-1.7%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,04:57:36  [GLOSTO] (BC.N) - Brunswick (BC: $82.56) drops 1.8% on firm volume; -$1.48 [-1.8%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-10,04:38:48  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.56) drops 1.8% on firm volume; -$1.48 [-1.8%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-10,04:22:36  [GLOSTO] (BC.N) - Brunswick (BC: $82.56) drops 1.8% on firm volume; -$1.48 [-1.8%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-10,04:17:06  [GLOSTO] (BC.N) - Brunswick (BC: $82.28) down 2.2% in 2 days; -$1.76 [-2.1%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,04:12:19  [GLOSTO] (BC.N) - Brunswick (BC: $82.28) slides 2.1% on firm volume; -$1.76 [-2.1%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,03:52:53  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.28) slides 2.1% on firm volume; -$1.76 [-2.1%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,03:52:49  [GLOSTO] (BC.N) - Brunswick continues to underperform LCI Industries by 11.3% year to date -
+Brunswick,2017-10,03:52:45  [GLOSTO] (BC.N) - Brunswick continues to underperform Cinemark Holdings by 117.3% year to date -
+Brunswick,2017-10,"03:43:06  [GLOSNI] (.GDAXI BC.N) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $84.04) Monday October 21, 2024 07:10 EDT -"
+Brunswick,2017-10,03:42:26  [GLOSTO] (BC.N) - Brunswick (BC: $82.28) down 2.2% in 2 days; -$1.76 [-2.1%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,02:53:09  [GLOSTO] (BC.N) - Brunswick continues to underperform Cedar Fair by 12.5% year to date -
+Brunswick,2017-10,02:12:21  [GLOSTO] (BC.N) - Brunswick (BC: $82.91) drops 1.3% on firm volume; -$1.13 [-1.3%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,01:58:16  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.91) drops 1.3% on firm volume; -$1.13 [-1.3%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,01:43:04  [GLOSTO] (BC.N) - Brunswick (BC: $82.91) drops 1.3% on firm volume; -$1.13 [-1.3%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,00:52:16  [GLOSTO] (BC.N) - Brunswick continues to underperform Carnival by 28.1% year to date -
+Brunswick,2017-10,23:56:24  [GLOSTO] (BC.N) - Monday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,"23:08:36  [GLOSNI] (.GDAXI BC.N) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $84.04) Monday October 21, 2024 07:10 EDT -"
+Brunswick,2017-10,23:02:52  [GLOSTO] (BC.N) - ICYMI: Monday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,21:50:39  [GLOSTO] (BC.N) - ICYMI: Monday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,20:48:20  [GLOSTO] (BC.N) - Update: Monday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,"11:00:00  [PLUPAT] (BC.N) - Brunswick Corporation (Illinois)'s US Patent application for ""LIVEWELL SYSTEM"" is in published phase now -"
+Brunswick,2017-10,"05:42:31  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $84.17) Friday October 18, 2024 07:10 EDT -"
+Brunswick,2017-10,05:07:14  [GERCOM] (BC.N BWI.F) - German trading: Brunswick (BWI: EUR76.98) increases on firm volume; +66c [0.9%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,"04:42:37  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $84.17) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday October 18, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:42:47  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $84.17) Friday October 18, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:53:20  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $84.17) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday October 18, 2024 07:10 EDT -"
+Brunswick,2017-10,"00:42:18  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $84.17) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday October 18, 2024 07:10 EDT -"
+Brunswick,2017-10,23:49:23  [GLOSTO] (BC.N) - Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,"23:49:20  [NEWNYS] (BC.N) - Brunswick leads Recreational products sector 0.2% higher Wednesday, October 16, 2024 11:00:00 -"
+Brunswick,2017-10,"22:52:31  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $84.17) Friday October 18, 2024 07:10 EDT -"
+Brunswick,2017-10,22:47:57  [GLOSTO] (BC.N) - ICYMI: Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,"21:49:13  [NEWNYS] (BC.N) - Brunswick in 4th consecutive rise, nears high Wednesday, October 16, 2024 10:00:00 -"
+Brunswick,2017-10,21:48:59  [GLOSTO] (BC.N) - ICYMI: Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,20:48:36  [GLOSTO] (BC.N) - Update: Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,10:22:10  [WKRNEW] (BC.N) - Brunswick Co. (NYSE:BC) Short Interest Down 9.0% in September -- -
+Brunswick,2017-10,10:19:10  [MARBEA] (BC.N) - Brunswick Co. (NYSE:BC) Short Interest Down 9.0% in September -- -
+Brunswick,2017-10,"08:03:54  [GLOSTO] (BC.N) - Brunswick (BC: $84.18) in 5th consecutive rise, quarterly dividends steady; +$3.32 [4.1%] -"
+Brunswick,2017-10,"05:42:39  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $83.89) Thursday October 17, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:43:00  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.89) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday October 17, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:42:34  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.92) increases on rising relative strength Thursday October 17, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:43:00  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $83.89) Thursday October 17, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:58:28  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.89) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday October 17, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:58:16  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.92) increases on rising relative strength Thursday October 17, 2024 07:10 EDT -"
+Brunswick,2017-10,01:53:36  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-10,"00:42:42  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.89) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday October 17, 2024 07:10 EDT -"
+Brunswick,2017-10,"00:42:36  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.92) increases on rising relative strength Thursday October 17, 2024 07:10 EDT -"
+Brunswick,2017-10,"23:49:11  [NEWNYS] (BC.N) - Brunswick rises for a third consecutive day, a three-day rise of 4.6% Tuesday, October 15, 2024 11:00:00 -"
+Brunswick,2017-10,"22:48:11  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $83.89) Thursday October 17, 2024 07:10 EDT -"
+Brunswick,2017-10,21:48:56  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-10,17:30:13  [ETFDAI] (BC.N) - Brunswick (BC) Scheduled to Post Quarterly Earnings on Thursday -- -
+Brunswick,2017-10,17:21:44  [MARBEA] (BC.N) - Brunswick (BC) Scheduled to Post Quarterly Earnings on Thursday -- -
+Brunswick,2017-10,"11:00:00  [PLUPAT] (BC.N) - Brunswick Corporation (Illinois)'s US Patent application for ""WEEDLESS HYDROFOIL APPARATUSES FOR BOATS"" is in published phase now -"
+Brunswick,2017-10,"05:42:57  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $84.90) in 4th consecutive rise Wednesday October 16, 2024 11:28 EDT -"
+Brunswick,2017-10,"05:42:55  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $84.90) in 4th consecutive rise Wednesday October 16, 2024 10:31 EDT -"
+Brunswick,2017-10,"05:42:36  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $83.36) Wednesday October 16, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:42:42  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.36) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 16, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:42:27  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.34) in 3rd consecutive rise Wednesday October 16, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:43:16  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $84.90) in 4th consecutive rise Wednesday October 16, 2024 10:31 EDT -"
+Brunswick,2017-10,"03:43:12  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $84.90) in 4th consecutive rise Wednesday October 16, 2024 11:28 EDT -"
+Brunswick,2017-10,"03:42:58  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $83.36) Wednesday October 16, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:12:51  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $84.90) in 4th consecutive rise Wednesday October 16, 2024 11:28 EDT -"
+Brunswick,2017-10,"03:12:41  [NEWNYS] (BC.N) - Brunswick leads Recreational products sector 0.2% higher Wednesday, October 16, 2024 11:00:00 -"
+Brunswick,2017-10,"02:58:23  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.36) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 16, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:58:08  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.34) in 3rd consecutive rise Wednesday October 16, 2024 07:10 EDT -"
+Brunswick,2017-10,02:53:13  [GLOSTO] (BC.N) - How Brunswick Has Fared Since Its Recent Analyst Ratings Changes -
+Brunswick,2017-10,"02:13:06  [NEWNYS] (BC.N) - Brunswick in 4th consecutive rise, nears high Wednesday, October 16, 2024 10:00:00 -"
+Brunswick,2017-10,"02:12:49  [GLOBUL] (BC.N) - Confirmatory Bullish Trend: Brunswick (BC: $84.90) in 4th consecutive rise Wednesday October 16, 2024 10:31 EDT -"
+Brunswick,2017-10,01:53:14  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,"00:42:31  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.36) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 16, 2024 07:10 EDT -"
+Brunswick,2017-10,"00:42:25  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $83.34) in 3rd consecutive rise Wednesday October 16, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:47:33  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $83.36) Wednesday October 16, 2024 07:10 EDT -"
+Brunswick,2017-10,21:47:55  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,"19:40:16  [ETFDAI] (BC.N TFC.N) - Truist Financial Corp Has $673,000 Holdings in Brunswick Co. (NYSE:BC) -- -"
+Brunswick,2017-10,15:22:08  [FUTTRA] (BC.N) - Pool Tables Market Is Expected To Top Nearly US$ 291.6 Million By 2028 North America Region Dominated The Market -- -
+Brunswick,2017-10,"11:00:00  [PLUPAT] (BC.N) - Head Line: Brunswick Corporation (Illinois) granted US Patent for ""Cowlings And Hinge Assemblies For Cowlings On Marine Drives"" -"
+Brunswick,2017-10,06:57:39  [STOCKP] (BC.N) - Brunswick -De trades 2.02 percent higher on Tuesday 15th of October -
+Brunswick,2017-10,05:52:38  [GLOSTO] (BC.N) - Brunswick continues to underperform Live Nation Entertainment by 10.1% in the past three months -
+Brunswick,2017-10,05:52:25  [GLOSTO] (BC.N) - How Brunswick's Tax Rate compares to Its Peers -
+Brunswick,2017-10,"05:42:47  [GLOSNI] (.GDAXI BC.N) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $83.19) Tuesday October 15, 2024 07:10 EDT -"
+Brunswick,2017-10,04:52:52  [GLOSTO] (BC.N) - Brunswick continues to outperform Polaris Industries by 7.7% in the past three months -
+Brunswick,2017-10,03:53:13  [GLOSTO] (BC.N FUN.N) - How Brunswick's dividend compares to Cedar Fair -
+Brunswick,2017-10,03:53:09  [GLOSTO] (BC.N LCII.N) - How Brunswick's dividend compares to LCI Industries -
+Brunswick,2017-10,"03:42:43  [GLOSNI] (.GDAXI BC.N) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $83.19) Tuesday October 15, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:12:35  [NEWNYS] (BC.N) - Brunswick rises for a third consecutive day, a three-day rise of 4.6% Tuesday, October 15, 2024 11:00:00 -"
+Brunswick,2017-10,03:05:13  [GRAIND] (BC.N) - Pool Tables Market is Expected to Top Nearly US$ 291.6 Million By 2028 | North America Region Dominated the Market -- -
+Brunswick,2017-10,02:53:26  [GLOSTO] (BC.N PII.N) - How Brunswick's dividend compares to Polaris Industries -
+Brunswick,2017-10,"02:43:09  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $84.57) keeps rising, up 4.6% in 3 days; +$1.38 [1.7%] -"
+Brunswick,2017-10,"02:17:31  [GLOSTO] (BC.N) - Brunswick (BC: $84.54) lifts 1.6%, climbs 5.1% for week; +$1.35 [1.6%] Vol Index 1.4 [1 is avg] -"
+Brunswick,2017-10,"02:12:26  [GLOSTO] (BC.N) - Brunswick (BC: $84.54) keeps rising, up 4.6% in 3 days; +$1.35 [1.6%] Vol Index 1.4 [1 is avg] -"
+Brunswick,2017-10,"01:53:43  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $84.54) keeps rising, up 4.6% in 3 days; +$1.35 [1.6%] Vol Index 1.4 [1 is avg] -"
+Brunswick,2017-10,01:43:03  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $84.54) in 3rd consecutive rise; +$1.35 [1.6%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,"01:42:32  [GLOSTO] (BC.N) - Brunswick (BC: $84.54) lifts 1.6%, climbs 5.1% for week; +$1.35 [1.6%] Vol Index 1.4 [1 is avg] -"
+Brunswick,2017-10,"01:42:29  [GLOSTO] (BC.N) - Brunswick (BC: $84.54) keeps rising, up 4.6% in 3 days; +$1.35 [1.6%] Vol Index 1.4 [1 is avg] -"
+Brunswick,2017-10,"22:48:14  [GLOSNI] (.GDAXI BC.N) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $83.19) Tuesday October 15, 2024 07:10 EDT -"
+Brunswick,2017-10,"21:38:46  [WKRNEW] (BC.N) - Inspire Investing LLC Has $465,000 Position in Brunswick Co. (NYSE:BC) -- -"
+Brunswick,2017-10,21:02:21  [TICREP] (BC.N) - GAMMA Investing LLC Acquires 555 Shares of Brunswick Co. (NYSE:BC) -
+Brunswick,2017-10,"05:42:33  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.49) Monday October 14, 2024 07:10 EDT -"
+Brunswick,2017-10,"04:43:20  [GLOBUL] (BC.N) - Brunswick (BC: $82.49) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday October 14, 2024 07:10 EDT -"
+Brunswick,2017-10,03:53:02  [GLOSTO] (BC.N) - Brunswick continues to underperform LCI Industries by 2.6% in the past three months -
+Brunswick,2017-10,03:53:01  [GLOSTO] (BC.N) - Brunswick continues to underperform Cinemark Holdings by 28.6% in the past three months -
+Brunswick,2017-10,"03:42:39  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.49) Monday October 14, 2024 07:10 EDT -"
+Brunswick,2017-10,03:23:31  [STOCKP] (BC.N) - With a trading volume of USD 33.9 mn trades 2.02 percent higher today -
+Brunswick,2017-10,"02:54:12  [GLOBUL] (BC.N) - Brunswick (BC: $82.49) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday October 14, 2024 07:10 EDT -"
+Brunswick,2017-10,02:53:47  [GLOSTO] (BC.N FUN.N) - Brunswick continues to outperform Cedar Fair by 35.9% in the past three months -
+Brunswick,2017-10,00:52:15  [GLOSTO] (BC.N CCL.L) - Carnival continues to outperform Brunswick by 3.7% in the past three months -
+Brunswick,2017-10,00:52:14  [GLOSTO] (BC.N) - Brunswick continues to underperform Carnival by 3.7% in the past three months -
+Brunswick,2017-10,00:52:12  [GLOSTO] (BC.N LYV.N) - Live Nation Entertainment continues to outperform Brunswick by 10.7% in the past three months -
+Brunswick,2017-10,"00:42:27  [GLOBUL] (BC.N) - Brunswick (BC: $82.49) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday October 14, 2024 07:10 EDT -"
+Brunswick,2017-10,23:50:02  [GLOSTO] (BC.N) - Monday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,"22:48:01  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.49) Monday October 14, 2024 07:10 EDT -"
+Brunswick,2017-10,22:47:41  [GLOSTO] (BC.N) - ICYMI: Monday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,22:07:05  [ETFDAI] (BC.N) - Gateway Investment Advisers LLC Trims Holdings in Brunswick Co. (NYSE:BC) -- -
+Brunswick,2017-10,21:53:07  [GLOSTO] (BC.N) - ICYMI: Monday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,20:48:57  [GLOSTO] (BC.N) - Update: Monday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,03:17:10  [TRADAJ] (BC.N) - Birch Hill Investment Advisors LLC Acquires 610 Shares of Brunswick Co. (NYSE:BC) -
+Brunswick,2017-10,21:17:42  [TICREP] (BC.N) - Sanctuary Advisors LLC Takes Position in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-10,"18:27:09  [MARBEA] (BC.N) - AQR Capital Management LLC Sells 30,869 Shares of Brunswick Co. (NYSE:BC) -- -"
+Brunswick,2017-10,"18:44:40  [ETFDAI] (BC.N) - Brunswick Co. (NYSE:BC) Receives Consensus Rating of ""Moderate Buy"" from Analysts -- -"
+Brunswick,2017-10,08:57:33  [RTRS] (BC.N) - Brunswick Corp Entered Into Amended And Restated Credit Agreement With Certain Units (BRIEF) -
+Brunswick,2017-10,07:10:24  [RTRS] (BC.N) - BRUNSWICK CORP - REVOLVING CREDIT AGREEMENT INCREASES REVOLVING COMMITMENTS TO $1 BLN -
+Brunswick,2017-10,07:09:24  [RTRS] (BC.N) - BRUNSWICK CORP - ENTERED INTO AMENDED AND RESTATED CREDIT AGREEMENT WITH CERTAIN UNITS -
+Brunswick,2017-10,05:12:31  [GERCOM] (BC.N BWI.F) - German trading: Brunswick (BWI: EUR74.78) lifts 1.4%; +EUR1 [1.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,04:17:30  [GLOSTO] (BC.N) - Brunswick (BC: $82.66) gains 2.2% on firm volume; +$1.80 [2.2%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-10,03:57:45  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.66) gains 2.2% on firm volume; +$1.80 [2.2%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-10,03:12:18  [GLOSTO] (BC.N) - Brunswick (BC: $82.37) climbs 1.9% on firm volume; +$1.51 [1.9%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,02:58:22  [STOCKP] (BC.N) - On Friday 11th of October Brunswick -De trades 1.89 percent higher -
+Brunswick,2017-10,02:52:59  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.37) climbs 1.9% on firm volume; +$1.51 [1.9%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,02:37:12  [GLOSTO] (BC.N) - Brunswick (BC: $82.37) climbs 1.9% on firm volume; +$1.51 [1.9%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,02:22:30  [GLOSTO] (BC.N) - Brunswick (BC: $82.12) lifts 1.6% on high volume; +$1.26 [1.6%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-10,"02:08:44  [GLOSTP] (BC.N .SPX) - Brunswick loses $1.3 billion (19%) in MCap in 2024, steepest loss in Recreational Products sector -"
+Brunswick,2017-10,01:53:21  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $82.12) lifts 1.6% on high volume; +$1.26 [1.6%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-10,01:42:27  [GLOSTO] (BC.N) - Brunswick (BC: $82.12) lifts 1.6% on high volume; +$1.26 [1.6%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-10,"00:13:49  [GLOSTP] (BC.N .SPX) - Brunswick loses $1.3 billion (19%) in MCap in 2024, steepest loss in Recreational Products sector -"
+Brunswick,2017-10,23:49:30  [GLOSTO] (BC.N) - Investors concerned as Brunswick down in recent days -
+Brunswick,2017-10,"23:08:34  [GLOSTP] (BC.N .SPX) - Brunswick loses $1.3 billion (19%) in MCap in 2024, steepest loss in Recreational Products sector -"
+Brunswick,2017-10,22:47:35  [GLOSTO] (BC.N) - ICYMI: Investors concerned as Brunswick down in recent days -
+Brunswick,2017-10,"22:23:16  [GLOSTP] (BC.N .SPX) - Brunswick loses $1.3 billion (19%) in MCap in 2024, steepest loss in Recreational Products sector -"
+Brunswick,2017-10,20:48:50  [GLOSTO] (BC.N) - Update: Investors concerned as Brunswick down in recent days -
+Brunswick,2017-10,18:33:24  [NEWWIR] (BC.N) - Brunswick Corporation to announce 2024 Third Quarter Earnings on October 24 -
+Brunswick,2017-10,17:42:15  [TICREP] (BC.N) - Equities Analysts Offer Predictions for Brunswick Co.'s Q1 2026 Earnings (NYSE:BC) -
+Brunswick,2017-10,05:12:17  [GLOSTO] (BC.N) - Brunswick (BC: $81.13) decreases on robust volume; -79c [-1.0%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-10,04:57:29  [GLOSTO] (BC.N) - Brunswick (BC: $81.25) drops on robust volume; -67c [-0.8%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-10,"04:42:44  [GLOBUL] (BC.N) - Brunswick (BC: $81.92) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday October 10, 2024 07:10 EDT -"
+Brunswick,2017-10,04:37:45  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.25) drops on robust volume; -67c [-0.8%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-10,04:22:34  [GLOSTO] (BC.N) - Brunswick (BC: $81.25) drops on robust volume; -67c [-0.8%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-10,04:12:18  [GLOSTO] (BC.N) - Brunswick (BC: $81.11) decreases on robust volume; -81c [-1.0%] Vol Index 1.8 [1 is avg] -
+Brunswick,2017-10,"03:42:34  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $81.92) Thursday October 10, 2024 07:10 EDT -"
+Brunswick,2017-10,03:37:31  [GLOSTO] (BC.N) - Brunswick (BC: $81.11) decreases on robust volume; -81c [-1.0%] Vol Index 1.8 [1 is avg] -
+Brunswick,2017-10,03:12:20  [GLOSTO] (BC.N) - Brunswick (BC: $81.50) drops on high volume; -42c [-0.5%] Vol Index 2.2 [1 is avg] -
+Brunswick,2017-10,02:58:03  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.50) drops on high volume; -42c [-0.5%] Vol Index 2.2 [1 is avg] -
+Brunswick,2017-10,"02:58:01  [GLOBUL] (BC.N) - Brunswick (BC: $81.92) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday October 10, 2024 07:10 EDT -"
+Brunswick,2017-10,02:42:23  [GLOSTO] (BC.N) - Brunswick (BC: $81.50) drops on high volume; -42c [-0.5%] Vol Index 2.2 [1 is avg] -
+Brunswick,2017-10,02:33:14  [WNCOMA] (BC.N) - Mentor at Brunswick football: Preview capsule for Oct. 11 game -- -
+Brunswick,2017-10,02:17:25  [GLOSTO] (BC.N) - Brunswick (BC: $81.30) decreases on high volume; -62c [-0.8%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-10,01:58:15  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.30) decreases on high volume; -62c [-0.8%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-10,01:53:36  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-10,01:42:21  [GLOSTO] (BC.N) - Brunswick (BC: $81.30) decreases on high volume; -62c [-0.8%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-10,"00:42:11  [GLOBUL] (BC.N) - Brunswick (BC: $81.92) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday October 10, 2024 07:10 EDT -"
+Brunswick,2017-10,00:20:42  [MARBEA] (BC.N) - Brokers Set Expectations for Brunswick Co.'s Q1 2026 Earnings (NYSE:BC) -- -
+Brunswick,2017-10,23:48:43  [GLOSTO] (BC.N) - Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,"22:52:24  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $81.92) Thursday October 10, 2024 07:10 EDT -"
+Brunswick,2017-10,22:47:47  [GLOSTO] (BC.N) - ICYMI: Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,22:12:48  [STOCKP] (BC.N) - On Thursday 10th of October Brunswick -De trades -0.85 percent lower -
+Brunswick,2017-10,21:48:30  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-10,21:48:16  [GLOSTO] (BC.N) - ICYMI: Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,20:49:06  [GLOSTO] (BC.N) - Update: Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,16:52:05  [TICREP] (BC.N) - Analysts Set Brunswick Co. (NYSE:BC) Price Target at $89.23 -
+Brunswick,2017-10,06:47:13  [GLOSTO] (BC.N) - Brunswick (BC: $81.54) climbs 1.4% on firm volume; +$1.14 [1.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,04:22:43  [GLOSTO] (BC.N) - Brunswick (BC: $81.87) lifts 1.8% on robust volume; +$1.47 [1.8%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-10,"03:42:55  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $80.40) Wednesday October 09, 2024 07:10 EDT -"
+Brunswick,2017-10,02:52:41  [GLOSTO] (BC.N) - How Brunswick Has Fared Since Its Recent Analyst Ratings Changes -
+Brunswick,2017-10,01:53:06  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,"22:52:24  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $80.40) Wednesday October 09, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:52:22  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $80.40) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 09, 2024 07:10 EDT -"
+Brunswick,2017-10,22:02:00  [INDRET] (BC.N) - Brunswick Corporation Brands Win Four National Boating Safety Awards from the Sea Tow Foundation -
+Brunswick,2017-10,21:49:21  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,"11:00:00  [PLUPAT] (BC.N) - Head Line: Brunswick Corporation (Illinois) granted US Patent for ""Marine Propulsion System And Method With Rear And Lateral Marine Drives"" -"
+Brunswick,2017-10,06:47:14  [GLOSTO] (BC.N) - Brunswick (BC: $80.28) down 2.5% in 2 days; -81c [-1.0%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,04:38:37  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $80.41) drops on firm volume; -68c [-0.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,04:22:20  [GLOSTO] (BC.N) - Brunswick (BC: $80.41) drops on firm volume; -68c [-0.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-10,04:07:28  [GLOSTO] (BC.N) - Brunswick (BC: $80.51) down 2.3% in 2 days; -58c [-0.7%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-10,03:52:52  [GLOSTO] (BC.N FUN.N) - How Brunswick's dividend compares to Cedar Fair -
+Brunswick,2017-10,03:52:51  [GLOSTO] (BC.N LCII.N) - How Brunswick's dividend compares to LCI Industries -
+Brunswick,2017-10,03:47:38  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $80.51) down 2.3% in 2 days; -58c [-0.7%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-10,"03:42:51  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $80.36) down 2.5% in 2 days Tuesday October 08, 2024 10:31 EDT -"
+Brunswick,2017-10,"03:42:43  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $81.09) Tuesday October 08, 2024 07:10 EDT -"
+Brunswick,2017-10,"03:42:34  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $81.10) drops to 21-day low Tuesday October 08, 2024 07:10 EDT -"
+Brunswick,2017-10,03:32:15  [GLOSTO] (BC.N) - Brunswick (BC: $80.51) down 2.3% in 2 days; -58c [-0.7%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-10,03:12:07  [GLOSTO] (BC.N) - Brunswick (BC: $80.14) drops 1.2% on firm volume; -95c [-1.2%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,02:57:54  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $80.14) drops 1.2% on firm volume; -95c [-1.2%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,02:52:56  [GLOSTO] (BC.N PII.N) - How Brunswick's dividend compares to Polaris Industries -
+Brunswick,2017-10,02:43:06  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $80.14) down 2.7% in 2 days; -95c [-1.2%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,02:42:16  [GLOSTO] (BC.N) - Brunswick (BC: $80.14) drops 1.2% on firm volume; -95c [-1.2%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-10,"02:17:51  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $80.36) down 2.5% in 2 days Tuesday October 08, 2024 10:31 EDT -"
+Brunswick,2017-10,23:48:57  [GLOSTO] (BC.N) - Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,"22:52:44  [GLOBEA] (BC.N) - Brunswick (BC: $81.09) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Tuesday October 08, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:52:30  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $81.09) Tuesday October 08, 2024 07:10 EDT -"
+Brunswick,2017-10,"22:52:22  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $81.10) drops to 21-day low Tuesday October 08, 2024 07:10 EDT -"
+Brunswick,2017-10,22:47:44  [GLOSTO] (BC.N) - ICYMI: Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,22:44:32  [STOCKP] (BC.N) - Brunswick -De trades 0.38 percent higher on Tuesday 8th of October -
+Brunswick,2017-10,21:48:29  [GLOSTO] (BC.N) - ICYMI: Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,21:37:34  [TICREP] (BC.N) - The Manufacturers Life Insurance Company Has $4.19 Million Stake in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-10,20:49:00  [GLOSTO] (BC.N) - Update: Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,"18:36:54  [NEWPEO] (BC.N) - David M. Foulkes CEO of Brunswick in second quartile of price performers of NYSE stocks in the third quarter of 2024 Tuesday October 08, 2024 -"
+Brunswick,2017-10,15:10:14  [STOCKP] (BC.N) - On Tuesday 8th of October Brunswick -De trades 0.38 percent higher -
+Brunswick,2017-10,07:48:25  [GLOSTP] (BC.N .SPX) - Monthly: Brunswick (BC: $83.82) surges 6% on below average volume in September 2024 -
+Brunswick,2017-10,03:52:55  [GLOSTO] (BC.N) - Brunswick continues to outperform LCI Industries by 3.5% in the past month -
+Brunswick,2017-10,03:52:54  [GLOSTO] (BC.N) - Brunswick continues to outperform Cinemark Holdings by 6.5% in the past month -
+Brunswick,2017-10,"03:42:44  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.38) Monday October 07, 2024 07:10 EDT -"
+Brunswick,2017-10,02:52:51  [GLOSTO] (BC.N FUN.N) - Brunswick continues to outperform Cedar Fair by 18.4% in the past month -
+Brunswick,2017-10,"02:48:13  [GLOBUL] (BC.N) - Brunswick (BC: $82.38) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday October 07, 2024 07:10 EDT -"
+Brunswick,2017-10,00:52:12  [GLOSTO] (BC.N CCL.L) - Carnival continues to outperform Brunswick by 5.0% in the past month -
+Brunswick,2017-10,00:52:11  [GLOSTO] (BC.N) - Brunswick continues to underperform Carnival by 5.0% in the past month -
+Brunswick,2017-10,00:52:10  [GLOSTO] (BC.N LYV.N) - Live Nation Entertainment continues to outperform Brunswick by 9.3% in the past month -
+Brunswick,2017-10,"00:42:51  [GLOBUL] (BC.N) - Brunswick (BC: $82.38) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday October 07, 2024 07:10 EDT -"
+Brunswick,2017-10,00:19:33  [PLUCOM] (BC.N) - Brunswick Corporation to announce 2024 Third Quarter Earnings on October 24 -
+Brunswick,2017-10,"23:48:43  [NEWNYS] (BC.N) - Brunswick rises for a second consecutive day, a two-day rise of 1.0% Friday, October 04, 2024 11:00:00 -"
+Brunswick,2017-10,23:48:38  [GLOSTO] (BC.N) - Monday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,"23:08:09  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $82.38) Monday October 07, 2024 07:10 EDT -"
+Brunswick,2017-10,23:02:30  [GLOSTO] (BC.N) - ICYMI: Monday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,21:49:26  [GLOSTO] (BC.N) - ICYMI: Monday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,21:17:08  [TICREP] (BC.N) - Quent Capital LLC Sells 354 Shares of Brunswick Co. (NYSE:BC) -
+Brunswick,2017-10,20:48:33  [GLOSTO] (BC.N) - ICYMI: Monday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,20:07:20  [TICREP] (BC.N) - Marshall Wace LLP Invests $1.25 Million in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-10,19:53:28  [GLOSTO] (BC.N) - Update: Monday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-10,19:08:27  [NEWWIR] (BC.N) - Brunswick Corporation to announce 2024 Third Quarter Earnings on October 24 -
+Brunswick,2017-10,"18:48:00  [AMEBAN] (BC.N) - Brunswick Co. (NYSE:BC) Receives Consensus Recommendation of ""Moderate Buy"" from Analysts -"
+Brunswick,2017-10,09:07:22  [TICREP] (BC.N) - Brunswick Co. (NYSE:BC) Stake Reduced by ProShare Advisors LLC -
+Brunswick,2017-10,17:32:35  [NEWWIR] (BC.N) - Brunswick Corporation to announce 2024 Third Quarter Earnings on October 24 -
+Brunswick,2017-10,04:07:21  [GERCOM] (BC.N BWI.F) - German trading: Brunswick (BWI: EUR74.66) shares rise after 4 days of declines; +EUR2.06 [2.8%] -
+Brunswick,2017-10,"02:42:44  [GLOSNI] (BC.N .SPX) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $82.07) Friday October 04, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:12:33  [NEWNYS] (BC.N) - Brunswick rises for a second consecutive day, a two-day rise of 1.0% Friday, October 04, 2024 11:00:00 -"
+Brunswick,2017-10,22:49:14  [GLOSTO] (BC.N) - Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,"21:48:46  [GLOSNI] (BC.N .SPX) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $82.07) Friday October 04, 2024 07:10 EDT -"
+Brunswick,2017-10,21:47:58  [GLOSTO] (BC.N) - ICYMI: Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,20:48:22  [GLOSTO] (BC.N) - ICYMI: Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,19:47:45  [GLOSTO] (BC.N) - Update: Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-10,"02:42:42  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $81.72) Thursday October 03, 2024 07:10 EDT -"
+Brunswick,2017-10,02:02:43  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-10,01:52:24  [GLOSTO] (BC.N) - Brunswick continues to underperform Live Nation Entertainment by 34.7% year to date -
+Brunswick,2017-10,23:52:17  [GLOSTO] (BC.N) - Brunswick continues to underperform Polaris Industries by 1.8% year to date -
+Brunswick,2017-10,22:48:34  [GLOSTO] (BC.N) - Investors concerned as Brunswick down in recent days -
+Brunswick,2017-10,"21:52:40  [GLOBEA] (BC.N) - Brunswick (BC: $81.72) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Thursday October 03, 2024 07:10 EDT -"
+Brunswick,2017-10,"21:49:59  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $81.72) Thursday October 03, 2024 07:10 EDT -"
+Brunswick,2017-10,21:49:47  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-10,21:49:31  [GLOSTO] (BC.N) - ICYMI: Investors concerned as Brunswick down in recent days -
+Brunswick,2017-10,21:47:40  [WPRPRO] (BC.N) - Brunswick Corporation to announce 2024 Third Quarter Earnings on October 24 -- -
+Brunswick,2017-10,20:49:22  [GLOSTO] (BC.N) - ICYMI: Investors concerned as Brunswick down in recent days -
+Brunswick,2017-10,20:00:00  [GNW] (BC.N) - Brunswick Corporation to announce 2024 Third Quarter Earnings on October 24 -
+Brunswick,2017-10,20:00:00  [GNW] (BC.N) - Brunswick Corporation to announce 2024 Third Quarter Earnings on October 24 -
+Brunswick,2017-10,19:47:37  [GLOSTO] (BC.N) - Update: Investors concerned as Brunswick down in recent days -
+Brunswick,2017-10,17:00:20  [STOCKP] (BC.N) - Brunswick -De is trading -1.67 percent lower with a volume of USD 33.8 mn on Thursday 3rd of October -
+Brunswick,2017-10,04:10:11  [WESAUT] (BC.N) - One of Australia's top under-14 tennis players devastated to have home courts in disrepair -- -
+Brunswick,2017-10,03:52:24  [GLOSTO] (BC.N) - Brunswick continues to underperform LCI Industries by 11.3% year to date -
+Brunswick,2017-10,"03:37:09  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.61) keeps sliding, down 3.5% in 3 days; -81c [-1.0%] -"
+Brunswick,2017-10,02:53:20  [GLOSTO] (BC.N) - Brunswick continues to underperform Cedar Fair by 11.7% year to date -
+Brunswick,2017-10,02:53:19  [GLOSTO] (BC.N) - Brunswick continues to underperform Cinemark Holdings by 109.8% year to date -
+Brunswick,2017-10,"02:42:57  [GLOBUL] (BC.N .SPX) - Brunswick increases 6.1% in past year Tuesday October 01, 2024 08:28 EDT -"
+Brunswick,2017-10,"02:42:57  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $81.35) keeps sliding, down 3.8% in 3 days Wednesday October 02, 2024 12:28 EDT -"
+Brunswick,2017-10,"02:42:54  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $82.19) decreases Wednesday October 02, 2024 11:31 EDT -"
+Brunswick,2017-10,"02:42:49  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $82.42) Wednesday October 02, 2024 07:10 EDT -"
+Brunswick,2017-10,"02:02:21  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $81.35) keeps sliding, down 3.8% in 3 days Wednesday October 02, 2024 12:28 EDT -"
+Brunswick,2017-10,01:53:16  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,01:52:55  [GLOSTO] (BC.N) - How Brunswick Has Fared Since Its Recent Analyst Ratings Changes -
+Brunswick,2017-10,"01:52:46  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $81.35) keeps sliding, down 3.8% in 3 days; -$1.07 [-1.3%] -"
+Brunswick,2017-10,"01:07:43  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $82.19) decreases Wednesday October 02, 2024 11:31 EDT -"
+Brunswick,2017-10,23:52:30  [GLOSTO] (BC.N) - Brunswick continues to underperform Carnival by 12.0% year to date -
+Brunswick,2017-10,"22:32:05  [GLOBUL] (BC.N .SPX) - Brunswick increases 6.1% in past year Tuesday October 01, 2024 08:28 EDT -"
+Brunswick,2017-10,"21:59:17  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $82.42) Wednesday October 02, 2024 07:10 EDT -"
+Brunswick,2017-10,"21:52:30  [GLOBEA] (BC.N) - Brunswick (BC: $82.42) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 02, 2024 07:10 EDT -"
+Brunswick,2017-10,21:48:50  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-10,"15:25:30  [RTRS] (NOVAM.MI BC.N) - Novamarine, Brunswick Unit Sign Distribution Deal (BRIEF) -"
+Brunswick,2017-10,04:09:06  [GLOSTO] (BC.N FUN.N) - How Brunswick's dividend compares to Cedar Fair -
+Brunswick,2017-10,03:53:19  [GLOSTO] (BC.N) - How Brunswick's Tax Rate compares to Its Peers -
+Brunswick,2017-10,02:56:20  [GLOSTO] (BC.N LCII.N) - How Brunswick's dividend compares to LCI Industries -
+Brunswick,2017-10,"02:43:12  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $83.82) Tuesday October 01, 2024 07:10 EDT -"
+Brunswick,2017-10,01:57:56  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $83.82) climbs 6% on below average volume in September 2024 -
+Brunswick,2017-10,01:52:53  [GLOSTO] (BC.N LYV.N) - Live Nation Entertainment continues to outperform Brunswick by 30.3% year to date -
+Brunswick,2017-10,01:52:51  [GLOSTO] (BC.N PII.N) - How Brunswick's dividend compares to Polaris Industries -
+Brunswick,2017-10,23:52:23  [GLOSTO] (BC.N CCL.L) - Carnival continues to outperform Brunswick by 13.0% year to date -
+Brunswick,2017-10,"23:37:10  [ETFDAI] (BC.N) - Xponance Inc. Sells 1,445 Shares of Brunswick Co. (NYSE:BC) -- -"
+Brunswick,2017-10,"23:22:35  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $83.82) Tuesday October 01, 2024 07:10 EDT -"
+Brunswick,2017-10,22:54:06  [GLOSTO] (BC.N) - Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,22:47:49  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $83.82) climbs 6% on below average volume in September 2024 -
+Brunswick,2017-10,"21:59:52  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $83.82) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Tuesday October 01, 2024 07:10 EDT -"
+Brunswick,2017-10,21:53:50  [GLOSTO] (BC.N) - ICYMI: Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,21:49:58  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $83.82) climbs 6% on below average volume in September 2024 -
+Brunswick,2017-10,20:55:22  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $83.82) climbs 6% on below average volume in September 2024 -
+Brunswick,2017-10,20:09:34  [GLOSTO] (BC.N) - Update: Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-10,15:27:20  [GLOSTO] (BC.N) - End-of-Quarter Synopsis Monthly : Brunswick (BC: $83.82) climbs 6% on below average volume in September 2024 -
+Brunswick,2017-10,13:42:44  [GLOBEA] (BC.N) - Brunswick (NYSE:BC $83.82) in today's trading sell signal: Bearish Candlestick chart pattern -
+Brunswick,2017-10,11:34:54  [GLOSTP] (BC.N) - Monthly: Brunswick (BC: $83.82) surges 6% on below average volume in September 2024 -
+Brunswick,2017-10,"06:02:00  [WINSUO] (BC.N) - Water samples tested after Maine firefighting foam spill, below guidelines for dangerous chemicals -- -"
+Brunswick,2017-10,"05:58:14  [LOCNEW] (BC.N) - Water samples tested after Maine firefighting foam spill, below guidelines for dangerous chemicals -- -"
+Brunswick,2017-10,"05:50:13  [ASSOPR] (BC.N) - Water samples tested after Maine firefighting foam spill, below guidelines for dangerous chemicals -"
+Brunswick,2017-10,04:26:19  [WESAUT] (BC.N) - An hour long debate over the future of a South West tennis club sees members dreading more delays -- -
+Brunswick,2017-10,04:12:50  [STOCKP] (BC.N) - Brunswick -De () is trading 1.9 percent higher on Monday 30th of September and has a trading volume of USD 67.2 mn -
+Brunswick,2017-10,"03:42:32  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $84.48) in 2nd consecutive rise Monday September 30, 2024 07:09 EDT -"
+Brunswick,2017-10,03:17:10  [GLOSTO] (BC.N) - Brunswick continues to outperform Cinemark Holdings by 4.8% in the past month -
+Brunswick,2017-10,03:17:10  [GLOSTO] (BC.N) - Brunswick continues to outperform LCI Industries by 4.1% in the past month -
+Brunswick,2017-10,"02:42:38  [GLOBUL] (.GDAXI BC.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS BRUNSWICK (BC: $84.53) Monday September 30, 2024 07:09 EDT -"
+Brunswick,2017-10,01:54:09  [GLOSTO] (BC.N) - Brunswick continues to outperform Cedar Fair by 13.6% in the past month -
+Brunswick,2017-10,"01:47:20  [GLOBUL] (.GDAXI BC.N) - Brunswick (BC: $84.48) in 2nd consecutive rise Monday September 30, 2024 07:09 EDT -"

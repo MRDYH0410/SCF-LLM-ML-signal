@@ -1,0 +1,865 @@
+firm_id,date,text
+walmart,2017-12,{{20171227T222635.829+0000}}Transgender woman sues Wal-Mart over alleged bias in N. CarolinaDec 27 (Reuters)
+walmart,2017-12,Dec 27 (Reuters) - Wal-Mart Stores Inc was sued on Wednesday by a transgender woman who said she was wrongfully fired after complaining about harassment at the Sam's Club warehouse store in North Carolina where she had worked for 11 years.
+walmart,2017-12,"Charlene Bost, 46, said co-workers at the Kannapolis store where she had been a member service supervisor called her ""sir,"" ""that thing with an attitude"" and ""shim,"" a slur combining ""she"" and ""him."" She also said her male boss subjected her to unwanted physical advances and referred to her as ""it."""
+walmart,2017-12,"The lawsuit seeks unspecified damages and improved training to stop harassment of transgender workers at Bentonville, Arkansas-based Wal-Mart, the world's largest retailer. Kannapolis is a suburb of Charlotte."
+walmart,2017-12,"""Wal-Mart maintains a strong anti-discrimination policy. We support diversity and inclusion in our workforce and do not tolerate discrimination or retaliation of any kind,"" company spokesman Randy Hargrove said. ""We disagree with the claims raised by Ms. Bost. Her termination was for performance reasons. We will respond as appropriate with the court."""
+walmart,2017-12,North Carolina has also been home to a long-running debate over when transgender people may use public bathrooms.
+walmart,2017-12,Bost sued in the same court weighing the legality of a North Carolina bathroom access law passed in March that critics consider too vague. [nL1N1KC0FA]
+walmart,2017-12,"That law replaced a more controversial ""bathroom bill"" that caused some businesses to pull events from the state."
+walmart,2017-12,"According to her complaint, Bost began working in the Kannapolis store in March 2004, and began expressing her female identity there in 2008."
+walmart,2017-12,"She said she was fired in March 2015 in retaliation for her complaints, or else the perception that she suffered from ""gender dysphoria,"" or distress with the sex she was assigned at birth. Bost had also filed charges with the U.S. Equal Employment Opportunity Commission."
+walmart,2017-12,"Jillian Weiss, executive director of the Transgender Legal Defense and Education Fund Inc in New York, which filed Bost's lawsuit, said employers such as Wal-Mart need to understand that simply having tough anti-discrimination policies is not enough."
+walmart,2017-12,"""The difficulty here is that Wal-Mart has a good policy, but when a person like Ms. Bost came forward to say she was having trouble because of the discrimination she faced, its enforcement mechanisms were insufficient,"" Weiss said in an interview. ""Corporations have to enforce compliance with anti-discrimination policies, not merely cite their existence."""
+walmart,2017-12,"The case is Bost v. Sam's East Inc et al, U.S. District Court, Middle District of North Carolina, No. 17-01148."
+walmart,2017-12,"{{20171227T214412.000+0000}}RPT-UPDATE 2-As online shopping grows, UPS sees record holiday package returnsSEATTLE, Dec 27 (Reuters)"
+walmart,2017-12,"SEATTLE, Dec 27 (Reuters) - United Parcel Service Inc is on track to return a record number of packages this holiday shipping season, a sign that e-commerce purchases surged to new heights over the past month."
+walmart,2017-12,The world's largest package delivery company and rival FedEx Corp get paid by retailers like Amazon.com Inc and Wal-Mart Stores Inc for handling e-commerce deliveries.
+walmart,2017-12,"Both have benefited from booming delivery volumes over the past few years, but also have had to invest billions of dollars to upgrade and expand their networks to cope."
+walmart,2017-12,"UPS said on Wednesday it handled more than 1 million returns to retailers daily in December, a pace expected to last into early January. It said returns would likely peak at 1.4 million on Jan. 3, which would be a fifth consecutive annual record, up 8 percent from this year."
+walmart,2017-12,"The returns follow what could be the strongest holiday shopping season on record for both brick-and-mortar and online retailers, once stores publish sales data. Mastercard Inc said on Tuesday U.S. shoppers spent over $800 billion during the season, more than ever before. [nL1N1OQ0QC]"
+walmart,2017-12,"FedEx said on Wednesday it experienced another record-breaking peak shipping season, but declined to provide specifics. The company's Chief Marketing Officer Rajesh Subramaniam told analysts last week about 15 percent of all goods purchased online are returned, with apparel running at about 30 percent. [nL1N1OJ1XF]"
+walmart,2017-12,"UPS said record-breaking e-commerce sales during Black Friday and Cyber Monday in late November jolted the returns season, with a larger flood of packages going back to retailers even as many gifts sat under Christmas trees."
+walmart,2017-12,UPS has worked for years to increase its ability to forecast customer shipping demands to handle major package volume spikes ahead of the holidays. It has also raised shipping rates and added 2018 peak-season surcharges. [nL2N1N026T]
+walmart,2017-12,The returns delivered in 2017 are part of the 750 million packages UPS said it expects to deliver globally during the peak shipping season from the U.S. Thanksgiving holiday through New Year's Eve. That is an increase of nearly 40 million over the previous year.
+walmart,2017-12,UPS and FedEx shares were both up slightly on Wednesday.
+walmart,2017-12,"{{20171227T175619.000+0000}}WRAPUP 1-U.S. holiday sales set to break records in surprise boon to retailSEATTLE/CHICAGO, Dec 27 (Reuters)"
+walmart,2017-12,"SEATTLE/CHICAGO, Dec 27 (Reuters) - The U.S. holiday shopping season is on track to break sales records on the back of surging consumer confidence and increased use of mobile devices, presenting an unexpected boon for retailers and the delivery companies they rely on."
+walmart,2017-12,"The holiday shopping season, a crucial period for retailers that can account for up to 40 percent of annual sales, brought record-breaking online and in-store spending this year of more than $800 billion, according to Mastercard Inc's analytics arm. [nL1N1OQ0QC]"
+walmart,2017-12,"Stakes are particularly high this year for traditional retailers that have invested heavily in technology and free delivery and returns, determined to stay relevant in a market increasingly dominated by Amazon.com Inc ."
+walmart,2017-12,"""It has been an extremely positive holiday season in terms of sales both for brick-and-mortar and for online businesses,"" said Shelley Kohan, a Retail Fellow at analytics firm RetailNext."
+walmart,2017-12,"Preliminary numbers show total holiday sales will exceed RetailNext's initial forecast of a 3.8 percent increase from last year. ""All the economic indicators were very strong, and so I think consumers were more willing to open up their wallets and purses and spend more,"" Kohan added."
+walmart,2017-12,RetailNext and most other analytics firms and industry groups - including Adobe Analytics and the National Retail Federation - are due to publish holiday sales data in January.
+walmart,2017-12,Mastercard Inc said on Tuesday that a late-season rally had driven an 18.1 percent rise in online sales. Department store chain Macy's Inc and Target Corp both noted increased activity during that time.
+walmart,2017-12,"Target spokesman Joshua Thomas told Reuters that during the week before Christmas the company had seen a marked increase in shoppers picking up online orders in stores, while Macy's spokeswoman Blair Rosenberg said last-minute shoppers boosted fragrance sales during that period."
+walmart,2017-12,"Package delivery companies that handle returns for retailers have benefited from booming delivery volumes in recent years, but also have had to invest billions of dollars to upgrade and expand their networks to cope as e-commerce purchases surge to new heights."
+walmart,2017-12,"Delivering individual packages to shoppers - and picking up returns - is a lower margin business for delivery companies, which make more when they deliver in bulk to businesses."
+walmart,2017-12,"United Parcel Service Inc , the world's largest package delivery company, said on Wednesday it was on track to return a record number of packages this holiday, having handled more than 1 million returns to retailers daily in December. [nL1N1OR0PN]"
+walmart,2017-12,"That pace is expected to continue into early January, UPS said, and would likely peak at 1.4 million on Jan. 3, which would be a fifth consecutive annual record, up 8 percent from this year."
+walmart,2017-12,"Rival FedEx Corp said it experienced another record-breaking peak shipping season, but declined to provide specifics. The company's Chief Marketing Officer Rajesh Subramaniam told analysts last week about 15 percent of all goods purchased online are returned, with apparel running at about 30 percent. [nL1N1OJ1XF]"
+walmart,2017-12,UPS has worked for years to increase its ability to forecast customer shipping demands to handle major package volume spikes ahead of the holidays. It has also raised shipping rates and added 2018 peak-season surcharges. [nL2N1N026T]
+walmart,2017-12,The returns delivered in 2017 are part of the 750 million packages UPS said it expects to deliver globally during the peak shipping season from the U.S. Thanksgiving holiday through New Year's Eve. That is an increase of nearly 40 million over the previous year.
+walmart,2017-12,UPS and FedEx shares both ended up slightly on Wednesday.
+walmart,2017-12,"Consumer giants can no longer mass-produce products and sell them at a huge markup to retailers. Supermarkets are forcing down prices to maintain their own profits and growing less reliant on branded goods. Grocers' own-label products now account for more than a third of all packaged food sales in the UK, Euromonitor data shows."
+walmart,2017-12,"Startups, meanwhile, have become formidable rivals. Viral marketing helped dairy minnow Chobani corner a fifth of the U.S. yogurt market in a decade. The smallest companies captured 64 percent of growth in the U.S. market for branded goods in the five years to 2015, while the biggest took 4 percent, according to Bain analysts."
+walmart,2017-12,"In a worst-case scenario, consumer companies could see their operating margin decline by 45 percent in the European market over the next five years unless they address this array of challenges, Bain reckons."
+walmart,2017-12,- The two consumer companies' operating margins rose to decade-highs of 15.3 percent and 16.4 percent respectively in 2016.
+walmart,2017-12,"- For previous columns by the author, Reuters customers can click on [RYAN/]"
+walmart,2017-12,"{{20171226T170535.236+0000}}BUZZ-Macy's, Kohl's rise on report of robust holiday sales** Shares of department stores rise after a Mastercard report showed U.S. holiday sales from November through Christmas eve rose 4.9 pct this year, the largest YoY increase since 2011"
+walmart,2017-12,"** ""Overall, this year was a big win for retail. The strong U.S. economy was a contributing factor, but we also have to recognize that retailers who tried new strategies to engage holiday shoppers were the beneficiaries of this sales increase"" - Sarah Quinlan, SVP of market insights, Mastercard"
+walmart,2017-12,** Shares of department stores up: Macy's 4.7 pct; J.C.Penney 8.7 pct; Kohl's 5.4 pct
+walmart,2017-12,"** Macy's now up ~30 pct, while Kohl's up ~27 pct since Thanksgiving Day on Nov. 23, outperforming broader market <.SPX>"
+walmart,2017-12,"{{20171222T082430.985+0000}}CORRECTED-UPDATE 1-South African discount tycoon says Steinhoff, Shoprite tie-up ""natural""CAPE TOWN, Sept 28 (Reuters)"
+walmart,2017-12,"(Corrects Sept 28, 2016 story to clarify Christo Wiese did not start Pepkor in paragraph 11)"
+walmart,2017-12,"CAPE TOWN, Sept 28 (Reuters) - It would be a ""natural development"" for international retail group Steinhoff to take over Shoprite , Africa's biggest supermarket chain, South African tycoon Christo Wiese told Reuters, sending shares in the grocery group surging 4 percent."
+walmart,2017-12,"Wiese is the largest shareholder in both Shoprite and Steinhoff, a lower-end furniture, apparel and household goods retailer. Bringing the two together would allow him to add groceries to his sprawling discount empire."
+walmart,2017-12,"The merger, if it happens, would also pull together Wiese's retail assets under one roof following Steinhoff's nearly $6 billion acquisition in 2014 of Wiese's budget clothing retailer Pepkor and create a global giant worth at least 400 billion rand ($30 billion)."
+walmart,2017-12,"""People will speculate about that,"" he said in a rare interview on Tuesday at his modest offices overlooking factories in the dusty northern Cape Town industrial suburb of Parow."
+walmart,2017-12,"""People know that I am 75 years old, and I fortunately have a son who is in business with me, but as a family we are continually looking at consolidating our business interests. So, it would be, in a way, a natural development."""
+walmart,2017-12,"Since Steinhoff's Pepkor acquisition, some analysts have wondered if Wiese, along with Shoprite's chief executive Whitey Basson and Steinhoff's Markus Jooste were working on a tie-up."
+walmart,2017-12,"Although grocery retailing would be uncharted territory for Steinhoff, one fund manager said the company's propensity to run a decentralised business model would help it pull off any such deal."
+walmart,2017-12,"""It will be quite a big step given that the grocery sector is somewhat different to the rest of Steinhoff. However Wiese, Markus Jooste and Whitey Basson have great experience in their respective areas,"" Lentus Asset Management's Nic Norman Smith said. ""If anyone is going make it work, it's these three."""
+walmart,2017-12,"Shares in Shoprite, which have been little changed so far this year, jumped 4.3 percent shortly after Reuters reported Wiese's comments before extending gains to trade 4.6 percent higher at 196.69 rand as of 1453 GMT."
+walmart,2017-12,"Johannesburg-listed shares in Steinhoff, which is also listed in Frankfurt, added at least 2 percent to gains notched up earlier on news that it would issue shares to fund deals. The stock was up 6.2 percent at 80.70 rand."
+walmart,2017-12,"Wiese, who describes himself as a ""realist, pragmatist"", was one of the early executives of budget clothing retailer Pepkor, which was co-founded by his parents in the 1960s in Upington on the southern edges of the Kalahari desert, after spotting an opportunity to bring cheaper clothes to the poor."
+walmart,2017-12,"He then transformed Shoprite from a six-store company in the 1970s to one with hundreds of stores across Africa, from South Africa to the Democratic Republic of Congo, dwarfing rivals including Wal-Mart's South African unit Massmart ."
+walmart,2017-12,"His discount strategy, which also now includes investments in clothes retailer New Look, has catapulted him to the cover of Forbes magazine as one of Africa's richest businessmen."
+walmart,2017-12,"""Why is it so successful? ... The people who earn a lot of money are a small portion and then at the base is where your mass market is, where people have limited disposable income and we're aiming at that market,"" he said."
+walmart,2017-12,"Wiese studied law in Stellenbosch, a close-knit town dominated by Afrikaans-speaking whites, but lives in Clifton, an area of Cape Town overlooking the Atlantic Ocean with some of South Africa's most expensive properties."
+walmart,2017-12,"He owns a high-end vineyard near Stellenbosch, an area dotted with executive golf clubs, but said he ""finds playing golf boring."""
+walmart,2017-12,"Wiese is also a top shareholder and board member in South African investment heavyweight Brait SE , which last year bought gym chain Virgin Active, a relative outlier in his business model as it targets middle-class consumers."
+walmart,2017-12,"More in line with the low-cost theme, was Brait's purchase of no-frills retailer New Look."
+walmart,2017-12,"Wiese said Brait's ""most obvious"" growth trajectory was through its existing businesses that also include U.K. supermarket chain Iceland Foods and South African staples foods maker Premier."
+walmart,2017-12,"""There is plenty of scope (to grow). It's got a strong management team and the biggest scope lies within the existing businesses. New Look for instance, our clothing retail operation in the UK, has identified China as a major growth area,"" he said."
+walmart,2017-12,"Wiese said New Look was looking to open 500 stores within three years in China, where it already runs 90 outlets."
+walmart,2017-12,"""China is an enormous market,"" Wiese said, describing the New Look's store expansion plan as a ""drop in the ocean"" given the size of the Chinese population."
+walmart,2017-12,"Virgin Active, which has taken top spot market in Italy and its biggest chain is located in South Africa, has identified Asia-Pacific as the next growth market thanks to a growing population of health-conscious consumers, he said."
+walmart,2017-12,Wiese was optimistic for the outlook for Europe despite gloomy economic forecasts but was cautious about the idea of snapping up cheaper assets in Britain following its June vote to leave the European Union.
+walmart,2017-12,"""Undoubtedly it does offer opportunities but there are greater risks because none of us know how it (Brexit) is going to play out,"" he said. ""There are studies that show that by 2040, Britain will have a bigger economy than Germany and a population of over 80 million people, that's a market you can't ignore."""
+walmart,2017-12,"In South Africa, several businessmen, including the outspoken chief executive of gold miner Sibanye has called for President Jacob Zuma to resign after a series of scandals."
+walmart,2017-12,"Wiese said as a businessmen rather than a politician, he would like to stay out of politics."
+walmart,2017-12,"However, he said that the country's leadership was hurting Africa's most industrialised economy, which is expected to grow below 1 percent this year. ""The top leadership in the government is seen as a problem. It is not helping our economy. That is a fact of life,"" he said."
+walmart,2017-12,But Wiese also dismissed suggestions by some analysts that he was looking to preserve his wealth by moving assets abroad during the political turbulence that has also drawn in Finance Minister Pravin Gordhan.
+walmart,2017-12,"On the contrary, he said he expected business to continue to expand, including its interests in South Africa, with Virgin Active for example having its head office in London but earning more than 60 percent of its EBITDA, or core profit, in South Africa."
+walmart,2017-12,"""There is no bias to disinvest - in fact the very opposite,"" he said."
+walmart,2017-12,{{20171221T153757.865+0000}}BUZZ-GNC: Plunges to new low on note for equity exchange** GNC Holdings plunges>25 pct early Thurs after co issues more shares in exchange for senior notes
+walmart,2017-12,** Stock hits new all-time low $3.61 and is biggest NYSE loser
+walmart,2017-12,"** GNC says executed agreements with certain holders of its 1.50% Convertible Senior Notes due 2020, to exchange, in privately negotiated transactions, approx $98.9 mln aggregate principal amount of notes for ~14.6 mln shares of its Class A common [nPn6RKjvra]"
+walmart,2017-12,** Says transactions part of co's strategy to optimize its capital structure and enhance shareholder value; adds may engage in additional exchange transactions with 2020 note holders
+walmart,2017-12,** GNC issued the 2020 convertible notes ($250 mln principal amount) in Aug 2015 when its stock was trading around $51/sh; the conversion price for the notes was set at $66.16 at that time
+walmart,2017-12,"** Struggling vitamin and supplement maker has been accessing options after most recent failed loan refinancing left it with months to avoid a potential technical default, IFR reported [nL8N1O90DQ]"
+walmart,2017-12,"** In early Dec, GNC hired Goldman Sachs as a strategic advisor to evaluate alternatives [nL1N1O40LD]"
+walmart,2017-12,"** GNC has been slammed by increasing competition from online supplement sellers, including Wal-Mart Stores"
+walmart,2017-12,"{{20171221T060000.000+0000}}Toys ""R"" Us plans new playdate with U.S. shoppersWALLKILL, NEW YORK, Dec 21 (Reuters)"
+walmart,2017-12,"WALLKILL, NEW YORK, Dec 21 (Reuters) - Joshua and Amy Hightower drive 40 minutes to a Toys ""R"" Us Inc store in a blue collar neighborhood in Wallkill, one of the farthest reaches of the New York City suburbs, so their children can try toys at an amusement area dubbed the ""play lab."""
+walmart,2017-12,"""We were actually here last night and last week,"" said Amy Hightower, a 30-year-old stay-at-home mom as her daughter played house and her two sons raced cars in the play lab, which Toys ""R"" Us launched in 42 of its stores this year."
+walmart,2017-12,"""It is hard to get them away from this area,"" she said."
+walmart,2017-12,"The Hightowers may be ideal Toys ""R"" Us customers, but so far there has not been enough of them. Many shoppers now make their toy purchases online. Foot traffic at Toys ""R"" Us, the largest U.S. toy retailer, has declined, as consumers turn to e-commerce sites such as Amazon.com Inc , mass discount chains, like Wal-Mart Stores Inc , and some small independent toy stores."
+walmart,2017-12,"As Toys ""R"" Us aims to exit bankruptcy in 2018 after defaulting on its debt last September, its efforts to reinvent its stores with play labs will shape how other retailers look to experiential shopping to tackle e-commerce."
+walmart,2017-12,"The holiday shopping season, when 75 percent of all toy sales are made, is a key test of this strategy."
+walmart,2017-12,"Toys ""R"" Us has set aside more than $400 million out of its $3.1 billion in bankruptcy loans for sprucing up its approximately 900 stores over the next three years with more experiences and better-paid staff."
+walmart,2017-12,"The company's creditors are wary of these plans, according to sources close to the situation who requested anonymity to discuss confidential deliberations. Creditors can ask the bankruptcy judge to stop Toys ""R"" Us from spending on play labs or other experiential aspects, if they view the costs as excessive."
+walmart,2017-12,"In bankruptcy court papers, Toys ""R"" Us has argued it cannot wait until it emerges from bankruptcy to invest in its stores. The retailer also plans to close unprofitable locations and improve its website and loyalty programs."
+walmart,2017-12,"Dave Brandon, who became Toys ""R"" Us chief executive in 2015 after spearheading a turnaround at Domino's Pizza Inc , defended the strategy in an interview, saying that bricks-and-mortar stores and experiential shopping were important to the retailer's brand."
+walmart,2017-12,"""We think our scale is a huge advantage, because we have a brand that's nationally and globally known,"" Brandon said."
+walmart,2017-12,"Toys ""R"" Us aims to offer shopping experiences like those found at Dick's Sporting Goods Inc , Best Buy Co Inc and Ulta Beauty Inc , Brandon added."
+walmart,2017-12,"To be sure, Toys ""R"" Us may end up with little to show for its investment, industry experts said. Experiential shopping is expensive to scale up for big box retailers that rely heavily on seasonal hiring, they said."
+walmart,2017-12,"""There is a chance that Toys ""R"" Us could be out of business in the next two years entirely in the United States,"" said Stephanie Wissink, a consumer products analyst at investment bank Jefferies LLC. ""My fear is that they are not selling goods to a consumer that values that experience."""
+walmart,2017-12,"Other toy retailers offering shopping experiences, such as stuffed animal shop Build-A-Bear Workshop Inc and The Lego Group have also posted sales declines. Sales at Build-A-Bear declined 7 percent to $364 million last year from $392 million two years prior."
+walmart,2017-12,"Regional independent toy retailers have also been taking market share away from Toys ""R"" Us, thanks to merchandise that extends beyond mass-market toys, strong customer service and products that accompany school lessons."
+walmart,2017-12,"Those chains also seek to cater to local tastes in a way Toys ""R"" Us has not. ""Stores in Texas buy cheerleading stuff a lot, there's a big football community,"" said Sharon DiMinico, chief executive of Learning Express Inc, a U.S. toy store franchiser with about 120 independently-owned stores."
+walmart,2017-12,"Steven Aarons, the owner of four-store chain Barstons Child's Play in the Washington, D.C. area, said he is able to offer entry-level wages of $15 per hour and health insurance to full-time workers because he has cheaper rent and does not have to answer to investors."
+walmart,2017-12,"In Wallkill, Toys ""R"" Us hired new employees like Nora Hanlon to oversee the store's Play Lab, which is a cordoned off foam mat, scattered with toys and a picnic table nearby where parents can sit. Boxes marked for layaway surround it."
+walmart,2017-12,"""I get minimum wage, but it's a really fun job,"" said Hanlon, a high school student and part-time Play Lab Coach, sporting a reindeer headpiece."
+walmart,2017-12,"Toys ""R"" Us also plans to hire more skilled workers. About $72 million of the $400 million the retailer will use for its redevelopment will go toward wage increases."
+walmart,2017-12,"The chain's efforts to emulate features of independent stores underscores the dramatic reversal of its fortunes. As the chain grew its national footprint, it wiped out mom-and-pop shops decades ago. But its glitzy Fao Schwarz store and flagship Times Square location featuring a Ferris Wheel were too pricey."
+walmart,2017-12,"Earlier efforts with experiential stores called ""Geoffrey,"" named after its giraffe mascot, failed. Its $6.6 billion leveraged buyout in 2005 led to expensive interest payments that ate up cash Toys ""R"" Us could have used to improve stores."
+walmart,2017-12,"""Can they somehow turn their stores from a warehouse into a play area?"" said retail consultant Howard Davidowitz. ""That is a big jump."""
+walmart,2017-12,"{{20171221T000000.000+0000}}RPT-Toys ""R"" Us plans new playdate with U.S. shoppersWALLKILL, NEW YORK, Dec 21 (Reuters)"
+walmart,2017-12,"WALLKILL, NEW YORK, Dec 21 (Reuters) - Joshua and Amy Hightower drive 40 minutes to a Toys ""R"" Us Inc store in a blue collar neighborhood in Wallkill, one of the farthest reaches of the New York City suburbs, so their children can try toys at an amusement area dubbed the ""play lab."""
+walmart,2017-12,"""We were actually here last night and last week,"" said Amy Hightower, a 30-year-old stay-at-home mom as her daughter played house and her two sons raced cars in the play lab, which Toys ""R"" Us launched in 42 of its stores this year."
+walmart,2017-12,"""It is hard to get them away from this area,"" she said."
+walmart,2017-12,"The Hightowers may be ideal Toys ""R"" Us customers, but so far there has not been enough of them. Many shoppers now make their toy purchases online. Foot traffic at Toys ""R"" Us, the largest U.S. toy retailer, has declined, as consumers turn to e-commerce sites such as Amazon.com Inc , mass discount chains, like Wal-Mart Stores Inc , and some small independent toy stores."
+walmart,2017-12,"As Toys ""R"" Us aims to exit bankruptcy in 2018 after defaulting on its debt last September, its efforts to reinvent its stores with play labs will shape how other retailers look to experiential shopping to tackle e-commerce."
+walmart,2017-12,"The holiday shopping season, when 75 percent of all toy sales are made, is a key test of this strategy."
+walmart,2017-12,"Toys ""R"" Us has set aside more than $400 million out of its $3.1 billion in bankruptcy loans for sprucing up its approximately 900 stores over the next three years with more experiences and better-paid staff."
+walmart,2017-12,"The company's creditors are wary of these plans, according to sources close to the situation who requested anonymity to discuss confidential deliberations. Creditors can ask the bankruptcy judge to stop Toys ""R"" Us from spending on play labs or other experiential aspects, if they view the costs as excessive."
+walmart,2017-12,"In bankruptcy court papers, Toys ""R"" Us has argued it cannot wait until it emerges from bankruptcy to invest in its stores. The retailer also plans to close unprofitable locations and improve its website and loyalty programs."
+walmart,2017-12,"Dave Brandon, who became Toys ""R"" Us chief executive in 2015 after spearheading a turnaround at Domino's Pizza Inc , defended the strategy in an interview, saying that bricks-and-mortar stores and experiential shopping were important to the retailer's brand."
+walmart,2017-12,"""We think our scale is a huge advantage, because we have a brand that's nationally and globally known,"" Brandon said."
+walmart,2017-12,"Toys ""R"" Us aims to offer shopping experiences like those found at Dick's Sporting Goods Inc , Best Buy Co Inc and Ulta Beauty Inc , Brandon added."
+walmart,2017-12,"To be sure, Toys ""R"" Us may end up with little to show for its investment, industry experts said. Experiential shopping is expensive to scale up for big box retailers that rely heavily on seasonal hiring, they said."
+walmart,2017-12,"""There is a chance that Toys ""R"" Us could be out of business in the next two years entirely in the United States,"" said Stephanie Wissink, a consumer products analyst at investment bank Jefferies LLC. ""My fear is that they are not selling goods to a consumer that values that experience."""
+walmart,2017-12,"Other toy retailers offering shopping experiences, such as stuffed animal shop Build-A-Bear Workshop Inc and The Lego Group have also posted sales declines. Sales at Build-A-Bear declined 7 percent to $364 million last year from $392 million two years prior."
+walmart,2017-12,"Regional independent toy retailers have also been taking market share away from Toys ""R"" Us, thanks to merchandise that extends beyond mass-market toys, strong customer service and products that accompany school lessons."
+walmart,2017-12,"Those chains also seek to cater to local tastes in a way Toys ""R"" Us has not. ""Stores in Texas buy cheerleading stuff a lot, there's a big football community,"" said Sharon DiMinico, chief executive of Learning Express Inc, a U.S. toy store franchiser with about 120 independently-owned stores."
+walmart,2017-12,"Steven Aarons, the owner of four-store chain Barstons Child's Play in the Washington, D.C. area, said he is able to offer entry-level wages of $15 per hour and health insurance to full-time workers because he has cheaper rent and does not have to answer to investors."
+walmart,2017-12,"In Wallkill, Toys ""R"" Us hired new employees like Nora Hanlon to oversee the store's Play Lab, which is a cordoned off foam mat, scattered with toys and a picnic table nearby where parents can sit. Boxes marked for layaway surround it."
+walmart,2017-12,"""I get minimum wage, but it's a really fun job,"" said Hanlon, a high school student and part-time Play Lab Coach, sporting a reindeer headpiece."
+walmart,2017-12,"Toys ""R"" Us also plans to hire more skilled workers. About $72 million of the $400 million the retailer will use for its redevelopment will go toward wage increases."
+walmart,2017-12,"The chain's efforts to emulate features of independent stores underscores the dramatic reversal of its fortunes. As the chain grew its national footprint, it wiped out mom-and-pop shops decades ago. But its glitzy Fao Schwarz store and flagship Times Square location featuring a Ferris Wheel were too pricey."
+walmart,2017-12,"Earlier efforts with experiential stores called ""Geoffrey,"" named after its giraffe mascot, failed. Its $6.6 billion leveraged buyout in 2005 led to expensive interest payments that ate up cash Toys ""R"" Us could have used to improve stores."
+walmart,2017-12,"""Can they somehow turn their stores from a warehouse into a play area?"" said retail consultant Howard Davidowitz. ""That is a big jump."""
+walmart,2017-12,{{20171220T000000.000+0000}}Amazon's allure may be tough to top this holiday -pollCHICAGO/NEW YORK Dec 20 (Reuters)
+walmart,2017-12,"CHICAGO/NEW YORK Dec 20 (Reuters) - More U.S. online shoppers plan to give Amazon.com Inc the bulk of their holiday business this year than in previous years, according to a Reuters/Ipsos opinion poll, despite costly efforts by traditional retailers to attract customers to their websites."
+walmart,2017-12,"The online poll of 2,644 adults, released on Wednesday, found that 60 percent of online shoppers planned to do most of their holiday buying on Amazon.com, up from 50 percent during the same period in 2015. Meanwhile, the proportion of shoppers who said they expected to do most of their shopping at Walmart.com, Target.com and Macys.com declined by about 1 percentage point each in that period."
+walmart,2017-12,"Consumers opting increasingly for convenience and speedy delivery have already pushed online sales this holiday season to record highs, making it all the more crucial that retailers get their digital businesses into gear."
+walmart,2017-12,"Wal-Mart Stores Inc , Target Corp and Macy's Inc , like many of their peers, have invested in deeper online discounts and free shipping this holiday season, potentially hurting fourth-quarter profit margins to win back customers who have turned increasingly to Amazon.com."
+walmart,2017-12,"Retailers have also invested heavily in sprucing up their websites and mobile device apps. They are rolling out more fulfillment options such as curbside pickup, click-and-collect and same-day delivery. The holiday shopping season can account for 20 to 40 percent of annual sales for many retailers."
+walmart,2017-12,"Anand Raghuraman, EY's Americas leader for consumer products and retail strategy, said traditional retailers' online sales were growing, but not fast enough to win market share."
+walmart,2017-12,"""They're dealing with an 800-pound gorilla that has different metrics around profitability than they do, which is tough to compete with,"" said Raghuraman."
+walmart,2017-12,"Earnest Research, which looks at anonymous card transactions made by millions of U.S. shoppers, said data from the two weeks after Thanksgiving showed Amazon's market share of U.S. sales had risen 2.6 percent from the same period last year."
+walmart,2017-12,"Meanwhile Walmart's in-store and online market share for the period was down 1.7 percent, while Target had lost 0.6 percent and Macy's was down 0.5 percent, according to Earnest."
+walmart,2017-12,"Target expects fourth-quarter digital growth to once again be among the best in the industry, spokesman Joshua Thomas said. Macy's spokeswoman Radina Russell said the department store chain had begun the holiday season well and would continue to offer value online and in stores."
+walmart,2017-12,"To be sure, analytics firms and industry groups expect most traditional retailers to report higher holiday sales this year, both online and in stores, driven by discounting, low unemployment, rising consumer confidence and good weather across the country."
+walmart,2017-12,Sales on Thanksgiving and Black Friday also topped prior years and Amazon.com said it broke sales records during that holiday weekend.
+walmart,2017-12,"According to the Reuters/Ipsos poll, about one in every four adults plan to shop primarily or entirely online this holiday season, up from one in five in 2012. Convenience, delivery and the ability to compare prices easily were the most common reasons people choose to shop online, the poll showed."
+walmart,2017-12,"The Reuters/Ipsos poll was conducted in English throughout the United States from Nov. 27 to Dec. 7. Because it is an online poll, the respondents may be more experienced with computers and online shopping than the general public. The poll has a credibility interval, a measure of accuracy, of 2 percentage points."
+walmart,2017-12,"{{20171219T230104.682+0000}}U.S. RESEARCH ROUNDUP-Apple, Altria, Arris International, GM, Zimmer BiometDec 19 (Reuters)"
+walmart,2017-12,Dec 19 (Reuters) - Wall Street securities analysts revised their ratings and price targets
+walmart,2017-12,"on several U.S.-listed companies, including Altria Group, Arris International and General"
+walmart,2017-12,* Arris International Plc : Morgan Stanley cuts to equal-weight from overweight
+walmart,2017-12,* General Motors Co : RBC raises to outperform from sector perform
+walmart,2017-12,Following is a summary of research actions on U.S. companies reported by Reuters on Tuesday.
+walmart,2017-12,Stock entries are in alphabetical order. See bottom of the table for sector changes.
+walmart,2017-12,* Affiliated Managers Group Inc : Deutsche Bank raises target price to $208 from $200
+walmart,2017-12,* Agco Corp : Deutsche Bank cuts price target to $83 from $85; rating buy
+walmart,2017-12,* Agco Corp : JP Morgan raises price target to $66 from $61; rating underweight
+walmart,2017-12,* Agree Realty Corp : Wells Fargo raises target price to $56 from $51
+walmart,2017-12,* Akamai Technologies : Craig Hallum ups to buy from hold; raises target to $80
+walmart,2017-12,* Allegiant Travel Co : Imperial Capital raises target price to $150 from $132
+walmart,2017-12,* American Axle & Manufacturing Holdings Inc : RBC raises target to $24 from $23
+walmart,2017-12,* American Equity Investment Life Holding Co : KBW raises target to $31 from $30
+walmart,2017-12,* Arch Capital Group Ltd : Credit Suisse cuts target price to $107 from $109
+walmart,2017-12,* Arris International Plc : Morgan Stanley cuts target price to $31 from $34
+walmart,2017-12,* Arris International Plc : Morgan Stanley cuts to equal-weight from overweight
+walmart,2017-12,* Arthur J Gallagher & Co : Credit Suisse raises target price to $71 from $69
+walmart,2017-12,* Asure Software Inc : Cowen and Company raises target price to $20 from $17
+walmart,2017-12,* Axalta Coating Systems Ltd : Raymond James starts with market perform
+walmart,2017-12,* Banco De Chile : Credit Suisse raises target price to $101 from $89
+walmart,2017-12,* Banco Santander-Chile : Credit Suisse raises target price to $35 from $31
+walmart,2017-12,* Bank of New York Mellon Corp : Deutsche Bank raises target price to $62 from $60
+walmart,2017-12,* Berkshire Hills Bancorp : Compass Point cuts target to $38 from $39; neutral
+walmart,2017-12,* Blackstone Group LP : Deutsche Bank raises target price to $33 from $32
+walmart,2017-12,* Boyd Gaming Corp : Morgan Stanley raises target price to $31 from $27
+walmart,2017-12,* Boyd Gaming Corp : Union Gaming raises price target to $40 from $32
+walmart,2017-12,* Bristol-Myers Squibb Co : Credit Suisse raises target price to $62 from $61
+walmart,2017-12,* Caretrust REIT Inc : Wells Fargo raises target price to $20 from $18.50
+walmart,2017-12,* Carlyle Group LP : Deutsche Bank raises target price to $24 from $22
+walmart,2017-12,* Carnival Corp : JP Morgan raises price target to $75 from $69; rating neutral
+walmart,2017-12,* CBOE Global Markets Inc : Deutsche Bank raises target price to $125 from $114
+walmart,2017-12,* Charles Schwab Corp : Deutsche Bank raises target price to $50 from $48
+walmart,2017-12,* Chicago Bridge & Iron Company NV : D.A.Davidson cuts price target to $19 from $25
+walmart,2017-12,* Chicago Bridge & Iron Company NV : Deutsche Bank cuts target price to $19 from $20
+walmart,2017-12,* Chicago Bridge & Iron Company NV : Deutsche Bank cuts to hold from buy
+walmart,2017-12,* Ciner Resources LP : SunTrust Robinson cuts price target to $27 from $32
+walmart,2017-12,* Ciner Resources LP : SunTrust Robinson cuts to hold from buy
+walmart,2017-12,* Citizens Financial Group Inc : BMO raises target price to $48 from $40
+walmart,2017-12,* Citizens Financial Group Inc : BMO raises to outperform from market perform
+walmart,2017-12,* CME Group Inc : Deutsche Bank raises target price to $162 from $155
+walmart,2017-12,* CNO Financial Group Inc : KBW raises target price to $24 from $23
+walmart,2017-12,* Criteo SA : Cowen and Company cuts target price to $25 from $40
+walmart,2017-12,* Darden Restaurants Inc : Jefferies raises price target to $90 from $82; hold
+walmart,2017-12,* DDR Corp : Mizuho raises target price to $9 from $7.50; rating neutral
+walmart,2017-12,* Delphi Technologies Plc : Wells Fargo starts with outperform rating; $59 target
+walmart,2017-12,* E*Trade Financial Corp : Deutsche Bank raises target price to $54 from $52
+walmart,2017-12,* Eaton Vance Corp : Deutsche Bank raises target price to $60 from $59
+walmart,2017-12,* Edgewell Personal Care Co : Wells Fargo resumes coverage with $59 target price
+walmart,2017-12,* Edgewell Personal Care Co : Wells Fargo resumes coverage with market perform
+walmart,2017-12,* Enlink Midstream Partners LP : B.Riley resumes with neutral; target price $17
+walmart,2017-12,* Envision Healthcare Corp : Jefferies cuts target price to $41 from $71; rating buy
+walmart,2017-12,* Extended Stay America Inc : Barclays raises target price to $21 from $20
+walmart,2017-12,* Factset Research Systems : Deutsche Bank raises target to $175 from $170; hold
+walmart,2017-12,* Factset Research Systems:Morgan Stanley ups target to $179 from $171;equal-weight
+walmart,2017-12,* Federated Investors Inc : Deutsche Bank cuts target price to $33 from $34
+walmart,2017-12,* Franklin Resources Inc : Deutsche Bank raises target price to $46 from $45
+walmart,2017-12,* Gaming and Leisure Properties : Morgan Stanley raises target to $40 from $38
+walmart,2017-12,* Gaming and Leisure Properties : Susquehanna raises target price to $41 from $39
+walmart,2017-12,* Gaming and Leisure Properties : Union Gaming raises rating to buy
+walmart,2017-12,* General Motors Co : RBC raises to outperform from sector perform
+walmart,2017-12,* Goodyear Tire & Rubber Co : Jefferies raises target price to $36; rating buy
+walmart,2017-12,* Hartford Financial Services Group : Credit Suisse raises target to $65 from $57
+walmart,2017-12,* Hartford Financial Services Group : Credit Suisse raises to outperform from neutral
+walmart,2017-12,* Heico Corp : Jefferies raises price target to $103 from $89; rating hold
+walmart,2017-12,* Hershey Co : Credit Suisse raises target price to $125 from $121; rating outperform
+walmart,2017-12,* Intercontinental Exchange Inc : Deutsche Bank raises target price to $79 from $76
+walmart,2017-12,* KKR & Co LP : Deutsche Bank raises target price to $21 from $20
+walmart,2017-12,* Legg Mason Inc : Deutsche Bank raises target price to $50 from $46
+walmart,2017-12,* Lexington Realty Trust : Wells Fargo raises target price to $11 from $10
+walmart,2017-12,* Martin Midstream Partners LP : B.Riley resumes with buy; $18 target price
+walmart,2017-12,* Mcdonald's : Credit Suisse raises target price to $185 from $178; rating outperform
+walmart,2017-12,* Melco Resorts & Entertainment Ltd : JP Morgan raises to overweight from neutral
+walmart,2017-12,* Merck & Co Inc : Credit Suisse cuts target price to $67 from $70
+walmart,2017-12,* National Retail Properties Inc : Wells Fargo raises target price to $47 from $46
+walmart,2017-12,* National Storage Affiliates Trust : Wells Fargo raises target price to $30 from $26
+walmart,2017-12,* Navistar International Corp : Stifel raises price target to $55 from $50; buy
+walmart,2017-12,* Northern Trust Corp : Deutsche Bank cuts target price to $102 from $103
+walmart,2017-12,* Northwest Natural Gas Co : RBC starts with sector perform rating; $63 price target
+walmart,2017-12,* Owens & Minor Inc : JP Morgan cuts price target to $22 from $28
+walmart,2017-12,* Penn National Gaming Inc : Morgan Stanley raises target price to $28 from $26
+walmart,2017-12,* Pfizer Inc : Independent Research raises target to $39.00 from $37.00;rating hold
+walmart,2017-12,* Pinnacle Entertainment Inc : Union Gaming raises price target to $35 from $30
+walmart,2017-12,* PPG Industries Inc : Raymond James starts with outperform; target price $139
+walmart,2017-12,* Principal Financial Group Inc : KBW raises target price to $76 from $73
+walmart,2017-12,* Realty Income Corp : Wells Fargo cuts target price to $63 from $65
+walmart,2017-12,* Reinsurance Group of America Inc : KBW raises target price to $150 from $148
+walmart,2017-12,* RSP Permian Inc : Stifel raises target price to $46 from $45; rating buy
+walmart,2017-12,* Ryman Hospitality Properties : Wells Fargo raises target price to $76 from $64
+walmart,2017-12,* Ryman Hospitality Properties : Wells Fargo raises to outperform from market perform
+walmart,2017-12,* Shake Shack Inc : Cowen and Company raises target price to $42 from $36
+walmart,2017-12,* Sherwin-Williams Co : Raymond James starts with strong buy; target price $496
+walmart,2017-12,* SL Green Realty Corp : Barclays cuts target price to $104 from $105
+walmart,2017-12,* Snyder'S-Lance Inc : SunTrust Robinson raises price target to $50 from $35
+walmart,2017-12,* Southwest Gas Holdings Inc : UBS raises target price to $97 from $85
+walmart,2017-12,* Southwest Gas Holdings Inc : UBS raises to buy from neutral
+walmart,2017-12,* Spark Therapeutics Inc : Leerink raises target to $52 from $49; market perform
+walmart,2017-12,* Spirit Realty Capital Inc : Mizuho raises target price to $9.50 from $9; buy
+walmart,2017-12,* State Street Corp : Deutsche Bank raises target price to $103 from $102
+walmart,2017-12,* Store Capital Corp : Wells Fargo raises target price to $27 from $25
+walmart,2017-12,* Sunoco LP : B.Riley resumes coverage with neutral rating and $32.00 price target
+walmart,2017-12,* Sunstone Hotel Investors Inc : Wells Fargo cuts to market perform from outperform
+walmart,2017-12,* T. Rowe Price Group Inc : Deutsche Bank raises target price to $102 from $99
+walmart,2017-12,* TD Ameritrade Holding Corp : Deutsche Bank raises target price to $58 from $57
+walmart,2017-12,* Total System Services Inc : Numis raises target to $80 from $72; rating neutral
+walmart,2017-12,* Travelers Companies Inc : Credit Suisse raises target price to $141 from $130
+walmart,2017-12,* Universal Health Services : Credit Suisse raises target to $135;rating outperform
+walmart,2017-12,* USA Compression Partners LP : B.Riley resumes coverage with $18.00 price target
+walmart,2017-12,* USA Compression Partners LP : B.Riley resumes coverage with neutral rating
+walmart,2017-12,* USD Partners LP : B.Riley resumes coverage with neutral rating and $11.00 target
+walmart,2017-12,* Viper Energy Partners LP : Imperial Capital raises target price to $27 from $23
+walmart,2017-12,* Westlake Chemical Partners LP : B.Riley resumes with neutral; target price $26
+walmart,2017-12,* William Lyon Homes : JP Morgan cuts price target to $31.5 from $32.5
+walmart,2017-12,* Wisdomtree Investments Inc : Deutsche Bank raises target price to $14 from $13
+walmart,2017-12,* Zimmer Biomet Holdings : Wells Fargo raises price target to $140 from $123
+walmart,2017-12,* Financial Technology sector: Wells Fargo raises its view to overweight
+walmart,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet - Reuters News"
+walmart,2017-12,"{{20171219T181706.579+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet* Eikon search string for individual stock moves: [STXBZ]"
+walmart,2017-12,Wall Street dipped on Tuesday ahead of a vote on a bill to overhaul the U.S. tax
+walmart,2017-12,"system, with a pullback in technology stocks leading the declines after two"
+walmart,2017-12,strong session of gains on hopes that Congress will vote in favor of the bill.
+walmart,2017-12,"At 12:56 ET, the Dow Jones Industrial Average <.DJI> was down 0.12 percent"
+walmart,2017-12,"BUZZ-Apple: Instinet cuts to 'neutral', sees limited upside to iPhone X sales"
+walmart,2017-12,"BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view"
+walmart,2017-12,"BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018 [nL4N1OJ3VZ]"
+walmart,2017-12,"BUZZ-Crypto Co: SEC suspends trading after 2,700 pct bitcoin-fueled surge"
+walmart,2017-12,SEC suspends trading in tiny firm after eye-popping rise [nL4N1OJ486]
+walmart,2017-12,BUZZ-OTC-traded bitcoin bets tumble after SEC suspends Crypto Co shares
+walmart,2017-12,BUZZ-Riot Blockchain: Gains despite private placement on stormy day for crypto
+walmart,2017-12,"BUZZ-Longfin dives, then rebounds in turbulent day for crypto"
+walmart,2017-12,"BUZZ-Kindred Healthcare to be bought by Humana, private equity [nL4N1OJ48T]"
+walmart,2017-12,"BUZZ-Carnival Corp: Robust demand, higher ticket prices boost results"
+walmart,2017-12,"BUZZ-Altria: Berenberg says lower tax to boost EPS, div payout [nL4N1OJ46C]"
+walmart,2017-12,"BUZZ-Tenet Healthcare: Boosted by plan to sale unit, cut more costs"
+walmart,2017-12,BUZZ-Spark Therapeutics: FDA approves gene therapy for rare form of blindness
+walmart,2017-12,BUZZ-Cars.com: Accelerates to record high on Starboard stake [nL4N1OJ3UI]
+walmart,2017-12,BUZZ-U.S. banks mixed ahead of Congress vote on tax bill [nL4N1OJ4D7]
+walmart,2017-12,BUZZ-Funko Inc: Wobbles to record low after BMO downgrade [nL1N1OJ0VL]
+walmart,2017-12,UPDATE 1-Packaging company Crown Holdings to buy Signode in $3.91 bln deal
+walmart,2017-12,BUZZ-Jack in the Box to sell Qdoba Restaurant unit to Apollo Global
+walmart,2017-12,BUZZ-Zimmer Biomet: Top of S&P after CEO hunt finally ends [nL4N1OJ44J]
+walmart,2017-12,BUZZ-Remark Holdings: Hits 9-yr high on new KanKan deal in China [nL4N1OJ4B2]
+walmart,2017-12,BUZZ-Novavax Inc: Down on delayed data from influenza vaccine study
+walmart,2017-12,"BUZZ-Sucampo: Nomura bullish on ultra-rare disease drug, says 'buy'"
+walmart,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet - Reuters News"
+walmart,2017-12,"{{20171219T172532.815+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet* Eikon search string for individual stock moves: [STXBZ]"
+walmart,2017-12,"Wall Street dipped on Tuesday, ahead of a vote on a bill to overhaul the U.S."
+walmart,2017-12,"tax system, weighed down by an Apple-led pullback after two strong session of"
+walmart,2017-12,gains on rising hopes that the U.S. Congress will vote in favor of the bill.
+walmart,2017-12,"At 11:36 ET, the Dow Jones Industrial Average <.DJI> was down 0.11 percent"
+walmart,2017-12,"BUZZ-Apple: Instinet cuts to 'neutral', sees limited upside to iPhone X sales"
+walmart,2017-12,BUZZ-McDonald's value menu could turn 2018 into a year of deep discounting in
+walmart,2017-12,"BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view"
+walmart,2017-12,"BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018 [nL4N1OJ3VZ]"
+walmart,2017-12,"UPDATE 3-Humana, private equity firms buy Kindred Healthcare for $810 mln"
+walmart,2017-12,"BUZZ-Kindred Healthcare to be bought by Humana, private equity [nL4N1OJ48T]"
+walmart,2017-12,UPDATE 1-Cruise operator Carnival beats Street on boost from ticket prices
+walmart,2017-12,"BUZZ-Carnival Corp: Robust demand, higher ticket prices boost results"
+walmart,2017-12,"BUZZ-Altria: Berenberg says lower tax to boost EPS, div payout [nL4N1OJ46C]"
+walmart,2017-12,UPDATE 2-Tenet explores sale of Conifer unit amid investor pressure
+walmart,2017-12,"BUZZ-Tenet Healthcare: Boosted by plan to sale unit, cut more costs"
+walmart,2017-12,BUZZ-Spark Therapeutics: FDA approves gene therapy for rare form of blindness
+walmart,2017-12,FDA approves Spark's gene therapy for rare form of blindness [nFWN1OJ0N6]
+walmart,2017-12,BUZZ-Cars.com: Accelerates to record high on Starboard stake [nL4N1OJ3UI]
+walmart,2017-12,BUZZ-U.S. banks mixed ahead of Congress vote on tax bill [nL4N1OJ4D7]
+walmart,2017-12,"BUZZ-Longfin dives, then rebounds in turbulent day for crypto [nL1N1OJ18Q]"
+walmart,2017-12,BUZZ-Funko Inc: Wobbles to record low after BMO downgrade [nL1N1OJ0VL]
+walmart,2017-12,UPDATE 1-Packaging company Crown Holdings to buy Signode in $3.91 bln deal
+walmart,2017-12,Jack in the Box to sell Qdoba Restaurant unit for $305 mln cash [nL4N1OJ3NN]
+walmart,2017-12,BUZZ-Jack in the Box to sell Qdoba Restaurant unit to Apollo Global
+walmart,2017-12,BUZZ-Zimmer Biomet: Top of S&P after CEO hunt finally ends [nL4N1OJ44J]
+walmart,2017-12,BUZZ-Remark Holdings: Hits 9-yr high on new KanKan deal in China [nL4N1OJ4B2]
+walmart,2017-12,"BUZZ-Crypto Co: SEC suspends trading after 2,700 pct bitcoin-fueled surge"
+walmart,2017-12,SEC suspends trading in tiny firm after eye-popping rise [nL4N1OJ486]
+walmart,2017-12,BUZZ-OTC-traded bitcoin bets tumble after SEC suspends Crypto Co shares
+walmart,2017-12,BUZZ-Novavax Inc: Down on delayed data from influenza vaccine study
+walmart,2017-12,"BUZZ-Sucampo: Nomura bullish on ultra-rare disease drug, says 'buy'"
+walmart,2017-12,"{{20171219T152250.072+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, GM, Cars.com, Zimmer Biomet, Navistar* Eikon search string for individual stock moves: [STXBZ]"
+walmart,2017-12,"Wall Street's main indexes were slightly lower on Tuesday, weighed down by an"
+walmart,2017-12,Apple-led pullback in technology stocks and after two strong session of gains on
+walmart,2017-12,rising hopes that the U.S. Congress will vote in favor of a proposed tax
+walmart,2017-12,"At 9:56 ET, the Dow Jones Industrial Average <.DJI> was down 0.19 percent at"
+walmart,2017-12,"BUZZ-Apple: Instinet cuts to 'neutral', sees limited upside to iPhone X sales"
+walmart,2017-12,BUZZ-McDonald's value menu could turn 2018 into a year of deep discounting in
+walmart,2017-12,"BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view"
+walmart,2017-12,"BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018 [nL4N1OJ3VZ]"
+walmart,2017-12,"BUZZ-Altria: Berenberg says lower tax to boost EPS, div payout [nL4N1OJ46C]"
+walmart,2017-12,UPDATE 1-Cruise operator Carnival beats Street on boost from ticket prices
+walmart,2017-12,"BUZZ-Carnival Corp: Robust demand, higher ticket prices boost results"
+walmart,2017-12,UPDATE 1-Tenet to explore Conifer unit sale amid investor pressure [nL4N1OJ3SK]
+walmart,2017-12,"BUZZ-Tenet Healthcare: Boosted by plan to sale unit, cut more costs"
+walmart,2017-12,BUZZ-Cars.com: Accelerates to record high on Starboard stake [nL4N1OJ3UI]
+walmart,2017-12,Jack in the Box to sell Qdoba Restaurant unit for $305 mln cash [nL4N1OJ3NN]
+walmart,2017-12,BUZZ-Jack in the Box to sell Qdoba Restaurant unit to Apollo Global
+walmart,2017-12,BUZZ-Zimmer Biomet: Top of S&P after CEO hunt finally ends [nL4N1OJ44J]
+walmart,2017-12,BUZZ-Novavax Inc: Down on delayed data from influenza vaccine study
+walmart,2017-12,"{{20171219T141119.149+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, GM, Cars.com, Kindred Health, Roku, Akers Bio* Eikon search string for individual stock moves: [STXBZ]"
+walmart,2017-12,"Wall Street's major indexes were poised to inch higher at the open on Tuesday, building on strong gains in the past two sessions on rising hopes that the U.S. Congress will vote in favor of the proposed tax overhaul. [.N]"
+walmart,2017-12,** Darden Restaurants Inc : up 2.4 pct premarket BUZZ-Darden Restaurants Inc: Strong results help shares [nL4N1OJ3Q7]
+walmart,2017-12,"** Sucampo : up 4.2 pct premarket BUZZ-Sucampo: Nomura bullish on ultra-rare disease drug, says 'buy' [nL4N1OJ3B0]"
+walmart,2017-12,** Marathon Patent Group Inc : down 10.1 pct premarket BUZZ-Marathon Patent falls on another stock offering [nL4N1OJ3KL]
+walmart,2017-12,{{20171219T140725.439+0000}}US STOCKS-Wall St set for modest gains as tax bill vote draws nearDec 19 (Reuters)
+walmart,2017-12,"Dec 19 (Reuters) - Wall Street's major indexes were poised to inch higher at the open on Tuesday, building on strong gains in the past two sessions on rising hopes that the U.S. Congress will vote in favor of the proposed tax overhaul."
+walmart,2017-12,"The House of Representatives will vote on the bill on Tuesday afternoon, followed by the Senate later in the night or on Wednesday morning. The bill will likely be signed into law by the end of the week. [nL1N1OJ00O]"
+walmart,2017-12,"""There's still strong belief that it's going to happen. But the market is not going to completely relax until they get done,"" said Scott Brown, chief economist at Raymond James in St. Petersburg, Florida."
+walmart,2017-12,"The overhaul would cut corporate tax rates to 21 percent from 35 percent, which investors are betting will boost profits as well as trigger share buybacks and higher dividend payouts."
+walmart,2017-12,"Those hopes have spurred a rally in the major Wall Street indexes this year. The Dow Jones Industrial Average <.DJI>, S&P 500 <.SPX>, Nasdaq <.IXIC> and the small-cap Russell 2000 <.RUT> ended at record highs on Monday."
+walmart,2017-12,"The Nasdaq briefly topped 7,000 points for the first time and the Dow closed 208 points shy of the 25,000-point mark."
+walmart,2017-12,"At 8:26 a.m. ET (1326 GMT), S&P 500 e-minis were up 3 points, or 0.11 percent, with 87 contracts changing hands and Dow e-minis <1YMc2> were up 45 points, or 0.18 percent, with 30 contracts changing hands."
+walmart,2017-12,"Nasdaq 100 e-minis were down 1 point, or 0.02 percent, in volume of 26 contracts."
+walmart,2017-12,"Another expected outcome of lower taxes is cash repatriation. That, along with a modest rise in interest rates, will leave a lot of cash on corporate balance sheets, which makes a ""very strong market for M&A,"" said Brown."
+walmart,2017-12,"After a spate of dealmaking on Monday, Tuesday kicked off with health insurer Humana's $4.1 billion, or $9 per share, offer for Kindred Healthcare . [nL4N1OJ3WJ]"
+walmart,2017-12,"Kindred's shares fell 5.8 percent to $8.95, from its close of $9.50 after a run-up on media reports of a deal. Humana shares were flat."
+walmart,2017-12,"Apple dipped 0.8 percent after brokerage Instinet downgraded the stock to ""neutral"" on expectations of a limited upside to iPhone X sales next quarter. [nL4N1OJ2G5]"
+walmart,2017-12,"Wal-Mart jumped 1.28 percent after Citi upgraded the stock to ""buy"", on expectations of the stock will rise further in 2018. The stock has gained about 42 percent so far this year, which is its best since 1999. [nL4N1OJ3VZ]"
+walmart,2017-12,"GM rose about 1.3 percent after RBC upgraded the automaker's stock to ""outperform"" on expectations of better profitability in 2018. [nL4N1OJ2T0]"
+walmart,2017-12,"Darden Restaurants was up 2.3 percent, the top gainer among S&P 500 stocks trading premarket, after reporting upbeat quarterly results. [nL4N1OJ3Q7]"
+walmart,2017-12,Navistar International gained more than 9 percent as higher demand for its buses and trucks drove its quarterly results. [nL4N1OJ3QT]
+walmart,2017-12,"{{20171219T132604.727+0000}}BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018** Wal-Mart shares , enjoying their best year since 1999, up another 1.4 pct premarket after Citigroup raises rating to ""buy"" from ""neutral"", PT by $11 to $117"
+walmart,2017-12,"** WMT up ~42 pct YTD, 6th biggest gainer on the Dow <.DJI> and 5th biggest on the S&P 500 consumer staples index <.SPLRCM>"
+walmart,2017-12,"** Analyst Kate McShane expects WMT to announce a dividend hike and sees an upside to consensus expectations for both sales and margins, particularly in 2H18"
+walmart,2017-12,"** Says concerns about secular competition from Amazon.com , other online only retailers could start meaningfully subsiding in 2018"
+walmart,2017-12,** Says WMT's omnichannel strategy to continue driving sales growth and its ecommerce operations are emerging as competition to Amazon
+walmart,2017-12,"** US tax reform, which would provide WMT with additional cash to invest in various initiatives, provides another sales tailwind, analyst adds"
+walmart,2017-12,"** 14 of 32 brokerages rate WMT ""buy"" or higher, the rest ""hold""; their median PT is $101.50"
+walmart,2017-12,"To thwart Amazon, Kroger and Walmart lure shoppers with curbside pickup - Reuters News"
+walmart,2017-12,"{{20171218T081003.995+0000}}To thwart Amazon, Kroger and Walmart lure shoppers with curbside pickupLOS ANGELES, Dec 18 (Reuters)"
+walmart,2017-12,"LOS ANGELES, Dec 18 (Reuters) - As Amazon.com looks to upend the U.S. grocery market with home delivery, some veteran supermarket operators are betting on a different strategy: curbside pickup."
+walmart,2017-12,Americans have long loved the convenience of drive-through service for burgers and coffee. Kroger Co and Walmart Inc are tweaking that formula for groceries.
+walmart,2017-12,"The companies have invested heavily in online systems that allow customers to order ahead from their neighborhood store. Workers pick and pack the products, then run them out to shoppers in the parking lot, the grocery version of carry out pizza."
+walmart,2017-12,"For the retailers, the service is cheaper than delivery, because customers do the driving. For shoppers, it means skipping crowds and queues at their local market, and no worries about missing packages or melted ice cream if they are not at home to meet the delivery guy."
+walmart,2017-12,"Tony Sacco, who lives in the Los Angeles beach community of Playa Del Rey, is a regular user of the service at a nearby Ralphs supermarket, owned by Cincinnati-based Kroger. Each pickup costs $6.95, but the time-crunched married father of three says it is worth it."
+walmart,2017-12,"""This is easy. Time is money,"" said Sacco, 47, as a worker loaded bags into his SUV on a recent morning."
+walmart,2017-12,Retaining customers like Sacco is critical for traditional grocery retailers as they battle an array of upstarts bent on turning groceries into the next home-delivery juggernaut.
+walmart,2017-12,"New entrants such as meal-kit company Blue Apron and organic food seller Thrive Market are peeling off coveted slices of their business. Amazon , the nation's largest online retailer, has amassed an 18 percent share of the $12.6 billion U.S. online grocery market mainly through the sale of packaged goods such as pasta and diapers. It is the largest player in a sector that is expected to grow to $41.7 billion by 2022, according to market research firm Packaged Facts."
+walmart,2017-12,"But even mighty Amazon has struggled with the trickiest part of the trade: delivering fresh produce, meat, dairy and other perishables. Its AmazonFresh service started more than a decade ago, but has yet to make a major mark."
+walmart,2017-12,"""The way people are going to shop for groceries is going to be curbside, not delivery,"" said Jason Goldberg, a senior vice president at digital marketing firm SapientRazorfish."
+walmart,2017-12,"Amazon, too, is eyeing that channel. AmazonFresh has already tested pickup in Seattle and analysts expect Whole Foods to do the same."
+walmart,2017-12,"Nevertheless, researcher Packaged Facts says traditional retailers can win with real estate: ""Companies such as Walmart and Kroger have the advantage, because they already have stores all over the country in both urban and rural settings,"" it said in a recent report."
+walmart,2017-12,"Kroger bought its way into pickup with its 2014 purchase of southeast grocer Harris Teeter, which had an established program."
+walmart,2017-12,"That same year, Kroger debuted its own offering, known as ClickList, adding features such as coupons and promotions based on detailed customer data."
+walmart,2017-12,"Pickup is now available at 1,000 of the chain's 2,800 stores and the company is adding the service at 400 to 500 locations a year, according to Matt Thompson, the vice president of ClickList."
+walmart,2017-12,"He said curbside customers spend 40 percent to 60 percent more than traditional shoppers, because they tend to stock up on bulky items such as bottled water."
+walmart,2017-12,"Users pay $4.95 to $6.95 for each order depending on their location. Kroger would not disclose how many shoppers use ClickList. It promotes the service in stores and online, while customers spread the word through social media."
+walmart,2017-12,"Users log into ClickList online. They put items into digital carts, pay and reserve a pickup time at least four hours in advance."
+walmart,2017-12,"The order is sent to a terminal in a store's dedicated ClickList room, where ""pickers"" are dispatched with handheld devices that tell them exactly where to find each item. These workers bag the products and put them into labeled bins; perishables are kept in a nearby freezer or fridge. When customers pull into designated pickup parking spaces, they are directed to call a number to alert a ClickList staffer, who wheels the bags to their cars."
+walmart,2017-12,Kroger gave Reuters a tour of its ClickList operation at a Ralphs supermarket in Los Angeles' Westchester neighborhood in late November.
+walmart,2017-12,"Miguel Lopez, who leads the ClickList team there, said it takes about 30 minutes to pick a $100 order; a $400 order takes an hour. The team tracks progress on a white board that showed weekly progress since the service debuted in January. The number of daily orders ranged from 13 to 36. Sales for the week Reuters visited, which included Thanksgiving Day, were on pace to hit a record of more than $12,000."
+walmart,2017-12,"Analysts say typical Kroger stores have annual sales of around $30 million, excluding gasoline. Deutsche Bank analyst Shane Higgins said pickup already accounts for over 5 percent of sales in some locations."
+walmart,2017-12,Kroger declined to comment on the overall performance of ClickList but acknowledged costs are initially higher for pickup orders because of the additional labor involved. Company executives said increasing sales and efficiency can virtually eliminate that gap in as little as three years.
+walmart,2017-12,"Another challenge to profitability is that pickup customers are not tempted by in-store impulse items. But the biggest risk, analysts say, is to do nothing and let customers drift to competitors that offer the service."
+walmart,2017-12,"Shopper Kimberlee Isaacs says ClickList has kept her loyal to the Westchester Ralphs, where she drops $800 a month on groceries for her family of three."
+walmart,2017-12,"""We use it every single week. I don't go into the store unless I forgot something,"" Isaacs, 50, said."
+walmart,2017-12,"Meanwhile, Walmart, the nation's top grocery seller, aims to add free curbside pickup at 1,000 stores next year, bringing the total to 2,100 of its 4,700 U.S. locations."
+walmart,2017-12,It declined to discuss profitability of the service. But spokeswoman Molly Blakeman said the company decided to expand it quickly based on encouraging results.
+walmart,2017-12,"Pickup is winning converts such as Hudson, Florida shopper Steve Mondock, who had previously shunned Walmart."
+walmart,2017-12,"""I hated the crowds, I hated the parking,"" said Mondock, 55, who now buys most of his basics there."
+walmart,2017-12,"Virtually every food retailer is now testing or adding pickup, including Publix, HEB, Meijer and Safeway. Target Corp , which just bought delivery company Shipt, is testing drive up for non-perishable groceries and other items."
+walmart,2017-12,"""That's why you want to be early so you can capture someone else's customers,"" said Loop Capital analyst Andrew Wolf."
+walmart,2017-12,"RPT-To thwart Amazon, Kroger and Walmart lure shoppers with curbside pickup - Reuters News"
+walmart,2017-12,"{{20171218T000000.000+0000}}RPT-To thwart Amazon, Kroger and Walmart lure shoppers with curbside pickupLOS ANGELES, Dec 18 (Reuters)"
+walmart,2017-12,"LOS ANGELES, Dec 18 (Reuters) - As Amazon.com looks to upend the U.S. grocery market with home delivery, some veteran supermarket operators are betting on a different strategy: curbside pickup."
+walmart,2017-12,Americans have long loved the convenience of drive-through service for burgers and coffee. Kroger Co and Walmart Inc are tweaking that formula for groceries.
+walmart,2017-12,"The companies have invested heavily in online systems that allow customers to order ahead from their neighborhood store. Workers pick and pack the products, then run them out to shoppers in the parking lot, the grocery version of carry out pizza."
+walmart,2017-12,"For the retailers, the service is cheaper than delivery, because customers do the driving. For shoppers, it means skipping crowds and queues at their local market, and no worries about missing packages or melted ice cream if they are not at home to meet the delivery guy."
+walmart,2017-12,"Tony Sacco, who lives in the Los Angeles beach community of Playa Del Rey, is a regular user of the service at a nearby Ralphs supermarket, owned by Cincinnati-based Kroger. Each pickup costs $6.95, but the time-crunched married father of three says it is worth it."
+walmart,2017-12,"""This is easy. Time is money,"" said Sacco, 47, as a worker loaded bags into his SUV on a recent morning."
+walmart,2017-12,Retaining customers like Sacco is critical for traditional grocery retailers as they battle an array of upstarts bent on turning groceries into the next home-delivery juggernaut.
+walmart,2017-12,"New entrants such as meal-kit company Blue Apron and organic food seller Thrive Market are peeling off coveted slices of their business. Amazon , the nation's largest online retailer, has amassed an 18 percent share of the $12.6 billion U.S. online grocery market mainly through the sale of packaged goods such as pasta and diapers. It is the largest player in a sector that is expected to grow to $41.7 billion by 2022, according to market research firm Packaged Facts."
+walmart,2017-12,"But even mighty Amazon has struggled with the trickiest part of the trade: delivering fresh produce, meat, dairy and other perishables. Its AmazonFresh service started more than a decade ago, but has yet to make a major mark."
+walmart,2017-12,"""The way people are going to shop for groceries is going to be curbside, not delivery,"" said Jason Goldberg, a senior vice president at digital marketing firm SapientRazorfish."
+walmart,2017-12,"Amazon, too, is eyeing that channel. AmazonFresh has already tested pickup in Seattle and analysts expect Whole Foods to do the same."
+walmart,2017-12,"Nevertheless, researcher Packaged Facts says traditional retailers can win with real estate: ""Companies such as Walmart and Kroger have the advantage, because they already have stores all over the country in both urban and rural settings,"" it said in a recent report."
+walmart,2017-12,"Kroger bought its way into pickup with its 2014 purchase of southeast grocer Harris Teeter, which had an established program."
+walmart,2017-12,"That same year, Kroger debuted its own offering, known as ClickList, adding features such as coupons and promotions based on detailed customer data."
+walmart,2017-12,"Pickup is now available at 1,000 of the chain's 2,800 stores and the company is adding the service at 400 to 500 locations a year, according to Matt Thompson, the vice president of ClickList."
+walmart,2017-12,"He said curbside customers spend 40 percent to 60 percent more than traditional shoppers, because they tend to stock up on bulky items such as bottled water."
+walmart,2017-12,"Users pay $4.95 to $6.95 for each order depending on their location. Kroger would not disclose how many shoppers use ClickList. It promotes the service in stores and online, while customers spread the word through social media."
+walmart,2017-12,"Users log into ClickList online. They put items into digital carts, pay and reserve a pickup time at least four hours in advance."
+walmart,2017-12,"The order is sent to a terminal in a store's dedicated ClickList room, where ""pickers"" are dispatched with handheld devices that tell them exactly where to find each item. These workers bag the products and put them into labeled bins; perishables are kept in a nearby freezer or fridge. When customers pull into designated pickup parking spaces, they are directed to call a number to alert a ClickList staffer, who wheels the bags to their cars."
+walmart,2017-12,Kroger gave Reuters a tour of its ClickList operation at a Ralphs supermarket in Los Angeles' Westchester neighborhood in late November.
+walmart,2017-12,"Miguel Lopez, who leads the ClickList team there, said it takes about 30 minutes to pick a $100 order; a $400 order takes an hour. The team tracks progress on a white board that showed weekly progress since the service debuted in January. The number of daily orders ranged from 13 to 36. Sales for the week Reuters visited, which included Thanksgiving Day, were on pace to hit a record of more than $12,000."
+walmart,2017-12,"Analysts say typical Kroger stores have annual sales of around $30 million, excluding gasoline. Deutsche Bank analyst Shane Higgins said pickup already accounts for over 5 percent of sales in some locations."
+walmart,2017-12,Kroger declined to comment on the overall performance of ClickList but acknowledged costs are initially higher for pickup orders because of the additional labor involved. Company executives said increasing sales and efficiency can virtually eliminate that gap in as little as three years.
+walmart,2017-12,"Another challenge to profitability is that pickup customers are not tempted by in-store impulse items. But the biggest risk, analysts say, is to do nothing and let customers drift to competitors that offer the service."
+walmart,2017-12,"Shopper Kimberlee Isaacs says ClickList has kept her loyal to the Westchester Ralphs, where she drops $800 a month on groceries for her family of three."
+walmart,2017-12,"""We use it every single week. I don't go into the store unless I forgot something,"" Isaacs, 50, said."
+walmart,2017-12,"Meanwhile, Walmart, the nation's top grocery seller, aims to add free curbside pickup at 1,000 stores next year, bringing the total to 2,100 of its 4,700 U.S. locations."
+walmart,2017-12,It declined to discuss profitability of the service. But spokeswoman Molly Blakeman said the company decided to expand it quickly based on encouraging results.
+walmart,2017-12,"Pickup is winning converts such as Hudson, Florida shopper Steve Mondock, who had previously shunned Walmart."
+walmart,2017-12,"""I hated the crowds, I hated the parking,"" said Mondock, 55, who now buys most of his basics there."
+walmart,2017-12,"Virtually every food retailer is now testing or adding pickup, including Publix, HEB, Meijer and Safeway. Target Corp , which just bought delivery company Shipt, is testing drive up for non-perishable groceries and other items."
+walmart,2017-12,"""That's why you want to be early so you can capture someone else's customers,"" said Loop Capital analyst Andrew Wolf."
+walmart,2017-12,"{{20171215T102121.474+0000}}BREAKINGVIEWS-Li & Fung family rearranges its sweater drawerHONG KONG, Dec 15 (Reuters Breakingviews)"
+walmart,2017-12,(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+walmart,2017-12,"HONG KONG, Dec 15 (Reuters Breakingviews) - Sometimes the solution to a problem can be right in the mirror. The family behind Li & Fung <0494.HK> is counting on it. The Hong Kong supply-chain conglomerate, which helps retailers like Walmart stock their shelves, is selling its struggling sweaters, furniture and beauty products divisions for $1.1 billion to a group led by the Fung clan itself."
+walmart,2017-12,"Li & Fung, which started exporting porcelain and fireworks from Guangzhou to the United States back in 1906, has found its middle-man role under increasing threat from the likes of Alibaba . Consumers nowadays can be connected directly to manufacturers across China and beyond. Part of Li & Fung's response has been to embark on a three-year plan to digitize its business by using predictive analytics and also to make everything faster by 2019."
+walmart,2017-12,"The company has been offloading businesses, too. The products whose divestiture was announced on Thursday have weighed the group down. The Li & Fung division that houses them, which accounts for about a fifth of group sales, suffered a 29 percent decline in core operating profit in the first half of the year. The deal will lead to a $610 million loss because of related writedowns, but it will also provide the company with some financial firepower as it implements its strategic plan."
+walmart,2017-12,"Nearly half the proceeds have, however, been promised to Li & Fung shareholders as a special dividend. About $170 million of that would wind up back in the pockets of the Fungs, who own a third of the company. That will come in handy as they buy the three product lines. Their investment firms will hold 55 percent of the acquired businesses, for an implied stake value of about $600 million. Buyout shop Hony Capital, owner of Pizza Express and other companies, will have the rest."
+walmart,2017-12,"The transaction values the sweaters-to-cosmetics enterprise at nearly 15 times earnings before interest and taxes. That's a healthy multiple for an operation in decline. Li & Fung stock jumped almost 9 percent on the news, suggesting it's not a deal that's too cozy. A majority of non-family shareholders also will be needed to sign off on the sale. That should help leave everyone involved with a warm and fuzzy feeling."
+walmart,2017-12,"- Li & Fung, the Hong Kong trading conglomerate, said on Dec. 14 it would sell its furniture, sweaters and beauty products businesses to the company's founding family and a private equity firm for $1.1 billion in cash."
+walmart,2017-12,- The board said it plans to use some of the proceeds to pay a special dividend of $520 million.
+walmart,2017-12,"- Under terms of the deal, Hony Capital will own 45 percent of the products divested, while Fung Holdings will take a 45 percent stake and Fung Investments will hold the remaining 10 percent."
+walmart,2017-12,"- For previous columns by the author, Reuters customers can click on [GOLDFARB/]"
+walmart,2017-12,BREAKINGVIEWS-Target needs more than Shipt to fend off Amazon - Reuters Breakingviews
+walmart,2017-12,"{{20171214T182935.634+0000}}BREAKINGVIEWS-Target needs more than Shipt to fend off AmazonNEW YORK, Dec 14 (Reuters Breakingviews)"
+walmart,2017-12,(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+walmart,2017-12,"NEW YORK, Dec 14 (Reuters Breakingviews) - Target will need more than Shipt to fend off Amazon and Walmart . The $34 billion retailer said on Wednesday that it would buy the upstart grocery-delivery platform for $550 million. That's a step in the right direction to leverage its brick-and-mortar shops in an online world. But it will need to do much more to escape the squeeze of the e-commerce juggernauts."
+walmart,2017-12,"Alabama-based Shipt manages more than 20,000 ""personal shoppers"" who retrieve groceries from local stores and deliver them to customers' homes. The acquisition should allow Target to compete with Amazon, at least on speed, by turning its retail stores into an ersatz network of warehouses. Shipt might also bring down the retailer's high e-commerce fulfillment costs, which it has flagged as a pressure on profitability."
+walmart,2017-12,"Investors greeted the news with enthusiasm: Target's share price rose nearly 2 percent, adding almost $600 million to the company's value. But it comes after a rough year for shareholders. Target's stock is down 13 percent this year, even as Walmart and Amazon have surged 41 percent and 57 percent, respectively."
+walmart,2017-12,"Target has lagged its larger bricks-and-mortar rival in moving online. Walmart's U.S. e-commerce sales grew 50 percent in the latest quarter, pushing its overall top-line comparable sales in the United States to 2.7 percent. By contrast, Target's digital-channel sales increased 24 percent in the same period. It expects full-year sales growth to range from flat to 1 percent."
+walmart,2017-12,"More broadly, the ""Beast of Bentonville"" and ""Death Star"" (as Liberty Media's John Malone recently dubbed Amazon) are moving fast and breaking things in Target's backyard. Amazon moved into the grocery business this year with its acquisition of Whole Foods, while last year Walmart purchased Jet.com, a direct e-commerce competitor to Amazon. This year it snapped up companies ranging from men's fashion (Bonobos) to shoes (ShoeBuy) and delivery (Parcel)."
+walmart,2017-12,"Target's Shipt deal, along with its purchase of the transportation-technology company Grand Junction in August, is small by comparison. It has other initiatives in the works, such as Target Restock, a pilot next-day delivery service for home essentials. But the Minneapolis-based retailer's need to become more aggressive to keep pace in the cutthroat retail market lingers as an investment risk."
+walmart,2017-12,"- Target on Dec. 13 said it would acquire Shipt, an online grocery-delivery platform, for $550 million in cash. The e-commerce firm has more than 20,000 ""personal shoppers"" who retrieve items in stores and deliver them to customers, who pay an annual fee of $99 for unlimited deliveries."
+walmart,2017-12,"- Target says its acquisition of Shipt will bring same-day delivery services for groceries, essentials, home products, electronics and other items to around half its stores by early 2018. The company says it will offer same-day delivery on all products by the end of 2019."
+walmart,2017-12,"- For previous columns by the author, Reuters customers can click on [BEDDOR/]"
+walmart,2017-12,"{{20171212T231122.671+0000}}U.S. RESEARCH ROUNDUP-Adobe, Mattel, Costar, FortinetDec 12 (Reuters) - Wall Street securities analysts revised their ratings and price targets on several U.S.-listed"
+walmart,2017-12,"companies, including Adobe Systems Inc, Costar Group Inc and Fortinet Inc, on Tuesday."
+walmart,2017-12,* Adobe Systems Inc : JP Morgan cuts to neutral from overweight
+walmart,2017-12,* Costar Group Inc : JP Morgan cuts to underweight from overweight
+walmart,2017-12,* New Relic Inc : JP Morgan cuts to neutral from overweight
+walmart,2017-12,Following is a summary of research actions on U.S. companies reported by Reuters on Tuesday. Stock entries are in
+walmart,2017-12,* Adobe Systems Inc : JP Morgan cuts to neutral from overweight
+walmart,2017-12,* Advance Auto Parts Inc : Morgan Stanley raises price target to $120 from $96
+walmart,2017-12,* American Water Works Company Inc : Baird raises target price to $91 from $87
+walmart,2017-12,* AmerisourceBergen Corp : Cowen and Company raises target price to $107 from $98
+walmart,2017-12,* Anavex Life Sciences Corp : Maxim cuts price target to $14 from $15
+walmart,2017-12,* Apartment Investment : Raymond James cuts to outperform from strong buy
+walmart,2017-12,* Armstrong World Industries Inc : Jefferies starts with hold rating; $62 target
+walmart,2017-12,* Ashtead Group Plc : Jefferies raises target price to 2300p from 2200p; rating buy
+walmart,2017-12,* Automatic Data Processing Inc : JP Morgan raises target price to $118 from $114
+walmart,2017-12,* Bank of America Corp : UBS raises target price to $31 from $27
+walmart,2017-12,* Barracuda Networks Inc : JP Morgan cuts target price to $27.55 from $35
+walmart,2017-12,* Barracuda Networks Inc : JP Morgan cuts to neutral from overweight
+walmart,2017-12,* Barrick Gold Corp : Morgan Stanley raises target price to $16 from $15
+walmart,2017-12,* Blue Buffalo Pet Products Inc : JP Morgan raises target price to $32 from $28
+walmart,2017-12,* Bluebird Bio Inc : SunTrust Robinson raises price target to $223 from $163
+walmart,2017-12,* Bluegreen Vacations Corp : SunTrust Robinson starts with buy rating; target $19
+walmart,2017-12,* Blueprint Medicines Corp : Raymond James raises target price to $94 from $82
+walmart,2017-12,* Carrizo Oil & Gas Inc : Keybanc raises price target to $24 from $23; overweight
+walmart,2017-12,* Check Point Software : JP Morgan cuts to neutral from overweight
+walmart,2017-12,* Citizens Financial Group Inc : UBS raises target price to $47 from $43
+walmart,2017-12,* Columbia Sportswear Co : Goldman Sachs cuts to neutral from buy
+walmart,2017-12,* Conagra Brands Inc : JP Morgan raises target price to $42 from $37
+walmart,2017-12,* Corenergy Infrastructure Trust Inc : Stifel raises price target to $39 from $35
+walmart,2017-12,* Costar Group Inc : JP Morgan cuts to underweight from overweight
+walmart,2017-12,* Costar Group Inc : JP Morgan raises target price to $325 from $300
+walmart,2017-12,* CVR Refining LP : JP Morgan raises target price to $12.5 from $11
+walmart,2017-12,* Darden Restaurants Inc : SunTrust Robinson raises price target to $94 from $85
+walmart,2017-12,* Dean Foods Co : JP Morgan raises target price to $12 from $10
+walmart,2017-12,* Delek US Holdings Inc : JP Morgan raises target price to $33 from $28
+walmart,2017-12,* Dermira Inc : Mizuho cuts target price to $39 from $43; rating buy
+walmart,2017-12,* Envision Healthcare Corp : Raymond James cuts price target to $44 from $55
+walmart,2017-12,* Esterline Technologies Corp : Credit Suisse cuts target price to $70 from $100
+walmart,2017-12,* Fidelity National Information Services :JP Morgan cuts to neutral from overweight
+walmart,2017-12,* First Solar Inc : Morgan Stanley raises target price to $63 from $36
+walmart,2017-12,* Freeport-Mcmoran Inc : Morgan Stanley raises target price to $14 from $10
+walmart,2017-12,* Freeport-Mcmoran Inc : Morgan Stanley raises to equal-weight from underweight
+walmart,2017-12,* General Dynamics Corp : JP Morgan cuts target price to $215 from $225
+walmart,2017-12,* General Dynamics Corp : JP Morgan cuts to underweight from neutral
+walmart,2017-12,* General Mills Inc : JP Morgan raises target price to $56 from $49
+walmart,2017-12,* Global Blood Therapeutics Inc : Oppenheimer raises price target to $79 from $53
+walmart,2017-12,* Golar Lng Ltd : Cowen and Company raises target price to $44 from $41
+walmart,2017-12,* Green Dot Corp : JP Morgan raises target price to $60 from $52
+walmart,2017-12,* Hain Celestial Group Inc : JP Morgan raises target price to $39 from $38
+walmart,2017-12,* Inc Research Holdings Inc : Barclays starts with equal weight rating; $40 TP
+walmart,2017-12,* Installed Building Products Inc : Jefferies starts with hold rating; $69 target
+walmart,2017-12,* Intersect Ent Inc : Deutsche Bank raises price target to $36 from $33
+walmart,2017-12,* Invitation Homes Inc : JP Morgan reinstates with overweight rating; $26 target
+walmart,2017-12,* JetBlue Airways : Cowen and Company raises target to $24 from $22; market perform
+walmart,2017-12,* JP Morgan Chase & Co : UBS raises target price to $119 from $104
+walmart,2017-12,* Juno Therapeutics Inc : Wells Fargo cuts to market perform - Trader
+walmart,2017-12,* Kraft Heinz Co : JP Morgan raises target price to $87 from $84
+walmart,2017-12,* Lockheed Martin Corp : JP Morgan raises target price to $340 from $339
+walmart,2017-12,* Marathon Petroleum Corp : JP Morgan raises target price to $73 from $66
+walmart,2017-12,* Mattel Inc : Monness Crespi Hardt cuts to neutral from buy
+walmart,2017-12,* McCormick & Company Inc : JP Morgan raises target price to $101 from $100
+walmart,2017-12,* Michaels Companies Inc : Deutsche Bank cuts to hold from buy
+walmart,2017-12,* Mohawk Industries Inc : Jefferies starts with buy rating; $330 price target
+walmart,2017-12,* MoneyGram International Inc : JP Morgan cuts target price to $13 from $18
+walmart,2017-12,* MoneyGram International Inc : JP Morgan cuts to underweight from neutral
+walmart,2017-12,* Monotype Imaging Holdings Inc : JP Morgan cuts to underweight from neutral
+walmart,2017-12,* New Relic Inc : JP Morgan cuts to neutral from overweight
+walmart,2017-12,* Newmont Mining Corp : Morgan Stanley raises target price to $37 from $33
+walmart,2017-12,* Nextera Energy Partners : Morgan Stanley raises target price to $47 from $43
+walmart,2017-12,* Nextera Energy Partners : Morgan Stanley raises to overweight from equal-weight
+walmart,2017-12,* Northrop Grumman Corp : JP Morgan raises target price to $355 from $317
+walmart,2017-12,* Northrop Grumman Corp : JP Morgan raises to overweight from neutral
+walmart,2017-12,* Oasis Petroleum Inc : Morgan Stanley raises price target to $11 from $9
+walmart,2017-12,* Oasis Petroleum Inc : RBC raises target price to $14 from $13; rating outperform
+walmart,2017-12,* Oasis Petroleum Inc : SunTrust Robinson cuts to hold from buy
+walmart,2017-12,* Ollie's Bargain Outlet Holdings Inc : Citigroup raises target to $42 from $39
+walmart,2017-12,* Pattern Energy Group Inc : Morgan Stanley cuts target price to $25 from $33
+walmart,2017-12,* Pattern Energy Group Inc : Morgan Stanley cuts to equal-weight from overweight
+walmart,2017-12,* PayPal Holdings Inc : JP Morgan raises target price to $81 from $69
+walmart,2017-12,* PBF Energy Inc : JP Morgan cuts to underweight from neutral
+walmart,2017-12,* Pinnacle Foods Inc : JP Morgan raises target price to $63 from $61
+walmart,2017-12,* PNC Financial Services Group Inc : UBS raises target price to $154 from $135
+walmart,2017-12,* Ramco-Gershenson Properties Trust : Deutsche Bank cuts target to $15 from $16
+walmart,2017-12,* SailPoint Technologies:Morgan Stanley starts with equal weight rating;target $16
+walmart,2017-12,* SC Pharmaceuticals Inc : Jefferies starts with buy rating; $23 price target
+walmart,2017-12,* Simon Property Group Inc : Citigroup cuts target price to $194 from $202
+walmart,2017-12,* Spark Therapeutics Inc : Leerink cuts to market perform from outperform
+walmart,2017-12,* Spark Therapeutics Inc : Raymond James cuts target price to $75 from $96
+walmart,2017-12,* Spirit AeroSystems Holdings Inc : JP Morgan raises target price to $91 from $85
+walmart,2017-12,* SS&C Technologies Holdings : JP Morgan cuts to neutral from overweight
+walmart,2017-12,* Stitch Fix Inc : Barclays starts with equal weight rating; $26 price target
+walmart,2017-12,* Stitch Fix Inc : JP Morgan starts with neutral rating; $25 price target
+walmart,2017-12,* Stitch Fix Inc : RBC starts with outperform rating; target price $29
+walmart,2017-12,* Teck Resources Ltd : Morgan Stanley raises target price to $23 from $20
+walmart,2017-12,* Transdigm Group Inc : JP Morgan cuts target price to $290 from $305
+walmart,2017-12,* Transdigm Group Inc : JP Morgan cuts to underweight from neutral
+walmart,2017-12,* Trex Company Inc : SunTrust Robinson raises price target to $100 from $95
+walmart,2017-12,* Triplepoint Venture Growth BDC Corp : Ladenburg Thalmann starts with neutral
+walmart,2017-12,* Universal Health Services Inc : Citigroup raises target price to $132 from $114
+walmart,2017-12,* Universal Health Services Inc : Citigroup raises to buy from neutral
+walmart,2017-12,* Urban Outfitters Inc : SunTrust Robinson raises price target to $35 from $30
+walmart,2017-12,* Urban Outfitters Inc : Wells Fargo raises price target to $32 from $28
+walmart,2017-12,* Valero Energy Corp : JP Morgan raises target price to $83 from $78
+walmart,2017-12,* Virtusa Corp : Cowen and Company raises target price to $55 from $47
+walmart,2017-12,* Warrior Met Coal : Morgan Stanley cuts target price to $21 from $22
+walmart,2017-12,* Web.com Group Inc : JP Morgan cuts to neutral from overweight
+walmart,2017-12,* Welltower Inc : Mizuho cuts target price to $67 from $71; rating neutral
+walmart,2017-12,* Western Union Co : JP Morgan cuts target price to $21 from $22
+walmart,2017-12,* WNS (Holdings) Ltd : JP Morgan raises target price to $46 from $45
+walmart,2017-12,* Zayo Group Holdings Inc : Morgan Stanley raises target price to $40 from $33
+walmart,2017-12,* Zayo Group Holdings Inc : Morgan Stanley raises to overweight from equal-weight
+walmart,2017-12,"{{20171212T180017.108+0000}}UPDATE 1-PepsiCo makes biggest public pre-order of Tesla Semis: 100 trucks(Updates pre-order tally, paragraph 6; adds details on other electric trucks, paragraph 4)"
+walmart,2017-12,"SEATTLE, Dec 12 (Reuters) - PepsiCo Inc has reserved 100 of Tesla Inc's new electric Semi trucks, the largest known order of the big rig, as the maker of Mountain Dew soda and Doritos chips seeks to reduce fuel costs and fleet emissions, a company executive said on Tuesday."
+walmart,2017-12,"Tesla has been trying to convince the trucking community that it can build an affordable electric big rig with the range and cargo capacity to compete with relatively low-cost, time-tested diesel trucks."
+walmart,2017-12,"Several transportation firms are holding off on the Tesla for now, citing uncertainty over the time it takes to recharge compared to a diesel fill-up, range, and payload capabilities and how the market for electric commercial vehicles will develop. [nL3N1NN3V7] [nL1N1NM1N4]"
+walmart,2017-12,"About 260,000 heavy-duty Class-8 trucks are produced in North America annually, according to FTR, an industry economics research firm."
+walmart,2017-12,"Navistar International Corp and Volkswagen AG's Truck and Bus are working to launch an electric medium duty truck by late 2019, while rival Daimler AG has delivered the first of a smaller range of electric trucks to customers in New York. [nL2N1LV11Y]"
+walmart,2017-12,"PepsiCo's 100 trucks add to orders by more than a dozen companies such as Wal-Mart Stores Inc , fleet operator J.B. Hunt Transport Services Inc , and food service distribution company Sysco Corp . Tesla has at least 285 truck reservations in hand, according to a Reuters tally."
+walmart,2017-12,PepsiCo intends to deploy Tesla Semis for shipments of snack foods and beverages between manufacturing and distribution facilities and direct to retailers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+walmart,2017-12,"The semi-trucks will complement PepsiCo's U.S. fleet of nearly 10,000 big rigs and are a key part of its plan to reduce greenhouse gas emissions across its supply chain by a total of at least 20 percent by 2030, said Mike O'Connell, senior director of North American supply chain for PepsiCo subsidiary Frito-Lay."
+walmart,2017-12,"PepsiCo is analyzing what routes are best for its Tesla trucks but sees a wide range of uses for lighter loads like snacks or shorter shipments of heavier beverages, O'Connell said."
+walmart,2017-12,Tesla declined to comment on its customers and potential customers to date.
+walmart,2017-12,Tesla unveiled the Semi last month and expects the truck to be in production by 2019.
+walmart,2017-12,"O'Connell declined to say how much PepsiCo paid to reserve its trucks, when it placed the order, or whether it plans to lease the trucks or buy them outright. Tesla initially asked $5,000 per truck for pre-orders but that amount has since risen to about $20,000."
+walmart,2017-12,"{{20171212T180015.000+0000}}UPDATE 1-PepsiCo makes biggest public pre-order of Tesla Semis: 100 trucksSEATTLE, Dec 12 (Reuters)"
+walmart,2017-12,"(Updates pre-order tally, paragraph 6; adds details on other electric trucks, paragraph 4)"
+walmart,2017-12,"SEATTLE, Dec 12 (Reuters) - PepsiCo Inc has reserved 100 of Tesla Inc's new electric Semi trucks, the largest known order of the big rig, as the maker of Mountain Dew soda and Doritos chips seeks to reduce fuel costs and fleet emissions, a company executive said on Tuesday."
+walmart,2017-12,"Tesla has been trying to convince the trucking community that it can build an affordable electric big rig with the range and cargo capacity to compete with relatively low-cost, time-tested diesel trucks."
+walmart,2017-12,"Several transportation firms are holding off on the Tesla for now, citing uncertainty over the time it takes to recharge compared to a diesel fill-up, range, and payload capabilities and how the market for electric commercial vehicles will develop. [nL3N1NN3V7] [nL1N1NM1N4]"
+walmart,2017-12,"About 260,000 heavy-duty Class-8 trucks are produced in North America annually, according to FTR, an industry economics research firm."
+walmart,2017-12,"Navistar International Corp and Volkswagen AG's Truck and Bus are working to launch an electric medium duty truck by late 2019, while rival Daimler AG has delivered the first of a smaller range of electric trucks to customers in New York. [nL2N1LV11Y]"
+walmart,2017-12,"PepsiCo's 100 trucks add to orders by more than a dozen companies such as Wal-Mart Stores Inc , fleet operator J.B. Hunt Transport Services Inc , and food service distribution company Sysco Corp . Tesla has at least 285 truck reservations in hand, according to a Reuters tally."
+walmart,2017-12,PepsiCo intends to deploy Tesla Semis for shipments of snack foods and beverages between manufacturing and distribution facilities and direct to retailers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+walmart,2017-12,"The semi-trucks will complement PepsiCo's U.S. fleet of nearly 10,000 big rigs and are a key part of its plan to reduce greenhouse gas emissions across its supply chain by a total of at least 20 percent by 2030, said Mike O'Connell, senior director of North American supply chain for PepsiCo subsidiary Frito-Lay."
+walmart,2017-12,"PepsiCo is analyzing what routes are best for its Tesla trucks but sees a wide range of uses for lighter loads like snacks or shorter shipments of heavier beverages, O'Connell said."
+walmart,2017-12,Tesla declined to comment on its customers and potential customers to date.
+walmart,2017-12,Tesla unveiled the Semi last month and expects the truck to be in production by 2019.
+walmart,2017-12,"O'Connell declined to say how much PepsiCo paid to reserve its trucks, when it placed the order, or whether it plans to lease the trucks or buy them outright. Tesla initially asked $5,000 per truck for pre-orders but that amount has since risen to about $20,000."
+walmart,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Tesla, Boeing, Verizon, Edison International, Fairmount Santrol - Reuters News"
+walmart,2017-12,"{{20171212T164320.091+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Tesla, Boeing, Verizon, Edison International, Fairmount Santrol* Eikon search string for individual stock moves: [STXBZ]"
+walmart,2017-12,The S&P 500 and the Dow advanced in late morning trade on Tuesday as Boeing's
+walmart,2017-12,shares hit a record and bank stocks rose ahead of a near certain move by the
+walmart,2017-12,"At 11:29 ET, the Dow Jones Industrial Average <.DJI> was up 0.48 percent at"
+walmart,2017-12,BUZZ-Boeing Co: Lifts dividend and announces $18 bln share buyback [nL3N1OB593]
+walmart,2017-12,"BUZZ-Boeing flies to record on hiked dividend, stock buyback [nL3N1OC49Z]"
+walmart,2017-12,BUZZ-Energy stocks gain with crude prices after UK pipeline shuts [nL3N1OC3UE]
+walmart,2017-12,BUZZ-Disney in lead for Fox assets after Comcast pulls bid [nL3N1OC46B]
+walmart,2017-12,"UPDATE 2-Comcast drops bid for Fox assets, leaving Disney in pole position"
+walmart,2017-12,"BRIEF-Fox, Disney On 'glide path' for Thursday deal announcement - CNBC"
+walmart,2017-12,BUZZ-Edison plunges on probe into SCE role in California fires [nL3N1OC4E3]
+walmart,2017-12,"BUZZ-Oasis Petroleum: Buys Delaware Basin acreage, prices stock offering"
+walmart,2017-12,UPDATE 1-Oasis Petroleum adds more acreage in Delaware Basin for $946 mln
+walmart,2017-12,BUZZ-Mylan: Top pick for Guggenheim among generic drug makers [nL3N1OC3PC]
+walmart,2017-12,BUZZ-GlycoMimetics: Positive mid-stage data from cancer drug boosts stock
+walmart,2017-12,BUZZ-Iron Mountain: Down on deal to buy IO Data's U.S. operations [nL3N1OC3TJ]
+walmart,2017-12,UPDATE 1-Iron Mountain to buy IO Data's US operations for $1.32 bln
+walmart,2017-12,BUZZ-Omeros Corp: Gets FDA nod for use of eye drug in children [nL3N1OC411]
+walmart,2017-12,BUZZ-Xunlei Inc: Elects Xiaomi co-founder as new board chairman [nL3N1OC422]
+walmart,2017-12,BUZZ-NCI Building Systems: Shares fall as top holder cuts stake [nL1N1OC0QX]
+walmart,2017-12,"BUZZ-GS raises Activision Blizzard, takes EA off conviction list [nL3N1OC42E]"
+walmart,2017-12,"BUZZ-Smart Sand Inc: Falls on mixed shelf, secondary stock offerings"
+walmart,2017-12,BUZZ-Fairmount Santrol: To merge with Unimin in cash-and-stock deal
+walmart,2017-12,Unimin to buy shale sand supplier Fairmount in cash-and-stock deal [nL1N1OC0YE]
+walmart,2017-12,BUZZ-Dextera Surgical: Hits record low on filing for Chapter 11 [nL3N1OC48D]
+walmart,2017-12,BUZZ-Tel-Instrument: Hits more than two-year high on new orders [nL3N1OC4CS]
+walmart,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Walt Disney, Boeing, Fairmount Santrol, Acer Therapeutics - Reuters News"
+walmart,2017-12,"{{20171212T151553.760+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Walt Disney, Boeing, Fairmount Santrol, Acer Therapeutics* Eikon search string for individual stock moves: [STXBZ]"
+walmart,2017-12,"The Dow Jones Industrial Average edged higher on Tuesday, with a 3 percent jump"
+walmart,2017-12,"in shares of Boeing and rise in financial stocks, while losses in technology"
+walmart,2017-12,"At 10:02 ET, the Dow Jones Industrial Average <.DJI> was up 0.37 percent at"
+walmart,2017-12,BUZZ-Energy stocks gain with crude prices after UK pipeline shuts [nL3N1OC3UE]
+walmart,2017-12,"BUZZ-Wal-Mart: Morgan Stanley constructive, but shy of bull case [nL3N1OC3PT]"
+walmart,2017-12,BUZZ-Disney in lead for Fox assets after Comcast pulls bid [nL3N1OC46B]
+walmart,2017-12,"UPDATE 2-Comcast drops bid for Fox assets, leaving Disney in pole position"
+walmart,2017-12,"BRIEF-Fox, Disney On 'glide path' for Thursday deal announcement - CNBC"
+walmart,2017-12,BUZZ-Boeing Co: Lifts dividend and announces $18 bln share buyback [nL3N1OB593]
+walmart,2017-12,"BUZZ-Oasis Petroleum: Buys Delaware Basin acreage, prices stock offering"
+walmart,2017-12,UPDATE 1-Oasis Petroleum adds more acreage in Delaware Basin for $946 mln
+walmart,2017-12,BUZZ-Mylan: Top pick for Guggenheim among generic drug makers [nL3N1OC3PC]
+walmart,2017-12,BUZZ-GlycoMimetics: Positive mid-stage data from cancer drug boosts stock
+walmart,2017-12,BUZZ-Iron Mountain: Down on deal to buy IO Data's U.S. operations [nL3N1OC3TJ]
+walmart,2017-12,UPDATE 1-Iron Mountain to buy IO Data's US operations for $1.32 bln
+walmart,2017-12,BUZZ-Omeros Corp: Gets FDA nod for use of eye drug in children [nL3N1OC411]
+walmart,2017-12,BUZZ-Xunlei Inc: Elects Xiaomi co-founder as new board chairman [nL3N1OC422]
+walmart,2017-12,BUZZ-NCI Building Systems: Shares fall as top holder cuts stake [nL1N1OC0QX]
+walmart,2017-12,"BUZZ-GS raises Activision Blizzard, takes EA off conviction list [nL3N1OC42E]"
+walmart,2017-12,"BUZZ-Smart Sand Inc: Falls on mixed shelf, secondary stock offerings"
+walmart,2017-12,BUZZ-Fairmount Santrol: To merge with Unimin in cash-and-stock deal
+walmart,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Energy stocks, 3M, Boeing, Repros Therapeutics, Marathon Patent - Reuters News"
+walmart,2017-12,"{{20171212T141523.628+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Energy stocks, 3M, Boeing, Repros Therapeutics, Marathon Patent* Eikon search string for individual stock moves: [STXBZ]"
+walmart,2017-12,"The Dow Jones Industrial Average was set to open higher on Tuesday on gains from oil-related stocks and Boeing, while the S&P 500 and the Nasdaq futures pointed to a flat opening ahead of the Federal Reserve's policy meeting. [.N] [.N/P]"
+walmart,2017-12,{{20171212T134441.781+0000}}Irish start-up helps local shops compete with online giantsBy Jamillah Knowles
+walmart,2017-12,"LONDON, Dec 12 (Reuters) - Pointy, a Dublin-based firm with Silicon Valley backers, is solving the problem of how to make it easier for people to find products they want close to home, as shopping online gets easier but locating what you want locally remains elusive."
+walmart,2017-12,"""Someone could just walk down the street and pick (an item) up, but that information is just frustratingly difficult to find,"" Pointy Co-Founder and Chief Executive Mark Cummins said."
+walmart,2017-12,"""Retailers are losing out and those sales are going away to Amazon or they're going away to even a larger brick-and-mortar retailer,"" he said in a video-link interview from Dublin, where Cummins estimates that 14 percent of the city's retailers have adopted the Pointy service."
+walmart,2017-12,"Only a handful of the world's largest retailers such as Wal-Mart Stores offer consumers the ability to search local store shelves online, after massive investments in inventory stocking systems to provide this data."
+walmart,2017-12,"Pointy's device plugs into barcode scanners at retail checkouts and captures product data when consumers shop, creating a map of what is selling from the store's inventory."
+walmart,2017-12,This allows retailers to feature what they have on their shelves in local online search results. Pointy also creates and hosts websites for businesses to feature what they have in stock.
+walmart,2017-12,"""Pointy creates the data feed for the store, which the retailer can then use to integrate with other services such as Google Shopping,"" Cummins said."
+walmart,2017-12,Three-year-old Pointy has moved into individual stores and small chains across the United States and this month began expanding into Canada from its Dublin base.
+walmart,2017-12,"It is also working on greater integration with Google, Cummins said, building on ties he has after the Silicon Valley search giant made its first ever UK acquisition in 2010 by buying his machine vision start-up Plink."
+walmart,2017-12,"Pointy aims to help rival national chains, or even the smallest retailers, compete with tools to draw online consumers into their stores."
+walmart,2017-12,"In September, the company said it had raised $6 million in funding from tech entrepreneurs including Lars Rasmussen, a co-creator of Google Maps, Matt Mullenweg, who developed WordPress blogging software and Taavet Hinrikus, co-founder of money transfer service Transferwise."
+walmart,2017-12,"{{20171212T122820.663+0000}}BUZZ-Wal-Mart: Morgan Stanley constructive, but shy of bull case** Morgan Stanley stays ""equal-weight"" on Wal-Mart , raises PT to $100 from $92, after meeting the retailer's management"
+walmart,2017-12,"** ""Tempering our enthusiasm are WMT's modest 5 pct earnings growth relative to its 20-21x multiple and the possibility that same-store sales improvement levels off in 2018,"" MS says"
+walmart,2017-12,"** MS says WMT will be among the ""fewer but bigger winners"" in retail, calls it among the best positioned omni-channel players in the world"
+walmart,2017-12,"** Says gross margins may recede over time via price investments, but gross profit dollar growth and cost discipline will reignite the productivity loop while protecting margins"
+walmart,2017-12,"** MS says Wal-Mart can offer a superior value than Amazon Prime given its mentality not to be beaten on price and grocery/fresh offering, supply chain, jet.com capabilities"
+walmart,2017-12,"** WMT could grind higher, says MS, but may tread water as it digests recent gains (up 40 pct YTD vs 18.8 pct rise in S&P 500 and 9.3 pct gain in S&P consumer staples <.SPLRCS>)"
+walmart,2017-12,{{20171212T120004.205+0000}}PepsiCo makes biggest public pre-order of Tesla Semis: 100 trucksBy Eric M. Johnson
+walmart,2017-12,"SEATTLE, Dec 12 (Reuters) - PepsiCo Inc has reserved 100 of Tesla Inc's new electric Semi trucks, the largest-known order of the big rig, as the maker of Mountain Dew soda and Doritos chips seeks to reduce fuel costs and fleet emissions, a company executive said on Tuesday."
+walmart,2017-12,"Tesla has been trying to convince the trucking community that it can build an affordable electric big rig with the range and cargo capacity to compete with relatively low-cost, time-tested diesel trucks."
+walmart,2017-12,"Early orders reflect uncertainty over how the market for electric commercial vehicles will develop. About 260,000 heavy-duty Class-8 trucks are produced in North America annually, according to FTR, an industry economics research firm."
+walmart,2017-12,"PepsiCo's 100 trucks add to orders by more than a dozen companies such as Wal-Mart Stores Inc , fleet operator J.B. Hunt Transport Services Inc , and foodservice distribution company Sysco Corp . Reservations to date are at 267 Tesla trucks, according to a Reuters tally. [nL3N1NN3V7]"
+walmart,2017-12,PepsiCo intends to deploy Tesla Semis for shipments of snack foods and beverages between manufacturing and distribution facilities and direct to retailers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+walmart,2017-12,"The semi-trucks will complement PepsiCo's U.S. fleet of nearly 10,000 big rigs and are a key part of its plan to reduce greenhouse gas emissions across its supply chain by a total of at least 20 percent by 2030, said Mike O'Connell, the senior director of North American supply chain for PepsiCo subsidiary Frito-Lay."
+walmart,2017-12,"PepsiCo is analyzing what routes are best for its Tesla trucks in North America but sees a wide range of uses for lighter loads like snacks or shorter shipments of heavier beverages, O'Connell said."
+walmart,2017-12,Tesla unveiled the Semi last month and expects the truck to be in production by 2019.
+walmart,2017-12,"O'Connell declined to say how much PepsiCo paid to reserve its trucks, when it placed its pre-orders, or whether it plans to lease the trucks or buy them outright. Tesla initially asked $5,000 per truck for pre-orders but that amount has since risen to about $20,000."
+walmart,2017-12,{{20171212T101650.475+0000}}UPDATE 2-UK grocery inflation hits highest level since 2013 -Kantar Worldpanel* Grocery inflation hits 3.6 pct in 12 weeks to Dec. 3
+walmart,2017-12,"highest level since 2013 over the last quarter, led by price"
+walmart,2017-12,"rises in products such as butter, fish and fresh pork, industry"
+walmart,2017-12,"Prices were falling in only a few categories, such as fresh"
+walmart,2017-12,"""We expect inflation will peak in this period or the next"
+walmart,2017-12,and will drop next year once the (lagged) FX impact starts to
+walmart,2017-12,"rose to its highest level in nearly six years in November,"
+walmart,2017-12,3.1 percent year on year over the 12 weeks to Dec. 3 - below the
+walmart,2017-12,All of the big four grocers continued to lose market share
+walmart,2017-12,Last week research group IGD forecast the UK grocery market
+walmart,2017-12,"{{20171212T084543.000+0000}}UPDATE 2-UK grocery inflation hits highest level since 2013 -Kantar WorldpanelLONDON, Dec 12 (Reuters)"
+walmart,2017-12,"highest level since 2013 over the last quarter, led by price"
+walmart,2017-12,"rises in products such as butter, fish and fresh pork, industry"
+walmart,2017-12,"Prices were falling in only a few categories, such as fresh"
+walmart,2017-12,"""We expect inflation will peak in this period or the next"
+walmart,2017-12,and will drop next year once the (lagged) FX impact starts to
+walmart,2017-12,"rose to its highest level in nearly six years in November,"
+walmart,2017-12,3.1 percent year on year over the 12 weeks to Dec. 3 - below the
+walmart,2017-12,All of the big four grocers continued to lose market share
+walmart,2017-12,Last week research group IGD forecast the UK grocery market
+walmart,2017-12,"{{20171212T081653.654+0000}}UK grocery inflation hits highest level since 2013 - Kantar WorldpanelLONDON, Dec 12 (Reuters) - British grocery inflation was 3.6 percent in the 12 weeks to Dec. 3, its highest level since 2013, industry data showed on Tuesday."
+walmart,2017-12,"Market researcher Kantar Worldpanel said prices were rising fastest in products such as butter, fish and fresh pork and were falling in only a few categories, including fresh poultry and crisps."
+walmart,2017-12,Market leader Tesco was the best performing of Britain's big four supermarkets over the 12 week period.
+walmart,2017-12,"Its sales rose 2.5 percent, ahead of growth of 2.0 percent, 1.4 percent and 1.2 percent at Sainsbury's , Morrisons and Asda respectively."
+walmart,2017-12,"However, the growth of the big four continued to be dwarfed by that of the German discounters. Aldi's [ALDIEI.UL] sales increased 15.1 percent, while Lidl's were up 14.5 percent."
+walmart,2017-12,{{20171208T205203.621+0000}}UPDATE 1-Retailers' Dec. imports to rise on last-minute restocking -NRF(Adds comment from AlixPartners' director)
+walmart,2017-12,"Dec 8 (Reuters) - Imports by retailers are estimated to rise 1.5 percent in December, indicating that companies are expecting strong sales through the holiday season, according to industry group National Retail Federation (NRF)."
+walmart,2017-12,"Major U.S. retail container ports are expected to handle 1.6 million TEUs in December, according to the NRF's monthly Global Port Tracker report. A TEU is a 20-foot-long cargo container or its equivalent."
+walmart,2017-12,"""Retailers are doing last-minute restocking as consumers head toward the finish line of the shopping season,"" Jonathan Gold, NRF's vice president for supply chain and customs policy, said."
+walmart,2017-12,"More than 174 million U.S. shoppers made purchases over the Thanksgiving weekend and Cyber Monday, the NRF said last week, beating the industry group's expectations and signaling a strong start to the holiday quarter. [nL3N1NY4XJ]"
+walmart,2017-12,"""With tax cuts that will leave more money in shoppers' pockets in the headlines and consumer confidence high, all signs are that this has been a strong holiday season,"" Gold said."
+walmart,2017-12,"Most retailers, including Wal-Mart Stores Inc and Macy's Inc , headed into the holiday season with leaner inventories than previous years as they try to reduce the risk of ending the holidays with huge amounts of leftover inventory."
+walmart,2017-12,"The core reason for the expected rise in imports is more an indicator of optimism for 2018 as companies try to better position their inventories in an improving economy, said Bill Lewis, director at consulting firm AlixPartners."
+walmart,2017-12,"Ports covered by the Global Port Tracker handled 5.9 percent more TEUs in October from last year, while for November those were estimated to be down 0.3 percent."
+walmart,2017-12,"{{20171208T180113.635+0000}}Retailers' December imports to rise on last-minute restocking-NRFDec 8 (Reuters) - Imports by retailers are forecast to rise 1.5 percent in December year-over-year, indicating that companies are expecting strong sales through the holiday season, according to industry group National Retail Federation (NRF)."
+walmart,2017-12,"Major U.S. retail container ports are expected to handle 1.6 million Twenty-Foot Equivalent Units (TEU) in December, according to the NRF's monthly Global Port Tracker report. A TEU is a 20-foot-long cargo container or its equivalent."
+walmart,2017-12,"""Retailers are doing last-minute restocking as consumers head toward the finish line of the shopping season,"" Jonathan Gold, NRF's vice president for supply chain and customs policy, said."
+walmart,2017-12,"More than 174 million U.S. shoppers made purchases over the Thanksgiving weekend and Cyber Monday, the NRF said last week, beating the industry group's expectations and signaling a strong start to the holiday quarter. [nL3N1NY4XJ]"
+walmart,2017-12,"""With tax cuts that will leave more money in shoppers' pockets in the headlines and consumer confidence high, all signs are that this has been a strong holiday season,"" Gold said."
+walmart,2017-12,"Most retailers, including Wal-Mart Stores Inc and Macy's Inc , headed into the holiday season with leaner inventories than previous years as they try to reduce the risk of ending the holidays with huge amounts of leftover inventory."
+walmart,2017-12,"Ports covered by the Global Port Tracker handled 5.9 percent more TEUs in October from last year, while for November those were estimated to be down 0.3 percent."
+walmart,2017-12,"-- Wal-Mart Stores Inc and JD.com Inc plan to expand their cooperation in China to 80 stores, the 21st Century Business Herald newspaper reported, citing sources familiar with the situation. The two retailers currently cooperate on stores in six cities, including Shanghai and Shenzhen, it said."
+walmart,2017-12,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+walmart,2017-12,{{20171208T004216.239+0000}}PRESS DIGEST- British Business - Dec. 8Dec 8 (Reuters) - The following are the top stories on the business pages of British newspapers. Reuters has not verified these stories and does not vouch for their accuracy.
+walmart,2017-12,{{20171207T222528.544+0000}}BRIEF-Walmart Files For Potential Debt Shelf Size Undisclosed - SEC FilingDec 7 (Reuters) - Wal-Mart Stores Inc :
+walmart,2017-12,"{{20171207T204504.170+0000}}UPDATE 4-Budweiser maker Anheuser-Busch reserves 40 Tesla electric trucks(Adds new tally of Tesla orders, paragraph 5; adds details on order, paragraph 9)"
+walmart,2017-12,"Dec 7 (Reuters) - Budweiser beer maker Anheuser-Busch has reserved 40 Tesla Inc all-electric Semi trucks as it seeks to reduce fuel costs and vehicle emissions, the brewer said on Thursday."
+walmart,2017-12,"It was one of the largest publicly announced orders Tesla has received for its electric trucks, which are scheduled to be in production by 2019."
+walmart,2017-12,"""At Anheuser-Busch, we are constantly seeking new ways to make our supply chain more sustainable, efficient, and innovative,"" said James Sembrot, senior director of logistics strategy. ""This investment in Tesla semi-trucks helps us achieve these goals while improving road safety and lowering our environmental impact."""
+walmart,2017-12,The U.S. subsidiary of Anheuser-Busch InBev NV plans to use the trucks for shipments to wholesalers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+walmart,2017-12,The Semi is Tesla's next step to move the economy away from fossil fuels. Limited early orders have reflected uncertainty about the market for electric commercial vehicles due to their limited range compared with diesel vehicles.
+walmart,2017-12,"A range of trucking, grocery, and retail companies have reserved at least 117 Tesla Semi trucks, according to a Reuters tally, including Anheuser-Busch's 40. That number could be higher because fleet operator J.B. Hunt Transport Services Inc said it reserved multiple Semis without providing a specific number."
+walmart,2017-12,"Last month, Tesla received orders for its electric trucks from high-profile companies such as Wal-Mart Stores Inc . [nL3N1NN3V7]"
+walmart,2017-12,"Germany-based Deutsche Post AG's DHL and Fortigo Freight Services Inc, one of Canada's largest fleet management companies, also pre-ordered Tesla's electric trucks last month to test on limited routes. [nL1N1NY1J0]"
+walmart,2017-12,"Lithuania-based transport company Girteka Logistics reserved one Tesla Semi, the company said."
+walmart,2017-12,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+walmart,2017-12,"(Adds new tally of Tesla orders, paragraph 5; adds details on order, paragraph 9)"
+walmart,2017-12,"Dec 7 (Reuters) - Budweiser beer maker Anheuser-Busch has reserved 40 Tesla Inc all-electric Semi trucks as it seeks to reduce fuel costs and vehicle emissions, the brewer said on Thursday."
+walmart,2017-12,"It was one of the largest publicly announced orders Tesla has received for its electric trucks, which are scheduled to be in production by 2019."
+walmart,2017-12,"""At Anheuser-Busch, we are constantly seeking new ways to make our supply chain more sustainable, efficient, and innovative,"" said James Sembrot, senior director of logistics strategy. ""This investment in Tesla semi-trucks helps us achieve these goals while improving road safety and lowering our environmental impact."""
+walmart,2017-12,The U.S. subsidiary of Anheuser-Busch InBev NV plans to use the trucks for shipments to wholesalers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+walmart,2017-12,The Semi is Tesla's next step to move the economy away from fossil fuels. Limited early orders have reflected uncertainty about the market for electric commercial vehicles due to their limited range compared with diesel vehicles.
+walmart,2017-12,"A range of trucking, grocery, and retail companies have reserved at least 117 Tesla Semi trucks, according to a Reuters tally, including Anheuser-Busch's 40. That number could be higher because fleet operator J.B. Hunt Transport Services Inc said it reserved multiple Semis without providing a specific number."
+walmart,2017-12,"Last month, Tesla received orders for its electric trucks from high-profile companies such as Wal-Mart Stores Inc . [nL3N1NN3V7]"
+walmart,2017-12,"Germany-based Deutsche Post AG's DHL and Fortigo Freight Services Inc, one of Canada's largest fleet management companies, also pre-ordered Tesla's electric trucks last month to test on limited routes. [nL1N1NY1J0]"
+walmart,2017-12,"Lithuania-based transport company Girteka Logistics reserved one Tesla Semi, the company said."
+walmart,2017-12,{{20171207T162518.197+0000}}UPDATE 1-Budweiser maker Anheuser-Busch reserves 40 Tesla electric trucks-WSJ(Adds Tesla declining to comment)
+walmart,2017-12,"Dec 7 (Reuters) - Anheuser-Busch, which makes Budweiser beers, has reserved 40 of Tesla Inc's all-electric Semi trucks as it seeks to reduce fuel costs and vehicle emissions, the Wall Street Journal reported on Thursday."
+walmart,2017-12,"This could the biggest order Tesla has received for its electric trucks, which are scheduled for rollout in 2019."
+walmart,2017-12,"The brewing company has not finalized yet whether to buy the vehicles outright or lease them, James Sembrot, the company's senior director of logistics strategy told the Journal."
+walmart,2017-12,"Last month, Tesla received orders for its electric trucks from high profile companies such as Wal-Mart Stores Inc and fleet operator J.B. Hunt . [nL3N1NN3V7]"
+walmart,2017-12,"Germany-based Deutsche Post AG's DHL and Fortigo Freight Services Inc, one of Canada's largest fleet management companies, also pre-ordered Tesla's electric trucks last month to test on limited routes. [nL1N1NY1J0]"
+walmart,2017-12,"Anheuser-Busch did not immediately respond to a request for comment, while Tesla declined to comment."
+walmart,2017-12,"{{20171207T133440.143+0000}}Budweiser maker Anheuser-Busch reserves 40 Tesla electric trucks -WSJDec 7 (Reuters) - Anheuser-Busch, which makes Budweiser beers, has reserved 40 of Tesla Inc's all-electric Semi trucks as it seeks to reduce fuel costs and vehicle emissions, the Wall Street Journal reported on Thursday."
+walmart,2017-12,"This could the biggest order Tesla has received for its electric trucks, which are scheduled for rollout in 2019."
+walmart,2017-12,"The brewing company has not finalized yet whether to buy the vehicles outright or lease them, James Sembrot, the company's senior director of logistics strategy told the Journal."
+walmart,2017-12,"Last month, Tesla received orders for its electric trucks from high profile companies such as Wal-Mart Stores Inc and fleet operator J.B. Hunt . [nL3N1NN3V7]"
+walmart,2017-12,"Germany-based Deutsche Post AG's DHL and Fortigo Freight Services Inc, one of Canada's largest fleet management companies, also pre-ordered Tesla's electric trucks last month to test on limited routes. [nL1N1NY1J0] Anheuser-Busch and Tesla were not immediately available for comment."
+walmart,2017-12,{{20171207T055045.223+0000}}PRESS DIGEST - Wall Street Journal - Dec 7Dec 7 (Reuters) - The following are the top stories in the Wall Street Journal. Reuters has not verified these stories and does not vouch for their accuracy.
+walmart,2017-12,{{20171206T222651.594+0000}}Surging online orders slow Wal-Mart delivery networkBy Eric M. Johnson and Nandita Bose
+walmart,2017-12,"SEATTLE/CHICAGO, Dec 6 (Reuters) - Wal-Mart Stores Inc said on Wednesday that soaring online purchases have caused delays in its distribution network, reflecting the challenge retailers and delivery services face in handling strong peak-season ecommerce demand."
+walmart,2017-12,"""The week of Thanksgiving is an incredibly busy time for all of retail,"" ""With massive volume going through our system, there were some orders that took extra time, much like other major e-commerce sites,"" Wal-Mart spokeswoman Danit Marquardt said of the week of Thanksgiving."
+walmart,2017-12,"""A vast majority of orders are shipping on time now,"" she added."
+walmart,2017-12,"The backlog reflects the degree to which Wal-Mart, United Parcel Service and other companies struggled to handle peak ecommerce volumes despite months of preparation and major investments to expand and upgrade distribution facilities."
+walmart,2017-12,"""This shows they've got more volume and they are not hitting some delivery windows, but it is not going to affect anyone's Christmas,"" said Satish Jindel, President of ShipMatrix, Inc, which analyzes shipping data."
+walmart,2017-12,Wal-Mart declined to comment on the number of customer orders impacted.
+walmart,2017-12,"One senior FedEx employee said Wal-Mart's national distribution network had fallen behind in processing some four million customer orders, though he declined to elaborate on how this impacted FedEx deliveries."
+walmart,2017-12,"""The FedEx networks are performing as designed,"" the spokesman, Glen Brandow, said."
+walmart,2017-12,"UPS, which declined to comment on Wal-Mart's backlog, has also unveiled a number of surcharges in recent years, seen as a way to manage the higher costs associated with e-commerce. [nL2N1N10LS]"
+walmart,2017-12,"Adobe Analytics forecasts a record $107.4 billion holiday season for online orders, the first ever to cross the $100 billion mark, it said on Wednesday."
+walmart,2017-12,FedEx said it expected to deliver 380-400 million packages globally during the peak shipping season.
+walmart,2017-12,"FedEx rival UPS has shifted more employees to certain markets to work through temporary delays caused by high volume and expected to clear the backlog this week, the world's largest package delivery company said on Tuesday. [L1N1O52BF]"
+walmart,2017-12,"UPS and FedEx have invested billions to upgrade and expand facilities in part to handle the boom in ecommerce business over the last decade, leaving investors chaffing over the expense."
+walmart,2017-12,"Wal-Mart, the world's largest retailer, offers free two-day shipping on millions of items when the order size is over $35. The retailer said online sales surged 50 percent in the last quarter. [nL1N1NM0OQ]"
+walmart,2017-12,"{{20171206T222649.000+0000}}Surging online orders slow Wal-Mart delivery networkSEATTLE/CHICAGO, Dec 6 (Reuters)"
+walmart,2017-12,"SEATTLE/CHICAGO, Dec 6 (Reuters) - Wal-Mart Stores Inc said on Wednesday that soaring online purchases have caused delays in its distribution network, reflecting the challenge retailers and delivery services face in handling strong peak-season ecommerce demand."
+walmart,2017-12,"""The week of Thanksgiving is an incredibly busy time for all of retail,"" ""With massive volume going through our system, there were some orders that took extra time, much like other major e-commerce sites,"" Wal-Mart spokeswoman Danit Marquardt said of the week of Thanksgiving."
+walmart,2017-12,"""A vast majority of orders are shipping on time now,"" she added."
+walmart,2017-12,"The backlog reflects the degree to which Wal-Mart, United Parcel Service and other companies struggled to handle peak ecommerce volumes despite months of preparation and major investments to expand and upgrade distribution facilities."
+walmart,2017-12,"""This shows they've got more volume and they are not hitting some delivery windows, but it is not going to affect anyone's Christmas,"" said Satish Jindel, President of ShipMatrix, Inc, which analyzes shipping data."
+walmart,2017-12,Wal-Mart declined to comment on the number of customer orders impacted.
+walmart,2017-12,"One senior FedEx employee said Wal-Mart's national distribution network had fallen behind in processing some four million customer orders, though he declined to elaborate on how this impacted FedEx deliveries."
+walmart,2017-12,"""The FedEx networks are performing as designed,"" the spokesman, Glen Brandow, said."
+walmart,2017-12,"UPS, which declined to comment on Wal-Mart's backlog, has also unveiled a number of surcharges in recent years, seen as a way to manage the higher costs associated with e-commerce. [nL2N1N10LS]"
+walmart,2017-12,"Adobe Analytics forecasts a record $107.4 billion holiday season for online orders, the first ever to cross the $100 billion mark, it said on Wednesday."
+walmart,2017-12,FedEx said it expected to deliver 380-400 million packages globally during the peak shipping season.
+walmart,2017-12,"FedEx rival UPS has shifted more employees to certain markets to work through temporary delays caused by high volume and expected to clear the backlog this week, the world's largest package delivery company said on Tuesday. [L1N1O52BF]"
+walmart,2017-12,"UPS and FedEx have invested billions to upgrade and expand facilities in part to handle the boom in ecommerce business over the last decade, leaving investors chaffing over the expense."
+walmart,2017-12,"Wal-Mart, the world's largest retailer, offers free two-day shipping on millions of items when the order size is over $35. The retailer said online sales surged 50 percent in the last quarter. [nL1N1NM0OQ]"
+walmart,2017-12,"{{20171206T151712.938+0000}}Wal-Mart drops Stores from name to shed brick and mortar imageDec 6 (Reuters) - Wal-Mart Stores Inc will be known as Walmart Inc, effective Feb. 1, the world's largest retailer said on Wednesday, as part of its efforts to rebrand itself as more than a brick and mortar store."
+walmart,2017-12,"The name change highlights the company's online, pickup and delivery and mobile shopping capabilities."
+walmart,2017-12,"""Our customers know us as Walmart and today they shop with us not only in our stores but online and with our app as well,"" Chief Executive Doug McMillon said. [nBw1Cjr2pa]"
+walmart,2017-12,"The company, which has more than 11,600 stores around the world, will continue to trade on the New York Stock Exchange under the symbol 'WMT'."
+walmart,2017-12,Walmart files amendment to certificate of incorporation to change legal name - Reuters Investor Briefs
+walmart,2017-12,{{20171206T142203.296+0000}}Walmart files amendment to certificate of incorporation to change legal nameDec 6 (Reuters) - Wal-Mart Stores Inc <WMT.N>::WALMART - FILED AMENDMENT TO CERTIFICATE OF INCORPORATION TO CHANGE LEGAL NAME FROM WAL-MART STORES INC TO WALMART INC.WALMART SAYS WILL CONTINUE TO TRADE ON THE NYSE AS 'WMT' - SEC FILING.WALMART SAYS FILED AMENDMENT TO CHANGE LEGAL NAME TO WALMART INC EFFECTIVE FEB.
+walmart,2017-12,{{20171206T140800.244+0000}}BRIEF-Walmart files amendment to certificate of incorporation to change legal name Dec 6 (Reuters) - Wal-Mart Stores Inc :
+walmart,2017-12,* WALMART - FILED AMENDMENT TO CERTIFICATE OF INCORPORATION TO CHANGE LEGAL NAME FROM WAL-MART STORES INC TO WALMART INC
+walmart,2017-12,* WALMART SAYS WILL CONTINUE TO TRADE ON THE NYSE AS 'WMT' - SEC FILING
+walmart,2017-12,"* WALMART SAYS FILED AMENDMENT TO CHANGE LEGAL NAME TO WALMART INC EFFECTIVE FEB. 1, 2018 - SEC FILING"
+walmart,2017-12,"{{20171205T165901.382+0000}}Wal-Mart to integrate physical, online units in BrazilDec 5 (Reuters) - The Brazilian unit of Wal-Mart Stores Inc. has decided to integrate its physical retail and e-commerce activities, as well as expand its so-called online marketplace operations, the company said in a statement on Tuesday."
+walmart,2017-12,"Together with an ongoing campaign to revamp its stores and introduce more regional and in-house brands, the new initiatives should cost about 1.5 billion reais ($464 million) over the next four years, Walmart Brasil said."
+walmart,2017-12,"Online marketplaces are an increasingly popular e-commerce format, in which websites offers products from third-party retailers, rather than just the company hosting the site."
+walmart,2017-12,{{20171205T093106.718+0000}}UPDATE 2-Carrefour and Fnac Darty form French purchasing partnership* Deal follows recent retail sector alliances amid Amazon threat
+walmart,2017-12,"PARIS, Dec 5 (Reuters) - French retailers Carrefour and Fnac Darty will team up for purchases of domestic appliances and consumer electronics in France as Carrefour seeks to cut costs and boost earnings, the companies said on Tuesday."
+walmart,2017-12,The purchasing agreement will take effect for supplier negotiations in 2018 but Carrefour and Fnac Darty stressed they would maintain independent commercial policies.
+walmart,2017-12,"Supermarket operator Carrefour, the world's largest retailer after Wal-Mart , hired Chief Executive Alexandre Bompard in July from Fnac Darty, France's largest electronics retailer. [nL8N1J3108]"
+walmart,2017-12,The tie-up follows a similar partnership sealed last year between domestic rival Casino and furniture chain Conforama.
+walmart,2017-12,"French retailers are intensely aware of the threat posed by Amazon , whose acquisition of U.S. food retail chain Whole Foods has triggered speculation the online giant is looking to crack the European market next."
+walmart,2017-12,Casino last week agreed to use British online retailer Ocado's platform to expand its e-commerce grocery business in a deal that analysts say will allow Casino to outpace domestic rivals. [nL8N1NY15L]
+walmart,2017-12,"Fnac Darty shares initially rose to a record high of 94.51 euros, before settling back to trade up 0.6 percent at 91.50 euros by 0925 GMT. Shares in Carrefour, which issued a profit warning in August, were flat."
+walmart,2017-12,"""This partnership will allow both companies to achieve cost savings, while the tie-up is also complementary as Fnac shops are mainly in town centres while Carrefour outlets tend to be in the suburbs,"" said Roche Brune Asset Management fund manager Gregoire Laverne, whose firm owns shares in both companies."
+walmart,2017-12,Bompard is expected to back a far-reaching restructuring that some analysts estimate could involve a billion euros ($1.2 billion) of cost cutting. Carrefour is due to unveil its strategic plan on Jan. 23.
+walmart,2017-12,"Investors want Bompard to boost the performance of the group's France-based hypermarkets, a goal that has eluded several predecessors amid competition online and price discounting from rivals such as unlisted Leclerc."
+walmart,2017-12,They also want him to catch up as more shoppers go online for their goods. [nL8N1NZ2AU]
+walmart,2017-12,"Bernstein analysts estimated the deal with Fnac Darty would generate 90 million euros of savings for Carrefour or 25 basis points of French margin, which would give it ""additional firepower to be invested in the French business""."
+walmart,2017-12,On Monday Fnac Darty said it was banking on merger synergies and its ability to deliver sales growth above that of its markets in order to nearly double its operating margin mid-term. [nL8N1O458K]
+walmart,2017-12,"Fnac shares are up around 40 percent since the start of 2017, while Carrefour shares are down around 20 percent. ($1 = 0.8429 euros)"
+walmart,2017-12,"{{20171205T065002.444+0000}}French retailers Carrefour and Fnac Darty form purchasing partnershipPARIS, Dec 5 (Reuters) - French retailers Carrefour and Fnac Darty announced a purchasing partnership for domestic appliances and consumer electronics in France, as Carrefour undertakes plans to cut costs in order to boost its earnings."
+walmart,2017-12,"The companies said the agreement would become effective for the 2018 supplier negotiations, and that Carrefour and Fnac Darty would maintain independent commercial policies."
+walmart,2017-12,"The tie-up between Carrefour and Fnac Darty follows a similar, recent partnership between Casino and Ocado . [nL8N1NZ2AU]"
+walmart,2017-12,"Analysts have added that Amazon , whose acquisition of U.S. upmarket food retail chain Whole Foods shook up the global supermarket sector this year, may also eye European alliances."
+walmart,2017-12,"Carrefour, the world's largest retailer after Wal-Mart , hired Alexandre Bompard from Fnac Darty - which is France's largest electronics retailer - in July."
+walmart,2017-12,Bompard is expected to back a far-reaching restructuring that some analysts estimate could involve a billion euros ($1.2 billion) of cost cutting. Carrefour - which issued a profit warning in August - is due to unveil a strategy plan on Jan. 23.
+walmart,2017-12,"Investors want Bompard to boost the performance of the group's France-based hypermarkets, a goal that has eluded several predecessors amid competition online and price discounting from rivals such as unlisted Leclerc."
+walmart,2017-12,They also want him to catch up in terms of the digitisation of the retail sector. [nL8N1NZ2AU]
+walmart,2017-12,"{{20171204T134536.983+0000}}BUZZ-GNC: Struggling retailer scraps borrowing plans, hires Goldman as strategic advisor** GNC Holdings shares edging higher premarket as the dietary supplement retailer pulls proposed notes deal and new secured term loan, and hires Goldman Sachs to evaluate alternatives"
+walmart,2017-12,** Co withdraws previously announced senior secured notes due 2022 saying terms and conditions offered were not sufficiently attractive to move forward; also pulls plans to enter into new senior secured term loan facility [nPn1zFy6Da]
+walmart,2017-12,** Says hired Goldman to help its board evaluate alternatives to optimize GNC's capital structure and other alternatives to enhance shareholder value
+walmart,2017-12,"** GNC's stock, down 51 pct YTD, has dropped ~21 pct over the past month as latest debt refinancing attempts have failed to gain traction with investors"
+walmart,2017-12,"** Fitch downgraded GNC's credit rating deeper into junk territory on Thurs on its revised refinancing deal, IFR reported [nL1N1O01V5]"
+walmart,2017-12,"** GNC has been pummeled by growing competition from online supplement sellers, including Wal-Mart Stores ; Wall Street analysts on avg expect co's revenue to fall this year and in 2018"
+walmart,2017-12,"UPDATE 3-Kroger profit improves amid Amazon threat, shares pop  - Reuters News"
+walmart,2017-12,"{{20171130T181451.432+0000}}UPDATE 3-Kroger profit improves amid Amazon threat, shares pop (Adds analyst comment, details on results)"
+walmart,2017-12,"Nov 30 (Reuters) - Kroger Co issued an upbeat holiday forecast and better-than-expected quarterly results, helped by aggressive discounts that lured more shoppers to its supermarkets, and shares soared as much as 13.6 percent."
+walmart,2017-12,"The results suggest that Kroger is successfully responding to a new wave of competition from traditional rivals like Wal-Mart Stores Inc and Aldi, as well as new entrants such as Amazon.com/Whole Foods and German discounter Lidl."
+walmart,2017-12,"""Based on the wall of worry over Amazon, Walmart and Aldi, fundamental concerns over Kroger's competitive position proved to be overblown,"" said Pivotal Research Group analyst Ajay Jain. He added that Kroger's year-over-year earnings in the period improved for the first time in four quarters."
+walmart,2017-12,"Kroger managed to boost gross margins more than anticipated. It posted more sales of higher-profit, private-label products as it also lowered its overall cost of goods, which took some pain out of its significant price cuts."
+walmart,2017-12,"After booking its best-ever ""Black Friday"" results for general merchandise, Kroger now expects fourth-quarter sales at identical stores open at least a year to exceed 1.1 percent."
+walmart,2017-12,"But the company, which operates some 2,800 U.S. supermarkets under banners including Ralphs, Harris Teeter and Food 4 Less, is not out of the woods yet. It is locked in a brutal grocery price war and a multi-front fight for a ""share of the stomach."""
+walmart,2017-12,"The company launched ""Restock Kroger"" in October to strengthen its position. Among other things, it has begun levying fines for late supply deliveries, which improves product selection and curbs waste."
+walmart,2017-12,"Kroger is also expanding online services that include home delivery and ""ClickList"" curbside pickup."
+walmart,2017-12,"It expects ""Restock Kroger"" to generate $400 million in incremental operating profit margin over the three years from 2018 to 2020."
+walmart,2017-12,Shares in Cincinnati-based Kroger were up 8.1 percent at $26.37 in early afternoon trading after hitting a session high of $27.70.
+walmart,2017-12,"But even with Thursday's gain, the stock remains down more 20 percent this year. It trades at a price-to-earnings ratio of 14.8 percent, compared with 29.2 for Wal-Mart, its chief rival."
+walmart,2017-12,"Profit rose 1.5 percent to $397 million, or 44 cents per share, for the third quarter ended Nov. 4, and total revenue rose 4.5 percent to $27.75 billion. That topped analysts' targets of 40 cents per share on sales of $27.46 billion, according to Thomson Reuters I/B/E/S."
+walmart,2017-12,"Kroger also reaffirmed its 2017 adjusted earnings per share forecast of $2.00 to $2.05, just above analysts' average target of $1.97 per share."
+walmart,2017-12,BUZZ-Supplement seller GNC leaves Wall St feeling queasy - Reuters News
+walmart,2017-12,"{{20171130T171814.476+0000}}BUZZ-Supplement seller GNC leaves Wall St feeling queasy** Shares of GNC Holdings down 7.5 pct, bringing loss in Nov to 18 pct as the dietary supplement retailer struggles to compete with online sellers and as it tries to refinance its debt"
+walmart,2017-12,"** With the stock down 49 pct in 2017, commitments were due on Thursday after GNC this week relaunched a refinancing deal with an all-loan structure and higher proposed interest rates, IFR reported [nL1N1NX1SM]"
+walmart,2017-12,** The shopping mall retailer has been slammed by growing competition from online supplement sellers including Wal-Mart Stores and a debt offering earlier in Nov that failed to gain traction with investors
+walmart,2017-12,"** 1 analyst recommends buying the stock, 4 are neutral and 2 recommend selling, according to Thomson Reuters data"
+walmart,2017-12,"** The global dietary supplement market was worth $133 bln last year and is likely to grow at an annual rate of 8.3 pct through 2022, with fake product claims and bad publicity hampering faster expansion, according to Zion Market Research"

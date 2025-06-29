@@ -1,0 +1,622 @@
+firm_id,date,text
+Brunswick,2017-12,"02:03:54  [NEWNYS] (BC.N .SPX) - Brunswick rises for a second consecutive day, a two-day rise of 2.0% Friday, June 27, 2025 11:00:00 -"
+Brunswick,2017-12,"23:52:36  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $64.52) weakens below moving average price, hits twenty-seven-month low Tuesday December 31, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:35  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $64.50) Tuesday December 31, 2024 07:12 EST -"
+Brunswick,2017-12,20:04:18  [STOCKP] (BC.N) - Brunswick -De is trading -1.58 percent lower with a volume of USD 32.8 mn on Tuesday 31st of December -
+Brunswick,2017-12,11:49:51  [STOCKP] (BC.N) - On Tuesday 31st of December Brunswick -De trades -1.58 percent lower -
+Brunswick,2017-12,08:49:06  [GLOSTO] (BC.N) - Brunswick (BC: $64.52) hits year-low 8th time in one month; -18c [0.3%] -
+Brunswick,2017-12,07:47:02  [GLOSTO] (BC.N) - Brunswick (BC: $64.47) drops to two-year low on robust volume; -23c [-0.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,07:27:23  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $64.47) drops ; -23c [-0.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,07:22:12  [GLOSTO] (BC.N) - Brunswick (BC: $64.30) hits year-low 8th time in one month; -40c [-0.6%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,07:22:07  [GLOSTO] (BC.N) - Brunswick (BC: $64.30) weakens below moving average price; -40c [-0.6%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,07:21:42  [GLOSTO] (BC.N) - Brunswick (BC: $64.47) drops to two-year low on robust volume; -23c [-0.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,07:02:21  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $64.30) weakens below moving average price; -40c [-0.6%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,06:56:58  [GLOSTO] (BC.N) - Brunswick (BC: $64.30) hits year-low 8th time in one month; -40c [-0.6%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,06:52:06  [GLOSTO] (BC.N) - Brunswick (BC: $64.30) weakens below moving average price; -40c [-0.6%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,"06:42:05  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $64.70) Monday December 30, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:03  [GLOBEA] (.GDAXI BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plummets 21.5% in 87 days, hits twenty-seven-month low Monday December 30, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:03  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $63.83) drops 1.3% on slipping relative strength Monday December 30, 2024 11:29 EST -"
+Brunswick,2017-12,05:57:21  [GLOSTO] (BC.N) - Brunswick (BC: $64.13) drops to two-year low on robust volume; -57c [-0.9%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,05:57:17  [GLOSTO] (BC.N) - Brunswick (BC: $64.13) hits year-low 8th time in one month; -57c [-0.9%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,05:32:25  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $64.13) drops to two-year low on robust volume; -57c [-0.9%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,05:32:01  [GLOSTO] (BC.N) - Brunswick (BC: $64.13) hits year-low 8th time in one month; -57c [-0.9%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,05:22:16  [GLOSTO] (BC.N) - Brunswick (BC: $64.13) drops to two-year low on robust volume; -57c [-0.9%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,05:17:29  [GLOSTO] (BC.N) - Brunswick (BC: $64.40) weakens below moving average price; -30c [-0.5%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,05:17:25  [GLOSTO] (BC.N) - Brunswick (BC: $64.40) hits year-low 8th time in one month; -30c [-0.5%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,05:07:15  [GERCOM] (BC.N BWI.F) - German trading: Brunswick (BWI: EUR61.22) in 5th consecutive fall; -EUR7.24 [10.6%] -
+Brunswick,2017-12,04:53:36  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $64.40) hits year-low 8th time in one month; -30c [-0.5%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,04:52:08  [GLOSTO] (BC.N) - Brunswick (BC: $64.40) weakens below moving average price; -30c [-0.5%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,"04:42:38  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $64.70) Monday December 30, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:33  [GLOBEA] (.GDAXI BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plummets 21.5% in 87 days, hits twenty-seven-month low Monday December 30, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:29  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $63.83) drops 1.3% on slipping relative strength Monday December 30, 2024 11:29 EST -"
+Brunswick,2017-12,04:42:14  [GLOSTO] (BC.N) - Brunswick (BC: $64.40) hits year-low 8th time in one month; -30c [-0.5%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,03:43:42  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $64.73) drops 3.0% - trailing 83% of stocks; -$2.02 [3.0%] -
+Brunswick,2017-12,"03:42:38  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $63.83) drops 1.3% on slipping relative strength Monday December 30, 2024 11:29 EST -"
+Brunswick,2017-12,03:17:14  [GLOSTO] (BC.N) - Brunswick (BC: $63.83) drops to two-year low on robust volume; -87c [-1.3%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,03:17:09  [GLOSTO] (BC.N) - Brunswick (BC: $63.83) drops 1.3% on slipping relative strength; -87c [-1.3%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,02:54:27  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $64.73) drops 3.0% - trailing 83% of stocks; -$2.02 [3.0%] -
+Brunswick,2017-12,02:53:10  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $63.83) drops 1.3% on slipping relative strength; -87c [-1.3%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,02:52:51  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $63.83) drops 1.3% weakening below moving average price; -87c [-1.3%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,02:52:47  [GLOSTO] (BC.N) - Brunswick (BC: $63.83) drops to two-year low on robust volume; -87c [-1.3%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,02:42:39  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $63.83) hits year-low 8th time in one month; -87c [-1.3%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,02:42:08  [GLOSTO] (BC.N) - Brunswick (BC: $63.83) drops 1.3% on slipping relative strength; -87c [-1.3%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,01:53:01  [GLOSTO] (BC.N NMG.NR) - Live Nation Entertainment continues to outperform Brunswick by 18.4% in the past month -
+Brunswick,2017-12,01:52:40  [GLOSTO] (BC.N CCL.N) - Carnival continues to outperform Brunswick by 24.2% in the past month -
+Brunswick,2017-12,00:54:24  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $64.73) drops 3.0% - trailing 83% of stocks; -$2.02 [3.0%] -
+Brunswick,2017-12,"00:09:14  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $64.70) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday December 30, 2024 07:12 EST -"
+Brunswick,2017-12,"00:08:53  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $64.70) Monday December 30, 2024 07:12 EST -"
+Brunswick,2017-12,"00:08:43  [GLOBEA] (.GDAXI BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plummets 21.5% in 87 days, hits twenty-seven-month low Monday December 30, 2024 07:12 EST -"
+Brunswick,2017-12,23:55:19  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $64.73) drops 3.0% - trailing 83% of stocks; -$2.02 [3.0%] -
+Brunswick,2017-12,09:09:29  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $64.73) drops 3.0% - trailing 83% of stocks; -$2.02 [3.0%] -
+Brunswick,2017-12,08:49:39  [GLOSTO] (BC.N) - Brunswick (BC: $64.73) hits year-low 7th time in one month; -$1 [1.5%] -
+Brunswick,2017-12,07:47:06  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 21.4% in 87 days; -86c [-1.3%] -
+Brunswick,2017-12,07:47:01  [GLOSTO] (BC.N) - Brunswick (BC: $64.88) falls 1.3% weakening below moving average price; -86c [-1.3%] -
+Brunswick,2017-12,07:27:29  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $64.88) falls 1.3% weakening below moving average price; -86c [-1.3%] -
+Brunswick,2017-12,07:22:14  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 21.4% in 87 days; -86c [-1.3%] -
+Brunswick,2017-12,07:12:04  [GLOSTO] (BC.N) - Brunswick (BC: $64.88) falls 1.3% weakening below moving average price; -86c [-1.3%] -
+Brunswick,2017-12,07:02:40  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $64.84) drops to two-year low; -90c [-1.4%] -
+Brunswick,2017-12,05:57:08  [GLOSTO] (BC.N) - Brunswick (BC: $64.24) hits year-low 7th time in one month; -$1.50 [-2.3%] -
+Brunswick,2017-12,05:32:28  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $64.24) hits year-low 7th time in one month; -$1.50 [-2.3%] -
+Brunswick,2017-12,05:21:58  [GLOSTO] (BC.N) - Brunswick (BC: $64.24) hits year-low 7th time in one month; -$1.50 [-2.3%] -
+Brunswick,2017-12,"04:52:25  [GERCOM] (BC.N BWI.F) - German trading: Brunswick (BWI: EUR62.90) keeps sliding, down 8.1% in 4 days; -EUR5.56 [8.1%] -"
+Brunswick,2017-12,04:47:14  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $64.38) falls 2.1% on slipping relative strength; -$1.36 [-2.1%] -
+Brunswick,2017-12,04:32:05  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 22.0% in 87 days; -$1.36 [-2.1%] -
+Brunswick,2017-12,03:13:49  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.9% in 87 days; -50c [-0.8%] -
+Brunswick,2017-12,03:12:32  [GLOSTO] (BC.N) - Brunswick (BC: $65.24) hits year-low 7th time in one month; -50c [-0.8%] -
+Brunswick,2017-12,02:52:45  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.9% in 87 days; -50c [-0.8%] -
+Brunswick,2017-12,02:52:34  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $65.24) drops to two-year low; -50c [-0.8%] -
+Brunswick,2017-12,02:47:07  [GLOSTO] (BC.N) - Brunswick (BC: $65.24) hits year-low 7th time in one month; -50c [-0.8%] -
+Brunswick,2017-12,02:42:37  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $65.24) decreases on slipping relative strength; -50c [-0.8%] -
+Brunswick,2017-12,02:42:09  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.9% in 87 days; -50c [-0.8%] -
+Brunswick,2017-12,01:21:29  [STOCKP] (BC.N) - On Friday 27th of December Brunswick -De trades 0.21 percent higher -
+Brunswick,2017-12,00:49:23  [GLOSTO] (BC.N) - Friday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,23:47:42  [GLOSTO] (BC.N) - ICYMI: Friday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,22:47:57  [GLOSTO] (BC.N) - ICYMI: Friday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,21:47:38  [GLOSTO] (BC.N) - Update: Friday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,07:46:58  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.2% in 86 days; -12c [-0.2%] -
+Brunswick,2017-12,07:27:34  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.2% in 86 days; -12c [-0.2%] -
+Brunswick,2017-12,07:22:07  [GLOSTO] (BC.N) - Brunswick (BC: $65.92) hits year-low 6th time in one month; -7c [-0.1%] -
+Brunswick,2017-12,07:12:07  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.2% in 86 days; -12c [-0.2%] -
+Brunswick,2017-12,06:56:51  [GLOSTO] (BC.N) - Brunswick (BC: $65.92) hits year-low 6th time in one month; -7c [-0.1%] -
+Brunswick,2017-12,"06:42:12  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days Thursday December 26, 2... -"
+Brunswick,2017-12,"06:42:11  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days Thursday December 26, 2... -"
+Brunswick,2017-12,"06:42:08  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $65.99) Thursday December 26, 2024 07:12 EST -"
+Brunswick,2017-12,05:57:17  [GLOSTO] (BC.N) - Brunswick (BC: $65.86) hits year-low 6th time in one month; -13c [-0.2%] -
+Brunswick,2017-12,05:32:38  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $65.86) weakens below moving average price; -13c [-0.2%] -
+Brunswick,2017-12,05:31:59  [GLOSTO] (BC.N) - Brunswick (BC: $65.86) hits year-low 6th time in one month; -13c [-0.2%] -
+Brunswick,2017-12,05:06:59  [GLOSTO] (BC.N) - Brunswick (BC: $65.91) hits year-low 6th time in one month; -8c [-0.1%] -
+Brunswick,2017-12,04:47:41  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $65.91) hits year-low 6th time in one month; -8c [-0.1%] -
+Brunswick,2017-12,"04:42:45  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days Thursday December 26, 2... -"
+Brunswick,2017-12,"04:42:36  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days Thursday December 26, 2... -"
+Brunswick,2017-12,"04:42:31  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $65.99) Thursday December 26, 2024 07:12 EST -"
+Brunswick,2017-12,04:32:06  [GLOSTO] (BC.N) - Brunswick (BC: $65.91) hits year-low 6th time in one month; -8c [-0.1%] -
+Brunswick,2017-12,04:32:04  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days; -8c [-0.1%] -
+Brunswick,2017-12,"03:57:17  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days Thursday December 26, 2... -"
+Brunswick,2017-12,03:11:58  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days; -5c [-0.1%] -
+Brunswick,2017-12,"03:07:06  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days Thursday December 26, 2... -"
+Brunswick,2017-12,02:53:10  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days; -5c [-0.1%] -
+Brunswick,2017-12,02:42:47  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $65.94) hits year-low 6th time in one month; -5c [-0.1%] -
+Brunswick,2017-12,02:41:39  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.1% in 86 days; -5c [-0.1%] -
+Brunswick,2017-12,01:56:52  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-12,01:55:57  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-12,00:49:08  [GLOSTO] (BC.N) - Thursday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-12,"23:52:15  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $65.99) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Thursday December 26, 2024 07:12 EST -"
+Brunswick,2017-12,"23:48:04  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $65.99) Thursday December 26, 2024 07:12 EST -"
+Brunswick,2017-12,23:47:37  [GLOSTO] (BC.N) - ICYMI: Thursday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-12,22:48:17  [GLOSTO] (BC.N) - ICYMI: Thursday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-12,21:48:03  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-12,21:47:39  [GLOSTO] (BC.N) - Update: Thursday's Preview: Can Brunswick continue its recent gains? -
+Brunswick,2017-12,11:00:00  [PAKLAW] (BC.N) - Provincial Court of Nova Scotia Decision: R. v. Brunswick (02 August 2024) -
+Brunswick,2017-12,21:47:11  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-12,"19:02:21  [NEWPEO] (BC.N) - David M. Foulkes's Brunswick top decliner in Ridgecrest Wealth Partners plummets 20.0% in 84 days, hits 425-day low Tuesday December 24, 2024 16:00... -"
+Brunswick,2017-12,15:29:21  [STOCKP] (BC.N) - On Wednesday 25th of December Brunswick -De trades -0.13 percent lower -
+Brunswick,2017-12,"08:48:40  [GLOSTO] (BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plummets 20.0% in 84 days, hits 425-day low; +14c [0.2%] -"
+Brunswick,2017-12,07:47:05  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.0% in 84 days; +14c [0.2%] -
+Brunswick,2017-12,07:27:07  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.0% in 84 days; +14c [0.2%] -
+Brunswick,2017-12,07:12:01  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.0% in 84 days; +14c [0.2%] -
+Brunswick,2017-12,"06:42:33  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $65.79) keeps sliding, down 15% in 11 days Tuesday December 24, 2024 11:28 EST -"
+Brunswick,2017-12,"06:42:29  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $65.79) keeps sliding, down 15% in 11 days Tuesday December 24, 2024 10:31 EST -"
+Brunswick,2017-12,"06:42:18  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $65.85) Tuesday December 24, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:11  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $65.86) keeps sliding, down 15% in 10 days Tuesday December 24, 2024 07:12 EST -"
+Brunswick,2017-12,05:57:20  [GLOSTO] (BC.N) - Brunswick (BC: $65.82) hits year-low 5th time in one month; -3c [-0.05%] -
+Brunswick,2017-12,05:57:14  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.2% in 84 days; -3c [-0.05%] -
+Brunswick,2017-12,05:32:14  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.2% in 84 days; -3c [-0.05%] -
+Brunswick,2017-12,05:32:00  [GLOSTO] (BC.N) - Brunswick (BC: $65.82) hits year-low 5th time in one month; -3c [-0.05%] -
+Brunswick,2017-12,05:22:01  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.2% in 84 days; -3c [-0.05%] -
+Brunswick,2017-12,05:07:10  [GLOSTO] (BC.N) - Brunswick (BC: $65.61) hits year-low 5th time in one month; -24c [-0.4%] -
+Brunswick,2017-12,"04:43:12  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $65.79) keeps sliding, down 15% in 11 days Tuesday December 24, 2024 11:28 EST -"
+Brunswick,2017-12,"04:43:03  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $65.79) keeps sliding, down 15% in 11 days Tuesday December 24, 2024 10:31 EST -"
+Brunswick,2017-12,"04:42:57  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $65.85) Tuesday December 24, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:48  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $65.86) keeps sliding, down 15% in 10 days Tuesday December 24, 2024 07:12 EST -"
+Brunswick,2017-12,04:42:06  [GLOSTO] (BC.N) - Brunswick (BC: $65.61) hits year-low 5th time in one month; -24c [-0.4%] -
+Brunswick,2017-12,04:32:09  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.5% in 84 days; -24c [-0.4%] -
+Brunswick,2017-12,"04:02:06  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $65.79) keeps sliding, down 15% in 11 days Tuesday December 24, 2024 11:28 EST -"
+Brunswick,2017-12,"03:07:40  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $65.79) keeps sliding, down 15% in 11 days Tuesday December 24, 2024 10:31 EST -"
+Brunswick,2017-12,"02:52:58  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $65.79) keeps sliding, down 15% in 11 days; -6c [-0.1%] -"
+Brunswick,2017-12,02:52:51  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $65.79) hits year-low 5th time in one month; -6c [-0.1%] -
+Brunswick,2017-12,02:42:48  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plummets 20.3% in 84 days; -6c [-0.1%] -
+Brunswick,2017-12,00:49:32  [GLOSTO] (BC.N) - Investors concerned as Brunswick down in recent days -
+Brunswick,2017-12,"23:53:10  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $65.85) Tuesday December 24, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:56  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $65.86) keeps sliding, down 15% in 10 days Tuesday December 24, 2024 07:12 EST -"
+Brunswick,2017-12,21:32:40  [MARBEA] (BC.N) - Brunswick (NYSE:BC) Hits New 52-Week Low - What's Next? -- -
+Brunswick,2017-12,17:56:43  [ETFDAI] (BC.N) - Analysts Set Brunswick Co. (NYSE:BC) Price Target at $88.54 -- -
+Brunswick,2017-12,"11:00:00  [PLUPAT] (BC.N) - Head Line: Brunswick Corporation (Illinois) granted US Patent for ""Swim Platform Assemblies For Boats"" -"
+Brunswick,2017-12,08:52:25  [GLOSTO] (BC.N) - Brunswick (BC: $65.86) hits year-low 4th time in one month; -88.5c [1.3%] -
+Brunswick,2017-12,07:27:27  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $65.94) drops to fourteen-month low; -81c [-1.2%] -
+Brunswick,2017-12,07:22:09  [GLOSTO] (BC.N) - Brunswick (BC: $65.63) hits year-low 4th time in one month; -$1.12 [-1.7%] -
+Brunswick,2017-12,07:02:43  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $65.63) hits year-low 4th time in one month; -$1.12 [-1.7%] -
+Brunswick,2017-12,06:52:01  [GLOSTO] (BC.N) - Brunswick (BC: $65.63) hits year-low 4th time in one month; -$1.12 [-1.7%] -
+Brunswick,2017-12,06:45:07  [STOCKP] (BC.N) - Brunswick -De trades -0.13 percent lower on Monday 23rd of December -
+Brunswick,2017-12,"06:42:23  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $66.07) keeps sliding, down 15% in 10 days Monday December 23, 2024 12:21 EST -"
+Brunswick,2017-12,"06:42:19  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $66.75) Monday December 23, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:19  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $66.07) keeps sliding, down 15% in 10 days Monday December 23, 2024 10:31 EST -"
+Brunswick,2017-12,"06:42:10  [GLOBEA] (.GDAXI BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plunges 19.1% in 81 days, hits 417-day low Monday December 23, 2024 07:12 EST -"
+Brunswick,2017-12,05:07:06  [GLOSTO] (BC.N) - Brunswick (BC: $66.24) hits year-low 4th time in one month; -51c [-0.8%] -
+Brunswick,2017-12,04:47:21  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $66.24) decreases on slipping relative strength; -51c [-0.8%] -
+Brunswick,2017-12,"04:42:45  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $66.07) keeps sliding, down 15% in 10 days Monday December 23, 2024 12:21 EST -"
+Brunswick,2017-12,"04:42:43  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $66.07) keeps sliding, down 15% in 10 days Monday December 23, 2024 10:31 EST -"
+Brunswick,2017-12,"04:42:36  [GLOBEA] (.GDAXI BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plunges 19.1% in 81 days, hits 417-day low Monday December 23, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:34  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $66.75) Monday December 23, 2024 07:12 EST -"
+Brunswick,2017-12,04:42:07  [GLOSTO] (BC.N) - Brunswick (BC: $66.24) hits year-low 4th time in one month; -51c [-0.8%] -
+Brunswick,2017-12,"04:32:40  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $66.07) keeps sliding, down 15% in 10 days Monday December 23, 2024 12:21 EST -"
+Brunswick,2017-12,03:39:52  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $66.75) sinks 9%; -$6.84 [9.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,"03:22:18  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $66.07) keeps sliding, down 15% in 10 days Monday December 23, 2024 10:31 EST -"
+Brunswick,2017-12,"02:54:33  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $66.07) keeps sliding, down 15% in 10 days; -68c [-1.0%] -"
+Brunswick,2017-12,02:53:51  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $66.07) hits year-low 4th time in one month; -68c [-1.0%] -
+Brunswick,2017-12,02:49:51  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $66.75) sinks 9%; -$6.84 [9.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,02:42:41  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $66.07) drops 1.0% on slipping relative strength; -68c [-1.0%] -
+Brunswick,2017-12,01:52:55  [GLOSTO] (BC.N NMG.NR) - Live Nation Entertainment continues to outperform Brunswick by 72.0% year to date -
+Brunswick,2017-12,01:52:47  [GLOSTO] (BC.N CCL.N) - Carnival continues to outperform Brunswick by 74.1% year to date -
+Brunswick,2017-12,00:49:06  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $66.75) sinks 9%; -$6.84 [9.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,"00:09:49  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $66.75) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday December 23, 2024 07:12 EST -"
+Brunswick,2017-12,"00:09:34  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $66.75) Monday December 23, 2024 07:12 EST -"
+Brunswick,2017-12,"00:09:26  [GLOBEA] (.GDAXI BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plunges 19.1% in 81 days, hits 417-day low Monday December 23, 2024 07:12 EST -"
+Brunswick,2017-12,23:53:24  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $66.75) sinks 9%; -$6.84 [9.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,19:47:49  [TICREP] (BC.N) - MML Investors Services LLC Raises Stock Position in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-12,04:47:28  [COMFIN] (BC.N PFG.O) - Principal Financial Group Inc. Grows Holdings in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-12,02:33:18  [AMEBAN] (BC.N) - Sanctuary Advisors LLC Boosts Stock Holdings in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-12,"20:44:08  [ETFDAI] (BC.N) - Sanctuary Advisors LLC Buys 1,387 Shares of Brunswick Co. (NYSE:BC) -- -"
+Brunswick,2017-12,20:37:09  [MARBEA] (BC.N PFG.O) - Principal Financial Group Inc. Has $90.17 Million Position in Brunswick Co. (NYSE:BC) -- -
+Brunswick,2017-12,01:13:19  [GLOSTO] (BC.N) - Brunswick (BC: $66.75) hits year-low 3rd time in one month; -9c [0.1%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-12,20:52:25  [STOCKP] (BC.N) - Brunswick -De () is trading -4.84 percent lower on Saturday 21st of December and has a trading volume of USD 63.2 mn -
+Brunswick,2017-12,"19:06:44  [MARBEA] (BC.N) - Brunswick Co. (NYSE:BC) Given Average Recommendation of ""Moderate Buy"" by Brokerages -- -"
+Brunswick,2017-12,18:33:10  [GLOSTO] (BC.N) - Brunswick (BC: $66.75) hits year-low 3rd time in one month; -9c [0.1%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-12,17:33:05  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $66.75) sinks 9%; -$6.84 [9.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,07:47:17  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.8% in 80 days; +19c [0.3%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,07:23:13  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.8% in 80 days; +19c [0.3%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,"07:13:13  [GERCOM] (BC.N BWI.F) - German trading: Brunswick (BWI: EUR64.72) drops 1.7% weakening below moving average price, hits 163-day low; -EUR1.10 [1.7%] -"
+Brunswick,2017-12,07:12:15  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.8% in 80 days; +19c [0.3%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,06:47:07  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.7% in 80 days; +24c [0.4%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,"06:42:40  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.6% in 80 days Friday December 20, 2024... -"
+Brunswick,2017-12,"06:42:38  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.6% in 80 days Friday December 20, 2024... -"
+Brunswick,2017-12,"06:42:31  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $66.84) Friday December 20, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:21  [GLOBEA] (.GDAXI BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plunges 19.0% in 80 days, hits 414-day low Friday December 20, 2024 07:12 EST -"
+Brunswick,2017-12,06:27:49  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.7% in 80 days; +24c [0.4%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,06:12:12  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.7% in 80 days; +24c [0.4%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,05:57:15  [GLOSTO] (BC.N) - Brunswick (BC: $67.40) lifts on firm volume; +56c [0.8%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,05:37:15  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $67.40) lifts on firm volume; +56c [0.8%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,05:22:08  [GLOSTO] (BC.N) - Brunswick (BC: $67.40) lifts on firm volume; +56c [0.8%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,"04:43:15  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.6% in 80 days Friday December 20, 2024... -"
+Brunswick,2017-12,"04:43:06  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.6% in 80 days Friday December 20, 2024... -"
+Brunswick,2017-12,"04:43:05  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $66.84) Friday December 20, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:57  [GLOBEA] (.GDAXI BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plunges 19.0% in 80 days, hits 414-day low Friday December 20, 2024 07:12 EST -"
+Brunswick,2017-12,"04:39:17  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.6% in 80 days Friday December 20, 2024... -"
+Brunswick,2017-12,"03:22:42  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.6% in 80 days Friday December 20, 2024... -"
+Brunswick,2017-12,03:17:34  [GLOSTO] (BC.N) - Brunswick (BC: $67.15) offers earnings yield of 8.9% ; +31c [0.5%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,03:17:21  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.6% in 80 days; +31c [0.5%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,02:53:41  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.6% in 80 days; +31c [0.5%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,02:47:42  [GLOSTO] (BC.N) - Brunswick (BC: $67.15) offers earnings yield of 8.9% ; +31c [0.5%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,02:42:44  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $67.15) increases on firm volume; +31c [0.5%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,02:42:19  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.6% in 80 days; +31c [0.5%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,01:08:29  [GLOSTO] (BC.N) - Brunswick (BC: $66.84) hits year-low 2nd time in one month; -$1.12 [1.6%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,"23:52:39  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $66.84) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday December 20, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:36  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $66.84) Friday December 20, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:17  [GLOBEA] (.GDAXI BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners plunges 19.0% in 80 days, hits 414-day low Friday December 20, 2024 07:12 EST -"
+Brunswick,2017-12,21:22:13  [TRADAJ] (BC.N BEN.N) - Franklin Resources Inc. Raises Stock Holdings in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-12,20:30:38  [MARBEA] (BC.N) - Geode Capital Management LLC Lowers Stock Holdings in Brunswick Co. (NYSE:BC) -- -
+Brunswick,2017-12,19:42:10  [TICREP] (BC.N) - HighTower Advisors LLC Trims Holdings in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-12,18:33:45  [GLOSTO] (BC.N) - Brunswick (BC: $66.84) hits year-low 2nd time in one month; -$1.12 [1.6%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,14:12:47  [NOTENG] (BC.N) - Tijuana City Hall against the illegal sale of pyrotechnics -
+Brunswick,2017-12,"11:00:00  [PLUPAT] (BC.N) - European Patent Office awards patent to BRUNSWICK CORP for ""LINEAR ACTUATOR"" -"
+Brunswick,2017-12,07:47:05  [GLOSTO] (BC.N) - Brunswick (BC: $66.98) falls 1.4% on slipping relative strength; -98c [-1.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,07:46:59  [GLOSTO] (BC.N) - Brunswick (BC: $66.98) hits year-low 2nd time in one month; -98c [-1.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,07:27:38  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $66.98) hits year-low 2nd time in one month; -98c [-1.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,07:27:02  [GLOSTO] (BC.N) - Brunswick (BC: $67.17) drops 1.2% on slipping relative strength; -79c [-1.2%] Vol Index 1.8 [1 is avg] -
+Brunswick,2017-12,07:22:15  [GLOSTO] (BC.N) - Brunswick (BC: $66.98) falls 1.4% on slipping relative strength; -98c [-1.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,07:22:14  [GLOSTO] (BC.N) - Brunswick (BC: $67.17) in 8th consecutive fall; -79c [-1.2%] Vol Index 1.8 [1 is avg] -
+Brunswick,2017-12,07:12:03  [GLOSTO] (BC.N) - Brunswick (BC: $66.98) hits year-low 2nd time in one month; -98c [-1.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,07:03:00  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $67.17) in 8th consecutive fall; -79c [-1.2%] Vol Index 1.8 [1 is avg] -
+Brunswick,2017-12,07:01:58  [GLOSTO] (BC.N) - Brunswick (BC: $67.17) drops 1.2% on slipping relative strength; -79c [-1.2%] Vol Index 1.8 [1 is avg] -
+Brunswick,2017-12,06:52:06  [GLOSTO] (BC.N) - Brunswick (BC: $67.17) in 8th consecutive fall; -79c [-1.2%] Vol Index 1.8 [1 is avg] -
+Brunswick,2017-12,"06:42:26  [GLOSNI] (BC.N .SPX) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $67.96) Thursday December 19, 2024 07:12 EST -"
+Brunswick,2017-12,05:57:13  [GLOSTO] (BC.N) - Brunswick (BC: $67.30) decreases on slipping relative strength; -66c [-1.0%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,05:57:12  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.4% in 79 days; -66c [-1.0%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,05:32:49  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.4% in 79 days; -66c [-1.0%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,05:31:59  [GLOSTO] (BC.N) - Brunswick (BC: $67.30) decreases on slipping relative strength; -66c [-1.0%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,05:22:03  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.4% in 79 days; -66c [-1.0%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,05:12:24  [GLOSTO] (BC.N) - Brunswick (BC: $67.35) drops on slipping relative strength; -61c [-0.9%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-12,05:12:22  [GLOSTO] (BC.N) - Brunswick (BC: $67.35) hits year-low 2nd time in one month; -61c [-0.9%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-12,04:47:43  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $67.35) drops on slipping relative strength; -61c [-0.9%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-12,04:47:07  [GLOSTO] (BC.N) - Brunswick (BC: $67.35) hits year-low 2nd time in one month; -61c [-0.9%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-12,"04:42:53  [GLOSNI] (BC.N .SPX) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $67.96) Thursday December 19, 2024 07:12 EST -"
+Brunswick,2017-12,04:37:23  [GLOSTO] (BC.N) - Brunswick (BC: $67.35) drops on slipping relative strength; -61c [-0.9%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-12,04:37:22  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; plunges 18.4% in 79 days; -61c [-0.9%] Vol Index 2.0 [1 is avg] -
+Brunswick,2017-12,03:17:29  [GLOSTO] (BC.N) - Brunswick (BC: $67.87) offers earnings yield of 8.8% ; -9c [0.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,03:17:12  [GLOSTO] (BC.N) - Brunswick (BC: $67.87) in 8th consecutive fall; -9c [-0.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,"03:12:03  [GLOSTO] (BC.N) - Brunswick (BC: $67.87) keeps sliding, down 13% in 8 days; -9c [-0.1%] Vol Index 1.7 [1 is avg] -"
+Brunswick,2017-12,"02:53:19  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $67.87) keeps sliding, down 13% in 8 days; -9c [-0.1%] Vol Index 1.7 [1 is avg] -"
+Brunswick,2017-12,02:52:48  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $67.87) hits year-low 2nd time in one month; -9c [-0.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,02:52:24  [GLOSTO] (BC.N) - Brunswick (BC: $67.87) in 8th consecutive fall; -9c [-0.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,02:42:58  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; tumbles 17.7% in 79 days; -9c [-0.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,02:42:32  [GLOSTO] (BC.N) - Brunswick (BC: $67.87) offers earnings yield of 8.8% ; -9c [0.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,"02:42:22  [GLOSTO] (BC.N) - Brunswick (BC: $67.87) keeps sliding, down 13% in 8 days; -9c [-0.1%] Vol Index 1.7 [1 is avg] -"
+Brunswick,2017-12,01:53:14  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-12,00:49:03  [GLOSTO] (BC.N) - Investors concerned as Brunswick down in recent days -
+Brunswick,2017-12,"23:52:38  [GLOSNI] (BC.N .SPX) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $67.96) Thursday December 19, 2024 07:12 EST -"
+Brunswick,2017-12,23:17:11  [YAHNEX] (BC.N) - Is Brunswick Corporation's (NYSE:BC) 14% ROE Better Than Average? -- -
+Brunswick,2017-12,"22:48:28  [NEWNYS] (BC.N) - Brunswick in 6th consecutive fall, nears low Tuesday, December 17, 2024 10:00:00 -"
+Brunswick,2017-12,21:48:47  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-12,10:08:14  [MARBEA] (BC.N) - Brunswick (NYSE:BC) Hits New 1-Year Low - Here's Why -- -
+Brunswick,2017-12,07:47:08  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; tumbles 15.5% in 78 days; -$1.71 [-2.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,07:47:01  [GLOSTO] (BC.N) - Brunswick (BC: $69.71) declines 2.4% on slipping relative strength; -$1.71 [-2.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,07:27:27  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $69.71) declines 2.4% on slipping relative strength; -$1.71 [-2.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,07:27:04  [GLOSTO] (BC.N) - Brunswick (BC: $70.24) in 7th consecutive fall; -$1.18 [-1.7%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,07:22:20  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; tumbles 15.5% in 78 days; -$1.71 [-2.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,"07:22:17  [GLOSTO] (BC.N) - Brunswick (BC: $70.24) keeps sliding, down 9.7% in 7 days; -$1.18 [-1.7%] Vol Index 1.4 [1 is avg] -"
+Brunswick,2017-12,07:12:07  [GLOSTO] (BC.N) - Brunswick (BC: $69.71) declines 2.4% on slipping relative strength; -$1.71 [-2.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,07:02:01  [GLOSTO] (BC.N) - Brunswick (BC: $70.24) in 7th consecutive fall; -$1.18 [-1.7%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,"06:52:02  [GLOSTO] (BC.N) - Brunswick (BC: $70.24) keeps sliding, down 9.7% in 7 days; -$1.18 [-1.7%] Vol Index 1.4 [1 is avg] -"
+Brunswick,2017-12,"06:42:26  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $71.42) Wednesday December 18, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:25  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $71.40) drops to six-month low Wednesday December 18, 2024 07:12 EST -"
+Brunswick,2017-12,05:57:14  [GLOSTO] (BC.N) - Brunswick (BC: $71.22) in 7th consecutive fall; -20c [-0.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,05:57:12  [GLOSTO] (BC.N) - Brunswick (BC: $71.22) drops to six-month low on firm volume; -20c [-0.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,05:32:42  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $71.22) drops to six-month low on firm volume; -20c [-0.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,05:31:59  [GLOSTO] (BC.N) - Brunswick (BC: $71.22) in 7th consecutive fall; -20c [-0.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,05:22:02  [GLOSTO] (BC.N) - Brunswick (BC: $71.22) drops to six-month low on firm volume; -20c [-0.3%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,05:07:07  [GLOSTO] (BC.N) - Brunswick (BC: $71.36) weakens below moving average price; -6c [-0.1%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,05:07:03  [GLOSTO] (BC.N) - Brunswick (BC: $71.36) in 7th consecutive fall; -6c [-0.1%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,04:47:37  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $71.36) in 7th consecutive fall; -6c [-0.1%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,"04:42:38  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $71.40) drops to six-month low Wednesday December 18, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:32  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $71.42) Wednesday December 18, 2024 07:12 EST -"
+Brunswick,2017-12,04:42:04  [GLOSTO] (BC.N) - Brunswick (BC: $71.36) weakens below moving average price; -6c [-0.1%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,04:32:16  [GLOSTO] (BC.N) - Brunswick (BC: $71.36) in 7th consecutive fall; -6c [-0.1%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,04:32:09  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 13.5% in 78 days; -6c [-0.1%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,03:17:36  [GLOSTO] (BC.N) - Brunswick (BC: $71.66) offers earnings yield of 8.4% ; +24c [0.3%] Vol Index 2.1 [1 is avg] -
+Brunswick,2017-12,03:17:23  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 13.1% in 78 days; +24c [0.3%] Vol Index 2.1 [1 is avg] -
+Brunswick,2017-12,02:53:13  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 13.1% in 78 days; +24c [0.3%] Vol Index 2.1 [1 is avg] -
+Brunswick,2017-12,02:47:54  [GLOSTO] (BC.N) - Brunswick (BC: $71.66) offers earnings yield of 8.4% ; +24c [0.3%] Vol Index 2.1 [1 is avg] -
+Brunswick,2017-12,02:43:06  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $71.66) increases on high volume; +24c [0.3%] Vol Index 2.1 [1 is avg] -
+Brunswick,2017-12,02:42:18  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 13.1% in 78 days; +24c [0.3%] Vol Index 2.1 [1 is avg] -
+Brunswick,2017-12,01:53:41  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-12,"23:48:55  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $71.42) Wednesday December 18, 2024 07:12 EST -"
+Brunswick,2017-12,"23:48:44  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $71.40) drops to six-month low Wednesday December 18, 2024 07:12 EST -"
+Brunswick,2017-12,"23:12:35  [NEWPEO] (BC.N) - David M. Foulkes's Brunswick top decliner in Ridgecrest Wealth Partners sinks 13.5% in 77 days, hits 160-day low Tuesday December 17, 2024 16:00 EST -"
+Brunswick,2017-12,"22:48:10  [NEWNYS] (BC.N) - Brunswick in 5th consecutive fall, nears low Monday, December 16, 2024 10:00:00 -"
+Brunswick,2017-12,21:48:30  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-12,20:57:08  [TRADAJ] (BC.N) - Public Employees Retirement System of Ohio Lowers Position in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-12,"08:52:19  [GLOSTO] (BC.N) - Brunswick top decliner in Ridgecrest Wealth Partners sinks 13.5% in 77 days, hits 160-day low; -$1.01 [1.4%] -"
+Brunswick,2017-12,07:47:07  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 13.7% in 77 days; -$1.24 [-1.7%] -
+Brunswick,2017-12,07:47:00  [GLOSTO] (BC.N) - Brunswick (BC: $71.17) drops to six-month low on average volume; -$1.24 [-1.7%] -
+Brunswick,2017-12,07:27:29  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $71.17) drops to six-month low on average volume; -$1.24 [-1.7%] -
+Brunswick,2017-12,07:22:12  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 13.7% in 77 days; -$1.24 [-1.7%] -
+Brunswick,2017-12,07:12:01  [GLOSTO] (BC.N) - Brunswick (BC: $71.17) drops to six-month low on average volume; -$1.24 [-1.7%] -
+Brunswick,2017-12,"07:02:23  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $71.42) keeps sliding, down 8.1% in 6 days; -99c [-1.4%] -"
+Brunswick,2017-12,"06:42:31  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 12.6% in 77 days Tuesday December 17, 2024 ... -"
+Brunswick,2017-12,"06:42:27  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 12.6% in 77 days Tuesday December 17, 2024 ... -"
+Brunswick,2017-12,"06:42:17  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $72.41) Tuesday December 17, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:10  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $72.43) drops to six-month low Tuesday December 17, 2024 07:12 EST -"
+Brunswick,2017-12,05:57:12  [GLOSTO] (BC.N) - Brunswick (BC: $71.84) decreases on slipping relative strength; -57c [-0.8%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,05:57:08  [GLOSTO] (BC.N) - Brunswick (BC: $71.84) in 6th consecutive fall; -57c [-0.8%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,05:32:37  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $71.84) in 6th consecutive fall; -57c [-0.8%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,05:31:58  [GLOSTO] (BC.N) - Brunswick (BC: $71.84) decreases on slipping relative strength; -57c [-0.8%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,05:22:00  [GLOSTO] (BC.N) - Brunswick (BC: $71.84) in 6th consecutive fall; -57c [-0.8%] Vol Index 1.2 [1 is avg] -
+Brunswick,2017-12,05:07:07  [GLOSTO] (BC.N) - Brunswick (BC: $71.63) drops 1.1% weakening below moving average price; -78c [-1.1%] -
+Brunswick,2017-12,04:47:41  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $71.63) drops 1.1% on slipping relative strength; -78c [-1.1%] -
+Brunswick,2017-12,"04:42:57  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 12.6% in 77 days Tuesday December 17, 2024 ... -"
+Brunswick,2017-12,"04:42:55  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 12.6% in 77 days Tuesday December 17, 2024 ... -"
+Brunswick,2017-12,"04:42:49  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $72.41) Tuesday December 17, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:37  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $72.43) drops to six-month low Tuesday December 17, 2024 07:12 EST -"
+Brunswick,2017-12,04:42:05  [GLOSTO] (BC.N) - Brunswick (BC: $71.63) drops 1.1% weakening below moving average price; -78c [-1.1%] -
+Brunswick,2017-12,04:32:09  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 13.2% in 77 days; -78c [-1.1%] -
+Brunswick,2017-12,"04:02:21  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 12.6% in 77 days Tuesday December 17, 2024 ... -"
+Brunswick,2017-12,03:17:12  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 12.6% in 77 days; -30c [-0.4%] -
+Brunswick,2017-12,"03:08:20  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 12.6% in 77 days Tuesday December 17, 2024 ... -"
+Brunswick,2017-12,"03:02:20  [NEWNYS] (BC.N) - Brunswick in 6th consecutive fall, nears low Tuesday, December 17, 2024 10:00:00 -"
+Brunswick,2017-12,02:52:55  [GLOTRA] (BC.N .SPX) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 12.6% in 77 days; -30c [-0.4%] -
+Brunswick,2017-12,02:42:11  [GLOSTO] (BC.N) - Brunswick among top decliners of Ridgecrest Wealth Partners holdings; sinks 12.6% in 77 days; -30c [-0.4%] -
+Brunswick,2017-12,00:49:38  [GLOSTO] (BC.N) - Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,"23:52:34  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $72.41) Tuesday December 17, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:07  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $72.43) drops to six-month low Tuesday December 17, 2024 07:12 EST -"
+Brunswick,2017-12,23:47:42  [GLOSTO] (BC.N) - ICYMI: Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,22:48:43  [GLOSTO] (BC.N) - ICYMI: Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,21:47:47  [GLOSTO] (BC.N) - Update: Tuesday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,07:27:11  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $72.65) drops to five-month low; -94c [-1.3%] -
+Brunswick,2017-12,"06:42:35  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $73.59) Monday December 16, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:22  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $73.57) drops to four-month low Monday December 16, 2024 07:12 EST -"
+Brunswick,2017-12,05:32:28  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $72.97) drops to five-month low; -62c [-0.8%] -
+Brunswick,2017-12,04:48:33  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $73.16) drops on slipping relative strength; -43c [-0.6%] -
+Brunswick,2017-12,"04:42:33  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $73.59) Monday December 16, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:30  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $73.27) in 5th consecutive fall Monday December 16, 2024 10:31 EST -"
+Brunswick,2017-12,"04:42:23  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $73.57) drops to four-month low Monday December 16, 2024 07:12 EST -"
+Brunswick,2017-12,"03:23:05  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $73.27) in 5th consecutive fall Monday December 16, 2024 10:31 EST -"
+Brunswick,2017-12,"03:17:34  [NEWNYS] (BC.N) - Brunswick in 5th consecutive fall, nears low Monday, December 16, 2024 10:00:00 -"
+Brunswick,2017-12,01:52:56  [GLOSTO] (BC.N CCL.N) - Carnival continues to outperform Brunswick by 56.6% in the past three months -
+Brunswick,2017-12,01:52:48  [GLOSTO] (BC.N NMG.NR) - Live Nation Entertainment continues to outperform Brunswick by 44.1% in the past three months -
+Brunswick,2017-12,00:54:48  [GLOSTO] (BC.N) - Investors concerned as Brunswick down in recent days -
+Brunswick,2017-12,"00:05:27  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $73.59) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday December 16, 2024 07:12 EST -"
+Brunswick,2017-12,"00:05:08  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $73.59) Monday December 16, 2024 07:12 EST -"
+Brunswick,2017-12,"00:05:08  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $73.57) drops to four-month low Monday December 16, 2024 07:12 EST -"
+Brunswick,2017-12,"22:50:03  [NEWNYS] (BC.N) - Brunswick in 4th consecutive fall, nears three-month low Friday, December 13, 2024 10:00:00 -"
+Brunswick,2017-12,"22:03:41  [MARBEA] (BC.N) - Lord Abbett & CO. LLC Acquires 228,662 Shares of Brunswick Co. (NYSE:BC) -- -"
+Brunswick,2017-12,"20:02:28  [NEWPEO] (BC.N) - Brunswick Chairman Nancy E. Cooper's selling increases by 29% in 2024 Saturday December 14, 2024 -"
+Brunswick,2017-12,17:28:37  [SHIMAR] (BC.N) - U.S. Patent and Trademark Office Awards Patent for Electric Marine Propulsion System and Control Method -
+Brunswick,2017-12,"07:27:23  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $73.07) keeps sliding, down 6.0% in 4 days; -$1.90 [-2.5%] -"
+Brunswick,2017-12,07:02:37  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $73.38) drops to four-month low; -$1.59 [-2.1%] -
+Brunswick,2017-12,"06:42:18  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $74.09) accelerates decline, down 2.3% in 2 days Friday December 13, 2024 10:31 EST -"
+Brunswick,2017-12,"06:42:13  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $74.97) Friday December 13, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:05  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $74.97) falls in 4 out of last 5 days, 5-day fall of 3.4% Friday December 13, 2024 07:12 EST -"
+Brunswick,2017-12,"04:52:22  [GERCOM] (BC.N BWI.F) - German trading: Brunswick (BWI: EUR71.04) falls in 4 out of last 5 days, 5-day fall of 3.9%; -84c [1.2%] -"
+Brunswick,2017-12,04:49:08  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $73.39) falls 2.1% on slipping relative strength; -$1.58 [-2.1%] -
+Brunswick,2017-12,"04:42:40  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $74.09) accelerates decline, down 2.3% in 2 days Friday December 13, 2024 10:31 EST -"
+Brunswick,2017-12,"04:42:36  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $74.97) Friday December 13, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:27  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $74.97) falls in 4 out of last 5 days, 5-day fall of 3.4% Friday December 13, 2024 07:12 EST -"
+Brunswick,2017-12,"03:13:34  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $74.09) accelerates decline, down 2.3% in 2 days Friday December 13, 2024 10:31 EST -"
+Brunswick,2017-12,"03:08:47  [GLOSTP] (BC.N .SPX) - Brunswick tumbles 21% in 2024, underperforming 87% of the market -"
+Brunswick,2017-12,"03:08:43  [NEWNYS] (BC.N) - Brunswick in 4th consecutive fall, nears three-month low Friday, December 13, 2024 10:00:00 -"
+Brunswick,2017-12,"02:53:08  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $74.09) accelerates decline, down 2.3% in 2 days; -88c [-1.2%] -"
+Brunswick,2017-12,02:52:43  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $74.09) drops to three-month low; -88c [-1.2%] -
+Brunswick,2017-12,02:43:00  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $74.09) drops 1.2% on slipping relative strength; -88c [-1.2%] -
+Brunswick,2017-12,"01:18:11  [GLOSTP] (BC.N .SPX) - Brunswick tumbles 21% in 2024, underperforming 87% of the market -"
+Brunswick,2017-12,"00:09:13  [GLOSTP] (BC.N .SPX) - Brunswick tumbles 21% in 2024, underperforming 87% of the market -"
+Brunswick,2017-12,"23:52:31  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $74.97) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday December 13, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:26  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $74.97) Friday December 13, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:07  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $74.97) falls in 4 out of last 5 days, 5-day fall of 3.4% Friday December 13, 2024 07:12 EST -"
+Brunswick,2017-12,"23:13:49  [GLOSTP] (BC.N .SPX) - Brunswick tumbles 21% in 2024, underperforming 87% of the market -"
+Brunswick,2017-12,14:55:27  [STOCKP] (USD= BC.N) - With a trading volume of USD 47 mn trades -1.56 percent lower today -
+Brunswick,2017-12,"11:00:00  [PLUPAT] (BC.N) - European Patent Office awards patent to BRUNSWICK CORP for ""TRIM TAB ACTUATOR"" -"
+Brunswick,2017-12,07:02:49  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $75.26) drops to three-month low; -55c [-0.7%] -
+Brunswick,2017-12,"06:42:32  [GLOBEA] (BC.N .SPX) - Confirmatory Bearish Trend: Brunswick (BC: $75.48) drops to three-month low Thursday December 12, 2024 11:28 EST -"
+Brunswick,2017-12,"06:42:27  [GLOBEA] (BC.N .SPX) - Confirmatory Bearish Trend: Brunswick (BC: $75.48) drops to three-month low Thursday December 12, 2024 10:31 EST -"
+Brunswick,2017-12,"06:42:26  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $75.81) Thursday December 12, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:17  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $75.82) drops to three-month low Thursday December 12, 2024 07:12 EST -"
+Brunswick,2017-12,05:32:38  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $75.04) drops to three-month low; -77c [-1.0%] -
+Brunswick,2017-12,"04:43:14  [GLOBEA] (BC.N .SPX) - Confirmatory Bearish Trend: Brunswick (BC: $75.48) drops to three-month low Thursday December 12, 2024 11:28 EST -"
+Brunswick,2017-12,"04:43:13  [GLOBEA] (BC.N .SPX) - Confirmatory Bearish Trend: Brunswick (BC: $75.48) drops to three-month low Thursday December 12, 2024 10:31 EST -"
+Brunswick,2017-12,"04:43:06  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $75.81) Thursday December 12, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:50  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $75.82) drops to three-month low Thursday December 12, 2024 07:12 EST -"
+Brunswick,2017-12,"04:02:17  [GLOBEA] (BC.N .SPX) - Confirmatory Bearish Trend: Brunswick (BC: $75.48) drops to three-month low Thursday December 12, 2024 11:28 EST -"
+Brunswick,2017-12,"03:07:41  [GLOBEA] (BC.N .SPX) - Confirmatory Bearish Trend: Brunswick (BC: $75.48) drops to three-month low Thursday December 12, 2024 10:31 EST -"
+Brunswick,2017-12,02:53:28  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $75.48) drops to three-month low; -33c [-0.4%] -
+Brunswick,2017-12,01:53:10  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-12,00:49:15  [GLOSTO] (BC.N) - Thursday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,"23:52:20  [GLOBEA] (BC.N .SPX) - BRUNSWICK - THE NYSE PRE-MARKET CONFIRMATORY BEARISH MOMENTUM SIGNAL Thursday December 12, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:04  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $75.81) Thursday December 12, 2024 07:12 EST -"
+Brunswick,2017-12,"23:48:17  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $75.82) drops to three-month low Thursday December 12, 2024 07:12 EST -"
+Brunswick,2017-12,23:48:00  [GLOSTO] (BC.N) - ICYMI: Thursday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,22:48:27  [GLOSTO] (BC.N) - ICYMI: Thursday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,21:49:07  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-12,21:48:48  [GLOSTO] (BC.N) - Update: Thursday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,"10:08:08  [GLOSTO] (BC.N) - Brunswick (BC: $75.82) down 2.5% in 2 days, hits 90-day low; -$1.93 [2.5%] -"
+Brunswick,2017-12,"08:49:18  [GLOSTO] (BC.N) - Brunswick (BC: $75.82) down 2.5% in 2 days, hits 90-day low; -$1.93 [2.5%] -"
+Brunswick,2017-12,"06:42:37  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $75.78) drops Wednesday December 11, 2024 11:28 EST -"
+Brunswick,2017-12,"06:42:32  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $76.42) decreases Wednesday December 11, 2024 10:31 EST -"
+Brunswick,2017-12,"06:42:28  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $76.54) Wednesday December 11, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:15  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $76.51) drops to three-month low Wednesday December 11, 2024 07:12 EST -"
+Brunswick,2017-12,06:23:43  [PUBT] (BC.N) - Office of the Premier of New Brunswick - Electricity rebate estimated to save residential customers $92.6 million annually -
+Brunswick,2017-12,"04:43:07  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $75.78) drops Wednesday December 11, 2024 11:28 EST -"
+Brunswick,2017-12,"04:43:02  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $76.54) Wednesday December 11, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:58  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $76.42) decreases Wednesday December 11, 2024 10:31 EST -"
+Brunswick,2017-12,"04:42:45  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $76.51) drops to three-month low Wednesday December 11, 2024 07:12 EST -"
+Brunswick,2017-12,"04:02:06  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $75.78) drops Wednesday December 11, 2024 11:28 EST -"
+Brunswick,2017-12,"03:08:01  [GLOBEA] (.GDAXI BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $76.42) decreases Wednesday December 11, 2024 10:31 EST -"
+Brunswick,2017-12,01:53:36  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-12,00:49:32  [GLOSTO] (BC.N) - Investors concerned as Brunswick down in recent days -
+Brunswick,2017-12,"00:02:33  [NEWPEO] (BC.N) - David M. Foulkes of Brunswick in third quartile of Large MCap CEO Scorecard for past quarter Wednesday December 11, 2024 -"
+Brunswick,2017-12,"23:52:35  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $76.54) Wednesday December 11, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:06  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $76.51) drops to three-month low Wednesday December 11, 2024 07:12 EST -"
+Brunswick,2017-12,21:48:26  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-12,"10:08:11  [GLOSTO] (BC.N) - Brunswick (BC: $76.51) loses $82 million (1.6%) in MCap, steepest heavyweight fall in Recreational products sector; -$1.24 [1.6%] -"
+Brunswick,2017-12,"08:49:24  [GLOSTO] (BC.N) - Brunswick (BC: $76.51) loses $82 million (1.6%) in MCap, steepest heavyweight fall in Recreational products sector; -$1.24 [1.6%] -"
+Brunswick,2017-12,07:47:14  [GLOSTO] (BC.N) - Brunswick (BC: $77.0) drops to three-month low on firm volume; -75c [-1.0%] -
+Brunswick,2017-12,07:27:28  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.0) drops to three-month low on firm volume; -75c [-1.0%] -
+Brunswick,2017-12,07:12:12  [GLOSTO] (BC.N) - Brunswick (BC: $77.0) drops to three-month low on firm volume; -75c [-1.0%] -
+Brunswick,2017-12,06:47:18  [GLOSTO] (BC.N) - Brunswick (BC: $76.86) drops to three-month low on firm volume; -89c [-1.1%] -
+Brunswick,2017-12,"06:42:29  [GLOSNI] (BC.N .SPX) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $77.75) Tuesday December 10, 2024 07:12 EST -"
+Brunswick,2017-12,06:27:59  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $76.86) drops to three-month low on firm volume; -89c [-1.1%] -
+Brunswick,2017-12,06:17:22  [GLOSTO] (BC.N) - Brunswick (BC: $76.86) drops to three-month low on firm volume; -89c [-1.1%] -
+Brunswick,2017-12,05:07:12  [GLOSTO] (BC.N) - Brunswick (BC: $76.90) drops to three-month low on firm volume; -85c [-1.1%] -
+Brunswick,2017-12,"04:44:11  [GLOSNI] (BC.N .SPX) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $77.75) Tuesday December 10, 2024 07:12 EST -"
+Brunswick,2017-12,04:43:41  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $76.90) drops to three-month low on firm volume; -85c [-1.1%] -
+Brunswick,2017-12,04:32:44  [GLOSTO] (BC.N) - Brunswick (BC: $76.90) drops to three-month low on firm volume; -85c [-1.1%] -
+Brunswick,2017-12,03:43:43  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.20) drops to three-month low; -55c [-0.7%] -
+Brunswick,2017-12,03:17:32  [GLOSTO] (BC.N) - Brunswick (BC: $76.02) drops to three-month low on firm volume; -$1.73 [-2.2%] -
+Brunswick,2017-12,02:53:35  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $76.02) drops to three-month low on firm volume; -$1.73 [-2.2%] -
+Brunswick,2017-12,02:42:23  [GLOSTO] (BC.N) - Brunswick (BC: $76.02) drops to three-month low on firm volume; -$1.73 [-2.2%] -
+Brunswick,2017-12,00:50:01  [GLOSTO] (BC.N) - Investors look to see if Brunswick's recent rally will continue -
+Brunswick,2017-12,"23:47:59  [GLOSNI] (BC.N .SPX) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $77.75) Tuesday December 10, 2024 07:12 EST -"
+Brunswick,2017-12,23:47:46  [GLOSTO] (BC.N) - ICYMI: Traders look to see if Brunswick's recent rally will continue -
+Brunswick,2017-12,22:48:29  [GLOSTO] (BC.N) - ICYMI: Traders look to see if Brunswick's recent rally will continue -
+Brunswick,2017-12,21:48:02  [GLOSTO] (BC.N) - Update: Traders look to see if Brunswick's recent rally will continue -
+Brunswick,2017-12,07:47:09  [GLOSTO] (BC.N) - Brunswick (BC: $78.09) climbs 1.7% on robust volume; +$1.28 [1.7%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,07:27:39  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.09) climbs 1.7% on robust volume; +$1.28 [1.7%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,07:22:18  [GLOSTO] (BC.N) - Brunswick (BC: $78.25) lifts 1.9% on robust volume; +$1.44 [1.9%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,07:12:11  [GLOSTO] (BC.N) - Brunswick (BC: $78.09) climbs 1.7% on robust volume; +$1.28 [1.7%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,07:02:34  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.25) lifts 1.9% on robust volume; +$1.44 [1.9%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,06:52:13  [GLOSTO] (BC.N) - Brunswick (BC: $78.25) lifts 1.9% on robust volume; +$1.44 [1.9%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,06:47:15  [GLOSTO] (BC.N) - Brunswick (BC: $78.41) gains 2.1% on robust volume; +$1.60 [2.1%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,"06:42:10  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $76.81) Monday December 09, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:08  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $76.70) in 8th consecutive fall Monday December 09, 2024 07:12 EST -"
+Brunswick,2017-12,06:27:21  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.41) gains 2.1% on robust volume; +$1.60 [2.1%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,06:17:07  [GLOSTO] (BC.N) - Brunswick (BC: $78.41) gains 2.1% on robust volume; +$1.60 [2.1%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,05:57:19  [GLOSTO] (BC.N) - Brunswick (BC: $78.73) climbs 2.5% on robust volume; +$1.92 [2.5%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,05:32:36  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.73) climbs 2.5% on robust volume; +$1.92 [2.5%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,05:22:12  [GLOSTO] (BC.N) - Brunswick (BC: $78.73) climbs 2.5% on robust volume; +$1.92 [2.5%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,05:07:13  [GLOSTO] (BC.N) - Brunswick (BC: $78.22) lifts 1.8% on robust volume; +$1.41 [1.8%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,04:47:25  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.22) lifts 1.8% on robust volume; +$1.41 [1.8%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,"04:42:40  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $76.81) Monday December 09, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:39  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $76.70) in 8th consecutive fall Monday December 09, 2024 07:12 EST -"
+Brunswick,2017-12,04:32:14  [GLOSTO] (BC.N) - Brunswick (BC: $78.22) lifts 1.8% on robust volume; +$1.41 [1.8%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,04:22:21  [GLOSTO] (BC.N) - Brunswick (BC: $78.20) offers earnings yield of 7.7% ; +$1.39 [1.8%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,04:17:15  [GLOSTO] (BC.N) - Brunswick (BC: $78.20) climbs 1.8% on robust volume; +$1.39 [1.8%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,03:57:28  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.20) climbs 1.8% on robust volume; +$1.39 [1.8%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,03:52:27  [GLOSTO] (BC.N) - Brunswick (BC: $78.20) offers earnings yield of 7.7% ; +$1.39 [1.8%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,03:43:57  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $76.70) falls 4.7% on thin volume; -$3.81 [4.7%] -
+Brunswick,2017-12,03:42:04  [GLOSTO] (BC.N) - Brunswick (BC: $78.20) climbs 1.8% on robust volume; +$1.39 [1.8%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,03:17:18  [GLOSTO] (BC.N) - Brunswick (BC: $78.18) lifts 1.8% on robust volume; +$1.37 [1.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,02:57:50  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.18) lifts 1.8% on robust volume; +$1.37 [1.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,02:53:54  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $76.70) falls 4.7% on thin volume; -$3.81 [4.7%] -
+Brunswick,2017-12,02:42:08  [GLOSTO] (BC.N) - Brunswick (BC: $78.18) lifts 1.8% on robust volume; +$1.37 [1.8%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,02:08:46  [PUBT] (BC.N) - Office of the Premier of New Brunswick - Federal investment to support Indigenous-led wind projects in New Brunswick -
+Brunswick,2017-12,01:52:48  [GLOSTO] (BC.N CCL.N) - Carnival continues to outperform Brunswick by 25.7% in the past month -
+Brunswick,2017-12,01:52:47  [GLOSTO] (BC.N NMG.NR) - Live Nation Entertainment continues to outperform Brunswick by 20.9% in the past month -
+Brunswick,2017-12,00:54:29  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $76.70) falls 4.7% on thin volume; -$3.81 [4.7%] -
+Brunswick,2017-12,"00:06:30  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $76.81) Monday December 09, 2024 07:12 EST -"
+Brunswick,2017-12,"00:05:25  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $76.81) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday December 09, 2024 07:12 EST -"
+Brunswick,2017-12,"00:04:40  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $76.70) in 8th consecutive fall Monday December 09, 2024 07:12 EST -"
+Brunswick,2017-12,23:55:19  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $76.70) falls 4.7% on thin volume; -$3.81 [4.7%] -
+Brunswick,2017-12,02:33:09  [COMFIN] (BC.N) - Hodges Capital Management Inc. Trims Stake in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-12,00:12:37  [MARBEA] (BC.N JHG.N) - Janus Henderson Group PLC Boosts Stake in Brunswick Co. (NYSE:BC) -- -
+Brunswick,2017-12,"22:47:09  [TRADAJ] (BC.N) - Insider Buying: Brunswick Co. (NYSE:BC) Director Acquires $17,777.25 in Stock -"
+Brunswick,2017-12,"16:17:34  [NEWPEO] (BC.N) - Brunswick Company Secretary Christopher F. Dekker trims shareholding in Brunswick Sunday December 08, 2024 -"
+Brunswick,2017-12,"01:27:10  [NEWNYS] (BC.N FNF.N) - NYSE Today's Bearish Signals: Consecutive Falls Friday December 06, 2024 16:00 EST [in descending order of consecutive days of falls 8 days to 5 days] -"
+Brunswick,2017-12,23:35:29  [CERGEM] (BC.N) - Reginald Fils-Aime Purchases 225 Shares of Brunswick Co. (NYSE:BC) Stock -
+Brunswick,2017-12,"17:17:05  [NEWNYS] (BC.N FNF.N) - NYSE Today's Bearish Signals: Consecutive Falls Friday December 06, 2024 16:00 EST [in descending order of consecutive days of falls 8 days to 5 days] -"
+Brunswick,2017-12,10:08:36  [GLOSTO] (BC.N) - Brunswick (BC: $76.70) down 11% in 8 days; Independent Director Reginald Fils-Aime buys; -$9.12 [10.6%] -
+Brunswick,2017-12,09:09:42  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $76.70) falls 4.7% on thin volume; -$3.81 [4.7%] -
+Brunswick,2017-12,08:53:06  [GLOSTO] (BC.N) - Brunswick (BC: $76.70) down 11% in 8 days; Independent Director Reginald Fils-Aime buys; -$9.12 [10.6%] -
+Brunswick,2017-12,07:47:14  [GLOSTO] (BC.N) - Brunswick (BC: $76.69) drops to two-month low on robust volume; -95c [-1.2%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,07:27:47  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $76.69) drops to two-month low on robust volume; -95c [-1.2%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,"07:22:22  [GLOSTO] (BC.N) - Brunswick (BC: $76.59) keeps sliding, down 11% in 8 days; -$1.05 [-1.4%] Vol Index 1.5 [1 is avg] -"
+Brunswick,2017-12,07:12:18  [GLOSTO] (BC.N) - Brunswick (BC: $76.69) drops to two-month low on robust volume; -95c [-1.2%] Vol Index 1.6 [1 is avg] -
+Brunswick,2017-12,"06:52:14  [GLOSTO] (BC.N) - Brunswick (BC: $76.59) keeps sliding, down 11% in 8 days; -$1.05 [-1.4%] Vol Index 1.5 [1 is avg] -"
+Brunswick,2017-12,06:47:19  [GLOSTO] (BC.N) - Brunswick (BC: $77.16) drops to two-month low on robust volume; -48c [-0.6%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,"06:42:20  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $77.64) Friday December 06, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:17  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $77.64) keeps sliding, down 9.5% in 7 days Friday December 06, 2024 07:12 EST -"
+Brunswick,2017-12,06:27:23  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.16) drops ; -48c [-0.6%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,06:12:19  [GLOSTO] (BC.N) - Brunswick (BC: $77.16) drops to two-month low on robust volume; -48c [-0.6%] Vol Index 1.5 [1 is avg] -
+Brunswick,2017-12,05:57:27  [GLOSTO] (BC.N) - Brunswick (BC: $77.11) drops to two-month low on robust volume; -53c [-0.7%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,05:32:42  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.11) drops to two-month low on robust volume; -53c [-0.7%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,05:21:39  [GLOSTO] (BC.N) - Brunswick (BC: $77.11) drops to two-month low on robust volume; -53c [-0.7%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,05:07:15  [GLOSTO] (BC.N) - Brunswick (BC: $77.42) drops to two-month low on robust volume; -22c [-0.3%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,05:07:14  [GLOSTO] (BC.N) - Brunswick (BC: $77.42) in 8th consecutive fall; -22c [-0.3%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,05:02:12  [GERCOM] (BC.N BWI.F) - German trading: Brunswick (BWI: EUR73.96) drops to one-month low; -36c [0.5%] -
+Brunswick,2017-12,04:48:05  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.42) in 8th consecutive fall; -22c [-0.3%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,"04:44:10  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $77.64) Friday December 06, 2024 07:12 EST -"
+Brunswick,2017-12,"04:44:08  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $77.64) keeps sliding, down 9.5% in 7 days Friday December 06, 2024 07:12 EST -"
+Brunswick,2017-12,04:32:39  [GLOSTO] (BC.N) - Brunswick (BC: $77.33) offers earnings yield of 7.8% ; -31c [0.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,04:32:34  [GLOSTO] (BC.N) - Brunswick (BC: $77.42) in 8th consecutive fall; -22c [-0.3%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,04:32:32  [GLOSTO] (BC.N) - Brunswick (BC: $77.42) drops to two-month low on robust volume; -22c [-0.3%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,"04:22:22  [GLOSTO] (BC.N) - Brunswick (BC: $77.33) keeps sliding, down 9.9% in 8 days; -31c [-0.4%] Vol Index 1.7 [1 is avg] -"
+Brunswick,2017-12,"04:03:19  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.33) keeps sliding, down 9.9% in 8 days; -31c [-0.4%] Vol Index 1.7 [1 is avg] -"
+Brunswick,2017-12,03:57:56  [GLOSTO] (BC.N) - Brunswick (BC: $77.33) offers earnings yield of 7.8% ; -31c [0.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,03:48:24  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $77.33) in 8th consecutive fall; -31c [-0.4%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,"03:47:27  [GLOSTO] (BC.N) - Brunswick (BC: $77.33) keeps sliding, down 9.9% in 8 days; -31c [-0.4%] Vol Index 1.7 [1 is avg] -"
+Brunswick,2017-12,03:12:17  [GLOSTO] (BC.N) - Brunswick (BC: $78.15) increases on high volume; +51c [0.7%] Vol Index 2.4 [1 is avg] -
+Brunswick,2017-12,02:54:34  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.15) increases on high volume; +51c [0.7%] Vol Index 2.4 [1 is avg] -
+Brunswick,2017-12,02:42:28  [GLOSTO] (BC.N) - Brunswick (BC: $78.15) increases on high volume; +51c [0.7%] Vol Index 2.4 [1 is avg] -
+Brunswick,2017-12,02:08:40  [STOCKP] (BC.N) - On Friday 6th of December Brunswick -De trades -0.75 percent lower -
+Brunswick,2017-12,"01:07:51  [NEWWIR] (BC.N) - How Brunswick's latest insider trade compares to similar recent trades Thursday December 05, 2024 -"
+Brunswick,2017-12,"00:49:33  [NEWNYS] (BC.N) - Brunswick in 6th consecutive fall, nears low Wednesday, December 04, 2024 11:00:00 -"
+Brunswick,2017-12,00:49:21  [GLOSTO] (BC.N) - Friday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,"23:53:45  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $77.64) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday December 06, 2024 07:12 EST -"
+Brunswick,2017-12,"23:48:16  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $77.64) keeps sliding, down 9.5% in 7 days Friday December 06, 2024 07:12 EST -"
+Brunswick,2017-12,"23:47:59  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $77.64) Friday December 06, 2024 07:12 EST -"
+Brunswick,2017-12,23:47:51  [GLOSTO] (BC.N) - ICYMI: Friday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,22:48:48  [GLOSTO] (BC.N) - ICYMI: Friday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,"22:47:37  [NEWNYS] (BC.N) - Brunswick in 6th consecutive fall, nears low Wednesday, December 04, 2024 10:00:00 -"
+Brunswick,2017-12,22:08:39  [ASHAWS] (BC.N) - Rare Roman Coin Featuring Brutus Up for Auction in Geneva -- -
+Brunswick,2017-12,21:47:54  [GLOSTO] (BC.N) - Update: Friday's Preview: Can Brunswick rebound after being down? -
+Brunswick,2017-12,"20:18:08  [NEWPEO] (BC.N) - Brunswick director Reginald Fils-Aime buys shares worth $17,777 Thursday December 05, 2024 -"
+Brunswick,2017-12,16:47:50  [COMFIN] (BC.N) - Insider Buying: Brunswick Co. (NYSE:BC) Director Buys 225 Shares of Stock -
+Brunswick,2017-12,11:06:48  [GURCOM] (BC.N) - Insider Buying: Reginald Fils-aime Acquires Shares in Brunswick Corp (BC) -
+Brunswick,2017-12,"07:27:31  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.25) keeps sliding, down 8.8% in 7 days; -64c [-0.8%] -"
+Brunswick,2017-12,"06:27:27  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.28) keeps sliding, down 8.8% in 7 days; -61c [-0.8%] -"
+Brunswick,2017-12,"02:53:31  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.71) keeps sliding, down 8.3% in 7 days; -18c [-0.2%] -"
+Brunswick,2017-12,01:53:12  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-12,01:15:50  [STOCKP] (BC.N) - Brunswick -De () is trading -0.75 percent lower on Thursday 5th of December and has a trading volume of USD 38.5 mn -
+Brunswick,2017-12,00:49:13  [GLOSTO] (BC.N) - Investors concerned as Brunswick down in recent days -
+Brunswick,2017-12,"00:48:45  [NEWNYS] (BC.N) - Brunswick in 5th consecutive fall, nears low Tuesday, December 03, 2024 11:00:00 -"
+Brunswick,2017-12,23:57:20  [TRADAJ] (BC.N) - Stadium Capital Management LLC Has $16.45 Million Stock Holdings in Brunswick Co. (NYSE:BC) -
+Brunswick,2017-12,21:48:20  [GLOWEE] (BC.N) - What the Beneish M-score tells us about Brunswick -
+Brunswick,2017-12,18:03:36  [INDRET] (BC.N) - Brunswick Corporation Recognized by Newsweek as One of America's Most Responsible Companies for the Fifth Consecutive Year -
+Brunswick,2017-12,10:21:09  [ENTBUS] (BC.N) - Patent Issued for Marine propulsion system and control method (USPTO 12139241) -
+Brunswick,2017-12,"07:27:20  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $78.78) keeps sliding, down 8.2% in 6 days; -73c [-0.9%] -"
+Brunswick,2017-12,"06:42:25  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $79.51) Wednesday December 04, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:24  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $79.01) in 6th consecutive fall Wednesday December 04, 2024 11:28 EST -"
+Brunswick,2017-12,"06:42:19  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $79.34) keeps sliding, down 7.6% in 6 days Wednesday December 04, 2024 10:31 EST -"
+Brunswick,2017-12,"06:42:07  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $79.48) in 5th consecutive fall Wednesday December 04, 2024 07:12 EST -"
+Brunswick,2017-12,"06:22:42  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.14) keeps sliding, down 7.8% in 6 days; -37c [-0.5%] -"
+Brunswick,2017-12,"04:42:44  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $79.51) Wednesday December 04, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:42  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $79.01) in 6th consecutive fall Wednesday December 04, 2024 11:28 EST -"
+Brunswick,2017-12,"04:42:36  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $79.34) keeps sliding, down 7.6% in 6 days Wednesday December 04, 2024 10:31 EST -"
+Brunswick,2017-12,"04:42:28  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $79.48) in 5th consecutive fall Wednesday December 04, 2024 07:12 EST -"
+Brunswick,2017-12,"04:02:22  [NEWNYS] (BC.N) - Brunswick in 6th consecutive fall, nears low Wednesday, December 04, 2024 11:00:00 -"
+Brunswick,2017-12,"04:02:13  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $79.01) in 6th consecutive fall Wednesday December 04, 2024 11:28 EST -"
+Brunswick,2017-12,"03:07:16  [GLOBEA] (BC.N) - Confirmatory Bearish Trend: Brunswick (BC: $79.34) keeps sliding, down 7.6% in 6 days Wednesday December 04, 2024 10:31 EST -"
+Brunswick,2017-12,"03:02:02  [NEWNYS] (BC.N) - Brunswick in 6th consecutive fall, nears low Wednesday, December 04, 2024 10:00:00 -"
+Brunswick,2017-12,"02:52:55  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.34) keeps sliding, down 7.6% in 6 days; -17c [-0.2%] -"
+Brunswick,2017-12,01:53:25  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-12,"23:47:54  [GLOBEA] (.GDAXI BC.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $79.51) Wednesday December 04, 2024 07:12 EST -"
+Brunswick,2017-12,"23:47:50  [GLOBEA] (.GDAXI BC.N) - Brunswick (BC: $79.48) in 5th consecutive fall Wednesday December 04, 2024 07:12 EST -"
+Brunswick,2017-12,"22:47:36  [NEWNYS] (BC.N) - Brunswick in 4th consecutive fall, nears low Monday, December 02, 2024 10:00:00 -"
+Brunswick,2017-12,21:47:48  [GLOWEE] (BC.N) - What the Altman-Z score tells us about Brunswick -
+Brunswick,2017-12,21:19:14  [MARDAJ] (BC.N) - Brunswick Co. (NYSE:BC) Shares Sold by MetLife Investment Management LLC -
+Brunswick,2017-12,13:14:43  [WKRNEW] (BC.N) - Short Interest in Brunswick Co. (NYSE:BC) Drops By 6.3% -- -
+Brunswick,2017-12,08:49:58  [GLOSTP] (BC.N .SPX) - Monthly: Brunswick (BC: $80.51) increases 2% on thin volume in November 2024 -
+Brunswick,2017-12,"07:47:13  [GLOSTO] (BC.N) - Brunswick (BC: $79.50) keeps sliding, down 7.4% in 5 days; -41c [-0.5%] Vol Index 1.3 [1 is avg] -"
+Brunswick,2017-12,"07:27:22  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.50) keeps sliding, down 7.4% in 5 days; -41c [-0.5%] Vol Index 1.3 [1 is avg] -"
+Brunswick,2017-12,07:22:16  [GLOSTO] (BC.N) - Brunswick (BC: $79.53) in 5th consecutive fall; -38c [-0.5%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,"07:12:14  [GLOSTO] (BC.N) - Brunswick (BC: $79.50) keeps sliding, down 7.4% in 5 days; -41c [-0.5%] Vol Index 1.3 [1 is avg] -"
+Brunswick,2017-12,07:02:55  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.53) in 5th consecutive fall; -38c [-0.5%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,06:52:14  [GLOSTO] (BC.N) - Brunswick (BC: $79.53) in 5th consecutive fall; -38c [-0.5%] Vol Index 1.3 [1 is avg] -
+Brunswick,2017-12,"06:47:18  [GLOSTO] (BC.N) - Brunswick (BC: $79.24) keeps sliding, down 7.7% in 5 days; -67c [-0.8%] Vol Index 1.3 [1 is avg] -"
+Brunswick,2017-12,"06:42:32  [GLOBEA] (BC.N .SPX) - Confirmatory Bearish Trend: Brunswick (BC: $79.40) in 5th consecutive fall Tuesday December 03, 2024 11:28 EST -"
+Brunswick,2017-12,"06:42:28  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $79.91) Tuesday December 03, 2024 07:12 EST -"
+Brunswick,2017-12,"06:42:09  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $79.94) in 4th consecutive fall Tuesday December 03, 2024 07:12 EST -"
+Brunswick,2017-12,"06:27:04  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.24) keeps sliding, down 7.7% in 5 days; -67c [-0.8%] Vol Index 1.3 [1 is avg] -"
+Brunswick,2017-12,"06:12:12  [GLOSTO] (BC.N) - Brunswick (BC: $79.24) keeps sliding, down 7.7% in 5 days; -67c [-0.8%] Vol Index 1.3 [1 is avg] -"
+Brunswick,2017-12,05:57:25  [GLOSTO] (BC.N) - Brunswick (BC: $79.63) in 5th consecutive fall; -28c [-0.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,05:32:32  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.63) in 5th consecutive fall; -28c [-0.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,05:22:11  [GLOSTO] (BC.N) - Brunswick (BC: $79.63) in 5th consecutive fall; -28c [-0.4%] Vol Index 1.4 [1 is avg] -
+Brunswick,2017-12,05:07:21  [GLOSTO] (BC.N) - Brunswick (BC: $79.0) in 5th consecutive fall; -91c [-1.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,"04:42:31  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $79.91) Tuesday December 03, 2024 07:12 EST -"
+Brunswick,2017-12,"04:42:30  [GLOBEA] (BC.N .SPX) - Confirmatory Bearish Trend: Brunswick (BC: $79.40) in 5th consecutive fall Tuesday December 03, 2024 11:28 EST -"
+Brunswick,2017-12,"04:42:16  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $79.94) in 4th consecutive fall Tuesday December 03, 2024 07:12 EST -"
+Brunswick,2017-12,04:32:10  [GLOSTO] (BC.N) - Brunswick (BC: $79.0) in 5th consecutive fall; -91c [-1.1%] Vol Index 1.7 [1 is avg] -
+Brunswick,2017-12,04:17:37  [GLOSTO] (BC.N) - Brunswick (BC: $79.40) offers earnings yield of 7.5% ; -51c [0.6%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,"04:12:24  [GLOSTO] (BC.N) - Brunswick (BC: $79.40) keeps sliding, down 7.5% in 5 days; -51c [-0.6%] Vol Index 1.9 [1 is avg] -"
+Brunswick,2017-12,04:12:10  [GLOSTO] (BC.N) - Brunswick (BC: $79.40) in 5th consecutive fall; -51c [-0.6%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,"04:07:42  [GLOBEA] (BC.N .SPX) - Confirmatory Bearish Trend: Brunswick (BC: $79.40) in 5th consecutive fall Tuesday December 03, 2024 11:28 EST -"
+Brunswick,2017-12,"04:07:30  [NEWNYS] (BC.N) - Brunswick in 5th consecutive fall, nears low Tuesday, December 03, 2024 11:00:00 -"
+Brunswick,2017-12,03:58:55  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.40) in 5th consecutive fall; -51c [-0.6%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,03:43:13  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.40) drops ; -51c [-0.6%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,03:42:30  [GLOSTO] (BC.N) - Brunswick (BC: $79.40) offers earnings yield of 7.5% ; -51c [0.6%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,"03:42:22  [GLOSTO] (BC.N) - Brunswick (BC: $79.40) keeps sliding, down 7.5% in 5 days; -51c [-0.6%] Vol Index 1.9 [1 is avg] -"
+Brunswick,2017-12,03:37:03  [GLOSTO] (BC.N) - Brunswick (BC: $79.40) in 5th consecutive fall; -51c [-0.6%] Vol Index 1.9 [1 is avg] -
+Brunswick,2017-12,"02:53:06  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $79.63) keeps sliding, down 7.2% in 5 days; -28c [-0.4%] -"
+Brunswick,2017-12,"23:52:41  [GLOBEA] (BC.N .SPX) - BRUNSWICK - THE NYSE PRE-MARKET CONFIRMATORY BEARISH MOMENTUM SIGNAL Tuesday December 03, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:14  [GLOBEA] (BC.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS BRUNSWICK (BC: $79.91) Tuesday December 03, 2024 07:12 EST -"
+Brunswick,2017-12,"23:52:13  [GLOBEA] (BC.N .SPX) - Brunswick (BC: $79.94) in 4th consecutive fall Tuesday December 03, 2024 07:12 EST -"
+Brunswick,2017-12,"04:44:02  [GLOSNI] (.GDAXI BC.N) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $80.51) Monday December 02, 2024 07:12 EST -"
+Brunswick,2017-12,03:59:14  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $80.51) increases 2% on thin volume in November 2024 -
+Brunswick,2017-12,03:53:11  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $80.51) increases 2% on thin volume in November 2024 -
+Brunswick,2017-12,03:43:19  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $80.51) decreases 0.8% on below average volume; -62c [0.8%] -
+Brunswick,2017-12,"03:27:16  [NEWNYS] (BC.N) - Brunswick in 4th consecutive fall, nears low Monday, December 02, 2024 10:00:00 -"
+Brunswick,2017-12,"02:54:09  [GLOTRA] (BC.N .SPX) - Brunswick (BC: $80.19) keeps sliding, down 6.6% in 4 days; -32c [-0.4%] -"
+Brunswick,2017-12,02:54:04  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $80.51) decreases 0.8% on below average volume; -62c [0.8%] -
+Brunswick,2017-12,01:52:34  [GLOSTO] (BC.N LYV.N) - Live Nation Entertainment continues to outperform Brunswick by 62.8% year to date -
+Brunswick,2017-12,01:52:29  [GLOSTO] (BC.N CCL.L) - Carnival continues to outperform Brunswick by 52.2% year to date -
+Brunswick,2017-12,01:09:56  [GLOSTO] (BC.N) - Investors concerned as Brunswick down in recent days -
+Brunswick,2017-12,01:03:58  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $80.51) increases 2% on thin volume in November 2024 -
+Brunswick,2017-12,00:58:58  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $80.51) increases 2% on thin volume in November 2024 -
+Brunswick,2017-12,00:53:34  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $80.51) decreases 0.8% on below average volume; -62c [0.8%] -
+Brunswick,2017-12,"00:22:16  [GLOSNI] (.GDAXI BC.N) - THE NYSE PRE-MARKET STOCK SNIPPETS BRUNSWICK (BC: $80.51) Monday December 02, 2024 07:12 EST -"
+Brunswick,2017-12,00:20:19  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $80.51) increases 2% on thin volume in November 2024 -
+Brunswick,2017-12,00:09:07  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $80.51) increases 2% on thin volume in November 2024 -
+Brunswick,2017-12,23:53:58  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $80.51) decreases 0.8% on below average volume; -62c [0.8%] -
+Brunswick,2017-12,23:09:28  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $80.51) increases 2% on thin volume in November 2024 -
+Brunswick,2017-12,22:54:29  [GLOSTO] (BC.N) - Monthly: Brunswick (BC: $80.51) increases 2% on thin volume in November 2024 -
+Brunswick,2017-12,"05:10:11  [MYPRIN] (BC.N) - Fort St. John Lotto 6/49 ticket among six in BC to win $25,000 -- -"
+Brunswick,2017-12,"05:07:42  [MYBULK] (BC.N) - Fort St. John Lotto 6/49 ticket among six in BC to win $25,000 -- -"
+Brunswick,2017-12,"02:33:00  [AMEBAN] (BC.N) - Charles Schwab Investment Management Inc. Purchases 1,765 Shares of Brunswick Co. (NYSE:BC) -"
+Brunswick,2017-12,01:19:41  [GLOWEE] (BC.N .SPX) - Weekly: Brunswick (BC: $80.51) decreases 0.8% on below average volume; -62c [0.8%] -

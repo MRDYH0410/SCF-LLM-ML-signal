@@ -1,0 +1,783 @@
+firm_id,date,text
+HubSpot,2017-7,20:35:18  [ETFDAI] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $600.00 Price Target at Stifel Nicolaus -- -
+HubSpot,2017-7,"12:32:02  [WKRNEW] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Industrial Alliance Investment Management Inc. -- -"
+HubSpot,2017-7,22:31:09  [MARBEA] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $600.00 Price Target at Stifel Nicolaus -- -
+HubSpot,2017-7,20:47:09  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: STIFEL CUTS TARGET PRICE TO $600.00 FROM $700.00 -
+HubSpot,2017-7,15:10:32  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: TD COWEN CUTS TARGET PRICE TO $600 FROM $680 -
+HubSpot,2017-7,"08:07:44  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $498.90) adds $315 million (1.3%) in MCap, top heavyweight rise in Technology sector; +$6.18 [1.3%] -"
+HubSpot,2017-7,"06:53:21  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $498.90) adds $315 million (1.3%) in MCap, top heavyweight rise in Technology sector; +$6.18 [1.3%] -"
+HubSpot,2017-7,05:56:54  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.6% in 30 days; +$4.80 [1.0%] -
+HubSpot,2017-7,05:47:19  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.7% in 30 days; +$4.54 [0.9%] -
+HubSpot,2017-7,05:27:42  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.7% in 30 days; +$4.54 [0.9%] -
+HubSpot,2017-7,05:12:26  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.7% in 30 days; +$4.54 [0.9%] -
+HubSpot,2017-7,04:47:11  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.7% in 30 days; +$4.42 [0.9%] -
+HubSpot,2017-7,04:23:31  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.7% in 30 days; +$4.42 [0.9%] -
+HubSpot,2017-7,04:12:15  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.7% in 30 days; +$4.42 [0.9%] -
+HubSpot,2017-7,03:52:52  [GLOSTO] (HUBS.N ACN.N) - Hubspot continues to underperform Accenture by 21.5% in the past month -
+HubSpot,2017-7,03:02:19  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.0% in 30 days; +$2.45 [0.5%] -
+HubSpot,2017-7,02:54:44  [GLOSTO] (HUBS.N) - Hubspot continues to underperform Apple by 18.9% in the past month -
+HubSpot,2017-7,02:54:31  [GLOSTO] (META.O HUBS.N) - Hubspot continues to underperform Meta Platforms by 5.7% in the past month -
+HubSpot,2017-7,02:42:50  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.0% in 30 days; +$2.45 [0.5%] -
+HubSpot,2017-7,"02:42:49  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $492.72) Monday July 29, 2024 07:07 EDT -"
+HubSpot,2017-7,02:32:28  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.0% in 30 days; +$2.45 [0.5%] -
+HubSpot,2017-7,02:12:29  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.2% in 30 days; +$1.38 [0.3%] -
+HubSpot,2017-7,01:53:47  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,01:53:21  [GLOSTO] (HUBS.N ADI.O) - Hubspot continues to underperform Analog Devices by 9.7% in the past month -
+HubSpot,2017-7,01:37:32  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.2% in 30 days; +$1.38 [0.3%] -
+HubSpot,2017-7,00:43:08  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.0% in 30 days; +$2.86 [0.6%] -
+HubSpot,2017-7,00:27:02  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French sinks 8.5% in 30 days -
+HubSpot,2017-7,23:57:20  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French sinks 8.5% in 30 days -
+HubSpot,2017-7,23:52:01  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.6% in 30 days -
+HubSpot,2017-7,23:21:52  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.6% in 30 days -
+HubSpot,2017-7,22:52:07  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.6% in 30 days -
+HubSpot,2017-7,22:48:55  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,22:21:52  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.6% in 30 days -
+HubSpot,2017-7,"22:08:55  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $492.72) Monday July 29, 2024 07:07 EDT -"
+HubSpot,2017-7,22:08:37  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,22:03:31  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,20:50:16  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,"20:49:44  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 5.0% Friday, July 26, 2024 10:00:00 -"
+HubSpot,2017-7,20:23:37  [STOCKP] (HUBS.N) - Hubspot (HUBS) is trading -0.61 percent lower on Monday 29th of July and has a trading volume of USD 0 -
+HubSpot,2017-7,19:47:17  [GLOSTO] (HUBS.N) - Update: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,"17:02:53  [COMFIN] (HUBS.N) - Bamco Inc. NY Sells 3,004 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"15:17:15  [NEWPEO] (HUBS.N) - Hubspot CEO Yamini Rangan trims shareholding in Hubspot Monday July 29, 2024 -"
+HubSpot,2017-7,"15:17:12  [NEWPEO] (HUBS.N) - Hubspot Director Dharmesh Shah trims shareholding in Hubspot Monday July 29, 2024 -"
+HubSpot,2017-7,"08:41:50  [TRADAJ] (HUBS.N) - Price T Rowe Associates Inc. MD Acquires 176,336 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"08:32:38  [COMFIN] (HUBS.N) - 2,938 Shares in HubSpot, Inc. (NYSE:HUBS) Bought by Magnetar Financial LLC -"
+HubSpot,2017-7,"04:17:16  [DAILYQ] (HUBS.N) - Quadrature Capital Ltd Boosts Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"04:15:11  [WKRNEW] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Holdings Raised by Quadrature Capital Ltd -- -"
+HubSpot,2017-7,"23:47:57  [AMEBAN] (HUBS.N) - O Shaughnessy Asset Management LLC Has $733,000 Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"23:17:18  [ZOLCOM] (HUBS.N) - O Shaughnessy Asset Management LLC Grows Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"22:19:08  [ETFDAI] (HUBS.N) - Acadian Asset Management LLC Has $548,000 Stock Position in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"19:40:12  [MARBEA] (HUBS.N) - Acadian Asset Management LLC Has $548,000 Stock Position in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"02:37:08  [ZOLCOM] (HUBS.N) - UniSuper Management Pty Ltd Raises Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,08:17:59  [CERGEM] (HUBS.N) - Weekly Investment Analysts' Ratings Updates for HubSpot (HUBS) -
+HubSpot,2017-7,08:07:37  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $492.73) decreases $3.03 on slipping relative strength; -$3.03 [0.6%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,"06:57:40  [DAILYQ] (HUBS.N) - Shell Asset Management Co. Sells 451 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,06:53:46  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $492.73) decreases $3.03 on slipping relative strength; -$3.03 [0.6%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,05:57:23  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.1% in 27 days; -76c [-0.2%] -
+HubSpot,2017-7,05:27:22  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $492.86) drops $2.90 on slipping relative strength; -$2.90 [-0.6%] -
+HubSpot,2017-7,04:47:17  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.0% in 27 days; -41c [-0.1%] -
+HubSpot,2017-7,"04:42:40  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $495.76) Friday July 26, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:27  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 15.7% in 26 days Friday July 26, 2024 07:07 EDT -"
+HubSpot,2017-7,04:40:26  [STOCKP] (HUBS.N) - Hubspot is trading 4.74 percent higher with a volume of USD 0 on Friday 26th of July -
+HubSpot,2017-7,04:23:31  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.0% in 27 days; -41c [-0.1%] -
+HubSpot,2017-7,04:12:07  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.0% in 27 days; -41c [-0.1%] -
+HubSpot,2017-7,03:07:24  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.9% in 27 days; Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,02:54:29  [GLOSTO] (HUBS.N) - Hubspot continues to underperform Apple by 28.1% year to date -
+HubSpot,2017-7,02:54:18  [GLOSTO] (HUBS.N ACN.N) - Hubspot continues to underperform Accenture by 9.0% year to date -
+HubSpot,2017-7,"02:43:14  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $495.76) Friday July 26, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:43:07  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 15.7% in 26 days Friday July 26, 2024 07:07 EDT -"
+HubSpot,2017-7,02:42:57  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.9% in 27 days; Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,02:32:27  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.9% in 27 days; Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,02:12:24  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $494.76) decreases on robust volume; -$1 [-0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,01:53:21  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,01:53:05  [GLOSTO] (META.O HUBS.N) - Hubspot continues to underperform Meta Platforms by 44.9% year to date -
+HubSpot,2017-7,01:53:04  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $494.76) decreases on robust volume; -$1 [-0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,01:38:05  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 16.1% in 27 days; -$1 [-0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,01:36:47  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $494.76) decreases on robust volume; -$1 [-0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,01:17:32  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $497.10) in 2nd consecutive rise; +$1.34 [0.3%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,01:12:25  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $497.10) up 5.0% in 2 days; +$1.34 [0.3%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,"01:03:09  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 5.0% Friday, July 26, 2024 10:00:00 -"
+HubSpot,2017-7,00:52:54  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $497.10) up 5.0% in 2 days; +$1.34 [0.3%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,"00:52:53  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $497.10) increases $1.34, lifts 3.6% for week; +$1.34 [0.3%] Vol Index 1.5 [1 is avg] -"
+HubSpot,2017-7,00:43:40  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Norris Perne & French plummets 15.7% in 27 days; +$1.34 [0.3%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,00:43:17  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $497.10) up 5.0% in 2 days; +$1.34 [0.3%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,00:42:50  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $497.10) in 2nd consecutive rise; +$1.34 [0.3%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-7,00:27:09  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.6% in 27 days -
+HubSpot,2017-7,23:57:34  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.6% in 27 days -
+HubSpot,2017-7,23:52:12  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.4% in 27 days -
+HubSpot,2017-7,23:22:13  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.4% in 27 days -
+HubSpot,2017-7,22:52:17  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.4% in 27 days -
+HubSpot,2017-7,22:48:54  [GLOSTO] (HUBS.N) - Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,"22:29:37  [MARBEA] (HUBS.N) - CANADA LIFE ASSURANCE Co Has $25.42 Million Holdings in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,22:22:08  [GLOSTO] (HUBS.N) - Hubspot top decliner in Norris Perne & French tumbles 10.4% in 27 days -
+HubSpot,2017-7,"21:50:15  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 15.7% in 26 days Friday July 26, 2024 07:07 EDT -"
+HubSpot,2017-7,"21:48:54  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $495.76) Friday July 26, 2024 07:07 EDT -"
+HubSpot,2017-7,21:48:46  [GLOSTO] (HUBS.N) - ICYMI: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,21:48:24  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,20:47:39  [GLOSTO] (HUBS.N) - ICYMI: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,20:24:36  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: CITIGROUP CUTS TARGET PRICE TO $699 FROM $767 -
+HubSpot,2017-7,19:47:27  [GLOSTO] (HUBS.N) - Update: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,"16:42:24  [NEWPEO] (HUBS.N) - Yamini Rangan's Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.7% in 25 days Wednesday July 24, 2024 16:00 EDT -"
+HubSpot,2017-7,"16:15:13  [YAHNEX] (HUBS.N) - Is HubSpot, Inc. (HUBS) a Good Machine Learning Stock According to Street Analysts? -- -"
+HubSpot,2017-7,"16:06:43  [INSMON] (HUBS.N) - Is HubSpot, Inc. (HUBS) a Good Machine Learning Stock According to Street Analysts? -- -"
+HubSpot,2017-7,"10:27:13  [WATNEW] (BFCEp.PA HUBS.N) - Natixis Sells 872 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"10:00:00  [PLUCOM] (HUBS.N) - HubSpot to Announce Second Quarter 2024 Financial Results on August 7, 2024 -"
+HubSpot,2017-7,10:00:00  [PLUCOM] (HUBS.N) - FastSpring Launches Hubspot Integration and Expands on its B2B Offering with its Summer Product Releases -
+HubSpot,2017-7,07:36:59  [BENZIN] (HUBS.N) - $100 Invested In HubSpot 5 Years Ago Would Be Worth This Much Today -
+HubSpot,2017-7,"06:05:00  [BSW] (HUBS.N) - HubSpot to Announce Second Quarter 2024 Financial Results on August 7, 2024 -"
+HubSpot,2017-7,05:52:25  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 16.0% in 26 days; +$22.32 [4.7%] -
+HubSpot,2017-7,05:47:20  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 16.2% in 26 days; +$20.98 [4.4%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-7,05:27:51  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 16.2% in 26 days; +$20.98 [4.4%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-7,05:22:32  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $495.28) jumps 4.6% on firm volume; +$21.95 [4.6%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,05:12:12  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 16.2% in 26 days; +$20.98 [4.4%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-7,05:02:42  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $495.28) jumps 4.6% on firm volume; +$21.95 [4.6%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,04:52:14  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $495.28) jumps 4.6% on firm volume; +$21.95 [4.6%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,"04:42:20  [GLOSNI] (HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $473.33) Thursday July 25, 2024 07:07 EDT -"
+HubSpot,2017-7,04:22:55  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 16.1% in 26 days; +$21.30 [4.5%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,04:12:19  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 16.1% in 26 days; +$21.30 [4.5%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-7,03:57:47  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 15.7% in 26 days; +$23.61 [5.0%] -
+HubSpot,2017-7,03:22:19  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 15.7% in 26 days; +$23.61 [5.0%] -
+HubSpot,2017-7,"02:42:59  [GLOSNI] (HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $473.33) Thursday July 25, 2024 07:07 EDT -"
+HubSpot,2017-7,02:12:19  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.1% in 26 days; +$9.87 [2.1%] -
+HubSpot,2017-7,01:58:07  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-7,01:37:23  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.1% in 26 days; +$9.87 [2.1%] -
+HubSpot,2017-7,01:10:50  [STOCKP] (HUBS.N) - Hubspot is trading -3.1 percent lower with a volume of USD 0 on Thursday 25th of July -
+HubSpot,2017-7,00:42:48  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.9% in 26 days; -$1.02 [-0.2%] -
+HubSpot,2017-7,00:37:15  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 9.0% in 26 days -
+HubSpot,2017-7,23:57:32  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 9.0% in 26 days -
+HubSpot,2017-7,23:57:29  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 8.9% in 26 days -
+HubSpot,2017-7,23:22:03  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 8.9% in 26 days -
+HubSpot,2017-7,"21:48:26  [GLOSNI] (HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $473.33) Thursday July 25, 2024 07:07 EDT -"
+HubSpot,2017-7,21:48:14  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-7,"20:49:22  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.5% Tuesday, July 23, 2024 10:00:00 -"
+HubSpot,2017-7,19:27:15  [WATNEW] (HUBS.N) - Oppenheimer Cuts HubSpot (NYSE:HUBS) Price Target to $625.00 -
+HubSpot,2017-7,"17:57:18  [ANTARA] (HUBS.N) - More than eight in ten Singapore companies are using digital marketing to advertise products and services, but half face challenges measuring retur... -"
+HubSpot,2017-7,08:07:40  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.7% in 25 days; -$14.98 [3.1%] -
+HubSpot,2017-7,06:47:40  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.7% in 25 days; -$14.98 [3.1%] -
+HubSpot,2017-7,05:22:20  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.3% in 25 days; -$6.89 [-1.4%] -
+HubSpot,2017-7,05:02:15  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.3% in 25 days; -$6.89 [-1.4%] -
+HubSpot,2017-7,04:52:15  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.3% in 25 days; -$6.89 [-1.4%] -
+HubSpot,2017-7,"04:42:22  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $488.47) Wednesday July 24, 2024 07:07 EDT -"
+HubSpot,2017-7,04:22:43  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $482.01) falls 1.3% on slipping relative strength; -$6.46 [-1.3%] -
+HubSpot,2017-7,03:57:34  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.6% in 25 days; -$8.40 [-1.7%] -
+HubSpot,2017-7,"03:42:18  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $488.47) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday July 24, 2024 07:07 EDT -"
+HubSpot,2017-7,"03:42:08  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $488.65) lifts 1.2% after finding support Wednesday July 24, 2024 07:07 EDT -"
+HubSpot,2017-7,03:37:20  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.6% in 25 days; -$8.40 [-1.7%] -
+HubSpot,2017-7,03:22:19  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.6% in 25 days; -$8.40 [-1.7%] -
+HubSpot,2017-7,"02:42:52  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $488.47) Wednesday July 24, 2024 07:07 EDT -"
+HubSpot,2017-7,02:42:47  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $480.68) falls 1.6% on slipping relative strength; -$7.79 [-1.6%] -
+HubSpot,2017-7,02:12:08  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.1% in 25 days; -$5.46 [-1.1%] -
+HubSpot,2017-7,"01:58:06  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $488.47) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday July 24, 2024 07:07 EDT -"
+HubSpot,2017-7,"01:57:54  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $488.65) lifts 1.2% after finding support Wednesday July 24, 2024 07:07 EDT -"
+HubSpot,2017-7,01:57:49  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.1% in 25 days; -$5.46 [-1.1%] -
+HubSpot,2017-7,01:37:08  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.1% in 25 days; -$5.46 [-1.1%] -
+HubSpot,2017-7,00:42:52  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.6% in 25 days; -$2.44 [-0.5%] -
+HubSpot,2017-7,00:32:04  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 6.1% in 25 days -
+HubSpot,2017-7,23:57:04  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 6.1% in 25 days -
+HubSpot,2017-7,23:52:58  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-7,23:52:01  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 8.3% in 25 days -
+HubSpot,2017-7,"23:42:21  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $488.65) lifts 1.2% after finding support Wednesday July 24, 2024 07:07 EDT -"
+HubSpot,2017-7,"23:42:21  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $488.47) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday July 24, 2024 07:07 EDT -"
+HubSpot,2017-7,23:18:51  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 8.3% in 25 days -
+HubSpot,2017-7,23:00:30  [YAHNEX] (HUBS.N) - FastSpring Launches Hubspot Integration and Expands on its B2B Offering with its Summer Product Releases -- -
+HubSpot,2017-7,22:51:58  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 8.3% in 25 days -
+HubSpot,2017-7,22:50:40  [FINGEV] (HUBS.N) - FastSpring Launches Hubspot Integration and Expands on its B2B Offering with its Summer Product Releases -- -
+HubSpot,2017-7,22:49:15  [WNCOMA] (HUBS.N) - FastSpring Launches Hubspot Integration and Expands on its B2B Offering with its Summer Product Releases -- -
+HubSpot,2017-7,22:48:47  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,22:36:02  [PRN] (HUBS.N) - FastSpring Launches Hubspot Integration and Expands on its B2B Offering with its Summer Product Releases -
+HubSpot,2017-7,22:17:02  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 8.3% in 25 days -
+HubSpot,2017-7,"21:59:14  [LATNIG] (HUBS.N) - Google's failed deal with Wiz, and with HubSpot before that, puts Google in an awkward spot to grow Cloud; Wiz staff are likely upset at missing a ... -"
+HubSpot,2017-7,"21:48:02  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $488.47) Wednesday July 24, 2024 07:07 EDT -"
+HubSpot,2017-7,21:47:34  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,20:48:35  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,"20:11:16  [CXOTOD] (HUBS.N) - More than eight in ten Singapore companies are using digital marketing to advertise products and services, but half face challenges measuring retur... -"
+HubSpot,2017-7,19:47:38  [GLOSTO] (HUBS.N) - Update: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,10:00:00  [GLOBEA] (HUBS.N .SPX) - Hubspot (NYSE:HUBS $473.33) in today's trading sell signal: Bearish Candlestick chart pattern -
+HubSpot,2017-7,"08:07:31  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $488.65) inches higher, resistance at 12-day EMA; +$5.64 [1.2%] -"
+HubSpot,2017-7,"06:47:55  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $488.65) inches higher, resistance at 12-day EMA; +$5.64 [1.2%] -"
+HubSpot,2017-7,"05:59:38  [RTRS] (ORCL.N MSFT.O) - Cybersecurity firm Wiz calls off $23 bln deal with Google, memo says (UPDATE 4) -"
+HubSpot,2017-7,05:22:31  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.2% in 24 days; +$5.61 [1.2%] -
+HubSpot,2017-7,05:02:27  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.2% in 24 days; +$5.61 [1.2%] -
+HubSpot,2017-7,04:52:18  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.2% in 24 days; +$5.61 [1.2%] -
+HubSpot,2017-7,"04:42:37  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $483.01) Tuesday July 23, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:28  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.1% in 23 days Tuesday July 23, 2024 07:07 EDT -"
+HubSpot,2017-7,04:08:36  [STOCKP] (HUBS.N) - Hubspot trades 0.66 percent higher on Tuesday 23rd of July -
+HubSpot,2017-7,03:57:40  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.3% in 24 days; +$4.89 [1.0%] -
+HubSpot,2017-7,03:32:50  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.3% in 24 days; +$4.89 [1.0%] -
+HubSpot,2017-7,03:22:22  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.3% in 24 days; +$4.89 [1.0%] -
+HubSpot,2017-7,02:44:08  [GRAIND] (HUBS.N) - InboundAV Announces Strategic Partnership with Blue Key Consulting -- -
+HubSpot,2017-7,"02:42:58  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $483.01) Tuesday July 23, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:42:41  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.1% in 23 days Tuesday July 23, 2024 07:07 EDT -"
+HubSpot,2017-7,02:12:22  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.3% in 24 days; +$4.54 [0.9%] -
+HubSpot,2017-7,01:53:20  [GLOSTO] (IBM.N HUBS.N) - Hubspot continues to underperform IBM by 30.4% year to date -
+HubSpot,2017-7,01:37:17  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.3% in 24 days; +$4.54 [0.9%] -
+HubSpot,2017-7,"01:03:18  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.5% Tuesday, July 23, 2024 10:00:00 -"
+HubSpot,2017-7,01:02:18  [EINPRE] (HUBS.N) - InboundAV Announces Strategic Partnership with Blue Key Consulting -
+HubSpot,2017-7,00:42:50  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 17.5% in 24 days; +$3.77 [0.8%] -
+HubSpot,2017-7,00:32:14  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 6.4% in 24 days -
+HubSpot,2017-7,23:57:24  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 6.4% in 24 days -
+HubSpot,2017-7,23:52:48  [GLOSTO] (ORCL.N HUBS.N) - Hubspot continues to underperform Oracle by 50.3% year to date -
+HubSpot,2017-7,23:52:11  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.0% in 24 days -
+HubSpot,2017-7,23:17:07  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.0% in 24 days -
+HubSpot,2017-7,22:52:13  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.0% in 24 days -
+HubSpot,2017-7,22:37:40  [ITNEWS] (HUBS.N) - First-Ever Integration App Released for Syncing Multiple HubSpot Accounts -- -
+HubSpot,2017-7,22:33:48  [FINGEV] (HUBS.N) - First-Ever Integration App Released for Syncing Multiple HubSpot Accounts -- -
+HubSpot,2017-7,22:19:43  [YAHNEX] (HUBS.N) - First-Ever Integration App Released for Syncing Multiple HubSpot Accounts -- -
+HubSpot,2017-7,22:17:23  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.0% in 24 days -
+HubSpot,2017-7,22:00:04  [PRN] (HUBS.N) - First-Ever Integration App Released for Syncing Multiple HubSpot Accounts -
+HubSpot,2017-7,"21:48:16  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $483.01) Tuesday July 23, 2024 07:07 EDT -"
+HubSpot,2017-7,"21:48:03  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.1% in 23 days Tuesday July 23, 2024 07:07 EDT -"
+HubSpot,2017-7,21:03:20  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: SCOTIABANK CUTS TARGET PRICE TO $650 FROM $700 -
+HubSpot,2017-7,20:02:24  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Lowered to $625.00 at Oppenheimer -
+HubSpot,2017-7,"19:49:43  [ITNEWS] (HUBS.N) - More than eight in ten Singapore companies are using digital marketing to advertise products and services, but half face challenges measuring retur... -"
+HubSpot,2017-7,"18:22:18  [ACN] (MSFT.O HUBS.N) - More than eight in ten Singapore companies are using digital marketing to advertise products and services, but half face challenges measuring returns on investment: HubSpot research -"
+HubSpot,2017-7,"18:08:18  [ASIAON] (HUBS.N) - More than eight in ten Singapore companies are using digital marketing to advertise products and services, but half face challenges measuring retur... -"
+HubSpot,2017-7,"18:08:11  [BUSNEW] (HUBS.N) - More than eight in ten Singapore companies are using digital marketing to advertise products and services, but half face challenges measuring retur... -"
+HubSpot,2017-7,06:28:06  [PUBT] (HUBS.N) - HubSpot Inc. - What is a Go to Market Strategy? GTM Plan Template + Examples -
+HubSpot,2017-7,05:52:24  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.4% in 23 days; +$1.45 [0.3%] -
+HubSpot,2017-7,05:47:19  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.4% in 23 days; +$1.45 [0.3%] -
+HubSpot,2017-7,05:27:22  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.4% in 23 days; +$1.45 [0.3%] -
+HubSpot,2017-7,05:12:15  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.4% in 23 days; +$1.45 [0.3%] -
+HubSpot,2017-7,04:47:11  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.8% in 23 days; -71c [-0.1%] -
+HubSpot,2017-7,"04:42:33  [GLOBEA] (.GDAXI HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in AMF Pensionsforsakring AB slides 7.2% in 23 days Monday July 22, 2024 11:31 EDT -"
+HubSpot,2017-7,"04:42:29  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.6% in 20 days Monday July 22, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:24  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $479.82) Monday July 22, 2024 07:07 EDT -"
+HubSpot,2017-7,04:22:55  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.8% in 23 days; -71c [-0.1%] -
+HubSpot,2017-7,04:12:05  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.8% in 23 days; -71c [-0.1%] -
+HubSpot,2017-7,03:53:37  [GLOSTO] (HUBS.N ACN.N) - Hubspot continues to underperform Accenture by 11.5% year to date -
+HubSpot,2017-7,02:53:41  [GLOSTO] (META.O HUBS.N) - Hubspot continues to underperform Meta Platforms by 51.8% year to date -
+HubSpot,2017-7,02:53:16  [GLOSTO] (HUBS.N) - Hubspot continues to underperform Apple by 33.8% year to date -
+HubSpot,2017-7,"02:42:33  [GLOBEA] (.GDAXI HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in AMF Pensionsforsakring AB slides 7.2% in 23 days Monday July 22, 2024 11:31 EDT -"
+HubSpot,2017-7,"02:42:23  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $479.82) Monday July 22, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:42:21  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.6% in 20 days Monday July 22, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:19:11  [ETFDAI] (HUBS.N) - Nicolet Advisory Services LLC Makes New Investment in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,02:12:15  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.0% in 23 days; -$2.33 [-0.5%] -
+HubSpot,2017-7,01:53:29  [GLOSTO] (HUBS.N ADI.O) - Hubspot continues to underperform Analog Devices by 37.7% year to date -
+HubSpot,2017-7,01:53:19  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.0% in 23 days; -$2.33 [-0.5%] -
+HubSpot,2017-7,01:37:08  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.0% in 23 days; -$2.33 [-0.5%] -
+HubSpot,2017-7,"01:14:40  [MARBEA] (HUBS.N) - Mitsubishi UFJ Trust & Banking Corp Decreases Stock Position in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,01:14:10  [MARBEA] (HUBS.N) - HubSpot (NYSE:HUBS) PT Lowered to $625.00 at Oppenheimer -- -
+HubSpot,2017-7,"01:02:17  [GLOBEA] (.GDAXI HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in AMF Pensionsforsakring AB slides 7.2% in 23 days Monday July 22, 2024 11:31 EDT -"
+HubSpot,2017-7,00:43:31  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.4% in 23 days; -$4.25 [-0.9%] -
+HubSpot,2017-7,00:26:53  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.2% in 23 days -
+HubSpot,2017-7,23:57:01  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.2% in 23 days -
+HubSpot,2017-7,23:52:02  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.7% in 23 days -
+HubSpot,2017-7,23:16:52  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.7% in 23 days -
+HubSpot,2017-7,22:57:08  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.7% in 23 days -
+HubSpot,2017-7,22:21:57  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 7.7% in 23 days -
+HubSpot,2017-7,"22:03:30  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.6% in 20 days Monday July 22, 2024 07:07 EDT -"
+HubSpot,2017-7,"22:03:27  [GLOBEA] (.GDAXI .SPX) - Hubspot (HUBS: $479.82) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday July 22, 2024 07:07 EDT -"
+HubSpot,2017-7,"22:03:12  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $479.82) Monday July 22, 2024 07:07 EDT -"
+HubSpot,2017-7,"22:00:50  [RTRS] (HUBS.N) - HUBSPOT, INC.  HUBS.N: OPPENHEIMER CUTS TARGET PRICE TO $625 FROM $725 -"
+HubSpot,2017-7,"20:49:12  [ETFDAI] (HUBS.N) - QRG Capital Management Inc. Has $204,000 Stock Position in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,20:47:46  [GLOSTO] (HUBS.N) - Weekly: Hubspot (HUBS: $480.09) increases 0.8% on robust volume; +$3.96 [0.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-7,17:12:35  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: OPPENHEIMER CUTS TARGET PRICE TO $625 FROM $725 -
+HubSpot,2017-7,16:53:34  [STOCKP] (HUBS.N) - Hubspot is trading -0.33 percent lower with a volume of USD 0 on Monday 22nd of July -
+HubSpot,2017-7,"13:39:56  [STOOBS] (HUBS.N) - Vanguard Group Inc. Has $3.03 Billion Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"13:39:45  [MARDAJ] (HUBS.N) - Vanguard Group Inc. Grows Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"05:26:36  [TRADAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Intech Investment Management LLC -"
+HubSpot,2017-7,"01:47:10  [TRADAJ] (MNG.L HUBS.N) - M&G Plc Takes $8.53 Million Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"01:07:12  [MARBEA] (MNG.L HUBS.N) - M&G Plc Purchases Shares of 13,609 HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"00:05:41  [ETFDAI] (HUBS.N USB.N) - US Bancorp DE Increases Position in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"22:32:39  [ETFDAI] (3772.T HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Kingsview Wealth Management LLC -- -"
+HubSpot,2017-7,"15:32:31  [NEWPEO] (HUBS.N) - Hubspot CFO Kate Bueker trims shareholding in Hubspot Sunday July 21, 2024 -"
+HubSpot,2017-7,"15:32:19  [NEWPEO] (HUBS.N) - Hubspot Executive Chairman Brian Halligan adds shareholding in Hubspot Sunday July 21, 2024 -"
+HubSpot,2017-7,"02:30:08  [WKRNEW] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Stock Position Increased by Orion Portfolio Solutions LLC -- -"
+HubSpot,2017-7,"22:45:38  [MARBEA] (HUBS.N) - BNP PARIBAS ASSET MANAGEMENT Holding S.A. Trims Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"20:54:00  [COMFIN] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) Insider Sells 8,500 Shares of Stock -"
+HubSpot,2017-7,"16:46:08  [ETFDAI] (HUBS.N) - Brokerages Set HubSpot, Inc. (NYSE:HUBS) Target Price at $633.69 -- -"
+HubSpot,2017-7,"10:00:00  [USOFFI] (HUBS.N) - Insider Trading: Executive Chair, Halligan Brian sells 1,455 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-7,"10:00:00  [USOFFI] (HUBS.N) - Insider Trading: Executive Chair, Halligan Brian buys 6,006 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-7,08:07:23  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $480.09) closes at 8.2% below VWAP; Executive Chairman Brian Halligan sells; -$1.32 [0.3%] -
+HubSpot,2017-7,06:47:23  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $480.09) closes at 8.2% below VWAP; Executive Chairman Brian Halligan sells; -$1.32 [0.3%] -
+HubSpot,2017-7,05:52:13  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.1% in 20 days; -$3.98 [-0.8%] -
+HubSpot,2017-7,05:27:27  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $475.91) falls 1.1% on slipping relative strength; -$5.50 [-1.1%] -
+HubSpot,2017-7,05:02:30  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.1% in 20 days; -$4.41 [-0.9%] -
+HubSpot,2017-7,04:52:08  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.1% in 20 days; -$4.41 [-0.9%] -
+HubSpot,2017-7,"04:42:53  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $481.41) Friday July 19, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:35  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.3% in 19 days Friday July 19, 2024 07:07 EDT -"
+HubSpot,2017-7,04:23:50  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $476.70) decreases $4.71 on slipping relative strength; -$4.71 [-1.0%] -
+HubSpot,2017-7,04:03:07  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.5% in 20 days; -$6.49 [-1.3%] -
+HubSpot,2017-7,03:42:31  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.5% in 20 days; -$6.49 [-1.3%] -
+HubSpot,2017-7,03:27:29  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.5% in 20 days; -$6.49 [-1.3%] -
+HubSpot,2017-7,"03:22:24  [WKRNEW] (HUBS.N) - Mitsubishi UFJ Asset Management Co. Ltd. Acquires 5,091 Shares of HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"02:43:25  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $481.41) Friday July 19, 2024 07:07 EDT -"
+HubSpot,2017-7,02:43:10  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $474.68) falls 1.4% on slipping relative strength; -$6.73 [-1.4%] -
+HubSpot,2017-7,"02:43:07  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.3% in 19 days Friday July 19, 2024 07:07 EDT -"
+HubSpot,2017-7,02:32:53  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.5% in 20 days; -$6.73 [-1.4%] -
+HubSpot,2017-7,"01:58:42  [WKRNEW] (CAH.N HUBS.N) - State Board of Administration of Florida Retirement System Raises Stake in Cardinal Health, Inc. (NYSE:CAH) -- -"
+HubSpot,2017-7,"01:58:42  [WKRNEW] (HUBS.N) - State Board of Administration of Florida Retirement System Increases Stake in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,01:53:17  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,01:43:21  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 19.9% in 20 days; -$9.10 [-1.9%] -
+HubSpot,2017-7,23:52:27  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 6.8% in 20 days -
+HubSpot,2017-7,23:43:16  [STOCKP] (HUBS.N) - Hubspot is trading 0.22 percent higher with a volume of USD 0 on Friday 19th of July -
+HubSpot,2017-7,23:16:55  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 6.8% in 20 days -
+HubSpot,2017-7,23:13:13  [NOTENG] (HUBS.N) - HubSpot Sustainability Report 2024: Promoting Ethics in Artificial Intelligence -
+HubSpot,2017-7,22:52:14  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 6.8% in 20 days -
+HubSpot,2017-7,22:48:55  [GLOSTO] (HUBS.N) - Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,22:17:11  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB slides 6.8% in 20 days -
+HubSpot,2017-7,"21:48:43  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $481.41) Friday July 19, 2024 07:07 EDT -"
+HubSpot,2017-7,21:48:09  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,"21:48:08  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.3% in 19 days Friday July 19, 2024 07:07 EDT -"
+HubSpot,2017-7,21:47:58  [GLOSTO] (HUBS.N) - ICYMI: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,20:48:09  [GLOSTO] (HUBS.N) - ICYMI: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,"20:01:11  [MARBEA] (HUBS.N) - Empowered Funds LLC Lowers Stock Position in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"19:57:18  [ZOLCOM] (HUBS.N) - Empowered Funds LLC Lowers Stock Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,19:47:51  [GLOSTO] (HUBS.N) - Update: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,"18:37:33  [ZOLCOM] (HUBS.N) - Brian Halligan Sells 8,500 Shares of HubSpot, Inc. (NYSE:HUBS) Stock -"
+HubSpot,2017-7,"17:48:22  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Wednesday July 17, 2024 -"
+HubSpot,2017-7,"17:27:36  [NEWPEO] (HUBS.N) - Yamini Rangan's Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.5% in 18 days Wednesday July 17, 2024 16:00 EDT -"
+HubSpot,2017-7,08:10:56  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $481.59) rises 5.8% from 14-day low; Executive Chairman Brian Halligan sells; +$1.23 [0.3%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-7,08:05:09  [GRAIND] (HUBS.N) - We-Connect Enhances LinkedIn Automation with Native HubSpot Integration -- -
+HubSpot,2017-7,06:47:45  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $481.59) rises 5.8% from 14-day low; Executive Chairman Brian Halligan sells; +$1.23 [0.3%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-7,05:52:20  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.4% in 19 days; +79c [0.2%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-7,05:22:17  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.6% in 19 days; +1c [0.002%] -
+HubSpot,2017-7,05:02:36  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.6% in 19 days; +1c [0.002%] -
+HubSpot,2017-7,04:52:13  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.6% in 19 days; +1c [0.002%] -
+HubSpot,2017-7,04:12:11  [EINPRE] (HUBS.N) - We-Connect Enhances LinkedIn Automation with Native HubSpot Integration -
+HubSpot,2017-7,03:57:24  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.4% in 19 days; +96c [0.2%] -
+HubSpot,2017-7,03:52:08  [LATNIG] (HUBS.N) - HubSpot CRM Marketing Analyst at Eden Solutions and Resources Limited - 2 Openings -- -
+HubSpot,2017-7,03:37:27  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.4% in 19 days; +96c [0.2%] -
+HubSpot,2017-7,02:12:20  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.0% in 19 days; +$3.37 [0.7%] -
+HubSpot,2017-7,01:58:14  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.0% in 19 days; +$3.37 [0.7%] -
+HubSpot,2017-7,01:58:05  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-7,01:37:29  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.0% in 19 days; +$3.37 [0.7%] -
+HubSpot,2017-7,00:43:24  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB plummets 18.4% in 19 days; +98c [0.2%] -
+HubSpot,2017-7,00:32:25  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 8.7% in 19 days -
+HubSpot,2017-7,23:57:25  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB sinks 8.7% in 19 days -
+HubSpot,2017-7,23:52:19  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB falls 5.9% in 19 days -
+HubSpot,2017-7,23:17:05  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB falls 5.9% in 19 days -
+HubSpot,2017-7,22:52:11  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB falls 5.9% in 19 days -
+HubSpot,2017-7,22:48:37  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,22:18:13  [GLOSTO] (HUBS.N) - Hubspot top decliner in AMF Pensionsforsakring AB falls 5.9% in 19 days -
+HubSpot,2017-7,21:48:22  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-7,21:47:59  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,20:48:26  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,"20:42:37  [NEWPEO] (HUBS.N) - Hubspot chairman Brian Halligan sells shares worth $4 million Wednesday July 17, 2024 -"
+HubSpot,2017-7,19:47:16  [GLOSTO] (HUBS.N) - Update: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,"09:30:37  [MARBEA] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) Insider Sells 8,500 Shares of Stock -- -"
+HubSpot,2017-7,08:07:27  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.5% in 18 days; -$8.05 [1.6%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-7,06:48:03  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.5% in 18 days; -$8.05 [1.6%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-7,05:27:53  [GLOTRA] (.SPX HUBS.N) - Hubspot (HUBS: $480.06) falls 1.8% on slipping relative strength; -$8.75 [-1.8%] -
+HubSpot,2017-7,05:22:35  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.5% in 18 days; -$8.02 [-1.6%] -
+HubSpot,2017-7,05:22:08  [GRAIND] (HUBS.N) - Proven ROI Announces Integration of Encompass LOS with HubSpot for Enhanced Customer Relationship Management -- -
+HubSpot,2017-7,05:02:54  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.5% in 18 days; -$8.02 [-1.6%] -
+HubSpot,2017-7,04:52:24  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.5% in 18 days; -$8.02 [-1.6%] -
+HubSpot,2017-7,04:52:12  [EINPRE] (HUBS.N) - Proven ROI Announces Integration of Encompass LOS with HubSpot for Enhanced Customer Relationship Management -
+HubSpot,2017-7,"04:42:21  [GLOBUL] (HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $488.81) Wednesday July 17, 2024 07:07 EDT -"
+HubSpot,2017-7,04:23:00  [GLOTRA] (.SPX HUBS.N) - Hubspot (HUBS: $481.43) falls 1.5% on slipping relative strength; -$7.38 [-1.5%] -
+HubSpot,2017-7,03:57:51  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.6% in 18 days; -$8.97 [-1.8%] -
+HubSpot,2017-7,"03:42:26  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $488.81) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday July 17, 2024 07:07 EDT -"
+HubSpot,2017-7,03:32:45  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.6% in 18 days; -$8.97 [-1.8%] -
+HubSpot,2017-7,03:22:21  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.6% in 18 days; -$8.97 [-1.8%] -
+HubSpot,2017-7,03:08:01  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.2% in 18 days; -$6.17 [-1.3%] -
+HubSpot,2017-7,"02:42:37  [GLOBUL] (HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $488.81) Wednesday July 17, 2024 07:07 EDT -"
+HubSpot,2017-7,02:42:35  [GLOTRA] (.SPX HUBS.N) - Hubspot (HUBS: $482.64) falls 1.3% on slipping relative strength; -$6.17 [-1.3%] -
+HubSpot,2017-7,02:32:30  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 18.2% in 18 days; -$6.17 [-1.3%] -
+HubSpot,2017-7,"01:54:58  [AMEBAN] (HUBS.N) - Meeder Advisory Services Inc. Grows Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"01:53:28  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $488.81) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday July 17, 2024 07:07 EDT -"
+HubSpot,2017-7,01:38:03  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 17.5% in 18 days; -$2.11 [-0.4%] -
+HubSpot,2017-7,01:12:27  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 17.4% in 18 days; -$1.91 [-0.4%] -
+HubSpot,2017-7,01:12:11  [EINPRE] (HUBS.N) - VSSL Agency Reaches Platinum Tier as a HubSpot Solutions Partner -
+HubSpot,2017-7,01:09:17  [GRAIND] (HUBS.N) - VSSL Agency Reaches Platinum Tier as a HubSpot Solutions Partner -- -
+HubSpot,2017-7,00:53:15  [GLOTRA] (.SPX HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 17.4% in 18 days; -$1.91 [-0.4%] -
+HubSpot,2017-7,00:42:29  [GLOSTO] (HUBS.N) - Hubspot top decliner in Envestnet Portfolio Solutions plummets 17.4% in 18 days; -$1.91 [-0.4%] -
+HubSpot,2017-7,"23:57:22  [ZOLCOM] (HUBS.N) - Meeder Advisory Services Inc. Has $306,000 Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,23:53:06  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-7,"23:42:20  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $488.81) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday July 17, 2024 07:07 EDT -"
+HubSpot,2017-7,22:48:47  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,"21:48:01  [GLOBUL] (HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $488.81) Wednesday July 17, 2024 07:07 EDT -"
+HubSpot,2017-7,21:47:40  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,20:48:08  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,"20:48:03  [NEWNYS] (HUBS.N) - Hubspot in 7th consecutive fall, nears low Monday, July 15, 2024 10:00:00 -"
+HubSpot,2017-7,19:47:49  [GLOSTO] (HUBS.N) - Update: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,"15:44:09  [MARBEA] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Given Consensus Recommendation of ""Moderate Buy"" by Brokerages -- -"
+HubSpot,2017-7,"15:42:19  [ZOLCOM] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Given Consensus Recommendation of ""Moderate Buy"" by Brokerages -"
+HubSpot,2017-7,09:58:08  [MARRES] (HUBS.N) - Google Parent 'Drops Out'of HubSpot Acquisition Talks -- -
+HubSpot,2017-7,"09:24:51  [CERGEM] (HUBS.N) - Qsemble Capital Management LP Purchases Shares of 2,058 HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"08:07:26  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $488.73) shares rise after 7 days, of declines.; +$16.84 [3.6%] Vol Index 1.2 [1 is avg] -"
+HubSpot,2017-7,"06:47:40  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $488.73) shares rise after 7 days, of declines.; +$16.84 [3.6%] Vol Index 1.2 [1 is avg] -"
+HubSpot,2017-7,"04:42:42  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $471.89) Tuesday July 16, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:33  [GLOBEA] (.GDAXI .SPX) - Hubspot top decliner in DNB Asset Management AS plummets 20.0% in 16 days Tuesday July 16, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:31  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS sinks 8.4% in 17 days Tuesday July 16, 2024 11:31 EDT -"
+HubSpot,2017-7,"02:42:59  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS sinks 8.4% in 17 days Tuesday July 16, 2024 11:31 EDT -"
+HubSpot,2017-7,"02:42:56  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $471.89) Tuesday July 16, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:42:49  [GLOBEA] (.GDAXI .SPX) - Hubspot top decliner in DNB Asset Management AS plummets 20.0% in 16 days Tuesday July 16, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:09:02  [RTRS] (MSFT.O HUBS.N) - Wiz deal could help Alphabet nail down the cloud (CORRECTED, BREAKINGVIEWS) -"
+HubSpot,2017-7,"01:17:34  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS sinks 8.4% in 17 days Tuesday July 16, 2024 11:31 EDT -"
+HubSpot,2017-7,01:10:31  [CERGEM] (HUBS.N) - KeyCorp Trims HubSpot (NYSE:HUBS) Target Price to $460.00 -
+HubSpot,2017-7,"23:47:30  [ZOLCOM] (SEIC.O HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Sei Investments Co. -"
+HubSpot,2017-7,"21:52:23  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $471.89) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Tuesday July 16, 2024 07:07 EDT -"
+HubSpot,2017-7,"21:52:11  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $471.89) Tuesday July 16, 2024 07:07 EDT -"
+HubSpot,2017-7,"21:47:59  [GLOBEA] (.GDAXI .SPX) - Hubspot top decliner in DNB Asset Management AS plummets 20.0% in 16 days Tuesday July 16, 2024 07:07 EDT -"
+HubSpot,2017-7,20:14:13  [BARCHA] (HUBS.N) - Alphabet Reportedly Canceled Its Buyout of HubSpot. Does That Make HubSpot Stock a Buy? -- -
+HubSpot,2017-7,20:13:39  [YAHNEX] (HUBS.N) - Alphabet Reportedly Canceled Its Buyout of HubSpot. Does That Make HubSpot Stock a Buy? -- -
+HubSpot,2017-7,20:12:17  [MOTFOO] (HUBS.N) - Alphabet Reportedly Canceled Its Buyout of HubSpot. Does That Make HubSpot Stock a Buy? -
+HubSpot,2017-7,20:11:09  [MOTFOL] (.SPX HUBS.N) - Alphabet Reportedly Canceled Its Buyout of HubSpot. Does That Make HubSpot Stock a Buy? -- -
+HubSpot,2017-7,"19:03:09  [NEWNYS] (TNP.N HUBS.N) - NYSE Today's Bearish Signals: Consecutive Falls Monday July 15, 2024 16:00 EDT [in descending order of consecutive days of falls 7 days to 2 days] -"
+HubSpot,2017-7,17:59:09  [COMFIN] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $580.00 Price Target at UBS Group -
+HubSpot,2017-7,17:37:22  [WATNEW] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Cut to $570.00 by Analysts at Piper Sandler -
+HubSpot,2017-7,"04:42:49  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS sinks 8.5% in 16 days Monday July 15, 2024 11:31 EDT -"
+HubSpot,2017-7,"04:42:40  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $476.13) Monday July 15, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:37  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS sinks 8.5% in 16 days Monday July 15, 2024 12:28 EDT -"
+HubSpot,2017-7,"04:42:36  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in DNB Asset Management AS plummets 19.2% in 13 days Monday July 15, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:42:43  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS sinks 8.5% in 16 days Monday July 15, 2024 12:28 EDT -"
+HubSpot,2017-7,"02:42:33  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS sinks 8.5% in 16 days Monday July 15, 2024 11:31 EDT -"
+HubSpot,2017-7,"02:42:31  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $476.13) Monday July 15, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:42:25  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in DNB Asset Management AS plummets 19.2% in 13 days Monday July 15, 2024 07:07 EDT -"
+HubSpot,2017-7,"01:57:07  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS sinks 8.5% in 16 days Monday July 15, 2024 12:28 EDT -"
+HubSpot,2017-7,"01:17:43  [NEWNYS] (HUBS.N) - Hubspot in 7th consecutive fall, nears low Monday, July 15, 2024 10:00:00 -"
+HubSpot,2017-7,"01:17:39  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS sinks 8.5% in 16 days Monday July 15, 2024 11:31 EDT -"
+HubSpot,2017-7,01:11:44  [STOCKP] (HUBS.N) - On Monday 15th of July Hubspot trades -2.78 percent lower -
+HubSpot,2017-7,"00:35:15  [MARBEA] (SNBN.S HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Swiss National Bank -- -"
+HubSpot,2017-7,"00:33:00  [ZOLCOM] (SNBN.S HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Swiss National Bank -"
+HubSpot,2017-7,"23:07:57  [RTRS] (HUBS.N) - HUBSPOT, INC.  HUBS.N: MORGAN STANLEY  CUTS TARGET PRICE TO $674.00 FROM $703.00 -"
+HubSpot,2017-7,22:48:27  [GLOSTO] (HUBS.N) - Monday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,"22:05:07  [GLOBEA] (.GDAXI HUBS.N) - Hubspot top decliner in DNB Asset Management AS plummets 19.2% in 13 days Monday July 15, 2024 07:07 EDT -"
+HubSpot,2017-7,22:03:47  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,"22:03:38  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $476.13) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday July 15, 2024 07:07 EDT -"
+HubSpot,2017-7,"22:03:33  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $476.13) Monday July 15, 2024 07:07 EDT -"
+HubSpot,2017-7,20:49:27  [GLOSTO] (HUBS.N) - Weekly: Hubspot (HUBS: $476.38) in bottom 1% performers of NYSE market in past week; -$110.88 [18.9%] Vol Index 2.9 [1 is avg] -
+HubSpot,2017-7,"20:49:13  [NEWNYS] (HUBS.N) - Hubspot in 6th consecutive fall, nears low Friday, July 12, 2024 10:00:00 -"
+HubSpot,2017-7,20:49:02  [GLOSTO] (HUBS.N) - ICYMI: Monday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,20:04:46  [WKRNEW] (HUBS.N) - Wells Fargo & Company Cuts HubSpot (NYSE:HUBS) Price Target to $650.00 -- -
+HubSpot,2017-7,19:47:15  [GLOSTO] (HUBS.N) - Update: Monday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,19:27:10  [DAILYQ] (WFC.N HUBS.N) - HubSpot (NYSE:HUBS) Price Target Cut to $650.00 -
+HubSpot,2017-7,18:52:35  [TRADAJ] (HUBS.N) - HubSpot (NYSE:HUBS) PT Lowered to $570.00 at Piper Sandler -
+HubSpot,2017-7,18:41:35  [WATNEW] (HUBS.N) - HubSpot (NYSE:HUBS) PT Lowered to $460.00 at KeyCorp -
+HubSpot,2017-7,18:41:34  [DAILYQ] (HUBS.N) - HubSpot (NYSE:HUBS) PT Lowered to $570.00 at Piper Sandler -
+HubSpot,2017-7,"10:00:00  [NEWNYS] (TNP.N HUBS.N) - NYSE Today's Bearish Signals: Consecutive Falls Monday July 15, 2024 16:00 EDT [in descending order of consecutive days of falls 7 days to 2 days] -"
+HubSpot,2017-7,07:21:38  [MSNUKA] (HUBS.N) - Google near deal to acqurie cybersecurity startup Wiz for $23 billion - WSJ -- -
+HubSpot,2017-7,"04:07:01  [WATNEW] (HUBS.N) - Forsta AP Fonden Boosts Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"03:15:38  [FINSWI] (DAL.N NFLX.O) - Netflix, Delta Air Lines And HubSpot Are Among Top 10 Large Stocks That Performed Worst This Week (July 7-July 13): Are The Others In Your Portfoli... -"
+HubSpot,2017-7,"02:46:10  [WKRNEW] (HUBS.N) - Highland Capital Management LLC Makes New Investment in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"02:45:38  [MARBEA] (HUBS.N) - Highland Capital Management LLC Makes New Investment in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,00:09:02  [MARDAJ] (HUBS.N) - Piper Sandler Lowers HubSpot (NYSE:HUBS) Price Target to $570.00 -
+HubSpot,2017-7,"20:36:46  [TICREP] (3772.T HUBS.N) - Geneos Wealth Management Inc. Grows Stock Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,19:47:22  [DAILYQ] (HUBS.N) - KeyCorp Lowers HubSpot (NYSE:HUBS) Price Target to $460.00 -
+HubSpot,2017-7,15:24:17  [AMEBAN] (HUBS.N) - HubSpot (NYSE:HUBS) Shares Gap Down  Following Analyst Downgrade -
+HubSpot,2017-7,15:17:08  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Shares Gap Down Following Analyst Downgrade -
+HubSpot,2017-7,15:17:05  [TICREP] (HUBS.N) - HubSpot (NYSE:HUBS) Shares Gap Down Following Analyst Downgrade -
+HubSpot,2017-7,"10:38:10  [WKRNEW] (HUBS.N) - TimesSquare Capital Management LLC Has $88.42 Million Holdings in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"10:37:06  [DAILYQ] (HUBS.N) - TimesSquare Capital Management LLC Has $88.42 Million Stock Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"07:00:40  [WKRNEW] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Purchased by Oppenheimer Asset Management Inc. -- -"
+HubSpot,2017-7,"03:01:32  [DAILYQ] (HUBS.N) - SG Americas Securities LLC Raises Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"03:00:09  [WKRNEW] (HUBS.N) - SG Americas Securities LLC Has $5.74 Million Stake in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"02:26:29  [MARBEA] (HUBS.N) - SG Americas Securities LLC Raises Holdings in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,02:19:10  [ETFDAI] (PIPR.N HUBS.N) - HubSpot (NYSE:HUBS) Price Target Lowered to $570.00 at Piper Sandler -- -
+HubSpot,2017-7,02:17:13  [TICREP] (HUBS.N) - Piper Sandler Cuts HubSpot (NYSE:HUBS) Price Target to $570.00 -
+HubSpot,2017-7,01:23:36  [ETFDAI] (HUBS.N) - HubSpot (NYSE:HUBS) Sees Unusually-High Trading Volume -- -
+HubSpot,2017-7,00:32:20  [TICREP] (HUBS.N) - KeyCorp Trims HubSpot (NYSE:HUBS) Target Price to $460.00 -
+HubSpot,2017-7,00:32:18  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Cut to $460.00 by Analysts at KeyCorp -
+HubSpot,2017-7,23:51:22  [ZOLCOM] (HUBS.N) - UBS Group Trims HubSpot (NYSE:HUBS) Target Price to $580.00 -
+HubSpot,2017-7,22:42:26  [TICREP] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Lowered to $580.00 at UBS Group -
+HubSpot,2017-7,"21:37:24  [ZOLCOM] (HUBS.N) - Private Advisor Group LLC Has $812,000 Stock Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"20:52:16  [TICREP] (HUBS.N) - Csenge Advisory Group Acquires Shares of 350 HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"19:07:12  [NEWNYS] (ENV.N HUBS.N) - NYSE Today's Bearish Signals: Consecutive Falls Friday July 12, 2024 16:00 EDT [in descending order of consecutive days of falls 6 days to 2 days] -"
+HubSpot,2017-7,18:28:10  [BARCHA] (HUBS.N) - The HubSpot Buyout Looks Dead: Is the Stock a Buy? -- -
+HubSpot,2017-7,18:25:08  [YAHNEX] (HUBS.N) - The HubSpot Buyout Looks Dead: Is the Stock a Buy? -- -
+HubSpot,2017-7,18:22:07  [MOTFOO] (HUBS.N) - The HubSpot Buyout Looks Dead: Is the Stock a Buy? -
+HubSpot,2017-7,18:20:07  [MOTFOL] (HUBS.N) - The HubSpot Buyout Looks Dead: Is the Stock a Buy? -- -
+HubSpot,2017-7,"17:27:27  [NEWPEO] (HUBS.N) - Yamini Rangan's Hubspot top decliner in DNB Asset Management AS plummets 16.8% in 12 days Thursday July 11, 2024 16:00 EDT -"
+HubSpot,2017-7,08:07:23  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $476.38) down 20% in 6 days; Director Dharmesh Shah sells; -$115.94 [19.6%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,06:47:42  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $476.38) down 20% in 6 days; Director Dharmesh Shah sells; -$115.94 [19.6%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,06:25:34  [CERGEM] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Lowered to $580.00 at UBS Group -
+HubSpot,2017-7,05:27:16  [WATNEW] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Lowered to $580.00 at UBS Group -
+HubSpot,2017-7,05:23:10  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $474.23) sinks 3.2% on slipping relative strength; -$15.54 [-3.2%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-7,05:10:08  [FINSWI] (HUBS.N) - Why HubSpot Plunged Almost 20% on a Good Week for the Markets -- -
+HubSpot,2017-7,05:03:41  [YAHNEX] (HUBS.N) - Why HubSpot Plunged Almost 20% on a Good Week for the Markets -- -
+HubSpot,2017-7,05:03:39  [BARCHA] (HUBS.N) - Why HubSpot Plunged Almost 20% on a Good Week for the Markets -- -
+HubSpot,2017-7,05:01:48  [MOTFOO] (HUBS.N) - Why HubSpot Plunged Almost 20% on a Good Week for the Markets -
+HubSpot,2017-7,04:56:42  [MOTFOL] (HUBS.N) - Why HubSpot Plunged Almost 20% on a Good Week for the Markets -- -
+HubSpot,2017-7,04:52:25  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $474.23) sinks 3.2% on slipping relative strength; -$15.54 [-3.2%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-7,04:47:26  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $474.78) in 6th consecutive fall; -$14.99 [-3.1%] Vol Index 1.8 [1 is avg] -
+HubSpot,2017-7,"04:42:24  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $489.77) Friday July 12, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:19  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $473.27) keeps sliding, down 20% in 6 days Friday July 12, 2024 11:31 EDT -"
+HubSpot,2017-7,"04:42:17  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $490.92) down 17% in 5 days Friday July 12, 2024 07:07 EDT -"
+HubSpot,2017-7,04:23:05  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $474.78) slides 3.1%; -$14.99 [-3.1%] Vol Index 1.8 [1 is avg] -
+HubSpot,2017-7,04:12:10  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $474.78) in 6th consecutive fall; -$14.99 [-3.1%] Vol Index 1.8 [1 is avg] -
+HubSpot,2017-7,04:02:41  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $474.69) sinks 3.1% on slipping relative strength; -$15.08 [-3.1%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,04:02:41  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $474.69) in 6th consecutive fall; -$15.08 [-3.1%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,"03:47:31  [GERCOM] (HUBS.N 096.F) - German trading: HubSpot (096: EUR444.40) falls 2.1% weakening below moving average price, hits 227-day low; -EUR9.60 [2.1%] -"
+HubSpot,2017-7,03:42:45  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $474.69) in 6th consecutive fall; -$15.08 [-3.1%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,03:32:29  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $474.69) in 6th consecutive fall; -$15.08 [-3.1%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,03:32:26  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $474.69) sinks 3.1% on slipping relative strength; -$15.08 [-3.1%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,03:08:01  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $475.02) in 6th consecutive fall; -$14.75 [-3.0%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,03:07:55  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $475.02) slides 3.0% on slipping relative strength; -$14.75 [-3.0%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,"02:43:05  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $489.77) Friday July 12, 2024 07:07 EDT -"
+HubSpot,2017-7,02:42:42  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $475.02) slides 3.0% on slipping relative strength; -$14.75 [-3.0%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,"02:42:42  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $490.92) down 17% in 5 days Friday July 12, 2024 07:07 EDT -"
+HubSpot,2017-7,02:33:11  [GRECON] (HUBS.N) - Boston VCs are thrilled that HubSpot will stay an unbiased company -
+HubSpot,2017-7,02:32:38  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $475.02) slides 3.0% on slipping relative strength; -$14.75 [-3.0%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,02:32:34  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $475.02) in 6th consecutive fall; -$14.75 [-3.0%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,02:12:31  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $472.26) in 6th consecutive fall; -$17.51 [-3.6%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-7,01:53:16  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,01:37:24  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $472.26) in 6th consecutive fall; -$17.51 [-3.6%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-7,01:37:13  [DAILYQ] (HUBS.N) - HubSpot (NYSE:HUBS) Shares Gap Down After Analyst Downgrade -
+HubSpot,2017-7,"01:25:01  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $473.27) keeps sliding, down 20% in 6 days Friday July 12, 2024 11:31 EDT -"
+HubSpot,2017-7,"01:24:50  [NEWNYS] (HUBS.N) - Hubspot in 6th consecutive fall, nears low Friday, July 12, 2024 10:00:00 -"
+HubSpot,2017-7,01:23:16  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $473.27) slides 3.4% on slipping relative strength; -$16.50 [-3.4%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,01:18:44  [WKRNEW] (HUBS.N) - HubSpot (NYSE:HUBS) Shares Gap Down on Analyst Downgrade -- -
+HubSpot,2017-7,"01:07:21  [GLOSTP] (.SPX HUBS.N) - Hubspot sinks 16% in 2024, underperforming 84% of the market -"
+HubSpot,2017-7,00:53:20  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $473.27) in 6th consecutive fall; -$16.50 [-3.4%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,00:42:35  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $473.27) slides 3.4% on slipping relative strength; -$16.50 [-3.4%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-7,00:15:47  [RTRS] (MSFT.O META.O) - Smaller tech grapples with end of Big Tech put (BREAKINGVIEWS) -
+HubSpot,2017-7,00:06:45  [LATNIG] (HUBS.N) - Boston VCs are pleased that HubSpot will remain an independent company -- -
+HubSpot,2017-7,"00:02:12  [TICREP] (HUBS.N) - GSA Capital Partners LLP Takes Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"23:13:22  [GLOSTP] (.SPX HUBS.N) - Hubspot sinks 16% in 2024, underperforming 84% of the market -"
+HubSpot,2017-7,"23:08:51  [COMFIN] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) CTO Sells 25,000 Shares of Stock -"
+HubSpot,2017-7,22:50:13  [YAHAUS] (HUBS.N) - Boston VCs are pleased that HubSpot will remain an independent company -- -
+HubSpot,2017-7,22:49:12  [YAHIRE] (HUBS.N) - Boston VCs are pleased that HubSpot will remain an independent company -- -
+HubSpot,2017-7,22:48:29  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,22:47:59  [ZOLCOM] (HUBS.N) - Piper Sandler Lowers HubSpot (NYSE:HUBS) Price Target to $570.00 -
+HubSpot,2017-7,22:42:57  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: UBS CUTS TARGET PRICE TO $580 FROM $640 -
+HubSpot,2017-7,"22:12:41  [GLOSTP] (.SPX HUBS.N) - Hubspot sinks 16% in 2024, underperforming 84% of the market -"
+HubSpot,2017-7,22:09:54  [AMEBAN] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Lowered to $650.00 at Wells Fargo & Company -
+HubSpot,2017-7,22:07:28  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Cut to $650.00 by Analysts at Wells Fargo & Company -
+HubSpot,2017-7,22:03:14  [TECHCR] (HUBS.N) - Boston VCs are pleased that HubSpot will remain an independent company -- -
+HubSpot,2017-7,22:00:30  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: PIPER SANDLER CUTS TARGET PRICE TO $570 FROM $655 -
+HubSpot,2017-7,"21:52:03  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $489.77) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday July 12, 2024 07:07 EDT -"
+HubSpot,2017-7,"21:48:13  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $489.77) Friday July 12, 2024 07:07 EDT -"
+HubSpot,2017-7,"21:48:11  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $490.92) down 17% in 5 days Friday July 12, 2024 07:07 EDT -"
+HubSpot,2017-7,21:48:03  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,21:47:47  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,"21:18:52  [GLOSTP] (.SPX HUBS.N) - Hubspot sinks 16% in 2024, underperforming 84% of the market -"
+HubSpot,2017-7,20:49:03  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,19:47:30  [GLOSTO] (HUBS.N) - Update: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,15:17:19  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Shares Down 4.3% After Insider Selling -
+HubSpot,2017-7,15:17:12  [TICREP] (HUBS.N) - HubSpot (NYSE:HUBS) Shares Down 4.3% After Insider Selling -
+HubSpot,2017-7,"14:54:18  [COMFIN] (HUBS.N) - Broderick Brian C Raises Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"10:00:00  [NEWNYS] (ENV.N HUBS.N) - NYSE Today's Bearish Signals: Consecutive Falls Friday July 12, 2024 16:00 EDT [in descending order of consecutive days of falls 6 days to 2 days] -"
+HubSpot,2017-7,06:32:10  [MARBEA] (HUBS.N) - Wells Fargo & Company Cuts HubSpot (NYSE:HUBS) Price Target to $650.00 -- -
+HubSpot,2017-7,06:10:00  [ITPROA] (GOOGL.O HUBS.N) - Alphabet's HubSpot acquisition is dead in the water -
+HubSpot,2017-7,05:56:15  [RTRS] (WDS.AX VSTO.N) - Deals of the day-Mergers and acquisitions -
+HubSpot,2017-7,05:52:24  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $490.92) down 17% in 5 days; Director Dharmesh Shah sells; -$1.40 [-0.3%] Vol Index 2.3 [1 is avg] -
+HubSpot,2017-7,05:39:08  [CERGEM] (HUBS.N) - Wells Fargo & Company Cuts HubSpot (NYSE:HUBS) Price Target to $650.00 -
+HubSpot,2017-7,05:37:17  [WATNEW] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Cut to $650.00 by Analysts at Wells Fargo & Company -
+HubSpot,2017-7,04:47:17  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $489.14) in 5th consecutive fall; -$3.17 [-0.6%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,"04:42:27  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $491.77) drops 12% on increasing volatility Thursday July 11, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:19  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $492.31) Thursday July 11, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:19  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS plummets 15.2% in 12 days Thursday July 11, 2024 11:31 EDT -"
+HubSpot,2017-7,04:22:53  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $489.14) in 5th consecutive fall; -$3.17 [-0.6%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,04:12:13  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $489.14) in 5th consecutive fall; -$3.17 [-0.6%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,03:57:24  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $486.63) falls 1.2% on slipping relative strength; -$5.68 [-1.2%] Vol Index 2.7 [1 is avg] -
+HubSpot,2017-7,03:32:38  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $486.63) falls 1.2% on slipping relative strength; -$5.68 [-1.2%] Vol Index 2.7 [1 is avg] -
+HubSpot,2017-7,03:22:22  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $486.63) falls 1.2% on slipping relative strength; -$5.68 [-1.2%] Vol Index 2.7 [1 is avg] -
+HubSpot,2017-7,03:08:10  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $485.19) in 5th consecutive fall; -$7.12 [-1.4%] Vol Index 2.8 [1 is avg] -
+HubSpot,2017-7,"02:43:08  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $492.31) Thursday July 11, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:43:07  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS plummets 15.2% in 12 days Thursday July 11, 2024 11:31 EDT -"
+HubSpot,2017-7,"02:43:02  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $491.77) drops 12% on increasing volatility Thursday July 11, 2024 07:07 EDT -"
+HubSpot,2017-7,02:34:10  [YAHNEX] (GOOGL.O HUBS.N) - HubSpot (HUBS) Shares Fall as Alphabet Drops Buyout Plans -- -
+HubSpot,2017-7,02:32:39  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $485.19) in 5th consecutive fall; -$7.12 [-1.4%] Vol Index 2.8 [1 is avg] -
+HubSpot,2017-7,01:58:20  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $498.29) climbs 1.2% on strong volume; +$5.98 [1.2%] Vol Index 2.7 [1 is avg] -
+HubSpot,2017-7,01:58:14  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-7,01:42:10  [ZACKSC] (HUBS.N) - HubSpot (HUBS) Shares Fall as Alphabet Drops Buyout Plans -
+HubSpot,2017-7,01:36:47  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $498.29) climbs 1.2% on strong volume; +$5.98 [1.2%] Vol Index 2.7 [1 is avg] -
+HubSpot,2017-7,"01:22:35  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot top decliner in DNB Asset Management AS plummets 15.2% in 12 days Thursday July 11, 2024 11:31 EDT -"
+HubSpot,2017-7,01:16:59  [RTRS] (WDS.AX VSTO.N) - Deals of the day-Mergers and acquisitions -
+HubSpot,2017-7,00:43:00  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $499.99) lifts 1.6% on strong volume; +$7.68 [1.6%] Vol Index 3.3 [1 is avg] -
+HubSpot,2017-7,23:52:15  [WEAPRO] (GOOGL.O HUBS.N) - HubSpot shares drop 12% after alphabet cancels acquisition plans -- -
+HubSpot,2017-7,23:47:07  [SEECOM] (HUBS.N) - HubSpot reiterated at Buy following 12% price plunge over Google deal: BofA -
+HubSpot,2017-7,22:08:50  [ITPROA] (GOOGL.O HUBS.N) - Alphabet's HubSpot acquisition is dead in the water -
+HubSpot,2017-7,"21:52:35  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $492.31) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Thursday July 11, 2024 07:07 EDT -"
+HubSpot,2017-7,"21:49:42  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $491.77) drops 12% on increasing volatility Thursday July 11, 2024 07:07 EDT -"
+HubSpot,2017-7,"21:49:29  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $492.31) Thursday July 11, 2024 07:07 EDT -"
+HubSpot,2017-7,21:49:24  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-7,19:39:09  [RTRS] (KEPE.SI HUBS.N) - Deals of the day-Mergers and acquisitions -
+HubSpot,2017-7,19:26:10  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: WELLS FARGO CUTS TARGET PRICE TO $650 FROM $750 -
+HubSpot,2017-7,"16:49:41  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Tuesday July 09, 2024 -"
+HubSpot,2017-7,16:14:25  [BUSTIM] (GOOGL.O HUBS.N) - Google parent Alphabet shelves efforts to acquire HubSpot -- -
+HubSpot,2017-7,15:48:51  [ETFDAI] (HUBS.N) - HubSpot (NYSE:HUBS) Shares Down 4.3% Following Insider Selling -- -
+HubSpot,2017-7,10:14:07  [TALMAR] (HUBS.N) - Google Is No Longer Interested In Buying HubSpot -- -
+HubSpot,2017-7,"09:30:36  [STRMLS] (HUBS.N) - Google parent Alphabet shelves interest for HubSpot, Bloomberg News reports -- -"
+HubSpot,2017-7,09:13:34  [NOTENG] (HUBS.N) - The Reality of Customer Service in Latin America -
+HubSpot,2017-7,08:42:30  [MEXSPA] (HUBS.N) - The Reality of Customer Service in Latin America -
+HubSpot,2017-7,08:08:07  [MSNUKA] (GOOGL.O HUBS.N) - RBC - HubSpot's buying potential surges as Google shelves acquisition plan -- -
+HubSpot,2017-7,08:07:19  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $491.77) accelerates decline; Director Dharmesh Shah sells; -$94.39 [16.1%] Vol Index 4.1 [1 is avg] -
+HubSpot,2017-7,08:03:37  [INVCOA] (GOOGL.O HUBS.N) - RBC - HubSpot's buying potential surges as Google shelves acquisition plan -- -
+HubSpot,2017-7,"07:37:07  [GURCOM] (.SPX HUBS.N) - Market Today: Tesla's Energy Business Surge, HubSpot's Drop, and Semiconductor Gains -"
+HubSpot,2017-7,"07:30:07  [CHAASI] (GOOGL.O HUBS.N) - Google parent Alphabet walked away from HubSpot deal weeks ago, source says -- -"
+HubSpot,2017-7,"07:28:38  [YAHSIN] (GOOGL.O HUBS.N) - Google parent Alphabet walked away from HubSpot deal weeks ago, source says -- -"
+HubSpot,2017-7,07:21:41  [WNCOMA] (HUBS.N) - Google is no longer interested in buying HubSpot -- -
+HubSpot,2017-7,"07:19:22  [RTRS] (HUBS.N GOOGL.O) - Google parent Alphabet walked away from HubSpot deal weeks ago, source says (UPDATE 3) -"
+HubSpot,2017-7,07:16:59  [INVCOM] (HUBS.N) - RBC - HubSpot's buying potential surges as Google shelves acquisition plan -
+HubSpot,2017-7,07:06:09  [YAHNEX] (GOOGL.O HUBS.N) - HubSpot Stock Dives on Reports Alphabet Abandoning Acquisition Effort -- -
+HubSpot,2017-7,07:04:32  [YAHNEX] (HUBS.N) - RBC - HubSpot's buying potential surges as Google shelves acquisition plan -- -
+HubSpot,2017-7,07:03:07  [INVCOA] (GOOGL.O HUBS.N) - Alphabet walks away from pursuit of Hubspot: Bloomberg -- -
+HubSpot,2017-7,07:01:08  [INVPLA] (HUBS.N) - HubSpot Stock Plunges as Google Abandons the Software Company -- -
+HubSpot,2017-7,06:53:04  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $491.77) accelerates decline; Director Dharmesh Shah sells; -$94.39 [16.1%] Vol Index 4.1 [1 is avg] -
+HubSpot,2017-7,06:42:01  [INVEZZ] (HUBS.N) - Google is no longer interested in buying HubSpot -
+HubSpot,2017-7,06:37:08  [PROINV] (HUBS.N) - HubSpot shares plunge after Google parent reportedly shelves takeover bid -
+HubSpot,2017-7,06:30:40  [FINSWI] (HUBS.N) - HubSpot Stock Sinks After Alphabet Pulls Plug On Potential Deal: What You Need To Know -- -
+HubSpot,2017-7,06:12:25  [INVCOM] (GOOGL.O HUBS.N) - Alphabet walks away from pursuit of Hubspot: Bloomberg -
+HubSpot,2017-7,I didn't even know Google was allowed to buy anything big anymore! -
+HubSpot,2017-7,06:02:07  [MSNUKA] (GOOGL.O HUBS.N) - Alphabet walks away from pursuit of Hubspot: Bloomberg -- -
+HubSpot,2017-7,"06:01:29  [YAHNEX] (GOOGL.O HUBS.N) - HubSpot falls after Alphabet drops acquisition efforts: Rpt. Wed, Jul 10, 2024, 9:53 PM GMT+2 0 Video Transcript Advertisement Up next Apple target... -"
+HubSpot,2017-7,"Probably points to overall weakness in enterprise software considering where $WDAY, $CRM, $TWLO and others are over the last six months. -"
+HubSpot,2017-7,05:52:38  [LATNIG] (HUBS.N) - Sources: Alphabet shelves efforts to acquire HubSpot after the sides failed to reach the point of detailed discussions around due diligence; HUBS p... -
+HubSpot,2017-7,05:52:23  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $485.69) drops 13% on increasing volatility; Director Dharmesh Shah sells; -$74.52 [-13.3%] Vol Index 5.8 [1 is avg] -
+HubSpot,2017-7,05:41:10  [BOSBUS] (GOOGL.O HUBS.N) - HubSpot stock sinks as Alphabet reportedly sours on acquisition -
+HubSpot,2017-7,05:35:09  [YAHNEX] (GOOGL.O HUBS.N) - Alphabet walks away from pursuit of Hubspot: Bloomberg -- -
+HubSpot,2017-7,"05:22:23  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $483.35) accelerates decline, down 18% in 2 days; -$76.86 [-13.7%] Vol Index 3.0 [1 is avg] -"
+HubSpot,2017-7,05:22:12  [BENZIN] (GOOGL.O HUBS.N) - HubSpot Stock Sinks After Alphabet Pulls Plug On Potential Deal: What You Need To Know -
+HubSpot,2017-7,04:53:06  [RTRS] (HUBS.N GOOGL.O) - HubSpot falls after report Alphabet shelves acquisition plan (BUZZ) -
+HubSpot,2017-7,"04:52:16  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $483.35) accelerates decline, down 18% in 2 days; -$76.86 [-13.7%] Vol Index 3.0 [1 is avg] -"
+HubSpot,2017-7,"04:50:36  [YAHNEX] (HUBS.N) - Google parent Alphabet shelves interest for HubSpot, Bloomberg News reports -- -"
+HubSpot,2017-7,04:47:18  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $533.24) drops to seven-month low on high volume; -$26.97 [-4.8%] Vol Index 2.4 [1 is avg] -
+HubSpot,2017-7,"Google parent Alphabet is said to have abandoned its plans to buy online marketing software company HubSpot, Bloomberg News reported on Wednesday."
+HubSpot,2017-7,"04:42:18  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $560.21) Wednesday July 10, 2024 07:07 EDT -"
+HubSpot,2017-7,04:39:31  [YAHNEX] (GOOGL.O HUBS.N) - Google Parent Alphabet Shelves Efforts to Acquire HubSpot -- -
+HubSpot,2017-7,"04:33:53  [RTRS] (HUBS.N GOOGL.O) - HUBSPOT SHARES FALL, LAST DOWN 14.2% IN AFTERNOON TRADING; BLOOMBERG REPORTS ALPHABET IS SAID TO SHELVE INTEREST IN HUBSPOT -"
+HubSpot,2017-7,"04:32:06  [RTRS] (HUBS.N GOOGL.O) - Google parent Alphabet shelves interest for HubSpot, Bloomberg News reports -"
+HubSpot,2017-7,04:30:47  [RTRS] (HUBS.N GOOGL.O) - Google Parent Alphabet Is Said To Shelve Interest In Hubspot - Bloomberg News (BRIEF) -
+HubSpot,2017-7,04:29:41  [RTRS] (HUBS.N GOOGL.O) - GOOGLE PARENT ALPHABET IS SAID TO SHELVE INTEREST IN HUBSPOT - BLOOMBERG NEWS -
+HubSpot,2017-7,04:26:53  [SEECOM] (HUBS.N) - HubSpot sinks amid report Google has shelved acquisition plans -
+HubSpot,2017-7,04:26:52  [BENZIN] (GOOGL.O HUBS.N) - HubSpot shares are trading lower following a report indicating Alphabet shelved its interest in acquiring the company and the deal interest did not... -
+HubSpot,2017-7,04:23:18  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $533.24) drops to seven-month low on high volume; -$26.97 [-4.8%] Vol Index 2.4 [1 is avg] -
+HubSpot,2017-7,04:21:59  [RTRS] (HUBS.N) - NYSE HALT HUBSPOT INC  HUBS.N ADD INFO LST $483.350000 -
+HubSpot,2017-7,shocker... why on earth would they want to buy $HUBS? -
+HubSpot,2017-7,04:12:07  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $533.24) drops to seven-month low on high volume; -$26.97 [-4.8%] Vol Index 2.4 [1 is avg] -
+HubSpot,2017-7,03:57:31  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $536.59) drops to seven-month low on strong volume; -$23.62 [-4.2%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,03:57:21  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $536.59) tumbles 4.2% on slipping relative strength; -$23.62 [-4.2%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,03:32:22  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $536.59) tumbles 4.2% on slipping relative strength; -$23.62 [-4.2%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,03:22:31  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $536.59) drops to seven-month low on strong volume; -$23.62 [-4.2%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,03:22:18  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $536.59) tumbles 4.2% on slipping relative strength; -$23.62 [-4.2%] Vol Index 2.5 [1 is avg] -
+HubSpot,2017-7,03:02:19  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $536.03) in 4th consecutive fall; -$24.18 [-4.3%] Vol Index 2.6 [1 is avg] -
+HubSpot,2017-7,02:42:41  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $536.03) in 4th consecutive fall; -$24.18 [-4.3%] Vol Index 2.6 [1 is avg] -
+HubSpot,2017-7,"02:42:36  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $560.21) Wednesday July 10, 2024 07:07 EDT -"
+HubSpot,2017-7,02:34:07  [ITNEWS] (HUBS.N) - HubSpot Co-founder Dharmesh Shah to Keynote Zapier's ZapConnect Conference -- -
+HubSpot,2017-7,02:32:25  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $536.03) in 4th consecutive fall; -$24.18 [-4.3%] Vol Index 2.6 [1 is avg] -
+HubSpot,2017-7,02:17:10  [YAHNEX] (HUBS.N) - HubSpot Co-founder Dharmesh Shah to Keynote Zapier's ZapConnect Conference -- -
+HubSpot,2017-7,02:12:14  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $530.30) tumbles 5.3% on slipping relative strength; -$29.91 [-5.3%] Vol Index 2.7 [1 is avg] -
+HubSpot,2017-7,"02:12:13  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $530.30) accelerates decline, down 9.5% in 2 days; -$29.91 [-5.3%] Vol Index 2.7 [1 is avg] -"
+HubSpot,2017-7,"01:57:42  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $530.30) accelerates decline, down 9.5% in 2 days; -$29.91 [-5.3%] Vol Index 2.7 [1 is avg] -"
+HubSpot,2017-7,01:57:30  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $530.30) in 4th consecutive fall; -$29.91 [-5.3%] Vol Index 2.7 [1 is avg] -
+HubSpot,2017-7,01:56:09  [MARBEA] (HUBS.N) - HubSpot (NYSE:HUBS) Stock Price Down 4.3% on Insider Selling -- -
+HubSpot,2017-7,01:37:11  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $530.30) tumbles 5.3% on slipping relative strength; -$29.91 [-5.3%] Vol Index 2.7 [1 is avg] -
+HubSpot,2017-7,"01:37:09  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $530.30) accelerates decline, down 9.5% in 2 days; -$29.91 [-5.3%] Vol Index 2.7 [1 is avg] -"
+HubSpot,2017-7,01:17:19  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $544.55) drops to seven-month low on high volume; -$15.66 [-2.8%] Vol Index 2.4 [1 is avg] -
+HubSpot,2017-7,00:42:44  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $544.55) in 4th consecutive fall; -$15.66 [-2.8%] Vol Index 2.4 [1 is avg] -
+HubSpot,2017-7,00:42:35  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $544.55) drops to seven-month low on high volume; -$15.66 [-2.8%] Vol Index 2.4 [1 is avg] -
+HubSpot,2017-7,23:52:48  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-7,22:48:47  [GLOSTO] (HUBS.N) - Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,21:51:15  [ITNEWS] (HUBS.N) - Instrumental Group Unveils Learn LMS: Revolutionizing Learning Management with Seamless HubSpot Integration -- -
+HubSpot,2017-7,"21:48:05  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $560.21) Wednesday July 10, 2024 07:07 EDT -"
+HubSpot,2017-7,21:47:34  [GLOSTO] (HUBS.N) - ICYMI: Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,21:25:00  [STOCKP] (HUBS.N) - With a trading volume of USD 0 HUBS trades -4.43 percent lower today -
+HubSpot,2017-7,20:53:49  [GLOSTO] (HUBS.N) - ICYMI: Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,"20:40:01  [TICREP] (HUBS.N) - Janney Montgomery Scott LLC Has $5.88 Million Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,19:47:34  [GLOSTO] (HUBS.N) - Update: Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,"19:32:26  [NEWPEO] (HUBS.N) - Hubspot director Dharmesh Shah sells shares worth $14.7 million Tuesday July 09, 2024 -"
+HubSpot,2017-7,"19:10:59  [TICREP] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) CTO Sells $14,671,250.00 in Stock -"
+HubSpot,2017-7,"12:54:23  [MARDAJ] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) CTO Sells 25,000 Shares of Stock -"
+HubSpot,2017-7,"10:24:30  [TRADAJ] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) CTO Sells 25,000 Shares of Stock -"
+HubSpot,2017-7,10:00:00  [BENZIN] (GOOGL.O HUBS.N) - HubSpot shares are trading lower following a report indicating Alphabet shelved its interest in acquiring the company and the deal interest did not... -
+HubSpot,2017-7,10:00:00  [BENZIN] (GOOGL.O HUBS.N) - HubSpot shares are trading lower following a report indicating Alphabet shelved its interest in acquiring the company and the deal interest did not... -
+HubSpot,2017-7,10:00:00  [BENZIN] (GOOGL.O HUBS.N) - HubSpot shares are trading lower following a report indicating Alphabet shelved its interest in acquiring the company and the deal interest did not... -
+HubSpot,2017-7,10:00:00  [BENZIN] (GOOGL.O HUBS.N) - HubSpot shares are trading lower following a report indicating Alphabet shelved its interest in acquiring the company and the deal interest did not... -
+HubSpot,2017-7,"10:00:00  [USOFFI] (HUBS.N) - Insider Trading: Chief Technology Officer, Shah Dharmesh sells 1,300 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-7,10:00:00  [PROINX] (GOOGL.O HUBS.N) - HubSpot shares plunge after Google parent reportedly shelves takeover bid -
+HubSpot,2017-7,"09:46:12  [MARBEA] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) CTO Sells 25,000 Shares of Stock -- -"
+HubSpot,2017-7,"04:47:47  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $574.02) keeps sliding, down 3.1% in 3 days Tuesday July 09, 2024 12:28 EDT -"
+HubSpot,2017-7,"04:47:17  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $586.16) Tuesday July 09, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:46:52  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $574.02) keeps sliding, down 3.1% in 3 days Tuesday July 09, 2024 11:31 EDT -"
+HubSpot,2017-7,"02:42:46  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $574.02) keeps sliding, down 3.1% in 3 days Tuesday July 09, 2024 11:31 EDT -"
+HubSpot,2017-7,"02:42:41  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $586.16) Tuesday July 09, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:41:44  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $574.02) keeps sliding, down 3.1% in 3 days Tuesday July 09, 2024 12:28 EDT -"
+HubSpot,2017-7,"02:02:10  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $574.02) keeps sliding, down 3.1% in 3 days Tuesday July 09, 2024 12:28 EDT -"
+HubSpot,2017-7,"01:08:05  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $574.02) keeps sliding, down 3.1% in 3 days Tuesday July 09, 2024 11:31 EDT -"
+HubSpot,2017-7,23:35:17  [PUBT] (HUBS.N) - HubSpot Inc. - HubSpot invests in Captions to make video creation easier than ever with AI -
+HubSpot,2017-7,"22:55:13  [TICREP] (HUBS.N) - Fidelis Capital Partners LLC Takes Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,22:48:15  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,"21:52:20  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $586.16) Tuesday July 09, 2024 07:07 EDT -"
+HubSpot,2017-7,"21:52:08  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $586.16) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Tuesday July 09, 2024 07:07 EDT -"
+HubSpot,2017-7,21:47:26  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,21:06:00  [PUBT] (HUBS.N) - HubSpot Inc. - I Asked a Lawyer About AI Regulation in the U.S. -
+HubSpot,2017-7,"20:55:10  [MARBEA] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Bought by Mirae Asset Global Investments Co. Ltd. -- -"
+HubSpot,2017-7,20:48:12  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,"20:39:43  [TICREP] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Sequoia Financial Advisors LLC -"
+HubSpot,2017-7,19:47:25  [GLOSTO] (HUBS.N) - Update: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-7,"15:12:20  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Friday July 05, 2024 -"
+HubSpot,2017-7,"10:23:46  [WATNEW] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by FORA Capital LLC -"
+HubSpot,2017-7,"10:21:09  [MARBEA] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by FORA Capital LLC -- -"
+HubSpot,2017-7,08:07:30  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $586.32) drops on increasing volatility; CFO Kate Bueker sells; -93c [0.2%] -
+HubSpot,2017-7,06:48:09  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $586.32) drops on increasing volatility; CFO Kate Bueker sells; -93c [0.2%] -
+HubSpot,2017-7,05:52:23  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $589.17) strengthens above moving average price; CFO Kate Bueker sells; +$1.92 [0.3%] -
+HubSpot,2017-7,"04:42:37  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $587.25) Monday July 08, 2024 07:07 EDT -"
+HubSpot,2017-7,"04:42:36  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $579.71) down 2.1% in 2 days Monday July 08, 2024 12:28 EDT -"
+HubSpot,2017-7,"04:42:31  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $579.71) down 2.1% in 2 days Monday July 08, 2024 11:31 EDT -"
+HubSpot,2017-7,"02:42:45  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $579.71) down 2.1% in 2 days Monday July 08, 2024 12:28 EDT -"
+HubSpot,2017-7,"02:42:45  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $587.25) Monday July 08, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:42:42  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $579.71) down 2.1% in 2 days Monday July 08, 2024 11:31 EDT -"
+HubSpot,2017-7,"01:57:22  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $579.71) down 2.1% in 2 days Monday July 08, 2024 12:28 EDT -"
+HubSpot,2017-7,01:53:33  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,"01:31:51  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $579.71) down 2.1% in 2 days Monday July 08, 2024 11:31 EDT -"
+HubSpot,2017-7,"22:05:51  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $587.25) Monday July 08, 2024 07:07 EDT -"
+HubSpot,2017-7,"22:04:29  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $587.25) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday July 08, 2024 07:07 EDT -"
+HubSpot,2017-7,22:03:11  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,"16:13:34  [NEWPEO] (HUBS.N) - Hubspot Director Dharmesh Shah trims shareholding in Hubspot Monday July 08, 2024 -"
+HubSpot,2017-7,"10:00:00  [USOFFI] (HUBS.N) - Insider Trading: Chief Financial Officer, Bueker Kathryn sells 902 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-7,"10:00:00  [USOFFI] (HUBS.N) - Insider Trading: Chief Financial Officer, Bueker Kathryn buys 902 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-7,"05:54:04  [TRADAJ] (HUBS.N) - Hollencrest Capital Management Buys New Shares in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"06:04:13  [WKRNEW] (HUBS.N) - Peterson Wealth Services Acquires 719 Shares of HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"05:09:17  [DAILYQ] (HUBS.N) - Peterson Wealth Services Raises Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"01:55:05  [CERGEM] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) CEO Sells $1,705,485.60 in Stock -"
+HubSpot,2017-7,"01:43:03  [NEWNYS] (HUBS.N) - CORPORATE ACTION IN TECHNOLOGY SECTOR ON THE NYSE FRIDAY JULY 05, 2024 -"
+HubSpot,2017-7,"01:23:33  [NEWNYS] (HUBS.N) - CORPORATE ACTION IN TECHNOLOGY SECTOR ON THE NYSE FRIDAY JULY 05, 2024 -"
+HubSpot,2017-7,"01:23:32  [NEWNYS] (HUBS.N) - CORPORATE ACTION IN TECHNOLOGY SECTOR ON THE NYSE FRIDAY JULY 05, 2024 -"
+HubSpot,2017-7,"01:23:21  [NEWNYS] (HUBS.N) - CORPORATE ACTION IN TECHNOLOGY SECTOR ON THE NYSE FRIDAY JULY 05, 2024 -"
+HubSpot,2017-7,"21:22:04  [NEWNYS] (HUBS.N) - CORPORATE ACTION IN TECHNOLOGY SECTOR ON THE NYSE FRIDAY JULY 05, 2024 -"
+HubSpot,2017-7,"21:12:26  [NEWNYS] (HUBS.N) - CORPORATE ACTION IN TECHNOLOGY SECTOR ON THE NYSE FRIDAY JULY 05, 2024 -"
+HubSpot,2017-7,"20:50:41  [ETFDAI] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Stock Position Lifted by Maryland State Retirement & Pension System -- -"
+HubSpot,2017-7,"16:07:25  [NEWPEO] (HUBS.N) - Hubspot CFO Kate Bueker sells shares worth $528,879 Friday July 05, 2024 -"
+HubSpot,2017-7,"15:47:36  [NEWPEO] (HUBS.N) - Yamini Rangan CEO of Hubspot in third quartile of price performers of NYSE stocks in the second quarter of 2024 Saturday July 06, 2024 -"
+HubSpot,2017-7,"10:00:00  [USOFFI] (HUBS.N) - Insider Trading: Chief Financial Officer, Bueker Kathryn sells 1,068 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-7,"10:00:00  [USOFFI] (HUBS.N) - Insider Trading: Executive Chair, Halligan Brian sells 781 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-7,"10:00:00  [USOFFI] (HUBS.N) - Insider Trading: Chief Technology Officer, Shah Dharmesh sells 658 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-7,01:52:57  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,01:52:53  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-7,"22:54:43  [TICREP] (HUBS.N) - First Trust Direct Indexing L.P. Raises Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,21:47:54  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,"21:26:16  [ETFDAI] (8309.T HUBS.N) - Sumitomo Mitsui Trust Holdings Inc. Has $79.30 Million Position in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,19:36:20  [BOSBUS] (GOOGL.O HUBS.N) - Would Google buy HubSpot? Experts say yes - but see hurdles ahead -
+HubSpot,2017-7,"18:02:35  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Wednesday July 03, 2024 -"
+HubSpot,2017-7,"17:48:41  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Wednesday July 03, 2024 -"
+HubSpot,2017-7,"16:01:33  [NEWPEO] (HUBS.N) - Yamini Rangan CEO of Hubspot in top 12% of NYSE stocks Friday July 05, 2024 -"
+HubSpot,2017-7,"15:47:29  [NEWPEO] (HUBS.N) - Hubspot CFO Kate Bueker sells shares worth $672,828 Wednesday July 03, 2024 -"
+HubSpot,2017-7,"15:47:01  [NEWPEO] (HUBS.N) - Hubspot CEO Yamini Rangan sells shares worth $1.7 million Wednesday July 03, 2024 -"
+HubSpot,2017-7,"10:00:00  [USOFFI] (HUBS.N) - Insider Trading: Chief Executive Officer & Pres, Rangan Yamini sells 3,033 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-7,"10:00:00  [NEWNYS] (HUBS.N) - CORPORATE ACTION IN TECHNOLOGY SECTOR ON THE NYSE FRIDAY JULY 05, 2024 -"
+HubSpot,2017-7,"22:57:40  [ETFDAI] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) CFO Kathryn Bueker Sells 1,135 Shares of Stock -- -"
+HubSpot,2017-7,"22:57:35  [ETFDAI] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) CEO Yamini Rangan Sells 2,877 Shares of Stock -- -"
+HubSpot,2017-7,"22:06:22  [MARBEA] (HUBS.N) - State of Alaska Department of Revenue Sells 2,295 Shares of HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,21:47:30  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-7,"12:18:38  [MARBEA] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) CFO Sells 1,135 Shares of Stock -- -"
+HubSpot,2017-7,08:07:26  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $592.31) lifts 1.4% strengthening above moving average price; +$8.17 [1.4%] -
+HubSpot,2017-7,06:47:32  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $592.31) lifts 1.4% strengthening above moving average price; +$8.17 [1.4%] -
+HubSpot,2017-7,"05:52:19  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $592.31) rises in 4 out of last 5 days, 5-day rise of 4.2%; +$8.17 [1.4%] -"
+HubSpot,2017-7,"04:42:18  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $584.14) Wednesday July 03, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:42:44  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $584.14) Wednesday July 03, 2024 07:07 EDT -"
+HubSpot,2017-7,02:12:25  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $592.47) lifts 1.4% strengthening above moving average price; +$8.33 [1.4%] -
+HubSpot,2017-7,01:37:13  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $592.47) lifts 1.4% strengthening above moving average price; +$8.33 [1.4%] -
+HubSpot,2017-7,23:53:13  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-7,22:48:24  [GLOSTO] (HUBS.N) - Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,"22:46:14  [YAHNEX] (HUBS.N) - Calculating The Intrinsic Value Of HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,"21:52:09  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $584.14) Wednesday July 03, 2024 07:07 EDT -"
+HubSpot,2017-7,21:47:31  [GLOSTO] (HUBS.N) - ICYMI: Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,20:47:59  [GLOSTO] (HUBS.N) - ICYMI: Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,"19:57:11  [MARBEA] (HUBS.N) - Allspring Global Investments Holdings LLC Has $69.66 Million Stock Position in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-7,19:47:51  [GLOSTO] (HUBS.N) - Update: Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-7,"06:48:21  [GLOSTP] (.SPX HUBS.N) - Monthly: Hubspot (HUBS: $589.79) drops 3%, trailing 56% of stocks -"
+HubSpot,2017-7,"04:42:30  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $592.58) Tuesday July 02, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:47:47  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $592.58) Tuesday July 02, 2024 07:07 EDT -"
+HubSpot,2017-7,23:49:32  [STOCKP] (USD= HUBS.N) - Hubspot trades 0.47 percent higher on Tuesday 2nd of July -
+HubSpot,2017-7,22:48:17  [GLOSTO] (HUBS.N) - Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,22:08:29  [BENZIN] (HUBS.N) - How This Indian Woman Went From Waiting Tables To Running This US Tech Giant -
+HubSpot,2017-7,"21:47:56  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $592.58) Tuesday July 02, 2024 07:07 EDT -"
+HubSpot,2017-7,21:47:34  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,20:48:02  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,19:47:38  [GLOSTO] (HUBS.N) - Update: Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-7,"16:33:20  [NEWPEO] (HUBS.N) - Jill Ward Director of Hubspot in top 12% of NYSE stocks Tuesday July 02, 2024 -"
+HubSpot,2017-7,"08:07:55  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $592.30) rises in 4 out of last 5 days, 5-day rise of 3.3%; +$2.51 [0.4%] -"
+HubSpot,2017-7,07:36:57  [BENZIN] (HUBS.N) - Here's How Much You Would Have Made Owning HubSpot Stock In The Last 5 Years -
+HubSpot,2017-7,"06:48:02  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $592.30) rises in 4 out of last 5 days, 5-day rise of 3.3%; +$2.51 [0.4%] -"
+HubSpot,2017-7,"05:02:38  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $590.32) keeps rising, up 3.8% in 3 days; +53c [0.1%] -"
+HubSpot,2017-7,"04:42:45  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $589.79) Monday July 01, 2024 07:07 EDT -"
+HubSpot,2017-7,"02:42:41  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $589.79) Monday July 01, 2024 07:07 EDT -"
+HubSpot,2017-7,01:57:09  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,"01:48:42  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $589.79) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday July 01, 2024 07:07 EDT -"
+HubSpot,2017-7,"23:42:21  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $589.79) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday July 01, 2024 07:07 EDT -"
+HubSpot,2017-7,22:53:41  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,"22:14:28  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $589.79) Monday July 01, 2024 07:07 EDT -"
+HubSpot,2017-7,22:13:57  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-7,22:08:46  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,21:58:10  [GLOWEE] (.SPX HUBS.N) - Weekly: Hubspot (HUBS: $589.79) shares post best week in four weeks; +$11.36 [2.0%] -
+HubSpot,2017-7,20:58:42  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,"20:54:30  [ZOLCOM] (HUBS.N) - Founders Financial Securities LLC Buys 94 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"20:48:12  [NEWNYS] (USD= HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 4.6% Friday, June 28, 2024 10:00:00 -"
+HubSpot,2017-7,"20:10:00  [AMEBAN] (HUBS.N) - Founders Financial Securities LLC Buys 94 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,19:47:26  [GLOSTO] (HUBS.N) - Update: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-7,"02:09:50  [MARDAJ] (HUBS.N) - Winthrop Advisory Group LLC Cuts Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-7,"02:09:32  [STOOBS] (HUBS.N) - Winthrop Advisory Group LLC Sells 32 Shares of HubSpot, Inc. (NYSE:HUBS) -"

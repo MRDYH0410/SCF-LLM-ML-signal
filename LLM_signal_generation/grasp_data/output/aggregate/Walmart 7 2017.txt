@@ -1,0 +1,632 @@
+firm_id,date,text
+walmart,2017-7,UPDATE 1-Walmart Chile workers vote to go on strike - Reuters News
+walmart,2017-7,"{{20170728T204223.345+0000}}UPDATE 1-Walmart Chile workers vote to go on strike(Adds details, comment from Walmart, paragraphs 3, 4)"
+walmart,2017-7,"SANTIAGO, July 28 (Reuters) - The union representing workers at Lider, Wal-Mart Stores Inc's main supermarket chain in Chile, said on Friday they had voted to go on strike for higher pay."
+walmart,2017-7,"""We are awaiting the final result from the work directorate, but we can say that our union approves the strike with 9,850 votes, or 63.4 percent of the total,"" the union announced on its Facebook site."
+walmart,2017-7,"Next week, either the union or the company may request government-mediated talks that would last five days to try to reach an agreement on a collective contract and avert the strike."
+walmart,2017-7,"""As before, as a company we maintain our readiness for dialogue, and we will continue to seek an agreement within the regulatory framework,"" said Walmart Chile."
+walmart,2017-7,"The union encompasses 16,500 workers, one of the South American country's largest unions. Some workers have been demonstrating outside stores across the country in recent months as they have pushed their demands for better pay."
+walmart,2017-7,"Walmart Chile, the local unit of U.S. retailer Wal-Mart Stores Inc, is one of the leading supermarket operators in Chile, with 380 stores."
+walmart,2017-7,Walmart Chile workers vote to go on strike - Reuters News
+walmart,2017-7,"{{20170728T172355.015+0000}}Walmart Chile workers vote to go on strikeSANTIAGO, July 28 (Reuters) - The union representing workers at Lider, Wal-Mart Stores Inc's main supermarket chain in Chile, said on Friday they had voted to go on strike for higher pay."
+walmart,2017-7,"""We are awaiting the final result from the work directorate, but we can say that our union approves the strike with 9,850 votes, or 63.4 percent of the total,"" the union announced on its Facebook site."
+walmart,2017-7,Walmart Chile said it did not have an immediate comment on the announcement.
+walmart,2017-7,Either the union or the company may now request government-mediated talks that would last five days to try to reach an agreement and avert the strike.
+walmart,2017-7,"The union encompasses 16,500 workers, one of the South American country's largest unions. Some workers have been demonstrating outside stores across the country in recent months as they have pushed their demands for better pay."
+walmart,2017-7,"Walmart Chile, the local unit of U.S. retailer Wal-Mart Stores Inc, is one of the leading supermarket operators in Chile, with 380 stores."
+walmart,2017-7,{{20170727T201747.871+0000}}EXCLUSIVO-Wal-Mart busca fornecedores online no exterior para enfrentar Amazon.com Por Nandita Bose
+walmart,2017-7,EXCLUSIVE-Not Made in America: Wal-Mart looks overseas for online vendors  - Reuters News
+walmart,2017-7,{{20170727T121122.101+0000}}EXCLUSIVE-Not Made in America: Wal-Mart looks overseas for online vendors By Nandita Bose
+walmart,2017-7,Amazon.com Inc  in the number of goods for sale on its
+walmart,2017-7,"website, is recruiting vendors in China and other countries to"
+walmart,2017-7,boost its online offerings in a pivot away from Wal-Mart's
+walmart,2017-7,Wal-Mart's decision comes out of necessity: not all the goods
+walmart,2017-7,its customers want - ranging from jeans to bicycles to beauty
+walmart,2017-7,"""Made in America"" push. It also risks alienating some of"
+walmart,2017-7,Wal-Mart's existing U.S. vendors since it runs counter to the
+walmart,2017-7,American-made pledge the retailer made in 2013 in a bid to win
+walmart,2017-7,"customers, and satisfy unions and other critics who said its"
+walmart,2017-7,"from China, the United Kingdom and Canada to list on the"
+walmart,2017-7,"marketplace section of Walmart.com, where it earns a share of"
+walmart,2017-7,the invite-only program. He said foreign sellers currently make
+walmart,2017-7,Trembley said Wal-Mart's move is focused on meeting customer
+walmart,2017-7,year to 50 million items. That still pales in comparison to
+walmart,2017-7,Shrinking that gap is key to Wal-Mart's strategy to beat
+walmart,2017-7,Pulse. The data could not be independently verified by Reuters.
+walmart,2017-7,"vendors from countries like China, contributes to nearly half of"
+walmart,2017-7,The move brings risks beyond the impact to Wal-Mart's sales.
+walmart,2017-7,"Trump kicked off a ""Made in America"" week earlier this month"
+walmart,2017-7,where he promised he would take more legal and regulatory steps
+walmart,2017-7,Trump's comments come as the White House is seeking to
+walmart,2017-7,(NAFTA) in an effort to shrink the trade deficit with Canada and
+walmart,2017-7,"""No longer will we allow other countries to break the rules,"
+walmart,2017-7,"steal our jobs and drain our wealth,"" Trump said in a weekly"
+walmart,2017-7,"address tweeted by the White House on July 21. ""Instead we will"
+walmart,2017-7,follow two simple but very crucial rules: We will buy American
+walmart,2017-7,"manufacturing at Wal-Mart, told Reuters it is on target with its"
+walmart,2017-7,pledge to buy $250 billion worth of American-made products by
+walmart,2017-7,Some of Wal-Mart's existing U.S. vendors - whom Wal-Mart has
+walmart,2017-7,its highly publicized Made-in-America sourcing plan - are on
+walmart,2017-7,"""It goes against the spirit of their 'Made in America'"
+walmart,2017-7,"push,"" said one seller of American-made socks to Wal-Mart.com,"
+walmart,2017-7,who spoke on condition of anonymity for fear of hurting business
+walmart,2017-7,are selling to Walmart.com said they were disappointed with the
+walmart,2017-7,retailer's move. Marsiglio said the retailer had not heard any
+walmart,2017-7,complaints about its move to allow global vendors on its
+walmart,2017-7,Trump's push in this direction and the resources they (Wal-Mart)
+walmart,2017-7,"Darius Mir, chief executive of MIA (Made in America) Seating"
+walmart,2017-7,"Wal-Mart.com, said he supports free trade and is open to"
+walmart,2017-7,competition on the platform. But he thinks it would help
+walmart,2017-7,"U.S.-based vendors if Wal-Mart could label ""Made in USA"" items"
+walmart,2017-7,"separately, and highlighting the Made In USA label,"" he said."
+walmart,2017-7,Wal-Mart's third-party marketplace is part of an overall
+walmart,2017-7,"The progress has been led by e-commerce chief Marc Lore, who"
+walmart,2017-7,took over last year after Wal-Mart paid $3.3 billion for
+walmart,2017-7,"its marketplace, which analysts said has been slow, has been"
+walmart,2017-7,He said Wal-Mart vets sellers to the third party marketplace
+walmart,2017-7,The retailer has also put in place requirements for global
+walmart,2017-7,"Beginning in the 1980s, Wal-Mart led a push to look overseas for"
+walmart,2017-7,Wal-Mart's Marsiglio in an interview in April told Reuters
+walmart,2017-7,This week she said one of the ways Wal-Mart is addressing
+walmart,2017-7,"items. For example, the retailer is working with a playing cards"
+walmart,2017-7,"Wal-Mart had 10,249 sellers on its marketplace at the end of"
+walmart,2017-7,But few American consumers are willing to pay higher prices
+walmart,2017-7,Thursday found 70 percent of Americans think it is important to
+walmart,2017-7,"""This all boils down to one thing,"" said Juozas Kaziukenas,"
+walmart,2017-7,"story, but with their renewed focus on e-commerce, they are"
+walmart,2017-7,"trying to do everything they can to change that,"" he said."
+walmart,2017-7,Wal-Mart proposes policy actions to boost U.S. manufacturing  - Reuters News
+walmart,2017-7,{{20170726T133004.925+0000}}Wal-Mart proposes policy actions to boost U.S. manufacturing By Nandita Bose
+walmart,2017-7,"CHICAGO, July 26 (Reuters) - Wal-Mart Stores Inc on Wednesday proposed 10 policy actions to boost U.S. manufacturing that the retailer said could help recapture $300 billion of the $650 billion worth of consumer goods that are currently imported."
+walmart,2017-7,"Wal-Mart said barriers to manufacturing growth include a lack of available and qualified workers and of co-ordination and financing to support U.S. manufacturers, complex regulations that create high compliance costs and legal risks, and the need for an overhaul of the U.S. tax system and trade deals."
+walmart,2017-7,"The world's largest retailer, which committed to sourcing $250 billion worth of U.S.-made goods in 2013, said it identified those challenges as it worked with suppliers over the last four years."
+walmart,2017-7,"Wal-Mart's comments come at a time when U.S. President Donald Trump has made boosting domestic manufacturing a key focus of his economic agenda. Earlier this month the White House held its ""Made in America"" week showcasing U.S. goods. [nL1N1K81D1]"
+walmart,2017-7,"The company's policy proposals included building vocational training programs, reducing costs for private industry to train workers, rebranding U.S. manufacturing to attract workers and drive demand for domestic products, encouraging component production to close supply chain gaps and promoting manufacturing clusters through public-private cooperation."
+walmart,2017-7,"Other proposals included eliminating federal overlap in manufacturing regulations, creating flexible compliance requirements for small businesses, creating a globally competitive tax environment, expanding tax deductions to foster manufacturing investments and overhauling trade agreements."
+walmart,2017-7,"Wal-Mart said it discussed these proposals at a meeting with individuals and organizations representing business, government and non-governmental organizations in Washington D.C."
+walmart,2017-7,"Citing an analysis by the Boston Consulting Group, Wal-Mart said every $100 billion that is onshored has the potential to create more than 500,000 direct manufacturing jobs which could then create an additional 1.5 million jobs."
+walmart,2017-7,July 25 (Reuters) - Shares in Supervalu Inc jumped 13 percent on Tuesday and were headed for their biggest one-day gain in four years after the grocery wholesaler and retailer reported quarterly sales that topped some analyst expectations.
+walmart,2017-7,The results boosted other grocery shares that have taken a beating since Amazon.com Inc in June announced plans to buy Whole Foods Market Inc for $13.7 billion.
+walmart,2017-7,Wal-Mart Stores Inc Kroger Co and United Natural Foods Inc each rose more than 2 percent.
+walmart,2017-7,"""The industry is up in sympathy with Supevalu,"" said Pivotal Research analyst Ajay Jain."
+walmart,2017-7,"On top of the competitive threat from Amazon.com, falling food prices have eaten into the grocery store industry's profit margins."
+walmart,2017-7,"Supevalu reported fiscal first-quarter net sales of $4 billion, up 6.3 percent and marginally higher than average analyst expectations, according to Thomson Reuters data."
+walmart,2017-7,"The company's wholesale net sales rose 12.4 percent in the quarter, an increase that Jain said was better than he expected."
+walmart,2017-7,"Supervalu shares were up 42 cents at $3.67 and on track for their largest one-day percentage gain since 2013. The shares were still down 21 percent year to date, however, even with Tuesday's gain."
+walmart,2017-7,UPDATE 1-GSK hires ex-Wal-Mart executive to transform tech operations - Reuters News
+walmart,2017-7,{{20170725T120856.349+0000}}UPDATE 1-GSK hires ex-Wal-Mart executive to transform tech operations* Karenann Terrell to join GSK executive team Sept. 4
+walmart,2017-7,"LONDON, July 25 (Reuters) - GlaxoSmithKline has appointed former Wal-Mart Stores executive Karenann Terrell to the new senior position of chief digital and technology officer as the drugmaker looks to harness smart tech systems across the group."
+walmart,2017-7,"The move reflects a desire by Chief Executive Emma Walmsley, who took over in April, to apply digital platforms in everything from clinical trials to customer interactions. It comes a day before GSK reports quarterly results."
+walmart,2017-7,"Major drugmakers are grappling with the impact of technology on their businesses, as digital apps offer patients new ways to monitor their health and online communications with prescribers and consumers become routine."
+walmart,2017-7,"For Walmsley, Terrell is another important appointment following the hiring of former AstraZeneca Luke Miels, who will also join in September. [nL8N1JG4VI]"
+walmart,2017-7,"Both will be key lieutenants as the GSK CEO strives to improve the competitive profile of the company's operations, which range from vaccines and prescription drugs to toothpaste."
+walmart,2017-7,"Terrell, who left Wal-Mart as chief information officer in February, will join GSK on Sept. 4 and will be a member of the senior corporate executive team in her new role, GSK said."
+walmart,2017-7,"Prior to working at Wal-Mart, Terrell was at U.S. healthcare group Baxter International and before that at Daimler Chrysler."
+walmart,2017-7,"""The impact of technology on the healthcare industry is accelerating and requires us to rethink our approach,"" Walmsley said in a statement."
+walmart,2017-7,"""As a member of the executive team, Karenann will have the scope to think radically about how we can exploit the latest opportunities and ultimately improve our business performance."""
+walmart,2017-7,"Walmsley, who previously headed GSK's consumer health unit after 17 years at L'Oreal , is known for her focus on benchmarking business performance and has already flagged her intention to improve returns at GSK."
+walmart,2017-7,"Her top priority is expected to be overhauling pharmaceutical research, where the British company has lagged behind rivals in terms of generating multibillion-dollar blockbusters in recent years."
+walmart,2017-7,"Walmsley will outline her vision for GSK alongside second-quarter results on Wednesday, when she is likely to detail plans to streamline the drug R&D pipeline and ensure research is more closely aligned to commercial opportunities. [nL5N1KC11Z]"
+walmart,2017-7,"GSK's results are set to benefit once again from a weak pound, after last year's Brexit vote, as well as strong demand for HIV medicines and the failure so far of generic firms to win approval for U.S. copies of its inhaled lung drug Advair."
+walmart,2017-7,GSK hires ex-Wal-Mart executive to transform tech operations - Reuters News
+walmart,2017-7,"{{20170725T111554.141+0000}}GSK hires ex-Wal-Mart executive to transform tech operationsLONDON, July 25 (Reuters) - GlaxoSmithKline said on Tuesday it had appointed former Wal-Mart Stores executive Karenann Terrell to the new senior position of chief digital and technology officer."
+walmart,2017-7,"The move comes a day before the drugmaker's CEO Emma Walmsley, who took over in April, unveils quarterly results. It reflects Walmsley's desire to use digital technology to improve performance across the group."
+walmart,2017-7,Walmart and JD.com expand strategic cooperation - Reuters Investor Briefs
+walmart,2017-7,"{{20170725T082152.416+0000}}Walmart and JD.com expand strategic cooperationJuly 25 (Reuters) - Jd.Com Inc <JD.O>:Walmart and JD.com expand strategic cooperation.Walmart says expanding their cooperation to further integrate their platforms, supply chains and customer resources in china.Walmart says JD is also establishing JD pick-up stations in Walmart stores to provide more"
+walmart,2017-7,BRIEF-Walmart and JD.com expand strategic cooperation - Reuters News
+walmart,2017-7,{{20170725T080848.767+0000}}BRIEF-Walmart and JD.com expand strategic cooperationJuly 25 (Reuters) - Jd.Com Inc
+walmart,2017-7,"* Walmart says expanding their cooperation to further integrate their platforms, supply chains and customer resources in china"
+walmart,2017-7,* Walmart says JD is also establishing JD pick-up stations in Walmart stores to provide more pick-up options for JD digital customers
+walmart,2017-7,"* Expanding cooperation to further integrate their platforms, supply chains and customer resources in China"
+walmart,2017-7,Source text for Eikon: [ID:nGNXOCOPNa] Further company coverage: [JD.O]
+walmart,2017-7,to leave the European Union  grocery price rises are no longer
+walmart,2017-7,"Rising prices in categories such as butter, fish and cola"
+walmart,2017-7,have been partially offset by falling prices in areas including
+walmart,2017-7,impact on the price of imported groceries (due to the fall in
+walmart,2017-7,"period, helped by a spell of hot weather and the inflation."
+walmart,2017-7,But all of the big four still lost market share to
+walmart,2017-7,"since October 2014, taking its market share to a record high of"
+walmart,2017-7,"{{20170725T072053.577+0000}}British grocery inflation stabilises - Kantar WorldpanelLONDON, July 25 (Reuters) - One year on from Britain's vote to leave the European Union grocery price rises are no longer accelerating, industry data showed on Tuesday."
+walmart,2017-7,"Market researcher, Kantar Worldpanel, said grocery like-for-like inflation was 3.2 percent in the 12 weeks to July 16 - the same rate of increase as last month's data."
+walmart,2017-7,It said overall supermarket sales rose 3.9 percent in the period.
+walmart,2017-7,Market leader Tesco was the best performer of Britain's big four supermarkets with a sales rise of 2.3 percent.
+walmart,2017-7,"However, the big four - also including Sainsbury's , Asda and Morrisons - still all lost market share to discounters Aldi [ALDIEI.UL] and Lidl [LIDUK.UL]."
+walmart,2017-7,"{{20170724T162331.471+0000}}Reckitt, airlines rattle Britain's FTSE* FTSE 100 ends down 1 pct, mid caps down 0.7 pct"
+walmart,2017-7,"LONDON, July 24 (Reuters) - Britain's top share index fell on Monday as heavyweight Reckitt Benckiser dropped following its results and as airlines were hit by price war worries."
+walmart,2017-7,"Britain's blue-chip FTSE 100 <.FTSE> index ended down 1 percent at 7,377.7 points."
+walmart,2017-7,"Consumer goods company Reckitt Benckiser fell 3.3 percent, the biggest FTSE loser, after second-quarter sales fell 2 percent following last month's cyber attack, which disrupted its operations. [nL5N1KF0TF]"
+walmart,2017-7,"""We consider the quality of these results disappointing for a company like RB, and expect the stock to underperform today particularly given management's commentary around 2017 outlook,"" analysts at UBS said in a note."
+walmart,2017-7,"Airlines also saw losses, with budget carrier easyJet down 2.8 percent and British Airway's operator IAG falling 0.8 percent after Irish peer Ryanair warned rivals that it may cut its late summer fares by as much as 9 percent compared with last year. [nL3N1KF2VC]"
+walmart,2017-7,"Blue chip risers were dominated by more defensive stocks, with pharma firm Shire making modest gains."
+walmart,2017-7,"Outside of the blue chips, M&A was in focus on the mid-cap <.FTMC> index after B&M European Value Retail jumped 4.8 percent on the back of a media report that Wal-Mart's Asda is considering a 4.4 billion pound ($5.7 billion) bid to take over the discount retailer. [nL5N1KF14D]"
+walmart,2017-7,"The British mid cap <.FTMC> index fell 0.7 percent, led lower by a 20 percent slump in Acacia Mining's shares following a spate of broker cuts in light of the gold miner's continuing troubles stemming from Tanzania's export ban. [nL5N1KF1BM]"
+walmart,2017-7,"{{20170724T161911.690+0000}}European stocks hit by autos inquiry, airlines price war fears* STOXX 600 ends down 0.2 pct"
+walmart,2017-7,* Airlines fall as Ryanair flags fares to fall in summer
+walmart,2017-7,"LONDON, July 24 (Reuters) - European shares dipped on Monday with automakers hitting their lowest level this year after anti-trust regulators opened an investigation, while price war worries hurt airlines."
+walmart,2017-7,The pan-European STOXX 600 <.STOXX> fell 0.2 percent as gains in heavyweight financials helped offset losses in other sectors. Euro zone bluechips <.STOXX50E> ended flat.
+walmart,2017-7,"Gemalto dropped 19.7 percent after the digital security company on Friday warned on profit for the fourth time since October, citing continued weakness in its SIM-card and U.S. payments operations. [nL5N1KC5KE]"
+walmart,2017-7,"""We continue to see both these businesses with double-digit (sales) declines given our view of limited unit growth and pricing pressures,"" Credit Suisse analysts said as they cut their target price."
+walmart,2017-7,Societe Generale and Natixis both reduced their recommendations on the stock following the warning.
+walmart,2017-7,"Shares in carmakers fell after EU antitrust regulators said they were investigating allegations of a cartel, with Volkswagen , Peugeot , Daimler , Renault and BMW between 1.3 and 2.8 percent lower."
+walmart,2017-7,"This brought the autos index <.SXAP> to a seven-month low and made it the day's worst-performing sector, with a fall of 1.4 percent by the close. [nL5N1KF10F]"
+walmart,2017-7,"""It's clearly bad for sentiment, which was already burned by the emissions scandal,"" Michael Punzet, autos analyst at DZ Bank said, adding that he expects ""high volatility related to the upcoming newsflow""."
+walmart,2017-7,"Jefferies analysts said: ""One cannot rule out material fines should anti-competitive behaviour be confirmed, up to the maximum allowed under EU rules."" That would be 10 percent of annual turnover, they added."
+walmart,2017-7,"Budget airline Ryanair fell 1.1 percent after it warned summer fares would face sharp cuts, though it said profit soared 55 percent in its first quarter. [nL5N1KF0FV]"
+walmart,2017-7,"Wizz Air and EasyJet sank 1.3 and 2.8 percent, while Lufthansa rose 0.5 percent."
+walmart,2017-7,"Switzerland's third largest private bank Julius Baer rose 4.5 percent after reporting its biggest inflows since the financial crisis for its first half, helped by a push to recruit more private bankers. [nL5N1KF0H8]"
+walmart,2017-7,"""We expect the market EPS (earnings per share) estimates to go up by a mid-single digit figure and argue that Baer deserves higher price-to-earnings multiples reflecting stronger net new assets,"" Baader Helvea analysts said."
+walmart,2017-7,"Among leading gainers was B&M European Value Retail , up 4.9 percent after a report that Asda, the British supermarket arm of U.S. retail giant Wal-Mart , was considering a 4.4 billion pound takeover bid. [nL5N1KD0O0]"
+walmart,2017-7,"Shares in Dutch healthcare technology firm Philips also gained 4 percent after its profit rose 15 percent in the second quarter, helped by strong sales of consumer personal care products. [nL5N1KF0GV]"
+walmart,2017-7,{{20170724T115042.028+0000}}BREAKINGVIEWS-B&M is unimaginative punt on Brexit Britain(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+walmart,2017-7,"LONDON, July 24 (Reuters Breakingviews) - B&M offers an unimaginative punt on Brexit Britain. The discount retailer was named as a potential 4.4 billion pound target for Wal-Mart's Asda in a Sunday Times report. With incomes tightening, UK shoppers will likely trade down to cheaper goods. Yet Asda could as easily soup up its own existing offering, or copy rivals Tesco and J Sainsbury with a more ambitious deal."
+walmart,2017-7,"It's not that B&M, which sells everything from cut-price dog food to bedside cabinets, isn't an attractive target. Its like-for-like sales in the UK grew 7.3 percent in the first quarter of the year. Retailers who pile it high and sell it cheap are doing well in a country with stagnant wage growth and moderate inflation. Rival Home Bargains almost tripled its UK market share since the 2008 financial crisis, while Poundstretcher and Poundworld also saw significant gains, according to Euromonitor data."
+walmart,2017-7,"Asda though, can do better. For one, a mooted 4.4 billion pound price tag, or 4.8 billion pounds including debt, is no bargain. B&M is forecast by analysts to make 297 million pounds of operating profit in 2020. Asda would have to almost double that to get a decent return on investment of 9 percent."
+walmart,2017-7,"Big retailers are getting more creative in their business models, and there's no reason Asda shouldn't too. Its parent Wal-Mart spent $3.3 billion on online retailer Jet.com last year. Tesco is pushing into the wholesale business by buying wholesaler Booker , and Sainsbury's snapped up general retailer Argos to drive footfall in its supermarket stores. But doing more is a poor substitute for doing better."
+walmart,2017-7,"- Asda, the British supermarket owned by U.S. grocer Wal-Mart, is considering a 4.4 billion pound bid for discount retailer B&M, according to The Sunday Times."
+walmart,2017-7,"- The newspaper, citing sources, said Asda is in the early stages of assessing a bid. B&M's shares were up 4.4 percent by 0935 BST on July 24"
+walmart,2017-7,"- For previous columns by the author, Reuters customers can click on [RYAN/]"
+walmart,2017-7,"{{20170724T091831.877+0000}}Reckitt, airlines and oil firms rattle Britain's FTSE(ADVISORY- Follow European and UK stock markets in real time on the Reuters Live Markets blog on Eikon, see cpurl://apps.cp./cms/?pageId=livemarkets)"
+walmart,2017-7,"LONDON, July 24 (Reuters) - Britain's top share index fell on Monday as heavyweight Reckitt Benckiser dropped following its results while energy firms and airlines were also weaker, with just a handful of defensive stocks in positive territory."
+walmart,2017-7,"Britain's blue-chip FTSE 100 <.FTSE> index was down 0.8 percent at 7,396.04 points percent by 0847 GMT. Energy stocks posed the biggest weights as BP and Royal Dutch Shell fell 1.7 percent and 1.3 percent respectively, and the price of oil declined as well. [O/R]"
+walmart,2017-7,"""We're seeing a softer open in UK equities this morning. However, as long as 7,400 holds we think this is a springboard for another push higher,"" said John Moore, trader at Berkeley Capital."
+walmart,2017-7,"""(UK equities) are cheap at the moment, the market's performed well, the currency rates have an advantage on UK (FTSE) 100 companies."""
+walmart,2017-7,"Aside from oil companies, consumer goods giant Reckitt Benckiser also weighed after falling 0.8 percent following weak results."
+walmart,2017-7,"Reckitt Benckiser's second-quarter sales fell 2 percent after last month's cyber attack, which disrupted its operations. [nL5N1KF0TF]"
+walmart,2017-7,"""We consider the quality of these results disappointing for a company like RB, and expect the stock to underperform today particularly given management's commentary around 2017 outlook,"" analysts at UBS said in a note."
+walmart,2017-7,"Airlines also saw sizeable losses, with budget carrier easyJet down 2.4 percent and British Airway's operator IAG falling 2.2 percent after Irish peer Ryanair warned rivals that it may cut its late summer fares by as much as 9 percent compared to last year. [nL3N1KF2VC]"
+walmart,2017-7,"Blue chip risers were dominated by more defensive stocks, with British American Tobacco and pharma firm Shire making modest gains."
+walmart,2017-7,"Outside of the blue chips, M&A was in focus on the mid-cap <.FTMC> index after B&M European Value Retail jumped 4.4 percent on the back of a media report that Wal-Mart's Asda is considering a 4.4 billion pound ($5.7 billion) bid to take over the discount retailer. [nL5N1KF14D]"
+walmart,2017-7,"The British mid cap <.FTMC> index fell 0.7 percent, led lower by a 9 percent slump in Acacia Mining's shares following a spate of broker cuts in light of the gold miner's continuing troubles stemming from Tanzania's export ban. [nL5N1KF1BM]"
+walmart,2017-7,"{{20170724T083102.488+0000}}Autos, airlines hit in sluggish start to European trading week* STOXX 600 down 0.1 pct"
+walmart,2017-7,* Airlines fall as Ryanair flags fares to fall in summer
+walmart,2017-7,(ADVISORY- Follow European and UK stock markets in real time on the Reuters Live Markets blog on Eikon - see cpurl://apps.cp./cms/?pageId=livemarkets)
+walmart,2017-7,"LONDON, July 24 (Reuters) - European shares dipped on Monday with the autos sector hitting its lowest level this year after anti-trust regulators opened an investigation into regional carmakers while price war worries hurt airlines."
+walmart,2017-7,The pan-European STOXX 600 <.STOXX> fell 0.1 percent as gains in the heavyweight financials sector helped offset losses elsewhere. Euro zone bluechips <.STOXX50E> fell 0.2 percent.
+walmart,2017-7,"Gemalto plummeted as much as 17 percent, the worst performer on the day, after the digital security company warned on profits for the fourth time since October on Friday after trading, citing continued weakness in its SIM-card and U.S. payments operations. [nL5N1KC5KE]"
+walmart,2017-7,"""We continue to see both these businesses with double-digit (sales) declines given our view of limited unit growth and pricing pressures,"" said Credit Suisse analysts, cutting their target price. Societe Generale and Natixis slashed their recommendations on the stock."
+walmart,2017-7,Shares in carmakers fell after European Union antitrust regulators said they were investigating allegations of a cartel in the industry. [nL5N1KF10F]
+walmart,2017-7,"Volkswagen , Peugeot , Daimler , Renault and BMW all fell 1.2 to 2.5 percent, sending the autos index <.SXAP> down 1.8 percent to a seven-month low, the worst-performing sector."
+walmart,2017-7,"""It's clearly bad for sentiment, which was already burned by the emissions scandal,"" said Michael Punzet, autos analyst at DZ Bank."
+walmart,2017-7,"""We expect high volatility related to the upcoming newsflow. Investors are clearly aware of the risks and they are selling the stocks."""
+walmart,2017-7,"Jefferies analysts said: ""One cannot rule out material fines should anti-competitive behaviour be confirmed, up to the maximum allowed under EU rules."" That would be 10 percent of annual turnover, they added."
+walmart,2017-7,"Budget airline Ryanair fell 4.7 percent, a top European loser, after it warned summer fares would face sharp cuts, though it said profit soared 55 percent in its first quarter. [nL5N1KF0FV]"
+walmart,2017-7,"Rivals Wizz Air and EasyJet sank 2 to 3 percent, while Lufthansa dipped 1.1 percent."
+walmart,2017-7,"Switzerland's third largest private bank Julius Baer led gainers, up 7.5 percent after reporting its biggest inflows since the financial crisis for its first half, helped by a push to recruit more private bankers. [nL5N1KF0H8]"
+walmart,2017-7,"""We expect the market EPS estimates to go up by a mid-single digit figure and argue that Baer deserves higher price-to-earnings multiples reflecting stronger net new assets,"" said Baader Helvea analysts."
+walmart,2017-7,"Among leading gainers was B&M European Value Retail , up 4.5 percent after a report that Asda, the British supermarket arm of U.S. retail giant Wal-Mart , was considering a 4.4 billion pound takeover bid. [nL5N1KD0O0]"
+walmart,2017-7,"Shares in Dutch healthcare technology firm Philips also gained 3.6 percent after its profit rose 15 percent in the second quarter, helped by strong sales of consumer personal care products. [nL5N1KF0GV]"
+walmart,2017-7,UPDATE 1-Shares in Britain's B&M rise on report Asda eyeing takeover bid - Reuters News
+walmart,2017-7,"{{20170724T081539.559+0000}}UPDATE 1-Shares in Britain's B&M rise on report Asda eyeing takeover bid(Adds analyst comment, updates shares)"
+walmart,2017-7,"LONDON, July 24 (Reuters) - Shares in British discount retailer B&M European Value Retail rose as much as 5.3 percent on Monday after a report that Asda, the UK supermarket arm of Wal-Mart Stores , was considering 4.4 billion pound ($5.7 billion) takeover bid."
+walmart,2017-7,"However, the rise indicated a value for B&M much lower than the reported takeover value, indicating that investors were not convinced by the report."
+walmart,2017-7,"The Sunday Times said Asda, which trails market leader Tesco and Sainsbury's in annual sales, is in the early stages of assessing a bid for B&M, which is chaired by Terry Leahy, the former chief executive of Tesco."
+walmart,2017-7,It said Asda had commissioned external research on B&M and cited an unidentified industry source as saying that buying B&M would reduce Asda's reliance on food sales and provide it with a network to stock its George clothing range.
+walmart,2017-7,"Shares in B&M, which listed at 270 pence in 2014, were up 15.4 pence at 356.2 pence at 0754 GMT, valuing the business at 3.6 billion pounds."
+walmart,2017-7,The Sunday Times said applying a normal takeover premium would take Asda's offer price to at least 4.4 billion pounds.
+walmart,2017-7,"""If the City really believed the Sunday Times story about an Asda bid the shares would be a lot higher,"" said independent retail analyst Nick Bubb."
+walmart,2017-7,"""Given that Wal-Mart had been thought to be weighing up selling Asda at one point, it would certainly represent quite a change in attitude to M&A in the UK on their part,"" he said. [nL5N1FS4I4]"
+walmart,2017-7,"B&M, which trades from more than 540 UK stores, selling products ranging from bedding to barbecues to food, is run by Chief Executive Simon Arora and his brother Bobby, the trading director. The Arora family own a 15 percent stake."
+walmart,2017-7,If Asda did go for B&M it would follow other deals by Britain's major supermarkets looking to diversify and protect market share from discounters Aldi [ALDIEI.UL] and Lidl [LIDUK.UL] and from Amazon .
+walmart,2017-7,"Last year Sainsbury's bought Argos-owner Home Retail for 1.1 billion pounds and has also held takeover talks with franchised convenience chain Nisa, while in January Tesco agreed on a 3.7 billion pound takeover of wholesaler Booker , a deal which is currently being investigated by competition regulators."
+walmart,2017-7,"Of Britain's big four supermarket players, which also includes Morrisons , Asda was hurt the most by the rise of Aldi and Lidl. It has reported eleven straight quarters of underlying sales decline. [nL8N1IK3N2]"
+walmart,2017-7,Asda is due to publish second quarter results on August 17. ($1 = 0.7688 pounds)
+walmart,2017-7,"{{20170724T073154.292+0000}}Autos, airlines smoked in sluggish start to European trading weekLONDON, July 24 (Reuters) - European shares dipped on Monday with the autos sector hitting its lowest level this year after anti-trust regulators opened an investigation into regional carmakers while worries on escalating price wars hurt airlines."
+walmart,2017-7,The pan-European STOXX 600 <.STOXX> fell 0.2 percent as gains in the heavyweight financials sector helped offset losses elsewhere. Euro zone bluechips <.STOXX50E> also fell 0.2 percent.
+walmart,2017-7,"Gemalto plummeted as much as 17 percent, the worst performer on the day, after the digital security company warned on profits for the fourth time since October on Friday after trading, citing continued weakness in its SIM-card and U.S. payments operations. [nL5N1KC5KE]"
+walmart,2017-7,"Budget airline Ryanair fell 4.7 percent, a top European loser, after it warned summer fares would face sharp cuts, though it reported profit soared 55 percent in its first quarter. [nL5N1KF0FV]"
+walmart,2017-7,Shares in carmakers across Europe fell after European Union antitrust regulators said they were investigating allegations of a cartel amongst them. [nL5N1KF10F]
+walmart,2017-7,"Volkswagen , Peugeot , Daimler , Renault and BMW all fell 1.2 to 2.5 percent, sending the autos index <.SXAP> down 1.6 percent, the worst-performing sector."
+walmart,2017-7,"Among leading gainers was B&M European Value Retail , up 4.1 percent after a report that Asda, the British supermarket arm of U.S. retail giant Wal-Mart , was considering a 4.4 billion pound takeover bid. [nL5N1KD0O0]"
+walmart,2017-7,"Switzerland's third largest private bank Julius Baer jumped 6.5 percent after reporting its biggest inflows since the financial crisis for its first half, helped by a push to recruit more private bankers. [nL5N1KF0H8]"
+walmart,2017-7,Shares in Britain's B&M rise on report Asda eyeing takeover bid - Reuters News
+walmart,2017-7,"{{20170724T071855.696+0000}}Shares in Britain's B&M rise on report Asda eyeing takeover bidLONDON, July 24 (Reuters) - Shares in British discount retailer B&M European Value Retail rose as much as 5.3 percent on Monday after a report that Asda, the UK supermarket arm of Wal-Mart Stores , was considering a 4.4 billion pounds ($5.7 billion) takeover."
+walmart,2017-7,"The Sunday Times said Asda, which trails market leader Tesco and Sainsbury's in annual sales, is in the early stages of assessing a bid for B&M, which is chaired by Terry Leahy, the former chief executive of Tesco."
+walmart,2017-7,It said Asda had commissioned external research on B&M and cited an unidentified industry source as saying that buying B&M would reduce Asda's reliance on food sales and provide it with a network to stock its George clothing range.
+walmart,2017-7,"Shares in B&M, which listed at 270 pence in 2014, were up 15.6 pence at 356.6 pence at 0708 GMT, valuing the business at 3.6 billion pounds."
+walmart,2017-7,{{20170724T000417.361+0000}}PRESS DIGEST- British Business - July 24July 24 (Reuters) - The following are the top stories on the business pages of British newspapers. Reuters has not verified these stories and does not vouch for their accuracy.
+walmart,2017-7,UPDATE 1-Asda eyeing 4.4 bln stg bid for B&M -Sunday Times - Reuters News
+walmart,2017-7,{{20170722T223127.523+0000}}UPDATE 1-Asda eyeing 4.4 bln stg bid for B&M -Sunday Times(Adds Asda spokesman's decline to comment)
+walmart,2017-7,"LONDON, July 22 (Reuters) - Asda, the British supermarket arm of Wal-Mart Stores , is considering a 4.4 billion pounds ($5.7 billion) takeover of B&M European Value Retail , the discount retailer run by the billionaire Arora brothers, The Sunday Times reported."
+walmart,2017-7,"The newspaper said Asda, which trails market leader Tesco and Sainsbury's in annual sales, is in the early stages of assessing a bid for B&M, which is chaired by Terry Leahy, the former chief executive of Tesco."
+walmart,2017-7,It said Asda has commissioned external research on B&M and cited an unidentified industry source as saying that buying B&M would reduce Asda's reliance on food sales and provide it with a network to stock its George clothing range.
+walmart,2017-7,"Last year Sainsbury's bought Argos-owner Home Retail for 1.1 billion pounds, while in January Tesco agreed on a 3.7 billion pounds takeover of wholesaler Booker , a deal which is currently being probed by competition regulators."
+walmart,2017-7,"Of Britain's big four supermarket players, which also includes Morrisons , Asda was hurt the most by the rise of German discounters Aldi and Lidl. It has reported eleven straight quarters of underlying sales decline. [nL8N1IK3N2]"
+walmart,2017-7,"B&M trades from over 540 UK stores, selling products ranging from bedding to barbecues to food. Its shares listed at 270 pence in 2014. They closed Friday at 340 pence, valuing the business at 3.4 billion pounds."
+walmart,2017-7,The Sunday Times said applying a normal takeover premium would take its price to at least 4.4 billion pounds.
+walmart,2017-7,A spokesman for Asda declined to comment. B&M could not be immediately reached for comment. ($1 = 0.7697 pounds)
+walmart,2017-7,Asda eyeing 4.4 bln stg bid for B&M - Sunday Times - Reuters News
+walmart,2017-7,"{{20170722T221601.098+0000}}Asda eyeing 4.4 bln stg bid for B&M - Sunday TimesLONDON, July 22 (Reuters) - Asda, the British supermarket arm of Wal-Mart Stores , is considering a 4.4 billion pounds ($5.7 billion) takeover of B&M European Value Retail , the discount retailer run by the billionaire Arora brothers, The Sunday Times reported."
+walmart,2017-7,"The newspaper said Asda, which trails market leader Tesco and Sainsbury's in annual sales, is in the early stages of assessing a bid for B&M, which is chaired by Terry Leahy, the former chief executive of Tesco."
+walmart,2017-7,It said Asda has commissioned external research on B&M and cited an unidentified industry source as saying that buying B&M would reduce Asda's reliance on food sales and provide it with a network to stock its George clothing range.
+walmart,2017-7,"Last year Sainsbury's bought Argos-owner Home Retail for 1.1 billion pounds, while in January Tesco agreed on a 3.7 billion pounds takeover of wholesaler Booker , a deal which is currently being probed by competition regulators."
+walmart,2017-7,"Of Britain's big four supermarket players, which also includes Morrisons , Asda was hurt the most by the rise of German discounters Aldi and Lidl. It has reported eleven straight quarters of underlying sales decline. [nL8N1IK3N2]"
+walmart,2017-7,"B&M trades from over 540 UK stores, selling products ranging from bedding to barbecues to food. Its shares listed at 270 pence in 2014. They closed Friday at 340 pence, valuing the business at 3.4 billion pounds."
+walmart,2017-7,The Sunday Times said applying a normal takeover premium would take its price to at least 4.4 billion pounds.
+walmart,2017-7,Asda and B&M could not be immediately reached for comment. ($1 = 0.7697 pounds)
+walmart,2017-7,BUZZ-Plug Power Inc: Hits 3-mth high on latest deal with Walmart - Reuters News
+walmart,2017-7,{{20170721T160424.208+0000}}BUZZ-Plug Power Inc: Hits 3-mth high on latest deal with Walmart** Hydrogen fuel cell maker's shares rise as much as 18.9 pct to more than 3-month high of $2.52 - after PLUG expands collaboration with Walmart
+walmart,2017-7,** New agreement allows PLUG to get project financing at a lower cost of capital and no restricted cash [nGNXOAFSVa]
+walmart,2017-7,"** PLUG, which first struck an agreement with WMT in 2014, supplies the retailer with fuel cells, hydrogen fueling stations, and ongoing maintenance services"
+walmart,2017-7,"** As part of the deal, co has granted WMT warrants to buy up to 55.3 mln of PLUG shares"
+walmart,2017-7,"** PLUG expects to provide its hydrogen fueling station to up to 30 additional Walmart sites in North America over the next three years, with ten sites already under contract and scheduled to be finished by the end of this year; 2017 commitments are valued at $80 mln"
+walmart,2017-7,"** More than 19 mln PLUG shares traded, 4.2x their 30-day moving avg"
+walmart,2017-7,"** On April 5, PLUG's stock rose as much as 85 pct when Amazon.com Inc acquired an option to buy a stake in co [nL3N1HD3PN]"
+walmart,2017-7,Plug Power announces expanded collaboration with Walmart - Reuters Investor Briefs
+walmart,2017-7,"{{20170721T120156.916+0000}}Plug Power announces expanded collaboration with WalmartJuly 21 (Reuters) - Plug Power Inc <PLUG.O>:Plug Power announces expanded collaboration with Walmart.Plug Power - new agreement includes revised deal terms with Walmart that allow plug power to access project financing at a lower cost of capital and no restricted cash.Plug Power - as part of agreement,"
+walmart,2017-7,Plug Power announces expanded collaboration with Walmart - Reuters Investor Briefs
+walmart,2017-7,"{{20170721T120131.490+0000}}Plug Power announces expanded collaboration with WalmartJuly 21 (Reuters) - Plug Power Inc <PLUG.O>:Plug Power announces expanded collaboration with Walmart.Plug Power - new agreement includes revised deal terms with Walmart that allow plug power to access project financing at a lower cost of capital and no restricted cash.Plug Power - as part of agreement,"
+walmart,2017-7,BRIEF-Plug Power announces expanded collaboration with Walmart - Reuters News
+walmart,2017-7,{{20170721T111541.757+0000}}BRIEF-Plug Power announces expanded collaboration with WalmartJuly 21 (Reuters) - Plug Power Inc
+walmart,2017-7,* Plug Power - new agreement includes revised deal terms with Walmart that allow plug power to access project financing at a lower cost of capital and no restricted cash
+walmart,2017-7,"* Plug Power - as part of agreement, it has granted Walmart warrants to acquire up to 55.3 million of plug power's common shares"
+walmart,2017-7,"* Plug Power - warrants for first 5,819,652 shares vested upon execution of new program agreements at an exercise price of $2.1231 per share"
+walmart,2017-7,"* Plug Power - additional warrants will vest in installments tied to successive $50 million payment thresholds, up to a total of $600 million"
+walmart,2017-7,* Plug Power - expects to provide its Genkey hydrogen fueling station and fuel cell energy solutions to up to 30 additional walmart sites in north america over next three years
+walmart,2017-7,* Plug Power - ten Walmart sites already under contract and scheduled to be finished by end of 2017; value of 2017 commitments expected to be around $80 million
+walmart,2017-7,Source text for Eikon: [ID:nGNXOAFSVa] Further company coverage: [PLUG.O]
+walmart,2017-7,"POLL-Americans want U.S. goods, but not willing to pay more -Reuters/Ipsos  - Reuters News"
+walmart,2017-7,"HARRISBURG, Pa., July 18 (Reuters) - Americans say they love U.S.-made goods. They are less enthusiastic, however, about paying a premium for them."
+walmart,2017-7,"At the AMES Companies Inc factory here, the wheelbarrows coming off the assembly line once every six seconds cost the company more to make in the United States than abroad, but U.S. retailers generally will not charge more for them because consumers would balk, AMES President Mark Traylor said."
+walmart,2017-7,"A Reuters/Ipsos poll released on Tuesday found 70 percent of Americans think it is ""very important"" or ""somewhat important"" to buy U.S.-made products."
+walmart,2017-7,"Despite that sentiment, 37 percent said they would refuse to pay more for U.S.-made goods versus imports. Twenty six percent said they would only pay up to 5 percent more to buy American, and 21 percent capped the premium at 10 percent."
+walmart,2017-7,"U.S. President Donald Trump rode into office on promises of bringing back manufacturing jobs and boosting economic growth, and has criticized companies that move production overseas."
+walmart,2017-7,"Trump has also been quick to promote U.S.-made goods, and on Monday released a state-by-state ""Made in America Product Showcase"" that included AMES wheelbarrows."
+walmart,2017-7,"Lower-income Americans were the most enthusiastic about buying U.S. goods, the poll showed, despite being the least able to afford paying extra for them."
+walmart,2017-7,"Indeed, the biggest U.S. retailer is well aware of the priority buyers place on price above all else. A spokesman for Wal-Mart Stores Inc said customers are telling them ""that where products are made is most important second only to price."""
+walmart,2017-7,The good news for U.S. factories is that Americans like the quality of many domestic goods.
+walmart,2017-7,Thirty-one percent in the poll said American-made cars are the best in the world. German cars were voted best by 23 percent of respondents. And thirty-eight percent said U.S.-made clothes were best.
+walmart,2017-7,"Still, domestic manufacturers could be in trouble if they fail to capitalize on perceptions about the quality of their products while also keeping a tight lid on costs."
+walmart,2017-7,"In order to compete, companies like AMES have to find ways to offset their disadvantage"
+walmart,2017-7,"""We don't have to be as cheap as imports,"" says Traylor, who estimated he sells his wheelbarrows to U.S. retailers for about 10 percent more than importers."
+walmart,2017-7,Factors like cheaper domestic freight and a desire among retailers to carry lower inventories can help make up some of the cost differential.
+walmart,2017-7,"AMES is also better positioned than overseas suppliers to help retailers be agile. When spring comes early, for example, AMES can respond quickly to ship goods to stores, Traylor said, something importers with longer lead times on orders struggle to do."
+walmart,2017-7,Traylor said another secret to success for U.S. manufacturers is investing in technology to cut costs.
+walmart,2017-7,"AMES, a subsidiary of New York-based Griffon Corp , is pouring $50 million into upgrades at several locations. The Harrisburg factory, built in 1921, is dotted with aged machinery that has been fitted with robotic attachments to reduce reliance on human labor."
+walmart,2017-7,"The company said it recently convinced a major retailer, who they did not want to identify, to switch from Mexican-made wheelbarrows to carry their product."
+walmart,2017-7,"AMES also said business is so strong that it is hiring 100 employees across its five Pennsylvania locations, including the Harrisburg factory."
+walmart,2017-7,Traylor says AMES wants to bring more work back from overseas. But that can be difficult.
+walmart,2017-7,And the production of certain components may prove impossible to ever bring back to U.S. soil.
+walmart,2017-7,"In late April, Trump marked his 100th day in office with a visit to the AMES plant. With workers chanting ""USA, USA,"" Trump asked if every part of the wheelbarrows was made in America."
+walmart,2017-7,"U.S. manufacturers stopped large-scale production of air-filled tires for garden equipment years ago, and the cost of setting up production now would be hard to justify for the low-margin product."
+walmart,2017-7,"Some rubber makers still manufacture solid rubber tires in the United States, but the last time AMES bought any they cost nearly twice the roughly $7 they pay for a Chinese tire, a big added cost for a wheelbarrow that often retails for less than $100."
+walmart,2017-7,"""Is it feasible to get U.S.-made tires?"" asked Mark D'Agostino, the company's vice president for supply chain. ""We don't know yet."""
+walmart,2017-7,"To be sure, some manufacturers can command a big premium for American-made products."
+walmart,2017-7,"Klein Tools Inc, a privately held company based outside Chicago with annual sales of $500 million, makes hand tools that are highly sought after by electricians and other workers."
+walmart,2017-7,A pair of 9-inch Klein pliers sells for about 30 percent more than a comparable import.
+walmart,2017-7,But betting on the allure of American-made goods can be risky.
+walmart,2017-7,"In 2012, High Point, North Carolina-based Stanley Furniture Co brought back production of cribs and other baby furniture from China to a U.S. plant, wagering that parents worried about a string of Chinese factory quality scandals would pay $700 for cribs nearly identical to imports selling for $400."
+walmart,2017-7,"Customers refused to bite, however, and the High Point factory closed in 2014."
+walmart,2017-7,"Still, Stanley Chief Executive Glenn Prillaman said the Trump administration's emphasis on American-made goods is a hopeful sign that resonates with ""people that work for a living,"" because they can see how it impacts their own jobs."
+walmart,2017-7,"""The lower-end consumers certainly care, and that's a good thing,"" he said. ""But they're also not in a position to pay the premium."""
+walmart,2017-7,"The Reuters/Ipsos poll was conducted online in English throughout the United States from May 24 to May 31. It gathered responses from 2,857 people, including 593 adults who made less than $25,000 per year, 1,283 who said they earned between $25,000 and $74,999, and 805 people who earned more than $75,000."
+walmart,2017-7,"The poll has a credibility interval, a measure of accuracy, of 2 percentage points for the entire group, 5 points for the low-income respondents, 3 points for the middle-income respondents and 4 points for the high-income respondents."
+walmart,2017-7,MEDIA-Walmart apologizes after slur used by third-party vendor - AP - Reuters News
+walmart,2017-7,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+walmart,2017-7,"{{20170717T115747.960+0000}}South Africa's Massmart flags slower sales growthJOHANNESBURG, July 17 (Reuters) - South African retailer Massmart reported a sharp slowdown in half-year sales growth on Monday as its home market slipped into recession."
+walmart,2017-7,"Massmart, a unit of Wal-Mart Stores , said total sales rose 0.5 percent to 42.5 billion rand ($3.28 billion) in the six months to the end of June, as weak consumer spending and low consumer confidence weighed on its business."
+walmart,2017-7,"Massmart's home market and by far its largest revenue source has slumped into its first recession in eight years, data released last month showed, with political turmoil sending business and consumer sentiment to multi-year lows. [nL8N1J9447] [nL8N1J31WH]"
+walmart,2017-7,"The company, which sells food, general merchandise and household appliances in 13 African countries, said its comparable stores sales decreased by 1.6 percent."
+walmart,2017-7,"Consumer spending was weak, especially on discretionary items, it said in a statement."
+walmart,2017-7,"While food and liquor sales rose 3 percent, general merchandise, home improvement and mobile device sales decreased 2.9 percent."
+walmart,2017-7,Upmarket food and clothing retailer Woolworths last week cited difficult trading conditions as it flagged a lower full-year profit. [nL8N1K10RW]
+walmart,2017-7,Knife-wielding man kills 2 in southern China Wal-Mart - Xinhua - Reuters News
+walmart,2017-7,"{{20170716T235218.113+0000}}Knife-wielding man kills 2 in southern China Wal-Mart - XinhuaSHANGHAI, July 17 (Reuters) - A knife-wielding man has killed two people and injured nine in a Wal-Mart supermarket in the southern Chinese city of Shenzhen, the official Xinhua news agency reported, citing local police."
+walmart,2017-7,Xinhua said the injured had been sent to hospital but did not give any details of the victims from the attack on Sunday evening.
+walmart,2017-7,"It said the attacker, whose surname it gave as Jiang, had been detained and police were investigating."
+walmart,2017-7,"Violent crime is rare in China compared with many other countries but there has been a series of knife and axe attacks in recent years, many targeting children."
+walmart,2017-7,"In May, two people were killed in southwest China by a knife-wielding man suspected of suffering from mental illness. [nL3N1IV16D]"
+walmart,2017-7,"{{20170714T221127.893+0000}}U.S. RESEARCH ROUNDUP- Arconic, Cyberark Software, F5 NetworksJuly 14 (Reuters) - Wall Street securities analysts revised their ratings and price targets on"
+walmart,2017-7,"several U.S.-listed companies, including Arconic, Cyberark Software and F5 Networks, on Friday."
+walmart,2017-7,* Arconic Inc : Seaport Global Securities raises to buy from neutral
+walmart,2017-7,* Cyberark Software Ltd : JP Morgan cuts to neutral from overweight
+walmart,2017-7,Following is a summary of research actions on U.S. companies reported by Reuters on Friday. Stock
+walmart,2017-7,* Apollo Global Management Llc : Oppenheimer raises target price to $33 from $31
+walmart,2017-7,* Applied Optoelectronics Inc : Craig-Hallum raises target price to $95 from $85
+walmart,2017-7,* Arconic Inc : Seaport Global Securities raises to buy from neutral
+walmart,2017-7,* Barrick Gold Corp : Jefferies cuts price target to $20; rating buy
+walmart,2017-7,* Bemis Company Inc : Jefferies raises price target to $45; rating hold
+walmart,2017-7,* Berry Plastics Group Inc : Jefferies raises price target to $67; rating buy
+walmart,2017-7,* BHP Billiton Plc : Jefferies raises price target to $34; rating hold
+walmart,2017-7,* BJ's Restaurants Inc : Canaccord Genuity raises to buy from hold
+walmart,2017-7,* CBL & Associates Properties Inc : Stifel resumes coverage with hold rating
+walmart,2017-7,* CF Industries Holdings Inc : RBC cuts target price to $23 from $25
+walmart,2017-7,* Costar Group Inc : B. Riley raises target price to $325 from $275; rating buy
+walmart,2017-7,* Crown Holdings Inc : Jefferies raises price target to $70; rating buy
+walmart,2017-7,* Cyberark Software Ltd : Cowen and Company cuts target price to $43 from $53
+walmart,2017-7,* Cyberark Software Ltd : Deutsche Bank cuts target price to $45 from $60
+walmart,2017-7,* Cyberark Software Ltd : Deutsche Bank cuts to hold from buy
+walmart,2017-7,* Cyberark Software Ltd : Evercore ISI cuts target price to $56 from $60
+walmart,2017-7,* Cyberark Software Ltd : JP Morgan cuts target price to $45 from $63
+walmart,2017-7,* Cyberark Software Ltd : JP Morgan cuts to neutral from overweight
+walmart,2017-7,* Cyberark Software Ltd : Morgan Stanley cuts target price to $48 from $55
+walmart,2017-7,* Cyberark Software Ltd : Piper Jaffray cuts target to $51 from $61; overweight
+walmart,2017-7,* Delta Air Lines Inc : Raymond James raises price target to $64 from $63
+walmart,2017-7,* Diamondrock Hospitality : Raymond James raises to outperform from market perform
+walmart,2017-7,* East West Bancorp Inc : Deutsche Bank cuts to hold from buy
+walmart,2017-7,* Editas Medicine Inc : SunTrust Robinson starts with hold; target price $17
+walmart,2017-7,* Essex Property Trust Inc : Jefferies raises target price to $250 from $234
+walmart,2017-7,* Facebook Inc : Cowen and Company raises target price to $180 from $170
+walmart,2017-7,* Federal Realty Investment Trust : Jefferies cuts target price to $136 from $140
+walmart,2017-7,* First Horizon National : RBC Capital cuts target to $19 from $20; sector perform
+walmart,2017-7,* First Horizon National : SunTrust Robinson cuts target to $21.00 from $23.00;buy
+walmart,2017-7,* First Republic Bank : Maxim raises target price to $110 from $105; rating buy
+walmart,2017-7,* Graphic Packaging Holding Co : Jefferies raises price target to $15; rating hold
+walmart,2017-7,* Harris Corp : Jefferies raises target price to $135 from $125; rating buy
+walmart,2017-7,* Helmerich and Payne Inc : BMO cuts target price to $40 from $54
+walmart,2017-7,* Intercontinental Exchange Inc : RBC raises to outperform from sector perform
+walmart,2017-7,* International Paper Co : Jefferies raises price target to $66; rating buy
+walmart,2017-7,* Kinross Gold Corp : Jefferies cuts price target to $3.75; rating hold
+walmart,2017-7,* National Oilwell Varco Inc : BMO cuts target price to $28 from $30
+walmart,2017-7,* Newmont Mining Corp : Jefferies cuts price target to $35; rating hold
+walmart,2017-7,* Oil States International Inc : BMO cuts target price to $27 from $33
+walmart,2017-7,* Omnicom Group Inc : Credit Suisse cuts target price to $79 from $81
+walmart,2017-7,* Owens-Illinois Inc : Jefferies raises price target to $26; rating hold
+walmart,2017-7,* Packaging Corp of America : Jefferies raises price target to $128; rating buy
+walmart,2017-7,* Patterson-UTI Energy Inc : BMO cuts target price to $23 from $28
+walmart,2017-7,* Pebblebrook Hotel Trust : RBC Capital raises target to $35 from $33; outperform
+walmart,2017-7,* RH : Telsey Advisory Group raises target price to $60 from $48; market perform
+walmart,2017-7,* Rio Tinto Plc : Jefferies raises price target to $52; rating buy
+walmart,2017-7,* Rockwell Collins Inc : JP Morgan raises target price to $135 from $125
+walmart,2017-7,* Ryman Hospitality Properties: Raymond James cuts to market perform from outperform
+walmart,2017-7,* Safety Income & Growth : Ladenburg Thalmann starts with buy rating;target $22
+walmart,2017-7,* Senior Housing Properties Trust : Jefferies cuts target price to $20 from $21
+walmart,2017-7,* Simon Property Group Inc : Jefferies raises target price to $198 from $190
+walmart,2017-7,* Simon Property Group Inc : Stifel resumes coverage with hold rating
+walmart,2017-7,* Snap Inc : Cowen and Company cuts price target to $17 from $21
+walmart,2017-7,* Snap Inc : Cowen and Company cuts to market perform from outperform
+walmart,2017-7,* Spirit Aerosystems Holdings Inc : JP Morgan raises target price to $67 from $59
+walmart,2017-7,* SRC Energy : Euro Pacific Capital cuts target price to $9 from $11; rating buy
+walmart,2017-7,* Summit Hotel Properties Inc: Raymond James cuts to market perform from outperform
+walmart,2017-7,* Superior Energy Services Inc : BMO cuts target price to $12 from $15
+walmart,2017-7,* Supernus Pharmaceuticals Inc : Janney starts with neutral rating; $47 fair value
+walmart,2017-7,* T. Rowe Price Group Inc : JP Morgan raises target price to $71 from $66
+walmart,2017-7,* Tanger Factory Outlet Centers Inc : Jefferies cuts target price to $28 from $29
+walmart,2017-7,* Targa Resources Corp : RBC cuts target price to $60 from $67; rating outperform
+walmart,2017-7,* Teledyne Technologies Inc : Jefferies raises TP to $145 from $140; rating hold
+walmart,2017-7,* Transdigm Group Inc : JP Morgan raises target price to $320 from $280
+walmart,2017-7,* Triumph Group Inc : JP Morgan raises target price to $36 from $33
+walmart,2017-7,* Upland Software : Craig-Hallum raises price target to $29 from $26; rating buy
+walmart,2017-7,* Upland Software : Raymond James raises price target to $26 from $24; outperform
+walmart,2017-7,* Walmart : Goldman Sachs raises to buy from neutral - Thefly.com
+walmart,2017-7,* Yandex : Morgan Stanley raises target price to $35 from $31; rating overweight
+walmart,2017-7,"{{20170714T171117.472+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Big banks, U.S. casinos, Celadon, CyberArk Software* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,"U.S. stocks were trading at record levels in early afternoon trading on Friday,"
+walmart,2017-7,as weak economic data dimmed chances of another rate hike this year and tech
+walmart,2017-7,"At 12:32 ET, the Dow Jones Industrial Average <.DJI> was up 0.10 percent at"
+walmart,2017-7,BUZZ-Tepid forecasts take shine out of big banks' profit beat [nL4N1K54HC]
+walmart,2017-7,UPDATE 1-Citigroup profit beats on smaller drop in trading revenue [nL4N1K5435]
+walmart,2017-7,UPDATE 2-Weakness in mortgage business clouds Wells Fargo's profit beat
+walmart,2017-7,UPDATE 3-JPMorgan posts higher profit; shares dip on net interest income view
+walmart,2017-7,BUZZ-U.S. casino stocks: Chips down on Macau junket operator's warning
+walmart,2017-7,BRIEF-ClearSign receives order from supermajor oil company to qualify Duplex
+walmart,2017-7,"BUZZ-Wal-Mart Stores Inc: GS raises to ""conviction buy"" - Thefly.com"
+walmart,2017-7,BUZZ-A10 Networks Inc: Plunges to 9-month low on weak forecast [nL1N1K50TG]
+walmart,2017-7,BUZZ-BioLife Solutions Inc: Osteoarthritis gene therapy gets Korean approval
+walmart,2017-7,BUZZ-Shiloh Industries Inc: Shares fall after offering at discount [nL4N1K53IX]
+walmart,2017-7,CTi Biopharma Corp: EU regulator accepts blood cancer drug for review
+walmart,2017-7,BUZZ-CyberArk Software Ltd: Set for more than 1-yr low [nL4N1K53JY]
+walmart,2017-7,BUZZ-Westport Fuel Systems Inc: Dips after pricing stock offering [nL4N1K53QX]
+walmart,2017-7,"{{20170714T153602.980+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Big banks, Wal-Mart, U.S. casinos, CyberArk Software* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,U.S. stocks edged higher in late morning trading on Friday as weak economic data
+walmart,2017-7,"dimmed chances of another rate hike this year, while tepid forecasts by JPMorgan"
+walmart,2017-7,"At 11:27 ET, the Dow Jones Industrial Average <.DJI> was up 0.03 percent at"
+walmart,2017-7,BUZZ-Tepid forecasts take shine out of big banks' profit beat [nL4N1K54HC]
+walmart,2017-7,UPDATE 1-Citigroup profit beats on smaller drop in trading revenue [nL4N1K5435]
+walmart,2017-7,UPDATE 2-Weakness in mortgage business clouds Wells Fargo's profit beat
+walmart,2017-7,UPDATE 3-JPMorgan posts higher profit; shares dip on net interest income view
+walmart,2017-7,BUZZ-U.S. casino stocks: Chips down on Macau junket operator's warning
+walmart,2017-7,BRIEF-ClearSign receives order from supermajor oil company to qualify Duplex
+walmart,2017-7,"BUZZ-Wal-Mart Stores Inc: GS raises to ""conviction buy"" - Thefly.com"
+walmart,2017-7,BUZZ-A10 Networks Inc: Plunges to 9-month low on weak forecast [nL1N1K50TG]
+walmart,2017-7,BUZZ-BioLife Solutions Inc: Osteoarthritis gene therapy gets Korean approval
+walmart,2017-7,BUZZ-Shiloh Industries Inc: Shares fall after offering at discount [nL4N1K53IX]
+walmart,2017-7,CTi Biopharma Corp: EU regulator accepts blood cancer drug for review
+walmart,2017-7,BUZZ-CyberArk Software Ltd: Set for more than 1-yr low [nL4N1K53JY]
+walmart,2017-7,BUZZ-Westport Fuel Systems Inc: Dips after pricing stock offering [nL4N1K53QX]
+walmart,2017-7,"{{20170714T134433.276+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Snap, big banks, Wal-Mart, CyberArk Software* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,The S&P 500 and the Dow were little changed at the open on Friday as investors
+walmart,2017-7,"parsed earnings reports from big banks, while tepid data dimmed chances of"
+walmart,2017-7,another rate hike this year. A rise in technology stocks boosted the Nasdaq.
+walmart,2017-7,"At 9:38 ET, the Dow Jones Industrial Average <.DJI> was up 0.02 percent at"
+walmart,2017-7,"UPDATE 2-JPMorgan 2nd-qtr profit beats estimates on loan growth, higher rates"
+walmart,2017-7,UPDATE 1-Citigroup profit beats on smaller drop in trading revenue [nL4N1K5435]
+walmart,2017-7,"BUZZ-Wal-Mart Stores Inc: GS raises to ""conviction buy"" - Thefly.com"
+walmart,2017-7,BUZZ-Shiloh Industries Inc: Shares fall after offering at discount [nL4N1K53IX]
+walmart,2017-7,CTi Biopharma Corp: EU regulator accepts blood cancer drug for review
+walmart,2017-7,BUZZ-CyberArk Software Ltd: Set for more than 1-yr low [nL4N1K53JY]
+walmart,2017-7,"{{20170714T131213.115+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Snap, big banks, Wal-Mart, CyberArk Software* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,"U.S. stocks looked set to open slightly higher on Friday as June consumer price index data indicated benign inflation that could test Fed's resolve to raise interest rates for a third time this year, while investors parsed earnings reports from big banks. [.N]"
+walmart,2017-7,"{{20170714T113620.949+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Snap, JPMorgan, Wal-Mart, CyberArk Security* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,U.S. stock index futures were little changed on Friday as investors awaited key data for a reading on the health of the economy while JPMorgan kicked off second-quarter earnings.[.N]
+walmart,2017-7,** CyberArk Software Ltd : down 17.8 pct at $41.93 premarket BUZZ-CyberArk Software Ltd: Set for more than 1-yr low [nL4N1K53JY]
+walmart,2017-7,MEDIA-India considers backing foreign investment in supermarkets - Bloomberg  - Reuters News
+walmart,2017-7,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+walmart,2017-7,"BUZZ-Wal-Mart Stores Inc: GS raises to ""conviction buy"" - Thefly.com - Reuters News"
+walmart,2017-7,"{{20170714T105047.962+0000}}BUZZ-Wal-Mart Stores Inc: GS raises to ""conviction buy"" - Thefly.com** Retailer's shares up 2 pct at $76.65 premarket"
+walmart,2017-7,"** Of 33 brokerages, 12 rate the stock ""buy"" or higher, 18 ""hold"" and 3 ""sell"" or lower"
+walmart,2017-7,"** WMT as well positioned as any mass market retailer to handle Amazon.com's increased focus on consumables as well as the ""uncertain"" retail environment - GS analyst Matthew Fassler"
+walmart,2017-7,** Shares of Wal-Mart and other U.S retailers were up on Thursday after Target Corp forecast its first rise in sales after 4 quarters
+walmart,2017-7,"** Up to Thursday's close, stock had risen 8.6 pct YTD, compared with a 9.3 pct increase in the S&P 500 index <.SPX> this year"
+walmart,2017-7,BUZZ-Target's upbeat forecast drives US retailers higher - Reuters News
+walmart,2017-7,{{20170713T193817.074+0000}}BUZZ-Target's upbeat forecast drives US retailers higher(Adds details)
+walmart,2017-7,"** Shares of U.S. retailers Wal-Mart , Dollar Tree , J C Penney and Macy's rise after Target's upbeat forecast"
+walmart,2017-7,"** TGT forecast its first rise in sales after four quarters, thanks to improved customer traffic and sales trends [nBw367KHla]"
+walmart,2017-7,"** TGT up 4.5 pct at $53.15, set to add nearly $1.3 bln in mkt value"
+walmart,2017-7,"** WMT up 1.6 pct, Macy's up 4.2 pct, Kohl's up 4.6 pct, while Dollar Tree and Dollar General both up about 1.5 pct"
+walmart,2017-7,"** Despite Thursday's gains, DG, KSS, M, TGT are within 10 pct of their 52-wk lows; in contrast AMZN and WMT are within 10 pct of their 52-wk highs"
+walmart,2017-7,"** TGT trades at about 12.1x forward earnings, below its historical 20-yr avg of 16.79 times, while WMT trades at 16.6x vs its avg of 20.21;"
+walmart,2017-7,"** AMZN trades at 111.3 times, more than double its historical 20-yr avg"
+walmart,2017-7,"** Intrinsic valuation of AMZN stood at $165.62, TGT at $63.91, WMT at $76.55, M at $50.18, KSS at $72.26, DLTR at $66.43, DG at $74.99"
+walmart,2017-7,"** Intrinsic values determine a company's financial performance, without referring to its market value"
+walmart,2017-7,"** Analysts were most bullish on AMZN; among pure-play retailers, analysts favor WMT, DLTR and DG, while more analysts were neutral about M and KSS"
+walmart,2017-7,"** At current levels, TGT shares down ~26 pct YTD, M down 38 pct, KSS down 21 pct, JCP down ~40 pct, while WMT up ~9 pct"
+walmart,2017-7,"{{20170713T181736.924+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Yandex, U.S. Retailers, Car Rentals, Navigator* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,U.S. stocks posted modest gains in early afternoon trading on Thursday as
+walmart,2017-7,"At 14:01 ET, the Dow Jones Industrial Average <.DJI> was up 0.12 percent at"
+walmart,2017-7,"ANALYSIS-First tech, now financing: U.S. shale firms get creative to pump more"
+walmart,2017-7,BUZZ-85 pct of world's refiners have no plan for shipping fuel change - KBC
+walmart,2017-7,UPDATE 1-J.C. Penney pushes into toy sales in move away from apparel
+walmart,2017-7,UPDATE 3-Uber and Yandex to combine ride-hailing in Russia and beyond
+walmart,2017-7,"BUZZ-Alcoa, aluminum stocks gain on China capacity cut talk [nL1N1K4198]"
+walmart,2017-7,BUZZ-T Rowe Price Group: Hits over 2-yr high as June AUM up 4.7 pct
+walmart,2017-7,BUZZ-Calgon Carbon Corp: Change in ballast water regulation to dampen demand
+walmart,2017-7,"BUZZ-Report suggests AstraZeneca CEO leaving for Teva, analysts skeptical"
+walmart,2017-7,UPDATE 1-AstraZeneca slumps on report CEO is heading to Teva [nL8N1K41MJ]
+walmart,2017-7,UPDATE 2-Tiffany appoints former Bulgari exec Alessandro Bogliolo as CEO
+walmart,2017-7,BUZZ-Delta Air Lines Inc: Q2 profit misses on higher costs [nL4N1K445S]
+walmart,2017-7,"BUZZ-NRG Energy: Hits 2-yr high, Barclays cheers transformation plan"
+walmart,2017-7,"BUZZ-Snap Inc: Stifel says ""relishing the opportunity""; upgrades stock"
+walmart,2017-7,BUZZ-Navigator Holdings Ltd: Soars on ethylene export terminal JV [nL4N1K44L7]
+walmart,2017-7,"{{20170713T170749.188+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Yandex, U.S. Retailers, Navigator, Alder BioPharma* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,U.S. stocks posted modest gains in early afternoon trading on Thursday as
+walmart,2017-7,"At 12:48 ET, the Dow Jones Industrial Average <.DJI> was up 0.12 percent at"
+walmart,2017-7,"ANALYSIS-First tech, now financing: U.S. shale firms get creative to pump more"
+walmart,2017-7,BUZZ-85 pct of world's refiners have no plan for shipping fuel change - KBC
+walmart,2017-7,UPDATE 3-Uber and Yandex to combine ride-hailing in Russia and beyond
+walmart,2017-7,"BUZZ-Report suggests AstraZeneca CEO leaving for Teva, analysts skeptical"
+walmart,2017-7,UPDATE 1-AstraZeneca slumps on report CEO is heading to Teva [nL8N1K41MJ]
+walmart,2017-7,UPDATE 2-Tiffany appoints former Bulgari exec Alessandro Bogliolo as CEO
+walmart,2017-7,BUZZ-Delta Air Lines Inc: Q2 profit misses on higher costs [nL4N1K445S]
+walmart,2017-7,"BUZZ-NRG Energy: Hits 2-yr high, Barclays cheers transformation plan"
+walmart,2017-7,"BUZZ-Snap Inc: Stifel says ""relishing the opportunity""; upgrades stock"
+walmart,2017-7,BUZZ-Navigator Holdings Ltd: Soars on ethylene export terminal JV [nL4N1K44L7]
+walmart,2017-7,"{{20170713T154707.706+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Yandex, U.S. Retailers, Teva, Tesaro* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,U.S. stocks were little changed in late morning trading on Thursday as a fall in
+walmart,2017-7,"At 11:07 ET, the Dow Jones Industrial Average <.DJI> was up 0.08 percent at"
+walmart,2017-7,"ANALYSIS-First tech, now financing: U.S. shale firms get creative to pump more"
+walmart,2017-7,UPDATE 3-Uber and Yandex to combine ride-hailing in Russia and beyond
+walmart,2017-7,"BUZZ-Report suggests AstraZeneca CEO leaving for Teva, analysts skeptical"
+walmart,2017-7,UPDATE 1-AstraZeneca slumps on report CEO is heading to Teva [nL8N1K41MJ]
+walmart,2017-7,UPDATE 2-Tiffany appoints former Bulgari exec Alessandro Bogliolo as CEO
+walmart,2017-7,BUZZ-Delta Air Lines Inc: Q2 profit misses on higher costs [nL4N1K445S]
+walmart,2017-7,"BUZZ-Snap Inc: Stifel says ""relishing the opportunity""; upgrades stock"
+walmart,2017-7,"UPDATE 2-TSMC guides Q3 revenue higher, but wary of currency blows [nL4N1K42KJ]"
+walmart,2017-7,BUZZ-U.S. retailers: Target's upbeat forecast drives sector higher - Reuters News
+walmart,2017-7,"{{20170713T145926.181+0000}}BUZZ-U.S. retailers: Target's upbeat forecast drives sector higher** U.S. retailers Wal-Mart Stores Inc , Dollar Tree , Macy's Inc shares rise in morning trading after Target Corp's upbeat forecast"
+walmart,2017-7,"** TGT forecast its first rise in sales after four quarters, thanks to improved customer traffic and sales trends [nBw367KHla]"
+walmart,2017-7,"** TGT rises as much as 4.1 pct to $52.97, adding nearly $1.2 bln in mkt value"
+walmart,2017-7,"** WMT up 1.3 pct, Macy's up 3.7 pct, Kohl's up 2.6 pct, while Dollar Tree and Dollar General both up about 2 pct"
+walmart,2017-7,"** Despite Thursday's gains, DG, KSS, M, TGT are within 10 pct of their 52-wk lows; in contrast AMZN and WMT are within 10 pct of their 52-wk highs"
+walmart,2017-7,"** TGT trades at about 12.1x forward earnings, below its historical 20-yr avg of 16.79 times, while WMT trades at 16.6x vs its avg of 20.21;"
+walmart,2017-7,"** AMZN trades at 111.3 times, more than double its historical 20-yr avg"
+walmart,2017-7,"** At current levels, TGT shares down ~27.2 pct YTD, M down 38 pct, KSS down 21 pct, JCP down 42 pct, while WMT up 8.5 pct"
+walmart,2017-7,"{{20170713T135412.630+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Yandex, Target, Teva, Delta Air Lines* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,"U.S. stocks were slightly higher in early trading on Thursday, ahead of Federal"
+walmart,2017-7,Reserve Chair Janet Yellen's second day of testimony to Congress and a day after
+walmart,2017-7,"At 9:33 ET, the Dow Jones Industrial Average <.DJI> was up 0.08 percent at"
+walmart,2017-7,"ANALYSIS-First tech, now financing: U.S. shale firms get creative to pump more"
+walmart,2017-7,"UPDATE 2-Target forecasts rise in 2nd-qtr comp sales, higher profit"
+walmart,2017-7,UPDATE 1-Yandex and Uber to merge in Russia and five other countries
+walmart,2017-7,"BUZZ-Report suggests AstraZeneca CEO leaving for Teva, analysts skeptical"
+walmart,2017-7,UPDATE 1-AstraZeneca slumps on report CEO is heading to Teva [nL8N1K41MJ]
+walmart,2017-7,BUZZ-Delta Air Lines Inc: Q2 profit misses on higher costs [nL4N1K445S]
+walmart,2017-7,"UPDATE 2-TSMC guides Q3 revenue higher, but wary of currency blows [nL4N1K42KJ]"
+walmart,2017-7,"{{20170713T125639.721+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Yandex, AstraZeneca, Target, Teva, Delta Air Lines* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-7,"U.S. stocks looked set to open higher on Thursday, a day after Federal Reserve Chair Janet Yellen's dovish stand on interest rates allayed investor fears of a tighter monetary policy.[.N] [.N/P]"
+walmart,2017-7,"BUZZ-Target Corp: Forecasts higher Q2 profit, same-store sales - Reuters News"
+walmart,2017-7,"{{20170713T113920.975+0000}}BUZZ-Target Corp: Forecasts higher Q2 profit, same-store sales** U.S. retailer's shares up 5.1 pct at $53.50 premarket - stock among biggest premarket gainers on NYSE"
+walmart,2017-7,"** Co forecasts higher Q2 profit and rise in comparable sales, citing improved traffic and sales trends through the first two months of Q2 [nBw367KHla]"
+walmart,2017-7,** Had previously estimated comp sales to decline in low single digits and profit in the range of $0.95 to $1.15 per share
+walmart,2017-7,"** Shares of other retailers also climb premarket- Wal-Mart Stores shares up 1 pct at $74.69 , Macy's shares up 1 pct at $21.45 , Kohl's shares up 0.9 pct at $37.5 , Kroger Co up 1.4 pct at $23.12"
+walmart,2017-7,"** Up to Wednesday's close, stock had fallen almost 30 pct YTD, compared to the 8.2 percent rise in the S&P 500 <.SPX> over the same period"
+walmart,2017-7,- Note: Reuters has not verified this story and does not vouch for its accuracy
+walmart,2017-7,UPDATE 2-Brazil's GPA grows market share as cash-and-carry booms - Reuters News
+walmart,2017-7,"{{20170712T153030.451+0000}}UPDATE 2-Brazil's GPA grows market share as cash-and-carry booms(Adds analyst comment, share performance)"
+walmart,2017-7,"SAO PAULO, July 12 (Reuters) - GPA SA, Brazil's No. 1 diversified retailer, said market share at the company's food and staples division increased in the second quarter as turnaround efforts helped drive up sales despite a harsh recession and slowing inflation."
+walmart,2017-7,"In a Wednesday securities filing, GPA said net revenue at the GPA Alimentar food and household goods division rose 9 percent to 10.663 billion reais ($3.3 billion) from a year earlier. It will release full quarterly results on July 25."
+walmart,2017-7,"Sales at stores open at least a year were slightly higher than expected even as household consumption suffered on the back of Brazil's worst-ever recession and record unemployment. Store and format renovation helped GPA, which said it took market share from rivals."
+walmart,2017-7,Carrefour SA and Wal-Mart Stores Inc are GPA's biggest competitors.
+walmart,2017-7,"Same-store sales rose 1.2 percent at the multiretail segment and 13.5 percent at the Assai cash-and-carry division. Assai gained about 4 percentage points of market share, while figures for the multiretail segment were not disclosed."
+walmart,2017-7,"The data provided a boost to Chief Executive Officer Ronaldo Iabrudi's turnaround strategy. Still, he had said in April that gains from a nascent economic recovery would come slowly and that 2017 would be ""a very tough year.""[nL1N1I018G]"
+walmart,2017-7,"In recent months, results from converting the Extra hypermarket format into Assai cash-and-carry stores have been better than expected, according to analysts. The company will accelerate those conversions to offset a margin decline stemming from slowing food inflation."
+walmart,2017-7,"Three hypermarkets were converted last quarter, with another 11 stores slated by year-end."
+walmart,2017-7,"""Operating turnaround momentum continues,"" said UBS Securities analyst Gustavo Piras Oliveira, who estimated customer visits at Assai rose 11 percent in the quarter."
+walmart,2017-7,"Preferred shares , GPA's most widely traded class of stock, gained for the fourth straight day on Wednesday, rising 0.3 percent to 66.60 reais. The stock is up 23 percent this year."
+walmart,2017-7,Source text for Eikon: [ID:nMKWrPDbSa] Further company coverage: [WMT.N]
+walmart,2017-7,"{{20170711T175521.592+0000}}BUZZ-Retail ETF: May be primed for further losses** SPDR S&P Retail ETF has been an underperformer, and still appears primed for test of key chart support [nL1N1IE0I0]"
+walmart,2017-7,"** Indeed, XRT down about 12 pct YTD, badly lagging S&P 500's <.SPX> 8 pct gain"
+walmart,2017-7,** And XRT also not tracking S&P 500 Retailing Index's <.SPXRT> 9 pct YTD rise
+walmart,2017-7,"** Retailing index performance skewed by strong gains in Amazon.com . AMZN up 32 pct YTD, and about 40 pct of index market cap [nL4N1K1494] [nL1N1K10J6] [nL8N1K11WX]"
+walmart,2017-7,"** XRT, however, consists of about 100 retailing names, including small caps, with no one constituent more than a 1.8 pct weighting end-May. Exposure to AMZN just 1.2 pct"
+walmart,2017-7,"** Meanwhile, AMZN's gains have led to broader retail/ brick & mortar pain [nL3N1JN3B7] [nL1N1JJ1ZZ] [nL8N1JK1HL] [nL1N1JH17Q] [nL1N1JD13L]"
+walmart,2017-7,"** This as XRT hits levels not seen since Feb 2016, nearing key support just 2-4 pct lower"
+walmart,2017-7,"** Weekly close below H&S neckline will suggest substantial downside risk; pattern proj can call for $24.00 area, or an additional 41 pct decline longer-term"
+walmart,2017-7,"** XRT needs to snap back, reclaim 100/200-WMA convergence (now $43.29/$44.19), to suggest pressure coming off downside"
+walmart,2017-7,"{{20170711T091235.862+0000}}German discounter Aldi to create 4,000 jobs in BritainLONDON, July 11 (Reuters) - German discount grocer Aldi [ALDIEI.UL] plans to create 4,000 jobs in Britain in its biggest ever recruitment drive, as it steps up its expansion plans in order to match rising sales, it said on Tuesday."
+walmart,2017-7,"Discounters Aldi and Lidl [LIDUK.UL] have grown rapidly in Britain in recent years, putting the squeeze on the major four supermarkets - market leader Tesco , Sainsbury's , Asda and Morrisons .[nL8N1JO16B]"
+walmart,2017-7,"Aldi currently has over 700 stores in Britain and said it remains on course to open 1,000 stores by 2022."
+walmart,2017-7,"The grocer said the jobs would be as store assistants and deputy store managers, and would help to meet an increase in sales after the group attracted nearly a million new customers in the last year."
+walmart,2017-7,"""The success of Aldi in the UK is due to the hard work and commitment of our employees, and they are crucial to our future expansion plans,"" said Matthew Barnes, Chief Executive Officer for Aldi UK and Ireland. [nL5N1FT5K0]"
+walmart,2017-7,"{{20170704T142851.514+0000}}UPDATE 5-Blast in Bangladesh garment factory kills 10, investigation underway* Multifabs factory was being restarted after Eid holidays"
+walmart,2017-7,"KONABARI, Bangladesh, July 4 (Reuters) - A boiler explosion at a Bangladeshi garment plant near the city of Dhaka killed 10 people and injured dozens, emergency workers said on Tuesday, the latest industrial tragedy to hit one of the world's biggest garment producers."
+walmart,2017-7,"The blast, late on Monday, occurred at a plant operated by local Bangladeshi firm Multifabs while maintenance work was going on, company and fire brigade officials said."
+walmart,2017-7,"The explosion at the boiler, located in a tin-roofed shed, partially damaged a nearby three-storey factory building."
+walmart,2017-7,"""I heard a big bang when I was having tea outside,"" factory driver Hafiz Mostafa said, as dozens thronged the factory site and firefighters moved rubble in search of missing persons. ""I saw windows, doors, glasses, machinery and a section of the wall of the building go flying."""
+walmart,2017-7,"Families scoured the scene for missing people. The plant had been shut for 10 days for Eid holidays at the end of the Muslim holy month of Ramadan and was being readied to resume operations on Tuesday, when the accident occurred."
+walmart,2017-7,"""We're looking for my brother. We checked all the hospitals, but have not found him,"" said Nazim Uddin, whose brother Ershad Ullah worked as an electrician at the plant for the last decade."
+walmart,2017-7,"The company started operating in 1992 and reached $70 million in exports in 2016. Its top buyers include fashion chain Lindex, which is part of Finland's Stockmann , German supermarket chain Aldi, and Rexholm of Denmark, Faruqui said."
+walmart,2017-7,"The company said the plant was functioning well and the six-year-old boiler, procured from Germany, had just been serviced."
+walmart,2017-7,"""The boiler was running well,"" Mahiuddin Faruqui, Multifab's chairman told Reuters. ""After servicing when workers were trying to restart it, it went off."""
+walmart,2017-7,Firefighter Faruk Hussain said a body had been retrieved from the rubble in the morning and that the search was still on for more victims.
+walmart,2017-7,"Bangladesh's roughly $28 billion garment sector, the biggest in the world after China, employs 4 million people and generates about 80 percent of the country's export earnings."
+walmart,2017-7,"It came under scrutiny after the collapse of the Rana Plaza factory complex in 2013 that killed more than 1,100 people, and a fire at a garment factory in 2012 that killed 112 workers. [nL1N1JV043]"
+walmart,2017-7,The Rana Plaza disaster sparked demands for greater safety and put the onus to act on foreign companies sourcing clothing from Bangladesh.
+walmart,2017-7,"A spokeswoman for Stockmann said it was investigating the disaster, but was still seeking more information."
+walmart,2017-7,"She said Stockmann is a member of the industry body Business Social Compliance Initiative (BSCI), and that said Multifabs had cleared a BSCI audit in May 2016 that was valid for two years."
+walmart,2017-7,Lindex said Multifabs was one of its main suppliers and said it was monitoring the situation.
+walmart,2017-7,"The Multifabs site hurt by the blast made 100,000 garments a day, generated around $6 million of revenue a month and employed about 6,000 workers, said Mesba Faruqui, factory and operations director in the family-run business."
+walmart,2017-7,Two international coalitions were formed after Rana Plaza to help fund improvements to building and fire safety at thousands of garment factories across Bangladesh.
+walmart,2017-7,"One of the coalitions, signatories to the Accord on Fire and Building Safety in Bangladesh, inspected the Multifabs site in 2015 and noted among numerous concerns that Multifabs' boiler was not separated by fire-rated construction."
+walmart,2017-7,"As of last week, however, the Accord's updated corrective plan on the facility listed that issue as having been corrected."
+walmart,2017-7,"But the coalition itself does not inspect boilers, which are monitored by the Bangladesh government."
+walmart,2017-7,Bangladesh's chief boiler inspector Mohammad Abdul Mannan said his department had inspected the Multifabs' boiler a year ago and that the next inspection had been due this month.
+walmart,2017-7,"Sulav Chowdhury, chief executive of the Bangladesh Knitwear Manufacturers and Exporters Association, of which Multifabs is a member, said the industry had gone through a ""huge shift"" since the Rana Plaza disaster."
+walmart,2017-7,"""There has been structural change, and we've worked hard for it,"" he said. ""So I'd say this is a stray incident."""
+walmart,2017-7,"""There is still an enormous amount to be done to improve safety in the Bangaldeshi garment industry"" said the IndustriALL Global Union, a signatory to the Bangladesh Accord and a member of the Steering Committee."
+walmart,2017-7,It added that union signatories to the Accord would demand that it be expanded swiftly to include boiler safety.
+walmart,2017-7,"{{20170704T101511.293+0000}}UPDATE 2-Sainsbury's sales growth picks up on revamped ranges, price focus* Beats forecasts as underlying sales rise 2.3 pct"
+walmart,2017-7,"LONDON, July 4 (Reuters) - Sainsbury's , Britain's second biggest supermarket group, saw sales growth accelerate in its latest quarter, as it benefited from revamped food ranges and held down prices of staple goods despite rising inflation."
+walmart,2017-7,"The group, which purchased Argos-owner Home Retail last year, cautioned trading conditions remained tough, however."
+walmart,2017-7,"Sainsbury's and major rivals - market leader Tesco , Asda and Morrisons - are grappling with the rapid growth of discounters Aldi and Lidl and having to cope with more expensive food imports due to a fall in the value of sterling since Britain voted to leave the European Union."
+walmart,2017-7,"""The market is competitive and we continue to manage cost price pressures closely,"" CEO Mike Coupe said on Tuesday."
+walmart,2017-7,"But he said Sainsbury's strategy of building a distinctive food offer ranging from own-brand ""basics"" to specialist ""free from"" and organic lines; growing its general merchandise and clothing businesses; and bearing down on costs, was working."
+walmart,2017-7,"""Our strategy is delivering and we are well placed to navigate the external environment."""
+walmart,2017-7,"""Sainsbury's has improved volume growth while improving their price position in the quarter,"" said Bernstein analyst Bruno Monteyne, who has an ""outperform"" rating on the stock."
+walmart,2017-7,"The group's retail like-for-like sales rose 2.3 percent, excluding fuel, in the 16 weeks to July 1, its fiscal first quarter - ahead of analysts' average forecast for a rise of 2 percent, and growth of 0.3 percent in the previous quarter.[nL5N1GT18G] [nL8N1I517L]"
+walmart,2017-7,This was the first quarter following the Home Retail purchase for which the group did not issue separate like-for-like sales data for Sainsbury's and Argos.
+walmart,2017-7,"""Our performance is really driven by own label (food)products and the fact that we've invested a lot over the last few years,"" Coupe told reporters, highlighting 430 new and improved products in the quarter, including over 250 new Summer eating lines."
+walmart,2017-7,"He said that while overall grocery inflation had trended upwards in the quarter, Sainsbury's prices versus competitors were better."
+walmart,2017-7,"""We've done a great job with our suppliers within our own (label) business to hold our costs down which means our price position has improved in the quarter,"" said Coupe."
+walmart,2017-7,"He noted that prices of staples, such as broccoli, milk, apples, chicken breasts and eggs were cheaper than they were three years ago."
+walmart,2017-7,"Sainsbury's said total grocery sales rose 3.0 percent, while transactions at supermarkets were up 1.9 percent. General merchandise sales increased 1.0 percent. Online grocery sales increased 8 percent, while sales at convenience stores were up 10 percent."
+walmart,2017-7,"Finance chief Kevin O'Byrne said he was comfortable with analysts' average profit forecast of 572 million pounds for 2017-18, down from 581 million in 2016-17. Such an outcome would represent a fourth straight year of profit decline."
+walmart,2017-7,"Sainsbury's has held takeover talks with franchised convenience chain Nisa, according to two industry sources, and is also reportedly considering a move for wholesaler Palmer & Harvey. [nL8N1IS2BC]"
+walmart,2017-7,"""A business like Sainsbury's is always looking at potential opportunities ... We talk to lots of people,"" he said."
+walmart,2017-7,Sainsbury's said it remained confident of delivering 160 million pounds of earnings synergies from the Argos purchase by 2019 and was on track to achieve 145 million pounds of other cost savings this year.
+walmart,2017-7,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+walmart,2017-7,{{20170630T162140.171+0000}}ANALYSIS-U.S. fund managers seek consumer stocks that Amazon can't conquerBy David Randall
+walmart,2017-7,"NEW YORK, June 30 (Reuters) - Amazon.com Inc's game-changing move to upend the grocery business with a surprise deal to buy Whole Foods Market Inc compounds a problem already vexing fund managers: how to play U.S. consumer spending when the Seattle-based e-commerce giant is threatening to take over retail."
+walmart,2017-7,Amazon's relentless growth and destruction of value among traditional retail rivals is forcing active fund managers to look for bets in areas they think Amazon can't or won't reach.
+walmart,2017-7,"Emerging options include theme restaurant chains, recreational vehicle makers and sellers of stuff that's just too heavy to ship via Amazon's network. Meanwhile, some fund managers are increasingly convinced the only way to play consumer spending is to move away from brands and retailers and into logistics and supply chain companies, essentially betting e-commerce will render most consumer companies obsolete."
+walmart,2017-7,The challenge of investing in consumer companies comes a time when the category would typically shine.
+walmart,2017-7,"Low unemployment and a solid housing market boost consumer stocks, yet companies in the category - excluding Amazon - are up just 5.2 percent for the year, or about 3 percentage points below the broad S&P 500 as a whole, according to Thomson Reuters data."
+walmart,2017-7,"Amazon now accounts for about 34 percent of all U.S. online sales and should see that number grow to about 50 percent by 2021, according to a Needham research note."
+walmart,2017-7,"Amazon's growing dominance is in some ways akin to the rise of Wal-Mart Stores Inc in the early 2000s, when its rapid growth and move to branch out into groceries raised concerns it would put other retailers out of business. Yet Amazon's greater online reach and purchase of a top-shelf grocery store chain makes it far more formidable, said Barbara Miller, a portfolio manager at Federated Kaufmann funds."
+walmart,2017-7,"""I've been in this industry for twenty-five years and this is the biggest transformation we've seen in the consumer space,"" she said."
+walmart,2017-7,"While Wal-Mart put many small mom-and-pop stores out of business, Amazon is dragging down national competitors like Target and Macy's with its combination of low prices, broad range of inventory, and speed, she said."
+walmart,2017-7,"At the same time, Amazon is expanding its e-commerce dominance when more shoppers are online, suggesting more pain ahead for competitors. E-commerce sales grew 14.7 percent in 2016, nearly triple the 5.1-percent growth rate of traditional retailers, according to U.S. Census Bureau data."
+walmart,2017-7,"Fund managers say Amazon's growing dominance is forcing them to shift long-held strategies, by either putting less money into consumer stocks overall or by focusing on companies that can compete alongside Amazon or may be attractive buyout targets."
+walmart,2017-7,"The company's outsized 15.4-percent weighting, more than double the next-largest stock in the S&P 500 Consumer Discretionary index, is problematic for fund managers who typically will not hold any positions greater than 5 percent of their portfolio in order to manage risk."
+walmart,2017-7,"Josh Cummings, a portfolio manager at Janus Henderson funds, is avoiding shares of direct competitors of Amazon, such as Target Corp , Kroger Co , and Wal-Mart, and instead focusing on companies with ""idiosyncratic"" attributes, he said."
+walmart,2017-7,"Starbucks Corp , for instance, offers an experience that Amazon would find hard to match, he said, while Servicemaster Global Holdings , parent company of pest control company Terminix, is largely immune from e-commerce competition."
+walmart,2017-7,"""Could Amazon decide they want to be in the business of spraying for bugs? It doesn't seem likely,"" he said."
+walmart,2017-7,"Miller, the portfolio manager at the Federated Kaufmann funds, said she is moving away from stores that could be found in a mall, focusing instead on companies like Dave & Busters Entertainment Inc and Wingstop Inc that offer food-based experiences. She also owns shares of Camping World Holdings Inc , which sells a mix of goods and services ranging from roadside assistance to accessories to the growing recreational vehicle market."
+walmart,2017-7,"""This is a company with a strong membership base that has the sort of scale in its niche to rival Amazon,"" she said."
+walmart,2017-7,"Jeff Rottinghaus, portfolio manager of the T. Rowe Price U.S. Large-Cap Core Equity fund, said he owns Home Depot Inc shares because its stores essentially function as warehouses and much of its merchandise is too heavy or bulky to profitably ship quickly online."
+walmart,2017-7,"Gary Bradshaw, a portfolio manager at Hodges Capital in Dallas, said he expects that portfolio holding Wal-Mart will become more aggressive in acquiring small, private companies to broaden its online reach."
+walmart,2017-7,"The company announced a deal to buy men's wear company Bonobos for $310 million in mid-June, following purchases of outdoor gear retailer Moosejaw and online shoe store ShoeBuy. Wal-Mart acquired online retailer Jet.com in a $3.3 billion deal last August."
+walmart,2017-7,"""They're going to do whatever it takes to compete with Amazon. They may be losing the battle at the moment but that doesn't mean that they will back down,"" he said."
+walmart,2017-7,Other investors are getting their consumer exposure by focusing on behind-the-scenes companies that power the growth of e-commerce.
+walmart,2017-7,"Laird Bieger, a portfolio manager of the Baron Discovery Fund - the top-performing small-cap growth fund year-to-date - said he is focusing on companies like CommerceHub Inc , which works with companies such as J C Penney Co and Best Buy Inc to allow them to sell more products online and ship directly from manufacturers."
+walmart,2017-7,"Craig Richard, a co-portfolio manager of the Buffalo Emerging Opportunities fund, said he has been buying Kornit Digital Ltd , which makes textile printers that can produce t-shirt and other apparel designs on demand, helping save inventory costs."
+walmart,2017-7,"Amazon is Kornit's largest customer and has warrants to buy up to 2.9 million Kornit shares, about 8 percent of the company, at $13.03 a share over the next five years. Shares of Kornit, up 57 percent this year, traded at $19.95 on Friday."

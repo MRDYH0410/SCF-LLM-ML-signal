@@ -1,0 +1,996 @@
+firm_id,date,text
+ServiceNow,2017-5,"23:02:33  [TRADAJ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) CFO Gina Mastantuono Sells 1,800 Shares of Stock -"
+ServiceNow,2017-5,22:56:59  [GLOSTO] (NOW.N) - Friday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,22:32:02  [GLOBEA] (NOW.N .SPX) - Significant Downtrend Monthly: Servicenow (NOW: $643.29) continues significant downtrend; slides 11% -
+ServiceNow,2017-5,22:32:01  [GLOBEA] (NOW.N .SPX) - Bottom Performers Past Week: Servicenow (NOW: $643.29) in bottom 1% performers of S&P 500 Index in past week -
+ServiceNow,2017-5,"21:52:25  [GLOBEA] (.GDAXI .SPX) - Servicenow (NOW: $643.29) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday May 31, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:52:18  [GLOBEA] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $643.29) Friday May 31, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:52:15  [GLOBEA] (.GDAXI NOW.N) - Servicenow (NOW: $643.50) in bottom 1% performers of S&P 500 Index, hits 199-day low Friday May 31, 2024 07:05 EDT -"
+ServiceNow,2017-5,21:48:06  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,21:47:42  [GLOSTO] (NOW.N) - ICYMI: Friday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,20:47:52  [GLOSTO] (NOW.N) - ICYMI: Friday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,19:47:31  [GLOSTO] (NOW.N) - Update: Friday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,"19:24:11  [TRADAJ] (NOW.N) - Insider Selling: ServiceNow, Inc. (NYSE:NOW) Director Sells $443,668.16 in Stock -"
+ServiceNow,2017-5,"19:01:41  [INDIAE] (NOW.N) - ServiceNow Ecosystem ventures make strategic growth investment in inMorphis, a leading ServiceNow pure-play partner in India -"
+ServiceNow,2017-5,"16:18:27  [GURCOM] (NOW.N) - ServiceNow Inc (NOW) CFO Gina Mastantuono Sells 1,800 Shares -"
+ServiceNow,2017-5,"16:09:11  [TICREP] (NOW.N) - Q1 2025 Earnings Forecast for ServiceNow, Inc. Issued By William Blair (NYSE:NOW) -"
+ServiceNow,2017-5,"16:09:02  [ZOLCOM] (NOW.N) - William Blair Weighs in on ServiceNow, Inc.'s Q1 2025 Earnings (NYSE:NOW) -"
+ServiceNow,2017-5,"10:43:24  [DAILYQ] (NOW.N) - Taurus Asset Management LLC Has $13.04 Million Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,08:43:44  [TRADAJ] (NOW.N) - ServiceNow (NYSE:NOW) Trading Down 1.3% on Insider Selling -
+ServiceNow,2017-5,"08:07:19  [GLOSTO] (NOW.N) - Servicenow (NOW: $643.50) continues significant downtrend, plummets 12%; -$87.62 [12.0%] Vol Index 3.7 [1 is avg] (UPDATE) -"
+ServiceNow,2017-5,07:17:09  [GLOSTO] (NOW.N) - Servicenow (NOW: $643.50) offers Price Earnings growth of 0.18; -$87.62 [12.0%] Vol Index 3.7 [1 is avg] -
+ServiceNow,2017-5,"06:42:20  [GLOSTO] (NOW.N) - Servicenow (NOW: $643.50) continues significant downtrend, plummets 12%; -$87.62 [12.0%] Vol Index 3.7 [1 is avg] (UPDATE) -"
+ServiceNow,2017-5,06:42:10  [GLOSTO] (NOW.N) - Servicenow (NOW: $643.50) offers Price Earnings growth of 0.18; -$87.62 [12.0%] Vol Index 3.7 [1 is avg] -
+ServiceNow,2017-5,"05:57:07  [GLOSTO] (NOW.N) - Servicenow (NOW: $643.41) in bottom 1% performers of S&P 500 Index, hits 199-day low; -$87.71 [-12.0%] Vol Index 3.1 [1 is avg] -"
+ServiceNow,2017-5,"05:52:24  [DAILYQ] (NOW.N) - Boston Family Office LLC Has $15.92 Million Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,05:47:19  [GLOSTO] (NOW.N) - Servicenow (NOW: $648.72) drops to seven-month low on strong volume; -$82.40 [-11.3%] Vol Index 3.1 [1 is avg] -
+ServiceNow,2017-5,05:30:16  [RTRS] (WBD.OQ NOW.N) - S&P 500 top and bottom performing stocks at about 03:30 p.m. EDT (BUZZ) -
+ServiceNow,2017-5,05:22:27  [GLOSTO] (NOW.N) - Servicenow (NOW: $645.53) plummets 12% on slipping relative strength; -$85.59 [-11.7%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,05:12:14  [GLOSTO] (NOW.N) - Servicenow (NOW: $648.72) drops to seven-month low on strong volume; -$82.40 [-11.3%] Vol Index 3.1 [1 is avg] -
+ServiceNow,2017-5,"05:09:54  [DAILYQ] (NOW.N) - Weiss Asset Management LP Boosts Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,04:52:18  [GLOSTO] (NOW.N) - Servicenow (NOW: $645.53) plummets 12% on slipping relative strength; -$85.59 [-11.7%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,04:47:14  [GLOSTO] (NOW.N) - Servicenow (NOW: $648.76) drops to seven-month low on strong volume; -$82.36 [-11.3%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,04:12:20  [GLOSTO] (NOW.N) - Servicenow (NOW: $648.76) drops to seven-month low on strong volume; -$82.36 [-11.3%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,03:57:38  [GLOSTO] (NOW.N) - Servicenow (NOW: $659.04) plummets 9.9% on slipping relative strength; -$72.08 [-9.9%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,"03:42:09  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $731.12) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 30, 2024 07:05 EDT -"
+ServiceNow,2017-5,03:22:21  [GLOSTO] (NOW.N) - Servicenow (NOW: $659.04) plummets 9.9% on slipping relative strength; -$72.08 [-9.9%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,03:07:35  [GLOSTO] (NOW.N) - Servicenow (NOW: $659.36) drops to seven-month low on strong volume; -$71.76 [-9.8%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,"02:42:22  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $731.12) Thursday May 30, 2024 07:05 EDT -"
+ServiceNow,2017-5,02:32:30  [GLOSTO] (NOW.N) - Servicenow (NOW: $659.36) drops to seven-month low on strong volume; -$71.76 [-9.8%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,02:12:17  [GLOSTO] (NOW.N) - Servicenow (NOW: $657.16) plummets 10% on slipping relative strength; -$73.96 [-10.1%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,"02:02:23  [NEWNYS] (NOW.N .SPX) - Servicenow in bottom 1% of S&P 500 Index; ranks 2 in today's steepest 20 falls Thursday, May 30, 2024 11:00:00 -"
+ServiceNow,2017-5,02:00:17  [RTRS] (WAT.N PODD.OQ) - S&P 500 top and bottom performing stocks at about 12:00 p.m. EDT (BUZZ) -
+ServiceNow,2017-5,01:52:45  [GLOWEE] (NOW.N) - What the Beneish M-score tells us about Servicenow -
+ServiceNow,2017-5,01:47:05  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $657.16) plummets 10% on strong volume; -$73.96 [-10.1%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,"01:42:28  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $731.12) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 30, 2024 07:05 EDT -"
+ServiceNow,2017-5,01:42:24  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $657.16) drops to seven-month low on strong volume; -$73.96 [-10.1%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,01:37:18  [GLOSTO] (NOW.N) - Servicenow (NOW: $657.16) plummets 10% on slipping relative strength; -$73.96 [-10.1%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,01:17:32  [GLOSTO] (NOW.N) - Servicenow (NOW: $667.83) drops to six-month low on strong volume; -$63.29 [-8.7%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,01:17:19  [GLOSTO] (NOW.N) - Servicenow (NOW: $667.83) offers Price Earnings growth of 0.18; -$63.29 [8.7%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,00:52:29  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $667.83) plunges 8.7% on strong volume; -$63.29 [-8.7%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,00:43:03  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $667.83) plunges 8.7% on slipping relative strength; -$63.29 [-8.7%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,00:42:28  [GLOSTO] (NOW.N) - Servicenow (NOW: $667.83) drops to six-month low on strong volume; -$63.29 [-8.7%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,00:42:19  [GLOSTO] (NOW.N) - Servicenow (NOW: $667.83) offers Price Earnings growth of 0.18; -$63.29 [8.7%] Vol Index 3.2 [1 is avg] -
+ServiceNow,2017-5,00:15:28  [PRN] (NOW.N) - International Airport to Integrate 3CLogic with Deployment of ServiceNow Customer Workflows to Optimize CX -
+ServiceNow,2017-5,00:15:28  [PRN] (NOW.N) - International Airport to Integrate 3CLogic with Deployment of ServiceNow Customer Workflows to Optimize CX -
+ServiceNow,2017-5,00:14:33  [RTRS] (WDAY.O ORCL.N) - Salesforce plummets as weak forecast sparks concerns of AI competition (UPDATE 2) -
+ServiceNow,2017-5,23:56:32  [STOCKP] (NOW.N) - Servicenow (NOW) is trading 0.31 percent higher on Thursday 30th of May and has a trading volume of USD 637.9 mn -
+ServiceNow,2017-5,"22:58:19  [PUBT] (NOW.N) - ServiceNow Inc. - ServiceNow makes strategic growth investment in inMorphis, a leading global ServiceNow pure-play partner -"
+ServiceNow,2017-5,22:49:15  [GLOSTO] (NOW.N) - Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,"21:48:11  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $731.12) Thursday May 30, 2024 07:05 EDT -"
+ServiceNow,2017-5,21:48:10  [GLOWEE] (NOW.N) - What the Beneish M-score tells us about Servicenow -
+ServiceNow,2017-5,21:47:51  [GLOSTO] (NOW.N) - ICYMI: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,21:25:26  [RTRS] (NOW.N CRM.N) - SERVICENOW SHARES FALL 3.9% PREMARKET AFTER DOWNBEAT REVENUE FORECAST FROM SALESFORCE -
+ServiceNow,2017-5,20:48:33  [GLOSTO] (NOW.N) - ICYMI: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,20:21:25  [RTRS] (WDAY.O ORCL.N) - Salesforce plummets as weak forecast sparks concern of AI competition -
+ServiceNow,2017-5,"20:17:20  [ZOLCOM] (NOW.N) - Trexquant Investment LP Takes Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,19:47:57  [GLOSTO] (NOW.N) - Update: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,"12:22:48  [SEECOM] (NOW.N) - ServiceNow, Inc. (NOW) Bernstein's 40th Annual Strategic Decisions Conference (Transcript) -"
+ServiceNow,2017-5,"10:00:00  [PLUPAT] (NOW.N) - Head Line: ServiceNow, Inc. (California) granted US Patent for ""Discovery And Service Mapping Of Serverless Resources"" -"
+ServiceNow,2017-5,"10:00:00  [PLUPAT] (NOW.N) - Head Line: ServiceNow, Inc. (California) granted US Patent for ""Universal Automatic Data Update Detection And Publication"" -"
+ServiceNow,2017-5,"10:00:00  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $731.12) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 30, 2024 07:05 EDT -"
+ServiceNow,2017-5,"10:00:00  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $731.12) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 30, 2024 07:05 EDT -"
+ServiceNow,2017-5,08:30:00  [FDFAIR] (NOW.N) - Event Brief of ServiceNow Inc at Sanford C Bernstein Strategic Decisions Conference - Final -
+ServiceNow,2017-5,"07:15:00  [FDFAIR] (NOW.N) - Event Brief of ServiceNow Inc at TD Cowen Technology, Media & Telecom Conference - Final -"
+ServiceNow,2017-5,06:43:42  [GLOSTO] (NOW.N) - Servicenow (NOW: $731.66) in top 4% performers of S&P 500 Index; +$2.80 [0.4%] (UPDATE) -
+ServiceNow,2017-5,"04:45:06  [GLOBEA] (NOW.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $728.86) Wednesday May 29, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:44:37  [GLOBEA] (NOW.N .SPX) - Servicenow (NOW: $728.97) keeps sliding, down 6.2% in 4 days Wednesday May 29, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:31:37  [PRN] (NOW.N) - PATHWAYS CONSULTING GROUP UNVEILS OSCAL NOW, A TIME-SAVING APPLICATION THAT AUTOMATES THE APPROACH TO SYSTEMS SECURITY PLANS MANAGEMENT -"
+ServiceNow,2017-5,04:30:00  [TRANS] (NOW.N EQH.N) - ServiceNow Inc at Sanford C Bernstein Strategic Decisions Conference -
+ServiceNow,2017-5,03:30:00  [FDFAIR] (NOW.N) - ServiceNow Inc at Sanford C Bernstein Strategic Decisions Conference - Final -
+ServiceNow,2017-5,03:22:31  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR680.80) lifts 1.6% strengthening above moving average price; +EUR11 [1.6%] -
+ServiceNow,2017-5,"03:15:00  [TRANS] (NOW.N) - ServiceNow Inc at TD Cowen Technology, Media & Telecom Conference -"
+ServiceNow,2017-5,"02:43:18  [GLOBEA] (NOW.N .SPX) - Servicenow (NOW: $728.97) keeps sliding, down 6.2% in 4 days Wednesday May 29, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:43:10  [GLOBEA] (NOW.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $728.86) Wednesday May 29, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:15:00  [FDFAIR] (NOW.N) - ServiceNow Inc at TD Cowen Technology, Media & Telecom Conference - Final -"
+ServiceNow,2017-5,01:41:57  [EINPRE] (NOW.N) - Securitybricks Announces Release of SOC 2 Accelerator on ServiceNow Platform -
+ServiceNow,2017-5,23:53:09  [GLOSTO] (NOW.N) - How Servicenow Has Fared Since Its Recent Analyst Ratings Changes -
+ServiceNow,2017-5,"22:48:55  [DAILYQ] (NOW.N) - Intech Investment Management LLC Increases Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,22:48:54  [GLOSTO] (NOW.N) - Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,"22:26:57  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $722.0) keeps sliding, down 7.1% in 5 days; -$6.86 [-0.9%] -"
+ServiceNow,2017-5,"21:52:26  [GLOBEA] (NOW.N .SPX) - Servicenow (NOW: $728.97) keeps sliding, down 6.2% in 4 days Wednesday May 29, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:52:13  [GLOBEA] (NOW.N .SPX) - Servicenow (NOW: $728.86) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Wednesday May 29, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:52:04  [GLOBEA] (NOW.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $728.86) Wednesday May 29, 2024 07:05 EDT -"
+ServiceNow,2017-5,21:47:34  [GLOSTO] (NOW.N) - ICYMI: Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,19:52:19  [GLOSTO] (NOW.N) - Update: Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,"18:59:34  [ZOLCOM] (NOW.N) - Frederic B. Luddy Sells 598 Shares of ServiceNow, Inc. (NYSE:NOW) Stock -"
+ServiceNow,2017-5,"18:53:06  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Director Frederic B. Luddy Sells 598 Shares of Stock -"
+ServiceNow,2017-5,"15:08:56  [MARDAJ] (NOW.N) - Legacy Advisors LLC Boosts Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"14:28:43  [TRADAJ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by Legacy Advisors LLC -"
+ServiceNow,2017-5,11:09:03  [CERGEM] (NOW.N) - Recent Investment Analysts' Ratings Changes for ServiceNow (NOW) -
+ServiceNow,2017-5,10:19:04  [WATNEW] (NOW.N) - Recent Investment Analysts' Ratings Changes for ServiceNow (NOW) -
+ServiceNow,2017-5,"10:13:16  [MARDAJ] (NOW.N) - Insider Selling: ServiceNow, Inc. (NYSE:NOW) Director Sells 598 Shares of Stock -"
+ServiceNow,2017-5,"09:14:55  [CERGEM] (NOW.N) - 14,086 Shares in ServiceNow, Inc. (NYSE:NOW) Purchased by Focus Financial Network Inc. ADV -"
+ServiceNow,2017-5,"08:09:23  [CERGEM] (NOW.N) - TD Asset Management Inc Lowers Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"07:38:48  [TRADAJ] (SF.N NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by Stifel Financial Corp -"
+ServiceNow,2017-5,"07:19:52  [MARDAJ] (SF.N NOW.N) - Stifel Financial Corp Acquires 16,057 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"06:03:28  [DAILYQ] (NOW.N) - Steward Partners Investment Advisory LLC Buys 3,925 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:22:15  [GLOSTO] (NOW.N) - Servicenow (NOW: $726.71) keeps sliding, down 6.5% in 4 days; -$11.80 [-1.6%] Vol Index 1.8 [1 is avg] -"
+ServiceNow,2017-5,"05:14:10  [CERGEM] (NOW.N) - Douglass Winthrop Advisors LLC Has $1.32 Million Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:07:12  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $726.71) keeps sliding, down 6.5% in 4 days; -$11.80 [-1.6%] Vol Index 1.8 [1 is avg] -"
+ServiceNow,2017-5,"05:03:02  [GLOSTO] (NOW.N) - Servicenow (NOW: $726.71) keeps sliding, down 6.5% in 4 days; -$11.80 [-1.6%] Vol Index 1.8 [1 is avg] -"
+ServiceNow,2017-5,"04:22:19  [WATNEW] (NOW.N) - Douglass Winthrop Advisors LLC Increases Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,03:57:25  [GLOSTO] (NOW.N) - Servicenow (NOW: $726.15) in 4th consecutive fall; -$12.36 [-1.7%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,03:53:48  [GLOSTO] (CCCS.O CCCS.N) - CCC Intelligent Solutions Holdings continues to outperform Servicenow -
+ServiceNow,2017-5,03:32:26  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $726.15) drops 1.7%; -$12.36 [-1.7%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,"03:22:42  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR669.80) keeps sliding, down 7.1% in 4 days; -EUR51.10 [7.1%] -"
+ServiceNow,2017-5,03:22:19  [GLOSTO] (NOW.N) - Servicenow (NOW: $726.15) in 4th consecutive fall; -$12.36 [-1.7%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,"03:07:27  [GLOSTO] (NOW.N) - Servicenow (NOW: $725.15) keeps sliding, down 6.7% in 4 days; -$13.36 [-1.8%] Vol Index 1.8 [1 is avg] -"
+ServiceNow,2017-5,03:07:20  [GLOSTO] (NOW.N) - Servicenow (NOW: $725.15) in 4th consecutive fall; -$13.36 [-1.8%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,02:42:39  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $725.15) in 4th consecutive fall; -$13.36 [-1.8%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,"02:32:37  [GLOSTO] (NOW.N) - Servicenow (NOW: $725.15) keeps sliding, down 6.7% in 4 days; -$13.36 [-1.8%] Vol Index 1.8 [1 is avg] -"
+ServiceNow,2017-5,02:32:25  [GLOSTO] (NOW.N) - Servicenow (NOW: $725.15) in 4th consecutive fall; -$13.36 [-1.8%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,"02:12:27  [GLOSTO] (NOW.N) - Servicenow (NOW: $729.15) keeps sliding, down 6.2% in 4 days; -$9.36 [-1.3%] Vol Index 1.6 [1 is avg] -"
+ServiceNow,2017-5,"01:37:13  [GLOSTO] (NOW.N) - Servicenow (NOW: $729.15) keeps sliding, down 6.2% in 4 days; -$9.36 [-1.3%] Vol Index 1.6 [1 is avg] -"
+ServiceNow,2017-5,01:17:26  [GLOSTO] (NOW.N) - Servicenow (NOW: $723.70) offers Price Earnings growth of 0.2; -$14.81 [2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,01:12:23  [GLOSTO] (NOW.N) - Servicenow (NOW: $723.70) in 4th consecutive fall; -$14.81 [-2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,00:52:39  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $723.70) falls 2.0%; -$14.81 [-2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,"00:43:19  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $723.70) keeps sliding, down 6.9% in 4 days; -$14.81 [-2.0%] Vol Index 1.8 [1 is avg] -"
+ServiceNow,2017-5,00:42:48  [ZACKSC] (NOW.N) - Brokers Suggest Investing in ServiceNow (NOW): Read This Before Placing a Bet -
+ServiceNow,2017-5,00:42:33  [GLOSTO] (NOW.N) - Servicenow (NOW: $723.70) in 4th consecutive fall; -$14.81 [-2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,00:42:23  [GLOSTO] (NOW.N) - Servicenow (NOW: $723.70) offers Price Earnings growth of 0.2; -$14.81 [2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,23:53:03  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,22:48:58  [GLOSTO] (NOW.N) - Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,22:03:04  [GLOSTO] (NOW.N) - ICYMI: Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,21:50:36  [GLOWEE] (.SPX NOW.N) - Weekly: Servicenow (NOW: $738.82) shares post worst week in five weeks; -$26.23 [3.4%] -
+ServiceNow,2017-5,"17:09:14  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Receives $808.73 Consensus Price Target from Analysts -"
+ServiceNow,2017-5,10:00:00  [GLOSTO] (NOW.N) - Weekly: Servicenow (NOW: $738.82) shares post worst week in five weeks; -$26.23 [3.4%] -
+ServiceNow,2017-5,07:09:09  [WALLST] (NOW.N .SPX) - 3 Reasons ServiceNow Will Be Next to Issue a Stock Split -
+ServiceNow,2017-5,07:08:35  [WALLST] (NOW.N .SPX) - 3 Reasons ServiceNow Will Be Next to Issue a Stock Split -
+ServiceNow,2017-5,"03:27:18  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR678.80) keeps sliding, down 5.8% in 3 days; -EUR42.10 [5.8%] -"
+ServiceNow,2017-5,"03:10:45  [MARDAJ] (NOW.N) - Evermay Wealth Management LLC Purchases 450 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:18:52  [TRADAJ] (NOW.N) - Evermay Wealth Management LLC Increases Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,00:37:11  [GURCOM] (NOW.N) - Unveiling ServiceNow (NOW)'s Value: Is It Really Priced Right? A Comprehensive Guide -
+ServiceNow,2017-5,23:53:51  [STOCKP] (NOW.N) - On Monday 27th of May Servicenow trades -2.59 percent lower -
+ServiceNow,2017-5,"23:48:04  [ZOLCOM] (NOW.N) - Johnson Financial Group Inc. Grows Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"23:47:47  [TICREP] (NOW.N) - Johnson Financial Group Inc. Has $194,000 Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,21:47:10  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,"10:38:25  [DAILYQ] (NOW.N) - MUFG Securities EMEA plc Lowers Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,10:00:00  [PIVSOU] (NOW.N) - DEPT OF DEFENSE invites tenders for Dsca Servicenow Development Requirement -
+ServiceNow,2017-5,10:00:00  [PIVSOU] (NOW.N) - Eviden Technology Services Limited secures contract for ServiceNow Core support for platform development -
+ServiceNow,2017-5,"07:09:22  [MARDAJ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Bought by Fortis Capital Advisors LLC -"
+ServiceNow,2017-5,"00:09:16  [AMEBAN] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Position Boosted by Cambridge Investment Research Advisors Inc. -"
+ServiceNow,2017-5,"23:08:15  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Position Boosted by Cambridge Investment Research Advisors Inc. -"
+ServiceNow,2017-5,"23:08:10  [ZOLCOM] (NOW.N) - Cambridge Investment Research Advisors Inc. Has $16.35 Million Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"21:48:17  [ZOLCOM] (NOW.N) - CreativeOne Wealth LLC Takes $249,000 Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"21:47:42  [TICREP] (NOW.N) - CreativeOne Wealth LLC Invests $249,000 in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"14:13:48  [MARDAJ] (NOW.N) - Linscomb & Williams Inc. Has $1.54 Million Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"13:38:57  [TRADAJ] (NOW.N) - Linscomb & Williams Inc. Has $1.54 Million Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"11:20:55  [MARDAJ] (NOW.N) - Advisory Services Network LLC Decreases Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"19:47:08  [NEWBIH] (NOW.N) - May 24, 2024: Isos Technology Moving from ServiceNow to Jira Service Management: Why and How? -"
+ServiceNow,2017-5,"17:18:07  [ZOLCOM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Given Average Rating of ""Moderate Buy"" by Analysts -"
+ServiceNow,2017-5,"15:14:03  [MARDAJ] (NOW.N) - Westfield Capital Management Co. LP Sells 7,397 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"14:11:40  [CERGEM] (NOW.N) - 1,099 Shares in ServiceNow, Inc. (NYSE:NOW) Acquired by Skopos Labs Inc. -"
+ServiceNow,2017-5,"14:10:14  [MARDAJ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Position Trimmed by Nomura Asset Management Co. Ltd. -"
+ServiceNow,2017-5,"12:23:41  [DAILYQ] (NOW.N) - 1,099 Shares in ServiceNow, Inc. (NYSE:NOW) Acquired by Skopos Labs Inc. -"
+ServiceNow,2017-5,"11:08:57  [MARDAJ] (NOW.N) - HCR Wealth Advisors Raises Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"09:13:51  [MARDAJ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Orion Portfolio Solutions LLC -"
+ServiceNow,2017-5,"08:10:30  [MARDAJ] (NOW.N) - SageView Advisory Group LLC Acquires 1,775 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,08:07:30  [GLOSTO] (NOW.N) - Servicenow (NOW: $738.82) in bottom 2% performers of S&P 500 Index; Chief Commercial Officer Smith Paul John sells; -$19.33 [2.5%] (UPDATE) -
+ServiceNow,2017-5,"06:53:25  [WATNEW] (NOW.N) - SageView Advisory Group LLC Acquires 1,775 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,06:48:10  [GLOWEE] (.SPX NOW.N) - Weekly: Servicenow (NOW: $738.82) shares post worst week in five weeks; -$26.23 [3.4%] -
+ServiceNow,2017-5,06:37:09  [GLOSTO] (NOW.N) - Servicenow (NOW: $738.82) in bottom 2% performers of S&P 500 Index; Chief Commercial Officer Smith Paul John sells; -$19.33 [2.5%] (UPDATE) -
+ServiceNow,2017-5,05:56:36  [GLOSTO] (NOW.N) - Servicenow (NOW: $739.26) accelerates decline; Chief Commercial Officer Smith Paul John sells; -$18.89 [-2.5%] -
+ServiceNow,2017-5,"05:47:16  [GLOSTO] (NOW.N) - Servicenow (NOW: $742.70) accelerates decline, down 3.6% in 2 days; -$15.45 [-2.0%] Vol Index 1.5 [1 is avg] -"
+ServiceNow,2017-5,"05:43:57  [WATNEW] (NOW.N) - Avantax Planning Partners Inc. Buys 240 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:27:07  [GLOSTO] (NOW.N) - Servicenow (NOW: $741.51) keeps sliding, down 4.6% in 3 days; -$16.64 [-2.2%] Vol Index 1.6 [1 is avg] -"
+ServiceNow,2017-5,"05:12:25  [GLOSTO] (NOW.N) - Servicenow (NOW: $742.70) accelerates decline, down 3.6% in 2 days; -$15.45 [-2.0%] Vol Index 1.5 [1 is avg] -"
+ServiceNow,2017-5,"04:59:30  [GLOBEA] (NOW.N .SPX) - Servicenow (NOW: $758.07) drops 1.7% on increasing volatility Friday May 24, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:59:24  [GLOBEA] (NOW.N) - Confirmatory Bearish Trend: Servicenow (NOW: $744.52) accelerates decline, down 3.4% in 2 days Friday May 24, 2024 11:31 EDT -"
+ServiceNow,2017-5,"04:58:47  [GLOBEA] (NOW.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $758.15) Friday May 24, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:57:49  [GLOSTO] (NOW.N) - Servicenow (NOW: $741.51) keeps sliding, down 4.6% in 3 days; -$16.64 [-2.2%] Vol Index 1.6 [1 is avg] -"
+ServiceNow,2017-5,"04:23:31  [DAILYQ] (USB.N NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by US Bancorp DE -"
+ServiceNow,2017-5,"03:07:42  [GLOSTO] (NOW.N) - Servicenow (NOW: $746.21) keeps sliding, down 4.0% in 3 days; -$11.94 [-1.6%] Vol Index 1.6 [1 is avg] -"
+ServiceNow,2017-5,02:54:15  [GLOSTO] (CCCS.O CCCS.N) - CCC Intelligent Solutions Holdings continues to underperform Servicenow -
+ServiceNow,2017-5,"02:42:50  [GLOBEA] (NOW.N) - Confirmatory Bearish Trend: Servicenow (NOW: $744.52) accelerates decline, down 3.4% in 2 days Friday May 24, 2024 11:31 EDT -"
+ServiceNow,2017-5,"02:42:38  [GLOBEA] (NOW.N .SPX) - Servicenow (NOW: $758.07) drops 1.7% on increasing volatility Friday May 24, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:42:36  [GLOBEA] (NOW.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $758.15) Friday May 24, 2024 07:05 EDT -"
+ServiceNow,2017-5,02:38:05  [ZACKSC] (NOW.N .SPX) - ServiceNow (NOW) Up 5.9% Since Last Earnings Report: Can It Continue? -
+ServiceNow,2017-5,"02:32:33  [GLOSTO] (NOW.N) - Servicenow (NOW: $746.21) keeps sliding, down 4.0% in 3 days; -$11.94 [-1.6%] Vol Index 1.6 [1 is avg] -"
+ServiceNow,2017-5,"01:48:29  [TICREP] (NOW.N) - WBI Investments LLC Sells 760 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"01:48:09  [GLOTRA] (NOW.N) - Servicenow (NOW: $745.51) accelerates decline, down 3.3% in 2 days; -$12.64 [-1.7%] Vol Index 1.6 [1 is avg] -"
+ServiceNow,2017-5,"01:37:48  [GLOTRA] (NOW.N) - Servicenow (NOW: $745.51) keeps sliding, down 4.1% in 3 days; -$12.64 [-1.7%] Vol Index 1.6 [1 is avg] -"
+ServiceNow,2017-5,"ServiceNow provides cloud-based solutions for enterprise IT operations, focusing on digital workflows and IT service management."
+ServiceNow,2017-5,01:17:24  [GLOSTO] (NOW.N) - Servicenow (NOW: $741.60) offers Price Earnings growth of 0.2; -$16.55 [2.2%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,"01:07:33  [NEWNYS] (NOW.N .SPX) - Servicenow in bottom 1% of S&P 500 Index; ranks 4 in today's steepest 20 falls Friday, May 24, 2024 10:00:00 -"
+ServiceNow,2017-5,"01:07:26  [GLOBEA] (NOW.N) - Confirmatory Bearish Trend: Servicenow (NOW: $744.52) accelerates decline, down 3.4% in 2 days Friday May 24, 2024 11:31 EDT -"
+ServiceNow,2017-5,"00:43:37  [GLOTRA] (NOW.N) - Servicenow (NOW: $741.60) accelerates decline, down 3.8% in 2 days; -$16.55 [-2.2%] Vol Index 1.8 [1 is avg] -"
+ServiceNow,2017-5,00:42:21  [GLOSTO] (NOW.N) - Servicenow (NOW: $741.60) offers Price Earnings growth of 0.2; -$16.55 [2.2%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,"00:27:01  [GLOSTO] (NOW.N) - Servicenow (NOW: $744.52) accelerates decline, down 3.4% in 2 days; -$13.63 [-1.8%] Vol Index 1.7 [1 is avg] -"
+ServiceNow,2017-5,"00:07:27  [GLOTRA] (NOW.N) - Servicenow (NOW: $744.52) accelerates decline, down 3.4% in 2 days; -$13.63 [-1.8%] Vol Index 1.7 [1 is avg] -"
+ServiceNow,2017-5,"23:57:09  [GLOSTO] (NOW.N) - Servicenow (NOW: $744.52) accelerates decline, down 3.4% in 2 days; -$13.63 [-1.8%] Vol Index 1.7 [1 is avg] -"
+ServiceNow,2017-5,23:08:16  [GURCOM] (NOW.N) - ServiceNow Could Be One of the More Durable AI Players -
+ServiceNow,2017-5,"22:48:35  [NEWNYS] (NOW.N) - Servicenow in 4th consecutive rise, nears two-month high Wednesday, May 22, 2024 11:00:00 -"
+ServiceNow,2017-5,"21:52:15  [GLOBEA] (.SPX NOW.N) - Servicenow (NOW: $758.15) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday May 24, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:48:06  [GLOBEA] (NOW.N .SPX) - Servicenow (NOW: $758.07) drops 1.7% on increasing volatility Friday May 24, 2024 07:05 EDT -"
+ServiceNow,2017-5,21:47:55  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,"21:47:38  [GLOBEA] (NOW.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $758.15) Friday May 24, 2024 07:05 EDT -"
+ServiceNow,2017-5,"19:48:09  [DAILYQ] (NOW.N) - Paul John Smith Sells 602 Shares of ServiceNow, Inc. (NYSE:NOW) Stock -"
+ServiceNow,2017-5,"15:15:19  [STOOBS] (NOW.N) - MFA Wealth Advisors LLC Raises Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"14:27:25  [WATNEW] (NOW.N) - MFA Wealth Advisors LLC Raises Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"14:11:22  [COMFIN] (NOW.N) - Summit Financial LLC Has $778,000 Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"13:48:09  [WATNEW] (NOW.N) - Summit Financial LLC Sells 124 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,12:30:33  [GOVAUS] (NOW.N) - Australia Patent: Application for 'Improved localization procedures and prioritization for applications' Lapses -
+ServiceNow,2017-5,"11:10:08  [STOOBS] (NOW.N) - Praesidium Investment Management Company LLC Sells 19,584 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"11:10:05  [COMFIN] (NOW.N) - Team Hewins LLC Makes New Investment in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:28:50  [WATNEW] (NOW.N) - Praesidium Investment Management Company LLC Sells 19,584 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:28:49  [WATNEW] (NOW.N) - Team Hewins LLC Takes $2.36 Million Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,10:00:00  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,10:00:00  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,10:00:00  [PIVSOU] (NOW.N) - Eviden Technology Services Limited secures contract for ServiceNow Core support for platform development -
+ServiceNow,2017-5,10:00:00  [PIVSOU] (NOW.N) - DEPT OF DEFENSE invites tenders for Dsca Servicenow Development Requirement -
+ServiceNow,2017-5,"09:09:45  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by TCW Group Inc. -"
+ServiceNow,2017-5,"08:43:13  [DAILYQ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) is TCW Group Inc.'s 3rd Largest Position -"
+ServiceNow,2017-5,"08:11:33  [CERGEM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by AXS Investments LLC -"
+ServiceNow,2017-5,"08:10:01  [CERGEM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Position Cut by FineMark National Bank & Trust -"
+ServiceNow,2017-5,08:07:20  [GLOSTO] (NOW.N) - Servicenow (NOW: $758.07) down 2.4% in 2 days; Chief Commercial Officer Smith Paul John sells; -$18.98 [2.4%] (UPDATE) -
+ServiceNow,2017-5,06:42:10  [GLOSTO] (NOW.N) - Servicenow (NOW: $758.07) down 2.4% in 2 days; Chief Commercial Officer Smith Paul John sells; -$18.98 [2.4%] (UPDATE) -
+ServiceNow,2017-5,06:16:43  [PUBT] (NOW.N) - ServiceNow Inc. - Submission of Matters to a Vote of Security Holders - Form 8-K -
+ServiceNow,2017-5,05:52:21  [GLOSTO] (NOW.N) - Servicenow (NOW: $759.32) drops 1.5% on increasing volatility; Chief Commercial Officer Smith Paul John sells; -$11.51 [-1.5%] -
+ServiceNow,2017-5,"04:58:30  [GLOSNI] (.GDAXI NOW.N) - THE NYSE PRE-MARKET STOCK SNIPPETS SERVICENOW (NOW: $770.83) Thursday May 23, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:44:14  [DAILYQ] (NOW.N) - Balboa Wealth Partners Acquires 214 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"03:08:59  [TICREP] (NOW.N) - Balboa Wealth Partners Has $497,000 Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:42:49  [GLOSNI] (.GDAXI NOW.N) - THE NYSE PRE-MARKET STOCK SNIPPETS SERVICENOW (NOW: $770.83) Thursday May 23, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:09:32  [CERGEM] (NOW.N) - EverSource Wealth Advisors LLC Raises Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,01:53:47  [GLOWEE] (NOW.N) - What the Beneish M-score tells us about Servicenow -
+ServiceNow,2017-5,"01:41:39  [NEWNYS] (USD= NOW.N) - Servicenow in top 4% of S&P 500 Index; ranks 15 in today's top 20 rises Thursday, May 23, 2024 10:00:00 -"
+ServiceNow,2017-5,23:53:34  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"23:10:42  [CERGEM] (NOW.N) - Gladstone Institutional Advisory LLC Reduces Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,22:52:05  [GLOSTO] (NOW.N) - Servicenow (NOW: $779.0) lifts 1.1% strengthening above moving average price; +$8.17 [1.1%] -
+ServiceNow,2017-5,22:48:38  [GLOSTO] (NOW.N) - Thursday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,"22:48:27  [NEWNYS] (NOW.N) - Servicenow rises for a third consecutive day, a three-day rise of 2.2% Tuesday, May 21, 2024 11:00:00 -"
+ServiceNow,2017-5,22:41:00  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $779.0) lifts 1.1% strengthening above moving average price; +$8.17 [1.1%] -
+ServiceNow,2017-5,22:38:29  [GLOSTO] (NOW.N) - Servicenow (NOW: $779.0) lifts 1.1% strengthening above moving average price; +$8.17 [1.1%] -
+ServiceNow,2017-5,"21:48:25  [GLOSNI] (.GDAXI NOW.N) - THE NYSE PRE-MARKET STOCK SNIPPETS SERVICENOW (NOW: $770.83) Thursday May 23, 2024 07:05 EDT -"
+ServiceNow,2017-5,21:47:56  [GLOWEE] (NOW.N) - What the Beneish M-score tells us about Servicenow -
+ServiceNow,2017-5,21:47:46  [GLOSTO] (NOW.N) - ICYMI: Thursday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,20:54:21  [GLOSTO] (NOW.N) - ICYMI: Thursday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,19:47:44  [GLOSTO] (NOW.N) - Update: Thursday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,"19:24:02  [ZOLCOM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Insider Sells $463,389.50 in Stock -"
+ServiceNow,2017-5,"19:23:40  [TRADAJ] (NOW.N) - Paul John Smith Sells 602 Shares of ServiceNow, Inc. (NYSE:NOW) Stock -"
+ServiceNow,2017-5,18:13:34  [LEGNEX] (NOW.N) - Holland & Knight Represents Advance Solutions Corp. in Sale of Intella to ServiceNow -
+ServiceNow,2017-5,18:00:15  [STOCKP] (NOW.N) - Servicenow (NOW) is trading -0.8 percent lower on Thursday 23rd of May and has a trading volume of USD 651.4 mn -
+ServiceNow,2017-5,"15:17:08  [NEWWIR] (NOW.N) - How Servicenow's latest insider trade compares to similar recent trades Tuesday May 21, 2024 -"
+ServiceNow,2017-5,10:00:00  [PLUCOM] (NOW.N) - Connection is named the Americas Reseller Partner of the Year for ServiceNow 2024 -
+ServiceNow,2017-5,"10:00:00  [PLUCOM] (NOW.N) - Revature Highlights How Organizations Can Build Their Future Workforces, Today, at Knowledge 2024. -"
+ServiceNow,2017-5,08:08:26  [GLOSTO] (NOW.N) - Servicenow (NOW: $770.23) falls 1.8% from 14-day high; Chief Commercial Officer Smith Paul John sells; -$6.82 [0.9%] (UPDATE) -
+ServiceNow,2017-5,07:34:08  [NETBUS] (NOW.N) - Patent Issued for Customizable certificate validation policy (USPTO 11973805) -
+ServiceNow,2017-5,06:42:20  [GLOSTO] (NOW.N) - Servicenow (NOW: $770.23) falls 1.8% from 14-day high; Chief Commercial Officer Smith Paul John sells; -$6.82 [0.9%] (UPDATE) -
+ServiceNow,2017-5,05:57:08  [GLOSTO] (NOW.N) - Servicenow (NOW: $773.0) decreases $4.05; Chief Commercial Officer Smith Paul John sells; -$4.05 [-0.5%] -
+ServiceNow,2017-5,"05:11:04  [CERGEM] (OAK_pa.N NOW.N) - InterOcean Capital Group LLC Raises Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,05:07:22  [GLOBUL] (NOW.N .SPX) - Top Performers Past Week: Servicenow (NOW: $777.05) in top 2% performers of S&P 500 Index in past week -
+ServiceNow,2017-5,"05:07:16  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $781.01) in 4th consecutive rise Wednesday May 22, 2024 12:28 EDT -"
+ServiceNow,2017-5,"05:06:10  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $777.05) Wednesday May 22, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:09:55  [TICREP] (OAK_pa.N NOW.N) - InterOcean Capital Group LLC Raises Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"03:50:27  [GLOBUL] (NOW.N) - Servicenow (NOW: $777.23) in 3rd consecutive rise Wednesday May 22, 2024 07:05 EDT -"
+ServiceNow,2017-5,"03:43:12  [GLOBUL] (NOW.N) - Servicenow (NOW: $777.05) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday May 22, 2024 07:05 EDT -"
+ServiceNow,2017-5,"03:37:09  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR720.90) rises in 4 out of last 5 days, 5-day rise of 4.4%; +EUR8 [1.1%] -"
+ServiceNow,2017-5,"03:12:41  [MARDAJ] (NOW.N) - Assetmark Inc. Has $24.90 Million Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,02:43:01  [GLOBUL] (NOW.N .SPX) - Top Performers Past Week: Servicenow (NOW: $777.05) in top 2% performers of S&P 500 Index in past week -
+ServiceNow,2017-5,"02:43:00  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $781.01) in 4th consecutive rise Wednesday May 22, 2024 12:28 EDT -"
+ServiceNow,2017-5,"02:42:39  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $777.05) Wednesday May 22, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:12:01  [MARDAJ] (NOW.N) - GW&K Investment Management LLC Has $18.04 Million Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:10:46  [MARDAJ] (NOW.N) - GW&K Investment Management LLC Has $18.04 Million Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:02:12  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $781.01) in 4th consecutive rise Wednesday May 22, 2024 12:28 EDT -"
+ServiceNow,2017-5,"02:02:00  [NEWNYS] (NOW.N) - Servicenow in 4th consecutive rise, nears two-month high Wednesday, May 22, 2024 11:00:00 -"
+ServiceNow,2017-5,"01:47:00  [GNW] (NOW.N) - Revature Highlights How Organizations Can Build Their Future Workforces, Today, at Knowledge 2024 -"
+ServiceNow,2017-5,"01:42:31  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $777.23) in 3rd consecutive rise Wednesday May 22, 2024 07:05 EDT -"
+ServiceNow,2017-5,"01:42:20  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $777.05) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday May 22, 2024 07:05 EDT -"
+ServiceNow,2017-5,"00:08:45  [ZACKSC] (NOW.N) - ServiceNow, Inc. (NOW) is Attracting Investor Attention: Here is What You Should Know -"
+ServiceNow,2017-5,00:00:00  [BSW] (NOW.N CNXN.O) - Connection Wins ServiceNow 2024 Americas Reseller Partner of the Year Award -
+ServiceNow,2017-5,23:54:03  [GLOSTO] (NOW.N) - How Servicenow Has Fared Since Its Recent Analyst Ratings Changes -
+ServiceNow,2017-5,23:53:44  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"23:42:04  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $777.23) in 3rd consecutive rise Wednesday May 22, 2024 07:05 EDT -"
+ServiceNow,2017-5,"23:41:57  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $777.05) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday May 22, 2024 07:05 EDT -"
+ServiceNow,2017-5,23:37:27  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $781.01) strengthens above moving average price; +$3.96 [0.5%] -
+ServiceNow,2017-5,"22:48:55  [NEWNYS] (NOW.N) - Servicenow rises for a second consecutive day, a two-day rise of 1.5% Monday, May 20, 2024 11:00:00 -"
+ServiceNow,2017-5,22:31:56  [GLOBUL] (NOW.N .SPX) - Top Performers Past Week: Servicenow (NOW: $777.05) in top 2% performers of S&P 500 Index in past week -
+ServiceNow,2017-5,"21:56:49  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $777.05) Wednesday May 22, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:23:14  [TRADAJ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Stock Position Raised by Great Lakes Advisors LLC -"
+ServiceNow,2017-5,"21:23:08  [ZOLCOM] (NOW.N) - Great Lakes Advisors LLC Has $674,000 Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"17:07:57  [NEWPEO] (NOW.N) - Servicenow chief commercial officer Smith Paul John sells shares worth $463,390 Tuesday May 21, 2024 -"
+ServiceNow,2017-5,"15:15:43  [COMFIN] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Bought by V Square Quantitative Management LLC -"
+ServiceNow,2017-5,15:13:53  [GURCOM] (NOW.N) - Insider Sale: ServiceNow Inc (NOW) Chief Commercial Officer Paul Smith Sells Shares -
+ServiceNow,2017-5,"14:43:28  [WATNEW] (NOW.N) - V Square Quantitative Management LLC Has $3.37 Million Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"14:09:16  [WATNEW] (NOW.N) - Newbridge Financial Services Group Inc. Cuts Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,10:00:00  [PLUCOM] (NOW.N) - GivePower and ServiceNow Partner Again to Address The Water Crises in Kenya's Mombasa and Makueni Counties -
+ServiceNow,2017-5,"10:00:00  [GLOSNI] (NOW.N) - Servicenow (NYSE:NOW) ninth largest contributor to unrealized profit of Software & IT Services in Institutional holdings Wednesday May 22, 2024 00:... -"
+ServiceNow,2017-5,10:00:00  [PIVSOU] (NOW.N) - CITY OF BOSTON invites tenders for Rfp - Servicenow Implementation -
+ServiceNow,2017-5,"09:51:57  [SEECOM] (NOW.N) - ServiceNow, Inc. (NOW) Management presents at J.P. Morgan Global Technology, Media and Communications Conference (Transcript) -"
+ServiceNow,2017-5,"09:14:16  [STOOBS] (NOW.N) - Paul John Smith Sells 602 Shares of ServiceNow, Inc. (NYSE:NOW) Stock -"
+ServiceNow,2017-5,"08:25:00  [FDFAIR] (NOW.N) - Event Brief of ServiceNow Inc at JPMorgan Global Technology, Media and Communications Conference - Final -"
+ServiceNow,2017-5,"08:13:01  [MARDAJ] (NOW.N) - Dai ichi Life Insurance Company Ltd Boosts Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,06:53:01  [THRBLO] (NOW.N) - ServiceNow: 2 Million Reasons To Help the Nonprofit Sector Solve World Challenges -
+ServiceNow,2017-5,"05:07:17  [GLOBUL] (NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $774.18) Tuesday May 21, 2024 07:05 EDT -"
+ServiceNow,2017-5,"05:07:17  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $774.30) in 3rd consecutive rise Tuesday May 21, 2024 12:28 EDT -"
+ServiceNow,2017-5,05:07:14  [GLOBUL] (NOW.N .SPX) - Top Performers Past Week: Servicenow (NOW: $774.18) in top 5% performers of S&P 500 Index in past week -
+ServiceNow,2017-5,"05:07:13  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $774.30) in 3rd consecutive rise Tuesday May 21, 2024 11:31 EDT -"
+ServiceNow,2017-5,"04:25:00  [TRANS] (NOW.N JGGI.L) - ServiceNow Inc at JPMorgan Global Technology, Media and Communications Conference -"
+ServiceNow,2017-5,"03:42:24  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $774.83) up 2.2% in 2 days Tuesday May 21, 2024 07:05 EDT -"
+ServiceNow,2017-5,"03:42:15  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $774.18) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday May 21, 2024 07:05 EDT -"
+ServiceNow,2017-5,"03:25:00  [FDFAIR] (NOW.N) - ServiceNow Inc at JPMorgan Global Technology, Media and Communications Conference - Final -"
+ServiceNow,2017-5,"02:43:08  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $774.30) in 3rd consecutive rise Tuesday May 21, 2024 11:31 EDT -"
+ServiceNow,2017-5,"02:42:57  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $774.30) in 3rd consecutive rise Tuesday May 21, 2024 12:28 EDT -"
+ServiceNow,2017-5,02:42:52  [GLOBUL] (NOW.N .SPX) - Top Performers Past Week: Servicenow (NOW: $774.18) in top 5% performers of S&P 500 Index in past week -
+ServiceNow,2017-5,"02:42:43  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $774.18) Tuesday May 21, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:11:17  [MARDAJ] (NOW.N) - D.A. Davidson & CO. Buys 1,128 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:09:30  [CERGEM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by Balentine LLC -"
+ServiceNow,2017-5,"02:02:42  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $774.30) in 3rd consecutive rise Tuesday May 21, 2024 12:28 EDT -"
+ServiceNow,2017-5,"01:56:42  [NEWNYS] (NOW.N) - Servicenow rises for a third consecutive day, a three-day rise of 2.2% Tuesday, May 21, 2024 11:00:00 -"
+ServiceNow,2017-5,"01:42:25  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $774.83) up 2.2% in 2 days Tuesday May 21, 2024 07:05 EDT -"
+ServiceNow,2017-5,"01:42:15  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $774.18) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday May 21, 2024 07:05 EDT -"
+ServiceNow,2017-5,"01:33:16  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by Balentine LLC -"
+ServiceNow,2017-5,"01:10:13  [GLOSNI] (NOW.N) - Servicenow (NOW: $774.30) strengthens above moving average price Tuesday May 21, 2024 11:04 EDT -"
+ServiceNow,2017-5,"01:09:54  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $774.30) in 3rd consecutive rise Tuesday May 21, 2024 11:31 EDT -"
+ServiceNow,2017-5,23:53:48  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"23:42:05  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $774.83) up 2.2% in 2 days Tuesday May 21, 2024 07:05 EDT -"
+ServiceNow,2017-5,"23:41:59  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $774.18) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday May 21, 2024 07:05 EDT -"
+ServiceNow,2017-5,23:32:23  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $774.30) strengthens above moving average price; +12c [0.02%] -
+ServiceNow,2017-5,"23:13:17  [DAILYQ] (NOW.N) - Mckinley Capital Management LLC Sells 146 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"23:08:52  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Mckinley Capital Management LLC -"
+ServiceNow,2017-5,"23:08:12  [CERGEM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Stock Position Decreased by Hillsdale Investment Management Inc. -"
+ServiceNow,2017-5,22:49:00  [GLOSTO] (NOW.N) - Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,22:41:06  [GLOBUL] (NOW.N .SPX) - Top Performers Past Week: Servicenow (NOW: $774.18) in top 5% performers of S&P 500 Index in past week -
+ServiceNow,2017-5,"22:00:00  [BSW] (NOW.N) - Tenon, Built on ServiceNow, Announces $8M Series A Funding to Propel Growth and Innovation for Marketers -"
+ServiceNow,2017-5,"21:52:12  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $774.18) Tuesday May 21, 2024 07:05 EDT -"
+ServiceNow,2017-5,21:47:34  [GLOSTO] (NOW.N) - ICYMI: Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,20:57:37  [GLOSTO] (NOW.N) - ICYMI: Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,19:53:15  [GLOSTO] (NOW.N) - Update: Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,"18:53:08  [NEWNYS] (NOW.N) - NYSE Today's Bullish Signals: Rises in the heavyweights Monday May 20, 2024 16:00 EDT [in desc order of increase in MCap] -"
+ServiceNow,2017-5,"17:07:05  [ITWSOU] (NOW.N) - ServiceNow delivers faster, more efficient operations and better employee experiences for manufacturing industry with AI-powered purpose-built solu... -"
+ServiceNow,2017-5,"15:12:39  [NEWWIR] (NOW.N) - How Servicenow's latest insider trade compares to similar recent trades Friday May 17, 2024 -"
+ServiceNow,2017-5,13:52:50  [STOCKP] (NOW.N) - Servicenow (NOW) is trading 0.93 percent higher on Tuesday 21st of May and has a trading volume of USD 669.4 mn -
+ServiceNow,2017-5,"10:00:00  [PLUPAT] (NOW.N) - Head Line: ServiceNow, Inc. (California) granted US Patent for ""Orchestration For Robotic Process Automation"" -"
+ServiceNow,2017-5,"10:00:00  [PLUCOM] (NOW.N) - BigID launches integration with ServiceNow's Security Posture Control to elevate security, risk management, privacy, and operational efficiency -"
+ServiceNow,2017-5,"10:00:00  [GLOSNI] (NOW.N) - Servicenow (NYSE:NOW) ninth largest contributor to unrealized profit of Software & IT Services in Institutional holdings Tuesday May 21, 2024 00:34... -"
+ServiceNow,2017-5,"10:00:00  [ITWSOU] (NOW.N) - ServiceNow delivers faster, more efficient operations and better employee experiences for manufacturing industry with AI-powered purpose-built solu... -"
+ServiceNow,2017-5,"09:13:12  [MARDAJ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Renaissance Group LLC -"
+ServiceNow,2017-5,08:07:11  [GLOSTO] (NOW.N) - Servicenow (NOW: $774.83) adds $2 billion (1.3%) in MCap; Independent Director Paul E. Chamberlain sells; +$9.78 [1.3%] (UPDATE) -
+ServiceNow,2017-5,"06:53:57  [DAILYQ] (NOW.N) - O Neil Global Advisors Inc. Trims Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,06:37:05  [GLOSTO] (NOW.N) - Servicenow (NOW: $774.83) adds $2 billion (1.3%) in MCap; Independent Director Paul E. Chamberlain sells; +$9.78 [1.3%] (UPDATE) -
+ServiceNow,2017-5,"06:14:04  [CERGEM] (NOW.N) - Clearbridge Investments LLC Raises Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,05:52:32  [GLOSTO] (NOW.N) - Servicenow (NOW: $773.60) up 2.1% in 2 days; Independent Director Paul E. Chamberlain sells; +$8.55 [1.1%] -
+ServiceNow,2017-5,"05:13:33  [DAILYQ] (NOW.N) - Wells Fargo & Company MN Has $573.89 Million Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:12:59  [TICREP] (NOW.N) - Wells Fargo & Company MN Grows Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:08:27  [CERGEM] (NOW.N) - Coldstream Capital Management Inc. Increases Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:05:35  [GLOBUL] (NOW.N .SPX) - Confirmatory Bullish Trend: Servicenow (NOW: $767.80) in 2nd consecutive rise Monday May 20, 2024 12:28 EDT -"
+ServiceNow,2017-5,05:05:12  [GLOBUL] (NOW.N .SPX) - Past Week: Servicenow (NOW: $765.35) climbs 4.9% on below average volume -
+ServiceNow,2017-5,"05:05:10  [GLOBUL] (NOW.N .SPX) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $765.05) Monday May 20, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:36:58  [BENZIN] (NVDA.O DELL.N) - Live On Bloomberg TV, Nvidia's Jensen Huang, ServiceNow's Bill McDermott, Dell's Michael S. Dell CEO's Discuss Partnerships; Dell CEO says ""This Is... -"
+ServiceNow,2017-5,"04:23:05  [TICREP] (NOW.N) - Coldstream Capital Management Inc. Increases Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"03:46:40  [GLOBUL] (NOW.N) - Servicenow (NOW: $765.35) strengthens above moving average price Monday May 20, 2024 07:05 EDT -"
+ServiceNow,2017-5,"03:45:45  [GLOBUL] (NOW.N .SPX) - SERVICENOW - THE NYSE PRE-MARKET CONFIRMATORY BULLISH MOMENTUM SIGNAL Monday May 20, 2024 07:05 EDT -"
+ServiceNow,2017-5,"03:37:21  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR710.50) lifts 1.5% strengthening above moving average price, hits 35-day high; +EUR10.50 [1.5%] -"
+ServiceNow,2017-5,03:07:10  [GULOIL] (NOW.N) - GivePower and ServiceNow Partner Again to Address The Water Crises in Kenya -
+ServiceNow,2017-5,02:53:43  [GLOSTO] (CCCS.O CCCS.N) - CCC Intelligent Solutions Holdings continues to underperform Servicenow -
+ServiceNow,2017-5,"02:50:41  [GLOBUL] (NOW.N .SPX) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $765.05) Monday May 20, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:50:40  [GLOBUL] (NOW.N .SPX) - Confirmatory Bullish Trend: Servicenow (NOW: $767.80) in 2nd consecutive rise Monday May 20, 2024 12:28 EDT -"
+ServiceNow,2017-5,02:50:35  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,02:50:28  [GLOBUL] (NOW.N .SPX) - Past Week: Servicenow (NOW: $765.35) climbs 4.9% on below average volume -
+ServiceNow,2017-5,"02:08:39  [CERGEM] (NOW.N) - 2,333,025 Shares in ServiceNow, Inc. (NYSE:NOW) Acquired by Norges Bank -"
+ServiceNow,2017-5,"02:05:29  [GLOBUL] (NOW.N .SPX) - Confirmatory Bullish Trend: Servicenow (NOW: $767.80) in 2nd consecutive rise Monday May 20, 2024 12:28 EDT -"
+ServiceNow,2017-5,"01:57:36  [NEWNYS] (NOW.N) - Servicenow rises for a second consecutive day, a two-day rise of 1.5% Monday, May 20, 2024 11:00:00 -"
+ServiceNow,2017-5,"01:42:15  [GLOBUL] (NOW.N .SPX) - SERVICENOW - THE NYSE PRE-MARKET CONFIRMATORY BULLISH MOMENTUM SIGNAL Monday May 20, 2024 07:05 EDT -"
+ServiceNow,2017-5,"01:42:15  [GLOBUL] (NOW.N .SPX) - Servicenow (NOW: $765.35) strengthens above moving average price Monday May 20, 2024 07:05 EDT -"
+ServiceNow,2017-5,"00:12:36  [MARDAJ] (NOW.N) - FUKOKU MUTUAL LIFE INSURANCE Co Decreases Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"23:58:27  [DAILYQ] (NOW.N) - FUKOKU MUTUAL LIFE INSURANCE Co Decreases Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,23:54:10  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"23:43:49  [ZACKSC] (NOW.N) - If You Invested $1000 in ServiceNow a Decade Ago, This is How Much It'd Be Worth Now -"
+ServiceNow,2017-5,"23:42:01  [GLOBUL] (NOW.N .SPX) - SERVICENOW - THE NYSE PRE-MARKET CONFIRMATORY BULLISH MOMENTUM SIGNAL Monday May 20, 2024 07:05 EDT -"
+ServiceNow,2017-5,"23:42:01  [GLOBUL] (NOW.N .SPX) - Servicenow (NOW: $765.35) strengthens above moving average price Monday May 20, 2024 07:05 EDT -"
+ServiceNow,2017-5,23:31:56  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $767.80) strengthens above moving average price; +$2.75 [0.4%] -
+ServiceNow,2017-5,"23:05:02  [PRN] (NOW.N) - BigID launches integration with ServiceNow's Security Posture Control to elevate security, risk management, privacy, and operational efficiency -"
+ServiceNow,2017-5,23:00:08  [PRN] (NOW.N) - GivePower and ServiceNow Partner Again to Address The Water Crises in Kenya's Mombasa and Makueni Counties -
+ServiceNow,2017-5,"22:58:52  [TRADAJ] (NOW.N) - AMG National Trust Bank Makes New Investment in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"22:58:40  [ZOLCOM] (NOW.N) - AMG National Trust Bank Takes Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,22:48:33  [GLOSTO] (NOW.N) - Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,22:32:09  [GLOBUL] (NOW.N .SPX) - Past Week: Servicenow (NOW: $765.35) climbs 4.9% on below average volume -
+ServiceNow,2017-5,"22:05:17  [GLOBUL] (NOW.N .SPX) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $765.05) Monday May 20, 2024 07:05 EDT -"
+ServiceNow,2017-5,22:03:38  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,22:03:12  [GLOSTO] (NOW.N) - ICYMI: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,21:48:46  [GLOWEE] (.SPX NOW.N) - Weekly: Servicenow (NOW: $765.35) climbs 4.9% on below average volume; +$35.56 [4.9%] -
+ServiceNow,2017-5,21:13:34  [GLOSTO] (NOW.N) - ICYMI: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,21:08:05  [GLOSTO] (NOW.N) - Weekly: Servicenow (NOW: $765.35) climbs 4.9% on below average volume; +$35.56 [4.9%] -
+ServiceNow,2017-5,20:43:19  [GLOSTO] (NOW.N) - Update: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,"17:06:47  [ITWSOU] (MSFT.O NOW.N) - ServiceNow, Microsoft expand strategic alliance, combining genAI capabilities to enhance choice, flexibility -"
+ServiceNow,2017-5,"16:32:52  [NEWPEO] (NOW.N) - Servicenow Chief People Officer Canney Jacqueline P's selling increases by 39% in 2024 Monday May 20, 2024 -"
+ServiceNow,2017-5,"10:00:00  [NEWNYS] (NOW.N) - NYSE Today's Bullish Signals: Rises in the heavyweights Monday May 20, 2024 16:00 EDT [in desc order of increase in MCap] -"
+ServiceNow,2017-5,"09:07:53  [STOOBS] (NOW.N) - Kentucky Retirement Systems Reduces Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"08:53:19  [WATNEW] (NOW.N) - Kentucky Retirement Systems Reduces Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"08:09:37  [MARDAJ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Brown Advisory Inc. -"
+ServiceNow,2017-5,"06:12:34  [MARDAJ] (NOW.N) - Robeco Institutional Asset Management B.V. Cuts Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"04:44:55  [DAILYQ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Securian Asset Management Inc. -"
+ServiceNow,2017-5,"04:43:57  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Securian Asset Management Inc. -"
+ServiceNow,2017-5,"20:28:02  [NEWPEO] (NOW.N) - Servicenow Chief Information Officer Bedi Christopher's selling decreases by 35% in 2024 Sunday May 19, 2024 -"
+ServiceNow,2017-5,"14:12:59  [COMFIN] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by Manchester Capital Management LLC -"
+ServiceNow,2017-5,"14:08:53  [WATNEW] (NOW.N) - Manchester Capital Management LLC Increases Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"12:07:23  [STOOBS] (NOW.N) - Independent Advisor Alliance Purchases 61 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"11:13:21  [COMFIN] (NOW.N) - Level Four Advisory Services LLC Has $2.90 Million Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:33:30  [WATNEW] (NOW.N) - Level Four Advisory Services LLC Has $2.90 Million Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:08:36  [COMFIN] (NOW.N) - Zevenbergen Capital Investments LLC Reduces Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"09:08:47  [STOOBS] (NOW.N) - Wafra Inc. Lowers Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"08:37:49  [WATNEW] (NOW.N) - Wafra Inc. Lowers Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:48:13  [WATNEW] (NOW.N) - New Century Financial Group LLC Takes $852,000 Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"00:58:08  [DAILYQ] (FSZ.TO NOW.N) - Fiera Capital Corp Purchases 24 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"00:57:58  [TICREP] (FSZ.TO NOW.N) - Fiera Capital Corp Buys 24 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"00:14:30  [CERGEM] (NOW.N) - Panagora Asset Management Inc. Lowers Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"23:32:51  [TICREP] (NOW.N) - Panagora Asset Management Inc. Lowers Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"23:09:51  [CERGEM] (NOW.N) - Beacon Pointe Advisors LLC Sells 90 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"22:14:08  [TICREP] (NOW.N) - Beacon Pointe Advisors LLC Sells 90 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,21:53:35  [GLOWEE] (.SPX NOW.N) - Weekly: Servicenow (NOW: $765.35) climbs 4.9% on below average volume; +$35.56 [4.9%] -
+ServiceNow,2017-5,"21:07:06  [NEWPEO] (NOW.N) - Servicenow director Paul E. Chamberlain sells shares worth $98,550 Friday May 17, 2024 -"
+ServiceNow,2017-5,"19:14:56  [AMEBAN] (NOW.N) - International Assets Investment Management LLC Decreases Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"19:09:24  [TRADAJ] (NOW.N) - International Assets Investment Management LLC Decreases Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"15:08:28  [STOOBS] (NOW.N) - Haverford Trust Co Decreases Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"12:09:31  [STOOBS] (STERV.HE NOW.N) - EFG Asset Management North America Corp. Purchases 3,359 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,10:00:00  [PLUCOM] (NOW.N) - Sonatype Announce Integration with ServiceNow to Streamline Software Composition Analysis -
+ServiceNow,2017-5,"09:11:22  [STOOBS] (NOW.N) - Laffer Tengler Investments Inc. Buys 530 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,08:07:51  [GLOSTO] (NOW.N) - Servicenow (NOW: $765.35) increases 1.0% against the trend; Chief Commercial Officer Smith Paul John sells; +$7.34 [1.0%] (UPDATE) -
+ServiceNow,2017-5,06:47:45  [GLOWEE] (.SPX NOW.N) - Weekly: Servicenow (NOW: $765.35) climbs 4.9% on below average volume; +$35.56 [4.9%] -
+ServiceNow,2017-5,06:37:14  [GLOSTO] (NOW.N) - Servicenow (NOW: $765.35) increases 1.0% against the trend; Chief Commercial Officer Smith Paul John sells; +$7.34 [1.0%] (UPDATE) -
+ServiceNow,2017-5,"06:27:22  [DAILYQ] (NOW.N) - Jag Capital Management LLC Decreases Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"06:23:17  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Stock Holdings Cut by Jag Capital Management LLC -"
+ServiceNow,2017-5,06:06:51  [BENZIN] (NOW.N) - Here's How Much You Would Have Made Owning ServiceNow Stock In The Last 10 Years -
+ServiceNow,2017-5,05:52:27  [GLOSTO] (NOW.N) - Servicenow (NOW: $764.34) strengthens above moving average price; Chief Commercial Officer Smith Paul John sells; +$6.33 [0.8%] -
+ServiceNow,2017-5,05:42:36  [DATMTR] (NOW.N CPI.L) - Capita Announces Expansion of Collaboration With ServiceNow -
+ServiceNow,2017-5,"05:17:40  [MARDAJ] (NOW.N) - Barings LLC Lowers Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:09:31  [CERGEM] (NOW.N) - Wade G W & Inc. Sells 42 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,04:59:47  [GLOBUL] (NOW.N .SPX) - Past Week: Servicenow (NOW: $758.01) climbs 4.9% on below average volume -
+ServiceNow,2017-5,02:43:17  [GLOBUL] (NOW.N .SPX) - Past Week: Servicenow (NOW: $758.01) climbs 4.9% on below average volume -
+ServiceNow,2017-5,02:40:54  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,"00:10:39  [TRADAJ] (NOW.N) - Insider Selling: ServiceNow, Inc. (NYSE:NOW) Insider Sells $90,922.50 in Stock -"
+ServiceNow,2017-5,"00:10:17  [ZOLCOM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Insider Sells $90,922.50 in Stock -"
+ServiceNow,2017-5,23:57:12  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $758.10) strengthens above moving average price; +9c [0.01%] -
+ServiceNow,2017-5,"23:37:45  [TICREP] (NOW.N) - Avantax Advisory Services Inc. Acquires 508 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,22:49:25  [GLOSTO] (NOW.N) - Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,"22:49:24  [NEWNYS] (NOW.N .SPX) - Servicenow in top 1% of S&P 500 Index; ranks 2 in today's top 20 rises Wednesday, May 15, 2024 11:00:00 -"
+ServiceNow,2017-5,22:32:09  [GLOBUL] (NOW.N .SPX) - Past Week: Servicenow (NOW: $758.01) climbs 4.9% on below average volume -
+ServiceNow,2017-5,21:47:33  [GLOSTO] (NOW.N) - ICYMI: Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,20:53:17  [GLOSTO] (NOW.N) - ICYMI: Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,19:52:14  [GLOSTO] (NOW.N) - Update: Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,18:03:08  [NEWWIR] (IBM.N NOW.N) - ServiceNow and IBM Collaborate to Accelerate the Impact of Generative AI Across the Enterprise -
+ServiceNow,2017-5,13:07:50  [COMFIN] (NOW.N) - ServiceNow (NYSE:NOW) Stock Price Down 0.6% After Insider Selling -
+ServiceNow,2017-5,12:33:07  [WATNEW] (NOW.N) - ServiceNow (NYSE:NOW) Stock Price Down 0.6% Following Insider Selling -
+ServiceNow,2017-5,"11:13:45  [COMFIN] (NOW.N) - Exchange Capital Management Inc. Reduces Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,08:07:21  [GLOSTO] (NOW.N) - Servicenow (NOW: $757.89) decreases $2.68; Chief Commercial Officer Smith Paul John sells; -$2.68 [0.4%] (UPDATE) -
+ServiceNow,2017-5,06:37:11  [GLOSTO] (NOW.N) - Servicenow (NOW: $757.89) decreases $2.68; Chief Commercial Officer Smith Paul John sells; -$2.68 [0.4%] (UPDATE) -
+ServiceNow,2017-5,"05:52:24  [GLOSTO] (NOW.N) - Servicenow (NOW: $762.57) rises in 4 out of last 5 days, 5-day rise of 5.5%; +$2 [0.3%] -"
+ServiceNow,2017-5,"04:59:12  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $760.57) Thursday May 16, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:57:50  [GLOSTO] (NOW.N) - Servicenow (NOW: $765.75) lifts $5.18, climbs 5.9% for week; +$5.18 [0.7%] Vol Index 1.3 [1 is avg] -"
+ServiceNow,2017-5,"04:23:41  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $765.75) lifts $5.18, climbs 5.9% for week; +$5.18 [0.7%] Vol Index 1.3 [1 is avg] -"
+ServiceNow,2017-5,"04:17:22  [GLOSTO] (NOW.N) - Servicenow (NOW: $765.75) lifts $5.18, climbs 5.9% for week; +$5.18 [0.7%] Vol Index 1.3 [1 is avg] -"
+ServiceNow,2017-5,03:57:13  [GLOSTO] (NOW.N) - Servicenow (NOW: $765.76) in 2nd consecutive rise; +$5.19 [0.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,"03:42:57  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $760.88) rises in 4 out of last 5 days, 5-day rise of 5.5% Thursday May 16, 2024 07:05 EDT -"
+ServiceNow,2017-5,"03:38:04  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR702.70) lifts 1.8% strengthening above moving average price, hits 31-day high; +EUR12.50 [1.8%] -"
+ServiceNow,2017-5,03:32:46  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $765.76) in 2nd consecutive rise; +$5.19 [0.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,03:22:25  [GLOSTO] (NOW.N) - Servicenow (NOW: $765.76) in 2nd consecutive rise; +$5.19 [0.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,03:07:41  [GLOSTO] (NOW.N) - Servicenow (NOW: $766.13) hits one-month high on firm volume; +$5.56 [0.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,03:02:04  [GLOSTO] (NOW.N) - Servicenow (NOW: $766.13) lifts $5.56 on firm volume; +$5.56 [0.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,02:43:05  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $766.13) lifts $5.56 on firm volume; +$5.56 [0.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,"02:42:43  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $760.57) Thursday May 16, 2024 07:05 EDT -"
+ServiceNow,2017-5,02:32:32  [GLOSTO] (NOW.N) - Servicenow (NOW: $766.13) hits one-month high on firm volume; +$5.56 [0.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,02:32:32  [GLOSTO] (NOW.N) - Servicenow (NOW: $766.13) lifts $5.56 on firm volume; +$5.56 [0.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,"02:13:30  [MARDAJ] (NOW.N) - M&G Investment Management Ltd. Acquires New Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:10:09  [CERGEM] (NOW.N) - Moran Wealth Management LLC Takes $513,000 Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,01:53:16  [GLOWEE] (NOW.N) - What the Beneish M-score tells us about Servicenow -
+ServiceNow,2017-5,01:51:57  [GNW] (NOW.N CSU.TO) - Sonatype Announces Integration with ServiceNow to Streamline Software Composition Analysis -
+ServiceNow,2017-5,01:47:14  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $766.74) strengthens above moving average price; +$6.17 [0.8%] -
+ServiceNow,2017-5,"01:42:28  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $760.57) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 16, 2024 07:05 EDT -"
+ServiceNow,2017-5,"01:42:26  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $760.88) rises in 4 out of last 5 days, 5-day rise of 5.5% Thursday May 16, 2024 07:05 EDT -"
+ServiceNow,2017-5,01:19:43  [GLOSTO] (NOW.N) - Servicenow (NOW: $763.66) offers Price Earnings growth of 0.21; +$3.09 [0.4%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,01:19:14  [GLOSTO] (NOW.N) - Servicenow (NOW: $763.66) hits one-month high on firm volume; +$3.09 [0.4%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,01:12:25  [GLOSTO] (NOW.N) - Servicenow (NOW: $763.66) strengthens above moving average price; +$3.09 [0.4%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,00:53:05  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $763.66) strengthens above moving average price; +$3.09 [0.4%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,"00:52:39  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $763.66) lifts $3.09, climbs 5.6% for week; +$3.09 [0.4%] Vol Index 1.2 [1 is avg] -"
+ServiceNow,2017-5,00:43:10  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $763.66) up 5.8% in 2 days; +$3.09 [0.4%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,00:42:31  [GLOSTO] (NOW.N) - Servicenow (NOW: $763.66) hits one-month high on firm volume; +$3.09 [0.4%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,00:42:30  [GLOSTO] (NOW.N) - Servicenow (NOW: $763.66) strengthens above moving average price; +$3.09 [0.4%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,00:42:22  [GLOSTO] (NOW.N) - Servicenow (NOW: $763.66) offers Price Earnings growth of 0.21; +$3.09 [0.4%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,"00:38:26  [DAILYQ] (NOW.N) - Moran Wealth Management LLC Takes $513,000 Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,00:32:08  [GLOSTO] (NOW.N) - Servicenow (NOW: $763.06) hits one-month high on robust volume; +$2.49 [0.3%] Vol Index 1.7 [1 is avg] -
+ServiceNow,2017-5,00:07:29  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $763.06) hits one-month high on robust volume; +$2.49 [0.3%] Vol Index 1.7 [1 is avg] -
+ServiceNow,2017-5,23:57:05  [GLOSTO] (NOW.N) - Servicenow (NOW: $763.06) hits one-month high on robust volume; +$2.49 [0.3%] Vol Index 1.7 [1 is avg] -
+ServiceNow,2017-5,23:52:49  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"23:42:15  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $760.57) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 16, 2024 07:05 EDT -"
+ServiceNow,2017-5,"23:42:13  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $760.88) rises in 4 out of last 5 days, 5-day rise of 5.5% Thursday May 16, 2024 07:05 EDT -"
+ServiceNow,2017-5,21:48:39  [GLOWEE] (NOW.N) - What the Beneish M-score tells us about Servicenow -
+ServiceNow,2017-5,"21:48:22  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $760.57) Thursday May 16, 2024 07:05 EDT -"
+ServiceNow,2017-5,19:08:16  [MARDAJ] (FSLY.N NOW.N) - Reviewing Fastly (NYSE:FSLY) & ServiceNow (NYSE:NOW) -
+ServiceNow,2017-5,"17:32:30  [NEWWIR] (NOW.N) - How Servicenow's latest insider trade compares to similar recent trades Tuesday May 14, 2024 -"
+ServiceNow,2017-5,"16:12:52  [NEWPEO] (NOW.N) - Servicenow Director Paul E. Chamberlain's selling decreases by 25% in 2024 Thursday May 16, 2024 -"
+ServiceNow,2017-5,"15:12:55  [NEWPEO] (NOW.N) - Servicenow chief commercial officer Smith Paul John sells shares worth $90,923 Tuesday May 14, 2024 -"
+ServiceNow,2017-5,"14:28:06  [WATNEW] (NOW.N) - Janney Capital Management LLC Makes New Investment in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"14:13:23  [STOOBS] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Holdings Lifted by Vanguard Personalized Indexing Management LLC -"
+ServiceNow,2017-5,"13:08:09  [COMFIN] (NOW.N) - Janney Montgomery Scott LLC Takes $31.62 Million Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"12:58:33  [WATNEW] (NOW.N) - Janney Montgomery Scott LLC Purchases New Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,10:28:07  [GURCOM] (NOW.N) - ServiceNow (NOW)'s True Value: Is It Overpriced? An In-Depth Exploration -
+ServiceNow,2017-5,"10:08:03  [STOOBS] (NOW.N) - Lmcg Investments LLC Purchases 1,999 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"08:13:24  [WATNEW] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by Vise Technologies Inc. -"
+ServiceNow,2017-5,"08:13:14  [STOOBS] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by Vise Technologies Inc. -"
+ServiceNow,2017-5,08:07:14  [GLOSTO] (NOW.N) - Servicenow (NOW: $760.88) in top 1% performers of S&P 500 Index; Chief Commercial Officer Smith Paul John sells; +$39.26 [5.4%] (UPDATE) -
+ServiceNow,2017-5,06:37:07  [GLOSTO] (NOW.N) - Servicenow (NOW: $760.88) in top 1% performers of S&P 500 Index; Chief Commercial Officer Smith Paul John sells; +$39.26 [5.4%] (UPDATE) -
+ServiceNow,2017-5,"06:13:44  [CERGEM] (NOW.N) - Mitsubishi UFJ Asset Management UK Ltd. Makes New Investment in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:52:24  [GLOSTO] (NOW.N) - Servicenow (NOW: $758.02) rises in 4 out of last 5 days, 5-day rise of 5.1%; +$36.41 [5.0%] -"
+ServiceNow,2017-5,"05:12:47  [MARDAJ] (NOW.N) - Nvwm LLC Sells 76 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:01:15  [GLOBEA] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $721.62) Wednesday May 15, 2024 07:05 EDT -"
+ServiceNow,2017-5,"05:00:48  [GLOBEA] (.GDAXI .SPX) - Servicenow (NOW: $721.31) loses $2 billion (1.2%) in MCap, steepest heavyweight fall in Software sector Wednesday May 15, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:22:54  [GLOUPF] (NOW.N) - Quarterly Report Analysis Q1 2024: Servicenow EPS gains 17% Corporate Wire Date: 15 May 2024 12:39 EDT Release Date: May 14, 2024 -"
+ServiceNow,2017-5,"03:57:03  [DAILYQ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Stake Lowered by Keystone Investors PTE Ltd. -"
+ServiceNow,2017-5,"03:53:20  [TICREP] (NOW.N) - Keystone Investors PTE Ltd. Sells 1,546 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"03:09:24  [DAILYQ] (NOW.N) - 582 Shares in ServiceNow, Inc. (NYSE:NOW) Purchased by Quotient Wealth Partners LLC -"
+ServiceNow,2017-5,"03:08:31  [TICREP] (NOW.N) - Quotient Wealth Partners LLC Buys Shares of 582 ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:43:24  [GLOBEA] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $721.62) Wednesday May 15, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:43:08  [GLOBEA] (.GDAXI .SPX) - Servicenow (NOW: $721.31) loses $2 billion (1.2%) in MCap, steepest heavyweight fall in Software sector Wednesday May 15, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:42:15  [NEWWIR] (NOW.N) - Quarterly Report Analysis Q1 2024: Servicenow EPS gains 17% Thursday May 16, 2024 12:39 EDT -"
+ServiceNow,2017-5,"01:57:30  [NEWNYS] (NOW.N .SPX) - Servicenow in top 1% of S&P 500 Index; ranks 2 in today's top 20 rises Wednesday, May 15, 2024 11:00:00 -"
+ServiceNow,2017-5,01:47:22  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $748.42) gains 3.7% on robust volume; +$26.80 [3.7%] Vol Index 1.4 [1 is avg] -
+ServiceNow,2017-5,01:38:02  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $748.42) gains 3.7% strengthening above moving average price; +$26.80 [3.7%] Vol Index 1.4 [1 is avg] -
+ServiceNow,2017-5,01:17:21  [GLOSTO] (NOW.N) - Servicenow (NOW: $736.29) offers Price Earnings growth of 0.2; +$14.67 [2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,01:10:00  [BSW] (NOW.N III.O) - GenAI Adds Speed to ServiceNow Business Transformations -
+ServiceNow,2017-5,00:53:02  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $736.29) climbs 2.0% on robust volume; +$14.67 [2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,00:42:57  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $736.29) hits a 21-day high on robust volume; +$14.67 [2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,00:42:22  [GLOSTO] (NOW.N) - Servicenow (NOW: $736.29) offers Price Earnings growth of 0.2; +$14.67 [2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,"00:34:50  [PUBT] (NOW.N) - Devoteam SA - Devoteam acquires ProCori, expanding ServiceNow expertise in the Nordics -"
+ServiceNow,2017-5,23:54:19  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,23:54:15  [GLOSTO] (NOW.N) - How Servicenow Has Fared Since Its Recent Analyst Ratings Changes -
+ServiceNow,2017-5,"23:19:15  [TICREP] (NOW.N) - Insider Selling: ServiceNow, Inc. (NYSE:NOW) Insider Sells 125 Shares of Stock -"
+ServiceNow,2017-5,"22:28:31  [DAILYQ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Insider Paul John Smith Sells 125 Shares of Stock -"
+ServiceNow,2017-5,"21:52:25  [GLOBEA] (.GDAXI .SPX) - Servicenow (NOW: $721.31) loses $2 billion (1.2%) in MCap, steepest heavyweight fall in Software sector Wednesday May 15, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:52:20  [GLOBEA] (.GDAXI NOW.N) - Servicenow (NOW: $721.62) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Wednesday May 15, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:52:12  [GLOBEA] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $721.62) Wednesday May 15, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:44:17  [ZOLCOM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by Cary Street Partners Investment Advisory LLC -"
+ServiceNow,2017-5,"21:43:46  [TRADAJ] (NOW.N) - Cary Street Partners Investment Advisory LLC Acquires 326 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,21:36:29  [PUBT] (NOW.N CPI.L) - Capita plc - Capita expands partner collaboration with ServiceNow as Managed Service Provider -
+ServiceNow,2017-5,"17:15:14  [STOOBS] (NOW.N) - CCLA Investment Management Decreases Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"15:15:51  [TICREP] (WBC.AX NOW.N) - Westpac Banking Corp Sells 2,986 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"15:15:05  [COMFIN] (NOW.N) - Paul John Smith Sells 125 Shares of ServiceNow, Inc. (NYSE:NOW) Stock -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief People Officer, Canney Jacqueline P buys 136 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: General Counsel, ELMER RUSSELL S sells 136 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Financial Officer, Mastantuono Gina buys 227 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: General Counsel, ELMER RUSSELL S buys 136 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: President & COO, Desai Chirantan Jitendra sells 171 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Strat & Corp Affairs Ofc, Tzitzon Nicholas buys 113 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: President & COO, Desai Chirantan Jitendra buys 341 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chairman & CEO, McDermott William R sells 600 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Financial Officer, Mastantuono Gina sells 123 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Digital Information Ofc, Bedi Christopher sells 74 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief People Officer, Canney Jacqueline P sells 70 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chairman & CEO, McDermott William R buys 600 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Commercial Officer, Smith Paul John buys 227 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Strat & Corp Affairs Ofc, Tzitzon Nicholas sells 113 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Commercial Officer, Smith Paul John sells 227 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Digital Information Ofc, Bedi Christopher buys 136 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,09:12:59  [GLOSTO] (NOW.N) - Servicenow (NOW: $721.31) in bottom 4% performers of S&P 500 Index; -$8.81 [1.2%] (UPDATE) -
+ServiceNow,2017-5,"08:59:26  [GLOBUL] (NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $730.12) Tuesday May 14, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:36:01  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $730.12) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday May 14, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:43:09  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $730.12) Tuesday May 14, 2024 07:05 EDT -"
+ServiceNow,2017-5,02:05:08  [BUSWOR] (NOW.N) - Amity University UP And ServiceNow Collaborate For Academic University Programme -
+ServiceNow,2017-5,"01:58:15  [DAILYQ] (NOW.N) - Pinnacle Wealth Planning Services Inc. Sells 60 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"01:45:22  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $730.12) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday May 14, 2024 07:05 EDT -"
+ServiceNow,2017-5,00:49:30  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"00:16:16  [GLOBUL] (NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $730.12) Tuesday May 14, 2024 07:05 EDT -"
+ServiceNow,2017-5,"23:43:17  [GLOBUL] (NOW.N) - Servicenow (NOW: $730.12) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday May 14, 2024 07:05 EDT -"
+ServiceNow,2017-5,23:21:18  [GLOSTO] (NOW.N) - ICYMI: Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,22:54:06  [GLOSTO] (NOW.N) - Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,21:18:03  [GLOSTO] (NOW.N) - ICYMI: Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,20:56:30  [GLOSTO] (NOW.N) - Update: Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,"17:02:58  [NEWPEO] (NOW.N) - Servicenow CEO McDermott William R's selling decreases by 34% in 2024 Tuesday May 14, 2024 -"
+ServiceNow,2017-5,15:47:58  [TRADAJ] (FSLY.N NOW.N) - Fastly (NYSE:FSLY) vs. ServiceNow (NYSE:NOW) Financial Analysis -
+ServiceNow,2017-5,15:47:51  [ZOLCOM] (FSLY.N NOW.N) - Comparing ServiceNow (NYSE:NOW) and Fastly (NYSE:FSLY) -
+ServiceNow,2017-5,10:00:00  [SMECHA] (NOW.N) - New Netskope App for ServiceNow Modernizes Threat and Data Protection Workflows for SecOps -
+ServiceNow,2017-5,10:00:00  [PLUCOM] (INFY.NS NOW.N) - Corporate information: INFOSYS LTD. - 500209 - Infosys And Servicenow Strengthen Strategic Collaboration To Transform Customer Experiences With Gen... -
+ServiceNow,2017-5,10:00:00  [GLOSTO] (NOW.N) - Servicenow (NOW: $721.31) in bottom 4% performers of S&P 500 Index; -$8.81 [1.2%] (UPDATE) -
+ServiceNow,2017-5,"09:13:03  [CERGEM] (PFG.O NOW.N) - Principal Financial Group Inc. Sells 10,146 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"08:30:09  [TICREP] (PFG.O NOW.N) - Principal Financial Group Inc. Sells 10,146 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"08:10:05  [CERGEM] (NOW.N) - USA Financial Formulas Buys 1,675 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:12:48  [CERGEM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by QRG Capital Management Inc. -"
+ServiceNow,2017-5,"05:00:36  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $729.79) Monday May 13, 2024 07:05 EDT -"
+ServiceNow,2017-5,"05:00:23  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $732.35) in 4th consecutive rise Monday May 13, 2024 11:31 EDT -"
+ServiceNow,2017-5,"04:59:51  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $732.35) in 4th consecutive rise Monday May 13, 2024 12:28 EDT -"
+ServiceNow,2017-5,"04:13:23  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by QRG Capital Management Inc. -"
+ServiceNow,2017-5,"03:42:49  [GLOBUL] (.GDAXI NOW.N) - Servicenow (NOW: $729.79) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday May 13, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:43:10  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $732.35) in 4th consecutive rise Monday May 13, 2024 11:31 EDT -"
+ServiceNow,2017-5,"02:42:55  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $732.35) in 4th consecutive rise Monday May 13, 2024 12:28 EDT -"
+ServiceNow,2017-5,"02:42:46  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $729.79) Monday May 13, 2024 07:05 EDT -"
+ServiceNow,2017-5,"01:58:00  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $732.35) in 4th consecutive rise Monday May 13, 2024 12:28 EDT -"
+ServiceNow,2017-5,01:57:56  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,"01:42:19  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $729.79) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday May 13, 2024 07:05 EDT -"
+ServiceNow,2017-5,01:32:19  [INDCOM] (NOW.N) - New Netskope App for ServiceNow modernizes threat and data protection workflows -
+ServiceNow,2017-5,"01:08:12  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $732.35) in 4th consecutive rise Monday May 13, 2024 11:31 EDT -"
+ServiceNow,2017-5,"23:55:35  [WINITP] (NOW.N) - ServiceNow Knowledge 2024 Brings New AI Power, Intelligence to ITOps -"
+ServiceNow,2017-5,23:53:42  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"23:42:13  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $729.79) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday May 13, 2024 07:05 EDT -"
+ServiceNow,2017-5,22:48:38  [GLOSTO] (NOW.N) - Monday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,"22:03:16  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $729.79) Monday May 13, 2024 07:05 EDT -"
+ServiceNow,2017-5,22:03:04  [GLOSTO] (NOW.N) - ICYMI: Monday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,22:03:03  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,"20:54:00  [NEWNYS] (NOW.N) - Servicenow rises for a second consecutive day, a two-day rise of 1.2% Thursday, May 09, 2024 10:00:00 -"
+ServiceNow,2017-5,20:53:57  [GLOSTO] (NOW.N) - Update: Monday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,"20:53:34  [NEWNYS] (NOW.N) - Servicenow rises for a third consecutive day, a three-day rise of 2.3% Friday, May 10, 2024 10:00:00 -"
+ServiceNow,2017-5,"20:53:30  [MARDAJ] (AGFb.TO NOW.N) - AGF Management Ltd. Acquires 43,351 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,20:53:19  [GLOSTO] (NOW.N) - Weekly: Servicenow (NOW: $729.78) shares post best week in five weeks; +$13.13 [1.8%] -
+ServiceNow,2017-5,"20:48:00  [STOOBS] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by Envestnet Portfolio Solutions Inc. -"
+ServiceNow,2017-5,"20:43:03  [STOOBS] (NOW.N) - Qsemble Capital Management LP Takes $669,000 Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,20:01:45  [ITVNEW] (NOW.N) - Fresh Netskope Application for ServiceNow Upgrades Threat and Data Protection Processes for SecOps and Incident Response Teams -
+ServiceNow,2017-5,19:39:22  [TRADAJ] (NOW.N) - ServiceNow (NYSE:NOW) Stock Rating Reaffirmed by Wolfe Research -
+ServiceNow,2017-5,"06:09:09  [WATNEW] (NOW.N) - Qsemble Capital Management LP Takes $669,000 Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"04:08:40  [DAILYQ] (NOW.N) - Great Diamond Partners LLC Purchases Shares of 622 ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:18:24  [TICREP] (NOW.N) - 622 Shares in ServiceNow, Inc. (NYSE:NOW) Bought by Great Diamond Partners LLC -"
+ServiceNow,2017-5,"00:27:03  [NEWBIZ] (NOW.N) - May 10, 2024: IPFonline Ltd. SERVICENOW DELIVERS OPERATIONS WITH AI SOLUTIONS FOR THE MANUFACTURING SECTOR -"
+ServiceNow,2017-5,21:08:55  [ZOLCOM] (NOW.N) - ServiceNow (NYSE:NOW) Rating Reiterated by Wolfe Research -
+ServiceNow,2017-5,"20:28:21  [ZOLCOM] (NOW.N) - Paul John Smith Sells 190 Shares of ServiceNow, Inc. (NYSE:NOW) Stock -"
+ServiceNow,2017-5,"16:27:39  [NEWPEO] (NOW.N) - Servicenow Chief Accounting Officer McBride Kevin Thomas increases shareholding in Servicenow Sunday May 12, 2024 -"
+ServiceNow,2017-5,"11:06:15  [STOOBS] (NOW.N) - Donoghue Forlines LLC Trims Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"01:23:11  [DAILYQ] (NOW.N) - Principal Street Partners LLC Purchases 379 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"01:22:45  [TICREP] (NOW.N) - Principal Street Partners LLC Buys 379 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"00:48:33  [DAILYQ] (NOW.N) - Principal Securities Inc. Makes New $3.33 Million Investment in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"00:48:10  [TICREP] (NOW.N) - Principal Securities Inc. Makes New $3.33 Million Investment in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,22:09:09  [ZOLCOM] (NOW.N) - Robert W. Baird Increases ServiceNow (NYSE:NOW) Price Target to $885.00 -
+ServiceNow,2017-5,22:08:53  [TICREP] (NOW.N) - ServiceNow (NYSE:NOW) Rating Reiterated by Needham & Company LLC -
+ServiceNow,2017-5,22:07:11  [TRADAJ] (NOW.N) - ServiceNow (NYSE:NOW) Price Target Increased to $885.00 by Analysts at Robert W. Baird -
+ServiceNow,2017-5,"20:46:12  [TRADAJ] (NOW.N) - Paul John Smith Sells 190 Shares of ServiceNow, Inc. (NYSE:NOW) Stock -"
+ServiceNow,2017-5,20:08:08  [MARDAJ] (NOW.N) - JMP Securities Reaffirms Market Outperform Rating for ServiceNow (NYSE:NOW) -
+ServiceNow,2017-5,"19:23:54  [TICREP] (NOW.N) - ServiceNow's (NOW) ""Outperform"" Rating Reiterated at William Blair -"
+ServiceNow,2017-5,"18:11:01  [STOOBS] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Bought by Smithfield Trust Co -"
+ServiceNow,2017-5,"17:10:58  [COMFIN] (NOW.N) - ServiceNow's (NOW) ""Market Outperform"" Rating Reiterated at JMP Securities -"
+ServiceNow,2017-5,"17:06:10  [STOOBS] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Van Hulzen Asset Management LLC -"
+ServiceNow,2017-5,"15:27:20  [NEWWIR] (NOW.N) - How Servicenow's latest insider trade compares to similar recent trades Thursday May 09, 2024 -"
+ServiceNow,2017-5,14:11:16  [COMFIN] (NOW.N) - ServiceNow (NYSE:NOW) Given Buy Rating at Needham & Company LLC -
+ServiceNow,2017-5,14:09:28  [WATNEW] (NOW.N) - ServiceNow's (NOW) Buy Rating Reiterated at Needham & Company LLC -
+ServiceNow,2017-5,"14:07:25  [STOOBS] (NOW.N) - William Blair Reaffirms ""Outperform"" Rating for ServiceNow (NYSE:NOW) -"
+ServiceNow,2017-5,14:06:43  [STOOBS] (NOW.N) - ServiceNow (NYSE:NOW) Price Target Raised to $885.00 at Robert W. Baird -
+ServiceNow,2017-5,"11:06:29  [CERGEM] (NOW.N) - Summa Corp. Invests $381,000 in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:32:46  [TICREP] (NOW.N) - Summa Corp. Invests $381,000 in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,10:00:00  [PLUCOM] (NOW.N) - Clear Skye IGA 5.1 Streamlines Business Processes & Identity Security on the ServiceNow Platform -
+ServiceNow,2017-5,"10:00:00  [PLUCOM] (NOW.N) - ServiceNow Unveils New AI-powered Capabilities to Help Improve Employee Experiences, Supercharge Talent Development, and Optimize in-person Work -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chairman & CEO, McDermott William R sells 519 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Digital Information Ofc, Bedi Christopher buys 974 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chairman & CEO, McDermott William R buys 519 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [USOFFI] (NOW.N) - Insider Trading: Chief Digital Information Ofc, Bedi Christopher sells 974 shares of ServiceNow, Inc. [ NOW ] -"
+ServiceNow,2017-5,"10:00:00  [EURUNI] (NOW.N) - Freshfields Advises ServiceNow, Inc on its Acquisition of Intella App -"
+ServiceNow,2017-5,"09:38:11  [TICREP] (NOW.N) - ServiceNow's (NOW) ""Outperform"" Rating Reaffirmed at Wolfe Research -"
+ServiceNow,2017-5,"08:08:35  [CERGEM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by Heritage Investors Management Corp -"
+ServiceNow,2017-5,08:07:24  [GLOSTO] (NOW.N) - Servicenow (NOW: $729.78) up 0.9% after an upgrade this week; +$6.84 [0.9%] (UPDATE) -
+ServiceNow,2017-5,05:52:16  [GLOSTO] (NOW.N) - Servicenow (NOW: $730.02) in 3rd consecutive rise; Chief Commercial Officer Smith Paul John sells; +$7.08 [1.0%] -
+ServiceNow,2017-5,"04:54:26  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $727.39) in 3rd consecutive rise Friday May 10, 2024 11:31 EDT -"
+ServiceNow,2017-5,"04:53:08  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $722.94) Friday May 10, 2024 07:05 EDT -"
+ServiceNow,2017-5,"03:47:53  [GLOBUL] (.GDAXI NOW.N) - Servicenow (NOW: $722.94) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday May 10, 2024 07:05 EDT -"
+ServiceNow,2017-5,03:47:27  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR676.40) strengthens above moving average price; +EUR1.80 [0.3%] -
+ServiceNow,2017-5,"03:13:48  [DAILYQ] (NOW.N) - Nichols & Pratt Advisers LLP MA Invests $233,000 in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"03:13:10  [TICREP] (NOW.N) - Nichols & Pratt Advisers LLP MA Invests $233,000 in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:44:06  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $727.39) in 3rd consecutive rise Friday May 10, 2024 11:31 EDT -"
+ServiceNow,2017-5,"02:43:16  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $722.94) Friday May 10, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:09:40  [MARDAJ] (NOW.N) - Wealthspire Advisors LLC Increases Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:09:20  [CERGEM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Insider Paul John Smith Sells 190 Shares of Stock -"
+ServiceNow,2017-5,"02:09:16  [CERGEM] (NOW.N) - Darwin Wealth Management LLC Acquires 3,704 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,01:53:04  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,"01:42:54  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $722.94) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday May 10, 2024 07:05 EDT -"
+ServiceNow,2017-5,"01:12:54  [GLOBUL] (NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $727.39) in 3rd consecutive rise Friday May 10, 2024 11:31 EDT -"
+ServiceNow,2017-5,"01:07:42  [NEWNYS] (NOW.N) - Servicenow rises for a third consecutive day, a three-day rise of 2.3% Friday, May 10, 2024 10:00:00 -"
+ServiceNow,2017-5,"00:13:27  [MARDAJ] (NOW.N) - Empirical Financial Services LLC d.b.a. Empirical Wealth Management Acquires Shares of 287 ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"00:03:26  [ZACKSC] (NOW.N) - ServiceNow, Inc. (NOW) is Attracting Investor Attention: Here is What You Should Know -"
+ServiceNow,2017-5,"23:42:12  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $722.94) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday May 10, 2024 07:05 EDT -"
+ServiceNow,2017-5,22:48:42  [GLOSTO] (NOW.N) - Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,21:52:38  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,"21:52:14  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $722.94) Friday May 10, 2024 07:05 EDT -"
+ServiceNow,2017-5,20:54:09  [GLOSTO] (NOW.N) - ICYMI: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,19:47:30  [GLOSTO] (NOW.N) - Update: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,19:06:23  [STOCKP] (NOW.N) - Servicenow trades 0.26 percent higher on Friday 10th of May -
+ServiceNow,2017-5,"17:42:22  [NEWPEO] (NOW.N) - Servicenow chief commercial officer Smith Paul John sells shares worth $136,568 Thursday May 09, 2024 -"
+ServiceNow,2017-5,15:47:56  [TRADAJ] (NOW.N) - ServiceNow (NYSE:NOW) Stock Price Up 0.9% Following Analyst Upgrade -
+ServiceNow,2017-5,15:45:54  [GURCOM] (NOW.N) - Insider Selling at ServiceNow Inc (NOW): Chief Commercial Officer Paul Smith Sells Shares -
+ServiceNow,2017-5,"11:07:56  [STOOBS] (NOW.N) - Altshuler Shaham Ltd Has $69,000 Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:00:00  [PLUPAT] (NOW.N) - ServiceNow, Inc.'s US Patent application for ""DYNAMIC TRANSLATION FOR A CONVERSATION"" is in published phase now -"
+ServiceNow,2017-5,"10:00:00  [PLUPAT] (NOW.N) - Head Line: ServiceNow, Inc. (California) granted US Patent for ""Activity Tracing Through Event Correlation Across Multiple Software Applications"" -"
+ServiceNow,2017-5,10:00:00  [PLUCOM] (RAND.AS NOW.N) - Randstad Digital partners with ServiceNow to enrich talent experiences for customers -
+ServiceNow,2017-5,"09:43:45  [WATNEW] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Stock Holdings Increased by Catalyst Financial Partners LLC -"
+ServiceNow,2017-5,"08:08:10  [CERGEM] (NOW.N) - E Fund Management Co. Ltd. Has $2.40 Million Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"04:54:27  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $721.03) Thursday May 09, 2024 07:05 EDT -"
+ServiceNow,2017-5,"04:54:16  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $722.20) in 2nd consecutive rise Thursday May 09, 2024 11:31 EDT -"
+ServiceNow,2017-5,"03:47:30  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $721.03) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 09, 2024 07:05 EDT -"
+ServiceNow,2017-5,03:32:22  [EXPCOM] (NOW.N) - ServiceNow powers enterprise-wide productivity and innovation with new generative AI capabilities -
+ServiceNow,2017-5,03:32:22  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR674.60) strengthens above moving average price; +EUR5 [0.7%] -
+ServiceNow,2017-5,"03:32:14  [EXPCOM] (MSFT.O NOW.N) - ServiceNow and Microsoft expand strategic alliance, combining generative AI capabilities to enhance choice and flexibility -"
+ServiceNow,2017-5,"03:32:08  [INDIAE] (NOW.N MSFT.O) - ServiceNow and Microsoft expand strategic alliance, combining generative AI capabilities to enhance choice and flexibility -"
+ServiceNow,2017-5,"03:13:34  [CERGEM] (NOW.N) - National Pension Service Raises Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:43:35  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $722.20) in 2nd consecutive rise Thursday May 09, 2024 11:31 EDT -"
+ServiceNow,2017-5,"02:43:12  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $721.03) Thursday May 09, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:30:00  [BSW] (NOW.N) - ServiceNow unveils new AI-powered capabilities to help improve employee experiences, supercharge talent development, and optimize in-person work -"
+ServiceNow,2017-5,01:52:52  [GLOWEE] (NOW.N) - What the Beneish M-score tells us about Servicenow -
+ServiceNow,2017-5,"01:42:33  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $721.03) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 09, 2024 07:05 EDT -"
+ServiceNow,2017-5,"01:07:52  [GLOBUL] (.GDAXI NOW.N) - Confirmatory Bullish Trend: Servicenow (NOW: $722.20) in 2nd consecutive rise Thursday May 09, 2024 11:31 EDT -"
+ServiceNow,2017-5,"01:07:45  [NEWNYS] (NOW.N) - Servicenow rises for a second consecutive day, a two-day rise of 1.2% Thursday, May 09, 2024 10:00:00 -"
+ServiceNow,2017-5,00:32:23  [GLOSTO] (NOW.N) - Servicenow (NOW: $721.43) increases on extraordinary volume; +40c [0.1%] Vol Index 3.7 [1 is avg] -
+ServiceNow,2017-5,"00:26:49  [TAGINF] (MSFT.O NOW.N) - ServiceNow and Microsoft Expand Strategic Alliance, Combining Generative AI Capabilities to Enhance Choice and Flexibility -"
+ServiceNow,2017-5,00:13:24  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $721.43) increases on extraordinary volume; +40c [0.1%] Vol Index 3.7 [1 is avg] -
+ServiceNow,2017-5,23:57:18  [GLOSTO] (NOW.N) - Servicenow (NOW: $721.43) increases on extraordinary volume; +40c [0.1%] Vol Index 3.7 [1 is avg] -
+ServiceNow,2017-5,23:52:54  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"23:42:04  [GLOBUL] (.GDAXI .SPX) - Servicenow (NOW: $721.03) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 09, 2024 07:05 EDT -"
+ServiceNow,2017-5,21:48:08  [GLOWEE] (NOW.N) - What the Beneish M-score tells us about Servicenow -
+ServiceNow,2017-5,"21:48:00  [GLOBUL] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS SERVICENOW (NOW: $721.03) Thursday May 09, 2024 07:05 EDT -"
+ServiceNow,2017-5,20:18:41  [AMEBAN] (NOW.N) - ServiceNow (NYSE:NOW) Rating Reiterated by Needham & Company LLC -
+ServiceNow,2017-5,20:13:35  [AMEBAN] (NOW.N) - Robert W. Baird Increases ServiceNow (NYSE:NOW) Price Target to $885.00 -
+ServiceNow,2017-5,"18:57:59  [TRADAJ] (NOW.N) - William Blair Reiterates ""Outperform"" Rating for ServiceNow (NYSE:NOW) -"
+ServiceNow,2017-5,"18:57:07  [NEWNYS] (NOW.N) - NYSE Today's Bullish Signals: Rises in the heavyweights Wednesday May 08, 2024 16:00 EDT [in desc order of increase in MCap] -"
+ServiceNow,2017-5,17:13:28  [AMEBAN] (NOW.N) - ServiceNow (NYSE:NOW) Trading Up 0.9% After Analyst Upgrade -
+ServiceNow,2017-5,"11:09:34  [STOOBS] (NOW.N) - Sawgrass Asset Management LLC Reduces Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:45:06  [WATNEW] (NOW.N) - Sawgrass Asset Management LLC Reduces Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,10:00:00  [PLUCOM] (NOW.N) - Tanium Delivers Powerful Solutions Powered by ServiceNow that Reduce Cost & Risk for Customers -
+ServiceNow,2017-5,"10:00:00  [PLUCOM] (MSFT.O NOW.N) - ServiceNow And Microsoft Expand Strategic Alliance, Combining Generative AI Capabilities to Enhance Choice and Flexibility -"
+ServiceNow,2017-5,10:00:00  [PLUCOM] (IBM.N NOW.N) - ServiceNow and IBM Collaborated to Accelerate the Impact of Generative AI Across the Enterprise -
+ServiceNow,2017-5,10:00:00  [PLUCOM] (NVDA.O NOW.N) - NVIDIA AI Enterprise product is used by ServiceNow to demonstrate generative AI service agents -
+ServiceNow,2017-5,10:00:00  [PLUCOM] (INFY.NS NOW.N) - Infosys and ServiceNow Strengthen Strategic Collaboration to Transform Customer Experiences with Generative AI-powered Industry Solutions -
+ServiceNow,2017-5,09:01:31  [EXPCOM] (INFY.NS NOW.N) - Infosys and ServiceNow strengthen strategic collaboration to transform customer experiences with generative AI-powered industry solutions -
+ServiceNow,2017-5,"08:07:28  [GLOSTO] (NOW.N) - Servicenow (NOW: $721.27) adds $2 billion (1.1%) in MCap, top heavyweight rise in Software sector; +$7.94 [1.1%] (UPDATE) -"
+ServiceNow,2017-5,07:40:12  [CNBC] (NVDA.O NOW.N) - Watch CNBC's full interview with ServiceNow CEO Bill McDermott (NEWSCASTS) -
+ServiceNow,2017-5,07:35:12  [CNBC] (NVDA.O NOW.N) - Watch CNBC's full interview with Nvidia's Jensen Huang and ServiceNow's Bill McDermott (NEWSCASTS) -
+ServiceNow,2017-5,"07:02:31  [DAILYQ] (NOW.N) - Blue Barn Wealth LLC Has $622,000 Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"06:58:29  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Blue Barn Wealth LLC -"
+ServiceNow,2017-5,"06:37:12  [GLOSTO] (NOW.N) - Servicenow (NOW: $721.27) adds $2 billion (1.1%) in MCap, top heavyweight rise in Software sector; +$7.94 [1.1%] (UPDATE) -"
+ServiceNow,2017-5,"06:07:44  [USOFFI] (NOW.N) - New York State Contract: New York State Teachers' Retirement System Issues contract notice/solicitation for ""Service Now Renewal"" -"
+ServiceNow,2017-5,05:31:40  [FORNZN] (IBM.N NOW.N) - MIL-OSI Banking: ServiceNow and IBM Collaborate to Accelerate the Impact of Generative AI Across the Enterprise -
+ServiceNow,2017-5,"04:54:12  [GLOBUL] (NOW.N .SPX) - Servicenow soars 164% in 5 years Tuesday May 07, 2024 08:28 EDT -"
+ServiceNow,2017-5,"04:53:41  [GLOBEA] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $713.33) Wednesday May 08, 2024 07:05 EDT -"
+ServiceNow,2017-5,03:32:35  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR669.60) lifts 1.3% strengthening above moving average price; +EUR8.30 [1.3%] -
+ServiceNow,2017-5,Shares of software company ServiceNow $NOW are down over 8% since our research team added it as a short in January.
+ServiceNow,2017-5,"03:13:07  [CERGEM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by Northern Financial Advisors Inc -"
+ServiceNow,2017-5,03:10:31  [CMNW] (IBM.N NOW.N) - ServiceNow and IBM Collaborate to Accelerate the Impact of Generative AI Across the Enterprise -
+ServiceNow,2017-5,03:00:18  [CMNW] (IBM.N NOW.N) - ServiceNow and IBM Collaborate to Accelerate the Impact of Generative AI Across the Enterprise -
+ServiceNow,2017-5,"02:45:30  [GLOBUL] (NOW.N .SPX) - Servicenow soars 164% in 5 years Tuesday May 07, 2024 08:28 EDT -"
+ServiceNow,2017-5,"02:43:22  [GLOBEA] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $713.33) Wednesday May 08, 2024 07:05 EDT -"
+ServiceNow,2017-5,"02:41:48  [SEECOM] (MSFT.O IBM.N) - ServiceNow collabs with IBM, Microsoft to combine GenAI capabilities -"
+ServiceNow,2017-5,"02:41:22  [PUBT] (NOW.N) - Freshfields Bruckhaus Deringer LLP - Freshfields Advises ServiceNow, Inc on its Acquisition of Intella App -"
+ServiceNow,2017-5,02:32:00  [BSW] (NOW.N EQIX.O) - ServiceNow announces an expansion of the strategic relationship with Equinix to streamline operations of digital infrastructure -
+ServiceNow,2017-5,"02:31:00  [RTRS] (NOW.N MSFT.O) - SERVICENOW AND MICROSOFT EXPAND STRATEGIC ALLIANCE, COMBINING GENERATIVE AI CAPABILITIES TO ENHANCE CHOICE AND FLEXIBILITY -"
+ServiceNow,2017-5,"02:31:00  [BSW] (NOW.N MSFT.O) - ServiceNow and Microsoft Expand Strategic Alliance, Combining Generative AI Capabilities to Enhance Choice and Flexibility -"
+ServiceNow,2017-5,02:30:00  [RTRS] (NOW.N) - SERVICENOW AND IBM COLLABORATE TO ACCELERATE THE IMPACT OF GENERATIVE AI ACROSS THE ENTERPRISE -
+ServiceNow,2017-5,02:30:00  [BSW] (NOW.N) - ServiceNow showcases generative AI service agents using NVIDIA AI Enterprise software -
+ServiceNow,2017-5,02:30:00  [BSW] (NOW.N IBM.N) - ServiceNow and IBM Collaborate to Accelerate the Impact of Generative AI Across the Enterprise -
+ServiceNow,2017-5,02:30:00  [BSW] (NUS.N NOW.N) - ServiceNow Adds Powerful New Solutions to the Now Platform to Transform the Employee Experience and Simplify Work Across the Enterprise -
+ServiceNow,2017-5,"01:53:19  [DAILYQ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by Private Advisor Group LLC -"
+ServiceNow,2017-5,"01:18:05  [TICREP] (NOW.N) - Private Advisor Group LLC Boosts Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,00:17:33  [CERGEM] (NOW.N) - ServiceNow (NYSE:NOW) Price Target Raised to $885.00 at Robert W. Baird -
+ServiceNow,2017-5,00:15:43  [MARDAJ] (NOW.N) - ServiceNow (NYSE:NOW) Price Target Raised to $885.00 at Robert W. Baird -
+ServiceNow,2017-5,23:54:11  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,23:53:09  [GLOSTO] (NOW.N) - How Servicenow Has Fared Since Its Recent Analyst Ratings Changes -
+ServiceNow,2017-5,"23:03:39  [ZOLCOM] (NOW.N) - ServiceNow's (NOW) ""Market Outperform"" Rating Reiterated at JMP Securities -"
+ServiceNow,2017-5,23:03:30  [TRADAJ] (NOW.N) - ServiceNow (NYSE:NOW) Given Market Outperform Rating at JMP Securities -
+ServiceNow,2017-5,23:00:07  [TRADAJ] (NOW.N) - ServiceNow (NYSE:NOW) Given Buy Rating at Needham & Company LLC -
+ServiceNow,2017-5,23:00:01  [BSW] (NOW.N) - Tanium Delivers Powerful Solutions Powered by ServiceNow that Reduce Cost and Risk for Customers -
+ServiceNow,2017-5,"22:49:18  [NEWNYS] (NOW.N) - Servicenow rises for a third consecutive day, a three-day rise of 5.8% Monday, May 06, 2024 11:00:00 -"
+ServiceNow,2017-5,22:48:33  [GLOSTO] (NOW.N) - Wednesday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,"22:31:54  [GLOBUL] (NOW.N .SPX) - Servicenow soars 164% in 5 years Tuesday May 07, 2024 08:28 EDT -"
+ServiceNow,2017-5,22:30:03  [PRN] (RAND.AS NOW.N) - Randstad Digital partners with ServiceNow to enrich talent experiences for customers -
+ServiceNow,2017-5,"21:52:13  [GLOBEA] (.GDAXI .SPX) - Servicenow (NOW: $713.33) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Wednesday May 08, 2024 07:05 EDT -"
+ServiceNow,2017-5,"21:47:40  [GLOBEA] (.GDAXI NOW.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS SERVICENOW (NOW: $713.33) Wednesday May 08, 2024 07:05 EDT -"
+ServiceNow,2017-5,21:47:33  [GLOSTO] (NOW.N) - ICYMI: Wednesday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,21:38:23  [ZOLCOM] (NOW.N) - ServiceNow (NYSE:NOW) Receives Buy Rating from Needham & Company LLC -
+ServiceNow,2017-5,21:04:20  [INDIAE] (NOW.N INFY.NS) - Infosys and ServiceNow strengthen strategic collaboration to transform customer experiences with generative AI-powered industry solutions -
+ServiceNow,2017-5,20:50:24  [GLOSTO] (NOW.N) - ICYMI: Wednesday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,20:28:48  [ZOLCOM] (NOW.N) - ServiceNow's (NOW) Outperform Rating Reaffirmed at William Blair -
+ServiceNow,2017-5,"20:17:01  [NEWPEO] (NOW.N) - Teresa Briggs' two-bagger Servicenow in top 14% of NYSE annual return Wednesday May 08, 2024 -"
+ServiceNow,2017-5,19:47:37  [GLOSTO] (NOW.N) - Update: Wednesday's Preview: Can Servicenow rebound after being down? -
+ServiceNow,2017-5,"18:12:19  [BENZIN] (6702.T NOW.N) - Reported Earlier, ServiceNow And Fujitsu Announce Strategic Commitment To Launch Innovative Cross-Industry Solutions -"
+ServiceNow,2017-5,"16:30:00  [INDINV] (NOW.N) - Freshfields advises ServiceNow,on its acquisition of Intella App -"
+ServiceNow,2017-5,16:30:00  [INDINV] (NOW.N) - Freshfields Advises ServiceNow on its Acquisition of Intella App -
+ServiceNow,2017-5,"16:08:13  [COMFIN] (CFR.N NOW.N) - Cullen Frost Bankers Inc. Has $50.70 Million Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"15:28:33  [WATNEW] (CFR.N NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Cullen Frost Bankers Inc. -"
+ServiceNow,2017-5,"13:07:59  [COMFIN] (NOW.N) - Palisade Asset Management LLC Invests $212,000 in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"13:07:27  [NEWPEO] (NOW.N) - Sanjay Beri's Netskope, Inc.: New Netskope App for ServiceNow Modernizes Threat and Data Protection Workflows for SecOps and Incident Response Team... -"
+ServiceNow,2017-5,"12:27:52  [WATNEW] (NOW.N) - 300 Shares in ServiceNow, Inc. (NYSE:NOW) Acquired by Palisade Asset Management LLC -"
+ServiceNow,2017-5,"10:13:00  [STOOBS] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by Apollon Wealth Management LLC -"
+ServiceNow,2017-5,10:10:20  [JCN] (NOW.N 6702.T) - ServiceNow and Fujitsu announce strategic commitment to launch innovative cross-industry solutions -
+ServiceNow,2017-5,10:00:00  [PLUCOM] (NOW.N) - ServiceNow & Genesys form partnership to elevate customer & employee experiences -
+ServiceNow,2017-5,"10:00:00  [NEWNYS] (NOW.N) - NYSE Today's Bullish Signals: Rises in the heavyweights Wednesday May 08, 2024 16:00 EDT [in desc order of increase in MCap] -"
+ServiceNow,2017-5,"09:48:28  [WATNEW] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by Apollon Wealth Management LLC -"
+ServiceNow,2017-5,"09:07:44  [TICREP] (LNC.N NOW.N) - Lincoln National Corp Raises Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"08:36:45  [DAILYQ] (LNC.N NOW.N) - Lincoln National Corp Grows Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,08:13:03  [PIVSOU] (6702.T NOW.N) - ServiceNow and Fujitsu announce strategic commitment to launch innovative cross-industry solutions -
+ServiceNow,2017-5,08:07:14  [GLOSTO] (NOW.N) - Servicenow (NOW: $712.89) in bottom 3% performers of S&P 500 Index; -$13.67 [1.9%] (UPDATE) -
+ServiceNow,2017-5,06:37:48  [GLOSTO] (NOW.N) - Servicenow (NOW: $712.89) in bottom 3% performers of S&P 500 Index; -$13.67 [1.9%] (UPDATE) -
+ServiceNow,2017-5,"06:09:02  [DAILYQ] (NOW.N) - Maryland State Retirement & Pension System Buys 169 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"06:08:27  [TICREP] (NOW.N) - Maryland State Retirement & Pension System Grows Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,05:27:15  [GLOSTO] (NOW.N) - Servicenow (NOW: $709.86) falls 2.3% on firm volume; -$16.70 [-2.3%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,05:07:56  [MARDAJ] (NOW.N) - ServiceNow (NYSE:NOW) Earns Outperform Rating from William Blair -
+ServiceNow,2017-5,04:55:40  [GLOSTO] (NOW.N) - Servicenow (NOW: $709.86) falls 2.3% on firm volume; -$16.70 [-2.3%] Vol Index 1.2 [1 is avg] -
+ServiceNow,2017-5,04:52:49  [GLOSTO] (NOW.N) - Servicenow (NOW: $711.12) slides 2.1% on firm volume; -$15.44 [-2.1%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,04:17:41  [GLOSTO] (NOW.N) - Servicenow (NOW: $711.12) slides 2.1% on firm volume; -$15.44 [-2.1%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,03:58:45  [PUBT] (NOW.N 6702.T) - Fujitsu America Inc. - ServiceNow and Fujitsu announce strategic commitment to launch innovative cross-industry solutions -
+ServiceNow,2017-5,03:57:58  [GLOSTO] (NOW.N) - Servicenow (NOW: $711.87) falls 2.0% on robust volume; -$14.69 [-2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,03:32:29  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR661.30) drops 1.3% on slipping relative strength; -EUR8.60 [1.3%] -
+ServiceNow,2017-5,03:22:22  [GLOSTO] (NOW.N) - Servicenow (NOW: $711.87) falls 2.0% on robust volume; -$14.69 [-2.0%] Vol Index 1.8 [1 is avg] -
+ServiceNow,2017-5,03:20:42  [CMNW] (INFY.NS NOW.N) - Infosys and ServiceNow Strengthen Strategic Collaboration to Transform Customer Experiences with Generative AI powered Industry Solutions -
+ServiceNow,2017-5,03:20:20  [CMNW] (INFY.NS NOW.N) - Infosys and ServiceNow Strengthen Strategic Collaboration to Transform Customer Experiences with Generative AI powered Industry Solutions -
+ServiceNow,2017-5,03:14:53  [MARDAJ] (NOW.N) - ServiceNow (NYSE:NOW) Given Market Outperform Rating at JMP Securities -
+ServiceNow,2017-5,"03:12:19  [NEWBIH] (NOW.N) - May 06, 2024: New Netskope App for ServiceNow Modernizes Threat and Data Protection Workflows for SecOps and Incident Response Teams -"
+ServiceNow,2017-5,02:50:14  [CNW] (INFY.NS NOW.N) - Infosys and ServiceNow Strengthen Strategic Collaboration to Transform Customer Experiences with Generative AI-powered Industry Solutions -
+ServiceNow,2017-5,02:43:58  [PRN] (NOW.N INFY.NS) - Infosys and ServiceNow Strengthen Strategic Collaboration to Transform Customer Experiences with Generative AI-powered Industry Solutions -
+ServiceNow,2017-5,02:43:57  [CNW] (NOW.N INFY.NS) - Infosys and ServiceNow Strengthen Strategic Collaboration to Transform Customer Experiences with Generative AI-powered Industry Solutions -
+ServiceNow,2017-5,02:42:26  [BENZIN] (INFY.NS NOW.N) - Infosys And ServiceNow Strengthen Collaboration To Transform Customer Experiences With AI-Powered Industry Solutions -
+ServiceNow,2017-5,02:42:24  [BENZIN] (NOW.N) - ServiceNow And Genesys Form Partnership To Boost Customer And Employee Experiences -
+ServiceNow,2017-5,02:36:41  [BSE] (NOW.N INFY.NS) - INFOSYS LTD. - 500209 - Infosys And Servicenow Strengthen Strategic Collaboration To Transform Customer Experiences With Generative AI-Powered Industry Solutions. -
+ServiceNow,2017-5,02:33:13  [PUBT] (NOW.N) - Genesys Cloud Services Inc. - ServiceNow and Genesys announce strategic partnership to elevate customer and employee experiences -
+ServiceNow,2017-5,02:30:00  [RTRS] (NOW.N INFY.NS) - INFOSYS AND SERVICENOW STRENGTHEN STRATEGIC COLLABORATION TO TRANSFORM CUSTOMER EXPERIENCES WITH GENERATIVE AI-POWERED INDUSTRY SOLUTIONS -
+ServiceNow,2017-5,02:30:00  [RTRS] (NOW.N) - SERVICENOW AND GENESYS ANNOUNCE STRATEGIC PARTNERSHIP TO ELEVATE CUSTOMER AND EMPLOYEE EXPERIENCES -
+ServiceNow,2017-5,02:30:00  [BSW] (NOW.N) - ServiceNow Powers Enterprise-wide Productivity and Innovation With New Generative AI Capabilities -
+ServiceNow,2017-5,02:30:00  [BSW] (NOW.N) - ServiceNow and Genesys announce strategic partnership to elevate customer and employee experiences -
+ServiceNow,2017-5,02:30:00  [BSW] (NOW.N INFY.NS) - Infosys and ServiceNow Strengthen Strategic Collaboration to Transform Customer Experiences With Generative AI-powered Industry Solutions -
+ServiceNow,2017-5,"02:30:00  [BSW] (NOW.N) - ServiceNow delivers faster, more efficient operations and better employee experiences for the manufacturing industry with AI-powered purpose-built solutions -"
+ServiceNow,2017-5,02:30:00  [BSW] (NOW.N 6702.T) - ServiceNow and Fujitsu announce strategic commitment to launch innovative cross-industry solutions -
+ServiceNow,2017-5,02:30:00  [BSW] (NOW.N) - ServiceNow Enhances Creator Workflows to Scale Digital Transformation Across the Enterprise -
+ServiceNow,2017-5,02:30:00  [BSW] (NOW.N) - ServiceNow opens Knowledge 2024 with innovations that power AI-driven transformation for enterprises everywhere -
+ServiceNow,2017-5,02:12:40  [GLOSTO] (NOW.N) - Servicenow (NOW: $710.73) falls 2.2% on robust volume; -$15.83 [-2.2%] Vol Index 1.6 [1 is avg] -
+ServiceNow,2017-5,01:38:05  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $710.73) falls 2.2% on robust volume; -$15.83 [-2.2%] Vol Index 1.6 [1 is avg] -
+ServiceNow,2017-5,01:37:34  [GLOSTO] (NOW.N) - Servicenow (NOW: $710.73) falls 2.2% on robust volume; -$15.83 [-2.2%] Vol Index 1.6 [1 is avg] -
+ServiceNow,2017-5,01:36:51  [SEECOM] (NOW.N) - ServiceNow taps power of GenAI to unlock future growth -
+ServiceNow,2017-5,01:17:34  [GLOSTO] (NOW.N) - Servicenow (NOW: $716.44) offers Price Earnings growth of 0.2; -$10.12 [1.4%] Vol Index 1.9 [1 is avg] -
+ServiceNow,2017-5,00:43:20  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $716.44) drops 1.4% on high volume; -$10.12 [-1.4%] Vol Index 1.9 [1 is avg] -
+ServiceNow,2017-5,00:42:26  [GLOSTO] (NOW.N) - Servicenow (NOW: $716.44) offers Price Earnings growth of 0.2; -$10.12 [1.4%] Vol Index 1.9 [1 is avg] -
+ServiceNow,2017-5,00:27:16  [GLOSTO] (NOW.N) - Servicenow (NOW: $724.25) decreases $2.31 on extraordinary volume; -$2.31 [-0.3%] Vol Index 4.5 [1 is avg] -
+ServiceNow,2017-5,"00:14:33  [MARDAJ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Bought by Spire Wealth Management -"
+ServiceNow,2017-5,00:11:59  [EINPRE] (NOW.N) - Nicus Ushers in New Era of Enterprise IT Financial Management Running Natively on ServiceNow Platform -
+ServiceNow,2017-5,00:07:22  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $724.25) decreases $2.31 on extraordinary volume; -$2.31 [-0.3%] Vol Index 4.5 [1 is avg] -
+ServiceNow,2017-5,00:02:29  [EINPRE] (NOW.N) - iOPEX Launches elevAIte at ServiceNow Knowledge24: A Groundbreaking GenAI Platform to Elevate Business Operations -
+ServiceNow,2017-5,23:57:14  [GLOSTO] (NOW.N) - Servicenow (NOW: $724.25) decreases $2.31 on extraordinary volume; -$2.31 [-0.3%] Vol Index 4.5 [1 is avg] -
+ServiceNow,2017-5,23:54:14  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,23:49:48  [STOCKP] (NOW.N) - With a trading volume of USD 1 bn NOW trades 3.01 percent higher today -
+ServiceNow,2017-5,"23:13:33  [DAILYQ] (NOW.N) - ServiceNow (NYSE:NOW) Earns ""Buy"" Rating from Needham & Company LLC -"
+ServiceNow,2017-5,22:49:16  [GLOSTO] (NOW.N) - Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,"22:13:42  [DAILYQ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Given Consensus Recommendation of ""Moderate Buy"" by Analysts -"
+ServiceNow,2017-5,21:55:24  [GLOSTO] (NOW.N) - ICYMI: Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,"21:11:55  [BENZIN] (NOW.N) - Needham Reiterates Buy on ServiceNow, Maintains $900 Price Target -"
+ServiceNow,2017-5,20:48:57  [GLOSTO] (NOW.N) - ICYMI: Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,19:47:20  [GLOSTO] (NOW.N) - Update: Tuesday's Preview: Can Servicenow continue its recent gains? -
+ServiceNow,2017-5,15:13:35  [RTRS] (NOW.N) - SERVICENOW INC  NOW.N: BAIRD RAISES TARGET PRICE TO $885 FROM $870 -
+ServiceNow,2017-5,"12:13:49  [MARDAJ] (NOW.N) - Wealthcare Advisory Partners LLC Buys 407 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"11:08:48  [MARDAJ] (NOW.N) - Summit Trail Advisors LLC Sells 172 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,10:30:00  [FDFAIR] (NOW.N) - Event Brief of ServiceNow Financial Analyst Day - Final -
+ServiceNow,2017-5,10:00:00  [PLUCOM] (NOW.N) - New Netskope App for ServiceNow Modernizes Threat and Data Protection Workflows for SecOps and Incident Response Teams -
+ServiceNow,2017-5,06:48:16  [GLOSTP] (NOW.N) - Monthly: Servicenow (NOW: $693.33) drops 9% on high volatility in April 2024 -
+ServiceNow,2017-5,"05:02:26  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $724.68) keeps rising, up 5.7% in 3 days; +$8.03 [1.1%] -"
+ServiceNow,2017-5,"03:57:43  [GLOSTO] (NOW.N) - Servicenow (NOW: $723.29) keeps rising, up 5.5% in 3 days; +$6.64 [0.9%] Vol Index 1.3 [1 is avg] -"
+ServiceNow,2017-5,"03:43:52  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Stock Holdings Lowered by National Bank of Canada FI -"
+ServiceNow,2017-5,"03:32:31  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $723.29) keeps rising, up 5.5% in 3 days; +$6.64 [0.9%] Vol Index 1.3 [1 is avg] -"
+ServiceNow,2017-5,"03:27:12  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR669.90) inches higher, resistance at 12-day EMA; +EUR8.60 [1.3%] -"
+ServiceNow,2017-5,"03:22:09  [GLOSTO] (NOW.N) - Servicenow (NOW: $723.29) keeps rising, up 5.5% in 3 days; +$6.64 [0.9%] Vol Index 1.3 [1 is avg] -"
+ServiceNow,2017-5,"01:57:17  [NEWNYS] (NOW.N) - Servicenow rises for a third consecutive day, a three-day rise of 5.8% Monday, May 06, 2024 11:00:00 -"
+ServiceNow,2017-5,"01:47:17  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $725.14) keeps rising, up 5.8% in 3 days; +$8.49 [1.2%] -"
+ServiceNow,2017-5,01:13:52  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $721.90) increases $5.25; +$5.25 [0.7%] Vol Index 3.9 [1 is avg] -
+ServiceNow,2017-5,23:53:36  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,22:48:52  [GLOSTO] (NOW.N) - Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,"22:32:03  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $721.75) keeps rising, up 5.3% in 3 days; +$5.10 [0.7%] -"
+ServiceNow,2017-5,22:02:32  [GLOSTO] (NOW.N) - ICYMI: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,"21:55:46  [TRADAJ] (NOW.N) - Summit Global Investments Grows Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"21:54:00  [ZOLCOM] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Acquired by Summit Global Investments -"
+ServiceNow,2017-5,20:49:53  [GLOSTO] (NOW.N) - ICYMI: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,19:47:26  [GLOSTO] (NOW.N) - Update: Investors look to see if Servicenow's recent rally will continue -
+ServiceNow,2017-5,"17:14:12  [WATNEW] (NOW.N) - Avalon Trust Co Increases Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"14:13:09  [COMFIN] (NOW.N) - TCI Wealth Advisors Inc. Has $707,000 Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"13:07:45  [COMFIN] (NOW.N) - 1,710 Shares in ServiceNow, Inc. (NYSE:NOW) Purchased by Connecticut Wealth Management LLC -"
+ServiceNow,2017-5,"13:07:32  [COMFIN] (NOW.N) - Sheets Smith Wealth Management Acquires 381 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"12:08:29  [WATNEW] (NOW.N) - Connecticut Wealth Management LLC Takes $1.21 Million Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,10:00:00  [PLUCOM] (NOW.N) - NewRocket Launched City of NewRocket: A Digital Solution Set to Unlock the Next Level of Municipal Services -
+ServiceNow,2017-5,"10:00:00  [PLUCOM] (NOW.N) - New ServiceNow Consultancy, CoreX, Announces Partnership with NewSpring Holdings -"
+ServiceNow,2017-5,"05:47:44  [DAILYQ] (NOW.N) - Provence Wealth Management Group Grows Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:42:56  [TICREP] (NOW.N) - Provence Wealth Management Group Has $487,000 Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:08:45  [MARDAJ] (NOW.N) - Axxcess Wealth Management LLC Has $177.51 Million Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:07:41  [CERGEM] (NOW.N) - Sapient Capital LLC Takes Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:23:28  [DAILYQ] (NOW.N) - Power Wealth Management LLC Purchases Shares of 315 ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"02:23:05  [TICREP] (NOW.N) - Power Wealth Management LLC Purchases New Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"22:53:22  [DAILYQ] (NOW.N) - Commonwealth Equity Services LLC Increases Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"22:03:34  [ZOLCOM] (NOW.N) - Great Valley Advisor Group Inc. Has $675,000 Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"21:28:59  [ZOLCOM] (NOW.N) - Essex Financial Services Inc. Buys Shares of 354 ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"21:28:13  [TRADAJ] (NOW.N) - Essex Financial Services Inc. Takes Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"17:52:43  [TICREP] (NOW.N) - Analysts Set ServiceNow, Inc. (NYSE:NOW) PT at $807.28 -"
+ServiceNow,2017-5,"10:08:45  [WATNEW] (NOW.N) - Clearstead Trust LLC Acquires 304 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:08:28  [COMFIN] (NOW.N) - Clearstead Trust LLC Grows Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"07:09:09  [STOOBS] (NOW.N) - 3,162 Shares in ServiceNow, Inc. (NYSE:NOW) Bought by TCG Advisory Services LLC -"
+ServiceNow,2017-5,"06:08:10  [MARDAJ] (NOW.N) - AJOVista LLC Purchases Shares of 222 ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"03:10:29  [DAILYQ] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Purchased by Benjamin F. Edwards & Company Inc. -"
+ServiceNow,2017-5,"03:10:28  [MARDAJ] (MTB.N NOW.N) - M&T Bank Corp Has $33.73 Million Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"01:38:04  [TICREP] (NOW.N) - Benjamin F. Edwards & Company Inc. Has $4.57 Million Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"21:55:58  [ZOLCOM] (NOW.N) - Savant Capital LLC Buys 63 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"09:42:08  [PIVSOU] (NOW.N) - Eraneos secures contract for IT Services: Consulting, Software Development, Internet and Support-ITSM Advisory Services and Servicenow Implementation -"
+ServiceNow,2017-5,06:37:21  [GLOSTO] (NOW.N) - Servicenow (NOW: $716.31) in top 4% performers of S&P 500 Index; +$20.59 [3.0%] (UPDATE) -
+ServiceNow,2017-5,05:53:01  [GLOSTO] (NOW.N) - Servicenow top decliner in John W. Brooker & Co falls 6.2% in 35 days; +$19.71 [2.8%] -
+ServiceNow,2017-5,03:56:59  [GLOSTO] (NOW.N) - Servicenow (NOW: $714.36) up 4.2% in 2 days; +$18.64 [2.7%] Vol Index 1.7 [1 is avg] -
+ServiceNow,2017-5,03:31:22  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR661.30) climbs 2.0% strengthening above moving average price; +EUR13.20 [2.0%] -
+ServiceNow,2017-5,03:22:20  [GLOSTO] (NOW.N) - Servicenow (NOW: $714.36) up 4.2% in 2 days; +$18.64 [2.7%] Vol Index 1.7 [1 is avg] -
+ServiceNow,2017-5,03:07:37  [GLOSTO] (NOW.N) - Servicenow (NOW: $714.81) in 2nd consecutive rise; +$19.09 [2.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,02:32:33  [GLOSTO] (NOW.N) - Servicenow (NOW: $714.81) in 2nd consecutive rise; +$19.09 [2.7%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,02:12:30  [GLOSTO] (NOW.N) - Servicenow (NOW: $712.80) up 4.0% in 2 days; +$17.08 [2.5%] Vol Index 1.4 [1 is avg] -
+ServiceNow,2017-5,01:53:54  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,01:47:20  [GLOTRA] (NOW.N) - Servicenow (NOW: $712.80) climbs 2.5% on robust volume; +$17.08 [2.5%] Vol Index 1.4 [1 is avg] -
+ServiceNow,2017-5,01:38:15  [GLOTRA] (NOW.N) - Servicenow (NOW: $712.80) in 2nd consecutive rise; +$17.08 [2.5%] Vol Index 1.4 [1 is avg] -
+ServiceNow,2017-5,01:37:28  [GLOSTO] (NOW.N) - Servicenow (NOW: $712.80) up 4.0% in 2 days; +$17.08 [2.5%] Vol Index 1.4 [1 is avg] -
+ServiceNow,2017-5,01:32:49  [GLOSTO] (NOW.N) - Servicenow (NOW: $718.43) offers Price Earnings growth of 0.2; +$22.71 [3.3%] Vol Index 2.0 [1 is avg] -
+ServiceNow,2017-5,01:17:29  [GLOSTO] (NOW.N) - Servicenow (NOW: $718.43) offers Price Earnings growth of 0.2; +$22.71 [3.3%] Vol Index 2.0 [1 is avg] -
+ServiceNow,2017-5,01:12:29  [GLOSTO] (NOW.N) - Servicenow (NOW: $718.43) in 2nd consecutive rise; +$22.71 [3.3%] Vol Index 2.0 [1 is avg] -
+ServiceNow,2017-5,01:07:42  [ZACKSC] (NOW.N) - Here's Why ServiceNow (NOW) Could be Great Choice for a Bottom Fisher -
+ServiceNow,2017-5,00:52:43  [GLOTRA] (NOW.N) - Servicenow (NOW: $718.43) gains 3.3% on high volume; +$22.71 [3.3%] Vol Index 2.0 [1 is avg] -
+ServiceNow,2017-5,00:43:07  [GLOTRA] (NOW.N) - Servicenow (NOW: $718.43) up 4.8% in 2 days; +$22.71 [3.3%] Vol Index 2.0 [1 is avg] -
+ServiceNow,2017-5,00:42:35  [GLOSTO] (NOW.N) - Servicenow (NOW: $718.43) in 2nd consecutive rise; +$22.71 [3.3%] Vol Index 2.0 [1 is avg] -
+ServiceNow,2017-5,23:59:51  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"23:59:37  [TICREP] (NOW.N) - Summit Financial LLC Cuts Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"23:59:35  [DAILYQ] (NOW.N) - Summit Financial LLC Has $808,000 Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,23:50:12  [STOCKP] (NOW.N) - With a trading volume of USD 913.9 mn NOW trades -1.11 percent lower today -
+ServiceNow,2017-5,"22:02:03  [PRN] (NOW.N) - New ServiceNow Consultancy, CoreX, Announces Partnership with NewSpring Holdings -"
+ServiceNow,2017-5,21:52:22  [GLOWEE] (NOW.N) - Servicenow continues to show strength in solvency ratios -
+ServiceNow,2017-5,"21:18:45  [ZOLCOM] (NOW.N) - Van ECK Associates Corp Has $12.09 Million Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"20:13:21  [AMEBAN] (NOW.N) - Choreo LLC Increases Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,18:00:00  [BSW] (NOW.N III.O) - Urge to Simplify Draws More European Firms to ServiceNow -
+ServiceNow,2017-5,"16:13:33  [TRADAJ] (NOW.N) - Brokerages Set ServiceNow, Inc. (NYSE:NOW) Price Target at $807.28 -"
+ServiceNow,2017-5,"16:12:48  [ZOLCOM] (NOW.N) - Brokerages Set ServiceNow, Inc. (NYSE:NOW) Price Target at $807.28 -"
+ServiceNow,2017-5,12:25:00  [RESZEA] (CRM.N NOW.N) - ServiceNow hires Barry Dietrich for A/NZ and David Thodey as advisor -
+ServiceNow,2017-5,"11:13:38  [STOOBS] (SSB.O SSB.N) - SouthState Corp Buys 483 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"11:02:45  [WATNEW] (AMAL.O NOW.N) - Amalgamated Bank Reduces Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:23:19  [WATNEW] (SSB.O SSB.N) - SouthState Corp Buys 483 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:07:55  [STOOBS] (SNBN.S NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Swiss National Bank -"
+ServiceNow,2017-5,10:00:00  [GLOSTO] (NOW.N) - Servicenow (NOW: $716.31) in top 4% performers of S&P 500 Index; +$20.59 [3.0%] (UPDATE) -
+ServiceNow,2017-5,"09:07:06  [MARDAJ] (NOW.N) - LGT Group Foundation Has $45.18 Million Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,08:37:46  [PIVSOU] (NOW.N) - DEPARTMENT OF TECHNOLOGY invites tenders for Servicenow Implementation Specialist -
+ServiceNow,2017-5,08:07:23  [GLOSTO] (NOW.N) - Servicenow top decliner in John W. Brooker & Co falls 8.8% in 34 days; +$10.06 [1.5%] (UPDATE) -
+ServiceNow,2017-5,"07:52:18  [WATNEW] (NOW.N) - Natixis Advisors L.P. Acquires 5,034 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"07:52:06  [COMFIN] (NOW.N) - Natixis Advisors L.P. Buys 5,034 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,06:40:30  [GLOSTO] (NOW.N) - Servicenow top decliner in John W. Brooker & Co falls 8.8% in 34 days; +$10.06 [1.5%] (UPDATE) -
+ServiceNow,2017-5,"05:48:58  [WATNEW] (NOW.N) - Los Angeles Capital Management LLC Boosts Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"05:14:08  [COMFIN] (NOW.N) - Los Angeles Capital Management LLC Boosts Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"04:09:38  [STOOBS] (NOW.N) - West Family Investments Inc. Raises Stake in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,03:36:49  [BENZIN] (NOW.N) - Here's How Much $1000 Invested In ServiceNow 5 Years Ago Would Be Worth Today -
+ServiceNow,2017-5,"03:27:32  [GERCOM] (4S0.F NOW.N) - German trading: ServiceNow (4S0: EUR648.10) falls in 4 out of last 5 days, 5-day fall of 6.9%; -EUR13.60 [2.1%] -"
+ServiceNow,2017-5,"02:12:31  [STOOBS] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Stock Holdings Raised by Fisher Asset Management LLC -"
+ServiceNow,2017-5,"01:35:00  [BSW] (NOW.N) - Tanium Introduces New Partner Services Verification Program to Deliver Integrated Solutions for Key Technology Partners like Microsoft and ServiceNow, Inc. -"
+ServiceNow,2017-5,"22:59:01  [DAILYQ] (NOW.N) - Global Wealth Management Investment Advisory Inc. Lowers Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"22:58:46  [TICREP] (NOW.N) - Global Wealth Management Investment Advisory Inc. Sells 47 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,22:51:00  [GLOSTO] (NOW.N) - Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,22:31:39  [GLOBEA] (NOW.N .SPX) - Bottom Performers Past Week: Servicenow (NOW: $685.61) in bottom 5% performers of S&P 500 Index in past week -
+ServiceNow,2017-5,21:48:17  [GLOWEE] (NOW.N) - What the Beneish M-score tells us about Servicenow -
+ServiceNow,2017-5,21:47:45  [GLOSTO] (NOW.N) - ICYMI: Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,"20:52:20  [PUBT] (NOW.N) - ServiceNow Inc. - ServiceNow announces appointment of Damian Stirrett as Group Vice President and GM, UK and Ireland -"
+ServiceNow,2017-5,20:48:42  [GLOSTO] (NOW.N) - ICYMI: Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,19:52:57  [GLOSTO] (NOW.N) - Update: Investors concerned as Servicenow down in recent days -
+ServiceNow,2017-5,17:11:21  [SCOMED] (NOW.N) - A Nation Stuck On Hold: Kiwi Waste Over 22 Million Hours For Customer Service. -
+ServiceNow,2017-5,"16:08:30  [STOOBS] (NOW.N) - New York Life Investment Management LLC Has $22.68 Million Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"15:38:24  [WATNEW] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Glynn Capital Management LLC -"
+ServiceNow,2017-5,"14:33:06  [WATNEW] (MRIN.TA NOW.N) - Y.D. More Investments Ltd Acquires 80 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"13:57:20  [TICREP] (NOW.N) - Brighton Jones LLC Purchases 189 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"13:13:34  [DAILYQ] (NOW.N) - Mission Wealth Management LP Increases Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"13:09:17  [COMFIN] (MRIN.TA NOW.N) - Y.D. More Investments Ltd Acquires 80 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"13:09:15  [COMFIN] (NOW.N) - DiNuzzo Private Wealth Inc. Acquires New Shares in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,11:49:54  [STOCKP] (NOW.N) - Servicenow (NOW) is trading -3.86 percent lower on Thursday 2nd of May and has a trading volume of USD 1.4 bn -
+ServiceNow,2017-5,"11:29:19  [WATNEW] (NOW.N) - First Trust Direct Indexing L.P. Grows Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:00:00  [PLUPAT] (NOW.N) - Head Line: ServiceNow, Inc. (California) granted US Patent for ""Customizable Certificate Validation Policy"" -"
+ServiceNow,2017-5,"09:28:19  [DAILYQ] (NOW.N) - Brighton Jones LLC Boosts Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"09:07:52  [MARDAJ] (NOW.N) - Mission Wealth Management LP Increases Stock Holdings in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,08:08:12  [GLOSTO] (NOW.N) - Servicenow (NOW: $685.59) drops to four-month low; -$7.74 [1.1%] (UPDATE) -
+ServiceNow,2017-5,"06:47:09  [WATNEW] (NOW.N) - RB Capital Management LLC Grows Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,06:37:09  [GLOSTO] (NOW.N) - Servicenow (NOW: $685.59) drops to four-month low; -$7.74 [1.1%] (UPDATE) -
+ServiceNow,2017-5,"05:02:50  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $690.89) keeps sliding, down 4.5% in 3 days; -$2.44 [-0.4%] -"
+ServiceNow,2017-5,04:22:11  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $689.79) drops to four-month low; -$3.54 [-0.5%] -
+ServiceNow,2017-5,"03:32:19  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $688.95) keeps sliding, down 4.8% in 3 days; -$4.38 [-0.6%] -"
+ServiceNow,2017-5,02:42:34  [GLOTRA] (.SPX NOW.N) - Servicenow (NOW: $688.99) drops to four-month low; -$4.34 [-0.6%] -
+ServiceNow,2017-5,"01:54:01  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $693.23) keeps sliding, down 4.2% in 3 days; -10c [-0.01%] -"
+ServiceNow,2017-5,01:53:57  [GLOSTO] (NOW.N) - How Servicenow Has Fared Since Its Recent Analyst Ratings Changes -
+ServiceNow,2017-5,01:49:24  [GLOSTO] (NOW.N) - Monthly: Servicenow (NOW: $693.33) drops 9% on high volatility in April 2024 -
+ServiceNow,2017-5,"00:42:59  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $687.78) keeps sliding, down 4.9% in 3 days; -$5.55 [-0.8%] -"
+ServiceNow,2017-5,23:52:29  [GLOSTO] (NOW.N) - How Servicenow's Tax Rate compares to Its Peers -
+ServiceNow,2017-5,"23:11:00  [BSW] (NSIT.O NOW.N) - Insight Acquires Infocenter, 2024 ServiceNow Partner of the Year -"
+ServiceNow,2017-5,22:49:10  [GLOSTO] (NOW.N) - Monthly: Servicenow (NOW: $693.33) drops 9% on high volatility in April 2024 -
+ServiceNow,2017-5,"22:32:43  [DAILYQ] (NOW.N) - Certuity LLC Sells 79 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"22:32:04  [GLOTRA] (NOW.N .SPX) - Servicenow (NOW: $691.0) keeps sliding, down 4.5% in 3 days; -$2.33 [-0.3%] -"
+ServiceNow,2017-5,22:31:55  [GLOBEA] (NOW.N .SPX) - Bottom Performers Past Week: Servicenow (NOW: $693.33) in bottom 6% performers of S&P 500 Index in past week -
+ServiceNow,2017-5,21:49:11  [GLOSTO] (NOW.N) - Monthly: Servicenow (NOW: $693.33) drops 9% on high volatility in April 2024 -
+ServiceNow,2017-5,20:54:19  [GLOSTO] (NOW.N) - Monthly: Servicenow (NOW: $693.33) drops 9% on high volatility in April 2024 -
+ServiceNow,2017-5,"16:08:49  [STOOBS] (NOW.N) - Stonegate Investment Group LLC Increases Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"15:13:50  [WATNEW] (NOW.N) - Stonegate Investment Group LLC Increases Stock Position in ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,"10:00:00  [PIVSOU] (NOW.N) - CGI Suomi Oy secures contract for IT Services: Consulting, Software Development, Internet and Support - Finavia Corporation - Servicenow Maintenanc... -"
+ServiceNow,2017-5,08:07:26  [GLOSTO] (NOW.N) - Servicenow (NOW: $693.03) drops 3.9% on increasing volatility; -$28.12 [3.9%] Vol Index 1.3 [1 is avg] (UPDATE) -
+ServiceNow,2017-5,07:11:54  [GLOSTO] (NOW.N) - Servicenow (NOW: $693.03) offers Price Earnings growth of 0.19; -$28.12 [3.9%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,06:53:06  [RESZEA] (FIDL.ZI NOW.N) - Fidelity Life rolls out Spark's ServiceFlex for IT service management -
+ServiceNow,2017-5,06:39:00  [GLOSTO] (NOW.N) - Servicenow (NOW: $693.03) offers Price Earnings growth of 0.19; -$28.12 [3.9%] Vol Index 1.3 [1 is avg] -
+ServiceNow,2017-5,06:37:11  [GLOSTO] (NOW.N) - Servicenow (NOW: $693.03) drops 3.9% on increasing volatility; -$28.12 [3.9%] Vol Index 1.3 [1 is avg] (UPDATE) -
+ServiceNow,2017-5,"05:09:23  [CERGEM] (NOW.N) - Norden Group LLC Sells 1,018 Shares of ServiceNow, Inc. (NYSE:NOW) -"
+ServiceNow,2017-5,03:53:04  [ZACKSC] (NOW.N) - ServiceNow (NOW) is an Incredible Growth Stock: 3 Reasons Why -
+ServiceNow,2017-5,"03:18:42  [TICREP] (NOW.N) - ServiceNow, Inc. (NYSE:NOW) Shares Sold by Merlin Capital Inc -"
+ServiceNow,2017-5,00:53:05  [ZACKSC] (NOW.N) - Here's Why ServiceNow (NOW) is a Strong Growth Stock -
+ServiceNow,2017-5,00:38:09  [ZACKSC] (NOW.N) - Wall Street Bulls Look Optimistic About ServiceNow (NOW): Should You Buy? -

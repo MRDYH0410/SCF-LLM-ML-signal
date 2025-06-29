@@ -1,0 +1,800 @@
+firm_id,date,text
+General Electric,2017-8,UPDATE 1-Canada mulls buying used Boeing fighter jets from Australia - Reuters News
+General Electric,2017-8,{{20170906T212248.023+0000}}UPDATE 1-Canada mulls buying used Boeing fighter jets from Australia(Adds aerospace firms urging Trudeau to approve Boeing deal)
+General Electric,2017-8,"OTTAWA, Sept 6 (Reuters) - Canada, embroiled in a dispute with Boeing Co over the planned purchase of 18 new Super Hornet fighters, could buy older jets from Australia instead, the defense ministry said on Wednesday."
+General Electric,2017-8,The Liberal government of Prime Minister Justin Trudeau suspended talks with Boeing over a possible acquisition after the U.S. firm launched a trade challenge against Canadian planemaker Bombardier Inc . [nL1N1IY1KC]
+General Electric,2017-8,"Defence Minister Harjit Sajjan says Canada needs the 18 jets as a stopgap measure until it can run a competition to replace its CF-18 fighters. The CF-18 is Canada's version of the F-18, a design that is 40 years old."
+General Electric,2017-8,"""In light of Australia recently notifying all allies about their intent to dispose of their F-18 fleet, Canada visited them to inquire about the state of their equipment and spare parts,"" Sajjan's office said in a statement."
+General Electric,2017-8,"""It is too early to provide detailed information about other options,"" it added."
+General Electric,2017-8,Boeing declined to comment. The Australian High Commission (embassy) did not reply to a request for comment.
+General Electric,2017-8,Sajjan spokeswoman Jordan Owens said Canada had not visited other nations to assess their planes.
+General Electric,2017-8,"Trudeau on Tuesday slammed Boeing's ""unfair and aggressive"" challenge against Bombardier, which the U.S. firm alleges is dumping passenger planes in the American market. [nL2N1LM285]"
+General Electric,2017-8,"Boeing's Canadian network of aerospace suppliers on Tuesday urged Trudeau to buy the Super Hornets, noting the firm supported more than 17,000 jobs in Canada."
+General Electric,2017-8,"""Our partnership is deep and enduring, but it needs your engagement,"" said a letter from 10 firms, a copy of which was seen by Reuters."
+General Electric,2017-8,"Signatories included CAE Inc , Heroux Devtek Inc and Honeywell International Inc. as well as the Canadian arms of General Electric Co and Raytheon Co ."
+General Electric,2017-8,"CAE, which has close ties to Bombardier, later noted the letter had not mentioned the Boeing dispute."
+General Electric,2017-8,"Asked for a reaction to the letter, a source familiar with government thinking said the Canadian aerospace sector supported many jobs in the United States."
+General Electric,2017-8,Australia bought 24 Super Hornets as an interim fleet until it could take delivery of F-35 planes from Lockheed Martin Corp .
+General Electric,2017-8,"Canada's former Conservative government said in 2010 it would buy 65 F-35s but later scrapped the decision, triggering years of delays and reviews."
+General Electric,2017-8,"Ahead of the 2015 election that brought him to power, Trudeau campaigned against buying the F-35 on the grounds it was too expensive. Officials now say the plane would be eligible to participate in the competition. [nL1N1E7170]"
+General Electric,2017-8,"ABB plans expansion in U.S., scouting for acquisitions, CEO says - Reuters News"
+General Electric,2017-8,"{{20170906T205431.682+0000}}ABB plans expansion in U.S., scouting for acquisitions, CEO saysBy Joseph White"
+General Electric,2017-8,"DETROIT, Sept 6 (Reuters) - ABB Ltd plans to expand its U.S. industrial robot factory in Michigan, the company's chief executive officer said on Wednesday, while declining to comment on reports that he is weighing the purchase of a unit of rival General Electric Co ."
+General Electric,2017-8,"Ulrich Spiesshofer, who took over as CEO of ABB in 2013, said in an interview that the company plans to expand its industrial robot manufacturing facility in Auburn Hills, Michigan, which delivered its first robot in March. He declined to offer details on new jobs or investment. ABB currently has a workforce of about 1,000 at the Auburn Hills complex."
+General Electric,2017-8,"Zurich-based ABB is counting on continued growth in demand for industrial robots from automakers and other sectors, such as the food and beverage industry, Spiesshofer said."
+General Electric,2017-8,"U.S. automakers have caught up with Japanese and German rivals in the level of factory automation, Spiesshofer said. ""The next phase is about portfolio differentiation and expansion,"" as automakers build more electric cars, he said."
+General Electric,2017-8,Spiesshofer has been reshaping ABB's portfolio of businesses through acquisitions and divestitures for the past four years. He declined to comment on whether he is discussing the acquisition of GE's industrial solutions business.
+General Electric,2017-8,"People familiar with the situation said last month that GE and ABB had restarted talks after GE cut the asking price of the business, which sells industrial electrical equipment. [nL8N1L95US]"
+General Electric,2017-8,"ABB is scouting for potential acquisitions in certain areas, such as planning software, and those would likely be smaller deals, Spiesshofer said."
+General Electric,2017-8,"ABB will be ""brutally disciplined"" in what it buys, he said, noting that the company ""could have afforded"" to buy industrial robot maker Kuka last year, but walked away ""because the economics did not fit what we want to do."""
+General Electric,2017-8,"In a presentation on Wednesday, Spiesshofer reaffirmed that, after what he called a ""transitional year"" in 2017, ABB should begin hitting its goals for revenue growth of 3 to 6 percent, and returns on capital investments in the ""mid-teens."""
+General Electric,2017-8,Spiesshofer said problems with excess capacity in the robotics and motion business that hit second-quarter results should be resolved by growth in business.
+General Electric,2017-8,"""I am confident for the full year we will be back"" within a profit margin range of 15 to 18 percent, he said. Operating margins for ABB's robotics and motion business were 14.9 percent in the second quarter."
+General Electric,2017-8,"CORRECTED-United Tech, Rockwell deal faces bumpy road to approval, especially in the EU - Reuters News"
+General Electric,2017-8,"{{20170906T015652.265+0000}}CORRECTED-United Tech, Rockwell deal faces bumpy road to approval, especially in the EU(In 4th paragraph corrects misstatement by source in 1st sentence to say combined company would have 50 percent of systems content on the Boeing 787, not 50 percent of all content. In second sentence of 4th paragraph, corrects to say Michaels does not see a regulatory issue, not that this could be a bigger issue.))"
+General Electric,2017-8,"PARIS/NEW YORK/WASHINGTON, Sept 5 (Reuters) - U.S. aerospace and industrial company United Technologies Corp faces a long road to win approval for its $23 billion plan to buy avionics maker Rockwell Collins Inc , and the biggest bumps could be in Brussels rather than Washington."
+General Electric,2017-8,"United Tech and Rockwell, who both supply airplane makers, say the overlap in their product lines is relatively small. Yet opponents of the deal could argue the combination gives the aircraft parts supply company undue market power."
+General Electric,2017-8,"The combined company could make more than 50 percent of the systems content on a Boeing 787 aircraft, by dollar value, noted Kevin Michaels, president of consulting firm AeroDynamic Advisory, referring to such components as flight controls and air conditioning. Michaels said he does not see the deal facing an issue from a competitive standpoint as there is virtually no overlap in products between the two companies."
+General Electric,2017-8,"Rockwell's shares rose 0.3 percent to $131.00 while United Tech shares fell 5.7 percent to $111.21, in part on the warning from Boeing. [nL2N1LM0KR]"
+General Electric,2017-8,"There was also a sign that Airbus is preparing to ratchet up pressure behind the scenes. A source close to the European plane maker told Reuters there were concerns about a ""disconnect"" between United Technologies and the leadership of its Pratt & Whitney unit. Another Airbus source said any distraction due to the merger would benefit Pratt & Whitney's main rival CFM International, co-owned by the U.S. manufacturer General Electric Co and France's Safran ."
+General Electric,2017-8,"Problems at Pratt & Whitney have delayed European aircraft deliveries, and Airbus has publicly warned United Tech to focus on delivering jet engines on time. [nP6N1JF00H]"
+General Electric,2017-8,"If Boeing or Airbus opts to complain to antitrust enforcers, they can take the complaint to Europe's competition authority and either the U.S. Justice Department or Federal Trade Commission, both of which review proposed mergers for compliance with antitrust law."
+General Electric,2017-8,Their strongest argument would be if both companies made one or several parts and had few competitors.
+General Electric,2017-8,"""Many initially assumed it would be a slam dunk because of the lack of overlap. But the EU probe may prove to be difficult, simply on the grounds that the combined company would be so big,"" said Nick Cunningham, aerospace analyst at UK-based Agency Partners."
+General Electric,2017-8,"Boeing could also be concerned about the ""portfolio effect,"" where companies are able to exercise leverage based on the fact that they sell a wide range of specialized products to certain customers."
+General Electric,2017-8,"This argument was used to doom GE's plan to buy Honeywell in 2001, although it was European regulators rather than Washington who killed that deal."
+General Electric,2017-8,"Boeing or other companies objecting to the deal could complain about a loss of competition. That would be the case if the government proves that either United Tech or Rockwell had plans to expand to compete with the other, said James Tierney, a former Justice Department antitrust expert now at the law firm Orrick."
+General Electric,2017-8,"Antitrust enforcers would also be concerned by the reduced number of market players if United Tech and Rockwell were among the few companies that Boeing or Airbus could reach out to resolve technical problems, said Tierney."
+General Electric,2017-8,"That concern would be amplified if the Defense Department agreed, said Tierney."
+General Electric,2017-8,"Both the Justice Department and Federal Trade Commission review proposed mergers to ensure they are legal under antitrust law. It is unclear which of the agencies would review this deal, antitrust experts said."
+General Electric,2017-8,"UPDATE 5-UTC touts $23 bln deal as stock drops, Boeing turns critic - Reuters News"
+General Electric,2017-8,"{{20170905T194317.335+0000}}UPDATE 5-UTC touts $23 bln deal as stock drops, Boeing turns critic(Recasts and adds detail)"
+General Electric,2017-8,"NEW YORK, Sept 5 (Reuters) - Investors and Boeing Co gave two thumbs down on Tuesday to aerospace and industrial company United Technologies Corp $23 billion plan to buy avionics maker Rockwell Collins Inc ."
+General Electric,2017-8,"The acquisition, announced on Monday, would be the largest in aerospace history and create a new player in the top echelon of suppliers to Boeing, Airbus, Bombardier and other plane makers. [nL2N1LL17P]"
+General Electric,2017-8,"United Tech shares were down 5.2 percent after Boeing said it would and use the power granted by its contracts with the companies, and its sway with regulators, ""to protect our interests."" [nL2N1LM15K]"
+General Electric,2017-8,"The stock had fallen more than 4 percent before Boeing's statement, as analysts factored in United Tech's decision to halt share buybacks for three to four years and earnings dilution caused by the cash-and-stock deal. Analysts expected $2 billion in buybacks in the second half of 2017 alone."
+General Electric,2017-8,The loss of years of buybacks and Boeing's unusual blowback came as plane makers are pressing United Tech and other suppliers for price cuts and trying to compete against them on high-margin services and spare parts.
+General Electric,2017-8,"By making more of the components used on each Boeing and Airbus SE aircraft, analysts say, United Technologies-Rockwell Collins would gain leverage to resist that pressure."
+General Electric,2017-8,"United Tech Chief Executive Greg Hayes, who would lead the combined company, brushed aside Boeing's concerns."
+General Electric,2017-8,"""The whole idea of this deal is to be able to drive more innovative solutions at lower cost for our customers - both the (plane makers) and the airlines,"" Hayes told Reuters on Tuesday, shortly before Boeing issued its criticism."
+General Electric,2017-8,"Rockwell's skill with software combined with United Tech's expertise in numerous aircraft components allows the company to offer new ""digital"" products that airlines want, he said."
+General Electric,2017-8,"""We'll be able to do predictive analytics that many others can't do, and that's how you add value to airline customers,"" Hayes said, referring to data-crunching that allows airlines to spot problems in engines and other components before they fail."
+General Electric,2017-8,Hayes said he had assured Airbus CEO Tom Enders that United Tech's Pratt & Whitney unit will stay on track to deliver between 350 and 400 jetliner engines this year.
+General Electric,2017-8,"United Tech fell behind on engine deliveries this year due to production problems, and Airbus raised concern last week about the deal distracting United Tech. [nL2N1LH0WI]"
+General Electric,2017-8,"""Pratt has nothing to do with this,"" Hayes said, noting United Tech's aerospace unit, not Pratt, will combine with Rockwell Collins to create Collins Aerospace."
+General Electric,2017-8,"Hayes also knocked down speculation that the purchase would prompt United Tech to spin off its Carrier air conditioner or Otis elevator units, saying the company needs their cash flow to help pay down debt from the deal."
+General Electric,2017-8,But Hayes did not rule out such sales in the longer term.
+General Electric,2017-8,"""After the deal is done, and after we pay down some debt, we're going to go back and look,"" he said."
+General Electric,2017-8,"If the company's share price does not reflect its value, he said, ""we'll need to do something."""
+General Electric,2017-8,"United Tech could sell ""non-core pieces"" such as home security in the meantime, Hayes said. But given taxes and lost earnings, ""it's hard to make financial sense out of those transactions"" unless they fetch a high price, he said."
+General Electric,2017-8,"Rockwell's shares rose 0.3 percent to $131.00 in afternoon trading. United Tech shares, part of the Dow Jones industrial average <.DJI>, fell 5.2 percent to $111.82."
+General Electric,2017-8,"""We see limited upside near term as share repurchase is withdrawn and deal timing becomes an investor focus,"" analyst Jeff Sprague at Vertical Research Partners said in a note."
+General Electric,2017-8,"United Tech's engines and systems portfolio has little overlap with the avionics, seats and interiors businesses of Rockwell, which Hayes said should mean little trouble during the necessary regulatory review."
+General Electric,2017-8,"The combination, if successful, would mark the rise of a second engines-to-seating supplier, after jet-engine maker Safran SA's pending $7.7-billion deal to buy seat maker Zodiac Aerospace . Safran said on Tuesday it would look at assets that might come up for sale after the United Tech-Rockwell deal. [nL8N1LM2UL]"
+General Electric,2017-8,"United Tech expects to borrow $15 billion and will assume $7 billion in Rockwell debt to fund the deal, which is expected to close by the third quarter of 2018. [nL2N1LL17P]"
+General Electric,2017-8,United Tech said the acquisition would add to earnings in its first full year and yield at least $500 million in cost savings by the fourth year of operation.
+General Electric,2017-8,U.S. FDA clears mammography device with option for patient-assisted compression - Reuters Investor Briefs
+General Electric,2017-8,{{20170901T204133.272+0000}}U.S. FDA clears mammography device with option for patient-assisted compressionSept 1 (Reuters) - U.S.
+General Electric,2017-8,BRIEF-U.S. FDA clears mammography device with option for patient-assisted compression - Reuters News
+General Electric,2017-8,{{20170901T191428.124+0000}}BRIEF-U.S. FDA clears mammography device with option for patient-assisted compressionSept 1 (Reuters) - U.S. Food and Drug Administration:
+General Electric,2017-8,"* Cleared 2D digital mammography system allowing patients to increase, decrease compression amount applied to breast before mammogram x-ray is taken"
+General Electric,2017-8,Source text for Eikon: [ID:nPnrDWSHa] Further company coverage: [GE.N]
+General Electric,2017-8,"INSIGHT-GE shifts strategy, financial targets for digital business after missteps - Reuters News"
+General Electric,2017-8,"{{20170828T050003.952+0000}}INSIGHT-GE shifts strategy, financial targets for digital business after misstepsBy Alwyn Scott"
+General Electric,2017-8,"NEW YORK, Aug 28 (Reuters) - General Electric Co wants its industrial software business to cut costs and lift profits next year under new chief executive John Flannery, and is considering expanded partnerships and the possible sale of some equity in the unit, according to people familiar with the business."
+General Electric,2017-8,"Former chief executive Jeffrey Immelt spent six years and more than $4 billion transforming 125-year-old GE into a ""digital industrial"" company. But GE has had technical problems and delays with its software platform, known as Predix, which connects equipment like turbines and elevators to computers that can predict failures and reduce operating costs."
+General Electric,2017-8,"This spring, GE called an unusual, two month ""time-out"" to tackle the Predix problems, which have not been previously reported. With fixes in place, GE will now emphasize sales to existing customers in its energy, aviation and oil-and-gas businesses, and scale back efforts to sell to new customers in other sectors, three senior GE executives told Reuters."
+General Electric,2017-8,"""Our resources will go to our fastest-selling markets,"" GE Digital Chief Executive Officer Bill Ruh said in an interview."
+General Electric,2017-8,"To help investors better understand Predix, GE also has redefined digital revenue to exclude $3 billion in hardware related to its gas-fueled power plants, providing a clearer picture of the ""pure"" software business and avoiding double-counting, Chief Financial Officer Jeff Bornstein said."
+General Electric,2017-8,"The company now expects $12 billion in digital revenue in 2020, compared with $15 billion under the old definition. GE's total revenue hit nearly $124 billion last year."
+General Electric,2017-8,"The changes mark an important course correction for GE Digital, which so far has not delivered the revenue investors wanted and is partly responsible for a 25 percent decline in GE's share price this year to a near two-year low."
+General Electric,2017-8,"But the 55-year-old leader, known for finance skills and making tough decisions, is likely to press GE Digital to reduce costs and lift profits next year. He also may restructure how GE Digital operates, bring in more partners and possibly sell a minority stake in the unit, they told Reuters."
+General Electric,2017-8,"""There was a lot of money spent on Predix,"" said a former senior financial executive at GE who worked with Flannery. ""They are going to tighten the grip and ensure there's a return."""
+General Electric,2017-8,"Immelt was among the first executives to spot the industrial internet wave nearly a decade ago, and positioning the company to catch it became one of his signature strategic moves in his 16 year term as chief executive."
+General Electric,2017-8,"""This is an all-encompassing change,"" Immelt said last year, as GE increased its digital investment."
+General Electric,2017-8,"Analysts and investors see potential for Predix to deliver substantial sales and profits. It already has attracted some large customers, including power utility Exelon Corp and elevator maker Schindler Holding AG , and orders rose 24 percent to $2.3 billion in the first half of 2017."
+General Electric,2017-8,"But some analysts and investors say the business has taken longer than expected to mature, and its current growth rate is too slow to hit GE's $12 billion target by 2020. Spending also soared under Immelt, which weighed on profits."
+General Electric,2017-8,"""He gave Bill Ruh an endless checkbook,"" Nick Heymann, an analyst at William Blair & Co., said of Immelt."
+General Electric,2017-8,"Case in point: GE has budgeted $700 million more in digital spending this year - to a total of $2.1 billion - to further develop Predix and its applications, and to boost sales efforts. GE executives noted this is likely to mark the peak for digital investment."
+General Electric,2017-8,"GE Digital Chief Financial Officer Khozema Shipchandler said the 2020 revenue target is within reach since recurring Predix subscriptions ""pile on significant revenue as time goes on."""
+General Electric,2017-8,"Immelt pushed GE to go digital sooner than other companies. But some early missteps cost time and money as GE's strategy evolved. Engineers initially advised building data centers that would house the ""Predix Cloud."" But after Amazon.com Inc and Microsoft Corp spent tens of billions of dollars on data centers for their cloud services, AWS and Azure, GE changed course."
+General Electric,2017-8,"""That is not an investment we can compete with,"" Ruh said."
+General Electric,2017-8,"GE abandoned its go-it-alone cloud strategy a year ago. It now relies on AWS and expects to be using Azure by late October, four months behind schedule, the executives said."
+General Electric,2017-8,"As GE pivoted away from building data centers, its engineers focused on applications, which executives now saw as more useful for winning business and more profitable than the platform alone."
+General Electric,2017-8,"""That is probably the biggest lesson we've learned,"" Ruh said."
+General Electric,2017-8,"GE also faced legacy challenges in adapting to Predix software. GE has many algorithms for monitoring its machines, but they mostly were written in different coding languages and reside on other systems in GE businesses. This makes transferring them to Predix more time consuming, people familiar with the system told Reuters."
+General Electric,2017-8,"The acquisition of Meridium and ServiceMax over the past 10 months gave GE well-known applications and added about $150 million to annual digital revenue, GE said. But the new products also brought more code that had to be converted to run on Predix, people familiar with the systems said."
+General Electric,2017-8,"The result: software installation sometimes took much longer than GE anticipated, the code had bugs and applications sometimes lacked features that customers wanted, these people said."
+General Electric,2017-8,"GE executives acknowledged Predix had experienced technical problems and was behind schedule in hitting some goals. During the ""time out"" in May and June, GE Digital's programmers made Predix more stable, they said."
+General Electric,2017-8,"The changes in strategy have come with a change in leadership. Predix chief Harel Kodesh and GE Digital Chief Commercial Officer Kate Johnson both left this year. Patrick Franklin, who succeeded Kodesh, called the ""time out"" to fix Predix."
+General Electric,2017-8,"Ruh said the leadership ""evolved with the business"" and that GE has the right people to keep Predix growing."
+General Electric,2017-8,"The competition is not standing still. Large rivals such as Siemens AG and a crop of nimble startups are pressing to gain market share in GE's main areas of energy, aviation, locomotives, health care and oil and gas."
+General Electric,2017-8,"Chicago-based startup Uptake signed a deal in March with subsidiaries of Berkshire Hathaway Energy to provide analytics on thousands of wind turbines, including those made by GE. C3 IoT, based in Redwood City, California, won a deal last year with French utility Engie SA , a GE customer. Engie later signed a digital partnership agreement with GE."
+General Electric,2017-8,"Stewart & Stevenson, a maker of fracking pumps and other equipment, met with GE about Predix in 2015 but quickly decided against it."
+General Electric,2017-8,"""They didn't seem to be able to customize to meet the needs of our customers,"" said Chris Harvell, the firm's chief technology officer. ""And if they did do any development, we'd probably end up paying quite a bit of money."""
+General Electric,2017-8,"The company chose Flutura, a 100-person, Houston firm started in 2012, for a pilot. Flutura lacked GE's scale, but could easily produce custom code, he said."
+General Electric,2017-8,"Ruh said that while GE faces competitors in every deal, many startups are not true competitors because Predix includes unique applications and is available globally."
+General Electric,2017-8,"""No other competitor has these capabilities on their platforms,"" he said."
+General Electric,2017-8,"Inside GE, executives remain bullish. Predix will pay off handsomely if GE stays focused on building it and winning customers, said Joshua Bloom, co-founder and chief technology officer of Wise.io, an artificial intelligence firm GE bought last year."
+General Electric,2017-8,"But, he said, ""doing that right and at scale is a massive challenge."""
+General Electric,2017-8,"{{20170828T001637.631+0000}}Uber board votes to pick a new CEOSAN FRANCISCO, Aug 27 (Reuters) - The Uber Technologies Inc [UBER.UL] board of directors said on Sunday it had voted on its pick for a new chief executive officer, but declined to disclose its choice publicly until informing employees."
+General Electric,2017-8,"The board met during the weekend to deliberate over the selection of a new chief executive to lead the ride-services company out of a nearly year-long crisis. Earlier on Sunday, Jeff Immelt, chairman of General Electric Co , said he was no longer in the running for the job. That leaves Meg Whitman, chief executive of Hewlett Packard Enterprise , as the most likely candidate."
+General Electric,2017-8,"""The board has voted and will announce the decision to the employees first,"" a board spokeswoman said in an email to Reuters."
+General Electric,2017-8,Jeff Immelt says not pursuing Uber CEO job - Reuters News
+General Electric,2017-8,"{{20170827T163823.802+0000}}Jeff Immelt says not pursuing Uber CEO jobAug 27 (Reuters) - Jeff Immelt, chairman of General Electric Co , said on Sunday he was no longer in the running for a leadership position at Uber Technologies Inc [UBER.UL] as the board of the beleaguered ride services company searches for a new chief executive."
+General Electric,2017-8,"""I have decided not to pursue a leadership position at Uber,"" Immelt said on his Twitter account, adding that he had ""immense respect for the company & founders."""
+General Electric,2017-8,{{20170825T170500.346+0000}}U.S. drillers cut oil rigs ahead of Hurricane Harvey - Baker HughesBy Jessica Resnick-Ault
+General Electric,2017-8,second week in a row ahead of Hurricane Harvey and as a more
+General Electric,2017-8,than year-long recovery in drilling slows down in reaction to
+General Electric,2017-8,"Drillers cut four oil rigs in the week to Aug. 25, bringing"
+General Electric,2017-8,Hughes energy services firm said in its report on Friday.
+General Electric,2017-8,That compares with 406 active oil rigs during the same week
+General Electric,2017-8,a year ago. Drillers have added rigs in 56 of the past 65 weeks
+General Electric,2017-8,The rig count is an early indicator of future output.
+General Electric,2017-8,Harvey set to make landfall on the central Texas coast on Friday
+General Electric,2017-8,potentially the biggest storm to hit the mainland United States
+General Electric,2017-8,Harvey could also bring flooding to inland shale oil fields
+General Electric,2017-8,in southern Texas that produce more than 1 million barrels of
+General Electric,2017-8,drilling and shut in some production in the Eagle Ford shale
+General Electric,2017-8,said it was evacuating some staff from production facilities in
+General Electric,2017-8,at $47.64 a barrel as the Gulf Coast energy hub braced for the
+General Electric,2017-8,hurricane but were down for the week as the market has been
+General Electric,2017-8,per day (bpd) in 2017 and a record 9.9 million bpd in 2018 from
+General Electric,2017-8,Tuesday it would exit its underperforming U.S. shale oil and gas
+General Electric,2017-8,"business it acquired at the height of the oil boom,[nL4N1L75D4]"
+General Electric,2017-8,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-8,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-8,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-8,BRIEF-Miracle Automation Engineering's unit in supply agreement with General Electric - Reuters News
+General Electric,2017-8,{{20170824T100110.629+0000}}BRIEF-Miracle Automation Engineering's unit in supply agreement with General ElectricAug 24 (Reuters) - Miracle Automation Engineering Co Ltd <002009.SZ>
+General Electric,2017-8,* Says Jiangsu unit in agreement to supply wind power system components to General Electric Co's renewable energy subsidiary
+General Electric,2017-8,"{{20170824T060906.354+0000}}Swiss stocks - Factors to watch on Aug 24ZURICH, Aug 24 (Reuters) - The Swiss blue-chip SMI <.SSMI> was seen opening slightly lower at 8,954 points on Thursday, according to premarket indications by bank Julius Baer ."
+General Electric,2017-8,The following are some of the main factors expected to affect Swiss stocks:
+General Electric,2017-8,"General Electric has resumed negotiations to sell its industrial solutions business to Swiss engineering company ABB, after the U.S. industrial conglomerate moderated its price expectations, people familiar with the matter said. GE is entertaining the possibility of selling its industrial solutions business for a little over $2 billion after initially hoping for more than $3 billion, four sources said this week. [nL8N1L95US]"
+General Electric,2017-8,"Switzerland will not relax regulations for its biggest banks but will look to reduce complexity for smaller lenders, the head of Swiss financial watchdog FINMA, Mark Branson, said on Wednesday. [nL8N1L94GU]"
+General Electric,2017-8,"Novartis said its drug Kisqali (ribociclib) received European Union approval as first-line treatment for a tough-to-treat breast cancer, bolstering the Swiss drugmaker's bid to challenge rival Pfizer's Ibrance. [nFWN1LA01M]"
+General Electric,2017-8,"The U.S. Food and Drug Administration granted priority review to Roche's emicizumab for haemophilia A with inhibitors, based on positive results of a phase III study. The FDA is expected to make a decision on approval by February 23, 2018, Roche said. [nFWN1LA016]"
+General Electric,2017-8,* Actelion: Johnson & Johnson's Global Actelion Integration Officer told Swiss TV the integration process would likely take two to three years and that the merger had not led to an outflow of staff at Actelion.
+General Electric,2017-8,"* Vontobel said regulatory authorities had approved its new shareholder structure, initially announced in November 2016, notably the creation of a shareholder pool combining 50.7 percent of votes. [VONN.S]"
+General Electric,2017-8,* Swiss Prime Site's half-year profit fell to 141 million Swiss francs ($146.05 million) from 145.9 million francs the year before. [SPSN.S]
+General Electric,2017-8,* Sunrise increased its full-year earnings guidance after net income more than doubled in the second quarter to 27 million francs. [SRCG.S]
+General Electric,2017-8,* VAT Group [VACN.S] expects roughly 30 percent sales growth in 2017 after order intake rose 45 percent in the first six month. It posted net income of 59.5 million francs for the period. [VACN.S]
+General Electric,2017-8,"* Implenia expects earnings before interest and tax, business units to come in at just under 100 million francs this year after earnings fell during the first half on Norwegian portfolio adjustments and claims from the ongoing Letzigrund Stadium court case. [IMPN.S]"
+General Electric,2017-8,* Liechtensteinische Landesbank's half-year net profit rose 39.4 percent to 60 million francs. [LLBN.S]
+General Electric,2017-8,* Thurguaer Kantonalbank saw net income rise 8.1 percent to 71.9 million francs during the first half-year but expects a lower business performance for full-year 2017 after what it called a very good prior year. [TKBP.S]
+General Electric,2017-8,"* Myriad Group intends to decide before end-2017 about a possible delisting from the SIX exchange after further review following the completion of a rights issue. The group expects further sales declines from existing products and services, to be compensated by new revenues in 2018 and leading back to revenue growth in 2019. [MYRN.S]"
+General Electric,2017-8,* Komax Holding expects second-half results to improve over a 18.7 percent group profit fall and 0.8 percent revenue fall in the first six months. [KOMN.S]
+General Electric,2017-8,* Perrot Duval expects slight sales growth during its current reporting year after net profit for the year ended April 30 rose to 1.5 million francs and turnover rose 6 percent to 46.4 million francs. [PEDU.S]
+General Electric,2017-8,* Warteck Invest saw consolidated net income fall 5.6 percent to 6.6 million francs after negative effects from reevaluating its portfolio. [WARN.S]
+General Electric,2017-8,"* Sika acquired ABC sealants, a leading Turkish sealants and adhesives maker. [SIK.S]"
+General Electric,2017-8,* Swiss industrial orders for the second quarter are due at 0715 GMT
+General Electric,2017-8,"GE, ABB restart talks over industrial solutions deal -sources - Reuters News"
+General Electric,2017-8,"{{20170823T222229.808+0000}}GE, ABB restart talks over industrial solutions deal -sourcesBy Greg Roumeliotis and Alwyn Scott"
+General Electric,2017-8,"Aug 23 (Reuters) - General Electric Co has resumed negotiations to sell its industrial solutions business to Swiss engineering company ABB Ltd , after the U.S. industrial conglomerate moderated its price expectations, people familiar with the matter said."
+General Electric,2017-8,"The move underscores the determination of John Flannery, who took over from Jeffrey Immelt as GE's chief executive on Aug. 1, to continue to divest non-core assets, as he carries out a review of the company's portfolio."
+General Electric,2017-8,"GE is entertaining the possibility of selling its industrial solutions business for a little over $2 billion after initially hoping for more than $3 billion, four sources said this week. The talks with ABB had ended last month over price disagreements."
+General Electric,2017-8,"There is no certainty of a deal and another bidder could still emerge, the sources said. However, French electrical component and energy management group Schneider Electric SA , which Reuters reported in April was vying for the GE unit, has since lost interest, the sources added."
+General Electric,2017-8,"The sources asked not to be identified because the negotiations are confidential. GE and ABB declined to comment, while Schneider Electric did not immediately respond to a request for comment."
+General Electric,2017-8,"GE's industrial solutions business offers circuit breakers, relays, panel boards and other industrial electrical equipment for several markets, including the healthcare, mining, renewable energy, telecommunication, construction and data center sectors."
+General Electric,2017-8,"GE, which makes everything from power plants and jet engines to medical scanners and locomotives, has been reviewing its portfolio after divesting its finance, appliances and NBCUniversal units in recent years. Nelson Peltz's activist hedge fund Trian Fund Management LP has also been pressuring GE to cut costs and focus on its core industrial businesses."
+General Electric,2017-8,"Last month, Schneider Electric said it would acquire automatic transfer switch maker Asco Power Technologies for $1.25 billion from Vertiv, the former network power business of Emerson Electric Co that is now owned by private equity firm Platinum Equity LLC."
+General Electric,2017-8,"That deal eliminated Schneider Electric as a potential buyer for GE's industrial solutions business, because such a deal would face significant antitrust hurdles, according to the sources."
+General Electric,2017-8,"ABB Chief Executive Ulrich Spiesshofer has been under pressure to tackle lower profitability at the Swiss engineering company, after higher raw material prices and overcapacity issues dented its latest quarterly earnings. [nL5N1KB0FK]"
+General Electric,2017-8,RPT-Wind turbine tie-ups under pressure as sector awaits more deals - Reuters News
+General Electric,2017-8,"{{20170823T041059.765+0000}}RPT-Wind turbine tie-ups under pressure as sector awaits more deals* Siemens Gamesa, Nordex underperform following tie-ups"
+General Electric,2017-8,"FRANKFURT, Aug 22 (Reuters) - A sell-off in shares of recently merged wind turbine makers highlights the growing speed at which competition in the sector is heating up, raising expectations for more deals in the quest for scale."
+General Electric,2017-8,"In the latest sign of the squeeze, Siemens Gamesa last week said it would cut 600 staff, less than a month after it revealed third-quarter operating profit had dwindled by a fifth, partly due to India's shift to auctions from guaranteed tariffs. [nS3N1K802D]"
+General Electric,2017-8,"The wind power industry, growing steadily but still largely reliant on state support, has witnessed a number of large M&A deals in recent years that were triggered by a steep drop in turbine prices, down a quarter since 2010."
+General Electric,2017-8,"General Electric beefed up its wind business with the takeover of France's Alstom, Germany's Nordex snapped up the turbine unit of Spain's Acciona and Siemens merged its wind division with rival Gamesa."
+General Electric,2017-8,"The latter created the world's No.2 player, with a combined market share of 14 percent last year, still behind Danish sector leader Vestas but overtaking GE, according to consultancy MAKE. Nordex ranks sixth."
+General Electric,2017-8,"Followed by the usual mix of job cuts and the replacement of top management, these deals come at a time the industry is moving towards an auction-based system that favours those who can bid at the lowest price, not those busy with integration."
+General Electric,2017-8,"""Mergers are always difficult. And if it's companies from two different cultures it's not going to get easier,"" said Thomas Deser, senior portfolio manager at Union Investment, a shareholder of Siemens Gamesa."
+General Electric,2017-8,"""The introduction of auctions has led to a significant price erosion that has triggered concerns about margins."""
+General Electric,2017-8,"Significant share price declines also suggest that the deals were too expensive. Since the transactions were publicly announced in October 2015 and June 2016, respectively, Siemens Gamesa's stock has declined by about a quarter, while Nordex's has more than halved."
+General Electric,2017-8,"""Both companies have their own individual problems in certain markets. But it's also true that they both have to manage a merger which is a burden,"" a person who worked on one of the deals said."
+General Electric,2017-8,"Rival Vestas, in contrast, has seen its shares gain by about two thirds since late 2015."
+General Electric,2017-8,"Before the advent of auctions, wind farm developers could rely on feed-in tariffs that were guaranteed by law for as much as two decades, which critics say prevented the industry from becoming cost-competitive more quickly."
+General Electric,2017-8,"Nordex, which suffered a major loss of investor confidence earlier this year after slashing its mid-term outlook, has also flagged further job cuts, saying business in Europe contracted sharply in the first half of 2017. [nFWN1KP07Z]"
+General Electric,2017-8,"""Wind is now becoming a really mature market. Parties now have to prove that they are the most efficient,"" said Danny van Doesburg, senior portfolio manager at APG Asset Management, a shareholder in Siemens, which owns 59 percent of Siemens Gamesa."
+General Electric,2017-8,"""The time you could hide in a project is over,"" he added."
+General Electric,2017-8,"In April, Germany's EnBW became the first project developer to say it would be able to build offshore wind parks -- the most expensive renewable energy source -- without any government subsidies. [nL8N1HL36G]"
+General Electric,2017-8,"That, along with recent ultra-low bids for onshore wind in Turkey, will force equipment makers to gain even more scale and seek more deal opportunities, afraid they might fall behind or go down otherwise, analysts and M&A sources said."
+General Electric,2017-8,"""We strongly believe the global... market will consolidate further, putting smaller players such as Nordex at risk of being marginalized,"" Barclays analysts wrote earlier this month."
+General Electric,2017-8,"Sources that have worked on the two German-Spanish tie-ups said that Nordex and smaller German peer Senvion were particularly exposed to become takeover targets themselves, pointing to their relatively small size."
+General Electric,2017-8,"At an EV/EBITDA multiple of 5 and 4 times, respectively -- a key indicator for M&A deals -- both groups look cheap compared to sector leaders Vestas and Siemens Gamesa, which trade between 7 and 8 times."
+General Electric,2017-8,"Acciona, which became Nordex's largest shareholder as part of the deal and now holds 29.9 percent, will likely make an offer for the rest once a three-year lock-up period ends next year, the sources said."
+General Electric,2017-8,"""We currently see no need for us to consolidate further,"" a spokesman for Nordex said. A spokesman for Senvion said that while the group saw ""enormous consolidation pressure"" it was working to implement its future strategy."
+General Electric,2017-8,"Acciona and private equity firm Centerbridge, Senvion's majority owner, both declined to comment."
+General Electric,2017-8,Wind turbine tie-ups under pressure as sector awaits more deals - Reuters News
+General Electric,2017-8,"{{20170822T150447.735+0000}}Wind turbine tie-ups under pressure as sector awaits more deals* Siemens Gamesa, Nordex underperform following tie-ups"
+General Electric,2017-8,"FRANKFURT, Aug 22 (Reuters) - A sell-off in shares of recently merged wind turbine makers highlights the growing speed at which competition in the sector is heating up, raising expectations for more deals in the quest for scale."
+General Electric,2017-8,"In the latest sign of the squeeze, Siemens Gamesa last week said it would cut 600 staff, less than a month after it revealed third-quarter operating profit had dwindled by a fifth, partly due to India's shift to auctions from guaranteed tariffs. [nS3N1K802D]"
+General Electric,2017-8,"The wind power industry, growing steadily but still largely reliant on state support, has witnessed a number of large M&A deals in recent years that were triggered by a steep drop in turbine prices, down a quarter since 2010."
+General Electric,2017-8,"General Electric beefed up its wind business with the takeover of France's Alstom, Germany's Nordex snapped up the turbine unit of Spain's Acciona and Siemens merged its wind division with rival Gamesa."
+General Electric,2017-8,"The latter created the world's No.2 player, with a combined market share of 14 percent last year, still behind Danish sector leader Vestas but overtaking GE, according to consultancy MAKE. Nordex ranks sixth."
+General Electric,2017-8,"Followed by the usual mix of job cuts and the replacement of top management, these deals come at a time the industry is moving towards an auction-based system that favours those who can bid at the lowest price, not those busy with integration."
+General Electric,2017-8,"""Mergers are always difficult. And if it's companies from two different cultures it's not going to get easier,"" said Thomas Deser, senior portfolio manager at Union Investment, a shareholder of Siemens Gamesa."
+General Electric,2017-8,"""The introduction of auctions has led to a significant price erosion that has triggered concerns about margins."""
+General Electric,2017-8,"Significant share price declines also suggest that the deals were too expensive. Since the transactions were publicly announced in October 2015 and June 2016, respectively, Siemens Gamesa's stock has declined by about a quarter, while Nordex's has more than halved."
+General Electric,2017-8,"""Both companies have their own individual problems in certain markets. But it's also true that they both have to manage a merger which is a burden,"" a person who worked on one of the deals said."
+General Electric,2017-8,"Rival Vestas, in contrast, has seen its shares gain by about two thirds since late 2015."
+General Electric,2017-8,"Before the advent of auctions, wind farm developers could rely on feed-in tariffs that were guaranteed by law for as much as two decades, which critics say prevented the industry from becoming cost-competitive more quickly."
+General Electric,2017-8,"Nordex, which suffered a major loss of investor confidence earlier this year after slashing its mid-term outlook, has also flagged further job cuts, saying business in Europe contracted sharply in the first half of 2017. [nFWN1KP07Z]"
+General Electric,2017-8,"""Wind is now becoming a really mature market. Parties now have to prove that they are the most efficient,"" said Danny van Doesburg, senior portfolio manager at APG Asset Management, a shareholder in Siemens, which owns 59 percent of Siemens Gamesa."
+General Electric,2017-8,"""The time you could hide in a project is over,"" he added."
+General Electric,2017-8,"In April, Germany's EnBW became the first project developer to say it would be able to build offshore wind parks -- the most expensive renewable energy source -- without any government subsidies. [nL8N1HL36G]"
+General Electric,2017-8,"That, along with recent ultra-low bids for onshore wind in Turkey, will force equipment makers to gain even more scale and seek more deal opportunities, afraid they might fall behind or go down otherwise, analysts and M&A sources said."
+General Electric,2017-8,"""We strongly believe the global... market will consolidate further, putting smaller players such as Nordex at risk of being marginalized,"" Barclays analysts wrote earlier this month."
+General Electric,2017-8,"Sources that have worked on the two German-Spanish tie-ups said that Nordex and smaller German peer Senvion were particularly exposed to become takeover targets themselves, pointing to their relatively small size."
+General Electric,2017-8,"At an EV/EBITDA multiple of 5 and 4 times, respectively -- a key indicator for M&A deals -- both groups look cheap compared to sector leaders Vestas and Siemens Gamesa, which trade between 7 and 8 times."
+General Electric,2017-8,"Acciona, which became Nordex's largest shareholder as part of the deal and now holds 29.9 percent, will likely make an offer for the rest once a three-year lock-up period ends next year, the sources said."
+General Electric,2017-8,"""We currently see no need for us to consolidate further,"" a spokesman for Nordex said. A spokesman for Senvion said that while the group saw ""enormous consolidation pressure"" it was working to implement its future strategy."
+General Electric,2017-8,"Acciona and private equity firm Centerbridge, Senvion's majority owner, both declined to comment."
+General Electric,2017-8,BRIEF-Port of Los Angeles and GE Transportation expand commercial agreements worth up to $12 million - Reuters News
+General Electric,2017-8,{{20170821T132743.540+0000}}BRIEF-Port of Los Angeles and GE Transportation expand commercial agreements worth up to $12 millionAug 21 (Reuters) - General Electric Co
+General Electric,2017-8,* Port of Los Angeles and GE Transportation build on early success of pilot with commercial agreements worth up to $12 million
+General Electric,2017-8,RPT-Tokyo Stock Exchange hopes new entrants can revive stagnant solar trust markets - Reuters News
+General Electric,2017-8,{{20170820T220001.890+0000}}RPT-Tokyo Stock Exchange hopes new entrants can revive stagnant solar trust markets(Repeats earlier story for wider readership with no change to text.)
+General Electric,2017-8,"TOKYO, Aug 18 (Reuters) - The Tokyo Stock Exchange's (TSE) two-year old infrastructure market hopes to get a badly needed boost for its listed solar power trusts as two new entrants plan to start up as early as this year."
+General Electric,2017-8,The Tokyo Stock Exchange's (TSE) solar power trust market has so far drawn little interest as investors prefer private funds because the public trusts' tax benefits are limited.
+General Electric,2017-8,"Since the TSE created its infrastructure market in 2015, only three solar power trusts have listed with a combined value of $180 million."
+General Electric,2017-8,"""We don't have a wider range of investors in the market,"" said Takumi Hayase, vice president of the TSE's new listings. ""The market needs to be much bigger for institutional investors."""
+General Electric,2017-8,"Now, TSE is hoping that two new trusts will bring fresh capital."
+General Electric,2017-8,"The Japanese unit of Canadian Solar Inc and electricity wholesaler Itochu Enex Co <8133.T>, have set up asset management firms in preparation to list investment trusts packaging their assets, according to a document from Japan's land ministry."
+General Electric,2017-8,Officials from both Canadian Solar and Itochu Enex declined to comment on their listing plans.
+General Electric,2017-8,"The lack of interest in the solar trusts is at odds with Japan's soaring solar power capacity, which has soared from virtually zero at the start of the decade to over 40,000 gigawatt-hours."
+General Electric,2017-8,"The country plans to generate 24 percent of its power from renewables by 2030, up from 14.6 percent in 2015, according to the Ministry of Economy, Trade and Industry."
+General Electric,2017-8,"The sluggish interest in its solar trusts are linked to its tax rules, investors said."
+General Electric,2017-8,"The trusts are exempt from corporate taxes for 20 years. In return, they are required to pay 90 percent of their profits to investors, resulting in higher dividends than ordinary stocks."
+General Electric,2017-8,"However, a Tokyo-based fund manager, who did not want to be named because he was not authorized to speak to the media, said it was risky to invest in solar trusts because profits could drop significantly after the tax perk expires."
+General Electric,2017-8,"""Various restrictions on the tax system is one of the factors that is limiting the growth of infrastructure trusts,"" said Masanori Sato, head of the banking and structured finance group at law firm Mori Hamada & Matsumoto."
+General Electric,2017-8,"So far, the three solar trusts that have listed on the TSE market - Takara Leben Infrastructure Fund Inc <9281.T>, Ichigo Green Infrastructure Investment Corp <9282.T>, and Renewable Japan Energy Infrastructure Fund Inc <9283.T> - have mainly drawn interest from individual investors."
+General Electric,2017-8,"Two of the trusts are trading below their initial public offering prices, while Ichigo Green is trading 0.5 percent above the IPO price as of Friday."
+General Electric,2017-8,"Many investors like solar projects because they offer stable long-term returns and benefit from government subsidies, so-called feed-in tariffs that guarantee revenues."
+General Electric,2017-8,"""Pension fund managers want to secure stable returns, so we hold assets long-term and we do not need to seek a liquid market,"" said Takeshi Ito, a senior portfolio manager for Aisin Employees' Pension Funds."
+General Electric,2017-8,"Yet so far, investors like Nippon Life Insurance have preferred buying into private funds that not only offer annual dividends but will also typically repay the initial investment once the fund matures."
+General Electric,2017-8,Nippon Life in June pledged 10 billion yen ($91.50 million) to a fund that General Electric is raising to invest in solar power plants in Japan.
+General Electric,2017-8,"Akitoshi Yamada, deputy general manager for Nippon Life's alternative investment department, said that GE's fund would deliver 5.5 percent annual returns over the next 25 years."
+General Electric,2017-8,"""We have not considered investing in public trusts trading on the TSE yet because for now we seek lower correlations with the stock and bond market when we invest in infrastructure,"" said Yamada."
+General Electric,2017-8,Abu Dhabi signs with GE and Spain's TSK for Oman's first big wind farm  - Reuters News
+General Electric,2017-8,"{{20170820T112449.161+0000}}Abu Dhabi signs with GE and Spain's TSK for Oman's first big wind farm DUBAI, Aug 20 (Reuters) - Abu Dhabi renewable energy company Masdar has signed a contract with General Electric and Spain's TSK to build Oman's first large-scale wind farm in Dhofar, United Arab Emirates state news agency WAM reported on Sunday."
+General Electric,2017-8,"GE will provide the 13 turbines for the 50 megawatt wind farm in the south of the country while TSK will build other parts of the facility, which is being financed by aid from the Abu Dhabi government, WAM said."
+General Electric,2017-8,"WAM did not give a value for the project or say when it would be completed, but Oman's state-owned Rural Areas Electricity Co said last year that construction was expected to cost $125 million."
+General Electric,2017-8,{{20170818T184336.173+0000}}U.S. drillers cut oil rigs for second week in three - Baker HughesBy Jessica Resnick-Ault
+General Electric,2017-8,"second week in three, data showed on Friday, with drillers"
+General Electric,2017-8,"Drillers cut five oil rigs in the week to Aug. 18, bringing"
+General Electric,2017-8,Hughes energy services firm said in its report on Friday.
+General Electric,2017-8,That compares with 406 active oil rigs during the same week
+General Electric,2017-8,a year ago. Drillers have added rigs in 56 of the past 64 weeks
+General Electric,2017-8,The rig count is an early indicator of future output.
+General Electric,2017-8,per day (bpd) in 2017 and a record 9.9 million bpd in 2018 from
+General Electric,2017-8,be higher than the near $48.50 per barrel range where they are
+General Electric,2017-8,plan to spend much more this year than last year.
+General Electric,2017-8,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-8,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-8,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-8,Tokyo Stock Exchange hopes new entrants can revive stagnant solar trust markets - Reuters News
+General Electric,2017-8,{{20170818T064041.082+0000}}Tokyo Stock Exchange hopes new entrants can revive stagnant solar trust markets* TSE struggles to attract investors to solar power trusts
+General Electric,2017-8,"TOKYO, Aug 18 (Reuters) - The Tokyo Stock Exchange's (TSE) two-year old infrastructure market hopes to get a badly needed boost for its listed solar power trusts as two new entrants plan to start up as early as this year."
+General Electric,2017-8,The Tokyo Stock Exchange's (TSE) solar power trust market has so far drawn little interest as investors prefer private funds because the public trusts' tax benefits are limited.
+General Electric,2017-8,"Since the TSE created its infrastructure market in 2015, only three solar power trusts have listed with a combined value of $180 million."
+General Electric,2017-8,"""We don't have a wider range of investors in the market,"" said Takumi Hayase, vice president of the TSE's new listings. ""The market needs to be much bigger for institutional investors."""
+General Electric,2017-8,"Now, TSE is hoping that two new trusts will bring fresh capital."
+General Electric,2017-8,"The Japanese unit of Canadian Solar Inc and electricity wholesaler Itochu Enex Co <8133.T>, have set up asset management firms in preparation to list investment trusts packaging their assets, according to a document from Japan's land ministry."
+General Electric,2017-8,Officials from both Canadian Solar and Itochu Enex declined to comment on their listing plans.
+General Electric,2017-8,"The lack of interest in the solar trusts is at odds with Japan's soaring solar power capacity, which has soared from virtually zero at the start of the decade to over 40,000 gigawatt-hours."
+General Electric,2017-8,"The country plans to generate 24 percent of its power from renewables by 2030, up from 14.6 percent in 2015, according to the Ministry of Economy, Trade and Industry."
+General Electric,2017-8,"The sluggish interest in its solar trusts are linked to its tax rules, investors said."
+General Electric,2017-8,"The trusts are exempt from corporate taxes for 20 years. In return, they are required to pay 90 percent of their profits to investors, resulting in higher dividends than ordinary stocks."
+General Electric,2017-8,"However, a Tokyo-based fund manager, who did not want to be named because he was not authorized to speak to the media, said it was risky to invest in solar trusts because profits could drop significantly after the tax perk expires."
+General Electric,2017-8,"""Various restrictions on the tax system is one of the factors that is limiting the growth of infrastructure trusts,"" said Masanori Sato, head of the banking and structured finance group at law firm Mori Hamada & Matsumoto."
+General Electric,2017-8,"So far, the three solar trusts that have listed on the TSE market - Takara Leben Infrastructure Fund Inc <9281.T>, Ichigo Green Infrastructure Investment Corp <9282.T>, and Renewable Japan Energy Infrastructure Fund Inc <9283.T> - have mainly drawn interest from individual investors."
+General Electric,2017-8,"Two of the trusts are trading below their initial public offering prices, while Ichigo Green is trading 0.5 percent above the IPO price as of Friday."
+General Electric,2017-8,"Many investors like solar projects because they offer stable long-term returns and benefit from government subsidies, so-called feed-in tariffs that guarantee revenues."
+General Electric,2017-8,"""Pension fund managers want to secure stable returns, so we hold assets long-term and we do not need to seek a liquid market,"" said Takeshi Ito, a senior portfolio manager for Aisin Employees' Pension Funds."
+General Electric,2017-8,"Yet so far, investors like Nippon Life Insurance have preferred buying into private funds that not only offer annual dividends but will also typically repay the initial investment once the fund matures."
+General Electric,2017-8,Nippon Life in June pledged 10 billion yen ($91.50 million) to a fund that General Electric is raising to invest in solar power plants in Japan.
+General Electric,2017-8,"Akitoshi Yamada, deputy general manager for Nippon Life's alternative investment department, said that GE's fund would deliver 5.5 percent annual returns over the next 25 years."
+General Electric,2017-8,"""We have not considered investing in public trusts trading on the TSE yet because for now we seek lower correlations with the stock and bond market when we invest in infrastructure,"" said Yamada."
+General Electric,2017-8,"EXCLUSIVE-U.S. SEC officials' holdings, legal work, pose potential conflicts - Reuters News"
+General Electric,2017-8,"{{20170817T183402.240+0000}}EXCLUSIVE-U.S. SEC officials' holdings, legal work, pose potential conflictsBy Pete Schroeder"
+General Electric,2017-8,"WASHINGTON, Aug 17 (Reuters) - Two lawyers appointed to senior jobs at the U.S. Securities and Exchange Commission have ties to major companies including financial firms Goldman Sachs Group Inc and Wells Fargo & Co that could complicate efforts to regulate them, according to government documents viewed by Reuters."
+General Electric,2017-8,"Steven Peikin, the new co-head of enforcement at the SEC, held as much as $9 million worth of stock in dozens of blue-chip companies as of Aug. 8, according to a disclosure filing obtained through a public records request."
+General Electric,2017-8,"Among them are several large financial firms whose shares Peikin plans to divest, including Goldman, JPMorgan Chase & Co , Citigroup Inc and Intercontinental Exchange Group Inc , according to the filing."
+General Electric,2017-8,He did not indicate plans to offload holdings in non-financial companies such as Apple Inc and General Electric Co .
+General Electric,2017-8,"Peikin also said in paperwork filed with the Office of Government Ethics that he or his former employer, law firm Sullivan & Cromwell, represented several big banks during his time there."
+General Electric,2017-8,"In a separate filing, William Hinman, the SEC's director of corporate finance, said his former law firm, Simpson Thacher & Bartlett, represented big banks as well as technology companies."
+General Electric,2017-8,"Should those companies come before the SEC, potential conflicts of interest could arise."
+General Electric,2017-8,"Having such conflicts is not unusual for senior SEC officials, whose stints at the agency are often bookended by private sector roles. The SEC has stricter rules than other government institutions about conflicts, and a detailed guide on how to handle them during and after roles at the agency."
+General Electric,2017-8,"""Steve and Bill are subject to and complying with all applicable ethics laws, rules, and regulations, and both are working with the agency's ethics counsel as needed,"" SEC spokeswoman Judith Burns said in a statement."
+General Electric,2017-8,Peikin and Hinman had no further comment beyond the SEC's statement.
+General Electric,2017-8,"Peikin is co-head of enforcement alongside Stephanie Avakian, allowing him to recuse himself from matters that present conflicts. [nL1N1J51X3]"
+General Electric,2017-8,"Thomas Sporkin, a partner at Buckley Sandler LLP, who previously led the SEC's Office of Market Intelligence, said that having two enforcement chiefs is ""incredibly valuable"" to avoid conflicts while ensuring a senior official is involved with important cases."
+General Electric,2017-8,"Conflicts of interest have long been a point of contention between those who argue the SEC benefits from hiring people with real-world experience, and critics who say the revolving door makes it impossible to regulate effectively."
+General Electric,2017-8,"That debate has heightened under U.S. President Donald Trump, who has stocked his administration with former business executives, and pledged to slash regulations. In July, SEC Chairman Jay Clayton, who is also a former corporate lawyer, outlined ways he plans to do that at the SEC. [nL1N1K31HZ]"
+General Electric,2017-8,"""Their careers have been representing the industry that they're now supposed to regulate and they're going to bring to the job the mindset of the regulated parties,"" Robert Weissman, president of the liberal watchdog group Public Citizen. ""Their orientation is serving Wall Street, not the public."""
+General Electric,2017-8,"Peikin, 51, and Hinman, 62, are two of the most prominent appointments by Clayton, who faced questions from lawmakers about his own conflicts of interest during a confirmation hearing in March. [nL1N1J51X3]"
+General Electric,2017-8,"While at Sullivan & Cromwell, Peikin represented Goldman and Barclays PLC in investigations involving sanctions violations, rate manipulation and insider trading."
+General Electric,2017-8,"The firm also provided services to JPMorgan, U.S. Bancorp and Wells Fargo & Co while he was there. The SEC is one of several authorities probing Wells Fargo over sales practices that harmed consumers. [nL1N1D322P]"
+General Electric,2017-8,"Peikin said in his disclosure form confidentiality obligations prevented him from disclosing the identity of 18 other former clients, five of whom are the subject of ""pending non-public government investigations."""
+General Electric,2017-8,"Hinman said his former law firm performed work for Goldman Sachs, JPMorgan and Facebook Inc CEO Mark Zuckerberg."
+General Electric,2017-8,"While he was there, Simpson Thacher & Bartlett also represented Chinese e-commerce company Alibaba Group Holding Ltd as well as its affiliate ANT Financial Services Group, which is seeking regulatory approval for a planned purchase of U.S. money transfer company Moneygram International Inc . [nL1N1K222Q]"
+General Electric,2017-8,"Stephen Cohen, the director of Palantir Technologies, which signed a contract worth more than $43 million with the SEC in 2015, was another firm client during Hinman's employment. The contract was for five years, with years two through five being optional, an SEC spokeswoman told Reuters at the time. [nL2N1HC02W]"
+General Electric,2017-8,"BRIEF-GE and AGL to develop Australia's largest wind farm in Coopers Gap, Queensland - Reuters News"
+General Electric,2017-8,"{{20170817T051652.130+0000}}BRIEF-GE and AGL to develop Australia's largest wind farm in Coopers Gap, QueenslandAug 17 (Reuters) - General Electric Co -"
+General Electric,2017-8,"* GE and AGL develop Australia's largest wind farm in Coopers Gap, Queensland"
+General Electric,2017-8,"* GE - agreement with Powering Australian Nenewables Fund (PARF) to supply, install 123 wind turbines for Coopers Gap wind farm project at Cooranga North"
+General Electric,2017-8,"FACTBOX-Trump's manufacturing panel CEOs, companies comment on Charlottesville - Reuters News"
+General Electric,2017-8,"{{20170815T225405.105+0000}}FACTBOX-Trump's manufacturing panel CEOs, companies comment on Charlottesville(Updates with Trumka's resignation)"
+General Electric,2017-8,AFL-CIO President Richard Trumka became the latest to resign
+General Electric,2017-8,on Tuesday after Trump blamed both sides for the violence that
+General Electric,2017-8,"African-American, was the first CEO to leave one of Trump's"
+General Electric,2017-8,"neo-Nazis and the Ku Klux Klan, as ""criminals and thugs,"" bowing"
+General Electric,2017-8,to days of mounting political pressure to condemn such groups
+General Electric,2017-8,Jeff Immelt will remain on the council while he is the
+General Electric,2017-8,"""GE has no tolerance for hate, bigotry or racism, and we"
+General Electric,2017-8,"""There should be no hesitation in condemning hate speech or"
+General Electric,2017-8,"leadership to do the same,"" CEO Brian Krzanich said in a tweet."
+General Electric,2017-8,He later said in a blog post on Intel website that he was
+General Electric,2017-8,"exiting the council ""to call attention to the serious harm our"
+General Electric,2017-8,"""We are saddened by #Charlottesville. There is no place for"
+General Electric,2017-8,"racism or discrimination in this world. We choose love & unity,"""
+General Electric,2017-8,"CEO Kevin Plank, who also left the council, said in a tweet from"
+General Electric,2017-8,culture that respects people of all races and backgrounds. Our
+General Electric,2017-8,in Charlottesville over the weekend have no place in our
+General Electric,2017-8,"society. Not simply because of the violence, but because the"
+General Electric,2017-8,racist ideology at the center of the protests is wrong and must
+General Electric,2017-8,"be condemned in no uncertain terms,"" a company spokesman said in"
+General Electric,2017-8,"""Representing a company with the largest and one of the most"
+General Electric,2017-8,"diverse groups of associates in the U.S., and an even more"
+General Electric,2017-8,"diverse customer base of tens of millions of customers, we"
+General Electric,2017-8,believe we should stay engaged to try to influence decisions in
+General Electric,2017-8,"a positive way and help bring people together,"" Wal-Mart CEO"
+General Electric,2017-8,"responsibility to remain engaged, not as a way to support any"
+General Electric,2017-8,"specific political agenda, but as a way to represent the values"
+General Electric,2017-8,of Our Credo as crucial public policy is discussed and
+General Electric,2017-8,took place in Charlottesville over the weekend - there is no
+General Electric,2017-8,"place for hatred, bigotry and racism in our society,"" a company"
+General Electric,2017-8,"(Reporting by Sophia Kunthara in New York and Natalie Grover,"
+General Electric,2017-8,"BUZZ-U.S. STOCKS ON THE MOVE- Sports retail stocks, Coach, Advance Auto Parts - Reuters News"
+General Electric,2017-8,"{{20170815T173006.552+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Sports retail stocks, Coach, Advance Auto Parts* Eikon search string for individual stock moves: STXBZ"
+General Electric,2017-8,Wall Street was little changed in early afternoon trading on Tuesday as losses
+General Electric,2017-8,in Home Depot and other consumer discretionary stocks limited gains on the S&P
+General Electric,2017-8,"At 13:13 ET, the Dow Jones Industrial Average <.DJI> was down 0.03 percent"
+General Electric,2017-8,BUZZ-Dick's Sporting Goods Inc: Set for near 7-year low [nL4N1L13ZU]
+General Electric,2017-8,"BUZZ-Coach Inc: Slips as Q4 sales, full-year forecast disappoint [nL4N1L13Z4]"
+General Electric,2017-8,BUZZ-Advance Auto Parts Inc: Hits near 4-year low on weak Q2 [nL4N1L14FA]
+General Electric,2017-8,"BUZZ-Photronics Inc: Hits 2-yr low on weak results, CFO departure [nL4N1L141I]"
+General Electric,2017-8,BUZZ-Helios and Matheson Analytics: To buy stake in MoviePass [nL4N1L14E9]
+General Electric,2017-8,BUZZ-Energy Transfer Partners LP: Slides on $1 bln equity offering [nL2N1L10J2]
+General Electric,2017-8,"BRIEF-Crossroads Systems says on August 13, filed voluntary petition for relief"
+General Electric,2017-8,UPDATE 2-TJX among few bright spots in glum U.S. retail sector [nL4N1L146T]
+General Electric,2017-8,BUZZ-Otonomy Inc: Set for best day in a year as JPMorgan upgrades [nL4N1L14DS]
+General Electric,2017-8,UPDATE 2-Transocean to buy Norwegian rig firm Songa Offshore for $1.1 bln
+General Electric,2017-8,BUZZ-Transocean: Record low on deal to buy rival Norwegian driller [nL4N1L14I5]
+General Electric,2017-8,BUZZ-Pandora Media: Permanent CEO appointment music to investors' ears
+General Electric,2017-8,"BUZZ-U.S. STOCKS ON THE MOVE- Coach, Dick's Sporting, Advance Auto Parts - Reuters News"
+General Electric,2017-8,"{{20170815T154554.786+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Coach, Dick's Sporting, Advance Auto Parts* Eikon search string for individual stock moves: STXBZ"
+General Electric,2017-8,Wall Street was little changed in late morning trading on Tuesday as a drop in
+General Electric,2017-8,"At 11:17 ET, the Dow Jones Industrial Average <.DJI> was up 0.05 percent at"
+General Electric,2017-8,"BUZZ-Coach Inc: Slips as Q4 sales, full-year forecast disappoint [nL4N1L13Z4]"
+General Electric,2017-8,BUZZ-Dick's Sporting Goods Inc: Set for near 7-year low [nL4N1L13ZU]
+General Electric,2017-8,BUZZ-Advance Auto Parts Inc: Hits near 4-year low on weak Q2 [nL4N1L14FA]
+General Electric,2017-8,"BUZZ-Photronics Inc: Hits 2-yr low on weak results, CFO departure [nL4N1L141I]"
+General Electric,2017-8,BUZZ-Helios and Matheson Analytics: To buy stake in MoviePass [nL4N1L14E9]
+General Electric,2017-8,"UPDATE 3-Home Depot tops Street on record quarterly sales, raises forecast"
+General Electric,2017-8,BUZZ-Energy Transfer Partners LP: Slides on $1 bln equity offering [nL2N1L10J2]
+General Electric,2017-8,"BRIEF-Crossroads Systems says on August 13, filed voluntary petition for relief"
+General Electric,2017-8,BUZZ-Otonomy Inc: Set for best day in a year as JPMorgan upgrades [nL4N1L14DS]
+General Electric,2017-8,BUZZ-General Electric: Bailing Buffett adds to conglomerate's pain - Reuters News
+General Electric,2017-8,"{{20170815T150155.912+0000}}BUZZ-General Electric: Bailing Buffett adds to conglomerate's pain** General Electric shares down 0.9 pct to $25.12 in Tues trading; stock drops as low as $25.10, lowest point since Oct 2015"
+General Electric,2017-8,"** Warren Buffett's Berkshire Hathaway shed its investment in the industrial conglomerate, Berkshire disclosed late on Mon [nL2N1L01O6]"
+General Electric,2017-8,** GE shares now down 20.5 pct in 2017 vs 8.5 pct rise for S&P 500 industrials sector <.SPLRCI>
+General Electric,2017-8,** Action makes GE the worst-performing stock in Dow Jones Industrial Average <.DJI> this year
+General Electric,2017-8,"** GE shares slumped 2.9 pct on Jul 21, when the co posted a 59-pct decline in Q2 profit and put off an expected cut to 2018 earnings targets until Nov [nL3N1KC3MP]"
+General Electric,2017-8,"** GE's new CEO John Flannery bought nearly $2.7 mln in GE stock, according to a regulatory filing earlier this month, in sign of confidence for the co's outlook [nL1N1KW2HG]"
+General Electric,2017-8,"** Berkshire added a stake in Synchrony Financial , GE's former consumer finance unit; Synchrony shares up 3.5 pct [nL4N1L141R]"
+General Electric,2017-8,{{20170815T043300.735+0000}}PRESS DIGEST - Wall Street Journal - Aug 15Aug 15 (Reuters) - The following are the top stories in the Wall Street Journal. Reuters has not verified these stories and does not vouch for their accuracy.
+General Electric,2017-8,"{{20170814T220044.528+0000}}UPDATE 1-Buffett's Berkshire adds Synchrony, sheds GE(Adds details on holdings, comment, byline)"
+General Electric,2017-8,"NEW YORK, Aug 14 (Reuters) - Warren Buffett's Berkshire Hathaway Inc on Monday said it added a stake in Synchrony Financial , boosting its bet on the credit card industry, and shed its investment in the company's former parent, General Electric Co ."
+General Electric,2017-8,The changes were among those disclosed in Berkshire's quarterly report of its U.S.-listed stock holdings.
+General Electric,2017-8,"Berkshire said it owned 17.5 million shares of Synchrony, a private label credit card issuer split off from GE in 2014, worth about $521 million as of June 30."
+General Electric,2017-8,"It was already the largest investor in American Express Co , owning about one-sixth of that card issuer."
+General Electric,2017-8,"Synchrony shares rose 4.6 percent in after-hours trading, likely reflecting what investors consider Buffett's imprimatur."
+General Electric,2017-8,"Smaller equity investments for Berkshire are normally made by Buffett's deputies, Todd Combs and Ted Weschler, while Buffett focuses on bigger bets such as American Express, Apple Inc and Wells Fargo & Co ."
+General Electric,2017-8,"It is unclear who sold the GE investment, which was worth roughly $315 million at the end of March."
+General Electric,2017-8,Berkshire's assistant did not immediately respond to a request for comment.
+General Electric,2017-8,"Synchrony's share price has yet to recoup the 16 percent decline it suffered on April 28 after it wrote off more soured loans, causing profit for the Stamford, Connecticut-based company to fall short of forecasts."
+General Electric,2017-8,"Berkshire may have viewed that as ""an opportunity to load up,"" Colin Plunkett, a Morningstar Inc analyst who covers Synchrony, said in an email."
+General Electric,2017-8,"He said Synchrony remains undervalued, with a low degree of leverage, and ""really has a big opportunity to return cash to shareholders."""
+General Electric,2017-8,"In the second quarter, Berkshire trimmed its stakes in American Airlines Group Inc , Delta Air Lines Inc and United Continental Holdings Inc , and boosted its stakes in Bank of New York Mellon Corp and General Motors Co ."
+General Electric,2017-8,"It also nearly eliminated a decade-old investment in Wabco Holdings Corp , which supplies commercial vehicle parts."
+General Electric,2017-8,"Berkshire boosted its stake in Liberty Media Corp and reduced its holdings of Sirius XM Holdings Inc , both investments linked to billionaire John Malone."
+General Electric,2017-8,"Buffett and Malone have explored a large investment in U.S. phone company Sprint Corp , people familiar with the matter said last month. [nL4N1K54ZY]"
+General Electric,2017-8,Berkshire Hathaway dissolves share stake in GE - Reuters Investor Briefs
+General Electric,2017-8,{{20170814T210055.868+0000}}Berkshire Hathaway dissolves share stake in GEAug 14 (Reuters) - Berkshire Hathaway Inc <BRKa.N>::Dissolves share stake in GE - SEC filing.Takes share stake of 17.5 million shares in Synchrony Financial - SEC filing.Ups share stake in Bank of New York Mellon Corp by 52.2 percent to 50.2 million shares - SEC filing.Cuts share stake in Sirius XM
+General Electric,2017-8,"{{20170814T203901.472+0000}}Buffett's Berkshire sheds GE, adds SynchronyNEW YORK, Aug 14 (Reuters) - Warren Buffett's Berkshire Hathaway Inc on Monday said it has taken a 17.5 million share stake in Synchrony Financial and shed its investment in the financial services company's former parent, General Electric Co ."
+General Electric,2017-8,"In a regulatory filing detailing its U.S.-listed stock holdings, Berkshire said it owned about $521 million of Synchrony shares as of June 30."
+General Electric,2017-8,"It also reported no holdings of GE, after having reported a roughly $315 million stake as of March 31."
+General Electric,2017-8,Investors follow Berkshire's stock holdings closely to determine what has won or lost Buffett's favor. Smaller equity investments at Berkshire are normally made by Buffett's deputies Todd Combs and Ted Weschler.
+General Electric,2017-8,BRIEF-Sabre names Vish Saoji as chief technology officer - Reuters News
+General Electric,2017-8,{{20170814T203347.270+0000}}BRIEF-Sabre names Vish Saoji as chief technology officerAug 14 (Reuters) - Sabre Corp -
+General Electric,2017-8,BRIEF-Berkshire Hathaway dissolves share stake in GE - Reuters News
+General Electric,2017-8,{{20170814T203309.001+0000}}BRIEF-Berkshire Hathaway dissolves share stake in GEAug 14 (Reuters) - Berkshire Hathaway Inc :
+General Electric,2017-8,* Takes share stake of 17.5 million shares in Synchrony Financial - SEC filing
+General Electric,2017-8,* Ups share stake in Bank of New York Mellon Corp by 52.2 percent to 50.2 million shares - SEC filing
+General Electric,2017-8,* Cuts share stake in Sirius XM Holdings Inc by 20.0 percent to 137.9 million shares - SEC filing
+General Electric,2017-8,"* Change in holdings are as of June 30, 2017 and compared with the previous quarter ended as of March 31, 2017"
+General Electric,2017-8,"BRIEF-GE says ""strongly condemn the violent extremism in Charlottesville""  - Reuters News"
+General Electric,2017-8,"{{20170814T171213.825+0000}}BRIEF-GE says ""strongly condemn the violent extremism in Charlottesville"" Aug 14 (Reuters) - General Electric Co :"
+General Electric,2017-8,"* GE says ""strongly condemn the violent extremism in charlottesville over the weekend"" - spokesperson"
+General Electric,2017-8,* GE says Jeff Immelt will remain on the presidential committee on american manufacturing while he is the chairman of GE- spokesperson
+General Electric,2017-8,BRIEF-GE says Jeff Immelt will remain on Trump's manufacturing council- CNBC - Reuters News
+General Electric,2017-8,{{20170814T165816.905+0000}}BRIEF-GE says Jeff Immelt will remain on Trump's manufacturing council- CNBCAug 14 (Reuters) -
+General Electric,2017-8,"* GE says Jeff Immelt will remain on Trump's manufacturing council, company ""has no tolerance for hate"" - CNBC"
+General Electric,2017-8,Trian Fund Management raises share stake in General Electric - Reuters Investor Briefs
+General Electric,2017-8,* Trian Fund Management raises share stake in General Electric Co by 2.7 percent to 70.9 million shares - sec filing
+General Electric,2017-8,"* Trian Fund Management - change in holdings are as of June 30, 2017 and compared with the previous quarter ended as of March 31, 2017"
+General Electric,2017-8,"Trian cuts Mondelez stake, ups GE holding -SEC filing  - Reuters News"
+General Electric,2017-8,"{{20170811T211725.278+0000}}Trian cuts Mondelez stake, ups GE holding -SEC filing NEW YORK, Aug 11 (Reuters) - Trian Partners cut its stake in snack maker Mondelez International Inc. during the last quarter, and boosted its shares in conglomerate General Electric , according to the activist fund's latest securities filing."
+General Electric,2017-8,"In the second quarter ending June 30, Trian cut its Mondelez stake by 3.9 percent and raised its GE position by 2.7 percent, the filing shows."
+General Electric,2017-8,{{20170811T171024.971+0000}}U.S. drillers add oil rigs for second week in three - Baker HughesAug 11 (Reuters) - U.S. energy companies added oil rigs for
+General Electric,2017-8,"drilling recovery, but the pace of additions has slowed in"
+General Electric,2017-8,recent months as firms cut spending plans in reaction to
+General Electric,2017-8,Drillers added 3 oil rigs in the week to Aug. 11 bringing
+General Electric,2017-8,"the total count up to 768, the most since April 2015. General"
+General Electric,2017-8,That compares with 396 active oil rigs during the same week
+General Electric,2017-8,a year ago. Drillers have added rigs in 56 of the past 63 weeks
+General Electric,2017-8,The rig count is an early indicator of future output.
+General Electric,2017-8,per day (bpd) in 2017 and a record 9.9 million bpd in 2018 from
+General Electric,2017-8,be higher than the near $48.50 per barrel range where they are
+General Electric,2017-8,plan to spend much more this year than last year.
+General Electric,2017-8,the 64 E&Ps it follows planned to increase spending by an
+General Electric,2017-8,"oil and natural gas rigs, to decline through 2017 and 2018. Most"
+General Electric,2017-8,"The current U.S. oil and gas rig count is 949, according to"
+General Electric,2017-8,Baker Hughes. That compares with an average of 509 in 2016 and
+General Electric,2017-8,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-8,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-8,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-8,"{{20170811T165445.784+0000}}FACTBOX-Proposed U.S. nuclear power reactorsAug 11 (Reuters) - The following is a list of proposed U.S. new nuclear plants, reactor"
+General Electric,2017-8,"AP1000 - Advanced Passive 1000 built by Westinghouse Electric, which is majority owned by"
+General Electric,2017-8,ESBWR - Economic Simplified Boiling Water Reactor built by General Electric  and
+General Electric,2017-8,USAPWR - U.S. Advanced Pressurized Water Reactor built by Mitsubishi Heavy Industries Ltd
+General Electric,2017-8,APR-1400 - Advanced Power Reactor-1400 built by the Korea Hydro & Nuclear Power (KHNP)
+General Electric,2017-8,General Electric's new CEO places $2.7 mln bet on company's future - Reuters News
+General Electric,2017-8,"{{20170810T234314.335+0000}}General Electric's new CEO places $2.7 mln bet on company's futureAug 10 (Reuters) - General Electric Co's new Chief Executive Officer John Flannery made a big bet that the industrial company's flagging fortunes will improve, buying nearly $2.7 million in GE stock, according to a regulatory filing."
+General Electric,2017-8,"Flannery bought 103,983 GE shares for his 401(k) account on Tuesday and reported in a filing dated Wednesday. He now has about 615,000 shares worth $15.5 million at Thursday's closing price."
+General Electric,2017-8,"When Flannery, 55, took over from longtime CEO Jeff Immelt on Aug. 1, he told employees he plans to improve GE's performance, which has caused its stock to fall 19 percent this year, even as broad stock indexes advanced."
+General Electric,2017-8,"Investors think the company needs to generate more cash, widen its profit margins and reduce overhead costs, Flannery said in the letter, adding, ""I heard them loud and clear."""
+General Electric,2017-8,Flannery was not available to comment and GE declined to comment on the filing.
+General Electric,2017-8,"Immelt, who remains GE's chairman through year-end, bought 1.2 million shares of GE stock during his 16-year tenure as CEO, during which he focused GE on large industrial businesses such as power generators, renewable energy and aircraft engines while shedding most of GE's finance business along with NBCUniversal and its plastics and appliances units."
+General Electric,2017-8,BRIEF-General Electric Co says Amit Kumar has been promoted to vice president - Reuters News
+General Electric,2017-8,{{20170810T132403.056+0000}}BRIEF-General Electric Co says Amit Kumar has been promoted to vice presidentAug 10 (Reuters) - General Electric Co :
+General Electric,2017-8,"* General Electric Co says John Mansfield joined GE as chief digital officer, GE Aviation"
+General Electric,2017-8,RPT-Some U.S. coding boot camps stumble in a crowded field - Reuters News
+General Electric,2017-8,{{20170810T050002.143+0000}}RPT-Some U.S. coding boot camps stumble in a crowded field(Repeats for additional clients with no changes to text)
+General Electric,2017-8,"SAN FRANCISCO, August 9 (Reuters) - The hype is fading for coding ""boot camps,"" for-profit U.S. schools offering graduates entry into the lucrative world of software development."
+General Electric,2017-8,"Closures are up in a field now jammed with programs promising to teach students in just weeks the skills needed to get hired as professional coders. So far this year, at least eight schools have shut down or announced plans to close in 2017, according to the review website Course Report."
+General Electric,2017-8,"Two pioneers in the sector, San Francisco's Dev Bootcamp and The Iron Yard of Greenville, South Carolina, announced in July that they are being shut down by their corporate parents."
+General Electric,2017-8,"Others, including market leaders like General Assembly, a New York firm that has raised $120 million in venture capital, are shifting their focus to corporate training."
+General Electric,2017-8,"Competition has begun to squeeze out players in a field now crowded with nearly 100 academies in the United States and Canada, more than double the number just three years ago. Many in the industry expect more closures as the space begins to consolidate around dominant schools able to produce top-flight coders."
+General Electric,2017-8,"""Quality is going to win out in this industry, but it's going to be turbulent for a while,"" said Anthony Hughes, chief executive of Tech Elevator, a coding boot camp in Cleveland."
+General Electric,2017-8,"Fed by growing demand for coders and more than $250 million in venture funding, boot camps have mushroomed in recent years. Average tuition is just over $11,000 for a 14-week course, but can climb as high as $24,000 for longer programs, according to Course Report."
+General Electric,2017-8,The training is aimed mainly at professionals looking to switch careers as well as students lacking the money or interest in attending a four-year college.
+General Electric,2017-8,"Some schools have students report to their classrooms; others offer their courses exclusively online. Students are prepared for entry-level technical roles such as junior developers building apps and websites, or as quality assurance engineers sniffing out bugs in code."
+General Electric,2017-8,"Collectively, these boot camps expect to graduate 23,000 students this year, more than double the 10,333 students that graduated in 2015, according to Course Report, which says starting salaries average around $69,000."
+General Electric,2017-8,The first coding boot camps began to appear in 2011. The U.S. job market was still suffering from the Great Recession while demand for software engineers was growing. Many workers were eager to retrain for high-paying technology jobs.
+General Electric,2017-8,"Coding boot camps also got the attention of Kaplan Inc, the Fort Lauderdale, Florida, test-prep and vocational education company; and Apollo Education Group Inc, the company that operates the University of Phoenix. Kaplan bought Dev Bootcamp in 2014 while Apollo acquired The Iron Yard the following year."
+General Electric,2017-8,"But those two schools struggled under new ownership. Their cost structures were higher than those of mom-and-pop competitors but they didn't have big bankrolls to subsidize them like some venture-backed schools, people familiar with the situation said."
+General Electric,2017-8,"Despite continued growth in enrollment, Dev Bootcamp said in an early July statement that it could not ""find a viable business model"" that could cover ""the critical day-to-day costs of running our campuses."" The school is slated to shut down by year-end."
+General Electric,2017-8,"One week later, The Iron Yard, which had offered courses in 22 cities, announced it, too, would close."
+General Electric,2017-8,"""In considering the current environment, the board of The Iron Yard has made the difficult decision to cease operations at all campuses after teaching out remaining summer cohorts,"" Iron Yard said in a statement."
+General Electric,2017-8,Other boot camp owners say their schools are thriving by delivering exactly what was promised.
+General Electric,2017-8,"Flatiron School, which has raised $14.5 million in venture funding, boasts a job placement rate of 97 percent, with an average full-time starting salary of almost $76,000 a year. Flatiron School's outcomes are audited by a Massachusetts accounting firm, according to the school."
+General Electric,2017-8,"""If you aren't putting out real outcomes, students are going to be skeptical,"" said Adam Enbar, chief executive of Flatiron School."
+General Electric,2017-8,"Zach Newburgh, 28, a Flatiron online student from New York, credits the school for helping him land a position as a junior web developer at Blackrock Inc, the New York investment firm."
+General Electric,2017-8,"""I was looking for a job where I'd be able to code every day at a Fortune 500 company,"" said Newburgh, who said he received multiple job offers. ""With Flatiron, not only did they give me the skills necessary to be successful, they were a pipeline into Blackrock."""
+General Electric,2017-8,Other students say getting a job was much tougher than they expected.
+General Electric,2017-8,"Chase Thomas, 31, a resident of Walnut Creek, California, said it took him six months to land a position after spending $25,000 on courses with Thinkful, an online coding school, and General Assembly, where he completed a 10-week course at the company's San Francisco location."
+General Electric,2017-8,"Now a quality assurance engineer at the software vendor Workday, Thomas said he's happy he took the classes. But he said he wouldn't recommend that route for everyone, especially if it involves taking on debt, like he did. ""Boot camps are seen as a ticket to the middle class. Everyone can do it, but the key is: do you want to?"" Thomas said. ""I love it, but it's not for everybody."""
+General Electric,2017-8,"Some bigger, venture-backed boot camp startups, meanwhile, are shifting their attention to the corporate training market."
+General Electric,2017-8,"Denver-based Galvanize, for example, which has raised $63 million in venture capital, says it has begun helping corporate clients such as International Business Machines Corp and General Electric Co hire engineers and re-train their staffs with coding skills the companies need."
+General Electric,2017-8,"Corporate training has grown to one-third of its revenue, up from 10 percent, in just six months, and could ""easily"" surpass the company's consumer business in the near future, said Lawrence Mandes, co-founder and chief revenue officer of Galvanize."
+General Electric,2017-8,"General Assembly serves the likes of Adobe Systems Inc , AT&T Inc and Target Corp. Smaller players like Hack Reactor and Hackbright Academy are also placing a greater focus on the corporate market."
+General Electric,2017-8,"Boulder, Colorado-based RefactorU decided in December to pivot to running boot camps for other education providers, according to Sean Daken, who founded the school in 2013. But he said those clients came far more slowly than expected and a cash crunch ensued."
+General Electric,2017-8,"""The sale cycles are very, very long with those organizations,"" Daken said."
+General Electric,2017-8,He said he let all of his employees go in April.
+General Electric,2017-8,REFILE-Some U.S. coding boot camps stumble in a crowded field - Reuters News
+General Electric,2017-8,"{{20170809T235001.580+0000}}REFILE-Some U.S. coding boot camps stumble in a crowded field(Refiles to add dropped word ""to"" in second paragraph)"
+General Electric,2017-8,"SAN FRANCISCO, Aug 9 (Reuters) - The hype is fading for coding ""boot camps,"" for-profit U.S. schools offering graduates entry into the lucrative world of software development."
+General Electric,2017-8,"Closures are up in a field now jammed with programs promising to teach students in just weeks the skills needed to get hired as professional coders. So far this year, at least eight schools have shut down or announced plans to close in 2017, according to the review website Course Report."
+General Electric,2017-8,"Two pioneers in the sector, San Francisco's Dev Bootcamp and The Iron Yard of Greenville, South Carolina, announced in July that they are being shut down by their corporate parents."
+General Electric,2017-8,"Others, including market leaders like General Assembly, a New York firm that has raised $120 million in venture capital, are shifting their focus to corporate training."
+General Electric,2017-8,"Competition has begun to squeeze out players in a field now crowded with nearly 100 academies in the United States and Canada, more than double the number just three years ago. Many in the industry expect more closures as the space begins to consolidate around dominant schools able to produce top-flight coders."
+General Electric,2017-8,"""Quality is going to win out in this industry, but it's going to be turbulent for a while,"" said Anthony Hughes, chief executive of Tech Elevator, a coding boot camp in Cleveland."
+General Electric,2017-8,"Fed by growing demand for coders and more than $250 million in venture funding, boot camps have mushroomed in recent years. Average tuition is just over $11,000 for a 14-week course, but can climb as high as $24,000 for longer programs, according to Course Report."
+General Electric,2017-8,The training is aimed mainly at professionals looking to switch careers as well as students lacking the money or interest in attending a four-year college.
+General Electric,2017-8,"Some schools have students report to their classrooms; others offer their courses exclusively online. Students are prepared for entry-level technical roles such as junior developers building apps and websites, or as quality assurance engineers sniffing out bugs in code."
+General Electric,2017-8,"Collectively, these boot camps expect to graduate 23,000 students this year, more than double the 10,333 students that graduated in 2015, according to Course Report, which says starting salaries average around $69,000."
+General Electric,2017-8,The first coding boot camps began to appear in 2011. The U.S. job market was still suffering from the Great Recession while demand for software engineers was growing. Many workers were eager to retrain for high-paying technology jobs.
+General Electric,2017-8,"Dev Bootcamp, launched in 2012, was among the first to offer intensive courses teaching web development coding languages such as JavaScript and Ruby. The popular classes soon spawned competitors such as Hack Reactor, Hackbright and App Academy."
+General Electric,2017-8,"Investors quickly saw the potential for expanding the concept beyond the San Francisco area to burgeoning tech communities around the country. Venture firms including New York-based Thrive Capital put funding into New York's Flatiron School and Codecademy. Jeff Bezos, chief executive of Amazon.com Inc , was an investor in General Assembly's $4.5 million Series A and $10 million Series B funding rounds in 2011 and 2012."
+General Electric,2017-8,"Coding boot camps also got the attention of Kaplan Inc, the Fort Lauderdale, Florida, test-prep and vocational education company; and Apollo Education Group Inc, the company that operates the University of Phoenix. Kaplan bought Dev Bootcamp in 2014 while Apollo acquired The Iron Yard the following year."
+General Electric,2017-8,"But those two schools struggled under new ownership. Their cost structures were higher than those of mom-and-pop competitors but they didn't have big bankrolls to subsidize them like some venture-backed schools, people familiar with the situation said."
+General Electric,2017-8,"Despite continued growth in enrollment, Dev Bootcamp said in an early July statement that it could not ""find a viable business model"" that could cover ""the critical day-to-day costs of running our campuses."" The school is slated to shut down by year-end."
+General Electric,2017-8,"One week later, The Iron Yard, which had offered courses in 22 cities, announced it, too, would close."
+General Electric,2017-8,"""In considering the current environment, the board of The Iron Yard has made the difficult decision to cease operations at all campuses after teaching out remaining summer cohorts,"" Iron Yard said in a statement."
+General Electric,2017-8,Other boot camp owners say their schools are thriving by delivering exactly what was promised.
+General Electric,2017-8,"Flatiron School, which has raised $14.5 million in venture funding, boasts a job placement rate of 97 percent, with an average full-time starting salary of almost $76,000 a year. Flatiron School's outcomes are audited by a Massachusetts accounting firm, according to the school."
+General Electric,2017-8,"""If you aren't putting out real outcomes, students are going to be skeptical,"" said Adam Enbar, chief executive of Flatiron School."
+General Electric,2017-8,"Zach Newburgh, 28, a Flatiron online student from New York, credits the school for helping him land a position as a junior web developer at Blackrock Inc, the New York investment firm."
+General Electric,2017-8,"""I was looking for a job where I'd be able to code every day at a Fortune 500 company,"" said Newburgh, who said he received multiple job offers. ""With Flatiron, not only did they give me the skills necessary to be successful, they were a pipeline into Blackrock."""
+General Electric,2017-8,Other students say getting a job was much tougher than they expected.
+General Electric,2017-8,"Chase Thomas, 31, a resident of Walnut Creek, California, said it took him six months to land a position after spending $25,000 on courses with Thinkful, an online coding school, and General Assembly, where he completed a 10-week course at the company's San Francisco location."
+General Electric,2017-8,"Now a quality assurance engineer at the software vendor Workday, Thomas said he was happy he took the classes. But he said he would not recommend that route for everyone, especially if it involved taking on debt, like he did. ""Boot camps are seen as a ticket to the middle class. Everyone can do it, but the key is: do you want to?"" Thomas said. ""I love it, but it's not for everybody."""
+General Electric,2017-8,"Some bigger, venture-backed boot camp startups, meanwhile, are shifting their attention to the corporate training market."
+General Electric,2017-8,"Denver-based Galvanize, for example, which has raised $63 million in venture capital, says it has begun helping corporate clients such as International Business Machines Corp and General Electric Co hire engineers and retrain their staffs with coding skills the companies need."
+General Electric,2017-8,"Corporate training has grown to one-third of its revenue, up from 10 percent, in just six months, and could ""easily"" surpass the company's consumer business in the near future, said Lawrence Mandes, co-founder and chief revenue officer of Galvanize."
+General Electric,2017-8,"General Assembly serves the likes of Adobe Systems Inc , AT&T Inc and Target Corp . Smaller players like Hack Reactor and Hackbright Academy are also placing a greater focus on the corporate market."
+General Electric,2017-8,"Boulder, Colorado-based RefactorU decided in December to pivot to running boot camps for other education providers, according to Sean Daken, who founded the school in 2013. But he said those clients came far more slowly than expected and a cash crunch ensued."
+General Electric,2017-8,"""The sale cycles are very, very long with those organizations,"" Daken said."
+General Electric,2017-8,He said he let all of his employees go in April.
+General Electric,2017-8,UPDATE 1-GE saves money by delaying Boston HQ tower construction - Reuters News
+General Electric,2017-8,{{20170809T185118.487+0000}}UPDATE 1-GE saves money by delaying Boston HQ tower construction(Adds detail from GE)
+General Electric,2017-8,Aug 9 (Reuters) - General Electric Co said it is delaying construction of the largest part of its new $200 million headquarters in Boston to save money as new Chief Executive John Flannery looks to curtail costs.
+General Electric,2017-8,"The company will cut millions of dollars from the project cost by postponing construction of a 12-story tower until 2019 as part of a second phase, rather than starting immediately, spokesman Jeff Caywood said."
+General Electric,2017-8,GE is moving ahead with renovations of two smaller buildings and public amenities in the area as planned.
+General Electric,2017-8,"The company would have paid a premium in construction costs by building the tower at the same time, Caywood said."
+General Electric,2017-8,"GE would not disclose the exact savings but Caywood said ""it's in the millions of dollars."""
+General Electric,2017-8,"The scope of the development, at 15 Necco Street near Boston's waterfront, is not being changed and GE still expects to employ 800 people there when the project is finished in mid-2021."
+General Electric,2017-8,"Renovation of the two brick buildings, totaling 95,000 square feet, is scheduled to be finished by mid-2019.The 295,000-square-foot tower is now scheduled to be completed in mid-2021, rather than in 2019."
+General Electric,2017-8,"""We are committed to Boston and look forward to moving to GE Innovation Point, which will be a hub for innovation and the industrial internet,"" Ann Klee, the GE vice president in charge of the Boston development, said in a statement."
+General Electric,2017-8,The delay comes as Flannery is reviewing GE's operations with an eye toward cutting costs.
+General Electric,2017-8,The company has said it expects to deliver as much as $2 a share in earnings next year but that it may miss the target if markets worsen. It also is focused on cutting $1 billion in costs next year.
+General Electric,2017-8,GE delays plan to open part of new Boston HQ - Reuters News
+General Electric,2017-8,{{20170809T175353.648+0000}}GE delays plan to open part of new Boston HQAug 9 (Reuters) - General Electric Co has delayed the completion of its new headquarters building in Boston as new Chief Executive John Flannery looks to curtail costs.
+General Electric,2017-8,The company had planned to renovate two existing buildings and build a new office tower in Boston due for completion in 2019.
+General Electric,2017-8,"GE said it would continue the renovations, but delay the opening of the new building until 2021."
+General Electric,2017-8,UK export agency OKs $117 mln in finance for Iraq power projects - Reuters News
+General Electric,2017-8,"{{20170809T125052.236+0000}}UK export agency OKs $117 mln in finance for Iraq power projectsBAGHDAD, Aug 9 (Reuters) - Britain's export credit arm has announced $117 million in financing for General Electric and training provider Enka UK to help build two gas power projects in Iraq."
+General Electric,2017-8,"UK Export Finance will support the early stages of construction of two GE-powered, 750-megawatt, gas-fired power plants in southern Iraq, a British government statement said."
+General Electric,2017-8,"Though Iraq is a major oil producer, the country faces chronic electricity shortages, with its fragile grid struggling to meet demand after years of war, sanctions and neglect."
+General Electric,2017-8,"Britain agreed in March to arrange 10 billion pounds ($13 billion) in loans to finance infrastructure projects in Iraq over 10 years, a programme that would benefit only British companies. [nL5N1GI06k] ($1 = 0.7699 pounds)"
+General Electric,2017-8,"{{20170808T180813.603+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Depomed, Gray Television, Cutera, Airgain, Time Inc* Eikon search string for individual stock moves: STXBZ"
+General Electric,2017-8,The Dow and the S&P were off sessions highs in Tuesday afternoon trading after
+General Electric,2017-8,scaling new records on gains in Apple and advances in JPMorgan and Goldman
+General Electric,2017-8,"At 13:35 ET, the Dow Jones Industrial Average <.DJI> was up 0.01 percent at"
+General Electric,2017-8,Drugmakers' hopes for gene therapy rise despite tiny sales in Europe
+General Electric,2017-8,BUZZ-Taking aim at defense: Morgan Stanley launches with favorable outlook
+General Electric,2017-8,BUZZ-Best day in a year on healthy update on biosimilar drug development
+General Electric,2017-8,UPDATE 2-Valeant says to hit debt repayment target earlier than expected
+General Electric,2017-8,"BUZZ-Less is more: Ralph Lauren, Kors soar as fewer promos boost results"
+General Electric,2017-8,BUZZ-Soars as lung fibrosis drug succeeds mid-stage study [nL4N1KU3L5]
+General Electric,2017-8,UPDATE 1-Envision to sell ambulance business to KKR in $2.4 bln
+General Electric,2017-8,BRIEF-Endo says continues to expect total generics segment to decline in the
+General Electric,2017-8,(Compiled by Tamara Mathias in Bengaluru; Edited by Maju Samuel)
+General Electric,2017-8,"* Also signed 20-year Operation & Maintenance agreement, covering day-to-day operation and maintenance of Kokhav Hayarden power plant"
+General Electric,2017-8,"* Project development is planned to last 52 months, with commissioning expected in 2021"
+General Electric,2017-8,"{{20170808T142126.837+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Michael Kors, Ralph Lauren, Gartner, FibroGen* Eikon search string for individual stock moves: STXBZ"
+General Electric,2017-8,U.S. stock indexes opened lower on Tuesday as investors paused after a recent
+General Electric,2017-8,record-breaking rally that helped the Dow notch up nine straight sessions of
+General Electric,2017-8,"At 10:15 ET, the Dow Jones Industrial Average <.DJI> was down 0.01 percent"
+General Electric,2017-8,Drugmakers' hopes for gene therapy rise despite tiny sales in Europe
+General Electric,2017-8,BUZZ-Set for 2-yr high as cholesterol drug succeeds trial [nL4N1KU4NB]down 1.1
+General Electric,2017-8,UPDATE 2-Valeant says to hit debt repayment target earlier than expected
+General Electric,2017-8,BUZZ-Soars as lung fibrosis drug succeeds mid-stage study [nL4N1KU3L5]
+General Electric,2017-8,UPDATE 1-Envision to sell ambulance business to KKR in $2.4 bln
+General Electric,2017-8,"BUZZ-In the sick bay as lower patient numbers hit results, forecast"
+General Electric,2017-8,BUZZ-Drops on bigger bill to settle mesh product claims [nL4N1KT5RC]
+General Electric,2017-8,(Compiled by Tamara Mathias in Bengaluru; Edited by Maju Samuel)
+General Electric,2017-8,Valueact Holdings reports 6.9 pct stake in Baker Hughes A GE Co - Reuters Investor Briefs
+General Electric,2017-8,BRIEF-Valueact Holdings reports 6.9 pct stake in Baker Hughes A GE Co  - Reuters News
+General Electric,2017-8,{{20170808T121041.278+0000}}BRIEF-Valueact Holdings reports 6.9 pct stake in Baker Hughes A GE Co Aug 8 (Reuters) - Baker Hughes A Ge Co
+General Electric,2017-8,"* Valueact Holdings, L.P. - acquired securities of Baker Hughes A GE Co based on belief that securities were ""undervalued"""
+General Electric,2017-8,"Baker Hughes, a GE company signs agreement with Twinza - Reuters Investor Briefs"
+General Electric,2017-8,"BRIEF-Baker Hughes, a GE company signs agreement with Twinza - Reuters News"
+General Electric,2017-8,"{{20170808T101405.299+0000}}BRIEF-Baker Hughes, a GE company signs agreement with TwinzaAug 8 (Reuters) - Baker Hughes A Ge Co"
+General Electric,2017-8,"* Baker Hughes, a GE company signs agreement with Twinza to provide fullstream support for offshore project in the Gulf of Papua"
+General Electric,2017-8,UPDATE 1-Baker Hughes clinches integrated services contract for PNG gas field - Reuters News
+General Electric,2017-8,{{20170808T095027.086+0000}}UPDATE 1-Baker Hughes clinches integrated services contract for PNG gas field* Baker Hughes awarded contract by Twinza
+General Electric,2017-8,"LONDON, Aug 8 (Reuters) - Baker Hughes, now part of General Electric , has won a major contract to provide a wide range of services to develop Papua New Guinea's first offshore gas field which is sees as a new model to help producers adapt to a world of low oil prices."
+General Electric,2017-8,"GE Oil and Gas completed its merger with Baker Hughes last month to become the world's second largest oilfield services company, bringing together traditional drilling and pumping gear with technology such as software, sensors and three-dimensional printing. [nL1N1JU0N3]"
+General Electric,2017-8,"The contract in Papua New Guinea (PNG), worth several hundred million dollars, contrasts with the traditional model where a company awards various parts of field development separately to different providers."
+General Electric,2017-8,"It comes as the global oil and gas industry slowly emerges from a three-year rout that brought new field developments to a near standstill, creating intense competition among oil industry service companies for contracts."
+General Electric,2017-8,"Under the PNG contract BHGE will provide services to Australian exploration and production firm Twinza for the development of the Pasca A gas-condensate field ranging from the initial stages of well-drilling and appraisal through to production and gas processing, executives from the two companies said."
+General Electric,2017-8,"Applying the integrated suite of services together with advanced technology can save companies up to 5 percent in a sector where projects often involve billions in investment, according to BHGE Chief Executive Officer Lorenzo Simonelli."
+General Electric,2017-8,"""The price of oil continues to fluctuate. Capex spending is a moving target at the moment so productivity cost per barrel has to be the focus to get projects to a final investment decision,"" Simonelli told Reuters in an interview."
+General Electric,2017-8,"In an industry historically plagued by cost overruns and project delays, the ""fullstream"" model removes logistical delays such as the late arrival of vessels, or the needs to hold several tendering competitions for contracts and adapt to different equipment standards, according to Visal Leng, head of BHGE Asia Pacific."
+General Electric,2017-8,"Simonelli said there were ""hundreds of millions (of dollars) associated with the development of the project"", but did not give an exact figure for the contract."
+General Electric,2017-8,"BHGE is already working with some of the world's top oil companies on using its integrated services, including a large project with BP in the Gulf of Mexico, Simonelli said."
+General Electric,2017-8,"The integrated service model, also used by BHGE's larger rival Schlumberger , means that national oil companies will become less dependent on the expertise of the world's top oil and gas companies such as Exxon Mobil and Royal Dutch Shell for the development of fossil fuel resources, Evercore analyst James West said."
+General Electric,2017-8,Twinza is expected to make a final investment decision (FID) for the Pasca A project in early 2018 after drilling one more appraisal well this year.
+General Electric,2017-8,"The first phase of the field development will produce 14,000 barrels per day of natural gas liquids (NGLs) extracted together with the gas, Twinza Managing Director Huw Evans said. The gas will then be reinjected into the ground until the second phase of the project."
+General Electric,2017-8,"The Pasca A development would be profitable ""way below the current oil price"" of around $52 a barrel, according to Evans."
+General Electric,2017-8,BHGE will also extend a credit line to Twinza to fund the appraisal of the field ahead of the final investment decision.
+General Electric,2017-8,"A decision to go ahead with the development of Pasca A would make it one of the few projects expected to be given the go-ahead in 2017 and 2018 as oil prices recover only slowly, despite a decision by OPEC and other producers to reduce their output."
+General Electric,2017-8,"""There was a lot of optimism at the end of 2016 with the actions OPEC took. Some of the optimism is being pushed to the right and you're seeing a progressive shift in some of the projects and people waiting a little longer for stability in the context of lower for longer (oil prices), or simply lower,"" Simonelli said."
+General Electric,2017-8,EXCLUSIVE-Baker Hughes clinches major integrated services contract - Reuters News
+General Electric,2017-8,{{20170808T060021.860+0000}}EXCLUSIVE-Baker Hughes clinches major integrated services contract* Baker Hughes awarded contract by Twinza
+General Electric,2017-8,"LONDON, Aug 8 (Reuters) - Baker Hughes, a GE Company has won a major contract to provide a wide range of services to develop Papua New Guinea's first offshore gas field which is seen as a new model to help producers adapt to a world of low oil prices."
+General Electric,2017-8,"The contract, worth several hundred million dollars, contrasts with the traditional model where a company awards various parts of field development separately to different providers."
+General Electric,2017-8,"It comes as the global oil and gas sector slowly emerges from a three-year rout that brought new field development to a near standstill, creating intense competition among oil service providers for contracts."
+General Electric,2017-8,"Under the contract, BHGE will provide services to Australian exploration and production firm Twinza for the development of the offshore Pasca A gas condensate field ranging from the initial stages of well-drilling and appraisal through to production and gas processing, executives from the two companies said."
+General Electric,2017-8,"General Electric completed its acquisition of Baker Hughes last month to become the world's second largest oilfield services company, bringing together traditional drilling and pumping gear with technology such as software, sensors and three-dimensional printing. [nL1N1JU0N3]"
+General Electric,2017-8,"Applying the integrated suite of services together with advanced technology can save companies up to 5 percent in a sector where projects often involve billions in investment, according to BHGE Chief Executive Officer Lorenzo Simonelli."
+General Electric,2017-8,"""The price of oil continues to fluctuate. Capex spending is a moving target at the moment so productivity cost per barrel has to be the focus to get projects to a final investment decision,"" Simonelli told Reuters in an interview."
+General Electric,2017-8,"In an industry historically plagued by cost overruns and project delays, the ""fullstream"" model removes logistical delays such as late arrival of vessels, the need to hold several tenders or adapt to different equipment standards, according to Visal Leng, head of BHGE Asia Pacific."
+General Electric,2017-8,"Simonelli said there are ""hundreds of millions (of dollars) associated with the development of the project"", but did not give an exact figure for the contract."
+General Electric,2017-8,"BHGE is already working with some of the world's top oil companies on using its integrated services, including a large project with BP in the Gulf of Mexico, Simonelli said."
+General Electric,2017-8,Twinza is expected to make a final investment decision (FID) for the Pasca A project in early 2018 after drilling one more appraisal well this year.
+General Electric,2017-8,"The first phase of the field development will produce 14,000 barrels per day of liquids extracted from gas, Twinza Managing Director Huw Evans said."
+General Electric,2017-8,"The Pasca A development would be profitable ""way below the current oil price"" of around $52 a barrel, according to Evans."
+General Electric,2017-8,BHGE will also extend a credit line to Twinza to fund the appraisal of the field ahead of the final investment decision.
+General Electric,2017-8,A decision to go ahead with the development of Pasca A would make it one of a few projects expected to be given the go-ahead in 2017 and 2018 as oil prices recover slowly despite a decision by OPEC and other producers to reduce their oil output.
+General Electric,2017-8,"""There was a lot of optimism at the end of 2016 with the actions OPEC took. Some of the optimism is being pushed to the right and you're seeing a progressive shift in some of the projects and people waiting a little longer for stability in the context of lower for longer (oil prices) or simply lower,"" Simonelli said."
+General Electric,2017-8,"{{20170808T050509.238+0000}}African Markets - Factors to watch on Aug 8 The following company announcements, scheduled economic indicators, debt and currency market"
+General Electric,2017-8,moves and political events may affect African markets on Tuesday.
+General Electric,2017-8,and as doubts about OPEC-led production cuts continue to
+General Electric,2017-8,South Africa's assets gained on Monday with the rand surging
+General Electric,2017-8,Nigeria has been told by a court it can permanently seize a
+General Electric,2017-8,Monday due to last minute demand from retail and oil
+General Electric,2017-8,Millions of people go to the polls in Kenya on Tuesday amid
+General Electric,2017-8,"debt into equity, it said on Monday, despite the opposition"
+General Electric,2017-8,from some of his supporters to extend his rule beyond the
+General Electric,2017-8,helped by a central bank mop-up of excess local currency
+General Electric,2017-8,Uganda said on Monday it had agreed preliminary terms with a
+General Electric,2017-8,"GDP, the country's Senior Minister Yaw Osafo-Maafo said on"
+General Electric,2017-8,South Sudan's army has captured the main rebel stronghold of
+General Electric,2017-8,"year-on-year in July from 3.69 percent a month earlier, the"
+General Electric,2017-8,"{{20170807T131455.302+0000}}EU mergers and takeovers (Aug 7)BRUSSELS, Aug 7 (Reuters) - The following are mergers under review by the European Commission and a brief guide to the EU merger process:"
+General Electric,2017-8,-- Cinven Capital Management and the Canada Pension Plan Investment Board to acquire joint control of GTA Travel Holding Ltd (notified Aug. 4/deadline Sept. 11)
+General Electric,2017-8,"-- General Electric Company and global investments provider Macquarie Corporate Holdings to acquire joint control of Markbygden ETT AB, an onshore wind farm project in Sweden (notified Aug. 3/deadline Sept. 8/simplified)."
+General Electric,2017-8,-- French carmaker Peugeot and French bank BNP Paribas to acquire joint control of U.S. carmaker General Motors' financing subsidiaries and branches (notified July 4/deadline Aug. 9)
+General Electric,2017-8,-- Norwegian retailer Norgesgruppen and Swedish peer Axfood to jointly acquire Swedish food retailer Eurocash Food AB (notified July 10/deadline Aug. 16)
+General Electric,2017-8,"-- Private equity group Ardian, the Netherlands' APG Asset Management and Dutch pension fund PGGM to jointly acquire control of LBC tank terminals (notified July 11/deadline Aug. 17/simplified)"
+General Electric,2017-8,"-- Canadian pension fund OTPP, Canadian investment management company AIMCo, Canadian infrastructure manager Borealis, which administers the Ontario Municipal Employees Retirement System Primary Pension Plan, and fund manager KIA to jointly acquire British airport LCY (notified July 13/deadline Aug. 21/simplified)"
+General Electric,2017-8,-- Spanish bank Banco Santander to acquire peer Banco Popular Group (notified July 14/deadline Aug. 22)
+General Electric,2017-8,-- German industrial group Bayer to acquire U.S. seeds company Monsanto (notified June 30/deadline extended to Aug. 22 after Bayer offered concessions)
+General Electric,2017-8,-- Asset management company Carlyle and private equity firm GTCR to jointly acquire contract research company Albany Molecular Research (notified July 17/deadline Aug. 23/simplified)
+General Electric,2017-8,-- Luxembourg-based investment company Letterone to acquire British healthcare product retailer Holland & Barrett (notified July 18/deadline Aug. 24/simplified)
+General Electric,2017-8,-- Danish shipping company AP Moller Maersk and Denmark's Danske Bank to set up a joint venture (notified July 19/deadline Aug. 25/simplified)
+General Electric,2017-8,-- U.S. scientific instruments maker Thermo Fisher Scientific to acquire Dutch drugmaker Patheon (notified July 19/deadline Aug. 25)
+General Electric,2017-8,"-- Swiss vending services provider Selecta, which is controlled by private equity firm KKR, to acquire Dutch peer Pelican Rouge (notified July 5/deadline extended to Aug. 25 after Selecta offered concessions)"
+General Electric,2017-8,-- Aerospace and marine product maker Moog Inc and Singapore Airlines Ltd's engineering unit to set up a joint venture (notified July 24/deadline Aug. 28/simplified)
+General Electric,2017-8,"-- Dutch asset management company APG to acquire a portfolio of 48 project companies in Belgium, France, Germany, the Netherlands and the UK (notified July 20/deadline Aug. 28/simplified)"
+General Electric,2017-8,-- Private equity firm HGCapital to acquire software provider Visma [HGCAPV.UL] (notified July 20/deadline Aug. 28/simplified)
+General Electric,2017-8,"-- French oil major Total , credit card payment services company Worldline S.A. and African fintech provider Intouch Corp to acquire joint control of digital payment services provider Intouch SAS (notified July 20/deadline Aug. 28/simplified)"
+General Electric,2017-8,-- Canadian asset manager Brookfield and French energy company Engie to acquire joint control of British electricity wholesaler FHHGL (notified July 20/deadline Aug. 28/simplified)
+General Electric,2017-8,-- French private equity firm Ardian to acquire engineering services provider Assystem Technologies' Global Product Solutions unit (notified July 24/deadline Aug. 29)
+General Electric,2017-8,"-- Norwegian metals company Norsk Hydro to acquire sole control of aluminium company Sapa, which is a joint venture with Norwegian conglomerate Orkla ASA (notified July 24/deadline Aug. 29/simplified)"
+General Electric,2017-8,-- French dairy company Groupe Lactalis to acquire German peer Omira (notified July 26/deadline Aug. 31)
+General Electric,2017-8,-- Private equity firm CVC Capital [CVC.UL] to acquire Italian leather processing company Pasubio (notified July 26/deadline Aug. 31/simplified)
+General Electric,2017-8,"-- Television holding groups ProSiebenSat.1 Media of Germany, France's TV group TF1 and Mediaset with networks in Italy and Spain to establish a joint venture selling advertising space (notified July 27/deadline Sept. 1/simplified)"
+General Electric,2017-8,"-- VIMNI, Viacom's Italian branch, and publisher De Agostini Editore to jointly acquire DeA Broadcast, a new LLC programming creator (notified July 28/deadline Sept. 4/simplified)"
+General Electric,2017-8,-- Pamplona Capital to acquire biopharmaceutical company Parexel (notified Aug. 1/deadline Sept. 6/simplified)
+General Electric,2017-8,"-- Brammer France SAS, owned by U.S. private equity firm Advent International, to acquire machine parts supplier Industrial Parts Holding (notified Aug. 1/deadline Sept. 6/simplified)"
+General Electric,2017-8,-- Private equity firm Bain Capital Investors to acquire German tyre wholesaler Reiff Tyre (notified July 25/deadline Aug. 30/simplified)
+General Electric,2017-8,-- German brake systems maker Knorr-Bremse [STELLG.UL] to acquire Swedish peer Haldex (notified June 1/deadline extended to Nov. 30 from July 24 the European Commission opened an in-depth investigation)
+General Electric,2017-8,-- U.S. smartphone chipmaker Qualcomm to acquire Dutch company NXP Semiconductors NV (notified April 28/deadline suspended on June 28 after the companies failed to provide relevant information)
+General Electric,2017-8,"The European Commission has 25 working days after a deal is filed for a first-stage review. It may extend that by 10 working days to 35 working days, to consider either a company's proposed remedies or an EU member state's request to handle the case."
+General Electric,2017-8,"Most mergers win approval but occasionally the Commission opens a detailed second-stage investigation for up to 90 additional working days, which it may extend to 105 working days."
+General Electric,2017-8,"Under the simplified procedure, the Commission announces the clearance of uncontroversial first-stage mergers without giving any reason for its decision. Cases may be reclassified as non-simplified - that is, ordinary first-stage reviews - until they are approved."
+General Electric,2017-8,"BRIEF-Baker Hughes, a GE company announces July 2017 rig counts - Reuters News"
+General Electric,2017-8,"{{20170807T110315.803+0000}}BRIEF-Baker Hughes, a GE company announces July 2017 rig countsAug 7 (Reuters) - Baker Hughes A GE Co"
+General Electric,2017-8,UPDATE 1-Airbus deliveries remain hampered by engine delays - Reuters News
+General Electric,2017-8,{{20170805T130828.983+0000}}UPDATE 1-Airbus deliveries remain hampered by engine delaysBy Tim Hepher
+General Electric,2017-8,"TOULOUSE, France, Aug 4 (Reuters) - Airbus delivered 47 aircraft in July to reach the half-way point in its target for the year, but its narrowbody A320neo family continues to feel the disruption from delays in getting the latest generation of engines from their manufacturers."
+General Electric,2017-8,"The European planemaker said on Friday it had delivered 9 of the upgraded medium-haul jetliners in July, bringing total A320neo-family deliveries so far this year to 68, just a third of the full-year target of 200 for that model."
+General Electric,2017-8,"Airbus said last week its earnings had been hit by delays in receiving engines for the aircraft type and increased pressure on engine supplier Pratt & Whitney, a unit of United Technologies that has been hampered by a series of glitches [nL5N1KI0YG]."
+General Electric,2017-8,"Total Airbus airplane deliveries between January and July reached 353 aircraft, propelled by brisk deliveries of the earlier A320 model, Airbus said in a monthly data release. That compares with a full-year target of around 700."
+General Electric,2017-8,Evidence of the ongoing A320neo engine disruption could be seen on Friday in clusters of undelivered jets jammed into tight spaces around the perimeter of the Toulouse aerodrome where the world's second-largest planemaker has its main factory.
+General Electric,2017-8,"Some two dozen aircraft were visible from the roadside, painted in the livery of their airline customers but yet to receive their engines or in some cases wingtip extensions."
+General Electric,2017-8,"The majority of the jets are destined for airlines that have selected Pratt & Whitney's new Geared Turbofan engine, but a handful are also waiting for engines from CFM International, co-owned by General Electric and Safran ."
+General Electric,2017-8,"A Reuters tally of jets parked without engines included six built for India: four for GoAir, a Pratt & Whitney customer, and two for CFM customer Air India. India said on Thursday Pratt & Whitney had promised a solution by September. [nL4N1KP5QU]"
+General Electric,2017-8,"Asked to comment on the number of undelivered jets, an Airbus spokesman said it had delivered many more than at the same point last year, when A320neo output was in early stages, but that it had ""expected to be more advanced"" by mid 2017."
+General Electric,2017-8,"""We still target full-year A320neo deliveries to be around 200 but in view of the engine issues, this target becomes more challenging,"" he said."
+General Electric,2017-8,"Airbus introduced a caveat into its 2017 forecasts last week, saying its target of more than 700 jetliner deliveries depended on its engine suppliers."
+General Electric,2017-8,Airbus meanwhile said on Friday it had sold four aircraft in July - typically a quiet month in odd-numbered years coming after the Paris Airshow - to reach 252 for the year.
+General Electric,2017-8,"That total fell to 205 after cancellations, leaving Airbus behind U.S. rival Boeing in this year's order race."
+General Electric,2017-8,"Boeing has posted 446 orders through July 25, or 386 when adjusted for cancellations."
+General Electric,2017-8,"July's orders included one Airbus A350-1000, a large twin-engined jet due for its first delivery by the end of this year."
+General Electric,2017-8,"{{20170805T130827.201+0000}}UPDATE 1-U.S. oil drillers cut rigs for second week in three -Baker Hughes(Adds prices, companies and rig forecasts)"
+General Electric,2017-8,"rigs for the second in three weeks, slowing the pace of a"
+General Electric,2017-8,"15-month drilling recovery, amid plans to spend less in reaction"
+General Electric,2017-8,to declines in crude prices over the past several months.
+General Electric,2017-8,"Drillers cut one oil rig in the week to August 4, bringing"
+General Electric,2017-8,Hughes energy services firm said in its report on Friday.
+General Electric,2017-8,There were 381 active oil rigs during the same week a year
+General Electric,2017-8,ago. Drillers have added rigs in 55 of the past 62 weeks since
+General Electric,2017-8,The rig count is an early indicator of future output.
+General Electric,2017-8,U.S. crude production in May hit a 16-month high on gains in
+General Electric,2017-8,"Texas and offshore in the Gulf of Mexico, according to federal"
+General Electric,2017-8,plan to spend much more this year than last year.
+General Electric,2017-8,the 64 E&Ps it follows planned to increase spending by an
+General Electric,2017-8,"The current U.S. oil and gas rig count is 954, according to"
+General Electric,2017-8,Baker Hughes. That compares with an average of 509 in 2016 and
+General Electric,2017-8,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-8,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-8,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-8,{{20170805T130822.601+0000}}U.S. oil drillers cut rigs for 2nd week in three -Baker HughesAug 4 (Reuters) - U.S. energy firms cut oil rigs for a
+General Electric,2017-8,"second week in three, slowing the pace of a 15-month drilling"
+General Electric,2017-8,"recovery, as the companies plan to spend less in reaction to"
+General Electric,2017-8,"Drillers cut one oil rig in the week to August 4, bringing"
+General Electric,2017-8,Hughes energy services firm said in its report on Friday.
+General Electric,2017-8,There were 381 active oil rigs during the same week a year
+General Electric,2017-8,ago. Drillers have added rigs in 55 of the past 62 weeks since
+General Electric,2017-8,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-8,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-8,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-8,Abu Dhabi's Mubadala sells second stake in U.S. chipmaker AMD - Reuters News
+General Electric,2017-8,{{20170804T072253.332+0000}}Abu Dhabi's Mubadala sells second stake in U.S. chipmaker AMDBy Stanley Carvalho
+General Electric,2017-8,"ABU DHABI, Aug 4 (Reuters) - Abu Dhabi's Mubadala Investment Company [MUDEV.UL] on Friday said it sold a 3.9 percent stake in Advanced Micro Devices in its second sale of shares in the U.S.-based semiconductor company this year."
+General Electric,2017-8,"State-owned Mubadala sold 40 million shares or 3.9 percent of the outstanding shares of the company, inclusive of warrants and excluding the convertible bonds, Mubadala spokesman Brian Lott said. The value of the deal was not disclosed. According to Reuters calculations, the sale value was $529.6 million based on AMD's closing share price of $13.24 on Thursday."
+General Electric,2017-8,"""This is in line with Mubadala's strategy as a financial investor with a long-term perspective, to optimise our shareholding in certain assets and monetize them at the appropriate time,"" Lott said."
+General Electric,2017-8,"In March, Mubadala sold 45 million shares for around $613 million. [ID:nL5N1GI05O]"
+General Electric,2017-8,"Mubadala continues to be the largest shareholder in AMD, holding 57 million common shares and 75 million warrants, representing a 12.9 percent stake."
+General Electric,2017-8,"Mubadala, which has stakes in General Electric and private equity firm Carlyle Group , among others, was formally merged with another Abu Dhabi investment fund, International Petroleum Investment Co (IPIC) in January."
+General Electric,2017-8,The merger created a firm with assets of about $122 billion based on valuations at the end of 2016.
+General Electric,2017-8,BRIEF-GE signs 12-year agreement to boost profitability at Daya Bay nuclear power base - Reuters News
+General Electric,2017-8,{{20170803T134421.330+0000}}BRIEF-GE signs 12-year agreement to boost profitability at Daya Bay nuclear power baseAug 3 (Reuters) - General Electric Co :
+General Electric,2017-8,"BRIEF-GE Power CEO, Steve Bolze, joins Blackstone's infrastructure business as head of portfolio operations and asset management - Reuters News"
+General Electric,2017-8,"{{20170803T123620.953+0000}}BRIEF-GE Power CEO, Steve Bolze, joins Blackstone's infrastructure business as head of portfolio operations and asset managementAug 3 (Reuters) - Blackstone Group Lp"
+General Electric,2017-8,"* GE Power CEO, Steve Bolze, joins Blackstone'S infrastructure business as head of portfolio operations and asset management"
+General Electric,2017-8,"UPDATE 2-ConvaTec profit misses, CFO quits; shares plunge - Reuters News"
+General Electric,2017-8,"{{20170803T093758.633+0000}}UPDATE 2-ConvaTec profit misses, CFO quits; shares plunge(Adds share movement, analyst comment)"
+General Electric,2017-8,"Aug 3 (Reuters) - Medical technology company ConvaTec on Thursday posted lower first-half profit that fell short of expectations as expenses rose, sending its shares down more than 10 percent."
+General Electric,2017-8,"ConvaTec also said CFO Nigel Clerkin would leave the company in October after its decision to relocate the position to its main office in Reading. He decided not to relocate his family from Dublin, it said."
+General Electric,2017-8,"Shares in the company, which declared an inaugural interim dividend of 1.4 cents per share, posted their biggest drop since going public last October. The stock was the top percentage loser on the FTSE 100 index <.FTSE> that was marginally up."
+General Electric,2017-8,ConvaTec said it appointed Frank Schulkes as CFO-designate and will become CFO on Oct. 31.
+General Electric,2017-8,"Frank, who until 2015 was CFO and executive vice president of GE Healthcare, was the CFO of Germany-based industrial firm Wittur Group before being appointed at ConvaTec."
+General Electric,2017-8,"ConvaTec, whose products are used in acute wound care and critical care, said adjusted operating profit fell 7.4 percent to $193.5 million in the six months ended June 30. The profit was below the company compiled consensus of $207 million."
+General Electric,2017-8,"UBS analysts said ConvaTec management attributed weakness in the first half to a range of one-off and non-repeating issues, but expected improvement in growth rates in all divisions in the second half."
+General Electric,2017-8,"""But we expect guidance of more than 4 percent revenue growth will come into question after 1.5 percent in H1,"" UBS analysts said in a note."
+General Electric,2017-8,"Departure of the ""well-regarded"" CFO less than a year after the IPO may add an ""additional cloud over the story"", the analysts said."
+General Electric,2017-8,"The company, which raised nearly $1.8 billion in the biggest IPO in 2016, said guidance for the full year remained unchanged with revenue growth weighted towards the second half of the year."
+General Electric,2017-8,ConvaTec recorded revenue growth in three out of its five businesses in the first half of the year.
+General Electric,2017-8,"Gross margins rose to 60.3 percent from 58.8 percent a year ago, on the back of a ""margin-improvement plan"" that delivered a 40-basis-point benefit in the first half on a constant currency basis, the company said."
+General Electric,2017-8,"ConvaTec still expects around half of the targeted 300 basis points improvement in adjusted gross margin this year. In comparison, the plan delivered a boost of about 130 basis points in 2016."
+General Electric,2017-8,"Revenue rose marginally to $831.3 million, missing the company-compiled estimates of $834.4 million, ConvaTec said."
+General Electric,2017-8,BUZZ-Vestas: Shares hits 1-month low after GE law suit - Reuters News
+General Electric,2017-8,"{{20170803T075646.805+0000}}BUZZ-Vestas: Shares hits 1-month low after GE law suit** Vestas Wind Systems' shares hit a 1-month low on Thursday, down 0.8 pct at DKK 599.50 each"
+General Electric,2017-8,"** Vestas said Wednesday that General Electric had filed a patent complaint in the United States. Vestas said it is ""without merit"" and intends to challenge it."
+General Electric,2017-8,"** ""It will be a multi-year legal battle. As it stands today, Vestas should be able to continue execution on its order backlog and frame agreements, so its U.S. operation will be unaffected in the near term,"" says Nordea in a note."
+General Electric,2017-8,"** ""Of course, its clients will be asking lots of questions and likely asking for more guarantees,"" Nordea says."
+General Electric,2017-8,"** ""A possible outcome may be that 2017-20 will turn even more back-end loaded than previously anticipated, as developers etc want to see how the case develops,"" Nordea says."
+General Electric,2017-8,"** GE filed the lawsuit against Vestas for a patent breach relating to zero voltage ride-through technology (ZVRT), which is designed to ensure stability of the turbines during grid disturbances,"" Nordea says."
+General Electric,2017-8,"** Vestas may be able to offer a work-around if it loses the suit. ""As this will be based on extra hardware, it will come at an extra cost and thus make Vestas' turbines more expensive,"" Nordea says."
+General Electric,2017-8,Vestas says intends to fight General Electric's patent complaint - Reuters Investor Briefs
+General Electric,2017-8,Vestas says intends to fight General Electric's patent complaint - Reuters Investor Briefs
+General Electric,2017-8,BRIEF-Vestas says intends to fight General Electric's patent complaint - Reuters News
+General Electric,2017-8,{{20170802T135214.063+0000}}BRIEF-Vestas says intends to fight General Electric's patent complaintAug 2 (Reuters) - VESTAS SAYS
+General Electric,2017-8,"* ""IS AWARE THAT GENERAL ELECTRIC CO. HAS FILED A PATENT COMPLAINT IN THE U.S. AGAINST VESTAS AMERICAN WIND TECHNOLOGY, INC. AND VESTAS WIND SYSTEMS A/S."""
+General Electric,2017-8,"* ""WE STRONGLY BELIEVE THAT THE COMPLAINT IS WITHOUT MERIT AND INTEND TO CHALLENGE IT."""
+General Electric,2017-8,U.S. Senate Democrats question if they can trust EXIM Bank nominee to support its mission - Reuters News
+General Electric,2017-8,"{{20170802T015247.351+0000}}U.S. Senate Democrats question if they can trust EXIM Bank nominee to support its missionWASHINGTON, Aug 1 (Reuters) - Eight U.S. Senate Democrats questioned on Tuesday whether they could trust President Donald Trump's nominee for the top job at the U.S. Export-Import Bank to support renewing the trade lender's charter in 2019 and to believe in its mission."
+General Electric,2017-8,"Scott Garrett, a former Republican congressman from New Jersey who was one of the EXIM Bank's leading opponents during a 2015 fight in Congress to shut it down, ""refused to confirm that he would unequivocally support reauthorizing the bank,"" Senate Democratic leader Chuck Schumer and seven other senators said in a statement after meeting with Garrett."
+General Electric,2017-8,"The nominee for EXIM chairman has met with strong opposition from industry groups that use its financing, including the National Association of Manufacturers, which said Garrett had a track record of trying to undermine the institution."
+General Electric,2017-8,"The bank has been unable to approve loans above $10 million for two years because of efforts by conservative Republicans in Congress to shut it down and then block nominations to its board, keeping it from financing large aircraft, satellites, power turbines and other major projects."
+General Electric,2017-8,"Critics have charged that EXIM provides unnecessary ""corporate welfare"" to large companies such as Boeing , General Electric and Caterpillar , putting taxpayers at risk. The bank also provides export financing and guarantees for thousands of small manufacturers."
+General Electric,2017-8,"""The bank has overwhelming support from Republicans and Democrats in Congress and we need a leader of the bank who also fully stands by its goals,"" added the senators, who included Democrats Heidi Heitkamp, Maria Cantwell, Patty Murray, Sherrod Brown, Amy Klobuchar, Chris Coons and Joe Donnelly."
+General Electric,2017-8,Their statement did not say specifically how they would vote on Garrett's nomination. No nomination hearing has been scheduled by the Senate Banking Committee.
+General Electric,2017-8,A White House spokeswoman could not immediately be reached for comment on the senators' statement.
+General Electric,2017-8,Sponsors may be tempted by Olympics return to Los Angeles - Reuters News
+General Electric,2017-8,{{20170801T212828.220+0000}}Sponsors may be tempted by Olympics return to Los AngelesBy Liana B. Baker
+General Electric,2017-8,"SAN FRANCISCO, Aug 1(Reuters) - Even if it is more than a decade away, a Summer Games in Los Angeles in 2028 may be a boost to the International Olympic Committee's (IOC) efforts to extend its lucrative contracts with top sponsors such as Visa Inc and Coca-Cola Co, Olympic sponsorship experts said."
+General Electric,2017-8,"Los Angeles agreed to host the 2028 Summer Games, after bowing out of a two-way contest with Paris for the 2024 Summer Games. Awarding two Summer Games in tandem is rare for the IOC, and under normal circumstances, the 2028 host city would not be known until 2021. [nL8N1K24H9]"
+General Electric,2017-8,"U.S.-based multinational companies Visa , Coca-Cola , Procter & Gamble , Dow Chemical Co and General Electric Co make up about half of the IOC's top sponsors program, which contributes more than $1 billion in each four-year cycle to the games."
+General Electric,2017-8,All of these brands' agreements with the IOC expire in 2020 after the Summer Games in Tokyo.
+General Electric,2017-8,"At least one U.S.-based sponsor, which spoke to Reuters on condition of anonymity, said that it had been eager for the Games to return to the United States after so many years."
+General Electric,2017-8,"""LA is a homegrown market, a U.S. market for these companies that gives a tremendous boost to the likelihood that they will continue to stay on as sponsors,"" said Rob Prazmark, chief executive of 21 Sports & Entertainment Marketing Group, who helped create the top sponsors program with the IOC."
+General Electric,2017-8,"The 2028 U.S. Summer Games, the first Summer Games in the United States since 1996, could be a factor in the renewal discussions with sponsors that are currently underway, said John Grady, a sports law professor at the University of South Carolina."
+General Electric,2017-8,"""Once you have an American city, it puts a flame under that U.S. brand. They have a reason to renew that otherwise didn't exist,"" Grady said."
+General Electric,2017-8,"With the next three games in Asia, some U.S.-based sponsors have bowed out of their official Olympic sponsorship deals, though the IOC has signed on new Asia-based sponsors such as Alibaba Group Holding Ltd ."
+General Electric,2017-8,"McDonald's Corp ended a 41-year sponsorship deal with the IOC in June, and the U.S. Olympic Committee also has lost sponsors such as AT&T Inc and Citigroup Inc ahead of the 2018 Winter Games in South Korea. [nL3N1JD3QM]"
+General Electric,2017-8,"Visa and Coca-Cola declined to comment beyond saying that their Olympic deals run until 2020. The IOC, P&G, Dow and GE did not respond to a request for comment. Intel, which signed on as a top sponsor in June, is locked in until 2024 and declined to comment."
+General Electric,2017-8,"Just knowing the location of Games 11 years out could also benefit U.S. broadcaster NBC, a unit of Comcast Corp , which is signed on until 2032, because it now has significant lead time to work with advertisers and deal with the changing ways people watch the Games over the internet, which has led to lower TV ratings."
+General Electric,2017-8,"An NBC spokesman, in a statement, called the next three host cities for the Summer Games, Tokyo, Paris and Los Angeles, ""a U.S. broadcaster's dream."""
+General Electric,2017-8,"Baker Hughes, a GE company, declares quarterly dividend - Reuters Investor Briefs"
+General Electric,2017-8,"BRIEF-Baker Hughes, a GE company, declares quarterly dividend - Reuters News"
+General Electric,2017-8,"{{20170801T134500.783+0000}}BRIEF-Baker Hughes, a GE company, declares quarterly dividendAug 1 (Reuters) - Baker Hughes A Ge Co"
+General Electric,2017-8,"* Baker hughes says declared a cash dividend of $0.17 per share of common stock payable august 25, 2017 to holders of record on august 11, 2017"

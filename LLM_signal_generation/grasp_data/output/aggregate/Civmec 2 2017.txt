@@ -1,0 +1,260 @@
+firm_id,date,text
+Civmec,2017-2,04:54:55  [STOCKP] (CIVM.SI) - On Friday 29th of March Civmec trades -2.69 percent lower -
+Civmec,2017-2,15:46:44  [STOCKP] (CIVM.SI) - Civmec trades 0.54 percent higher on Friday 29th of March -
+Civmec,2017-2,"21:42:34  [GLOSTP] (CIVM.SI .STI) - Monthly: Civmec (P9D: 77.0c) wipes off SGD10 million ($8 million) in MCap in March, highest loser in Construction and Engineering sector -"
+Civmec,2017-2,20:42:58  [AUSCON] (CIVM.SI CVL.AX) - End-of-Quarter Synopsis Monthly : Civmec (CVL: 90.50c) increases 3% on firm volume in March 2024 -
+Civmec,2017-2,19:12:27  [GLOSTP] (CIVM.SI .AORD) - Monthly: Civmec (CVL: 90.50c) lifts 3% on firm volume in March 2024 -
+Civmec,2017-2,17:57:19  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 90.50c) drops 2.7% on increasing volatility; -2.5c [2.7%] -
+Civmec,2017-2,12:07:31  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,11:07:59  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-2,11:07:59  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,17:47:17  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) offers dividend yield of 8.1%; +0.5c [0.5%] -
+Civmec,2017-2,17:47:13  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) offers dividend yield of 8.1%; ex-Dividend; +0.5c [0.5%] -
+Civmec,2017-2,17:17:33  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,16:06:54  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-2,14:07:37  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,13:07:35  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,12:07:34  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:07:57  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,11:07:46  [GLOSTO] (CIVM.SI) - Investors concerned as Civmec down in recent days -
+Civmec,2017-2,17:52:21  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.50c) hits two-month high; ex-Dividend; +2c [2.2%] -
+Civmec,2017-2,13:06:54  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-2,12:07:18  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-2,11:07:44  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,19:07:52  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,18:07:53  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,16:07:49  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,15:07:10  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-2,14:07:17  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,13:07:31  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,12:07:18  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:07:31  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,23:13:03  [TICREP] (CIVM.SI) - Civmec Limited (CVL) to Issue Interim Dividend of $0.03 on  April 14th -
+Civmec,2017-2,23:13:00  [CERGEM] (CIVM.SI) - Civmec Limited (CVL) to Issue Interim Dividend of $0.03 on  April 14th -
+Civmec,2017-2,15:48:10  [STOCKP] (CIVM.SI) - On Saturday 23rd of March Civmec trades -1.06 percent lower -
+Civmec,2017-2,22:34:31  [TRADAJ] (CIVM.SI) - Civmec Limited (ASX:CVL) Announces Interim Dividend of $0.03 -
+Civmec,2017-2,22:32:30  [ZOLCOM] (CIVM.SI) - Civmec Limited (CVL) To Go Ex-Dividend on March 25th -
+Civmec,2017-2,14:07:38  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,13:07:22  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,12:07:12  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,11:08:07  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-2,17:43:05  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) drops to 23-day low on extraordinary volume; -1c [1.1%] Vol Index 3.6 [1 is avg] -
+Civmec,2017-2,17:43:04  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) offers earnings yield of 11.8% ; -1c [1.1%] Vol Index 3.6 [1 is avg] -
+Civmec,2017-2,13:07:21  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,12:07:16  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:07:41  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,01:27:27  [DAILYQ] (CIVM.SI) - Civmec Limited (ASX:CVL) to Issue Interim Dividend of $0.03 -
+Civmec,2017-2,20:01:35  [STOCKP] (CIVM.SI) - On Wednesday 20th of March Civmec trades 1.08 percent higher -
+Civmec,2017-2,17:42:59  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 94.0c) offers earnings yield of 11.7% -
+Civmec,2017-2,15:07:22  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,14:07:21  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,13:07:15  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,12:07:35  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:07:32  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,17:52:18  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 94.0c) in 2nd consecutive rise; +2c [2.2%] Vol Index 2.0 [1 is avg] -
+Civmec,2017-2,13:07:20  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-2,13:07:20  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,12:07:17  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-2,12:07:13  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:08:12  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-2,11:08:11  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,"20:32:51  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) lifts 1.1%, 4 days' volume in a day; +1c [1.1%] Vol Index 3.7 [1 is avg] -"
+Civmec,2017-2,19:08:00  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,18:08:08  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,17:12:53  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,16:07:19  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,15:07:08  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-2,14:07:20  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,13:07:10  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,12:07:26  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:07:44  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,11:07:35  [GLOSTO] (CIVM.SI) - Monday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-2,06:53:49  [STOCKP] (CIVM.SI) - Civmec trades -0.54 percent lower on Friday 15th of March -
+Civmec,2017-2,17:47:30  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.0c) offers earnings yield of 12% ; Vol Index 1.7 [1 is avg] -
+Civmec,2017-2,11:08:42  [GLOSTO] (CIVM.SI) - Friday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-2,17:52:43  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.0c) decreases on robust volume; -0.5c [0.5%] Vol Index 1.4 [1 is avg] -
+Civmec,2017-2,12:07:26  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:09:48  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,16:07:34  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,14:07:32  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,13:08:42  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,12:07:31  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:09:19  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,11:08:51  [GLOSTO] (CIVM.SI) - Investors concerned as Civmec down in recent days -
+Civmec,2017-2,13:09:09  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-2,13:09:01  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,12:07:49  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-2,12:07:29  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:10:01  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,11:09:13  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-2,20:08:41  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,19:07:48  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,18:08:04  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,17:52:55  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) hits one-month high on average volume; +1.5c [1.6%] -
+Civmec,2017-2,16:07:33  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,15:07:20  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings -
+Civmec,2017-2,14:07:25  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,13:07:27  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,12:07:12  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:08:11  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,12:07:55  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-2,11:08:46  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,11:08:06  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-2,13:07:15  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,12:08:43  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:08:08  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,17:13:23  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,14:07:29  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,13:07:24  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,12:08:35  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:06:59  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,14:08:51  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,13:07:48  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,13:07:35  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,12:07:36  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-2,12:07:35  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:09:00  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-2,11:08:16  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,19:46:28  [GLOSTP] (CIVM.SI .STI) - Monthly: Civmec (P9D: 79.50c) increases 2% on weak volume in February 2024 -
+Civmec,2017-2,17:08:30  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,15:07:24  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,14:07:25  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,13:07:21  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,12:07:18  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:09:17  [GLOSTO] (CIVM.SI) - Monday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-2,11:08:40  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,05:55:14  [STOCKP] - Civmec (CVL.AX) is trading 0.56 percent higher on Friday 1st of March and has a trading volume of AUD 5.7 k -
+Civmec,2017-2,14:12:44  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-2,13:07:18  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-2,12:08:02  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,11:09:46  [GLOSTO] (CIVM.SI) - Friday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-2,11:09:41  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,21:39:30  [GLOSTP] (CIVM.SI .STI) - Monthly: Civmec (P9D: 79.50c) increases 2% on weak volume in February 2024 -
+Civmec,2017-2,12:07:59  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:08:20  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:00:00  [GLOSTO] (CIVM.SI) - Investors concerned as Civmec down in recent days -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,"11:00:00  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 90.50c) drops 1.1%, 2 days' volume in a day; -1c [-1.1%] Vol Index 1.7 [1 is avg] -"
+Civmec,2017-2,11:00:00  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,11:00:00  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,11:00:00  [FINLAW] - Fair Work Commission Australia Decision: Justin Hinchliffe v Civmec Construction & Engineering Pty Ltd - [2024] FWC 474 -
+Civmec,2017-2,11:00:00  [FINLAW] - Fair Work Commission Australia Decision: Justin Hinchliffe v Civmec Construction & Engineering Pty Ltd -
+Civmec,2017-2,"11:00:00  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 91.50c) increases, 5 days' volume in a day; +0.5c [0.6%] Vol Index 5.1 [1 is avg] -"
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,11:00:00  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,11:00:00  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 91.0c) offers earnings yield of 12.1% ; -0.5c [0.6%] -
+Civmec,2017-2,11:00:00  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 91.0c) offers earnings yield of 12.1%; -0.5c [-0.6%] -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:00:00  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,11:00:00  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,04:50:46  [STOCKP] (CIVM.SI) - Civmec is trading 0.55 percent higher with a volume of AUD 25.8 k on Tuesday 20th of February -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings -
+Civmec,2017-2,11:00:00  [GLOSTO] (CIVM.SI) - Tuesday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,22:50:41  [STOCKP] (CIVM.SI) - Civmec is trading -0.55 percent lower with a volume of AUD 80.6 k on Monday 19th of February -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,11:00:00  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,11:00:00  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,11:00:00  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:00:00  [GLOSTO] (CIVM.SI) - Friday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,12:25:13  [RTRS] (CIVM.SI) - Civmec Ltd Says HY Revenue A$492.3 Million Versus A$418.9 Million (BRIEF) -
+Civmec,2017-2,11:00:00  [PLUMED] (CIVM.SI) - CIVMEC LIMITED: CONDENSED INTERIM FINANCIAL STATEMENTS FOR THE SIX MONTHS ENDED 31 DECEMBER 2023 -
+Civmec,2017-2,"11:00:00  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 91.50c) drops 1.6%, 10 days' volume in a day; -1.5c [-1.6%] Vol Index 9.5 [1 is avg] -"
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng -
+Civmec,2017-2,11:00:00  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,02:46:52  [GLOWEE] (CVL.AX) - What the Altman-Z score tells us about Civmec -
+Civmec,2017-2,21:35:57  [RTRS] (CIVM.SI) - Civmec Says Interim Dividend Of 2.5 Australian Cents For 1H Fy24 (BRIEF) -
+Civmec,2017-2,17:35:50  [STOCKP] (CIVM.SI) - Civmec trades 1.67 percent higher on Wednesday 14th of February -
+Civmec,2017-2,11:00:00  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) in 2nd consecutive rise; +1.5c [1.6%] -
+Civmec,2017-2,11:00:00  [GLOSTO] (CIVM.SI) - Wednesday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-2,"11:00:00  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 91.50c) lifts 1.7%, 2 days' volume in a day; +1.5c [1.7%] Vol Index 1.8 [1 is avg] -"
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:00:00  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,12:07:28  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to outperform PEC -
+Civmec,2017-2,11:07:16  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings -
+Civmec,2017-2,11:07:11  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-2,02:47:36  [GLOWEE] (CIVM.SI CVL.AX) - What the Beneish M-score tells us about Civmec -
+Civmec,2017-2,12:07:34  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:07:43  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,02:47:17  [GLOWEE] (CIVM.SI CVL.AX) - What the Altman-Z score tells us about Civmec -
+Civmec,2017-2,"20:08:09  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.50c) lifts 1.1%, 2 days' volume in a day; +1c [1.1%] Vol Index 1.8 [1 is avg] -"
+Civmec,2017-2,18:08:08  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,16:07:19  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,14:07:08  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,13:07:17  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,12:07:00  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,11:07:44  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,14:08:20  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,14:08:20  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng -
+Civmec,2017-2,13:07:44  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-2,13:07:43  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,12:07:09  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,12:07:07  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-2,11:07:48  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-2,11:07:46  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-2,"03:42:24  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) drops 1.1%, 2 days' volume in a day; -1c [-1.1%] Vol Index 2.3 [1 is avg] -"
+Civmec,2017-2,20:07:31  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-2,19:44:02  [GLOSTP] (CIVM.SI .STI) - Monthly: Civmec (P9D: 77.50c) decreases 3% on low volume in January 2024 -
+Civmec,2017-2,19:07:47  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-2,16:42:40  [GLOSTP] (CIVM.SI .AORD) - Monthly: Civmec (CVL: 92.0c) unchanged on robust volume in January 2024 -
+Civmec,2017-2,02:46:53  [GLOWEE] (CIVM.SI CVL.AX) - Civmec continues to show strength in solvency ratios -
+Civmec,2017-2,00:50:22  [STOCKP] (CIVM.SI) - Civmec trades 0.54 percent higher on Friday 2nd of February -
+Civmec,2017-2,17:17:42  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 94.0c) in 3rd consecutive rise; +1.5c [1.6%] -
+Civmec,2017-2,13:06:58  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-2,12:07:25  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-2,11:07:54  [GLOSTO] (CIVM.SI) - Investors concerned as Civmec down in recent days -
+Civmec,2017-2,11:07:29  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng -
+Civmec,2017-2,04:54:46  [STOCKP] - Civmec (CVL.AX) is trading 0.55 percent higher on Thursday 1st of February and has a trading volume of AUD 26.3 k -
+Civmec,2017-2,02:48:09  [GLOWEE] (CIVM.SI CVL.AX) - What the Beneish M-score tells us about Civmec -
+Civmec,2017-2,17:28:36  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.50c) in 2nd consecutive rise; +0.5c [0.5%] -
+Civmec,2017-2,16:07:00  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-2,15:07:34  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-2,14:07:05  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-2,13:06:58  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-2,12:07:22  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-2,11:06:58  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-2,06:08:14  [AUSCON] (CIVM.SI CVL.AX) - Monthly: Civmec (CVL: 92.0c) unchanged on robust volume in January 2024 -
+Civmec,2017-2,02:47:21  [GLOWEE] (CIVM.SI CVL.AX) - What the Altman-Z score tells us about Civmec -

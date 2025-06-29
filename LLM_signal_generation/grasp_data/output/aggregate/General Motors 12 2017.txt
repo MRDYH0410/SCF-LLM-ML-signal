@@ -1,0 +1,931 @@
+firm_id,date,text
+General Motors,2017-12,Dec 29 (Reuters) - Wall Street securities analysts revised their ratings and price targets
+General Motors,2017-12,"on several U.S.-listed companies, including Ford Motor, General Motors and Walker & Dunlop on"
+General Motors,2017-12,* Ford Motor Co : Evercore ISI raises price target to $13 from $10.50
+General Motors,2017-12,* General Motors Co : Evercore ISI raises price target to $47 from $40
+General Motors,2017-12,* Walker & Dunlop Inc : Compass Point raises target to $55 from $48; neutral
+General Motors,2017-12,Following is a summary of research actions on U.S. companies reported by Reuters on Friday.
+General Motors,2017-12,* Adtran Inc : Cowen and Company cuts price target to $16 from $17
+General Motors,2017-12,* Ford Motor Co : Evercore ISI raises price target to $13 from $10.50
+General Motors,2017-12,* General Motors Co : Evercore ISI raises price target to $47 from $40
+General Motors,2017-12,* Old Second Bancorp Inc : D.A. Davidson raises price target to $15 from $13
+General Motors,2017-12,* Robert Half International : BMO raises target to $58 from $53; market perform
+General Motors,2017-12,* Walker & Dunlop Inc : Compass Point raises target to $55 from $48; neutral
+General Motors,2017-12,"{{20171229T101357.596+0000}}BREAKINGVIEWS-Wanted: Italian-American carmaker seeks new driverMILAN, Dec 29 (Reuters Breakingviews)"
+General Motors,2017-12,(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+General Motors,2017-12,"MILAN, Dec 29 (Reuters Breakingviews) - Chief Executive Sergio Marchionne will soon be heading for Fiat Chrysler's off ramp. As directors consider who should succeed him, Breakingviews imagines what advice a consultant might give."
+General Motors,2017-12,"Thank you for giving us the opportunity to share our thoughts on Fiat Chrysler Automobiles after Sergio Marchionne's planned 2019 departure. His extraordinary achievements, unique management style and dominant presence will be a tough act to follow."
+General Motors,2017-12,"Marchionne was the right person for the job, despite a lack of industry experience when he took the wheel in June 2004. His direct, pugnacious and intrepid approach was what was needed to turn around a moribund Fiat and get insolvent Chrysler back on the road."
+General Motors,2017-12,"Shareholders, including top owner Exor , have so far received a 900 percent total return on FCA stock, 2.6 times the industry average. Those who held on to their stakes in spun-off CNH and Ferrari have even more to cheer about. Combined, these two were worth $37 billion as of Dec. 7, 45 percent more than their erstwhile parent company."
+General Motors,2017-12,"Spending a lot more time both in and on China is critical for Marchionne's replacement. The Middle Kingdom is now the world's biggest car market: vehicle sales surpassed 28 million in 2016, about a third of global demand."
+General Motors,2017-12,"FCA's 2014 deepening of its alliance with Guangzhou Automobile Industry Group [GZGVTD.UL] has not gone far enough. Its sales were 176,000 in 2016 against about 4 million for VW . Your company is falling a long way short of its 2014 goal of selling 850,000 vehicles by 2018."
+General Motors,2017-12,"Next, the new chief needs a solid understanding of the tech world to steer FCA through unprecedented industry disruption. Marchionne has been reluctant to make big financial bets in new technology, in large part because he has been a vocal sceptic of electric cars."
+General Motors,2017-12,"He has a point. Questions remain about the environmental impact of lithium batteries and the availability of cobalt and other materials. Now, though, China is vowing to ban petrol and diesel cars by 2040, so having battery-powered vehicles will be essential to compete. France and the United Kingdom are talking a similar line."
+General Motors,2017-12,"Fiat Chrysler also lags rivals in connected and autonomous cars, having outsourced most work to Alphabet's Waymo. Such a conservative R&D approach made sense given FCA's high debt. And getting regulators and customers comfortable with self-driving vehicles may well take a while. Marchionne has been speeding up in this area lately. But General Motors' plan to get robo-taxis in U.S. streets by 2019 suggests FCA needs to move even faster."
+General Motors,2017-12,"We would also caution against choosing just one replacement for Marchionne. There's no need for joint CEOs. But we'd note that Marchionne put on too many hats. He runs the entire company, is chairman and CEO of both North America and Ferrari, where he'll stay on after leaving FCA, and is chair of Maserati and CNH."
+General Motors,2017-12,"We laud your decision to seek stability by looking to promote people who are graduates, shall we say, of the ""Marchionne School"". Finance chief Richard Palmer, Jeep boss Michael Manley and EMEA Chief Operating Officer Alfredo Altavilla are all worthy choices. But we urge you not dismiss the idea of outside candidates, if only for some of the roles below the CEO level."
+General Motors,2017-12,"Finally, the sooner you can announce the new CEO, the better. Marchionne is planning to unveil a new five-year plan in 2018. That could constrain his successor, who needs to own the plan, not simply inherit it. After all, FCA does not need a Marchionne copycat, but someone who can decisively drive it into the future."
+General Motors,2017-12,- Fiat Chrysler's board has already started to look for a successor and is expected to choose someone from inside the company.
+General Motors,2017-12,"- Marchionne, who became CEO of Italy's Fiat on June 1, 2004, is set to present shareholders with a new five-year plan for FCA in mid-2018."
+General Motors,2017-12,"- By close of market on Dec. 7, Fiat Chrysler's New York-listed shares had risen 93 percent during 2017, far more than any major rival."
+General Motors,2017-12,- Reports over the summer that Chinese carmaker Great Wall <601633.SS> was interested in buying part or all of the company helped fuel the surging valuation.
+General Motors,2017-12,"- Fiat Chrysler has also reported much improved financial results, including a 50 percent increase in third-quarter net income to 910 million euros, compared with the same period in 2016. The group's pre-tax profit margin was 5.5 percent for the period."
+General Motors,2017-12,"- For previous columns by the author, Reuters customers can click on [JUCCA/]"
+General Motors,2017-12,"{{20171228T210426.941+0000}}UPDATE 1-GM wins ruling that could narrow ignition switch litigationNEW YORK, Dec 28 (Reuters)"
+General Motors,2017-12,"NEW YORK, Dec 28 (Reuters) - General Motors Co on Thursday won a court ruling that could reduce the private litigation it faces over flawed vehicle ignition switches, which have been linked to 124 deaths and triggered a big recall."
+General Motors,2017-12,"U.S. District Judge Jesse Furman in Manhattan said the plaintiffs in two bellwether cases, involving accidents where airbags had deployed, could not introduce expert testimony to show how defective ignition switches might have played a role in the crashes."
+General Motors,2017-12,"The plaintiffs said their GM ignition switches might have rotated from ""run"" at the moment of impact to ""accessory"" or ""off,"" causing the accidents or making them worse, and then back to ""run"" before the airbags deployed."
+General Motors,2017-12,"But Furman, who oversees multi-district litigation (""MDL"") over the ignition switches, including 213 cases where airbags deployed, called the expert testimony ""unreliable"" because there was no evidence that ""double switch rotation"" occurred anywhere."
+General Motors,2017-12,"""The court recognizes that these conclusions may have a significant impact on a swath of cases now pending in the MDL and, thus, does not reach them lightly,"" the judge wrote."
+General Motors,2017-12,"Furman said his role is ""to ensure the reliability and relevancy of expert testimony,"" and the opinions of the plaintiffs' experts ""do not pass muster."""
+General Motors,2017-12,"Bob Hilliard and Tamar Lusztig, two lawyers for the plaintiffs, did not immediately respond to requests for comment."
+General Motors,2017-12,"David Caldwell, a spokesman for Detroit-based GM, said the decision ""reinforces our approach to contest cases that lack merit, while being open to fair resolution of cases that have more merit according to the facts and the law."""
+General Motors,2017-12,"GM has paid more than $2.6 billion in penalties and settlements, including $900 million to settle a U.S. Department of Justice criminal case, over ignition switches that could cause engines to stall and prevent airbags from deploying."
+General Motors,2017-12,The largest U.S. automaker has recalled more than 2.6 million vehicles over the defect since February 2014.
+General Motors,2017-12,"As of Nov. 30, there were 1,723 unresolved personal injury and wrongful death claims in the multi-district litigation, including the 213 where airbags deployed, a court filing shows. GM has also settled claims related to more than 1,700 claimants."
+General Motors,2017-12,"Thursday's decision dismissed claims by Vivian Garza, who was 19 when her Chevrolet Cobalt crashed on an icy highway in Alice, Texas, in February 2011."
+General Motors,2017-12,It also dismissed claims by the son of Ruby Greenroad over the January 2013 crash of her 2007 Cobalt in the Houston area. Greenroad died at age 90 the following year.
+General Motors,2017-12,"The case is In re: General Motors LLC Ignition Switch Litigation, U.S. District Court, Southern District of New York, No. 14-md-02543."
+General Motors,2017-12,"{{20171228T194737.825+0000}}GM wins ruling that could narrow ignition switch litigationNEW YORK, Dec 28 (Reuters)"
+General Motors,2017-12,"NEW YORK, Dec 28 (Reuters) - General Motors Co on Thursday won a court ruling that could reduce the private litigation it faces over flawed vehicle ignition switches, which have been linked to 124 deaths and triggered a big recall."
+General Motors,2017-12,"U.S. District Judge Jesse Furman in Manhattan said the plaintiffs in two bellwether cases, involving accidents where airbags had deployed, could not introduce expert testimony to show how defective ignition switches might have played a role in the crashes."
+General Motors,2017-12,"The plaintiffs alleged that their GM ignition switches might have rotated from ""run"" at the moment of impact to ""accessory"" or ""off,"" causing the accidents or making them worse, and then back to ""run"" before the airbags deployed."
+General Motors,2017-12,"But Furman, who oversees multi-district litigation (""MDL"") over the ignition switches, including 213 cases where airbags deployed, called the testimony ""unreliable"" because there was no evidence that ""double switch rotation"" has occurred anywhere."
+General Motors,2017-12,"""The court recognizes that these conclusions may have a significant impact on a swath of cases now pending in the MDL and, thus, does not reach them lightly,"" Furman wrote."
+General Motors,2017-12,"But the judge said his role is ""to ensure the reliability and relevancy of expert testimony,"" and the opinions of the plaintiffs' experts ""do not pass muster."""
+General Motors,2017-12,"Bob Hilliard and Tamar Lusztig, two of the lawyers for the plaintiffs, did not immediately respond to requests for comment. David Caldwell, a GM spokesman, had no immediate comment."
+General Motors,2017-12,"GM has already paid more than $2.6 billion in penalties and settlements, including $900 million to settle a U.S. Department of Justice criminal case, over ignition switches that could cause engines to stall and prevent airbags from deploying."
+General Motors,2017-12,The largest U.S. automaker has recalled more than 2.6 million vehicles over the defect since February 2014.
+General Motors,2017-12,"As of Nov. 30, there were 1,723 unresolved personal injury and wrongful death claims in the multi-district litigation, including the 213 where airbags deployed, a court filing shows."
+General Motors,2017-12,"GM, based in Detroit, previously settled claims related to more than 1,700 claimants."
+General Motors,2017-12,"Thursday's decision dismissed claims by Vivian Garza, who was 19 when her Chevrolet Cobalt crashed on an icy highway in Alice, Texas, in February 2011."
+General Motors,2017-12,"It also dismissed claims by the son of Ruby Greenroad over the January 2013 crash of her 2007 Cobalt in the Houston area, court records show. Greenroad died at age 90 the following year."
+General Motors,2017-12,"The case is In re: General Motors LLC Ignition Switch Litigation, U.S. District Court, Southern District of New York, No. 14-md-02543."
+General Motors,2017-12,"{{20171228T004536.000+0000}}BREAKINGVIEWS-Samsung soups up for car race of the futureHONG KONG, Dec 28 (Reuters Breakingviews)"
+General Motors,2017-12,(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+General Motors,2017-12,"HONG KONG, Dec 28 (Reuters Breakingviews) - Samsung Electronics <005930.KS> will soon soup up its engine for the car race of the future. The tech behemoth faces slowing growth in its core smartphone and chips products at the same time as it's distracted by a leadership crisis. Revving up its automotive offering, as strategy chief Young Sohn recently said the company would like to do, could help Samsung jump start new growth engines."
+General Motors,2017-12,"The cyclical market for memory chips, which account for over 60 percent of Samsung's operating profit, may enter a downturn next year, analysts warn. Meanwhile, the automotive tech market is growing fast and could be worth $645 billion or more by 2030, according to Jefferies. By then 95 percent of new cars on the road could be self-driving, reckon Bernstein analysts."
+General Motors,2017-12,"The South Korean conglomerate splashed out $8 billion in 2016 for Harman, a parts supplier which provides infotainment systems to Volkswagen , General Motors and other carmakers. So far, though, the company has only dabbled in autonomous vehicles, taking small stakes in startups including Oculii, which makes radar sensors, and car-safety specialist TTTech."
+General Motors,2017-12,"That pales in comparison to Qualcomm's $47 billion bid for automotive chip maker NXP Semiconductors , or Intel's $15 billion acquisition of Mobileye. Apple , Alphabet and Uber are pouring huge sums into self-driving cars and GM plans to put fleets of robo-taxis on U.S. streets by 2019."
+General Motors,2017-12,"Samsung's $46 billion or so of net cash gives it the financial power to try and catch up. Investing some of that to beef up Harman's integrated car systems to rival Delphi is one option. Another would involve playing to its natural strengths in semiconductors and taking on the likes of NXP and Nvidia , whose chips power cars from Tesla to Toyota <7203.T>."
+General Motors,2017-12,"Or it could try expanding into a related field by snagging, for example, a cyber-security specialist. The candidates range from the $3 billion FireEye to $18 billion Symantec ."
+General Motors,2017-12,"There are a couple of obstacles in its path, though. First, Samsung is engulfed in a leadership crisis: de facto boss Jay Y. Lee was convicted of bribery in August and several top executives have since resigned. Second, organic expansion takes time, yet Samsung has never been a big M&A player: Harman is its largest acquisition."
+General Motors,2017-12,"That means new executives will need quickly to get comfortable with taking the wheel. With so many players already further down the road, Samsung needs to speed up to compete."
+General Motors,2017-12,"- Samsung Electronics President and Chief Strategy Officer Young Sohn on Dec. 1 said he was keen for the company to expand in automotive markets, digital health and industrial automation."
+General Motors,2017-12,"- Speaking to Reuters on the sidelines of the Slush tech startup festival in Helsinki, Sohn said Samsung's $8 billion purchase of automotive and audio company, Harman, in 2016 had given Samsung confidence to chase big deals."
+General Motors,2017-12,"- By 2030, 106 million new vehicles a year, or 95 percent of all new cars sold, will be fully autonomous, according to analysts at Bernstein."
+General Motors,2017-12,"- For previous columns by the author, Reuters customers can click on [MAK/]"
+General Motors,2017-12,"{{20171222T021643.000+0000}}UPDATE 1-Some U.S. automakers go slow on automatic emergency braking systemsWASHINGTON, Dec 21 (Reuters)"
+General Motors,2017-12,"WASHINGTON, Dec 21 (Reuters) - U.S. automakers installed automatic emergency braking technology that experts said could prevent thousands of deaths and injuries in just 19 percent of new vehicles sold in the 2017 model year, regulators and safety advocates said on Thursday."
+General Motors,2017-12,"Last year, 20 automakers struck a voluntary agreement with the U.S. National Highway Traffic Safety Administration (NHTSA) to make collision-avoiding braking systems standard equipment on nearly all light vehicles by September 2022, representing 99 percent of all U.S. vehicle sales."
+General Motors,2017-12,"The push comes as U.S. traffic deaths jumped 5.6 percent in 2016 to a decade-high 37,461, and pedestrian deaths rose 9 percent to 5,987, the highest number since 1990. By 2025, standard automatic braking systems could prevent 28,000 crashes and 12,000 injuries, the Insurance Institute for Highway Safety estimated."
+General Motors,2017-12,"Automatic braking systems, which activate brakes when the technology senses objects ahead and the driver does not slow down, require more sensors and software than conventional brakes and add to vehicle costs. Automakers say they need time to engineer the systems that use radar or cameras into vehicles as part of more comprehensive makeovers."
+General Motors,2017-12,"Luxury automakers have been quick to install the systems, while others have lagged."
+General Motors,2017-12,"Tesla Inc and Daimler AG's Mercedes-Benz unit have installed the technology on virtually all vehicles sold, according to figures released by NHTSA."
+General Motors,2017-12,"Toyota Motor Corp <7203.T> has the largest number of 2017 model vehicles with automatic emergency braking, equipping 56 percent of its fleet, or 1.4 million vehicles."
+General Motors,2017-12,"Volkswagen AG's VW brand has it in 36 percent of vehicles, while its Audi unit has it in 73 percent of vehicles. Its Porsche unit did not install the technology on any 2017 vehicles. Subaru Corp <7270.T> has the technology in nearly all vehicles sold."
+General Motors,2017-12,"General Motors Co installed the technology on 20 percent of vehicles sold, while Fiat Chrysler Automobiles NV has it in 6 percent and Ford Motor Co just 2 percent - the lowest of any major automaker. Jaguar Land Rover, owned by India's Tata Motors did not install the technology on any 2017 vehicles."
+General Motors,2017-12,"GM said it continues to expand availability of automatic emergency braking, and about two thirds of its U.S. models offer the system."
+General Motors,2017-12,"Ford spokeswoman Elizabeth Weigandt said the automaker offers automatic emergency braking on a number of vehicles and has ""a plan to standardize over time."""
+General Motors,2017-12,"Fiat Chrysler backs the 2022 commitment, and a spokesman said it is offering automatic emergency braking on a growing number of vehicles."
+General Motors,2017-12,"Jason Levine, executive director of the Center for Auto Safety, said automakers are ""playing roulette with the lives of consumers who cannot afford safety as a luxury."" He said NHTSA must write mandatory regulations, not rely on a voluntary agreement."
+General Motors,2017-12,"{{20171221T225245.950+0000}}Some U.S. automakers go slow on automatic emergency braking systemsWASHINGTON, Dec 21 (Reuters)"
+General Motors,2017-12,"WASHINGTON, Dec 21 (Reuters) - U.S. automakers installed automatic emergency braking technology that experts said could prevent thousands of deaths and injuries in just 19 percent of new vehicles sold in the 2017 model year, regulators and safety advocates said on Thursday."
+General Motors,2017-12,"Last year, 20 automakers struck a voluntary agreement with the U.S. National Highway Traffic Safety Administration (NHTSA) to make collision-avoiding braking systems standard equipment on nearly all light vehicles by September 2022."
+General Motors,2017-12,"The push comes as U.S. traffic deaths jumped 5.6 percent in 2016 to a decade-high 37,461, and pedestrian deaths rose 9 percent to 5,987, the highest number since 1990. By 2025, standard automatic braking systems could prevent 28,000 crashes and 12,000 injuries, the Insurance Institute for Highway Safety estimated."
+General Motors,2017-12,"Automatic braking systems, which activate brakes when the technology senses objects ahead and the driver does not slow down, require more sensors and software than conventional brakes and add to vehicle costs. Automakers say they need time to engineer the systems into vehicles as part of more comprehensive makeovers."
+General Motors,2017-12,"Luxury automakers have been quick to install the systems, while others have lagged."
+General Motors,2017-12,"Tesla Inc and Daimler AG's Mercedes-Benz unit have installed it on virtually all vehicles sold, according to figures released by NHTSA."
+General Motors,2017-12,"Toyota Motor Corp <7203.T> has the largest number of 2017 model vehicles with automatic emergency braking, equipping 56 percent of its fleet, or 1.4 million vehicles."
+General Motors,2017-12,"Volkswagen AG's VW brand has it in 36 percent of vehicles, while its Audi unit has it in 73 percent of vehicles. Subaru Corp <7270.T> has the technology in nearly all vehicles sold."
+General Motors,2017-12,"General Motors Co installed the technology on 20 percent of vehicles sold, while Fiat Chrysler Automobiles NV has it in 6 percent and Ford Motor Co just 2 percent -- the lowest of any major automaker."
+General Motors,2017-12,"GM said it continues to expand availability of automatic emergency braking, and about two thirds of its U.S. models offer the system."
+General Motors,2017-12,"Ford spokeswoman Elizabeth Weigandt said the automaker offers automatic emergency braking on a number of vehicles and has ""a plan to standardize over time."""
+General Motors,2017-12,"Fiat Chrysler backs the 2022 commitment and a spokesman said it offers forward collision warning systems, which alert drivers to objects or vehicles in front of them but do no activate the brakes, on a number of vehicles."
+General Motors,2017-12,"Jason Levine, executive director of the Center for Auto Safety, said automakers are ""playing roulette with the lives of consumers who cannot afford safety as a luxury."" He said NHTSA must write mandatory regulations, not rely on a voluntary agreement."
+General Motors,2017-12,"{{20171219T230104.682+0000}}U.S. RESEARCH ROUNDUP-Apple, Altria, Arris International, GM, Zimmer BiometDec 19 (Reuters)"
+General Motors,2017-12,Dec 19 (Reuters) - Wall Street securities analysts revised their ratings and price targets
+General Motors,2017-12,"on several U.S.-listed companies, including Altria Group, Arris International and General"
+General Motors,2017-12,* Arris International Plc : Morgan Stanley cuts to equal-weight from overweight
+General Motors,2017-12,* General Motors Co : RBC raises to outperform from sector perform
+General Motors,2017-12,Following is a summary of research actions on U.S. companies reported by Reuters on Tuesday.
+General Motors,2017-12,Stock entries are in alphabetical order. See bottom of the table for sector changes.
+General Motors,2017-12,* Affiliated Managers Group Inc : Deutsche Bank raises target price to $208 from $200
+General Motors,2017-12,* Agco Corp : Deutsche Bank cuts price target to $83 from $85; rating buy
+General Motors,2017-12,* Agco Corp : JP Morgan raises price target to $66 from $61; rating underweight
+General Motors,2017-12,* Agree Realty Corp : Wells Fargo raises target price to $56 from $51
+General Motors,2017-12,* Akamai Technologies : Craig Hallum ups to buy from hold; raises target to $80
+General Motors,2017-12,* Allegiant Travel Co : Imperial Capital raises target price to $150 from $132
+General Motors,2017-12,* American Axle & Manufacturing Holdings Inc : RBC raises target to $24 from $23
+General Motors,2017-12,* American Equity Investment Life Holding Co : KBW raises target to $31 from $30
+General Motors,2017-12,* Arch Capital Group Ltd : Credit Suisse cuts target price to $107 from $109
+General Motors,2017-12,* Arris International Plc : Morgan Stanley cuts target price to $31 from $34
+General Motors,2017-12,* Arris International Plc : Morgan Stanley cuts to equal-weight from overweight
+General Motors,2017-12,* Arthur J Gallagher & Co : Credit Suisse raises target price to $71 from $69
+General Motors,2017-12,* Asure Software Inc : Cowen and Company raises target price to $20 from $17
+General Motors,2017-12,* Axalta Coating Systems Ltd : Raymond James starts with market perform
+General Motors,2017-12,* Banco De Chile : Credit Suisse raises target price to $101 from $89
+General Motors,2017-12,* Banco Santander-Chile : Credit Suisse raises target price to $35 from $31
+General Motors,2017-12,* Bank of New York Mellon Corp : Deutsche Bank raises target price to $62 from $60
+General Motors,2017-12,* Berkshire Hills Bancorp : Compass Point cuts target to $38 from $39; neutral
+General Motors,2017-12,* Blackstone Group LP : Deutsche Bank raises target price to $33 from $32
+General Motors,2017-12,* Boyd Gaming Corp : Morgan Stanley raises target price to $31 from $27
+General Motors,2017-12,* Boyd Gaming Corp : Union Gaming raises price target to $40 from $32
+General Motors,2017-12,* Bristol-Myers Squibb Co : Credit Suisse raises target price to $62 from $61
+General Motors,2017-12,* Caretrust REIT Inc : Wells Fargo raises target price to $20 from $18.50
+General Motors,2017-12,* Carlyle Group LP : Deutsche Bank raises target price to $24 from $22
+General Motors,2017-12,* Carnival Corp : JP Morgan raises price target to $75 from $69; rating neutral
+General Motors,2017-12,* CBOE Global Markets Inc : Deutsche Bank raises target price to $125 from $114
+General Motors,2017-12,* Charles Schwab Corp : Deutsche Bank raises target price to $50 from $48
+General Motors,2017-12,* Chicago Bridge & Iron Company NV : D.A.Davidson cuts price target to $19 from $25
+General Motors,2017-12,* Chicago Bridge & Iron Company NV : Deutsche Bank cuts target price to $19 from $20
+General Motors,2017-12,* Chicago Bridge & Iron Company NV : Deutsche Bank cuts to hold from buy
+General Motors,2017-12,* Ciner Resources LP : SunTrust Robinson cuts price target to $27 from $32
+General Motors,2017-12,* Ciner Resources LP : SunTrust Robinson cuts to hold from buy
+General Motors,2017-12,* Citizens Financial Group Inc : BMO raises target price to $48 from $40
+General Motors,2017-12,* Citizens Financial Group Inc : BMO raises to outperform from market perform
+General Motors,2017-12,* CME Group Inc : Deutsche Bank raises target price to $162 from $155
+General Motors,2017-12,* CNO Financial Group Inc : KBW raises target price to $24 from $23
+General Motors,2017-12,* Criteo SA : Cowen and Company cuts target price to $25 from $40
+General Motors,2017-12,* Darden Restaurants Inc : Jefferies raises price target to $90 from $82; hold
+General Motors,2017-12,* DDR Corp : Mizuho raises target price to $9 from $7.50; rating neutral
+General Motors,2017-12,* Delphi Technologies Plc : Wells Fargo starts with outperform rating; $59 target
+General Motors,2017-12,* E*Trade Financial Corp : Deutsche Bank raises target price to $54 from $52
+General Motors,2017-12,* Eaton Vance Corp : Deutsche Bank raises target price to $60 from $59
+General Motors,2017-12,* Edgewell Personal Care Co : Wells Fargo resumes coverage with $59 target price
+General Motors,2017-12,* Edgewell Personal Care Co : Wells Fargo resumes coverage with market perform
+General Motors,2017-12,* Enlink Midstream Partners LP : B.Riley resumes with neutral; target price $17
+General Motors,2017-12,* Envision Healthcare Corp : Jefferies cuts target price to $41 from $71; rating buy
+General Motors,2017-12,* Extended Stay America Inc : Barclays raises target price to $21 from $20
+General Motors,2017-12,* Factset Research Systems : Deutsche Bank raises target to $175 from $170; hold
+General Motors,2017-12,* Factset Research Systems:Morgan Stanley ups target to $179 from $171;equal-weight
+General Motors,2017-12,* Federated Investors Inc : Deutsche Bank cuts target price to $33 from $34
+General Motors,2017-12,* Franklin Resources Inc : Deutsche Bank raises target price to $46 from $45
+General Motors,2017-12,* Gaming and Leisure Properties : Morgan Stanley raises target to $40 from $38
+General Motors,2017-12,* Gaming and Leisure Properties : Susquehanna raises target price to $41 from $39
+General Motors,2017-12,* Gaming and Leisure Properties : Union Gaming raises rating to buy
+General Motors,2017-12,* General Motors Co : RBC raises to outperform from sector perform
+General Motors,2017-12,* Goodyear Tire & Rubber Co : Jefferies raises target price to $36; rating buy
+General Motors,2017-12,* Hartford Financial Services Group : Credit Suisse raises target to $65 from $57
+General Motors,2017-12,* Hartford Financial Services Group : Credit Suisse raises to outperform from neutral
+General Motors,2017-12,* Heico Corp : Jefferies raises price target to $103 from $89; rating hold
+General Motors,2017-12,* Hershey Co : Credit Suisse raises target price to $125 from $121; rating outperform
+General Motors,2017-12,* Intercontinental Exchange Inc : Deutsche Bank raises target price to $79 from $76
+General Motors,2017-12,* KKR & Co LP : Deutsche Bank raises target price to $21 from $20
+General Motors,2017-12,* Legg Mason Inc : Deutsche Bank raises target price to $50 from $46
+General Motors,2017-12,* Lexington Realty Trust : Wells Fargo raises target price to $11 from $10
+General Motors,2017-12,* Martin Midstream Partners LP : B.Riley resumes with buy; $18 target price
+General Motors,2017-12,* Mcdonald's : Credit Suisse raises target price to $185 from $178; rating outperform
+General Motors,2017-12,* Melco Resorts & Entertainment Ltd : JP Morgan raises to overweight from neutral
+General Motors,2017-12,* Merck & Co Inc : Credit Suisse cuts target price to $67 from $70
+General Motors,2017-12,* National Retail Properties Inc : Wells Fargo raises target price to $47 from $46
+General Motors,2017-12,* National Storage Affiliates Trust : Wells Fargo raises target price to $30 from $26
+General Motors,2017-12,* Navistar International Corp : Stifel raises price target to $55 from $50; buy
+General Motors,2017-12,* Northern Trust Corp : Deutsche Bank cuts target price to $102 from $103
+General Motors,2017-12,* Northwest Natural Gas Co : RBC starts with sector perform rating; $63 price target
+General Motors,2017-12,* Owens & Minor Inc : JP Morgan cuts price target to $22 from $28
+General Motors,2017-12,* Penn National Gaming Inc : Morgan Stanley raises target price to $28 from $26
+General Motors,2017-12,* Pfizer Inc : Independent Research raises target to $39.00 from $37.00;rating hold
+General Motors,2017-12,* Pinnacle Entertainment Inc : Union Gaming raises price target to $35 from $30
+General Motors,2017-12,* PPG Industries Inc : Raymond James starts with outperform; target price $139
+General Motors,2017-12,* Principal Financial Group Inc : KBW raises target price to $76 from $73
+General Motors,2017-12,* Realty Income Corp : Wells Fargo cuts target price to $63 from $65
+General Motors,2017-12,* Reinsurance Group of America Inc : KBW raises target price to $150 from $148
+General Motors,2017-12,* RSP Permian Inc : Stifel raises target price to $46 from $45; rating buy
+General Motors,2017-12,* Ryman Hospitality Properties : Wells Fargo raises target price to $76 from $64
+General Motors,2017-12,* Ryman Hospitality Properties : Wells Fargo raises to outperform from market perform
+General Motors,2017-12,* Shake Shack Inc : Cowen and Company raises target price to $42 from $36
+General Motors,2017-12,* Sherwin-Williams Co : Raymond James starts with strong buy; target price $496
+General Motors,2017-12,* SL Green Realty Corp : Barclays cuts target price to $104 from $105
+General Motors,2017-12,* Snyder'S-Lance Inc : SunTrust Robinson raises price target to $50 from $35
+General Motors,2017-12,* Southwest Gas Holdings Inc : UBS raises target price to $97 from $85
+General Motors,2017-12,* Southwest Gas Holdings Inc : UBS raises to buy from neutral
+General Motors,2017-12,* Spark Therapeutics Inc : Leerink raises target to $52 from $49; market perform
+General Motors,2017-12,* Spirit Realty Capital Inc : Mizuho raises target price to $9.50 from $9; buy
+General Motors,2017-12,* State Street Corp : Deutsche Bank raises target price to $103 from $102
+General Motors,2017-12,* Store Capital Corp : Wells Fargo raises target price to $27 from $25
+General Motors,2017-12,* Sunoco LP : B.Riley resumes coverage with neutral rating and $32.00 price target
+General Motors,2017-12,* Sunstone Hotel Investors Inc : Wells Fargo cuts to market perform from outperform
+General Motors,2017-12,* T. Rowe Price Group Inc : Deutsche Bank raises target price to $102 from $99
+General Motors,2017-12,* TD Ameritrade Holding Corp : Deutsche Bank raises target price to $58 from $57
+General Motors,2017-12,* Total System Services Inc : Numis raises target to $80 from $72; rating neutral
+General Motors,2017-12,* Travelers Companies Inc : Credit Suisse raises target price to $141 from $130
+General Motors,2017-12,* Universal Health Services : Credit Suisse raises target to $135;rating outperform
+General Motors,2017-12,* USA Compression Partners LP : B.Riley resumes coverage with $18.00 price target
+General Motors,2017-12,* USA Compression Partners LP : B.Riley resumes coverage with neutral rating
+General Motors,2017-12,* USD Partners LP : B.Riley resumes coverage with neutral rating and $11.00 target
+General Motors,2017-12,* Viper Energy Partners LP : Imperial Capital raises target price to $27 from $23
+General Motors,2017-12,* Westlake Chemical Partners LP : B.Riley resumes with neutral; target price $26
+General Motors,2017-12,* William Lyon Homes : JP Morgan cuts price target to $31.5 from $32.5
+General Motors,2017-12,* Wisdomtree Investments Inc : Deutsche Bank raises target price to $14 from $13
+General Motors,2017-12,* Zimmer Biomet Holdings : Wells Fargo raises price target to $140 from $123
+General Motors,2017-12,* Financial Technology sector: Wells Fargo raises its view to overweight
+General Motors,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet - Reuters News"
+General Motors,2017-12,"{{20171219T181706.579+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet* Eikon search string for individual stock moves: [STXBZ]"
+General Motors,2017-12,Wall Street dipped on Tuesday ahead of a vote on a bill to overhaul the U.S. tax
+General Motors,2017-12,"system, with a pullback in technology stocks leading the declines after two"
+General Motors,2017-12,strong session of gains on hopes that Congress will vote in favor of the bill.
+General Motors,2017-12,"At 12:56 ET, the Dow Jones Industrial Average <.DJI> was down 0.12 percent"
+General Motors,2017-12,"BUZZ-Apple: Instinet cuts to 'neutral', sees limited upside to iPhone X sales"
+General Motors,2017-12,"BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view"
+General Motors,2017-12,"BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018 [nL4N1OJ3VZ]"
+General Motors,2017-12,"BUZZ-Crypto Co: SEC suspends trading after 2,700 pct bitcoin-fueled surge"
+General Motors,2017-12,SEC suspends trading in tiny firm after eye-popping rise [nL4N1OJ486]
+General Motors,2017-12,BUZZ-OTC-traded bitcoin bets tumble after SEC suspends Crypto Co shares
+General Motors,2017-12,BUZZ-Riot Blockchain: Gains despite private placement on stormy day for crypto
+General Motors,2017-12,"BUZZ-Longfin dives, then rebounds in turbulent day for crypto"
+General Motors,2017-12,"BUZZ-Kindred Healthcare to be bought by Humana, private equity [nL4N1OJ48T]"
+General Motors,2017-12,"BUZZ-Carnival Corp: Robust demand, higher ticket prices boost results"
+General Motors,2017-12,"BUZZ-Altria: Berenberg says lower tax to boost EPS, div payout [nL4N1OJ46C]"
+General Motors,2017-12,"BUZZ-Tenet Healthcare: Boosted by plan to sale unit, cut more costs"
+General Motors,2017-12,BUZZ-Spark Therapeutics: FDA approves gene therapy for rare form of blindness
+General Motors,2017-12,BUZZ-Cars.com: Accelerates to record high on Starboard stake [nL4N1OJ3UI]
+General Motors,2017-12,BUZZ-U.S. banks mixed ahead of Congress vote on tax bill [nL4N1OJ4D7]
+General Motors,2017-12,BUZZ-Funko Inc: Wobbles to record low after BMO downgrade [nL1N1OJ0VL]
+General Motors,2017-12,UPDATE 1-Packaging company Crown Holdings to buy Signode in $3.91 bln deal
+General Motors,2017-12,BUZZ-Jack in the Box to sell Qdoba Restaurant unit to Apollo Global
+General Motors,2017-12,BUZZ-Zimmer Biomet: Top of S&P after CEO hunt finally ends [nL4N1OJ44J]
+General Motors,2017-12,BUZZ-Remark Holdings: Hits 9-yr high on new KanKan deal in China [nL4N1OJ4B2]
+General Motors,2017-12,BUZZ-Novavax Inc: Down on delayed data from influenza vaccine study
+General Motors,2017-12,"BUZZ-Sucampo: Nomura bullish on ultra-rare disease drug, says 'buy'"
+General Motors,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet - Reuters News"
+General Motors,2017-12,"{{20171219T172532.815+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet* Eikon search string for individual stock moves: [STXBZ]"
+General Motors,2017-12,"Wall Street dipped on Tuesday, ahead of a vote on a bill to overhaul the U.S."
+General Motors,2017-12,"tax system, weighed down by an Apple-led pullback after two strong session of"
+General Motors,2017-12,gains on rising hopes that the U.S. Congress will vote in favor of the bill.
+General Motors,2017-12,"At 11:36 ET, the Dow Jones Industrial Average <.DJI> was down 0.11 percent"
+General Motors,2017-12,"BUZZ-Apple: Instinet cuts to 'neutral', sees limited upside to iPhone X sales"
+General Motors,2017-12,BUZZ-McDonald's value menu could turn 2018 into a year of deep discounting in
+General Motors,2017-12,"BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view"
+General Motors,2017-12,"BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018 [nL4N1OJ3VZ]"
+General Motors,2017-12,"UPDATE 3-Humana, private equity firms buy Kindred Healthcare for $810 mln"
+General Motors,2017-12,"BUZZ-Kindred Healthcare to be bought by Humana, private equity [nL4N1OJ48T]"
+General Motors,2017-12,UPDATE 1-Cruise operator Carnival beats Street on boost from ticket prices
+General Motors,2017-12,"BUZZ-Carnival Corp: Robust demand, higher ticket prices boost results"
+General Motors,2017-12,"BUZZ-Altria: Berenberg says lower tax to boost EPS, div payout [nL4N1OJ46C]"
+General Motors,2017-12,UPDATE 2-Tenet explores sale of Conifer unit amid investor pressure
+General Motors,2017-12,"BUZZ-Tenet Healthcare: Boosted by plan to sale unit, cut more costs"
+General Motors,2017-12,BUZZ-Spark Therapeutics: FDA approves gene therapy for rare form of blindness
+General Motors,2017-12,FDA approves Spark's gene therapy for rare form of blindness [nFWN1OJ0N6]
+General Motors,2017-12,BUZZ-Cars.com: Accelerates to record high on Starboard stake [nL4N1OJ3UI]
+General Motors,2017-12,BUZZ-U.S. banks mixed ahead of Congress vote on tax bill [nL4N1OJ4D7]
+General Motors,2017-12,"BUZZ-Longfin dives, then rebounds in turbulent day for crypto [nL1N1OJ18Q]"
+General Motors,2017-12,BUZZ-Funko Inc: Wobbles to record low after BMO downgrade [nL1N1OJ0VL]
+General Motors,2017-12,UPDATE 1-Packaging company Crown Holdings to buy Signode in $3.91 bln deal
+General Motors,2017-12,Jack in the Box to sell Qdoba Restaurant unit for $305 mln cash [nL4N1OJ3NN]
+General Motors,2017-12,BUZZ-Jack in the Box to sell Qdoba Restaurant unit to Apollo Global
+General Motors,2017-12,BUZZ-Zimmer Biomet: Top of S&P after CEO hunt finally ends [nL4N1OJ44J]
+General Motors,2017-12,BUZZ-Remark Holdings: Hits 9-yr high on new KanKan deal in China [nL4N1OJ4B2]
+General Motors,2017-12,"BUZZ-Crypto Co: SEC suspends trading after 2,700 pct bitcoin-fueled surge"
+General Motors,2017-12,SEC suspends trading in tiny firm after eye-popping rise [nL4N1OJ486]
+General Motors,2017-12,BUZZ-OTC-traded bitcoin bets tumble after SEC suspends Crypto Co shares
+General Motors,2017-12,BUZZ-Novavax Inc: Down on delayed data from influenza vaccine study
+General Motors,2017-12,"BUZZ-Sucampo: Nomura bullish on ultra-rare disease drug, says 'buy'"
+General Motors,2017-12,"{{20171219T152250.072+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, GM, Cars.com, Zimmer Biomet, Navistar* Eikon search string for individual stock moves: [STXBZ]"
+General Motors,2017-12,"Wall Street's main indexes were slightly lower on Tuesday, weighed down by an"
+General Motors,2017-12,Apple-led pullback in technology stocks and after two strong session of gains on
+General Motors,2017-12,rising hopes that the U.S. Congress will vote in favor of a proposed tax
+General Motors,2017-12,"At 9:56 ET, the Dow Jones Industrial Average <.DJI> was down 0.19 percent at"
+General Motors,2017-12,"BUZZ-Apple: Instinet cuts to 'neutral', sees limited upside to iPhone X sales"
+General Motors,2017-12,BUZZ-McDonald's value menu could turn 2018 into a year of deep discounting in
+General Motors,2017-12,"BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view"
+General Motors,2017-12,"BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018 [nL4N1OJ3VZ]"
+General Motors,2017-12,"BUZZ-Altria: Berenberg says lower tax to boost EPS, div payout [nL4N1OJ46C]"
+General Motors,2017-12,UPDATE 1-Cruise operator Carnival beats Street on boost from ticket prices
+General Motors,2017-12,"BUZZ-Carnival Corp: Robust demand, higher ticket prices boost results"
+General Motors,2017-12,UPDATE 1-Tenet to explore Conifer unit sale amid investor pressure [nL4N1OJ3SK]
+General Motors,2017-12,"BUZZ-Tenet Healthcare: Boosted by plan to sale unit, cut more costs"
+General Motors,2017-12,BUZZ-Cars.com: Accelerates to record high on Starboard stake [nL4N1OJ3UI]
+General Motors,2017-12,Jack in the Box to sell Qdoba Restaurant unit for $305 mln cash [nL4N1OJ3NN]
+General Motors,2017-12,BUZZ-Jack in the Box to sell Qdoba Restaurant unit to Apollo Global
+General Motors,2017-12,BUZZ-Zimmer Biomet: Top of S&P after CEO hunt finally ends [nL4N1OJ44J]
+General Motors,2017-12,BUZZ-Novavax Inc: Down on delayed data from influenza vaccine study
+General Motors,2017-12,"{{20171219T141119.149+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, GM, Cars.com, Kindred Health, Roku, Akers Bio* Eikon search string for individual stock moves: [STXBZ]"
+General Motors,2017-12,"Wall Street's major indexes were poised to inch higher at the open on Tuesday, building on strong gains in the past two sessions on rising hopes that the U.S. Congress will vote in favor of the proposed tax overhaul. [.N]"
+General Motors,2017-12,** Darden Restaurants Inc : up 2.4 pct premarket BUZZ-Darden Restaurants Inc: Strong results help shares [nL4N1OJ3Q7]
+General Motors,2017-12,"** Sucampo : up 4.2 pct premarket BUZZ-Sucampo: Nomura bullish on ultra-rare disease drug, says 'buy' [nL4N1OJ3B0]"
+General Motors,2017-12,** Marathon Patent Group Inc : down 10.1 pct premarket BUZZ-Marathon Patent falls on another stock offering [nL4N1OJ3KL]
+General Motors,2017-12,"{{20171219T125817.975+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, GM, McDonald's, Roku, Navistar, Akers Biosciences* Eikon search string for individual stock moves: [STXBZ]"
+General Motors,2017-12,"Wall Street's major indexes were poised to inch higher at the open on Tuesday, building on gains in the past two sessions on rising hopes that the U.S. Congress will vote for the biggest overhaul of the country's tax system in more than 30 years.[.N]"
+General Motors,2017-12,"{{20171219T092413.216+0000}}BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view** RBC upgrades General Motors to ""outperform"" from ""sector perform,"" raises target price to $52 from $51"
+General Motors,2017-12,"** Says it has more confidence in co achieving 10 pct North America margin target in 2018, sees better profitability than previously forecast and revises 2018 EPS to $6.30, ~9 pct above consensus"
+General Motors,2017-12,** Sees GM 2018 guidance above consensus leading to positive earnings revisions
+General Motors,2017-12,"** RBC says Q3 results encouraging enough for investors' ""overly pessimistic"" view to fade"
+General Motors,2017-12,"** Says GM already present in robo-taxi space, says this could increase demand for GM shares as growth/tech investors could look toward co"
+General Motors,2017-12,"** As of Monday's close, GM shares up 20.98 pct this year vs 22.29 pct rise in the broader Dow Jones U.S Automobiles & Parts Index <.DJUSAP>"
+General Motors,2017-12,{{20171218T183947.641+0000}}GM urges judge to throw out disputed ignition switch dealDec 18 (Reuters)
+General Motors,2017-12,Dec 18 (Reuters) - Lawyers for General Motors on Monday urged a federal bankruptcy judge in Manhattan to throw out a settlement that would require the company to pay $1 billion to car owners suing over faulty ignition switches.
+General Motors,2017-12,The carmaker made its argument on the first day of a scheduled three-day bench trial before Judge Martin Glenn of the U.S. Bankruptcy Court in New York. The trial will determine the validity of a deal the car owners said they reached in August with a trust that holds many GM liabilities from before its 2009 bankruptcy. [nL2N1L31WM]
+General Motors,2017-12,"The claims stem from GM's 2014 recall of 2.6 million vehicles with defective ignition switches, including one linked to 124 deaths."
+General Motors,2017-12,"Lawyers for the car owners say the trust agreed to a deal in August but walked away several days later, instead accepting GM's offer to help pay for its defense against the car owners' claims."
+General Motors,2017-12,"The judge questioned how that came about, noting GM had an interest in dissolving any deal that required it to pay more."
+General Motors,2017-12,"""I have trouble saying it passes the smell test,"" Glenn said, referring to a two-hour meeting between the trust and GM in August, after which the trust dropped the agreement with the plaintiffs."
+General Motors,2017-12,But attorneys for the carmaker and the trust told Glenn the trust had every right to drop the agreement.
+General Motors,2017-12,"""Sometimes people simply get cold feet, even when they get married,"" said Susheel Kirpalani, a lawyer for GM, ""and the same applies to settlements, your honor."""
+General Motors,2017-12,"The carmaker said the deal with the car owners had never been signed, rendering it non-binding. Mitchell Karlan, an attorney for the trust, on Monday also said plaintiff lawyers contradicted each other in their testimony on when the agreement was allegedly reached."
+General Motors,2017-12,"But the car owners said the trust acted in bad faith and claimed the agreement was binding even without a signature, pointing to conversations and emails with the trust."
+General Motors,2017-12,The settlement called for the trust to accept $10 billion in claims to resolve about 11.9 million allegations over economic loss and between 400 and 500 personal injury and wrongful death claims.
+General Motors,2017-12,"About 2.4 million claims, involving vehicles sold after GM's bankruptcy, would have remained pending in another court."
+General Motors,2017-12,"GM has already paid roughly $2.5 billion to settle ignition switch-related claims, including $900 million to settle a criminal probe by the U.S. Justice Department."
+General Motors,2017-12,"{{20171216T210000.000+0000}}GM offers a sneak peek at new Chevy truck, loaded with profitsDETROIT, Dec 16 (Reuters)"
+General Motors,2017-12,"DETROIT, Dec 16 (Reuters) - General Motors Co offered a sneak peek on Saturday of the next generation Chevrolet Silverado pickup, designed to haul big payloads of profits for the automaker when it launches next year."
+General Motors,2017-12,"The current Silverado is GM's best selling vehicle in North America, with sales of more than 500,000 vehicles last year. Analysts and company executives said it was also one of the manufacturer's highest-profit model lines."
+General Motors,2017-12,"GM has disclosed investments of nearly $3 billion to upgrade factories in Michigan, Indiana and Mexico that build the Silverado and its GMC brand counterpart, the Sierra."
+General Motors,2017-12,"Until now, GM has disclosed few details of the new truck ahead of its official debut at the North American International Auto Show in Detroit in January."
+General Motors,2017-12,"GM said it revealed an off-road version of the Silverado at an event for loyal Chevy truck owners in Texas, a state whose residents buy a lot of large, high-priced pickup trucks."
+General Motors,2017-12,"GM, in a statement, said the new Silverado will have a high-strength steel bed floor, and use ""mixed materials"" to achieve ""a significant reduction in total weight."" Lighter weight usually translates to improved fuel economy."
+General Motors,2017-12,"Previously, GM executives signaled they did not intend to ape their top rival and build the new Silverado's body entirely or mostly of aluminum, like Ford Motor Co's F-series pickups."
+General Motors,2017-12,"Detroit automakers, under pressure to boost fuel efficiency and cut carbon emissions, are slashing the weight of their best-selling large trucks. Yet the companies do not want to compromise the load-hauling capability and luxury features that allow them to command prices that average $46,984 a vehicle, according to Cox Automotive."
+General Motors,2017-12,"Ford recently launched a luxury F250 pickup that can have a sticker price as high as $94,455."
+General Motors,2017-12,"GM will offer eight versions of the new Silverado and more engine and transmission combinations than the current lineup, GM said."
+General Motors,2017-12,Fiat Chrysler Automobiles NV is expected to unveil the next generation of its big Ram 1500 pickup at the Detroit auto show.
+General Motors,2017-12,{{20171216T182551.969+0000}}MEDIA-GM Faces $1 Billion Reckoning in Disputed Ignition-Switch Settlement - WSJDec 16 (Reuters)
+General Motors,2017-12,"{{20171216T001312.000+0000}}Republican tax bill retains U.S. electric vehicle tax creditWASHINGTON, Dec 15 (Reuters)"
+General Motors,2017-12,"WASHINGTON, Dec 15 (Reuters) - A compromise Republican tax bill released late Friday does not eliminate a $7,500 electric vehicle tax credit as Republicans in the U.S. House of Representatives had previously proposed."
+General Motors,2017-12,"The measure follows the lead of the Senate version approved last month that did not eliminate the credit. Killing the credit could have hurt automakers like General Motors Co , Volkswagen AG , Tesla Inc and Nissan Motor Co <7201.T>."
+General Motors,2017-12,"Consumers under current law are eligible for a $7,500 tax credit to defray the cost of plug-in electric vehicles. The electric vehicle tax credit starts to phase out after a manufacturer sells 200,000 plug-in vehicles. After an automaker hits that point, the $7,500 tax credit is still available for at least three more months before phasing out."
+General Motors,2017-12,"Consumers are currently allowed to take the credit on vehicles until the manufacturer hits 200,000 plug-in vehicles sold. Electric vehicles have expensive batteries that make them pricier than gasoline-powered vehicles."
+General Motors,2017-12,"The Electric Drive Transportation Association said in a statement late Friday it was pleased the credit would remain in law. ""The credit supports innovation and job creation while helping drivers access advanced vehicle technology,"" the group said."
+General Motors,2017-12,"More than 50 automakers and other companies and groups released a letter earlier this week urging Congress to retain the credit, including Ford Motor Co , BMW AG , GM, Uber Technologies Inc [UBER.UL]."
+General Motors,2017-12,"Former President Barack Obama repeatedly proposed hiking the tax credit for electric vehicles to $10,000 and converting it to a point-of-sale rebate, but Congress did not approve the measure."
+General Motors,2017-12,Automakers face mandates from California and a dozen other states to produce a rising number of zero-emission vehicles and have said the credits are essential to meeting requirements.
+General Motors,2017-12,"{{20171215T114648.261+0000}}UPDATE 1-PSA's Opel to cut workers' hours in restructuringFRANKFURT, Dec 15 (Reuters)"
+General Motors,2017-12,"FRANKFURT, Dec 15 (Reuters) - PSA Group's Opel, under pressure to cut costs, said on Friday that management and staff representatives had reached an agreement that includes shorter hours for its workers."
+General Motors,2017-12,"The Ruesselsheim, Germany-based carmaker said a deal had been struck to, among other things, cut hours for at least six months from Jan. 1 in the engineering and administration departments."
+General Motors,2017-12,"From April 1, the work week will also be shortened to 35 hours for workers who currently have agreements in place to work more, Opel said."
+General Motors,2017-12,"Opel, which operates as Vauxhall in Britain, did not say how many workers would be affected. The loss-making company, which PSA bought from General Motors , earlier this year, employs over 37,000 people, including more than 19,000 in Germany, according to its website."
+General Motors,2017-12,"Opel also said a new common procurement organisation for Opel/Vauxhall with PSA's other brands, including Peugeot and Citroen, would increase efficiencies."
+General Motors,2017-12,"In the long term, 30 percent of savings from the integration of Opel into PSA will stem from procurement, it said."
+General Motors,2017-12,"""It is our common goal to make Opel competitive,"" said Michael Lohscheller, chief executive officer of Opel Automobile."
+General Motors,2017-12,"PSA Group Chief Executive Carlos Tavares had signalled possible cost cuts at Opel, noting in a newspaper interview in October that production costs were at least 50 percent higher than at the group's French factories. [nL8N1MV49A]"
+General Motors,2017-12,"Tavares has also said a failure of turnaround efforts at Opel would spell ""very serious"" consequences for workers at the German division and the company as a whole. [nL8N1NM4GJ]"
+General Motors,2017-12,"PSA has given Opel until 2020 to return to profit as part of a recovery plan aimed at shifting the brand's model lineup onto PSA's architecture, with the French parent pursuing 1.7 billion euros ($2 billion) in savings from its purchase of Opel."
+General Motors,2017-12,Other key elements of the agreement announced on Friday include an expansion of part-time programmes for older employees and the possibility of early retirement.
+General Motors,2017-12,"Managers' bonuses will be linked to the turnaround plan, Opel said."
+General Motors,2017-12,Dec 14 (Reuters) - The following are the top stories in the Wall Street Journal. Reuters has not verified these stories and does not vouch for their accuracy.
+General Motors,2017-12,{{20171214T035131.257+0000}}GM says former UAW Vice President Joe Ashton to resign from boardDec 13 (Reuters)
+General Motors,2017-12,"Dec 13 (Reuters) - General Motors Co said on Wednesday Joseph Ashton, a former United Auto Workers vice president who led the union's GM department, has resigned from the company's board."
+General Motors,2017-12,"The trust can nominate a replacement for Ashton, but shareholders won't vote on the trust's nominee until the company's next annual meeting in the spring, a GM spokesman said."
+General Motors,2017-12,"The U.S. Justice Department is looking into the use of money at UAW managed training centers funded by GM and Ford Motor Co , and into charities established by senior UAW officers. [nL2N1N8232]"
+General Motors,2017-12,General Motors and Ford said last month they were cooperating with the investigation into the finances of training centers.
+General Motors,2017-12,"GM is conducting its own investigation of the UAW-GM Center for Human Resources, the company spokesman said, but did not provide details of that investigation."
+General Motors,2017-12,"Ashton has not been charged with any wrongdoing, and federal authorities have not disclosed that he is under scrutiny as part of their probe."
+General Motors,2017-12,Federal officials expanded their probe of the UAW training centers after charging a former Fiat Chrysler Automobiles NV vice president of making $1.2 million in improper payments to a former union vice president and his wife. Four people have been charged in the Fiat Chrysler investigation.
+General Motors,2017-12,"{{20171213T215641.490+0000}}BRIEF-General Motors says Joseph Ashton, a director, to resign from Co's boardDec 13 (Reuters)"
+General Motors,2017-12,{{20171213T175133.683+0000}}CORRECTED-ANALYSIS-U.S. transit agencies cautious on electric buses despite bold forecasts(Corrects attribution in paragraph 4)
+General Motors,2017-12,"Bus ridership is falling nationwide, according to the American Public Transportation Association, and transit officials say they are trying to keep a lid on fares."
+General Motors,2017-12,"The technology is still a gamble for many cities, says Chris Stoddart, an executive at Canadian bus maker New Flyer Industries Inc . A top supplier of conventional buses to the U.S. market, the company has just a handful of pure battery electrics in service."
+General Motors,2017-12,"""People worry about being an early adopter. Remember 20 years ago someone paid $20,000 for a plasma TV and then 10 years later it was $900 at Best Buy,"" said Stoddart, senior vice president of engineering and customer service for New Flyer. ""People just don't want a science project."""
+General Motors,2017-12,Rival electric bus manufacturers expect dramatic growth; the most ambitious forecasts call for all bus purchases to be electric by 2030.
+General Motors,2017-12,"But even green-energy advocates are skeptical of such rosy predictions. CALSTART, a California-based nonprofit that promotes clean transportation, figures 50 percent to 60 percent of new buses will be zero emissions by 2030. Market research firm Navigant Research expects electric buses to make up 27 percent of new U.S. bus sales by 2027."
+General Motors,2017-12,"Transit agencies have found EV performance lags in extreme conditions. In environmentally friendly San Francisco, officials have resisted electrics over concerns about the city's famously steep hills."
+General Motors,2017-12,"""The technology isn't quite there yet,"" Erica Kato, a spokeswoman for the San Francisco Municipal Transportation Agency, said in a statement."
+General Motors,2017-12,"An electric bus tested last year near Phoenix wilted in the summer heat due to the strains of running the air conditioning. The vehicle never achieved more than 89.9 miles on a charge, less than two-thirds of its advertised range, according to a report by the Valley Metro Regional Public Transportation Authority."
+General Motors,2017-12,"In Massachusetts, two agencies running small numbers of electric buses - the Pioneer Valley Transit Authority in Springfield and Worcester's Regional Transit Authority - say the vehicles weaken in extreme cold and snow. They have no plans to acquire additional EVs, officials at those agencies said."
+General Motors,2017-12,"Even places with successful pilots have downplayed expectations. Seattle's King County Metro transit agency soon will be operating more than a dozen vehicles by three manufacturers, according to Pete Melin, director of zero emission fleet technologies. The agency likes what it has seen so far."
+General Motors,2017-12,"Still, Melin said, high electricity rates from the local utility at peak demand periods are a concern. And the lack of a uniform charging system among bus makers has complicated Seattle's goal of running an all-electric fleet by 2034."
+General Motors,2017-12,"""We have caveats to becoming zero emissions,"" Melin said in an interview."
+General Motors,2017-12,"Another worry is government funding. Federal money for bus purchases is about 25 percent lower than it was five years ago, according to Rob Healy, vice president of government affairs for the American Public Transportation Association."
+General Motors,2017-12,An Obama-era program that sets aside $55 million a year in grants to help transit agencies purchase clean buses will expire in 2020 if not renewed by Congress.
+General Motors,2017-12,"In addition to New Flyer, the fledgling U.S. electric bus industry has two other major players: Chinese automaker BYD, which is backed by Warren Buffett's Berkshire Hathaway Inc ; and Silicon Valley startup Proterra Inc."
+General Motors,2017-12,"BYD and Proterra began selling electric buses into the U.S. market several years ago, and have 165 and 126 vehicles on the road today, respectively."
+General Motors,2017-12,"Both are ramping up U.S. manufacturing on expectations that EVs will account for nearly all new bus sales in a little over a decade. BYD has a plant in Lancaster, California, while Proterra has manufacturing facilities in City of Industry, California and Greenville, South Carolina."
+General Motors,2017-12,"Buffett paid $230 million for a 10 percent stake in BYD in 2008. Today the company has a market capitalization of $25 billion, thanks mainly to China's aggressive move to electrify transportation. More than 15 percent of the 608,600 buses in China are pure electric, according to government data."
+General Motors,2017-12,"Proterra investors include venture capital firm Kleiner Perkins Caufield & Byers and the venture capital arm of General Motors Co . Proterra, based in Burlingame, California, is planning an initial public offering, but would not give a timeline for the debut."
+General Motors,2017-12,"Chief Executive Ryan Popple said range is improving quickly. The company is currently shipping models with up to 350 miles of range, but new battery technology is expected to boost that by nearly 30 percent."
+General Motors,2017-12,"""We're starting to outstrip the market requirement in terms of what city buses actually do,"" Popple said. ""It opens up new markets for us."""
+General Motors,2017-12,"Notably, Proterra's growth should also lift the fortunes of U.S. wind blade maker TPI Composites Inc , which struck a deal to build up to 3,350 lightweight bus bodies for the EV bus maker over the next five years. Raymond James analyst Pavel Molchanov estimated the deal could account for 12 percent of Scottsdale, Arizona-based TPI's revenue in 2019."
+General Motors,2017-12,"Winnipeg-based New Flyer, meanwhile, has won some big orders, including a deal to supply up to 100 electric buses to Los Angeles County Metropolitan Transportation Authority. Still, company executives view electrification as a gradual transformation."
+General Motors,2017-12,"""It's going to be a slow, methodical rather than an absolute disruption type environment,"" CEO Paul Soubry said on a conference call with analysts last month."
+General Motors,2017-12,"Despite the technology's limitations, some U.S. transit agencies are hitting the accelerator on their electric conversions. IndyGo, which serves greater Indianapolis, has struck a deal with BYD to purchase 31 electric buses, with the option to add dozens more, in addition to the 21 already in its fleet, according to an IndyGo board of directors meeting report from July. Agency spokesman Bryan Luellen said the EVs have reduced fuel and maintenance costs by up to half compared to conventional buses."
+General Motors,2017-12,"Foothill Transit, in Southern California, has been operating Proterra buses since 2010. It now has 17 in its fleet, with 13 more scheduled to arrive before the end of the year, according to spokeswoman Felicia Friesema."
+General Motors,2017-12,"Still, both agencies acknowledged trade-offs due to the limited range of these vehicles. Foothill has mainly confined its electric buses to a short 16-mile route. The Indianapolis EVs run primarily during the morning and evening rush hours, not all day long like the diesel workhorses that remain the mainstay of the fleet."
+General Motors,2017-12,"Still, IndyGo's Luellen figures the best is yet to come."
+General Motors,2017-12,"""With battery technology evolving rapidly we think it's a big opportunity for us to maximize our budget and do more,"" he said."
+General Motors,2017-12,{{20171213T175127.129+0000}}CORRECTED-RPT-ANALYSIS-U.S. transit agencies cautious on electric buses despite bold forecasts(Corrects attribution in paragraph 4)
+General Motors,2017-12,"Bus ridership is falling nationwide, according to the American Public Transportation Association, and transit officials say they are trying to keep a lid on fares."
+General Motors,2017-12,"The technology is still a gamble for many cities, says Chris Stoddart, an executive at Canadian bus maker New Flyer Industries Inc . A top supplier of conventional buses to the U.S. market, the company has just a handful of pure battery electrics in service."
+General Motors,2017-12,"""People worry about being an early adopter. Remember 20 years ago someone paid $20,000 for a plasma TV and then 10 years later it was $900 at Best Buy,"" said Stoddart, senior vice president of engineering and customer service for New Flyer. ""People just don't want a science project."""
+General Motors,2017-12,Rival electric bus manufacturers expect dramatic growth; the most ambitious forecasts call for all bus purchases to be electric by 2030.
+General Motors,2017-12,"But even green-energy advocates are skeptical of such rosy predictions. CALSTART, a California-based nonprofit that promotes clean transportation, figures 50 percent to 60 percent of new buses will be zero emissions by 2030. Market research firm Navigant Research expects electric buses to make up 27 percent of new U.S. bus sales by 2027."
+General Motors,2017-12,"Transit agencies have found EV performance lags in extreme conditions. In environmentally friendly San Francisco, officials have resisted electrics over concerns about the city's famously steep hills."
+General Motors,2017-12,"""The technology isn't quite there yet,"" Erica Kato, a spokeswoman for the San Francisco Municipal Transportation Agency, said in a statement."
+General Motors,2017-12,"An electric bus tested last year near Phoenix wilted in the summer heat due to the strains of running the air conditioning. The vehicle never achieved more than 89.9 miles on a charge, less than two-thirds of its advertised range, according to a report by the Valley Metro Regional Public Transportation Authority."
+General Motors,2017-12,"In Massachusetts, two agencies running small numbers of electric buses - the Pioneer Valley Transit Authority in Springfield and Worcester's Regional Transit Authority - say the vehicles weaken in extreme cold and snow. They have no plans to acquire additional EVs, officials at those agencies said."
+General Motors,2017-12,"Even places with successful pilots have downplayed expectations. Seattle's King County Metro transit agency soon will be operating more than a dozen vehicles by three manufacturers, according to Pete Melin, director of zero emission fleet technologies. The agency likes what it has seen so far."
+General Motors,2017-12,"Still, Melin said, high electricity rates from the local utility at peak demand periods are a concern. And the lack of a uniform charging system among bus makers has complicated Seattle's goal of running an all-electric fleet by 2034."
+General Motors,2017-12,"""We have caveats to becoming zero emissions,"" Melin said in an interview."
+General Motors,2017-12,"Another worry is government funding. Federal money for bus purchases is about 25 percent lower than it was five years ago, according to Rob Healy, vice president of government affairs for the American Public Transportation Association."
+General Motors,2017-12,An Obama-era program that sets aside $55 million a year in grants to help transit agencies purchase clean buses will expire in 2020 if not renewed by Congress.
+General Motors,2017-12,"In addition to New Flyer, the fledgling U.S. electric bus industry has two other major players: Chinese automaker BYD, which is backed by Warren Buffett's Berkshire Hathaway Inc ; and Silicon Valley startup Proterra Inc."
+General Motors,2017-12,"BYD and Proterra began selling electric buses into the U.S. market several years ago, and have 165 and 126 vehicles on the road today, respectively."
+General Motors,2017-12,"Both are ramping up U.S. manufacturing on expectations that EVs will account for nearly all new bus sales in a little over a decade. BYD has a plant in Lancaster, California, while Proterra has manufacturing facilities in City of Industry, California and Greenville, South Carolina."
+General Motors,2017-12,"Buffett paid $230 million for a 10 percent stake in BYD in 2008. Today the company has a market capitalization of $25 billion, thanks mainly to China's aggressive move to electrify transportation. More than 15 percent of the 608,600 buses in China are pure electric, according to government data."
+General Motors,2017-12,"Proterra investors include venture capital firm Kleiner Perkins Caufield & Byers and the venture capital arm of General Motors Co . Proterra, based in Burlingame, California, is planning an initial public offering, but would not give a timeline for the debut."
+General Motors,2017-12,"Chief Executive Ryan Popple said range is improving quickly. The company is currently shipping models with up to 350 miles of range, but new battery technology is expected to boost that by nearly 30 percent."
+General Motors,2017-12,"""We're starting to outstrip the market requirement in terms of what city buses actually do,"" Popple said. ""It opens up new markets for us."""
+General Motors,2017-12,"Notably, Proterra's growth should also lift the fortunes of U.S. wind blade maker TPI Composites Inc , which struck a deal to build up to 3,350 lightweight bus bodies for the EV bus maker over the next five years. Raymond James analyst Pavel Molchanov estimated the deal could account for 12 percent of Scottsdale, Arizona-based TPI's revenue in 2019."
+General Motors,2017-12,"Winnipeg-based New Flyer, meanwhile, has won some big orders, including a deal to supply up to 100 electric buses to Los Angeles County Metropolitan Transportation Authority. Still, company executives view electrification as a gradual transformation."
+General Motors,2017-12,"""It's going to be a slow, methodical rather than an absolute disruption type environment,"" CEO Paul Soubry said on a conference call with analysts last month."
+General Motors,2017-12,"Despite the technology's limitations, some U.S. transit agencies are hitting the accelerator on their electric conversions. IndyGo, which serves greater Indianapolis, has struck a deal with BYD to purchase 31 electric buses, with the option to add dozens more, in addition to the 21 already in its fleet, according to an IndyGo board of directors meeting report from July. Agency spokesman Bryan Luellen said the EVs have reduced fuel and maintenance costs by up to half compared to conventional buses."
+General Motors,2017-12,"Foothill Transit, in Southern California, has been operating Proterra buses since 2010. It now has 17 in its fleet, with 13 more scheduled to arrive before the end of the year, according to spokeswoman Felicia Friesema."
+General Motors,2017-12,"Still, both agencies acknowledged trade-offs due to the limited range of these vehicles. Foothill has mainly confined its electric buses to a short 16-mile route. The Indianapolis EVs run primarily during the morning and evening rush hours, not all day long like the diesel workhorses that remain the mainstay of the fleet."
+General Motors,2017-12,"Still, IndyGo's Luellen figures the best is yet to come."
+General Motors,2017-12,"""With battery technology evolving rapidly we think it's a big opportunity for us to maximize our budget and do more,"" he said."
+General Motors,2017-12,{{20171212T120002.800+0000}}RPT-ANALYSIS-U.S. transit agencies cautious on electric buses despite bold forecasts(Repeats for additional clients with no changes to text)
+General Motors,2017-12,"The technology is still a gamble for many cities at a time when bus ridership is falling nationwide and officials are trying to keep a lid on fares, says Chris Stoddart, an executive at Canadian bus maker New Flyer Industries Inc . A top supplier of conventional buses to the U.S. market, the company has just a handful of pure battery electrics in service."
+General Motors,2017-12,"""People worry about being an early adopter. Remember 20 years ago someone paid $20,000 for a plasma TV and then 10 years later it was $900 at Best Buy,"" said Stoddart, senior vice president of engineering and customer service for New Flyer. ""People just don't want a science project."""
+General Motors,2017-12,Rival electric bus manufacturers expect dramatic growth; the most ambitious forecasts call for all bus purchases to be electric by 2030.
+General Motors,2017-12,"But even green-energy advocates are skeptical of such rosy predictions. CALSTART, a California-based nonprofit that promotes clean transportation, figures 50 percent to 60 percent of new buses will be zero emissions by 2030. Market research firm Navigant Research expects electric buses to make up 27 percent of new U.S. bus sales by 2027."
+General Motors,2017-12,"Transit agencies have found EV performance lags in extreme conditions. In environmentally friendly San Francisco, officials have resisted electrics over concerns about the city's famously steep hills."
+General Motors,2017-12,"""The technology isn't quite there yet,"" Erica Kato, a spokeswoman for the San Francisco Municipal Transportation Agency, said in a statement."
+General Motors,2017-12,"An electric bus tested last year near Phoenix wilted in the summer heat due to the strains of running the air conditioning. The vehicle never achieved more than 89.9 miles on a charge, less than two-thirds of its advertised range, according to a report by the Valley Metro Regional Public Transportation Authority."
+General Motors,2017-12,"In Massachusetts, two agencies running small numbers of electric buses - the Pioneer Valley Transit Authority in Springfield and Worcester's Regional Transit Authority - say the vehicles weaken in extreme cold and snow. They have no plans to acquire additional EVs, officials at those agencies said."
+General Motors,2017-12,"Even places with successful pilots have downplayed expectations. Seattle's King County Metro transit agency soon will be operating more than a dozen vehicles by three manufacturers, according to Pete Melin, director of zero emission fleet technologies. The agency likes what it has seen so far."
+General Motors,2017-12,"Still, Melin said, high electricity rates from the local utility at peak demand periods are a concern. And the lack of a uniform charging system among bus makers has complicated Seattle's goal of running an all-electric fleet by 2034."
+General Motors,2017-12,"""We have caveats to becoming zero emissions,"" Melin said in an interview."
+General Motors,2017-12,"Another worry is government funding. Federal money for bus purchases is about 25 percent lower than it was five years ago, according to Rob Healy, vice president of government affairs for the American Public Transportation Association."
+General Motors,2017-12,An Obama-era program that sets aside $55 million a year in grants to help transit agencies purchase clean buses will expire in 2020 if not renewed by Congress.
+General Motors,2017-12,"In addition to New Flyer, the fledgling U.S. electric bus industry has two other major players: Chinese automaker BYD, which is backed by Warren Buffett's Berkshire Hathaway Inc ; and Silicon Valley startup Proterra Inc."
+General Motors,2017-12,"BYD and Proterra began selling electric buses into the U.S. market several years ago, and have 165 and 126 vehicles on the road today, respectively."
+General Motors,2017-12,"Both are ramping up U.S. manufacturing on expectations that EVs will account for nearly all new bus sales in a little over a decade. BYD has a plant in Lancaster, California, while Proterra has manufacturing facilities in City of Industry, California and Greenville, South Carolina."
+General Motors,2017-12,"Buffett paid $230 million for a 10 percent stake in BYD in 2008. Today the company has a market capitalization of $25 billion, thanks mainly to China's aggressive move to electrify transportation. More than 15 percent of the 608,600 buses in China are pure electric, according to government data."
+General Motors,2017-12,"Proterra investors include venture capital firm Kleiner Perkins Caufield & Byers and the venture capital arm of General Motors Co . Proterra, based in Burlingame, California, is planning an initial public offering, but would not give a timeline for the debut."
+General Motors,2017-12,"Chief Executive Ryan Popple said range is improving quickly. The company is currently shipping models with up to 350 miles of range, but new battery technology is expected to boost that by nearly 30 percent."
+General Motors,2017-12,"""We're starting to outstrip the market requirement in terms of what city buses actually do,"" Popple said. ""It opens up new markets for us."""
+General Motors,2017-12,"Notably, Proterra's growth should also lift the fortunes of U.S. wind blade maker TPI Composites Inc , which struck a deal to build up to 3,350 lightweight bus bodies for the EV bus maker over the next five years. Raymond James analyst Pavel Molchanov estimated the deal could account for 12 percent of Scottsdale, Arizona-based TPI's revenue in 2019."
+General Motors,2017-12,"Winnipeg-based New Flyer, meanwhile, has won some big orders, including a deal to supply up to 100 electric buses to Los Angeles County Metropolitan Transportation Authority. Still, company executives view electrification as a gradual transformation."
+General Motors,2017-12,"""It's going to be a slow, methodical rather than an absolute disruption type environment,"" CEO Paul Soubry said on a conference call with analysts last month."
+General Motors,2017-12,"Despite the technology's limitations, some U.S. transit agencies are hitting the accelerator on their electric conversions. IndyGo, which serves greater Indianapolis, has struck a deal with BYD to purchase 31 electric buses, with the option to add dozens more, in addition to the 21 already in its fleet, according to an IndyGo board of directors meeting report from July. Agency spokesman Bryan Luellen said the EVs have reduced fuel and maintenance costs by up to half compared to conventional buses."
+General Motors,2017-12,"Foothill Transit, in Southern California, has been operating Proterra buses since 2010. It now has 17 in its fleet, with 13 more scheduled to arrive before the end of the year, according to spokeswoman Felicia Friesema."
+General Motors,2017-12,"Still, both agencies acknowledged trade-offs due to the limited range of these vehicles. Foothill has mainly confined its electric buses to a short 16-mile route. The Indianapolis EVs run primarily during the morning and evening rush hours, not all day long like the diesel workhorses that remain the mainstay of the fleet."
+General Motors,2017-12,"Still, IndyGo's Luellen figures the best is yet to come."
+General Motors,2017-12,"""With battery technology evolving rapidly we think it's a big opportunity for us to maximize our budget and do more,"" he said."
+General Motors,2017-12,{{20171212T060003.080+0000}}ANALYSIS-U.S. transit agencies cautious on electric buses despite bold forecastsBy Nichola Groom
+General Motors,2017-12,"The technology is still a gamble for many cities at a time when bus ridership is falling nationwide and officials are trying to keep a lid on fares, says Chris Stoddart, an executive at Canadian bus maker New Flyer Industries Inc . A top supplier of conventional buses to the U.S. market, the company has just a handful of pure battery electrics in service."
+General Motors,2017-12,"""People worry about being an early adopter. Remember 20 years ago someone paid $20,000 for a plasma TV and then 10 years later it was $900 at Best Buy,"" said Stoddart, senior vice president of engineering and customer service for New Flyer. ""People just don't want a science project."""
+General Motors,2017-12,Rival electric bus manufacturers expect dramatic growth; the most ambitious forecasts call for all bus purchases to be electric by 2030.
+General Motors,2017-12,"But even green-energy advocates are skeptical of such rosy predictions. CALSTART, a California-based nonprofit that promotes clean transportation, figures 50 percent to 60 percent of new buses will be zero emissions by 2030. Market research firm Navigant Research expects electric buses to make up 27 percent of new U.S. bus sales by 2027."
+General Motors,2017-12,"Transit agencies have found EV performance lags in extreme conditions. In environmentally friendly San Francisco, officials have resisted electrics over concerns about the city's famously steep hills."
+General Motors,2017-12,"""The technology isn't quite there yet,"" Erica Kato, a spokeswoman for the San Francisco Municipal Transportation Agency, said in a statement."
+General Motors,2017-12,"An electric bus tested last year near Phoenix wilted in the summer heat due to the strains of running the air conditioning. The vehicle never achieved more than 89.9 miles on a charge, less than two-thirds of its advertised range, according to a report by the Valley Metro Regional Public Transportation Authority."
+General Motors,2017-12,"In Massachusetts, two agencies running small numbers of electric buses - the Pioneer Valley Transit Authority in Springfield and Worcester's Regional Transit Authority - say the vehicles weaken in extreme cold and snow. They have no plans to acquire additional EVs, officials at those agencies said."
+General Motors,2017-12,"Even places with successful pilots have downplayed expectations. Seattle's King County Metro transit agency soon will be operating more than a dozen vehicles by three manufacturers, according to Pete Melin, director of zero emission fleet technologies. The agency likes what it has seen so far."
+General Motors,2017-12,"Still, Melin said, high electricity rates from the local utility at peak demand periods are a concern. And the lack of a uniform charging system among bus makers has complicated Seattle's goal of running an all-electric fleet by 2034."
+General Motors,2017-12,"""We have caveats to becoming zero emissions,"" Melin said in an interview."
+General Motors,2017-12,"Another worry is government funding. Federal money for bus purchases is about 25 percent lower than it was five years ago, according to Rob Healy, vice president of government affairs for the American Public Transportation Association."
+General Motors,2017-12,An Obama-era program that sets aside $55 million a year in grants to help transit agencies purchase clean buses will expire in 2020 if not renewed by Congress.
+General Motors,2017-12,"In addition to New Flyer, the fledgling U.S. electric bus industry has two other major players: Chinese automaker BYD, which is backed by Warren Buffett's Berkshire Hathaway Inc ; and Silicon Valley startup Proterra Inc."
+General Motors,2017-12,"BYD and Proterra began selling electric buses into the U.S. market several years ago, and have 165 and 126 vehicles on the road today, respectively."
+General Motors,2017-12,"Both are ramping up U.S. manufacturing on expectations that EVs will account for nearly all new bus sales in a little over a decade. BYD has a plant in Lancaster, California, while Proterra has manufacturing facilities in City of Industry, California and Greenville, South Carolina."
+General Motors,2017-12,"Buffett paid $230 million for a 10 percent stake in BYD in 2008. Today the company has a market capitalization of $25 billion, thanks mainly to China's aggressive move to electrify transportation. More than 15 percent of the 608,600 buses in China are pure electric, according to government data."
+General Motors,2017-12,"Proterra investors include venture capital firm Kleiner Perkins Caufield & Byers and the venture capital arm of General Motors Co . Proterra, based in Burlingame, California, is planning an initial public offering, but would not give a timeline for the debut."
+General Motors,2017-12,"Chief Executive Ryan Popple said range is improving quickly. The company is currently shipping models with up to 350 miles of range, but new battery technology is expected to boost that by nearly 30 percent."
+General Motors,2017-12,"""We're starting to outstrip the market requirement in terms of what city buses actually do,"" Popple said. ""It opens up new markets for us."""
+General Motors,2017-12,"Notably, Proterra's growth should also lift the fortunes of U.S. wind blade maker TPI Composites Inc , which struck a deal to build up to 3,350 lightweight bus bodies for the EV bus maker over the next five years. Raymond James analyst Pavel Molchanov estimated the deal could account for 12 percent of Scottsdale, Arizona-based TPI's revenue in 2019."
+General Motors,2017-12,"Winnipeg-based New Flyer, meanwhile, has won some big orders, including a deal to supply up to 100 electric buses to Los Angeles County Metropolitan Transportation Authority. Still, company executives view electrification as a gradual transformation."
+General Motors,2017-12,"""It's going to be a slow, methodical rather than an absolute disruption type environment,"" CEO Paul Soubry said on a conference call with analysts last month."
+General Motors,2017-12,"Despite the technology's limitations, some U.S. transit agencies are hitting the accelerator on their electric conversions. IndyGo, which serves greater Indianapolis, has struck a deal with BYD to purchase 31 electric buses, with the option to add dozens more, in addition to the 21 already in its fleet, according to an IndyGo board of directors meeting report from July. Agency spokesman Bryan Luellen said the EVs have reduced fuel and maintenance costs by up to half compared to conventional buses."
+General Motors,2017-12,"Foothill Transit, in Southern California, has been operating Proterra buses since 2010. It now has 17 in its fleet, with 13 more scheduled to arrive before the end of the year, according to spokeswoman Felicia Friesema."
+General Motors,2017-12,"Still, both agencies acknowledged trade-offs due to the limited range of these vehicles. Foothill has mainly confined its electric buses to a short 16-mile route. The Indianapolis EVs run primarily during the morning and evening rush hours, not all day long like the diesel workhorses that remain the mainstay of the fleet."
+General Motors,2017-12,"Still, IndyGo's Luellen figures the best is yet to come."
+General Motors,2017-12,"""With battery technology evolving rapidly we think it's a big opportunity for us to maximize our budget and do more,"" he said."
+General Motors,2017-12,"{{20171212T060000.000+0000}}CORRECTED-ANALYSIS-U.S. transit agencies cautious on electric buses despite bold forecastsLOS ANGELES, Dec 12 (Reuters)"
+General Motors,2017-12,"Bus ridership is falling nationwide, according to the American Public Transportation Association, and transit officials say they are trying to keep a lid on fares."
+General Motors,2017-12,"The technology is still a gamble for many cities, says Chris Stoddart, an executive at Canadian bus maker New Flyer Industries Inc . A top supplier of conventional buses to the U.S. market, the company has just a handful of pure battery electrics in service."
+General Motors,2017-12,"""People worry about being an early adopter. Remember 20 years ago someone paid $20,000 for a plasma TV and then 10 years later it was $900 at Best Buy,"" said Stoddart, senior vice president of engineering and customer service for New Flyer. ""People just don't want a science project."""
+General Motors,2017-12,Rival electric bus manufacturers expect dramatic growth; the most ambitious forecasts call for all bus purchases to be electric by 2030.
+General Motors,2017-12,"But even green-energy advocates are skeptical of such rosy predictions. CALSTART, a California-based nonprofit that promotes clean transportation, figures 50 percent to 60 percent of new buses will be zero emissions by 2030. Market research firm Navigant Research expects electric buses to make up 27 percent of new U.S. bus sales by 2027."
+General Motors,2017-12,"Transit agencies have found EV performance lags in extreme conditions. In environmentally friendly San Francisco, officials have resisted electrics over concerns about the city's famously steep hills."
+General Motors,2017-12,"""The technology isn't quite there yet,"" Erica Kato, a spokeswoman for the San Francisco Municipal Transportation Agency, said in a statement."
+General Motors,2017-12,"An electric bus tested last year near Phoenix wilted in the summer heat due to the strains of running the air conditioning. The vehicle never achieved more than 89.9 miles on a charge, less than two-thirds of its advertised range, according to a report by the Valley Metro Regional Public Transportation Authority."
+General Motors,2017-12,"In Massachusetts, two agencies running small numbers of electric buses - the Pioneer Valley Transit Authority in Springfield and Worcester's Regional Transit Authority - say the vehicles weaken in extreme cold and snow. They have no plans to acquire additional EVs, officials at those agencies said."
+General Motors,2017-12,"Even places with successful pilots have downplayed expectations. Seattle's King County Metro transit agency soon will be operating more than a dozen vehicles by three manufacturers, according to Pete Melin, director of zero emission fleet technologies. The agency likes what it has seen so far."
+General Motors,2017-12,"Still, Melin said, high electricity rates from the local utility at peak demand periods are a concern. And the lack of a uniform charging system among bus makers has complicated Seattle's goal of running an all-electric fleet by 2034."
+General Motors,2017-12,"""We have caveats to becoming zero emissions,"" Melin said in an interview."
+General Motors,2017-12,"Another worry is government funding. Federal money for bus purchases is about 25 percent lower than it was five years ago, according to Rob Healy, vice president of government affairs for the American Public Transportation Association."
+General Motors,2017-12,An Obama-era program that sets aside $55 million a year in grants to help transit agencies purchase clean buses will expire in 2020 if not renewed by Congress.
+General Motors,2017-12,"In addition to New Flyer, the fledgling U.S. electric bus industry has two other major players: Chinese automaker BYD, which is backed by Warren Buffett's Berkshire Hathaway Inc ; and Silicon Valley startup Proterra Inc."
+General Motors,2017-12,"BYD and Proterra began selling electric buses into the U.S. market several years ago, and have 165 and 126 vehicles on the road today, respectively."
+General Motors,2017-12,"Both are ramping up U.S. manufacturing on expectations that EVs will account for nearly all new bus sales in a little over a decade. BYD has a plant in Lancaster, California, while Proterra has manufacturing facilities in City of Industry, California and Greenville, South Carolina."
+General Motors,2017-12,"Buffett paid $230 million for a 10 percent stake in BYD in 2008. Today the company has a market capitalization of $25 billion, thanks mainly to China's aggressive move to electrify transportation. More than 15 percent of the 608,600 buses in China are pure electric, according to government data."
+General Motors,2017-12,"Proterra investors include venture capital firm Kleiner Perkins Caufield & Byers and the venture capital arm of General Motors Co . Proterra, based in Burlingame, California, is planning an initial public offering, but would not give a timeline for the debut."
+General Motors,2017-12,"Chief Executive Ryan Popple said range is improving quickly. The company is currently shipping models with up to 350 miles of range, but new battery technology is expected to boost that by nearly 30 percent."
+General Motors,2017-12,"""We're starting to outstrip the market requirement in terms of what city buses actually do,"" Popple said. ""It opens up new markets for us."""
+General Motors,2017-12,"Notably, Proterra's growth should also lift the fortunes of U.S. wind blade maker TPI Composites Inc , which struck a deal to build up to 3,350 lightweight bus bodies for the EV bus maker over the next five years. Raymond James analyst Pavel Molchanov estimated the deal could account for 12 percent of Scottsdale, Arizona-based TPI's revenue in 2019."
+General Motors,2017-12,"Winnipeg-based New Flyer, meanwhile, has won some big orders, including a deal to supply up to 100 electric buses to Los Angeles County Metropolitan Transportation Authority. Still, company executives view electrification as a gradual transformation."
+General Motors,2017-12,"""It's going to be a slow, methodical rather than an absolute disruption type environment,"" CEO Paul Soubry said on a conference call with analysts last month."
+General Motors,2017-12,"Despite the technology's limitations, some U.S. transit agencies are hitting the accelerator on their electric conversions. IndyGo, which serves greater Indianapolis, has struck a deal with BYD to purchase 31 electric buses, with the option to add dozens more, in addition to the 21 already in its fleet, according to an IndyGo board of directors meeting report from July. Agency spokesman Bryan Luellen said the EVs have reduced fuel and maintenance costs by up to half compared to conventional buses."
+General Motors,2017-12,"Foothill Transit, in Southern California, has been operating Proterra buses since 2010. It now has 17 in its fleet, with 13 more scheduled to arrive before the end of the year, according to spokeswoman Felicia Friesema."
+General Motors,2017-12,"Still, both agencies acknowledged trade-offs due to the limited range of these vehicles. Foothill has mainly confined its electric buses to a short 16-mile route. The Indianapolis EVs run primarily during the morning and evening rush hours, not all day long like the diesel workhorses that remain the mainstay of the fleet."
+General Motors,2017-12,"Still, IndyGo's Luellen figures the best is yet to come."
+General Motors,2017-12,"""With battery technology evolving rapidly we think it's a big opportunity for us to maximize our budget and do more,"" he said."
+General Motors,2017-12,"{{20171211T222116.501+0000}}UPDATE 1-Cutting U.S. electric vehicle tax credit 'will have an impact' -GM(Adds Barra comment, background on tax credit)"
+General Motors,2017-12,"DETROIT, Dec 11 (Reuters) - If Congress eliminates an electric vehicle tax credit it ""will have an impact"" on sales of U.S. electric vehicles such as General Motors Co's Chevrolet Bolt, GM Chief Executive Mary Barra said on Monday."
+General Motors,2017-12,"The House version of a bill that would cut corporate tax rates calls for eliminating a tax credit of up to $7,500 for purchasers of electric vehicles. Auto industry and environmental groups are lobbying to save the credit as the House and Senate move to merge their versions of the tax overhaul legislation. [nL1N1NQ15C]"
+General Motors,2017-12,"Barra said eliminating the tax credit would affect the way potential electric vehicle buyers calculate the cost of owning one.""It changes the equation,"" she told reporters at an event sponsored by the Automotive Press Association of Detroit."
+General Motors,2017-12,"""I'm a proponent of that staying in"" the tax code, Barra said. ""That's what we convey to the administration."""
+General Motors,2017-12,"The tax credit is in effect a subsidy for manufacturers of electric vehicles, which can charge a higher price for battery electric cars knowing the buyer will get a rebate from the government."
+General Motors,2017-12,{{20171211T220313.790+0000}}Cutting U.S. electric vehicle tax credit 'will have an impact' - GMBy Joseph White
+General Motors,2017-12,"DETROIT, Dec 11 (Reuters) - General Motors Co Chief Executive Mary Barra said on Monday that if Congress decides to eliminate an electric vehicle tax credit it ""will have an impact"" on sales of electric vehicles such as GM's Chevrolet Bolt."
+General Motors,2017-12,"The House version of a bill that would cut corporate tax rates calls for eliminating a tax credit of up to $7,500 for purchasers of electric vehicles. Auto industry and environmental groups are lobbying to save the credit as House and Senate move to merge their versions of the tax overhaul legislation. [nL1N1NQ15C]"
+General Motors,2017-12,"{{20171208T093335.148+0000}}Poland's Nov new car registrations up 9 pct yr/yrWARSAW, Dec 8 (Reuters) - New car registrations in Poland rose by 9 percent last month from a year earlier, data showed on Friday, helped by corporate purchases."
+General Motors,2017-12,"Registrations of cars, vans and small trucks totalled 45,961, marking a 32th consecutive month of annual growth."
+General Motors,2017-12,"New registrations in January-November were up 15.26 percent, the data from the private Samar research institute showed, reflecting strong consumer demand."
+General Motors,2017-12,"Top-selling car models this year have been Octavia and Fabia models produced by Skoda [VOWGK.UL], the Czech subsidiary of Volkswagen , followed by Opel Astra, produced by Opel AG, and Volkswagen Golf."
+General Motors,2017-12,Registrations in November were down 0.04 percent from October. Samar said institutional clients led the year-on-year growth in registrations.
+General Motors,2017-12,Autocanada Reaches Agreements With GM Canada And Priestner - Reuters Investor Briefs
+General Motors,2017-12,{{20171207T224118.602+0000}}Autocanada Reaches Agreements With GM Canada And PriestnerDec 7 (Reuters) - Autocanada Inc <ACQ.TO>::AUTOCANADA REACHES AGREEMENTS WITH GM CANADA AND PRIESTNER.AUTOCANADA INC - AUTOCANADA WILL RECEIVE A ONE-TIME NET PAYMENT OF APPROXIMATELY $23 MILLION FROM CANADAONE AUTO GROUP AS PART OF TRANSACTION.AUTOCANADA INC - ANNOUNCED TWO NEW AGREEMENTS WITH GM
+General Motors,2017-12,"{{20171208T093335.148+0000}}Poland's Nov new car registrations up 9 pct yr/yrWARSAW, Dec 8 (Reuters) - New car registrations in Poland rose by 9 percent last month from a year earlier, data showed on Friday, helped by corporate purchases."
+General Motors,2017-12,"Registrations of cars, vans and small trucks totalled 45,961, marking a 32th consecutive month of annual growth."
+General Motors,2017-12,"New registrations in January-November were up 15.26 percent, the data from the private Samar research institute showed, reflecting strong consumer demand."
+General Motors,2017-12,"Top-selling car models this year have been Octavia and Fabia models produced by Skoda [VOWGK.UL], the Czech subsidiary of Volkswagen , followed by Opel Astra, produced by Opel AG, and Volkswagen Golf."
+General Motors,2017-12,Registrations in November were down 0.04 percent from October. Samar said institutional clients led the year-on-year growth in registrations.
+General Motors,2017-12,Autocanada Reaches Agreements With GM Canada And Priestner - Reuters Investor Briefs
+General Motors,2017-12,{{20171207T224118.602+0000}}Autocanada Reaches Agreements With GM Canada And PriestnerDec 7 (Reuters) - Autocanada Inc <ACQ.TO>::AUTOCANADA REACHES AGREEMENTS WITH GM CANADA AND PRIESTNER.AUTOCANADA INC - AUTOCANADA WILL RECEIVE A ONE-TIME NET PAYMENT OF APPROXIMATELY $23 MILLION FROM CANADAONE AUTO GROUP AS PART OF TRANSACTION.AUTOCANADA INC - ANNOUNCED TWO NEW AGREEMENTS WITH GM
+General Motors,2017-12,{{20171207T222407.751+0000}}BRIEF-Autocanada Reaches Agreements With GM Canada And PriestnerDec 7 (Reuters) - Autocanada Inc :
+General Motors,2017-12,* AUTOCANADA INC - AUTOCANADA WILL RECEIVE A ONE-TIME NET PAYMENT OF APPROXIMATELY $23 MILLION FROM CANADAONE AUTO GROUP AS PART OF TRANSACTION
+General Motors,2017-12,* AUTOCANADA INC - EXECUTED PUBLIC COMPANY MASTER AGREEMENT WITH GM CANADA THAT PERMITS AUTOCANADA'S DIRECT OWNERSHIP & CONTROL OF GM CANADA DEALERSHIPS
+General Motors,2017-12,"* AUTOCANADA - UNDER TERMS OF PCMA, EACH GENERAL MANAGER IN AUTOCANADA/GM CANADA DEALERSHIP TO BE REQUIRED TO OWN MINORITY EQUITY POSITION IN DEALERSHIP"
+General Motors,2017-12,Source text for Eikon: [ID:nCNWyV75Ga] Further company coverage: [ACQ.TO]
+General Motors,2017-12,{{20171207T161937.094+0000}}Ford to test new self-driving vehicle technology in 2018By Paul Lienert
+General Motors,2017-12,"DETROIT, Dec 7 (Reuters) - Ford Motor Co will begin testing its latest self-driving vehicle technology next year in at least one city but has not changed its plan to begin commercial production until 2021, the company said."
+General Motors,2017-12,"The automaker said on Thursday that it would test self-driving prototypes in various pilot programs with partners such as Lyft, the ride services company in which rival General Motors Co owns a minority stake, and Domino's Pizza Inc . However, Ford has still not decided whether to operate its own on-demand transportation service."
+General Motors,2017-12,"In a blog post, Jim Farley, president of global markets, said Ford also would test new business models that involve its self-driving vehicles, including the movement of people and goods."
+General Motors,2017-12,"GM unveiled plans last week to introduce its own on-demand ride-sharing service in several U.S. cities in 2019, using self-driving versions of the battery-powered Chevrolet Bolt. [nL1N1O01UD]"
+General Motors,2017-12,"Ford is shifting production of a future battery electric vehicle to Mexico to free up capacity at its Flat Rock, Michigan, plant to build the self-driving vehicles in 2021, according to spokesman Alan Hall."
+General Motors,2017-12,"The electric vehicle, whose more-advanced battery system will enable a driving range of more than 300 miles, will go into production in 2020 at Ford's Cuatitlan plant, which suppliers say will also build a new hybrid crossover vehicle around the same time."
+General Motors,2017-12,"At the Flat Rock plant, Ford is boosting investment to $900 million from $700 million and adding 850 jobs."
+General Motors,2017-12,Both the 2020 electric and the 2021 self-driving vehicles will draw on the next-generation Ford Focus for some of their underbody structure and components while using different propulsion systems.
+General Motors,2017-12,"Unlike the full electric vehicle from Cuatitlan, the self-driving vehicle from Flat Rock will use a hybrid system with a gasoline engine and an electric motor, Hall said."
+General Motors,2017-12,{{20171207T055045.223+0000}}PRESS DIGEST - Wall Street Journal - Dec 7Dec 7 (Reuters) - The following are the top stories in the Wall Street Journal. Reuters has not verified these stories and does not vouch for their accuracy.
+General Motors,2017-12,"{{20171206T130048.586+0000}}Brazil auto production slips 0.3 pct in NovemberSAO PAULO, Dec 6 (Reuters) - Automobile production in Brazil slipped 0.3 percent and sales rose 0.7 percent in November from October, the national automakers' association said on Wednesday."
+General Motors,2017-12,"Automakers in Brazil produced about 249,100 new cars and trucks last month, while sales totaled around 204,200 vehicles, according to data released by industry group Anfavea. Compared to a year ago, auto output grew 15.2 percent and sales climbed 14.6 percent."
+General Motors,2017-12,"Brazil was one of the world's five biggest auto markets until a recent downturn and is still a major base of operations for Fiat Chrysler Automobiles NV , Volkswagen AG , General Motors Co and Ford Motor Co ."
+General Motors,2017-12,"{{20171206T101809.817+0000}}EXCLUSIVE-Ford set for China tie-up with Alibaba to test online, direct auto sales-sourceBy Norihiko Shirouzu"
+General Motors,2017-12,"BEIJING, Dec 6 (Reuters) - Ford Motor Co is expected to sign as early as Thursday a deal with Alibaba Group Holding Ltd which may allow the U.S. automaker to test selling cars to consumers in China through Alibaba's online retail arm Tmall, as well as via a new ""auto vending machine"" store concept, according to a Ford source familiar with the matter."
+General Motors,2017-12,"Representatives of Ford and Alibaba, including Ford Executive Chairman Bill Ford Jr. and Ford CEO Jim Hackett, are expected to be in Hangzhou on Thursday to sign a letter of intent that outlines the scope of the new partnership."
+General Motors,2017-12,"According to the source, who did not want to be named because he is not authorized to speak with reporters, the deal is intended to position the Dearborn, Michigan, automaker for an emerging Chinese marketplace where more cars could be sold online."
+General Motors,2017-12,The partnership would be part of Ford's effort to overhaul its China strategy to revive the growth momentum it has lost in recent months.
+General Motors,2017-12,"Ford's global chief spokesman Mark Truby said the company is expected to make an announcement on Thursday in Hangzhou, where Alibaba is based, but declined to comment in advance."
+General Motors,2017-12,The source said the proposal could mean that cars purchased online are delivered to buyers by franchised Ford retail stores and would be maintained and repaired by them.
+General Motors,2017-12,"According to Alibaba, consumers can use their phones to browse through the cars garaged in the store and choose to either immediately buy one or test drive it. The vehicle would be delivered to them on the ground floor."
+General Motors,2017-12,"The model allows shoppers with good credit to purchase their new ride with a 10 percent down payment and then make monthly payments for the car purchase through Alibaba's affiliate Alipay, according to Alibaba."
+General Motors,2017-12,"Ford believes dealers would likely agree to this direct retailing model because they still get to service cars sold through Tmall, the Ford source said."
+General Motors,2017-12,"The move, though, could be potentially problematic for dealers, some industry experts said."
+General Motors,2017-12,"""When online sales and direct sales volume was small that's one thing. But if this format gained steam, it would definitely impact dealers,"" according to Yale Zhang, head of Shanghai-based consultancy Automotive Foresight. ""Retail innovation is great, but it is by its nature disruptive and can't keep everybody happy."""
+General Motors,2017-12,The danger is that the dealers lose out not only on a lot of car sales but also the potentially lucrative auto financing aspect of their traditional business.
+General Motors,2017-12,"Direct selling by auto brands is not always possible in many markets around the world. In the United States, for example, because of franchise auto dealer operators' political clout, except for a small number of states, direct selling is largely not possible."
+General Motors,2017-12,"The source said Ford is ""behind in using big data"" to monitor sales trends and effectively market its cars and the move to online sales as well as the access to Tmall's massive database of information on consumers would help it to catch up."
+General Motors,2017-12,"Online auto sales volumes are currently limited in China because car buyers want to be able to see, touch and drive cars before buying them, said Zhang. The ability to test drive a car ordered online could change that."
+General Motors,2017-12,"Ford's China sales have been sluggish in recent months in part because it has failed to catch on to rapidly changing trends in the marketplace, including the rise of entry-level cars popular in smaller and less-well-known cities, where demand is booming."
+General Motors,2017-12,"Ford's sales in the first 10 months of this year were 938,570, a decline of 5 percent from the same period in 2016, against a 2.2 percent gains to 3.13 million for hometown rival General Motors ."
+General Motors,2017-12,"{{20171205T190103.647+0000}}CORRECTED-Amid rising discounts, Nissan seeks 'fair share' of pie in U.S. -exec(Corrects and recasts paragraph 10 to show status of 2018 year model vehicles)"
+General Motors,2017-12,"DETROIT, Dec 4 (Reuters) - Facing a glut of late-model 2017 vehicles and rising consumer discounts by competitors, Nissan Motor Co Ltd <7201.T> will continue to target a ""fair share of the pie"" with big discounts of its own, the automaker's U.S. sales chief said on Monday."
+General Motors,2017-12,"""It would be great if everybody got their incentive spending under control. That would be a fabulous thing for everyone,"" Nissan's Judy Wheeler told Reuters. ""But the one thing about our business, you have to stay in the game."""
+General Motors,2017-12,"""The market is still very healthy and we want to make sure we're still in the game,"" she added."
+General Motors,2017-12,Wheeler spoke to Reuters after Nissan posted an 18.1 percent spike in U.S. sales for November versus the same month in 2016.
+General Motors,2017-12,Fellow automakers posted mixed new vehicle sales for the month. [nL1N1O114U]
+General Motors,2017-12,Major automakers are coming off an all-time high for sales in 2016 and have been hiking consumer discounts in a saturated market to move passenger cars off dealer lots.
+General Motors,2017-12,"According to industry consultants J.D. Power and LMC, consumer discounts have been above 10 percent of the average transaction price for 16 of the last 17 months. Anything over 10 percent is considered unhealthy for resale values and thus bad news for carmakers."
+General Motors,2017-12,"Industry data for November provided to Reuters show only Honda Motor Co Ltd <7267.T> came in below that level at 7.6 percent. Toyota Motor Corp <7203.T> offered discounts equivalent to 10.1 percent of the average transaction price, while Fiat Chrysler Automobiles NV was at 12.8 percent. General Motors Co was at 12.9 percent and Ford Motor Co was at 14.6 percent."
+General Motors,2017-12,Nissan was well above the rest with an average discount of 18.6 percent.
+General Motors,2017-12,"Wheeler said while Nissan now has 2018 model-year vehicles available in its U.S. dealer inventory, almost 100 percent of its sales in November were 2017 model-year vehicles and they may not all be gone until spring 2018."
+General Motors,2017-12,"""That's really hard to predict because the reality is we did extremely well in November,"" she said. ""If we continue at that kind of a pace, then it may be quicker than what we expected."""
+General Motors,2017-12,"But Wheeler said the ""big thing"" affecting the auto industry is the high discounts being offered by most manufacturers."
+General Motors,2017-12,"""So really, it has to do with what's happening in the market and trying to make sure you get your fair share of the pie,"" she said."
+General Motors,2017-12,"{{20171205T061518.201+0000}}GM says China November vehicle sales up 13 pct y/yBEIJING, Dec 5 (Reuters) - General Motors Co's sales in China rose 13 percent in November from a year ago to 418,225 vehicles, following an increase of 11 percent in October, the company said on Tuesday."
+General Motors,2017-12,"The Detroit automaker's sales volume in the first 11 months of the year totalled 3.55 million vehicles, up 3.3 percent from the same period a year ago."
+General Motors,2017-12,"{{20171205T053000.711+0000}}UK new car sales fell 11 percent in November-dataLONDON, Dec 5 (Reuters) - New car registrations in Britain fell by around 11 percent in November, the eighth consecutive month that sales have declined, according to preliminary numbers from an industry body."
+General Motors,2017-12,"The sales have reflected caution among consumers faced by a rise in inflation since the Brexit vote in 2016 and weak wage growth, as well as concerns that the government would clamp down on diesel vehicles to curb pollution."
+General Motors,2017-12,Figures from the Society of Motor Manufacturers and Traders were expected to show diesel car sales fell sharply again.
+General Motors,2017-12,"Britain will increase tax on diesel cars that do not meet more stringent emissions standards, finance minister Philip Hammond said last month."
+General Motors,2017-12,November's expected drop in sales would add to the fall of nearly 5 percent in overall registrations between January and October.
+General Motors,2017-12,The SMMT is due to publish final numbers at 0900 GMT on Tuesday.
+General Motors,2017-12,{{20171205T050101.061+0000}}GM puts an e-commerce marketplace in the dashboardBy Joseph White
+General Motors,2017-12,"DETROIT, Dec 5 (Reuters) - General Motors Co on Tuesday said it will equip newer cars with in-dash e-commerce technology, betting it can profit as drivers order food, find fuel or reserve hotel rooms by tapping icons on the dashboard screen, instead of using smartphones while driving."
+General Motors,2017-12,"GM's Marketplace technology, developed in collaboration with International Business Machines will be uploaded automatically to about 1.9 million model-year 2017 and later vehicles starting immediately, with about 4 million vehicles across the Chevrolet, Buick, GMC and Cadillac brands equipped with the capability in the United States by the end of 2018, GM said."
+General Motors,2017-12,"GM will get an undisclosed amount of revenue from merchants featured on its in-dash Marketplace, Santiago Chamorro, GM vice president for global connected customer experience, said during a briefing for reporters. Customers will not be charged for using the service or the data transmitted to and from the car while making transactions, he said."
+General Motors,2017-12,"""This platform is financed by the merchants,"" Chamorro said. GM will get paid for placing a merchant's application on its screens, and ""there's some level of revenue sharing"" based on each transaction, he said."
+General Motors,2017-12,"It is too soon to say how much revenue GM could realize from the Marketplace system, he said."
+General Motors,2017-12,"The GM Marketplace will compete for customer clicks and revenue with hand-held smartphones, which offer a far richer array of applications than the GM system will at the outset. Amazon.com is partnering with other automakers, including Ford Motor Co, , to offer in car ecommerce capability through Amazon's Alexa personal assistant system."
+General Motors,2017-12,"For example, GM will launch Marketplace with just Shell and Exxon Mobil icons in the fuel category. The only restaurant available for in-car table reservations at launch is the chain TGI Fridays, GM said. In addition, there will be apps for parking, and ordering ahead at coffee shops and restaurants such as Starbucks, Dunkin' Donuts and Applebee's."
+General Motors,2017-12,"""We will be adding more vendors,"" with some coming in the first quarter of 2018, Chamorro said. In addition, he said GM plans to expand integration into its vehicles of music, news and other information services."
+General Motors,2017-12,"GM also hopes to use its in-car Marketplace connections to expand purchases of products and services, such as additional access to in-car wifi, from its own replacement parts business and dealer network. Customers can ""expect to see more service promotions coming through the platform,"" Chamorro said."
+General Motors,2017-12,"{{20171205T010000.808+0000}}Australian new vehicle sales notch a record November-industrySYDNEY, Dec 5 (Reuters) - Australian new vehicle sales posted a second consecutive month of solid gains in November, with strong demand in the commercial sector pointing to a continued pick up in business spending."
+General Motors,2017-12,"The Australian Federal Chamber of Automotive Industries' VFACTS report out on Tuesday showed 101,365 new vehicles were sold in November, up 2.5 percent on the same month last year. Both months had the same number of selling days."
+General Motors,2017-12,That total was a record for a November month and left sales for the year to date running 0.6 percent ahead of the same period in 2016.
+General Motors,2017-12,"Demand for commercial vehicles showed no signs of waning with the light sector up 7.9 percent on November last year, while sales of heavy vehicles surged 22.7 percent."
+General Motors,2017-12,"Sales of passenger cars extended their long decline with a fall of 7.3 percent in November, losing share to sports utilities which rose 8.6 percent."
+General Motors,2017-12,"Toyota Motor Corp <7203.T> retained first place on the sales ladder with a steady share of 18.6 percent, while Mazda Motor Corp <7261.T> grabbed second spot with 9.2 percent."
+General Motors,2017-12,"Hyundai Motor <005380.KS> claimed 8.7 percent, followed by the Holden unit of General Motors on 7.8 percent. Mitsubishi <7211.T> took 6.6 percent, followed by Ford at 6.2 percent."
+General Motors,2017-12,{{20171204T163041.721+0000}}TABLE-November U.S. auto sales 17.53 mln annualized rateDec 4 (Reuters) - Automakers reported a 1.3 percent rise in U.S. vehicle
+General Motors,2017-12,"sales for November from a year earlier, with the seasonally adjusted annualized"
+General Motors,2017-12,The annualized rate is followed by economists and calculated using seasonal
+General Motors,2017-12,factors supplied by the U.S. Commerce Department that account for sales from
+General Motors,2017-12,"{{20171204T152233.264+0000}}Canadian auto sales could hit 2 mln in 2017- industry groupDec 4 (Reuters) - Canadian auto sales dipped 1.2 percent in November from last year but could hit the two million milestone for the first time, according to data released by an automotive industry research firm."
+General Motors,2017-12,"About 158,653 vehicles were sold in the month, bringing the total number of units sold to 1.9 million so far this year, according to a report published by Desrosiers Automotive Consultants Inc on Monday."
+General Motors,2017-12,"""The average sales total for November and December for the last ten years is just a little under 243,000 units ... to be fair, nothing over the last few years has been average, when it comes to sales results,"" Brian Murphy, Vice President of Research and Editorial at Canadian Black Book said, commenting separately from the report on Canadian auto industry sales."
+General Motors,2017-12,"On a year-to-date basis, auto sales have risen 5 percent, with trucks making for over two-thirds of all the vehicles sold in Canada."
+General Motors,2017-12,"However, the top three automakers in Canada reported a drop in November total sales."
+General Motors,2017-12,"On Friday, General Motors Co reported a 17.2 percent decline, while Ford reported a 2.8 percent drop in total sales for the month. Ford was the top selling automaker for November in Canada. [nL3N1O14S7]"
+General Motors,2017-12,"Fiat Chrysler Automobiles , maker of Dodge and Chrysler vehicles, sold 19,054 vehicles for the month, a 7.8 percent drop from a year earlier."
+General Motors,2017-12,{{20171204T143541.062+0000}}TABLE- Top 20 vehicles sold in U.S. in NovemberDec 4 (Reuters) - The following are the 20 top-selling vehicles in
+General Motors,2017-12,the U.S. in November as reported by the automakers and ranked by total
+General Motors,2017-12,{{20171204T143421.352+0000}}TABLE-November U.S. light vehicle sales by major automakersDec 4 (Reuters) - The following are U.S. auto sales results for
+General Motors,2017-12,November reported so far on Friday by top-selling automakers:
+General Motors,2017-12,{{20171204T135950.390+0000}}TABLE- November Canada light vehicle sales by major automakersDec 4 (Reuters) - The following are Canada auto sales results for
+General Motors,2017-12,November reported so far on Monday by top-selling automakers:
+General Motors,2017-12,"{{20171201T225146.446+0000}}U.S. RESEARCH ROUNDUP-Anheuser Busch, Tiffany, Ulta BeautyDec 1 (Reuters) - Wall Street securities analysts revised their ratings and price targets on several U.S.-listed"
+General Motors,2017-12,"companies, including Anheuser Busch Inbev, Tiffany & Co and Ulta Beauty, on Friday."
+General Motors,2017-12,* Ulta Beauty Inc : Wells Fargo cuts price target to $220 from $242
+General Motors,2017-12,Following is a summary of research actions on U.S. companies reported by Reuters on Friday. Stock entries are in
+General Motors,2017-12,* Acm Research Inc : Craig Hallum starts with buy rating; target price $10
+General Motors,2017-12,* Affiliated Managers Group : Deutsche Bank raises target price to $200 from $198
+General Motors,2017-12,* Agco Corp : Goldman Sachs raises to buy rating; adds to conviction list
+General Motors,2017-12,* Allegiant Travel Co : Cowen and Company raises price target to $158 from $145
+General Motors,2017-12,* Allegiant Travel Co : Morgan Stanley raises target price to $155 from $142
+General Motors,2017-12,* American Equity Investment Life : Sandler O'Neill raises target to $36 from $34
+General Motors,2017-12,* Apollo Global Management Llc : Deutsche Bank cuts target price to $32 from $33
+General Motors,2017-12,* Arista Networks Inc : Deutsche Bank raises target price to $250 from $225
+General Motors,2017-12,* Arlington Asset Investment : Compass Point cuts price target to $12.50 from $13
+General Motors,2017-12,* Arlington Asset Investment : Credit Suisse cuts price target to $12.50 from $13
+General Motors,2017-12,* Ashland Global Holdings : SunTrust Robinson raises price target to $83 from $74
+General Motors,2017-12,* Athene Holding Ltd : Sandler O'Neill cuts price target to $55 from $60
+General Motors,2017-12,* Axalta Coating Systems Ltd : Deutsche Bank raises target price to $35 from $32
+General Motors,2017-12,* Barnes & Noble Inc : Craig-Hallum cuts price target to $8 from $15
+General Motors,2017-12,* Barnes & Noble Inc : Craig-Hallum cuts to hold from buy
+General Motors,2017-12,* Big Lots Inc : JP Morgan raises price target to $58 from $54; rating neutral
+General Motors,2017-12,* Blackstone Group LP : Deutsche Bank cuts target price to $32 from $33
+General Motors,2017-12,* Blue Apron Holdings Inc : RBC revises to sector perform rating
+General Motors,2017-12,* Booz Allen Hamilton Holding Corp : SunTrust Robinson starts with buy rating
+General Motors,2017-12,* Booz Allen Hamilton Holding Corp : SunTrust Robinson starts with target price $47
+General Motors,2017-12,* Brixmor Property Group Inc : Stifel resumes coverage with hold rating
+General Motors,2017-12,* Buffalo Wild Wings Inc : Dougherty cuts to neutral from buy
+General Motors,2017-12,* Carlyle Group LP : Deutsche Bank cuts target price to $22 from $23
+General Motors,2017-12,* Catalyst Pharmaceuticals Inc : Piper Jaffray raises price target to $8 from $6
+General Motors,2017-12,* Cathay General Bancorp : Sandler O'Neill raises price target by $3 to $47
+General Motors,2017-12,* CBL & Associates Properties Inc : JP Morgan cuts price target to $7 from $11.50
+General Motors,2017-12,* CBOE Global Markets Inc : Deutsche Bank raises target price to $114 from $110
+General Motors,2017-12,* Charles Schwab Corp : Deutsche Bank raises target price to $48 from $47
+General Motors,2017-12,* CME Group Inc : Deutsche Bank raises target price to $155 from $150
+General Motors,2017-12,* Cypress Semiconductor Corp : SunTrust Robinson cuts to hold from buy
+General Motors,2017-12,* Delek US Holdings Inc : Raymond James raises target price to $38 from $35
+General Motors,2017-12,* Descartes Systems Group Inc : Barclays raises target price to $33 from $32
+General Motors,2017-12,* Diamondback Energy Inc : Citigroup starts with buy rating; $130 price target
+General Motors,2017-12,* Donaldson Company Inc : SunTrust Robinson raises price target to $50 from $46
+General Motors,2017-12,* E*TRADE Financial Corp : Deutsche Bank raises target price to $52 from $49
+General Motors,2017-12,* Eaton Vance Corp : Deutsche Bank raises target price to $59 from $57
+General Motors,2017-12,* Ellington Financial Llc : Credit Suisse cuts price target to $16.50 from $17
+General Motors,2017-12,* Federal Realty Investment Trust : Stifel resumes coverage with buy rating
+General Motors,2017-12,* Federated Investors Inc : Deutsche Bank raises target price to $34 from $32
+General Motors,2017-12,* Five Below Inc : Deutsche Bank raises price target to $59 from $56
+General Motors,2017-12,* Five Below Inc : Morgan Stanley raises target price to $54 from $50
+General Motors,2017-12,* Franco-Nevada Corp : TD Securities cuts target price to $96 from $97
+General Motors,2017-12,* Grubhub Inc : Cowen and Company raises price target to $78 from $65
+General Motors,2017-12,* Hope Bancorp Inc : Sandler O'Neill raises price target by $1 to $20.50
+General Motors,2017-12,* Hormel Foods Corp : Barclays reinstates with overweight rating; $40 price target
+General Motors,2017-12,* INC Research Holdings Inc : SunTrust Robinson cuts price target to $50 from $67
+General Motors,2017-12,* Intercontinental Exchange Inc : Deutsche Bank raises target price to $76 from $75
+General Motors,2017-12,* Invesco Mortgage Capital : Credit Suisse raises price target to $19 from $18.50
+General Motors,2017-12,* J B Hunt Transport Services Inc : BMO raises price target to $109 from $100
+General Motors,2017-12,* Jack In the Box Inc : Barclays raises target price to $100 from $97
+General Motors,2017-12,* Jack In the Box Inc : SunTrust Robinson cuts price target to $109 from $111
+General Motors,2017-12,* Janus Henderson Group Plc : Deutsche Bank raises target price to $38 from $37
+General Motors,2017-12,* John Bean Technologies Corp : Wells Fargo raises price target to $135 from $130
+General Motors,2017-12,* Korn/Ferry International : SunTrust Robinson raises price target to $56 from $50
+General Motors,2017-12,* Kroger Co : Telsey Advisory Group raises target price to $28 from $24
+General Motors,2017-12,* L Brands Inc : Telsey Advisory Group raises target price to $64 from $60
+General Motors,2017-12,* Las Vegas Sands Corp : Deutsche Bank raises price target to $63 from $57
+General Motors,2017-12,* Legg Mason Inc : Deutsche Bank raises target price to $46 from $44
+General Motors,2017-12,* Marathon Petroleum Corp : Raymond James raises target price to $71 from $70
+General Motors,2017-12,* MFA Financial Inc : Credit Suisse cuts price target to $8 from $8.50
+General Motors,2017-12,* New York REIT Inc : SunTrust Robinson cuts price target to $6.50 from $8.50
+General Motors,2017-12,* Northern Trust Corp : Deutsche Bank raises target price to $103 from $99
+General Motors,2017-12,* Oaktree Capital Group Llc : Deutsche Bank cuts target price to $46 from $47
+General Motors,2017-12,* Pennymac Mortgage Investment : Credit Suisse cuts price target to $18.50 from $19
+General Motors,2017-12,* Plug Power Inc : Canaccord Genuity starts with buy rating; $5 price target
+General Motors,2017-12,* Sea Ltd : Morgan Stanley raises to overweight from equal weight
+General Motors,2017-12,* Sensata Technologies Holding NV : SunTrust Robinson cuts to hold from buy
+General Motors,2017-12,* Skechers USA Inc : Monness Crespi Hardt raises price target to $40 from $34
+General Motors,2017-12,* State Street Corp : Deutsche Bank raises target price to $102 frm $100
+General Motors,2017-12,* Stifel Financial Corp : Wells Fargo raises price target to $64 from $56
+General Motors,2017-12,* Stifel Financial Corp : Wells Fargo raises to outperform from market perform
+General Motors,2017-12,* Store Capital Corp : Raymond James raises target price to $28 from $26
+General Motors,2017-12,* T. Rowe price Group Inc : Deutsche Bank raises target price to $99 from $95
+General Motors,2017-12,* TD Ameritrade Holding Corp : Deutsche Bank raises target price to $57 from $55
+General Motors,2017-12,* Titan Machinery Inc : Craig-Hallum raises target price to $24 from $19
+General Motors,2017-12,* Tsakos Energy Navigation Ltd : JP Morgan cuts price target to $6 from $7
+General Motors,2017-12,* Two Harbors Investment : Credit Suisse raises price target to $17.50 from $17.20
+General Motors,2017-12,* Ulta Beauty Inc : Cowen and Company cuts target price to $246 from $336
+General Motors,2017-12,* Ulta Beauty Inc : Deutsche Bank cuts target price to $225 from $250
+General Motors,2017-12,* Ulta Beauty Inc : Morgan Stanley cuts target price to $235 from $245
+General Motors,2017-12,* Ulta Beauty Inc : Wells Fargo cuts price target to $220 from $242
+General Motors,2017-12,* Ultragenyx Pharmaceutical Inc : Morgan Stanley cuts target price to $53 from $71
+General Motors,2017-12,* United Therapeutics Corp : JP Morgan raises price target to $127 from $125
+General Motors,2017-12,* Varonis Systems : Benchmark assumes coverage with buy rating; $60 price target
+General Motors,2017-12,* VMware Inc : Cowen and Company raises target price to $130 from $126
+General Motors,2017-12,* Wabco Holdings Inc : Goldman Sachs raises price target to $151 from $147
+General Motors,2017-12,* Wynn Resorts Ltd : Deutsche Bank raises price target to $170 from $167
+General Motors,2017-12,* Zumiez Inc : Jefferies raises target price to $21 from $15; rating hold
+General Motors,2017-12,{{20171201T221027.922+0000}}TABLE- November U.S. auto sales 17.48 mln annualized rateDec 1 (Reuters) - Automakers reported a 0.9 percent rise in U.S. sales in
+General Motors,2017-12,"November from a year earlier, with a seasonally adjusted annualized rate of"
+General Motors,2017-12,The annualized rate is followed by economists and calculated using seasonal
+General Motors,2017-12,factors supplied by the U.S. Commerce Department that account for sales from
+General Motors,2017-12,UPDATE 3-November mixed for U.S. sales as automakers hike discounts - Reuters News
+General Motors,2017-12,{{20171201T213736.715+0000}}UPDATE 3-November mixed for U.S. sales as automakers hike discounts(Adds industry wide sales estimate)
+General Motors,2017-12,"DETROIT, Dec 1 (Reuters) - Major automakers posted mixed U.S. November new vehicle sales on Friday and predicted a competitive December as they rush to sell vehicles and boost their 2017 numbers before the year comes to an end."
+General Motors,2017-12,"Automakers are trying to sell down 2017 model year vehicles, offering high discounts to consumers as the year-end nears. In 2016, the industry reported record annual sales of 17.55 million units."
+General Motors,2017-12,"The seasonally adjusted annualized rate of U.S. car and light truck sales in November fell to 17.48 million vehicles, down from 17.71 million vehicles a year earlier, according to Autodata Corp, which tracks industry sales. This was roughly in line with the 17.5 million predicted by analysts polled by Thomson Reuters."
+General Motors,2017-12,"According to consultancies J.D. Power and LMC, discounts have been above 10 percent of the average transaction price for 16 of the last 17 months, a level experts say is unhealthy and unsustainable. [nL1N1NU19X]"
+General Motors,2017-12,"The November sales results come as the National Automobile Dealers Association said on Friday it expects new vehicle sales to decline to 16.7 million units in 2018, after dropping to 17.1 million for the full year in 2017. [nL1N1O110A]"
+General Motors,2017-12,"If that forecast comes true, the race to move new vehicles off dealers' lots will only intensify next year."
+General Motors,2017-12,"Brandon Mason, a director at PwC's automotive practice, said a worrying trend for the industry was a rising number of subprime loans. He said subprime levels are at just over 20 percent of originations, against more than 30 percent prior to the Great Recession, but recent increases remain a concern."
+General Motors,2017-12,"""That's a bit of a red flag,"" Mason said. ""It's something to keep an eye on as we move into 2018."""
+General Motors,2017-12,"No. 1 U.S. automaker General Motors Co said its sales fell 2.9 percent in November, with sales to consumers flat against the same month in 2016. Much of the decrease was driven by lower fleet sales to rental agencies, businesses and government agencies."
+General Motors,2017-12,"GM said strong SUV and crossover sales pushed its average transaction price for the month above $37,000 for the first time. The company's level of unsold cars, which has been a concern for analysts and the industry, rose slightly to 83 days supply, from 80 days at the end of October."
+General Motors,2017-12,"""More vehicles are sold in December than any other month and we are very well positioned because we have momentum in so many segments, but especially in crossovers,"" said Kurt McNeil, U.S. vice president of sales operations."
+General Motors,2017-12,Fiat Chrysler Automobiles NV (FCA) in particular has targeted a significant reduction in this type of sale in 2017.
+General Motors,2017-12,"The automaker posted a 4 percent overall decrease in sales for November, but said fleet sales were down 25 percent while sales to consumers were up 2 percent on the year."
+General Motors,2017-12,"No. 2 U.S. automaker Ford Motor Co reported a 6.7 percent increase in sales in November, with fleet sales up nearly 26 percent and retail sales 1.3 percent higher than in November 2016."
+General Motors,2017-12,"Ford said SUV sales rose 13.3 percent in November, while its pickup truck sales were up 4.1 percent."
+General Motors,2017-12,"""November and December over the last few years has become a very big merchandising window for the industry,"" Ford's U.S. sales chief Mark LaNeve told reporters on a conference call."
+General Motors,2017-12,"He said price competition between automakers should continue into 2018, but it ""should not be too disruptive."""
+General Motors,2017-12,"Toyota Motor Corp <7203.T> said its sales were down 3 percent, while Honda Motor Co Ltd <7267.T> sales rose 8.3 percent."
+General Motors,2017-12,"Nissan Motor Co Ltd <7201.T> said in a statement a systems outage meant it would not post official November results until Dec. 4, but estimated its U.S. sales rose 14 percent versus November 2016."
+General Motors,2017-12,"GM shares closed down 30 cents at $42.79, FCA was off a penny at $17.09 and Ford ended up 8 cents at $12.58."
+General Motors,2017-12,{{20171201T213417.236+0000}}TABLE- Top 20 vehicles sold in U.S. in NovemberDec 1 (Reuters) - The following are the 20 top-selling vehicles
+General Motors,2017-12,in the U.S. in November as reported by the automakers and ranked by
+General Motors,2017-12,** The table does not reflect Nissan's auto sales figures as the
+General Motors,2017-12,{{20171201T213354.172+0000}}TABLE-November U.S. light vehicle sales by major automakersDec 1 (Reuters) - The following are U.S. auto sales results for
+General Motors,2017-12,November reported so far on Friday by top-selling automakers:
+General Motors,2017-12,Note: Nissan sales figures are from the Auto Corp Data.
+General Motors,2017-12,"UPDATE 1-General Motors, Ford report fall in Canada auto sales  - Reuters News"
+General Motors,2017-12,"{{20171201T191624.285+0000}}UPDATE 1-General Motors, Ford report fall in Canada auto sales (Adds Ford Canada numbers)"
+General Motors,2017-12,Dec 1 (Reuters) - General Motors Co and Ford Motor Co on Friday reported a drop in Canadian auto sales for November.
+General Motors,2017-12,"Ford said sales fell 2.8 percent to 23,788 vehicles, largely due to weak demand for cars."
+General Motors,2017-12,"GM Canada has sold 283,025 vehicles and Ford 291,104 units for the year."
+General Motors,2017-12,"GM Report 245,387 Deliveries In The United States In November, Down 2.9 Pct - Reuters Investor Briefs"
+General Motors,2017-12,"{{20171201T162125.385+0000}}GM Report 245,387 Deliveries In The United States In November, Down 2.9 PctDec 1 (Reuters) - General Motors Co <GM.N>::GM SAYS REPORTED 245,387 DELIVERIES IN THE UNITED STATES IN NOVEMBER, DOWN 2.9 PERCENT.GM SAYS ""U.S. ECONOMIC GROWTH HAS STEPPED UP AND WE EXPECT THE MOMENTUM WILL CARRY OVER TO 2018"".GM SAYS U.S."
+General Motors,2017-12,GM Canada auto sales fall 17.2 pct in November - Reuters News
+General Motors,2017-12,{{20171201T154527.164+0000}}GM Canada auto sales fall 17.2 pct in NovemberDec 1 (Reuters) - General Motors Co said on Friday its total vehicle sales in Canada fell 17.2 percent in November from a year earlier.
+General Motors,2017-12,"GM Canada sold 283,025 vehicles so far this year, up 13.6 percent over last year, the company said."
+General Motors,2017-12,"BRIEF-GM Report 245,387 Deliveries In The United States In November, Down 2.9 Pct - Reuters News"
+General Motors,2017-12,"{{20171201T154252.858+0000}}BRIEF-GM Report 245,387 Deliveries In The United States In November, Down 2.9 PctDec 1 (Reuters) - General Motors Co :"
+General Motors,2017-12,"* GM SAYS ""U.S. ECONOMIC GROWTH HAS STEPPED UP AND WE EXPECT THE MOMENTUM WILL CARRY OVER TO 2018"""
+General Motors,2017-12,"* GM SAYS ON TRACK TO CLOSE 2017 WITH ""SIGNIFICANTLY"" FEWER VEHICLES IN STOCK THAN IT HAD IN DEC 2016"
+General Motors,2017-12,"DETROIT, Dec 1 (Reuters) - Major automakers posted mixed U.S. November new vehicle sales for November on Friday, with General Motors Co and Fiat Chrysler Automobiles NV (FCA) down largely on lower fleet sales, while Ford Motor Co's sales rose."
+General Motors,2017-12,"Automakers are trying to sell down 2017 model year vehicles, offering high discounts to consumers as the year-end nears. Last year the industry hit record annual sales of 17.55 million units and this year analysts expect full-year sales to fall slightly, increasing competition to move vehicles off dealers' lots."
+General Motors,2017-12,"No. 1 U.S. automaker GM said its sales fell 2.9 percent in November, with sales to consumers flat versus the same month in 2016. Much of the decrease was driven by lower fleet sales to rental agencies, businesses and government agencies."
+General Motors,2017-12,"GM said strong SUV and crossover sales pushed its average transaction price for the month above $37,000 for the first time. The company's level of unsold cars, which has been a concern for analysts and the industry, rose slightly to 83 days supply from 80 days at the end of October."
+General Motors,2017-12,Fleet sales are a low-margin business for automakers. FCA in particular has targeted a significant reduction in this type of sale in 2017.
+General Motors,2017-12,"The automaker posted a 4 percent overall decrease in sales for November, but said fleet sales were down 25 percent while sales to consumers were up 2 percent on the year."
+General Motors,2017-12,"No. 2 U.S. automaker Ford reported a 6.7 percent increase in sales in November, with fleet sales up nearly 26 percent and retail sales 1.3 percent higher than in November 2016."
+General Motors,2017-12,"Ford said SUV sales rose 13.3 percent in November, while its pickup truck sales were up 4.1 percent."
+General Motors,2017-12,"In morning trading, GM shares were down 18 cents at $42.91, FCA was off 9 cents at $17.01 and Ford was up 0.8 percent at $12.63."
+General Motors,2017-12,{{20171201T104518.915+0000}}PRESS DIGEST-Canada - Dec 1Dec 1 (Reuters) - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy.
+General Motors,2017-12,"SAIC-GM to recall 806,367 vehicles in China - quality watchdog - Reuters News"
+General Motors,2017-12,"{{20171201T094450.119+0000}}SAIC-GM to recall 806,367 vehicles in China - quality watchdogBEIJING, Dec 1 (Reuters) - SAIC General Motors Corp Ltd will recall 806,367 Chevrolet Cruze vehicles in China due to power steering-related issues, the country's quality watchdog said on Friday."
+General Motors,2017-12,SAIC General Motors is a joint venture between SAIC Motor <600104.SS> and General Motors .
+General Motors,2017-12,"Earlier, the quality watchdog said another three-way tie-up involving SAIC and GM will recall nearly a million vehicles in China. [nL3N1O11ZJ]"
+General Motors,2017-12,BUZZ-Peugeot: Opel turnaround could prove costly -Citi - Reuters News
+General Motors,2017-12,"{{20171201T082208.823+0000}}BUZZ-Peugeot: Opel turnaround could prove costly -Citi** Citi cuts Peugeot to ""sell"" from ""neutral"", saying Opel turnaround could prove costly"
+General Motors,2017-12,"** Says the turnaround is going to prove ""more problematic"" than PSA or the market expects"
+General Motors,2017-12,"** Co is expected to burn significant amount of cash in the next 12-18 mths, Citi adds"
+General Motors,2017-12,** Opel carries CO2 compliance burden and fixing that will cost well in excess of 1 billion euros - Citi
+General Motors,2017-12,"** ""We are concerned that bulls place an undue emphasis on the track record of the CEO"""
+General Motors,2017-12,"{{20171201T052430.932+0000}}TABLE-GM Korea November sales down 19.8 pct y/ySEOUL, Dec 01 (Reuters) - GM Korea Co's vehicle sales during"
+General Motors,2017-12,Note: Unlisted GM Korea Co is South Korea's third-largest
+General Motors,2017-12,"stake in some of the assets of failed Daewoo Motor in 2002,"
+General Motors,2017-12,UPDATE 1-GM venture to recall nearly a mln vehicles in China -quality watchdog - Reuters News
+General Motors,2017-12,"{{20171201T044807.224+0000}}UPDATE 1-GM venture to recall nearly a mln vehicles in China -quality watchdog* Recall involves venture's popular, affordable Baojun brand"
+General Motors,2017-12,"* Follows other major China recalls by GM, VW earlier this year"
+General Motors,2017-12,"BEIJING, Dec 1 (Reuters) - One of General Motors Co's China ventures will recall nearly a million vehicles due to fuel tank problems, the country's quality watchdog said on Friday, the latest in a spate of major auto recalls in China over the last few months."
+General Motors,2017-12,"SAIC-GM-Wuling Automobile Co Ltd is a three-way tie-up between SAIC Motor Corp Ltd <600104.SS>, General Motors and Guangxi Automobile Group, formerly known as Wuling Motors."
+General Motors,2017-12,"The recall of the 938,686 vehicles involves two models of the venture's popular Baojun cars, a high-volume, entry-level brand for the Chinese market, which sold more than 2 million vehicles last year."
+General Motors,2017-12,"This year has seen a number of major car recalls in China, the world's biggest auto market."
+General Motors,2017-12,China's quality watchdog said in September GM and its China ventures would recall over 2.5 million vehicles over airbag issues. That followed a similar 4.86 million vehicle recall by Volkswagen AG and its Chinese joint ventures. [nL4N1JY08F] [nL4N1LV1YR]
+General Motors,2017-12,"GM produces vehicles in China through a joint venture with SAIC, the country's largest automaker, as well as the three-way venture that is now working on an electric battery car called the Baojun E100 to help meet strict new-energy vehicle quotas."
+General Motors,2017-12,"SAIC-GM-Wuling to recall 938,686 vehicles in China -quality watchdog - Reuters News"
+General Motors,2017-12,"{{20171201T032708.151+0000}}SAIC-GM-Wuling to recall 938,686 vehicles in China -quality watchdogBEIJING, Dec 1 (Reuters) - SAIC-GM-Wuling Automobile Co Ltd will recall 938,686 vehicles in China due to fuel tank problems, the country's quality watchdog said on Friday."
+General Motors,2017-12,"SAIC-GM-Wuling Automobile Co Ltd is a joint venture between SAIC Motor Corp Ltd <600104.SS>, General Motors Co and Liuzhou Wuling Motors Co Ltd."
+General Motors,2017-12,{{20171201T010259.786+0000}}PRESS DIGEST- Financial Times - Dec. 1 Dec 1 (Reuters) - The following are the top stories in the Financial Times. Reuters has not verified these stories and does not vouch for their accuracy.
+General Motors,2017-12,"General Motors Co aims to launch a public ride-sharing service across several cities that uses fully self-driving cars by 2019, potentially becoming the first traditional carmaker to deploy autonomous technology at scale in the real world."
+General Motors,2017-12,"Royal Bank of Scotland Group Plc has closed the ""bad bank"" it created to handle a vast pile of toxic assets after the financial crisis nine years ago, having racked up cumulative losses of more than 50 billion pounds from the unit."
+General Motors,2017-12,"The head of UBS Group AG has lashed out against regulators' efforts to rein in bankers' pay, arguing that the push is fuelled by envy among less well paid officials and risked stoking the populist backlash against capitalism."
+General Motors,2017-12,UPDATE 2-Influential U.S. auto union caucus nominates regional head for president - Reuters News
+General Motors,2017-12,"{{20171130T234941.909+0000}}UPDATE 2-Influential U.S. auto union caucus nominates regional head for president(Adds biographical details of nominee, background)"
+General Motors,2017-12,"DETROIT, Nov 30 (Reuters) - An influential caucus at the United Auto Workers nominated on Thursday a regional director as candidate for union president as the UAW struggles to organize auto plants and faces a probe into alleged misuse of funds at training centers funded by Detroit's automakers."
+General Motors,2017-12,"The caucus, named for renowned former UAW President Walter Reuther, nominated Gary Jones, director of the union's region 5 covering 17 Western and Southwestern states, for a four-year term."
+General Motors,2017-12,"For the past seven decades, the Reuther Caucus's nominee has won election as union president. The UAW will hold a leadership election in June."
+General Motors,2017-12,"Current UAW President Dennis Williams was elected in 2014 and will turn 65 in 2018, which would bar him from re-election."
+General Motors,2017-12,"Based in Kansas City, Missouri, where he has been regional director since 2012, Jones is far removed from the Justice Department probe into alleged misuse of funds at the UAW training centers in the Detroit area. [nL2N1N8232]"
+General Motors,2017-12,"Jones joined the UAW in 1975 when he was hired at a Ford Motor Co plant in Broken Arrow, Oklahoma. He has worked for the union in various roles since 1990."
+General Motors,2017-12,"The UAW's next president will have to steer the union through challenging contract negotiations with General Motors Co , Ford and Fiat Chrysler Automobiles NV in 2019."
+General Motors,2017-12,"After a boom running from 2010 to record annual sales of 17.55 million units in 2016, new vehicle sales are expected to decline slightly this year, followed by further decreases in 2018 and 2019."
+General Motors,2017-12,"Industry consultant LMC predicts U.S. new vehicle sales will dip to 16.8 million units in 2019, likely portending a much tougher round of contract talks than in 2015 when automakers were on an upswing."
+General Motors,2017-12,"UAW membership has crept up since the end of the 2007-2009 recession, but is about half of what it was in 1998 and well below a peak of 1.5 million members in 1979. The Detroit automakers and their suppliers have slashed workforces at UAW-represented factories over the past 30 years as they have automated and lost sales to European and Asian rivals."
+General Motors,2017-12,"Earlier this month, workers at a Chinese-owned auto glass plant in southwestern Ohio voted heavily against union representation. The UAW lost the vote at Fuyao Glass Industry Group Co Ltd <600660.SS> by a 2-to-1 margin. [nL1N1NG04X]"
+General Motors,2017-12,"The union also lost a bitterly contested vote at a Nissan Motor Co Ltd <7201.T> plant in Mississippi in August, adding to a decades-long record of failure to organize a major automaker's plant in the U.S. South. [nL1N1KR04I]"
+General Motors,2017-12,{{20171130T205831.809+0000}}BREAKINGVIEWS-GM drives towards self-disruption(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+General Motors,2017-12,"NEW YORK, Nov 30 (Reuters Breakingviews) - General Motors is driving towards self-disruption. At an event in San Francisco on Thursday the biggest U.S. automaker showed off its autonomous-vehicle strategy. The $61 billion company run by Mary Barra is even teasing the prospect that in a decade or so it could make more money from robo-taxis than its current business."
+General Motors,2017-12,"GM argues that it controls most of the process, from mass-production of cars to self-driving technology and data. So it won't have to share proceeds. By contrast Uber [UBER.UL], for example, is buying its cars from Volvo ."
+General Motors,2017-12,"Second, Barra's engineers think they can take battery costs below $100 per kilowatt-hour from the present $145 per kWh. And Strobe, a recent acquisition, will soon build crucial light-detection and ranging sensors for just $300 a unit - down from $20,000."
+General Motors,2017-12,"Greater utilization of vehicles, better maintenance and a raft of marketable data on everything from traffic to weather would add to the juice. It could take an automaker's lifetime revenue from a car to ""several hundreds of thousands of dollars"" from around $30,000 at present, according to Amman."
+General Motors,2017-12,Being first to market is critical. GM is the only player that has been testing self-driving vehicles in bustling cities. On Thursday the company confirmed it expects to deploy a commercial fleet of robo-taxis in 2019. That puts pressure on Uber and Alphabet's Waymo division as well as Ford Motor and other traditional rivals.
+General Motors,2017-12,Much could go wrong. But shareholders and competitors alike now have to reckon with a company that is no longer their parents' General Motors.
+General Motors,2017-12,"- For previous columns by the author, Reuters customers can click on [CURRIE/]"
+General Motors,2017-12,GM Says New Trucks And SUVs Coming In 2018 Will Generate Strong Returns - Reuters Investor Briefs
+General Motors,2017-12,UPDATE 3-GM plans large-scale launch of self-driving cars in U.S. cities in 2019 - Reuters News
+General Motors,2017-12,"{{20171130T201542.500+0000}}UPDATE 3-GM plans large-scale launch of self-driving cars in U.S. cities in 2019(Adds comments by GM president, CFO, adds details on revenue, margin and share price)"
+General Motors,2017-12,"SAN FRANCISCO/DETROIT, Nov 30 (Reuters) - General Motors Co laid out its vision for self-driving vehicles on Thursday, telling investors it planned a commercial launch of fleets of fully autonomous robo-taxis in multiple dense urban environments in 2019, in a challenge to rivals such as Alphabet Inc's Waymo."
+General Motors,2017-12,"Underscoring the potential opportunity ahead, GM President Dan Ammann told investors the lifetime revenue generation of one of its self-driving cars could eventually be in the ""several hundred thousands of dollars."" That compares with the $30,000 on average that GM collects today for one of its vehicles, mostly derived from the initial sale."
+General Motors,2017-12,The No. 1 U.S. automaker - which views electric and autonomous vehicles as the keystones of future transport - has been focused on rolling out self-driving cars since its estimated $1 billion acquisition of startup Cruise Automation in early 2016 that provided a toehold in the nascent industry.
+General Motors,2017-12,"Automakers and rivals such as Waymo and Uber Technologies Inc [UBER.UL] have poured billions into the competitive industry, with each player hoping to gain first-mover advantage. Robo-taxi services are seen as the main use for most self-driving vehicles, including GM's Chevrolet Bolt."
+General Motors,2017-12,"""If we continue on our current rate of change we will be ready to deploy this technology, in large scale, in the most complex environments, in 2019,"" Ammann said on a conference call."
+General Motors,2017-12,"Safety, Ammann said, will ultimately be the deciding factor on when to take the driver out of the car."
+General Motors,2017-12,"GM has enjoyed a recent surge in its share price, as investors bet on its plans for self-driving and electric cars, although the company's profit is driven entirely by demand for trucks and SUVs in North America, and its growing sales in China. [nL1N1NL0VD]"
+General Motors,2017-12,"Until now, GM has said autonomous vehicles were a big part of its future but did not give many details. Now, it has outlined more broadly its strategy, in which self-driving Bolts could be manufactured at scale at GM's existing plants, driving down costs, and rapidly deployed in major metropolitan markets through a ride service to disrupt incumbents."
+General Motors,2017-12,"""We are the only company that has this under one roof,"" Chief Executive Mary Barra said on the same call, distinguishing GM from its technology rivals in the autonomous sector."
+General Motors,2017-12,"GM said last month it sees deployment of autonomous vehicles in ""quarters, not years,"" and this week it finally provided a peek at its prototype self-driving vehicles."
+General Motors,2017-12,"Self-driving cars and shared mobility will be accretive to GM's core business, Barra said, with the biggest opportunities initially to come from the U.S. East and West coasts."
+General Motors,2017-12,"Chief Financial Officer Chuck Stevens said a robo-taxi service could be ""potentially bigger than our current core business, with better margins."""
+General Motors,2017-12,"""We have a path to take 40 percent of the cost out of ride services,"" Stevens said on the same call. Lowering the cost to below $1 per mile by 2025 from about $2.50 today could result in margins of 20 to 30 percent, he said."
+General Motors,2017-12,Using a vehicle for a robo-taxi service - rather than GM's current business model of building cars for individual customers - could increase revenue generation exponentially because the vehicle could be continuously used by multiple users over its lifespan.
+General Motors,2017-12,"Underscoring the competitive landscape, Uber said last week it planned to buy up to 24,000 self-driving cars from Volvo, owned by China's Geely Automobile Holdings Ltd <0175.HK>, in a nonexclusive deal from 2019 to 2021. No financial details were disclosed. [nL8N1NQ5FV]"
+General Motors,2017-12,"As one example of bringing down the cost of autonomous vehicles, GM said it expects to lower the cost of long-range Lidar sensors - a key element in self-driving technology - to $300 from $20,000, without providing a time frame. In October, GM bought Lidar company Strobe Inc, saying its technology could lower the cost of the sensor by 99 percent. [nL2N1MK0HR]"
+General Motors,2017-12,"GM said it was too early to discuss possible branding of its self-driving cars, or whether the Cruise or Bolt name would be used. GM also operates an app-based car-sharing business called Maven, which some have speculated could be the new brand name."
+General Motors,2017-12,"On Tuesday, GM's Cruise Automation gave reporters their first look at the autonomous Bolts that have been testing in San Francisco, Phoenix and Detroit. The cars conservatively navigated busy urban streets but encountered hiccups when it came to double-parked cars and traffic cones. [nL1N1NY2QQ]"
+General Motors,2017-12,"Earlier this month, GM announced plans to sell 1 million electric vehicles a year by 2026. The cars would be built on a platform that could accommodate multiple sizes and segments, lowering the cost of building them. [nL1N1NL0VD] [nL2N1N72DJ]"
+General Motors,2017-12,"Waymo is often seen as the frontrunner in the emerging autonomous sector, although its business model is different than GM's as it does not build cars itself. Earlier this month, Waymo announced a planned self-driving robo-taxi service in suburban Phoenix, to carry its first passengers in the next few months. [nL1N1ND197] It has not given a time frame for a wider roll-out."
+General Motors,2017-12,BRIEF-GM Says New Trucks And SUVs Coming In 2018 Will Generate Strong Returns  - Reuters News
+General Motors,2017-12,{{20171130T191654.367+0000}}BRIEF-GM Says New Trucks And SUVs Coming In 2018 Will Generate Strong Returns Nov 30 (Reuters) - General Motors Co :
+General Motors,2017-12,"* GM CEO MARY BARRA SAYS ""MONETIZATION OF DATA (IN SHARED AVS) WILL BE ORDERS OF MAGNITUDE HIGHER THAN WE HAVE TODAY"""
+General Motors,2017-12,* CRUISE AUTOMATION CEO KYLE VOGT SAYS SCALE UP PRODUCTION VOLUME TO DRIVE DOWN COSTS AND RAPIDLY DEPLOY IN ADDITIONAL MARKETS
+General Motors,2017-12,"* CRUISE AUTOMATION CEO KYLE VOGT SAYS GM BOOSTING GLOBAL SELF-DRIVING DEVELOPMENT TEAM FROM 1,200 TO 2,100 IN 2018"
+General Motors,2017-12,"* CRUISE AUTOMATION CEO KYLE VOGT SAYS GM'S SELF-DRIVING TEAM LOCATED IN CALIFORNIA, MICHIGAN AND ISRAEL"
+General Motors,2017-12,"* CRUISE AUTOMATION CEO KYLE VOGT SAYS GM REDUCING THE COST OF LONG-RANGE LIDAR SENSORS FROM $20,000 TO $300"
+General Motors,2017-12,* CRUISE AUTOMATION CEO KYLE VOGT SAYS GM CAN DEPLOY SELF-DRIVING FLEETS IN MULTIPLE CITIES SIMULTANEOUSLY
+General Motors,2017-12,* CRUISE AUTOMATION CEO KYLE VOGT SAYS ACTION PLAN IN PLACE TO DEPLOY AT SCALE QUICKLY IN MULTIPLE CITIES
+General Motors,2017-12,* CRUISE AUTOMATION SAYS SIGNIFICANT ADDITIONAL OPPORTUNITIES IN TRANSPORTATION OF GOODS AND DATA MONETIZIATION
+General Motors,2017-12,* GENERAL MOTORS - NEW TRUCKS AND SUVS COMING IN 2018 WILL GENERATE STRONG RETURNS FOR YEARS TO COME
+General Motors,2017-12,"* GENERAL MOTORS - CHINA WILL BE GLOBAL ELECTRIC VEHICLE ""EPICENTER"" IN THE FUTURE"
+General Motors,2017-12,"{{20171130T191332.000+0000}}UPDATE 3-GM plans large-scale launch of self-driving cars in U.S. cities in 2019SAN FRANCISCO/DETROIT, Nov 30 (Reuters)"
+General Motors,2017-12,"(Adds comments by GM president, CFO, adds details on revenue, margin and share price)"
+General Motors,2017-12,"SAN FRANCISCO/DETROIT, Nov 30 (Reuters) - General Motors Co laid out its vision for self-driving vehicles on Thursday, telling investors it planned a commercial launch of fleets of fully autonomous robo-taxis in multiple dense urban environments in 2019, in a challenge to rivals such as Alphabet Inc's Waymo."
+General Motors,2017-12,"Underscoring the potential opportunity ahead, GM President Dan Ammann told investors the lifetime revenue generation of one of its self-driving cars could eventually be in the ""several hundred thousands of dollars."" That compares with the $30,000 on average that GM collects today for one of its vehicles, mostly derived from the initial sale."
+General Motors,2017-12,The No. 1 U.S. automaker - which views electric and autonomous vehicles as the keystones of future transport - has been focused on rolling out self-driving cars since its estimated $1 billion acquisition of startup Cruise Automation in early 2016 that provided a toehold in the nascent industry.
+General Motors,2017-12,"Automakers and rivals such as Waymo and Uber Technologies Inc [UBER.UL] have poured billions into the competitive industry, with each player hoping to gain first-mover advantage. Robo-taxi services are seen as the main use for most self-driving vehicles, including GM's Chevrolet Bolt."
+General Motors,2017-12,"""If we continue on our current rate of change we will be ready to deploy this technology, in large scale, in the most complex environments, in 2019,"" Ammann said on a conference call."
+General Motors,2017-12,"Safety, Ammann said, will ultimately be the deciding factor on when to take the driver out of the car."
+General Motors,2017-12,"GM has enjoyed a recent surge in its share price, as investors bet on its plans for self-driving and electric cars, although the company's profit is driven entirely by demand for trucks and SUVs in North America, and its growing sales in China. [nL1N1NL0VD]"
+General Motors,2017-12,"Until now, GM has said autonomous vehicles were a big part of its future but did not give many details. Now, it has outlined more broadly its strategy, in which self-driving Bolts could be manufactured at scale at GM's existing plants, driving down costs, and rapidly deployed in major metropolitan markets through a ride service to disrupt incumbents."
+General Motors,2017-12,"""We are the only company that has this under one roof,"" Chief Executive Mary Barra said on the same call, distinguishing GM from its technology rivals in the autonomous sector."
+General Motors,2017-12,"GM said last month it sees deployment of autonomous vehicles in ""quarters, not years,"" and this week it finally provided a peek at its prototype self-driving vehicles."
+General Motors,2017-12,"Self-driving cars and shared mobility will be accretive to GM's core business, Barra said, with the biggest opportunities initially to come from the U.S. East and West coasts."
+General Motors,2017-12,"Chief Financial Officer Chuck Stevens said a robo-taxi service could be ""potentially bigger than our current core business, with better margins."""
+General Motors,2017-12,"""We have a path to take 40 percent of the cost out of ride services,"" Stevens said on the same call. Lowering the cost to below $1 per mile by 2025 from about $2.50 today could result in margins of 20 to 30 percent, he said."
+General Motors,2017-12,Using a vehicle for a robo-taxi service - rather than GM's current business model of building cars for individual customers - could increase revenue generation exponentially because the vehicle could be continuously used by multiple users over its lifespan.
+General Motors,2017-12,"Underscoring the competitive landscape, Uber said last week it planned to buy up to 24,000 self-driving cars from Volvo, owned by China's Geely Automobile Holdings Ltd <0175.HK>, in a nonexclusive deal from 2019 to 2021. No financial details were disclosed. [nL8N1NQ5FV]"
+General Motors,2017-12,"As one example of bringing down the cost of autonomous vehicles, GM said it expects to lower the cost of long-range Lidar sensors - a key element in self-driving technology - to $300 from $20,000, without providing a time frame. In October, GM bought Lidar company Strobe Inc, saying its technology could lower the cost of the sensor by 99 percent. [nL2N1MK0HR]"
+General Motors,2017-12,"GM said it was too early to discuss possible branding of its self-driving cars, or whether the Cruise or Bolt name would be used. GM also operates an app-based car-sharing business called Maven, which some have speculated could be the new brand name."
+General Motors,2017-12,"On Tuesday, GM's Cruise Automation gave reporters their first look at the autonomous Bolts that have been testing in San Francisco, Phoenix and Detroit. The cars conservatively navigated busy urban streets but encountered hiccups when it came to double-parked cars and traffic cones. [nL1N1NY2QQ]"
+General Motors,2017-12,"Earlier this month, GM announced plans to sell 1 million electric vehicles a year by 2026. The cars would be built on a platform that could accommodate multiple sizes and segments, lowering the cost of building them. [nL1N1NL0VD] [nL2N1N72DJ]"
+General Motors,2017-12,"Waymo is often seen as the frontrunner in the emerging autonomous sector, although its business model is different than GM's as it does not build cars itself. Earlier this month, Waymo announced a planned self-driving robo-taxi service in suburban Phoenix, to carry its first passengers in the next few months. [nL1N1ND197] It has not given a time frame for a wider roll-out."
+General Motors,2017-12,"GM Says Expect Commercial Launch Of AV in ""Dense Urban Environments"" In 2019 - Presentation - Reuters Investor Briefs"
+General Motors,2017-12,UPDATE 1-GM sees self-driving vehicles in cities in 2019 - Reuters News
+General Motors,2017-12,"{{20171130T174924.734+0000}}UPDATE 1-GM sees self-driving vehicles in cities in 2019(Adds details on lidar technology, background)"
+General Motors,2017-12,Nov 30 (Reuters) - General Motors Co said on Thursday it expects the commercial launch of self-driving vehicles in dense urban environments in 2019.
+General Motors,2017-12,"GM, like rival automakers and technology leaders including Alphabet Inc , has poured billions into autonomous vehicle research, although fully self-driving cars are a work in progress."
+General Motors,2017-12,It expects robo-taxi services to be the main use for its self-driving vehicles.
+General Motors,2017-12,"GM has enjoyed a recent surge in its share price, as investors bet on its plans for self-driving and electric cars, although the company's profit is driven entirely by demand for trucks and SUVs in North America, and its growing sales in China. [nL1N1NL0VD]"
+General Motors,2017-12,"The company on Thursday added that it expects to reduce the cost of long-range lidar sensors to $300 from $20,000, but did not provide a clear timeline."
+General Motors,2017-12,"In October, GM bought lidar sensor technology company Strobe Inc, saying the company's technology could lower the cost of the key laser-based sensor on self-driving cars by 99 percent. [nL2N1MK0HR]"
+General Motors,2017-12,"Lidar, which relies on light pulses reflected off objects to gauge their position on and near the road, is seen by most automotive experts as one of the crucial elements for full self-driving cars and has become a prime focus."
+General Motors,2017-12,"BRIEF-GM Says Expect Commercial Launch Of AV in ""Dense Urban Environments"" In 2019 - Presentation - Reuters News"
+General Motors,2017-12,"{{20171130T174136.347+0000}}BRIEF-GM Says Expect Commercial Launch Of AV in ""Dense Urban Environments"" In 2019 - PresentationNov 30 (Reuters) - General Motors Co :"
+General Motors,2017-12,"* GM SAYS BASED ON CURRENT RATE OF CHANGE, EXPECT COMMERCIAL LAUNCH OF AV AT SCALE IN ""DENSE URBAN ENVIRONMENTS"" IN 2019 - PRESENTATION"
+General Motors,2017-12,GM expects commercial launch of autonomous vehicles in 2019 - Reuters News
+General Motors,2017-12,"{{20171130T171805.248+0000}}GM expects commercial launch of autonomous vehicles in 2019Nov 30 (Reuters) - General Motors Co said on Thursday it expects commercial launch of autonomous vehicles in ""dense"" urban environments in 2019."
+General Motors,2017-12,The No.1 U.S. automaker added that its fleet of self-driving Cruise cars will accumulate about 1 million miles per month by early 2018.
+General Motors,2017-12,ANALYSIS-Luxury auto brands adopt new strategies as the old run out of gas - Reuters News
+General Motors,2017-12,{{20171130T140917.921+0000}}ANALYSIS-Luxury auto brands adopt new strategies as the old run out of gasBy Joseph White
+General Motors,2017-12,"LOS ANGELES, Nov 30 (Reuters) - Success in the United States used to come easily for German automaker BMW AG , whose sporty sedans in three sizes would be snapped up by affluent consumers."
+General Motors,2017-12,"The premium auto business has now become more complicated, as illustrated by the BMW models displayed at this week's Los Angeles auto show, amid a backdrop of heavy spending by luxury auto brands on new models and technology as they make awkward leaps from a predictable past to an uncertain future."
+General Motors,2017-12,"On one side of BMW's display stood a prototpye of a large X7 sport utility vehicle, a vehicle that was unthinkable in its lineup a few years ago when the top of the line was still defined as a large sedan."
+General Motors,2017-12,"On the other side, BMW displayed the iVision, a prototype of an electric sedan that will rival Silicon Valley electric luxury car maker Tesla Inc's Model S when the production version, or non-prototype version, launches in 2021."
+General Motors,2017-12,"""This is the future,"" said Bernhard Kuhnt, the new head of BMW's North American operations, referring to the iVision and electric vehicles in general."
+General Motors,2017-12,"More immediately, Kuhnt said, the X7 represents BMW's determination to offer more sport utility vehicles, which now account for more than half of luxury vehicle sales in the United States, to reverse a four percent slide in sales this year through October."
+General Motors,2017-12,"""In October, we sold 60 percent sedans in a market that is 55 percent SUVs,"" he said."
+General Motors,2017-12,"But next year, as BMW's U.S. dealers get more newly redesigned X3 SUVs, and a new X2 sport utility, the SUV-to-sedan ratio will start to flip, and sales should grow, he said."
+General Motors,2017-12,BMW's rivals are at different points in their own jumps from the strategies that fueled growth during the past two decades. The type of vehicle that defines the top of the line for German luxury brands shows how the business is changing.
+General Motors,2017-12,"""The classic definition of the standard bearer as a three-box sedan, that is migrating in three directions,"" said Scott Keogh, head of U.S. operations for Volkswagen AG's Audi brand."
+General Motors,2017-12,"One direction, he said, is ""electrification as the new prestige,"" a trend driven by Tesla."
+General Motors,2017-12,Rivals at other established luxury brands agreed during interviews at the LA show that some form of electric power - fully electric or plug-in hybrids - is now necessary in order to compete.
+General Motors,2017-12,"""The U.S. is a market where customers are asking for electric"" vehicles, Hakan Samuelsson, chief executive of Volvo Cars, said in an interview on the sidelines of the LA auto show Wednesday. ""That's a premium value - to be carbon free."""
+General Motors,2017-12,Volvo has said it will engineer all its vehicles to rely on full or partial electric power starting in 2019.
+General Motors,2017-12,German luxury car makers have announced aggressive plans to expand their electric vehicle lineups.[nL5N1LT47Z]
+General Motors,2017-12,"Another way the market is veering away from sedans is with the rise of the large, luxury SUV, now available in most luxury brands at prices that can easily top $100,000. Jaguar Land Rover, owned by India's Tata Motors Ltd, is displaying a $207,900, 557-horsepower Range Rover model at the LA show."
+General Motors,2017-12,"Audi plans to launch a Q8 SUV next year that will add a more luxurious SUV to the top of its U.S. lineup, Keogh said. Two large luxury SUVs are now sold for each large luxury sedan, Audi reckons.[nL1N1NU0Y5]"
+General Motors,2017-12,"Daimler AG's Mercedes-Benz brand used the Los Angeles show to debut an example of a third trend. The new generation of the Mercedes CLS coupe joins Audi's A7 and the Porsche Panamera in a stable of large, premium, sporty fastbacks."
+General Motors,2017-12,"Not to be outdone, BMW is displaying a large, sleek coupe of its own, the 8-series."

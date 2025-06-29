@@ -1,0 +1,760 @@
+firm_id,date,text
+General Electric,2017-9,UPDATE 1-Air France flight with engine damage makes emergency landing in Canada - Reuters News
+General Electric,2017-9,"{{20170930T194021.392+0000}}UPDATE 1-Air France flight with engine damage makes emergency landing in CanadaSept 30 (Reuters) - An Air France flight from Paris to Los Angeles made an emergency landing in eastern Canada on Saturday after one of its four engines sustained ""serious damage"" over the Atlantic, the airline said."
+General Electric,2017-9,"Air France Flight 66, originating at Paris Charles de Gaulle Airport, landed at Goose Bay in Labrador at 1542 GMT, the airline said, and no one was hurt in the incident."
+General Electric,2017-9,"""The regularly trained pilots and cabin crew handled this serious incident perfectly,"" the airline said in a statement."
+General Electric,2017-9,"The aircraft involved in the incident was an Airbus 380 that was about seven years old, according to airfleets.net, an aircraft database. The engine was made by Engine Alliance, a joint venture between General Electric Co and United Technologies Corp's Pratt & Whitney unit."
+General Electric,2017-9,The forced landing in Canada's easternmost province is reminiscent of an incident seven years ago in which one of the Rolls Royce engines on a Qantas A380 suffered mid-engine damage after taking off in Singapore. The November 2010 incident prompted the grounding of the entire Qantas A380 fleet -- six A380s at the time -- for over three weeks.
+General Electric,2017-9,Officials with the Transportation Safety Board of Canada could not immediately be reached for comment on Saturday. The airline said it was making arrangements to send the plane's passengers to their destination of Los Angeles.
+General Electric,2017-9,Aircraft on trans-Atlantic flights commonly use Goose Bay Airport in the province of Newfoundland and Labrador for emergency fueling stops.
+General Electric,2017-9,{{20170929T172105.834+0000}}U.S. drillers add oil rigs for first week since mid-August -Baker HughesSept 29 (Reuters) - U.S. energy companies added oil rigs for
+General Electric,2017-9,stalled in August as crude prices were on track for their
+General Electric,2017-9,"The U.S. oil rig count, however, is down for the second"
+General Electric,2017-9,month in a row and posted its biggest monthly and quarterly
+General Electric,2017-9,"Drillers added six oil rigs in the week to Sept. 29,"
+General Electric,2017-9,Baker Hughes energy services firm said in its closely followed
+General Electric,2017-9,"The rig count, an early indicator of future output, is still"
+General Electric,2017-9,higher than the 425 active oil rigs a year ago as energy
+General Electric,2017-9,"For the month of September, the rig count fell by nine,"
+General Electric,2017-9,"The rig count also dropped by six in the third quarter, the"
+General Electric,2017-9,first decline over a three-month period since the second quarter
+General Electric,2017-9,"Crude prices were up over 9 percent so far this month, the"
+General Electric,2017-9,"five of the past six months, including a near 6 percent drop in"
+General Electric,2017-9,August as rising U.S. output helped to add to a global glut.
+General Electric,2017-9,"In spite of higher oil prices, Total SA  this week"
+General Electric,2017-9,have trimmed their investments for this year due to the drop in
+General Electric,2017-9,"crude prices, they still planned to spend much more this year"
+General Electric,2017-9,"forecast for the total oil and gas rig count, now expecting it"
+General Electric,2017-9,"to rise to an average of 973 in 2017, 1,004 in 2018 and 1,084 in"
+General Electric,2017-9,"That compares with 861 oil and gas rigs so far in 2017, 509"
+General Electric,2017-9,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-9,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-9,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-9,{{20170928T122547.210+0000}}BRIEF-Allocadia reports winners of 2017 runmarketing awardsSept 28 (Reuters) - General Electric Co :
+General Electric,2017-9,"* Allocadia announces winners of 2017 runmarketing awards; GE Digital, Microsoft, Red Hat, Smartbear, and Intralinks take top spots"
+General Electric,2017-9,"UPDATE 2-India says GE diesel locomotive factory on track, but to pursue electrification  - Reuters News"
+General Electric,2017-9,"{{20170928T104724.288+0000}}UPDATE 2-India says GE diesel locomotive factory on track, but to pursue electrification * US firm concerned about policy changes"
+General Electric,2017-9,* One of the largest railways contracts given to a foreign firm
+General Electric,2017-9,"NEW DELHI, Sept 28 (Reuters) - General Electric's plan to build a diesel locomotive factory in eastern India is proceeding as planned, the nation's railways minister said on Thursday, aiming to allay the U.S. firm's concerns that India was unilaterally making changes to the contract."
+General Electric,2017-9,Piyush Goyal's comments came after GE said this week that the Indian government could incur costs and its 'Make in India' initiative would be undermined if the railway ministry went ahead with changes to the scope of a joint venture of GE and the state-controlled network. [nL4N1M74VK]
+General Electric,2017-9,"""Work in the factory is going on as per plan,"" he told reporters."
+General Electric,2017-9,"GE had won a $2.6 billion contract in 2015 to supply the railways with 1,000 diesel locomotives and began work on a plant in an impoverished corner of eastern India, in one of the largest direct foreign investment projects in the South Asian nation."
+General Electric,2017-9,But the railways ministry said last week it wouldn't need diesel engines after all - hoping to save on fuel and maintenance costs - and suggested GE might want to make electric locomotives instead.
+General Electric,2017-9,"The contract to GE is one of the largest to be awarded to a foreign firm since India allowed 100 percent foreign direct investment in parts of its railways, and is part of a $137 billion programme to overhaul the vast but dilapidated network by 2020."
+General Electric,2017-9,The uncertainty over the railway locomotives investment has come at a time when the government is facing political pressure after economic growth slowed to its weakest pace in three years. [nL8N1LI008]
+General Electric,2017-9,A government source said Prime Minister Narendra Modi's office had intervened after GE raised its concerns and the railways had not made a written proposal for a change of plans from diesel to an all-electric fleet to power the world's fourth largest rail network.
+General Electric,2017-9,"GE had approached Modi's office seeking clarity on the issue, an aide to Modi said. ""We told them we will look into the matter and that we respect their commitment to the Indian railways."""
+General Electric,2017-9,"The apparent policy shift raised fears for the future of investments in the country, especially Modi's indigenisation drive to create tens of thousands of jobs for a swelling workforce."
+General Electric,2017-9,"Goyal, who took charge of railways last month, said the government had no plans to make sudden changes in policy and there was no threat to the GE plant in the eastern Indian state of Bihar."
+General Electric,2017-9,"""Our government does not make any sudden changes in policy...we take considered decisions...The Marhaura factory is being set up and I think it's on track."""
+General Electric,2017-9,"But he said he was in talks with GE to explore ways of cutting costs including the railways' broader goal of electrification which could lead to savings of millions of dollars on fuel costs alone, besides a lower carbon footprint. GE already has investments in India's power, healthcare and transportation sectors."
+General Electric,2017-9,"""Going for electrification in a much faster manner, is in the interest of the people of India,"" he said, adding he had fruitful meetings with GE in that regard and that these were internal discussions aimed at improving the network."
+General Electric,2017-9,"""Can we look at opportunities going forward where we can meet the twin objectives of reducing pollution, saving cost in the overall interest of the country and yet making sure that the contracts or the agreements that are made by the country or by the railways continues to serve the people of India in the best interests of India?"" he said."
+General Electric,2017-9,"UPDATE 1-Abu Dhabi state fund Mubadala swings to profit, assets grow - Reuters News"
+General Electric,2017-9,"{{20170928T102743.857+0000}}UPDATE 1-Abu Dhabi state fund Mubadala swings to profit, assets grow(Adds details, quotes, background)"
+General Electric,2017-9,"ABU DHABI, Sept 28 (Reuters) - Abu Dhabi's state fund Mubadala Investment Company [MUDEV.UL] made a net profit of 4.2 billion dirhams ($1.14 billion) in the first half of the year, it reported on Thursday, its first set of results since merging with the other state wealth fund, International Petroleum Investment Company (IPIC)."
+General Electric,2017-9,"Mubadala made a net loss of 4.7 billion dirhams in the first half of 2016, it said in a statement."
+General Electric,2017-9,"Total assets rose to 465.5 billion dirhams at the end of June, from 449.7 billion dirhams a year ago."
+General Electric,2017-9,"The merged fund, whose investments include stakes in General Electric and private equity firm Carlyle Group , also reported ""total comprehensive income"" of 6.8 billion dirhams in the first half of 2017 compared with a ""total comprehensive loss"" of 5.4 billion dirhams in the same period last year."
+General Electric,2017-9,"Separating the results for the two funds, Mubadala Development Company made a first-half net attributable profit of 578.4 million dirhams versus a loss of 4.43 billion dirhams a year ago, while IPIC made a net attributable profit of 2.67 billion dirhams, having lost 946.2 million dirhams in the first half of last year."
+General Electric,2017-9,"""In the first half of 2017, we worked to integrate the two portfolios under the Mubadala Investment Company,"" said Chief Financial Officer, Carlos Obeid in a statement."
+General Electric,2017-9,"""We managed our costs prudently, while monetising mature assets and growing our profit as we reduced our overall leverage."""
+General Electric,2017-9,"Mubadala said little about the outlook or its investment plans in its statement, but its CEO Khaldoon al-Mubarak said earlier this year the firm was lining up new overseas investments in 2017 and might also sell or reduce some of its existing stakes in companies. [nL5N1H727O]"
+General Electric,2017-9,"Mubadala's revenues in the first half totalled 83.4 billion dirhams versus 72.9 billion dirhams in the year-ago period, helped by higher revenues from its oil and gas, semiconductors and aerospace interests, the statement said."
+General Electric,2017-9,"The company also made gains from financial investments and favourable currency, it added."
+General Electric,2017-9,In August Mubadala sold a 3.9 percent stake in Advanced Micro Devices in its second sale of shares in the U.S-based semiconductor company this year. The sale value was $529.6 million based on AMD's closing share price.[nL5N1KQ1CK]
+General Electric,2017-9,BRIEF-GE chooses Vera to enhance security of proprietary IP and global systems - Reuters News
+General Electric,2017-9,{{20170928T101243.493+0000}}BRIEF-GE chooses Vera to enhance security of proprietary IP and global systemsSept 28 (Reuters) - General Electric Co
+General Electric,2017-9,* GE chooses Vera to enhance security of proprietary IP and global systems
+General Electric,2017-9,France to hold Siemens to account on Alstom job pledges - Reuters News
+General Electric,2017-9,{{20170928T093201.748+0000}}France to hold Siemens to account on Alstom job pledges* France to set up committee to monitor job commitments
+General Electric,2017-9,"PARIS, Sept 28 (Reuters) - France will make sure Siemens sticks to its commitment to preserve jobs following its rail business merger with Alstom , the French finance minister said as the government seeks to reassure worried workers."
+General Electric,2017-9,The French finance ministry said it had secured a commitment from Siemens to safeguard Alstom's French manufacturing plants and jobs for a four-year period after the deal struck this week by the two companies closes. [nL8N1M84ED][nL8N1M82F3]
+General Electric,2017-9,"""I will put in place a committee to monitor the commitments taken by Siemens towards the French state,"" finance minister Bruno Le Maire told BFM TV on Thursday ahead of a visit to Alstom's Valenciennes site in northern France on Friday."
+General Electric,2017-9,"With the unemployment rate still stuck above nine percent, a recent string of cross-border corporate deals giving foreign companies control over French firms have led to criticism from opposition politicians of the centrist government of new French President Emmanuel Macron."
+General Electric,2017-9,"On Wednesday, Italian shipbuilder Fincantieri won a deal to take effective control of French shipyard STX France, ending months of resistance by the French government."
+General Electric,2017-9,"In order to lessen concerns about foreign ownership, Le Maire said France will have independent board members in the new Siemens-Alstom company, who will have the right to veto all strategic decisions for four years."
+General Electric,2017-9,"He also said that the French state, as a major customer, will have a major influence on the new Siemens-Alstom due to it having a 5 to 15 percent capital stake in the combination."
+General Electric,2017-9,"Le Maire reiterated that fierce competition from Chinese players who are twice as big as Siemens and Alstom combined, meant they had no choice but to merge their rail activities."
+General Electric,2017-9,"Asked about job promises made in previous takeovers of French companies, Le Maire said the government would make sure that General Electric respects commitments it made after its acquisition of Alstom's energy division two years ago."
+General Electric,2017-9,He also said he had spoken with the president of Nokia to remind him of a promise to create jobs in France.
+General Electric,2017-9,"When buying Alcatel-Lucent in 2016, Nokia pledged to hire 500 people in research and development in France, but the firm said earlier this month it would cut nearly 600 jobs in France by end-2019 as part of a cost-cutting plan."
+General Electric,2017-9,"""I told him he needs to accelerate jobs creation, because the target has not been met and we have the means to exert all necessary pressure,"" Le Maire said."
+General Electric,2017-9,Abu Dhabi state fund Mubadala swings to 1H profit  - Reuters News
+General Electric,2017-9,"{{20170928T080157.528+0000}}Abu Dhabi state fund Mubadala swings to 1H profit ABU DHABI, Sept 28 (Reuters) - Abu Dhabi's state-owned Mubadala Investment Company [MUDEV.UL] on Thursday reported a net profit of 4.2 billion dirhams ($1.14 billion), its first combined financials after its merger with Abu Dhabi's International Petroleum Investment Company (IPIC) earlier this year."
+General Electric,2017-9,"That compared with a net loss of 4.7 billion dirhams in the first half of 2016, Mubadala said in a statement."
+General Electric,2017-9,"Unlisted Mubadala, which has stakes in General Electric and private equity firm Carlyle Group , also reported a total comprehensive income of 6.8 billion dirhams for first half 2017 versus a loss of 5.4 billion dirhams."
+General Electric,2017-9,"""In the first half of 2017, we worked to integrate the two portfolios under the Mubadala Investment Company,"" said Chief Financial Officer, Carlos Obeid in a statement."
+General Electric,2017-9,"""We managed our costs prudently, while monetizing mature assets and growing our profit as we reduced our overall leverage."""
+General Electric,2017-9,India says work on GE's locomotive factory on track - Reuters News
+General Electric,2017-9,"{{20170928T064622.376+0000}}India says work on GE's locomotive factory on trackNEW DELHI, Sept 28 (Reuters) - U.S. firm General Electric's plan to build a diesel locomotive factory in eastern India is on track, the railways minister said on Thursday, seeking to allay concerns that the state-controlled network was making changes to the contract."
+General Electric,2017-9,Piyush Goyal's comments came after GE said this week that the Indian government's 'Make in India' initiative would be undermined if the railway ministry went ahead with changes to a joint venture with the conglomerate. [nL4N1M74VK]
+General Electric,2017-9,"GE had won a $2.6 billion contract in 2015 to supply Indian Railways with 1,000 diesel locomotives."
+General Electric,2017-9,But the railways ministry said last week it wouldn't need diesel after all - hoping to save on fuel and maintenance costs - and suggested GE might want to make electric engines instead.
+General Electric,2017-9,RPT-Policy flip-flops risk harming 'Make in India' drive - company execs - Reuters News
+General Electric,2017-9,{{20170928T041542.569+0000}}RPT-Policy flip-flops risk harming 'Make in India' drive - company execs(Repeats. No change to text.)
+General Electric,2017-9,* Change in locos deal may risk future foreign investment - GE
+General Electric,2017-9,"* SUV, luxury car levy hike to hit sales, govt tax revenue - Audi"
+General Electric,2017-9,* India's economic growth slowed to 3-year low in April-June
+General Electric,2017-9,"NEW DELHI, Sept 27 (Reuters) - Surprise policy shifts, such as an apparent U-turn over a locomotive deal with General Electric , risk undermining Prime Minister Narendra Modi's flagship 'Make in India' initiative, which aims to create millions of jobs and boost growth, industry executives say."
+General Electric,2017-9,"GE won a $2.6 billion contract in 2015 to supply 1,000 diesel locomotives - the biggest direct investment in India by a U.S. firm and the first deal awarded to a foreign firm after India allowed 100 percent foreign investment in its railways - part of efforts to overhaul its creaking, colonial-era infrastructure."
+General Electric,2017-9,But the railways ministry said last week it wouldn't need diesel after all - hoping to save on fuel and maintenance costs - and suggested GE might want to make electric engines instead.
+General Electric,2017-9,"Electric engines are usually used for passenger trains, while diesel is used for freight. Around 25-30 percent of India's locomotives are diesel-engined."
+General Electric,2017-9,The policy shift could cost New Delhi in compensation - GE is already building a factory for the diesel locos - but executives and investors say it is also an important test for a government that needs foreign investment to create jobs and reboot growth ahead of a 2019 general election.
+General Electric,2017-9,"""The GE case is very important symbolically because they have been among the earliest and most committed investors,"" said Amitabh Dubey, a political analyst at research firm Trusted Sources."
+General Electric,2017-9,"""People will be watching to see how this plays out, particularly because the railway contracts were initiatives that the government pushed consciously and worked very hard to get these people in. To then turn around two years later and change your strategy will bother a lot of people,"" he said."
+General Electric,2017-9,"GE has already shipped its first diesel locomotive to India and is completing a factory in the state of Bihar. It has created around 1,000 jobs at the plant and a maintenance shed, and 5,000 jobs in the supplier network."
+General Electric,2017-9,"In a statement, the U.S. firm said the government's change would put future foreign investment at risk."
+General Electric,2017-9,"""An alteration of this contract will have serious impact on job creation and skills development, and cause the government to incur substantial costs,"" it said. ""This will also undermine government's signature 'Make in India' initiative."""
+General Electric,2017-9,"Foreign direct investment (FDI) into India topped $60 billion in fiscal 2016-17, almost double the levels before Modi came to power in 2014."
+General Electric,2017-9,"But after increasing by more than 20 percent in the first two years of the Modi government, FDI growth was less than half that rate in the latest financial year, hit by tax changes and a shock move to withdraw most of India's banknotes overnight."
+General Electric,2017-9,"Yashwant Sinha, a veteran leader of Modi's Bharatiya Janata Party (BJP) and a former finance minister, said poorly executed policy shifts had stalled growth. ""Economies are destroyed more easily than they are built,"" he wrote in a newspaper column on Wednesday."
+General Electric,2017-9,"India's economy, Asia's third-largest, grew at a 3-year low of 5.7 percent in April-June. [nD8N1L900F] [nD8N1L900K] [nL8N1LI008] [nL4N1M13JJ]"
+General Electric,2017-9,"In another example of shifting goalposts, India this month blindsided the auto industry by almost doubling the maximum levy on luxury cars and sport-utility vehicles (SUVs) - just weeks after first setting the rate as part of a major tax change. [nL4N1LN3JI]"
+General Electric,2017-9,"Rahil Ansari, head of Audi India, said sudden shifts affect companies' ability to plan ahead, and could force changes."
+General Electric,2017-9,"""This is bound to adversely impact sales, by possibly a double-digit reduction, and will reduce revenues for the company, dealers and perhaps also tax revenue for the government,"" he said."
+General Electric,2017-9,"Rival Mercedes-Benz also said the luxury car industry has been at the receiving end of arbitrary policies, and a hike in levies would affect its future expansion plans under the 'Make in India' initiative. [nL4N1KT4B4]"
+General Electric,2017-9,"For change to happen in a country like India, it sometimes has to be done in a disruptive manner, and foreign investors should expect that and plan for it, said Sandip Beri, partner at Delhi-based law firm Shardul Amarchand Mangaldas."
+General Electric,2017-9,"However, the government should give industry fair time to comply with new rules, and analyse its own contractual obligations, before changing policy, he added. ""There is no question that industry wants stability and predictability."""
+General Electric,2017-9,"India's inability to make up its mind on its tax structure and how it responds to foreign companies pre-dates the Modi government, says Saurabh Mukherjea, CEO of Mumbai-based brokerage Ambit Capital."
+General Electric,2017-9,"""I can understand why GE is peeved, but (I'm) not sure how one should take their broader point on the impact on the economic climate in India,"" he told Reuters."
+General Electric,2017-9,FACTBOX-How Siemens and Alstom rail stack up against the competition - Reuters News
+General Electric,2017-9,"{{20170927T164721.850+0000}}FACTBOX-How Siemens and Alstom rail stack up against the competitionFRANKFURT, Sept 27 (Reuters) - Siemens and Alstom have agreed to merge their rail businesses, creating a bigger second player to China's CRRC <601766.SS>, with sales of 15.3 billion euros ($18 billion). [nL8N1M855X]"
+General Electric,2017-9,The move is the latest in a wave of rail industry consolidation in the past few years.
+General Electric,2017-9,"Below are details of previous deals, and how Siemens and Alstom stack up together and against the competition."
+General Electric,2017-9,2013- Siemens bought Britain's Invensys Rail Group for 1.7 billion pounds ($2.3 billion). Siemens becomes global number 2.
+General Electric,2017-9,2015 - Alstom bought the signalling unit of U.S. conglomerate General Electric for 700 million euros. Alstom is becomes global number 3.
+General Electric,2017-9,"2015 - China's state-owned CNR and CSR merged to create CRRC, the world's biggest manufacturer of rolling stock."
+General Electric,2017-9,2015 - Japan's Hitachi <9086.T> bought Ansaldo STS & Breda from Italy's Finnmeccanica for about 800 million euros. Hitachi Rail is now the world's sixth-biggest rail company.
+General Electric,2017-9,2016 - Switzerland's Stadler Rail bought the Valencia-based Rail Vehicles from Germany's Vossloh for about 48 million euros. Stadler is now the world number 10.
+General Electric,2017-9,2016 - U.S.-based Wabtec bought a majority in French railway systems and services provider Faiveley in a deal that will total about $1.7 billion. Wabtec is now global number nine.
+General Electric,2017-9,"{{20170925T123059.087+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Genuine Parts, GM, NewLink Genetics* Eikon search string for individual stock moves: STXBZ"
+General Electric,2017-9,"U.S. stock index futures were little changed on Monday, the wait for a speech by U.S. Federal Reserve chief Janet Yellen later in the week helping cool any lift from a handful of positive stock recommendations. [.N]"
+General Electric,2017-9,"The top three NYSE percentage losers premarket <.PRPL.NQ>: ** Azz Inc , down 12.1 pct at $44.80 ** Supervalu Inc , down 4.7 pct at $20.27 ** Quest Diagnostics , down 4.6 pct at $97.43"
+General Electric,2017-9,"The top three Nasdaq percentage gainers premarket <.PRPG.O>: ** Izea Inc , up 48.4 pct at $4.75 ** Aradigm Corp , up 34.4 pct at $3.40 ** Marathon Patent Group , up 21.2 pct at $0.48"
+General Electric,2017-9,"The top three Nasdaq percentage losers premarket <.PRPL.O>: ** Appliance Recycling Centers of America , down 18.9 pct at $0.94 ** Diana Containerships , down 17.5 pct at $1.04 ** Aethlon Medical , down 7.3 pct at $1.78 ** Genuine Parts Co : up 9.7 pct at $96.50 premarket UPDATE 1-Genuine Parts to buy European peer in $2 bln deal [nL4N1M63TY]"
+General Electric,2017-9,"** General Motors Co : up 1.7 pct at $40.08 premarket Deutsche Bank upgrades to buy, raises PT [nFWN1M60BN] ** NewLink Genetics Corp :up 4.5 pct at $11.48 premarket BUZZ-Enters clinical collaboration with AstraZeneca[nL4N1M63RS]"
+General Electric,2017-9,** Transocean Ltd :up 4.5 pct at $9.74 premarket BUZZ-Offshore drillers rise after UBS upgrade[nL4N1M63BD] ** General Electric Co : up 0.2 pct at $24.92 premarket UPDATE 2-ABB buys GE business for $2.6 bln in bet it can boost margins[nL8N1M60F5]
+General Electric,2017-9,** American International Group Inc : up 0.1 pct at $60.80 premarket UPDATE 1-AIG to restructure operations into three business units [nL4N1M63VF]
+General Electric,2017-9,"** Walt Disney Co : down 0.1 pct at $98.50 premarket UPDATE 1-Walt Disney threatens to pull ESPN, ABC from Optimum[nL2N1M6042] ** Intercept Pharmaceuticals :up 6.6 pct at $65.66 premarket BUZZ-Intercept Pharma: Replies to FDA warning letter on liver drug dosage[nL4N1M63YT]"
+General Electric,2017-9,"** Carnival Corp : down 0.8 pct at $63.82 premarket BUZZ-Fincantieri: Record high on Cunard MoA, STX France accord hopes[nL8N1M61W5]"
+General Electric,2017-9,** Under Armour Inc : up 0.5 pct at $16.50 premarket BUZZ-KeyBanc swaps Under Armour with VF Corp [nL4N1M63OD]
+General Electric,2017-9,"** Albemarle Corp :down 1.1 pct at $132.85 premarket BUZZ-Baird says Albemarle's lithium-boost priced in, suggests SQM[nL4N1M63VK]"
+General Electric,2017-9,"** Ross Stores :up 3.3 pct at $62.90 premarket BUZZ-JPM: US off-price stores to grab more market, upgrades Ross Stores[nL4N1M63WY]"
+General Electric,2017-9,"{{20170925T114447.157+0000}}BUZZ-U.S. STOCKS ON THE MOVE-GM, AIG, GE, Intercept* Eikon search string for individual stock moves: STXBZ"
+General Electric,2017-9,"U.S. stock index futures were little changed on Monday, the wait for a speech by U.S. Federal Reserve chief Janet Yellen later in the week helping cool any lift from a handful of positive stock recommendations. [.N]"
+General Electric,2017-9,"At 7:14 ET, Dow e-minis <1YMc1> were down 0.03 percent at 22,293. S&P 500 e-minis were down 0.04 percent at 2,498.5, while Nasdaq 100 e-minis were down 0.05 percent at 5,932.5. The top three NYSE percentage gainers premarket <.PRPG.NQ>: ** Marin Software , up 10.0 pct at $2.20 ** Meritor Inc , up 6.1 pct at $28.00 ** Ensco Plc , up 5.0 pct at $5.50"
+General Electric,2017-9,"The top three NYSE percentage losers premarket <.PRPL.NQ>: ** Azz Inc , down 11.6 pct at $45.05 ** Supervalu Inc , down 4.7 pct at $20.27 ** Quest Diagnostics , down 4 pct at $98.00"
+General Electric,2017-9,"The top three Nasdaq percentage gainers premarket <.PRPG.O>: ** Marathon Patent Group , up 21.2 pct at $0.48 ** DarioHealth Corp , up 11.8 pct at $1.99 ** NewLink Genetics , up 9.7 pct at $12.06 [nL4N1M63RS]"
+General Electric,2017-9,"The top three Nasdaq percentage losers premarket <.PRPL.O>: ** Diana Containerships , down 16.7 pct at $1.05 ** Appliance Recycling Centers of America , down 15.5 pct at $0.98 ** Rand Logistics , down 10.1 pct at $0.26"
+General Electric,2017-9,"** General Motors Co : up 1.6 pct at $40.05 premarket Deutsche Bank upgrades to buy, raises PT [nFWN1M60BN] ** American International Group Inc : down 0.5 pct at $60.41 premarket AIG to restructure its business [nL4N1M63TN]"
+General Electric,2017-9,** General Electric Co : up 0.1 pct at $24.89 premarket UPDATE 2-ABB buys GE business for $2.6 bln in bet it can boost margins[nL8N1M60F5]
+General Electric,2017-9,"** Walt Disney Co : down 0.1 pct at $98.50 premarket UPDATE 1-Walt Disney threatens to pull ESPN, ABC from Optimum[nL2N1M6042] ** Intercept Pharmaceuticals :up 5.5 pct at $65.00 premarket BUZZ-Short interest rises in Intercept Pharmaceuticals [nL2N1M320W]"
+General Electric,2017-9,"** Carnival Corp : down 0.8 pct at $63.81 premarket BUZZ-Fincantieri: Record high on Cunard MoA, STX France accord hopes[nL8N1M61W5]"
+General Electric,2017-9,** Under Armour Inc : up 0.5 pct at $16.50 premarket BUZZ-KeyBanc swaps Under Armour with VF Corp [nL4N1M63OD]
+General Electric,2017-9,** NewLink Genetics Corp :up 9.7 pct at $12.06 premarket BUZZ-Enters clinical collaboration with AstraZeneca [nL4N1M63RS]
+General Electric,2017-9,** Transocean Ltd :up 9.7 pct at $12.06 premarket BUZZ-Offshore drillers rise after UBS upgrade [nL4N1M63BD]
+General Electric,2017-9,BREAKINGVIEWS-ABB's short-term value push takes $2.6 bln detour - Reuters Breakingviews
+General Electric,2017-9,{{20170925T111252.404+0000}}BREAKINGVIEWS-ABB's short-term value push takes $2.6 bln detour(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+General Electric,2017-9,"LONDON, Sept 25 (Reuters Breakingviews) - ABB's short-term shareholder value push just took a $2.6 billion detour. The Swiss engineering group is buying General Electric's industrial solutions unit despite past calls to shrink. The chance to boost lowly margins, however, means investors can live with the diversion."
+General Electric,2017-9,"At first glance, an overseas acquisition seems the last thing the group led by Ulrich Spiesshofer should be doing. ABB has a worrying track record of underperforming rivals, and has faced calls from investors like activist Cevian to simplify by spinning off its power grids business."
+General Electric,2017-9,"The acquisition of GE Industrial Solutions, based in Atlanta, brings in another 13,500 employees and sets back ABB's target of boosting margins in its Electrification Products division. The GE unit turned around 6 percent of its revenue into earnings before interest, tax and acquisition-related amortization costs last year; ABB is gunning for 15 to 19 percent by 2020."
+General Electric,2017-9,"It also means Spiesshofer will shelve a $3 billion buyback programme announced last year as part of his ""next stage of unlocking value"" plan. In its place, shareholders in the Zurich-based group get an asset with an ageing portfolio and a declining share of the U.S. market."
+General Electric,2017-9,"ABB shareholders are effectively being asked to swap the certainty of short-term buybacks for the prospect of potentially juicy synergies over a longer time period. Though that's not a sure-fire bet, the change of direction is more logical than it initially appeared."
+General Electric,2017-9,- Swiss engineering group ABB said on Sept. 25 it will buy General Electric's Industrial Solutions business for $2.6 billion.
+General Electric,2017-9,"- Products made by the GE unit include circuit breakers, switchgear and power supply equipment used for facilities including data centres."
+General Electric,2017-9,"- The Zurich-based group expects annual cost synergies of around $200 million by the fifth year of the deal, which also grants ABB long-term rights to use the GE brand."
+General Electric,2017-9,"- ABB will fund the deal with existing cash, and will put on hold a previously announced share buyback programme. The group led by Ulrich Spiesshofer in Oct. 2016 said it planned share buybacks of up to $3 billion from 2017 through to 2019."
+General Electric,2017-9,- ABB shares were up 0.5 percent to 24.06 Swiss francs by 0855 BST.
+General Electric,2017-9,"- For previous columns by the author, Reuters customers can click on [PROUD/]"
+General Electric,2017-9,UPDATE 2-ABB buys GE business for $2.6 bln in bet it can boost margins - Reuters News
+General Electric,2017-9,{{20170925T081514.402+0000}}UPDATE 2-ABB buys GE business for $2.6 bln in bet it can boost margins* Swiss group to pay $2.6 bln for GE Industrial Solutions
+General Electric,2017-9,"ZURICH, Sept 25 (Reuters) - Power grids maker ABB is buying General Electric's Industrial Solutions business for $2.6 billion in a bet it can improve the division's lacklustre margins over the next five years, the Swiss engineering company said on Monday."
+General Electric,2017-9,"Zurich-based ABB sees potential for annual cost benefits of $200 million with the deal, which includes an agreement for long-term use of GE's brand and a strategic partnership. In 2016, the GE business had sales of $2.7 billion."
+General Electric,2017-9,"The GE products include circuit breakers, switchgear, components for lighting control and power supply equipment for facilities including data centres. ABB's portfolio includes similar products."
+General Electric,2017-9,ABB is seeking to better penetrate the North American market and gain access to GE's larger installed base of electrical installations worldwide.
+General Electric,2017-9,"ABB said the business had been ""an unloved child"" and pledged to upgrade aging products with its own technology to help arrest a declining U.S. market share."
+General Electric,2017-9,"ABB is suspending its $3 billion share buyback programme as part of the deal, which will bolster its position as the second-biggest supplier of electrical components behind France's Schneider Electric."
+General Electric,2017-9,ABB is also wagering on being able to cut costs and boost profitability at the Georgia-based GE unit.
+General Electric,2017-9,"""The key rationale of the integration is, first we will make this business better. And then afterwards, we will make this business bigger and better,"" said ABB Chief Executive Ulrich Spiesshofer."
+General Electric,2017-9,"The GE unit's operating earnings before interest, taxes and amortisation (EBITA) are just 6 percent of sales, less than half the 15 percent operating margin at ABB's comparable Electrification Products division."
+General Electric,2017-9,Spiesshofer said he agreed to the transaction only after striking a supply partnership where ABB and GE will increase buying and selling from each another.
+General Electric,2017-9,"""Without that, the economics wouldn't have worked,"" he told reporters on a call. ""With the supply partnership, the economics at the price of 0.9 times revenue is working."""
+General Electric,2017-9,GE has been under pressure from activist investor Nelson Peltz's Trian Fund Management to sell assets and focus on higher-margin businesses. [nL3N1J93DT]
+General Electric,2017-9,Some analysts said the price was surprisingly high given the GE business's low profitability.
+General Electric,2017-9,"""GE Industrial Solutions isn't in top shape, so ABB has its work cut out for it,"" said Zuercher Kantonalbank analyst Richard Frei."
+General Electric,2017-9,ABB said it would finance the deal -- likely its last for some time -- with cash and did not need to raise equity capital. Its shares were little changed in early trading.
+General Electric,2017-9,"GE had resumed negotiations to sell the business to ABB after moderating its price expectations, people familiar with the matter told Reuters in August. [nL8N1L95US]"
+General Electric,2017-9,"Credit Suisse and Dyal Co acted as financial advisers to ABB, and Davis Polk & Wardwell provided legal counsel."
+General Electric,2017-9,ABB CEO expects $400 mln integration costs from GE deal - Reuters Investor Briefs
+General Electric,2017-9,BRIEF-ABB CEO expects $400 mln integration costs from GE deal - Reuters News
+General Electric,2017-9,{{20170925T071956.985+0000}}BRIEF-ABB CEO expects $400 mln integration costs from GE dealSept 25 (Reuters) - ABB Ltd
+General Electric,2017-9,* CEO Ulrich Spiesshofer says expects integration costs of $400 million amid 'footprint' optimisation
+General Electric,2017-9,ABB puts share buyback on hold given GE transaction - Reuters Investor Briefs
+General Electric,2017-9,BRIEF-ABB puts share buyback on hold given GE transaction - Reuters News
+General Electric,2017-9,{{20170925T063158.333+0000}}BRIEF-ABB puts share buyback on hold given GE transactionSept 25 (Reuters) - ABB Ltd
+General Electric,2017-9,* Says has put share buyback programme on hold given GE transaction
+General Electric,2017-9,ABB buys GE unit for $2.6 bln to boost North American business - Reuters News
+General Electric,2017-9,"{{20170925T052004.022+0000}}ABB buys GE unit for $2.6 bln to boost North American businessZURICH, Sept 25 (Reuters) - ABB is buying General Electric's Industrial Solutions unit for $2.6 billion to expand its reach in North American markets, the Swiss engineering company said on Monday."
+General Electric,2017-9,"Zurich-based ABB sees a potential for cost synergies of $200 million yearly with the deal, which includes terms for long-term use of GE's brand. In 2016, Industrial Solutions had sales of about $2.7 billion, with an operating margin of some 8 percent."
+General Electric,2017-9,"GE had resumed negotiations to sell the business to ABB after the U.S. industrial conglomerate moderated its price expectations, people familiar with the matter told Reuters in August. [nL8N1L95US]"
+General Electric,2017-9,{{20170922T170729.441+0000}}U.S. oil drillers cut rigs for 3rd week in a row -Baker HughesSept 22 (Reuters) - U.S. energy firms cut the number of oil
+General Electric,2017-9,rigs operating for a third week in a row as a 14-month drilling
+General Electric,2017-9,recovery stalled as companies pared back on spending plans when
+General Electric,2017-9,"Drillers cut five oil rigs in the week to Sept. 22, bringing"
+General Electric,2017-9,"the total count down to 744, the least since June, General"
+General Electric,2017-9,That put the rig count on track for a second month of losses
+General Electric,2017-9,in a row and also its biggest monthly decline since May 2016. It
+General Electric,2017-9,was also on track for its first reduction in rigs over a
+General Electric,2017-9,"The rig count, an early indicator of future output, is still"
+General Electric,2017-9,higher than the 418 active oil rigs a year ago as energy
+General Electric,2017-9,Crude prices were up about 7 percent so far this month after
+General Electric,2017-9,"declining in five of the past six months, including a near 6"
+General Electric,2017-9,percent drop in August as rising U.S. output helped to add to a
+General Electric,2017-9,U.S. shale production is set to rise for the 10th month in a
+General Electric,2017-9,"row in October to a record high 6.1 million barrels per day,"
+General Electric,2017-9,have trimmed their investments for this year due to the drop in
+General Electric,2017-9,"crude prices, they still planned to spend much more this year"
+General Electric,2017-9,"forecast for the total oil and gas rig count growth, now"
+General Electric,2017-9,"expecting it to rise to an average of 881 in 2017, compared to"
+General Electric,2017-9,884 it forecast last week. Forecasts were unchanged to rise to
+General Electric,2017-9,"That compares with 859 oil and gas rigs so far in 2017, 509"
+General Electric,2017-9,the 64 E&Ps it tracks planned to increase spending by an average
+General Electric,2017-9,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-9,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-9,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-9,"SAP HUDSON YARDS HOSTS THE LARGEST GATHERING OF BLACK VENTURE CAPITALISTS NOVEMBER 3-4 TO INCREASE ACCESS TO CAPITAL. SPONSORS INCLUDE ROYAL BANK OF CANADA, GE VENTURES AND GOOGLE. - Reuters News"
+General Electric,2017-9,"{{20170922T140828.727+0000}}BUZZ-U.S. STOCKS ON THE MOVE- Ascendis Pharma, Versartis, Tiffany, GrubHub* Eikon search string for individual stock moves: STXBZ"
+General Electric,2017-9,U.S. stocks were little changed on Friday as fresh concerns over tensions
+General Electric,2017-9,between North Korea and the United States weighed on the mood of investors..
+General Electric,2017-9,"At 9:50 ET, the Dow Jones Industrial Average <.DJI> was down 0.06 percent at"
+General Electric,2017-9,UPDATE 1-Uber stripped of its licence to operate in London [nL5N1M325G]
+General Electric,2017-9,UPDATE 3-Oil prices narrowly higher as producers meet on output pact
+General Electric,2017-9,BUZZ-U.S. bank stocks gain for 2nd day as Fed tone seen hawkish [nL2N1M221F]
+General Electric,2017-9,BUZZ-More Apples in the Dow pie can be less delicious [nL2N1M220C]
+General Electric,2017-9,GE nears sale of its industrial unit to ABB - Bloomberg [nL4N1M33C4]
+General Electric,2017-9,UPDATE 3-Facebook to overhaul political ads after threat of U.S. regulation
+General Electric,2017-9,"Trump questions Facebook action on ads in tweet about ""Russia hoax"""
+General Electric,2017-9,JPMorgan picks Warsaw for new operations centre -Polish deputy PM [nL5N1M32B0]
+General Electric,2017-9,"BUZZ-Sprint, T-Mobile gain as carriers close to agreeing on deal [nL4N1M33SC]"
+General Electric,2017-9,Canadian GM strike spills over as layoffs hit other parts plants [nL2N1M22CR]
+General Electric,2017-9,UPDATE 1-Tiffany names Roger Farah as chairman in latest management shakeup
+General Electric,2017-9,"{{20170922T133415.961+0000}}Deals of the day-Mergers and acquisitions(Adds T-Mobile, Elenia Oy, Wolford; Updates General Electric)"
+General Electric,2017-9,"Sept 22 (Reuters) - The following bids, mergers, acquisitions and disposals were reported by 1330 GMT on Friday:"
+General Electric,2017-9,"** General Electric Co is nearing a deal to sell its industrial solutions unit to Swiss engineering company ABB Ltd in a deal valued at $2.5 billion to $3 billion, Bloomberg reported, citing people with knowledge of the matter. [nL4N1M33ER]"
+General Electric,2017-9,"** T-Mobile US Inc is close to agreeing tentative terms on a deal to merge with peer Sprint Corp , people familiar with the matter said, a major breakthrough in efforts to merge the third and fourth largest U.S. wireless carriers. [nL2N1M30GU]"
+General Electric,2017-9,** Air Berlin's creditors have picked German flagship carrier Lufthansa and Britain's easyJet as possible buyers for the insolvent carrier's aviation business and will negotiate with them for the next three weeks. [nL5N1M255R]
+General Electric,2017-9,"** UniCredit has called a shareholder meeting for Dec. 4 to put new governance proposals to the vote, including removing a 5 percent cap on voting rights and allowing the board to select its own candidates to be directors. [nL5N1M25DZ]"
+General Electric,2017-9,"** Top Australian television broadcaster Seven West Media Ltd and smaller Prime Media Group Ltd said they held takeover talks which ended without a deal, a faltering start to likely media consolidation brought on by deregulation. [nL4N1M263R]"
+General Electric,2017-9,** Kazakhstan-focused copper miner Central Asia Metals said it would buy Bermuda-based Lynx Resources Ltd in a $402.5 million reverse-takeover deal from its owners. [nL4N1M32I2]
+General Electric,2017-9,"** North Asia private equity firm MBK Partners is preparing a bid to buy language learning business Wall Street English (WSE) from Pearson Plc , the world's biggest education company, three people with direct knowledge of the matter said. [nL4N1M32GU]"
+General Electric,2017-9,"** Two state-owned Chinese power grid companies are interested in buying Finland's second-biggest electricity distributor, Elenia Oy, in a deal that could be worth 3 billion euros ($3.6 billion), sources said. [nL5N1M31YY]"
+General Electric,2017-9,"** Wolford's former supervisory board chief, Antonella Mei-Pochtler, has teamed up with an international retail consortium to bid for a majority stake in the loss-making luxury textiles maker, Austrian weekly Trend reported. [nL5N1M31XI]"
+General Electric,2017-9,"{{20170922T114305.927+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Versartis, Tiffany, General Motors, Facebook* Eikon search string for individual stock moves: STXBZ"
+General Electric,2017-9,"U.S. stock index futures were slightly lower on Friday after tensions between North Korea and the United States escalated again, pushing investors to safe-haven assets. [.N]"
+General Electric,2017-9,** Versartis Inc : down 84.3 pct at $3.40 premarket BUZZ-Plunges further as brokerages downgrade stock [nL4N1M33I2]
+General Electric,2017-9,{{20170922T110234.377+0000}}PRESS DIGEST- Canada - Sept 22Sept 22 (Reuters) - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy.
+General Electric,2017-9,UPDATE 1-GE nears sale of its industrial unit to ABB - Bbg - Reuters News
+General Electric,2017-9,"{{20170922T105038.510+0000}}UPDATE 1-GE nears sale of its industrial unit to ABB - Bbg(Adds background, shares)"
+General Electric,2017-9,"Sept 22 (Reuters) - General Electric Co is nearing a deal to sell its industrial solutions unit to Swiss engineering company ABB Ltd in a deal valued at $2.5 billion to $3 billion, Bloomberg reported, citing people with knowledge of the matter."
+General Electric,2017-9,"A company spokesman for ABB said the company does not ""comment on market rumors."" GE was not immediately available for comment."
+General Electric,2017-9,"GE resumed negotiations to sell its industrial solutions business to ABB after John Flannery, who became CEO on Aug.1, decided to continue to divest the industrial conglomerate's non-core assets, Reuters had reported. [nL8N1L95US]"
+General Electric,2017-9,"GE has been reviewing its portfolio after divesting its finance, appliances and NBCUniversal units in recent years."
+General Electric,2017-9,The company has also been under pressure from Nelson Peltz's activist hedge fund Trian Fund Management LP to cut costs and focus on its core industrial businesses.
+General Electric,2017-9,GE's shares were marginally up at $24.96 in very light premarket trading.
+General Electric,2017-9,General Electric said to near industrial-solutions unit sale to ABB- Bloomberg - Reuters Investor Briefs
+General Electric,2017-9,General Electric said to near industrial-solutions unit sale to ABB- Bloomberg - Reuters Investor Briefs
+General Electric,2017-9,GE nears sale of its industrial unit to ABB - Bloomberg  - Reuters News
+General Electric,2017-9,"{{20170922T100556.748+0000}}GE nears sale of its industrial unit to ABB - Bloomberg Sept 22 (Reuters) - General Electric Co has neared the sale of its industrial solutions unit to ABB Ltd for $2.5 billion to $3 billion, Bloomberg reported on Friday."
+General Electric,2017-9,Reuters reported in August that General Electric had resumed negotiations to sell its industrial solutions business to ABB. [nL8N1L95US]
+General Electric,2017-9,BRIEF-General Electric said to near industrial-solutions unit sale to ABB- Bloomberg - Reuters News
+General Electric,2017-9,{{20170922T100409.668+0000}}BRIEF-General Electric said to near industrial-solutions unit sale to ABB- BloombergSept 22 (Reuters) -
+General Electric,2017-9,"* GE is said to near industrial-solutions unit sale to ABB - Bloomberg, citing sources"
+General Electric,2017-9,- Note: Reuters has not verified this story and does not vouch for its accuracy
+General Electric,2017-9,Hyperloop One closes series B-1 round of $85 mln - Reuters Investor Briefs
+General Electric,2017-9,BRIEF-Hyperloop One closes series B-1 round of $85 mln - Reuters News
+General Electric,2017-9,{{20170921T125637.243+0000}}BRIEF-Hyperloop One closes series B-1 round of $85 mlnSept 21 (Reuters) - Hyperloop One
+General Electric,2017-9,"* Hyperloop says new, existing investors in funding round include Caspian Vc Partners as a part of Summa Group, GE Ventures, WTI and Khosla ventures"
+General Electric,2017-9,General Electric to shut down its corporate jet fleet - WSJ - Reuters Investor Briefs
+General Electric,2017-9,BRIEF-General Electric to shut down its corporate jet fleet - WSJ - Reuters News
+General Electric,2017-9,{{20170920T155854.365+0000}}BRIEF-General Electric to shut down its corporate jet fleet - WSJSept 20 (Reuters) -
+General Electric,2017-9,"* General Electric to shut down its corporate jet fleet - WSJ, citing source"
+General Electric,2017-9,BUZZ- DJI: Streaks may leave bulls naked on the charts - Reuters News
+General Electric,2017-9,"{{20170919T132647.430+0000}}BUZZ- DJI: Streaks may leave bulls naked on the charts** DJ Industrials <.DJI> on another run of consecutive higher daily closes, as well as record high finishes [nL2N1LW0PI]"
+General Electric,2017-9,"** DJI going for an 8th straight higher daily close. Streak coming on heels of 10-day run that just occurred, Jul 25-Aug 7"
+General Electric,2017-9,"** Additionally, DJI going for a 6th straight record high finish; last run was 9 from Jul 26-Aug 7"
+General Electric,2017-9,** These streaks concluded with a spike and reversal on Aug 8; DJI then sold off 2.6 pct from high to low over next 9 days [nL1N1KU0CL]
+General Electric,2017-9,"** Boeing top percentage gainer in index YTD, up 63 pct, while General Electric is worst performer, 23 pct loss"
+General Electric,2017-9,"** That said, just 3 stocks, BA, Apple , and UnitedHealth account for nearly half of index YTD gain; Goldman Sachs and IBM biggest drags"
+General Electric,2017-9,** And this as overheated S&P 500 <.SPX> is at risk for a cool down [nL2N1LZ0IV] [nL2N1LZ1J8] [nL2N1LW11P]
+General Electric,2017-9,"** DJI daily MACD rising, but faces hurdle at study resistance line from Dec 2016 high"
+General Electric,2017-9,** Close below rising 50-DMA (now 21844.51) can see downside pressure mount; rising 200-DMA (now 20898.20) [nL2N1LS0J9]
+General Electric,2017-9,"** Close above 22395.69, with MACD resistance line breakout, however, can suggest potential for further gains to additional Fibo projs (22718.94/ 23044.17)"
+General Electric,2017-9,{{20170915T171029.923+0000}}U.S. drillers cut most oil rigs since January -Baker HughesSept 15 (Reuters) - U.S. energy firms cut the most oil rigs
+General Electric,2017-9,"Drillers cut seven oil rigs in the week to Sept. 15,"
+General Electric,2017-9,"bringing the total count down to 749, the least since June,"
+General Electric,2017-9,Drillers have not added any rigs since the week of Aug. 11.
+General Electric,2017-9,"The rig count, an early indicator of future output, is still"
+General Electric,2017-9,higher than the 416 active oil rigs a year ago as energy
+General Electric,2017-9,Crude prices were up about 5 percent so far this month after
+General Electric,2017-9,"declining in five of the past six months, including a near 6"
+General Electric,2017-9,percent drop in August as rising U.S. output helped to add to a
+General Electric,2017-9,per day (bpd) in 2017 and a record 9.8 million bpd in 2018 from
+General Electric,2017-9,have trimmed their investments for this year due to the drop in
+General Electric,2017-9,"crude prices, they still planned to spend much more this year"
+General Electric,2017-9,"forecast for the total oil and gas rig count, now expecting it"
+General Electric,2017-9,"to rise to an average of 884 in 2017, 959 in 2018 and 1,114 in"
+General Electric,2017-9,"That compares with 857 oil and gas rigs so far in 2017, 509"
+General Electric,2017-9,the 64 E&Ps it tracks planned to increase spending by an average
+General Electric,2017-9,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-9,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-9,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-9,GE secures financial closure for contract signed with EETC - Reuters Investor Briefs
+General Electric,2017-9,BRIEF-GE secures financial closure for contract signed with EETC - Reuters News
+General Electric,2017-9,{{20170914T153023.868+0000}}BRIEF-GE secures financial closure for contract signed with EETCSept 14 (Reuters) - General Electric Co :
+General Electric,2017-9,ATR challenges Pratt's hold on turboprop engine market - Reuters News
+General Electric,2017-9,"{{20170913T180325.588+0000}}ATR challenges Pratt's hold on turboprop engine marketPARIS, Sept 13 (Reuters) - Pratt & Whitney's grip on the regional turboprop market could come under threat after Europe's ATR said it would look closely at alternative engines for its planes in future."
+General Electric,2017-9,"Christian Scherer, who took over as chief executive of the world's largest maker of civil turboprops last year, told Reuters on Wednesday he would open the door to other potential suppliers as soon as he could."
+General Electric,2017-9,"Pratt, which is struggling to reassert itself in the passenger jet market, enjoys an effective monopoly in the market for smaller regional turboprops via its Canadian subsidiary."
+General Electric,2017-9,ATR and Canada's Bombardier dominate the market of about 100 aircraft a year and both exclusively use PW&C engines.
+General Electric,2017-9,"The most obvious beneficiary from any decision by ATR to switch engine suppliers would be General Electric which is developing an ""Advanced Turboprop"", so far aimed at the business and general aviation markets."
+General Electric,2017-9,Planemakers and airlines typically prefer competition in the engine market in order to drive down the prices for engines and the all-important aftermarket services.
+General Electric,2017-9,"Although China is vying to enter the turboprop market with its Xian MA700 aircraft, even this is being developed with engines from PW&C, underlining the U.S. firm's strong position."
+General Electric,2017-9,"Scherer praised Pratt & Whitney Canada professionalism, but said he was concerned about its ""monopolistic"" position, adding he would seek to stimulate competition ""at the next available opportunity""."
+General Electric,2017-9,"""I don't say we won't continue with Pratt, but I will use the next opening I can to weaken the over-powerful position of a number of our suppliers,"" Scherer said."
+General Electric,2017-9,Industry sources said Scherer has reviewed suppliers and recently replaced Honeywell as supplier of an air conditioning system in favour of Toulouse-based Liebherr Aerospace.
+General Electric,2017-9,Any change in engine supplier would not take place immediately.
+General Electric,2017-9,Franco-Italian ATR is pondering whether to update its family of two aircraft types with new engines and other improvements or go further and invest in an entirely new design. [nL5N1LU2RQ]
+General Electric,2017-9,But no decision is imminent as its shareholders - Airbus and Leonardo - can't agree on whether to put up the roughly $3 billion needed to develop a new turboprop.
+General Electric,2017-9,* 3-year agreement with HPE will focus primarily on cyber security solutions in operational technology
+General Electric,2017-9,GE Power selected for another gas power plant contract in South Asia - Reuters Investor Briefs
+General Electric,2017-9,BRIEF-GE Power selected for another gas power plant contract in South Asia - Reuters News
+General Electric,2017-9,{{20170913T102607.047+0000}}BRIEF-GE Power selected for another gas power plant contract in South AsiaSept 13 (Reuters) - General Electric Co :
+General Electric,2017-9,* GE says has been selected by Shapoorji Pallonji Group to supply power generation equipment for upcoming power plant in Bhola district of Bangladesh
+General Electric,2017-9,{{20170913T043028.919+0000}}PRESS DIGEST - Wall Street Journal - Sept 13Sept 13 (Reuters) - The following are the top stories in the Wall Street Journal. Reuters has not verified these stories and does not vouch for their accuracy.
+General Electric,2017-9,U.S. State Dept OKs possible sale to Canada of $5.23 bln in military equipment - Reuters News
+General Electric,2017-9,"{{20170912T192429.132+0000}}U.S. State Dept OKs possible sale to Canada of $5.23 bln in military equipmentWASHINGTON, Sept 12 (Reuters) - The U.S. State Department has approved the possible sale to Canada of 18 fighter jets and other weapons worth an estimated $5.23 billion, a Pentagon agency said in a statement on Tuesday."
+General Electric,2017-9,"The Defense Security Cooperation Agency said it notified the U.S. Congress on Monday of the possible sale to Canada of 18 Super Hornet fighter aircraft and other equipment, including sidewinder missiles. It said the principal contractors will be Boeing Co , Northrop Grumman Corp , Raytheon Co and General Electric Co ."
+General Electric,2017-9,"{{20170911T112013.451+0000}}RPT-BUZZ-U.S. stocks weekly: Round two(Repeats from Friday, no changes to text)"
+General Electric,2017-9,"** S&P 500 <.SPX> falls for first time in three weeks, finishes down 0.6 pct as the threat of hurricanes dominate the headlines [nL2N1LP0FB] [nL2N1LP1J8]"
+General Electric,2017-9,"** Indeed, choppy S&P 500 Futures action keeps more immediate correction risks in play [nL2N1LM1GA]"
+General Electric,2017-9,"** That said, an NYSE breadth measure <.AD.N> is offering a ray of sunshine [nL2N1LP0O1]"
+General Electric,2017-9,"** And despite its underperformance, DJ Transport Avg <.DJT> seeks detour from its downtrend [nL2N1LM0J4]"
+General Electric,2017-9,"** Majority of sectors decline: Telecom and financials thumped, while healthcare and energy most resilient"
+General Electric,2017-9,"** Financials <.SPSY> slide 2.8 pct. Banks weaken, insurers gyrate, as flight to safety drives U.S. Treasury yields lower [nL4N1LO4OT] [nL2N1LP1LH]. Financials ETF growing heavy on the charts [nL2N1LM1Z0]"
+General Electric,2017-9,"** Cons disc <.SPLRCD> off 1.1 pct as Disney , Comcast warnings slam media and entertainment stocks [nL4N1LO4WO]. Their poor forecasts spill over to communications group as Telecom <.SPLRCL> plunges 4.5 pct"
+General Electric,2017-9,** Tech <.SPLRCT> dips 1.1 pct. Apple slips on report of iPhone production glitch [nL2N1LO1F6] [nL4N1LO5A8]. Hewlett Packard Enterprise's results beat fails to enthuse [nL2N1LN0WT]
+General Electric,2017-9,"** Industrials <.SPLRCI> down 0.6 pct. Biggest SPX loser Equifax stumbles (off 13 pct) on massive data breach [nL4N1LP46Q] [nL2N1LP0YV]. General Electric swoons as stock bear gets more bearish [nL2N1LO0PJ], though attempts a stand on the charts [nL2N1LP1GR]"
+General Electric,2017-9,** Healthcare <.SPXHC> gains 1.5 pct. Best SPX performer AbbVie (up 13 pct) soars to new record following eczema drug trial success [nL4N1LO4HZ] [nL4N1LP4OP]
+General Electric,2017-9,"BRIEF-GE CEO Flannery's Form 4 discloses grant of 600,000 employee stock options - SEC filing - Reuters News"
+General Electric,2017-9,"{{20170908T202633.809+0000}}BRIEF-GE CEO Flannery's Form 4 discloses grant of 600,000 employee stock options - SEC filingSept 8 (Reuters) - General Electric Co"
+General Electric,2017-9,"* General Electric Co CEO John Flannery's Form 4 with U.S. SEC discloses grant of 600,000 employee stock options - SEC filing"
+General Electric,2017-9,* General Electric CEO Flannery's Form 4 - The stock options become exercisable in five equal annual installments of 20 percent each beginning on first anniversary of grant date
+General Electric,2017-9,"{{20170908T201537.196+0000}}BUZZ-U.S. stocks weekly: Round two** S&P 500 <.SPX> falls for first time in three weeks, finishes down 0.6 pct as the threat of hurricanes dominate the headlines [nL2N1LP0FB] [nL2N1LP1J8]"
+General Electric,2017-9,"** Indeed, choppy S&P 500 Futures action keeps more immediate correction risks in play [nL2N1LM1GA]"
+General Electric,2017-9,"** That said, an NYSE breadth measure <.AD.N> is offering a ray of sunshine [nL2N1LP0O1]"
+General Electric,2017-9,"** And despite its underperformance, DJ Transport Avg <.DJT> seeks detour from its downtrend [nL2N1LM0J4]"
+General Electric,2017-9,"** Majority of sectors decline: Telecom and financials thumped, while healthcare and energy most resilient"
+General Electric,2017-9,"** Financials <.SPSY> slide 2.8 pct. Banks weaken, insurers gyrate, as flight to safety drives U.S. Treasury yields lower [nL4N1LO4OT] [nL2N1LP1LH]. Financials ETF growing heavy on the charts [nL2N1LM1Z0]"
+General Electric,2017-9,"** Cons disc <.SPLRCD> off 1.1 pct as Disney , Comcast warnings slam media and entertainment stocks [nL4N1LO4WO]. Their poor forecasts spill over to communications group as Telecom <.SPLRCL> plunges 4.5 pct"
+General Electric,2017-9,** Tech <.SPLRCT> dips 1.1 pct. Apple slips on report of iPhone production glitch [nL2N1LO1F6] [nL4N1LO5A8]. Hewlett Packard Enterprise's results beat fails to enthuse [nL2N1LN0WT]
+General Electric,2017-9,"** Industrials <.SPLRCI> down 0.6 pct. Biggest SPX loser Equifax stumbles (off 13 pct) on massive data breach [nL4N1LP46Q] [nL2N1LP0YV]. General Electric swoons as stock bear gets more bearish [nL2N1LO0PJ], though attempts a stand on the charts [nL2N1LP1GR]"
+General Electric,2017-9,** Healthcare <.SPXHC> gains 1.5 pct. Best SPX performer AbbVie (up 13 pct) soars to new record following eczema drug trial success [nL4N1LO4HZ] [nL4N1LP4OP]
+General Electric,2017-9,BUZZ-General Electric: Attempts a stand on the charts - Reuters News
+General Electric,2017-9,"{{20170908T190436.832+0000}}BUZZ-General Electric: Attempts a stand on the charts** General Electric shares continue to be demoted on the charts, but now testing key support [nL1N1KC0TQ]"
+General Electric,2017-9,"** Indeed, this support may be last level to protect against slide to the Aug 2015 swoon low and below"
+General Electric,2017-9,"** GE now down 24.4 pct YTD, and losses exacerbated this week amid negative JP Morgan analyst note suggesting risk to their $22 PT [nL2N1LO0PJ]"
+General Electric,2017-9,"** Along with support line, weekly RSI offering a modest positive convergence; similar positive setup into 2009 low"
+General Electric,2017-9,"** That said, even with an oversold reaction, the stock has much work to do to turn its trend back to upside"
+General Electric,2017-9,** GE would need to thrust over its Sept 1 high ($25.30) to break pattern of lower peaks & troughs on a shorter-term basis
+General Electric,2017-9,"** Even then, 200-WMA, now resistance ($27.82), likely tough to reclaim, ahead of resistance line from late 2016 (now $28.50 area)"
+General Electric,2017-9,** Weekly close below support line can suggest much greater risk with Aug 2015 swoon low at $19.37
+General Electric,2017-9,"** Deeper decline to broken resistance line, now support from 2000 all-time high, could suggest $17.00/$16.00 area depending on speed of drop"
+General Electric,2017-9,{{20170908T170911.881+0000}}U.S. oil drillers cut rigs for 3rd week in four as recovery stalls -Baker HughesSept 8 (Reuters) - U.S. energy firms cut oil rigs for a
+General Electric,2017-9,third time in the past four weeks as a 14-month drilling
+General Electric,2017-9,"Drillers cut three oil rigs in the week to Sept. 8, bringing"
+General Electric,2017-9,"the total count down to 756, the least since June, General"
+General Electric,2017-9,That compares with 414 active oil rigs during the same week
+General Electric,2017-9,The rig count is an early indicator of future output.
+General Electric,2017-9,curtailing oil drilling activity in the U.S. Gulf and in Texas'
+General Electric,2017-9,were trading up 1.7 percent on the week at just above $48 per
+General Electric,2017-9,Crude prices were up about 2 percent so far this month after
+General Electric,2017-9,"declining in five of the past six months, including a near 6"
+General Electric,2017-9,per day (bpd) in 2017 and a record 9.9 million bpd in 2018 from
+General Electric,2017-9,higher than the $48 per barrel range where they are currently
+General Electric,2017-9,still plan to spend much more this year than last year.
+General Electric,2017-9,the 64 E&Ps it tracks planned to increase spending by an average
+General Electric,2017-9,"investment bank Piper Jaffray, forecast the total oil and gas"
+General Electric,2017-9,"rig count would rise to an average of 863 in 2017, 932 in 2018"
+General Electric,2017-9,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-9,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-9,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-9,RPT-INSIGHT-The next oil major? Service firm Schlumberger's big bet on production - Reuters News
+General Electric,2017-9,{{20170908T110002.392+0000}}RPT-INSIGHT-The next oil major? Service firm Schlumberger's big bet on production(Repeats for additional clients with no changes to text)
+General Electric,2017-9,"HOUSTON, Sept 8 (Reuters) - The world's largest oilfield services company, Schlumberger NV , is spending billions of dollars buying stakes in its customers' oil and gas projects - investing in the same ventures it supplies with equipment and expertise."
+General Electric,2017-9,"The new business model gives Schlumberger a say in drilling decisions, oilfield management and even on hiring other Schlumberger units for service contracts, the company has told investors."
+General Electric,2017-9,The expanded operational authority saves Schlumberger from bidding for each of the many jobs that typically require separate contracts on a large drilling project - effectively locking out the firm's competitors.
+General Electric,2017-9,"Schlumberger's gamble could upend the service business model throughout the industry, as rivals including General Electric Co's unit Baker Hughes say they are considering whether to adopt similar strategies."
+General Electric,2017-9,"The model can supercharge profits on a given job but also ramps up risk, giving the firm more exposure to global oil price swings and potentially big losses if individual projects fail. The downsides have some analysts questioning whether the traditionally conservative firm is taking on too many speculative projects too quickly."
+General Electric,2017-9,"Schlumberger already has taken hundreds of millions in write-downs or impairments on some of these joint ventures, according to its financial filings."
+General Electric,2017-9,"Traditionally, oil producers manage the risk and make the financial and operational decisions on projects; they pay service providers a fee to carry out individual jobs. Firms such as Schlumberger typically supply a wide variety of services, such as well design, along with technology and staff to run rigs."
+General Electric,2017-9,Schlumberger declined to make executives available for interviews and did not respond to written questions about its production business.
+General Electric,2017-9,"Despite early setbacks, Schlumberger has committed cash to growing the division, called Schlumberger Production Management, since its launch in 2011. Last year, it generated $1.4 billion in revenue. It had investment of $2.6 billion as of June 30, Schlumberger Executive Vice President Patrick Schorn told investors earlier this summer."
+General Electric,2017-9,"The company's investments have the firm co-managing about 230,000 barrels a day of oil and gas output at the end of 2016 - about as much as one of the largest U.S. independent producers, Pioneer Natural Resources ."
+General Electric,2017-9,"This year, the company stepped up the financing role, opening a standalone investment fund to provide financing for the ventures. The company has not disclosed the size of the fund."
+General Electric,2017-9,Such ventures require a breadth of skills and a tolerance for risk generally found at large integrated oil companies such as Chevron Corp and Exxon Mobil Corp .
+General Electric,2017-9,Two of Schlumberger's newest partnerships - a deepwater liquefied natural gas project off the coast of Equatorial Guinea and an Argentina shale development with YPF SA - involve decision-making and operational authority similar to that typically held by multinational oil producers.
+General Electric,2017-9,"In June, Schlumberger agreed to invest $700 million in an oil exploration project with Nigerian National Petroleum Corp and First Exploration & Production that would require global oil prices of between $50 to $60 a barrel to achieve a 20 percent profit, research house Bernstein estimated in a report published in July. Current prices are struggling to break out of the bottom of that range."
+General Electric,2017-9,"As Schlumberger's production business has grown, it has negotiated deals that include equity in oil and gas fields and as well as deals that give the firm payment based on oil and gas output, according to interviews with customers, partners, investors and former Schlumberger executives."
+General Electric,2017-9,"Schlumberger this year agreed to contribute $390 million for a 49 percent stake in a venture with YPF in Argentina's Vaca Muerta shale field, which has attracted international oil firms including Chevron and Royal Dutch Shell ."
+General Electric,2017-9,Schlumberger Chief Executive Paal Kibsgaard has downplayed the potential for its production business to compete with its own oil company customers.
+General Electric,2017-9,"He described the enterprise as ""a new avenue for project investments alongside our customers"" in remarks to investors in April."
+General Electric,2017-9,"Schorn also insisted this spring that the business is ""not significantly changing the risk profile ... the biggest risk remains the cyclical nature"" of the oil and gas industry."
+General Electric,2017-9,"Investors say Schlumberger, which held $6.22 billion in cash and short-term investments at June 30, is strong enough to handle any increased risks and the price volatility of its investments in long-term projects."
+General Electric,2017-9,"As both project manager and service provider, Schlumberger also has an enviable level of control over operations, said Mike Breard of Dallas-based wealth management firm Hodges Capital, which invests in oilfield service companies."
+General Electric,2017-9,"British-based natural gas explorer Sound Energy PLC was happy to give Schlumberger full rights to the service contracts on drilling projects in Morocco in exchange for a Schlumberger investment amounting to 27 percent of total costs, said the chief of British-based natural gas explorer."
+General Electric,2017-9,Schlumberger will get 27.5 percent of revenue from the oil produced.
+General Electric,2017-9,"""We're smaller and entrepreneurial. Schlumberger has the technical capability and cash. That's the nature of the partnership,"" Sound CEO James Parsons said in an interview."
+General Electric,2017-9,The duo has completed three wells in Morocco and plans to drill three more by year end.
+General Electric,2017-9,"""It's a $50 [million] or $60 million bet for them so far,"" Parsons said."
+General Electric,2017-9,"Schlumberger's appetite for these ventures is spurring rivals to consider similar financing and services deals. Baker Hughes recently agreed to provide about $10 million in financing to Twinza Oil's first offshore gas field in Papua New Guinea, supplying the cash to prove the merits of the field."
+General Electric,2017-9,"""It allows Twinza to have success in going out to raise financing,"" Baker Hughes CEO Lorenzo Simonelli said."
+General Electric,2017-9,"Baker Hughes will not take a stake in the oilfield, unlike some of Schlumberger's joint investments with producers."
+General Electric,2017-9,"In 2014 and 2015, Schlumberger took nearly $400 million in combined write-offs on oil production investments, including an Eagle Ford shale field in south Texas that struggled after oil prices crashed."
+General Electric,2017-9,"It also is owed about $900 million by Ecuador. In July, the South American country said it had negotiated a payment plan that includes an expanded contract that has Schlumberger agreeing to invest another $1 billion in the venture."
+General Electric,2017-9,Schlumberger hasn't commented on the South American nation's disclosure. It previously acknowledged taking Ecuadorian bonds in lieu of cash for $150 million in bills. It also previously estimated its investment in the projects at up to $4.9 billion over 20 years.
+General Electric,2017-9,The write downs have stirred some on Wall Street to question whether Schlumberger should take more conservative path with its oil production partnerships.
+General Electric,2017-9,"The firm's production division ""used to focus on production management of well understood low-risk oil fields,"" said Colin Davies, a Bernstein oilfield services analyst. ""Now it has expanded into frankly somewhat more speculative ventures."""
+General Electric,2017-9,"{{20170908T110000.000+0000}}RPT-INSIGHT-The next oil major? Service firm Schlumberger's big bet on productionHOUSTON, Sept 8 (Reuters)"
+General Electric,2017-9,"HOUSTON, Sept 8 (Reuters) - The world's largest oilfield services company, Schlumberger NV , is spending billions of dollars buying stakes in its customers' oil and gas projects - investing in the same ventures it supplies with equipment and expertise."
+General Electric,2017-9,"The new business model gives Schlumberger a say in drilling decisions, oilfield management and even on hiring other Schlumberger units for service contracts, the company has told investors."
+General Electric,2017-9,The expanded operational authority saves Schlumberger from bidding for each of the many jobs that typically require separate contracts on a large drilling project - effectively locking out the firm's competitors.
+General Electric,2017-9,"Schlumberger's gamble could upend the service business model throughout the industry, as rivals including General Electric Co's unit Baker Hughes say they are considering whether to adopt similar strategies."
+General Electric,2017-9,"The model can supercharge profits on a given job but also ramps up risk, giving the firm more exposure to global oil price swings and potentially big losses if individual projects fail. The downsides have some analysts questioning whether the traditionally conservative firm is taking on too many speculative projects too quickly."
+General Electric,2017-9,"Schlumberger already has taken hundreds of millions in write-downs or impairments on some of these joint ventures, according to its financial filings."
+General Electric,2017-9,"Traditionally, oil producers manage the risk and make the financial and operational decisions on projects; they pay service providers a fee to carry out individual jobs. Firms such as Schlumberger typically supply a wide variety of services, such as well design, along with technology and staff to run rigs."
+General Electric,2017-9,Schlumberger declined to make executives available for interviews and did not respond to written questions about its production business.
+General Electric,2017-9,"Despite early setbacks, Schlumberger has committed cash to growing the division, called Schlumberger Production Management, since its launch in 2011. Last year, it generated $1.4 billion in revenue. It had investment of $2.6 billion as of June 30, Schlumberger Executive Vice President Patrick Schorn told investors earlier this summer."
+General Electric,2017-9,"The company's investments have the firm co-managing about 230,000 barrels a day of oil and gas output at the end of 2016 - about as much as one of the largest U.S. independent producers, Pioneer Natural Resources ."
+General Electric,2017-9,"This year, the company stepped up the financing role, opening a standalone investment fund to provide financing for the ventures. The company has not disclosed the size of the fund."
+General Electric,2017-9,Such ventures require a breadth of skills and a tolerance for risk generally found at large integrated oil companies such as Chevron Corp and Exxon Mobil Corp .
+General Electric,2017-9,Two of Schlumberger's newest partnerships - a deepwater liquefied natural gas project off the coast of Equatorial Guinea and an Argentina shale development with YPF SA - involve decision-making and operational authority similar to that typically held by multinational oil producers.
+General Electric,2017-9,"In June, Schlumberger agreed to invest $700 million in an oil exploration project with Nigerian National Petroleum Corp and First Exploration & Production that would require global oil prices of between $50 to $60 a barrel to achieve a 20 percent profit, research house Bernstein estimated in a report published in July. Current prices are struggling to break out of the bottom of that range."
+General Electric,2017-9,"As Schlumberger's production business has grown, it has negotiated deals that include equity in oil and gas fields and as well as deals that give the firm payment based on oil and gas output, according to interviews with customers, partners, investors and former Schlumberger executives."
+General Electric,2017-9,"Schlumberger this year agreed to contribute $390 million for a 49 percent stake in a venture with YPF in Argentina's Vaca Muerta shale field, which has attracted international oil firms including Chevron and Royal Dutch Shell ."
+General Electric,2017-9,Schlumberger Chief Executive Paal Kibsgaard has downplayed the potential for its production business to compete with its own oil company customers.
+General Electric,2017-9,"He described the enterprise as ""a new avenue for project investments alongside our customers"" in remarks to investors in April."
+General Electric,2017-9,"Schorn also insisted this spring that the business is ""not significantly changing the risk profile ... the biggest risk remains the cyclical nature"" of the oil and gas industry."
+General Electric,2017-9,"Investors say Schlumberger, which held $6.22 billion in cash and short-term investments at June 30, is strong enough to handle any increased risks and the price volatility of its investments in long-term projects."
+General Electric,2017-9,"As both project manager and service provider, Schlumberger also has an enviable level of control over operations, said Mike Breard of Dallas-based wealth management firm Hodges Capital, which invests in oilfield service companies."
+General Electric,2017-9,"British-based natural gas explorer Sound Energy PLC was happy to give Schlumberger full rights to the service contracts on drilling projects in Morocco in exchange for a Schlumberger investment amounting to 27 percent of total costs, said the chief of British-based natural gas explorer."
+General Electric,2017-9,Schlumberger will get 27.5 percent of revenue from the oil produced.
+General Electric,2017-9,"""We're smaller and entrepreneurial. Schlumberger has the technical capability and cash. That's the nature of the partnership,"" Sound CEO James Parsons said in an interview."
+General Electric,2017-9,The duo has completed three wells in Morocco and plans to drill three more by year end.
+General Electric,2017-9,"""It's a $50 [million] or $60 million bet for them so far,"" Parsons said."
+General Electric,2017-9,"Schlumberger's appetite for these ventures is spurring rivals to consider similar financing and services deals. Baker Hughes recently agreed to provide about $10 million in financing to Twinza Oil's first offshore gas field in Papua New Guinea, supplying the cash to prove the merits of the field."
+General Electric,2017-9,"""It allows Twinza to have success in going out to raise financing,"" Baker Hughes CEO Lorenzo Simonelli said."
+General Electric,2017-9,"Baker Hughes will not take a stake in the oilfield, unlike some of Schlumberger's joint investments with producers."
+General Electric,2017-9,"In 2014 and 2015, Schlumberger took nearly $400 million in combined write-offs on oil production investments, including an Eagle Ford shale field in south Texas that struggled after oil prices crashed."
+General Electric,2017-9,"It also is owed about $900 million by Ecuador. In July, the South American country said it had negotiated a payment plan that includes an expanded contract that has Schlumberger agreeing to invest another $1 billion in the venture."
+General Electric,2017-9,Schlumberger hasn't commented on the South American nation's disclosure. It previously acknowledged taking Ecuadorian bonds in lieu of cash for $150 million in bills. It also previously estimated its investment in the projects at up to $4.9 billion over 20 years.
+General Electric,2017-9,The write downs have stirred some on Wall Street to question whether Schlumberger should take more conservative path with its oil production partnerships.
+General Electric,2017-9,"The firm's production division ""used to focus on production management of well understood low-risk oil fields,"" said Colin Davies, a Bernstein oilfield services analyst. ""Now it has expanded into frankly somewhat more speculative ventures."""
+General Electric,2017-9,"BRIEF-Baker Hughes, A GE Company announces August 2017 rig counts - Reuters News"
+General Electric,2017-9,"{{20170908T102102.511+0000}}BRIEF-Baker Hughes, A GE Company announces August 2017 rig countsSept 8 (Reuters) - Baker Hughes A GE Co :"
+General Electric,2017-9,INSIGHT-The next oil major? Service firm Schlumberger's big bet on production - Reuters News
+General Electric,2017-9,{{20170908T050004.131+0000}}INSIGHT-The next oil major? Service firm Schlumberger's big bet on productionBy Liz Hampton
+General Electric,2017-9,"HOUSTON, Sept 8 (Reuters) - The world's largest oilfield services company, Schlumberger NV , is spending billions of dollars buying stakes in its customers' oil and gas projects - investing in the same ventures it supplies with equipment and expertise."
+General Electric,2017-9,"The new business model gives Schlumberger a say in drilling decisions, oilfield management and even on hiring other Schlumberger units for service contracts, the company has told investors."
+General Electric,2017-9,The expanded operational authority saves Schlumberger from bidding for each of the many jobs that typically require separate contracts on a large drilling project - effectively locking out the firm's competitors.
+General Electric,2017-9,"Schlumberger's gamble could upend the service business model throughout the industry, as rivals including General Electric Co's unit Baker Hughes say they are considering whether to adopt similar strategies."
+General Electric,2017-9,"The model can supercharge profits on a given job but also ramps up risk, giving the firm more exposure to global oil price swings and potentially big losses if individual projects fail. The downsides have some analysts questioning whether the traditionally conservative firm is taking on too many speculative projects too quickly."
+General Electric,2017-9,"Schlumberger already has taken hundreds of millions in write-downs or impairments on some of these joint ventures, according to its financial filings."
+General Electric,2017-9,"Traditionally, oil producers manage the risk and make the financial and operational decisions on projects; they pay service providers a fee to carry out individual jobs. Firms such as Schlumberger typically supply a wide variety of services, such as well design, along with technology and staff to run rigs."
+General Electric,2017-9,Schlumberger declined to make executives available for interviews and did not respond to written questions about its production business.
+General Electric,2017-9,"Despite early setbacks, Schlumberger has committed cash to growing the division, called Schlumberger Production Management, since its launch in 2011. Last year, it generated $1.4 billion in revenue. It had investment of $2.6 billion as of June 30, Schlumberger Executive Vice President Patrick Schorn told investors earlier this summer."
+General Electric,2017-9,"The company's investments have the firm co-managing about 230,000 barrels a day of oil and gas output at the end of 2016 - about as much as one of the largest U.S. independent producers, Pioneer Natural Resources ."
+General Electric,2017-9,"This year, the company stepped up the financing role, opening a standalone investment fund to provide financing for the ventures. The company has not disclosed the size of the fund."
+General Electric,2017-9,Such ventures require a breadth of skills and a tolerance for risk generally found at large integrated oil companies such as Chevron Corp and Exxon Mobil Corp .
+General Electric,2017-9,Two of Schlumberger's newest partnerships - a deepwater liquefied natural gas project off the coast of Equatorial Guinea and an Argentina shale development with YPF SA - involve decision-making and operational authority similar to that typically held by multinational oil producers.
+General Electric,2017-9,"In June, Schlumberger agreed to invest $700 million in an oil exploration project with Nigerian National Petroleum Corp and First Exploration & Production that would require global oil prices of between $50 to $60 a barrel to achieve a 20 percent profit, research house Bernstein estimated in a report published in July. Current prices are struggling to break out of the bottom of that range."
+General Electric,2017-9,"As Schlumberger's production business has grown, it has negotiated deals that include equity in oil and gas fields and as well as deals that give the firm payment based on oil and gas output, according to interviews with customers, partners, investors and former Schlumberger executives."
+General Electric,2017-9,"Schlumberger this year agreed to contribute $390 million for a 49 percent stake in a venture with YPF in Argentina's Vaca Muerta shale field, which has attracted international oil firms including Chevron and Royal Dutch Shell ."
+General Electric,2017-9,Schlumberger Chief Executive Paal Kibsgaard has downplayed the potential for its production business to compete with its own oil company customers.
+General Electric,2017-9,"He described the enterprise as ""a new avenue for project investments alongside our customers"" in remarks to investors in April."
+General Electric,2017-9,"Schorn also insisted this spring that the business is ""not significantly changing the risk profile ... the biggest risk remains the cyclical nature"" of the oil and gas industry."
+General Electric,2017-9,"Investors say Schlumberger, which held $6.22 billion in cash and short-term investments at June 30, is strong enough to handle any increased risks and the price volatility of its investments in long-term projects."
+General Electric,2017-9,"As both project manager and service provider, Schlumberger also has an enviable level of control over operations, said Mike Breard of Dallas-based wealth management firm Hodges Capital, which invests in oilfield service companies."
+General Electric,2017-9,"British-based natural gas explorer Sound Energy PLC was happy to give Schlumberger full rights to the service contracts on drilling projects in Morocco in exchange for a Schlumberger investment amounting to 27 percent of total costs, said the chief of British-based natural gas explorer."
+General Electric,2017-9,Schlumberger will get 27.5 percent of revenue from the oil produced.
+General Electric,2017-9,"""We're smaller and entrepreneurial. Schlumberger has the technical capability and cash. That's the nature of the partnership,"" Sound CEO James Parsons said in an interview."
+General Electric,2017-9,The duo has completed three wells in Morocco and plans to drill three more by year end.
+General Electric,2017-9,"""It's a $50 [million] or $60 million bet for them so far,"" Parsons said."
+General Electric,2017-9,"Schlumberger's appetite for these ventures is spurring rivals to consider similar financing and services deals. Baker Hughes recently agreed to provide about $10 million in financing to Twinza Oil's first offshore gas field in Papua New Guinea, supplying the cash to prove the merits of the field."
+General Electric,2017-9,"""It allows Twinza to have success in going out to raise financing,"" Baker Hughes CEO Lorenzo Simonelli said."
+General Electric,2017-9,"Baker Hughes will not take a stake in the oilfield, unlike some of Schlumberger's joint investments with producers."
+General Electric,2017-9,"In 2014 and 2015, Schlumberger took nearly $400 million in combined write-offs on oil production investments, including an Eagle Ford shale field in south Texas that struggled after oil prices crashed."
+General Electric,2017-9,"It also is owed about $900 million by Ecuador. In July, the South American country said it had negotiated a payment plan that includes an expanded contract that has Schlumberger agreeing to invest another $1 billion in the venture."
+General Electric,2017-9,Schlumberger hasn't commented on the South American nation's disclosure. It previously acknowledged taking Ecuadorian bonds in lieu of cash for $150 million in bills. It also previously estimated its investment in the projects at up to $4.9 billion over 20 years.
+General Electric,2017-9,The write downs have stirred some on Wall Street to question whether Schlumberger should take more conservative path with its oil production partnerships.
+General Electric,2017-9,"The firm's production division ""used to focus on production management of well understood low-risk oil fields,"" said Colin Davies, a Bernstein oilfield services analyst. ""Now it has expanded into frankly somewhat more speculative ventures."""
+General Electric,2017-9,UPDATE 1-Swiss utility BKW jumps into nuclear plant dismantling business - Reuters News
+General Electric,2017-9,{{20170907T191416.038+0000}}UPDATE 1-Swiss utility BKW jumps into nuclear plant dismantling business* DfN already works with BKW at Muehleberg station
+General Electric,2017-9,"ZURICH, Sept 7 (Reuters) - Swiss utility BKW AG bought a small German nuclear services company on Thursday, joining firms including GE that are banking on rising revenue from the decommissioning of European nuclear plants."
+General Electric,2017-9,"BKW, which plans to dismantle its own Muehleberg nuclear station after shuttering it in 2019, bought Dienstleistungen fuer Nukleartechnik GmbH (DfN). Its services include verifying that components removed from nuclear facilities are no longer radioactive. [nL8N1DS0MF]"
+General Electric,2017-9,"Other companies, including Finland's Fortum , privately held U.S.-based Bechtel and the GE Hitachi Nuclear Energy alliance, are also seeking to benefit from plant decommissioning in Sweden as well as Germany. [nL8N1LM42M]"
+General Electric,2017-9,Germany decided to exit nuclear power by 2022 following the Fukushima disaster in Japan in 2011.
+General Electric,2017-9,"Similarly, energy groups E.ON and EnBW , which are now tearing down their German nuclear plants, are seeking to parlay newfound dismantling expertise by offering similar services elsewhere in the world."
+General Electric,2017-9,"With its acquisition of DfN, BKW hopes to capitalise on a growing sector. DfN is already working on five plants that are in the process of being decommissioned, BKW said."
+General Electric,2017-9,"""Germany has many decommissioning projects either underway or in the works with the planned or already completed shuttering of nuclear power stations,"" BKW said in a statement."
+General Electric,2017-9,"""That will open significant growth potential for DfN in the area of radiation protection services,"" it said."
+General Electric,2017-9,"BKW's DfN will be a comparatively tiny player, with 22 employees. BKW declined to disclose financial details of the transaction or current or projected revenue for DfN."
+General Electric,2017-9,"That compares E.ON's 650 staff at its PreussenElektra decommissioning unit and GE Hitachi's 3,000 employees."
+General Electric,2017-9,"French water and waste giant Veolia has also started selling nuclear dismantling and decommissioning services in recent years, while France's EDF is expected to enter the business after its acquisition of Areva NP."
+General Electric,2017-9,"DfN will not compete with larger companies that will be in charge of decommissioning, BKW said, but instead will offer complementary services necessary to completing the projects."
+General Electric,2017-9,"""The services from DfN accompany the decommissioning projects but will cover niche activities that require very special qualifications and authorisation,"" a spokeswoman said."
+General Electric,2017-9,"Switzerland has five reactors including Beznau 1, the world's oldest operating nuclear plant that was powered up in 1969."
+General Electric,2017-9,"BKW has worked with the Heidelberg-based company since it was founded in 2009 on radiation protection for its Muehleberg station, the Bern-based utility said. DfN's head, Martin Herzner, will continue to run the unit."
+General Electric,2017-9,GE board authorizes quarterly dividend of $0.24/share - Reuters Investor Briefs
+General Electric,2017-9,BRIEF-GE board authorizes quarterly dividend of $0.24/share - Reuters News
+General Electric,2017-9,{{20170907T154617.449+0000}}BRIEF-GE board authorizes quarterly dividend of $0.24/shareSept 7 (Reuters) - GE :
+General Electric,2017-9,GE sells remaining equity stake in Penske Truck Leasing - Reuters Investor Briefs
+General Electric,2017-9,BUZZ-General Electric: Attempts a stand on the charts - Reuters News
+General Electric,2017-9,"{{20170908T190436.832+0000}}BUZZ-General Electric: Attempts a stand on the charts** General Electric shares continue to be demoted on the charts, but now testing key support [nL1N1KC0TQ]"
+General Electric,2017-9,"** Indeed, this support may be last level to protect against slide to the Aug 2015 swoon low and below"
+General Electric,2017-9,"** GE now down 24.4 pct YTD, and losses exacerbated this week amid negative JP Morgan analyst note suggesting risk to their $22 PT [nL2N1LO0PJ]"
+General Electric,2017-9,"** Along with support line, weekly RSI offering a modest positive convergence; similar positive setup into 2009 low"
+General Electric,2017-9,"** That said, even with an oversold reaction, the stock has much work to do to turn its trend back to upside"
+General Electric,2017-9,** GE would need to thrust over its Sept 1 high ($25.30) to break pattern of lower peaks & troughs on a shorter-term basis
+General Electric,2017-9,"** Even then, 200-WMA, now resistance ($27.82), likely tough to reclaim, ahead of resistance line from late 2016 (now $28.50 area)"
+General Electric,2017-9,** Weekly close below support line can suggest much greater risk with Aug 2015 swoon low at $19.37
+General Electric,2017-9,"** Deeper decline to broken resistance line, now support from 2000 all-time high, could suggest $17.00/$16.00 area depending on speed of drop"
+General Electric,2017-9,{{20170908T170911.881+0000}}U.S. oil drillers cut rigs for 3rd week in four as recovery stalls -Baker HughesSept 8 (Reuters) - U.S. energy firms cut oil rigs for a
+General Electric,2017-9,third time in the past four weeks as a 14-month drilling
+General Electric,2017-9,"Drillers cut three oil rigs in the week to Sept. 8, bringing"
+General Electric,2017-9,"the total count down to 756, the least since June, General"
+General Electric,2017-9,That compares with 414 active oil rigs during the same week
+General Electric,2017-9,The rig count is an early indicator of future output.
+General Electric,2017-9,curtailing oil drilling activity in the U.S. Gulf and in Texas'
+General Electric,2017-9,were trading up 1.7 percent on the week at just above $48 per
+General Electric,2017-9,Crude prices were up about 2 percent so far this month after
+General Electric,2017-9,"declining in five of the past six months, including a near 6"
+General Electric,2017-9,per day (bpd) in 2017 and a record 9.9 million bpd in 2018 from
+General Electric,2017-9,higher than the $48 per barrel range where they are currently
+General Electric,2017-9,still plan to spend much more this year than last year.
+General Electric,2017-9,the 64 E&Ps it tracks planned to increase spending by an average
+General Electric,2017-9,"investment bank Piper Jaffray, forecast the total oil and gas"
+General Electric,2017-9,"rig count would rise to an average of 863 in 2017, 932 in 2018"
+General Electric,2017-9,U.S./Canada natural gas rig count versus Henry Hub futures price
+General Electric,2017-9,"((For Thomson Reuters Analytics, see: cpurl://apps.cp./cms/?pageid=usa-gas"
+General Electric,2017-9,"For a list of all Baker Hughes rig counts around the world, see:"
+General Electric,2017-9,RPT-INSIGHT-The next oil major? Service firm Schlumberger's big bet on production - Reuters News
+General Electric,2017-9,{{20170908T110002.392+0000}}RPT-INSIGHT-The next oil major? Service firm Schlumberger's big bet on production(Repeats for additional clients with no changes to text)
+General Electric,2017-9,"HOUSTON, Sept 8 (Reuters) - The world's largest oilfield services company, Schlumberger NV , is spending billions of dollars buying stakes in its customers' oil and gas projects - investing in the same ventures it supplies with equipment and expertise."
+General Electric,2017-9,"The new business model gives Schlumberger a say in drilling decisions, oilfield management and even on hiring other Schlumberger units for service contracts, the company has told investors."
+General Electric,2017-9,The expanded operational authority saves Schlumberger from bidding for each of the many jobs that typically require separate contracts on a large drilling project - effectively locking out the firm's competitors.
+General Electric,2017-9,"Schlumberger's gamble could upend the service business model throughout the industry, as rivals including General Electric Co's unit Baker Hughes say they are considering whether to adopt similar strategies."
+General Electric,2017-9,"The model can supercharge profits on a given job but also ramps up risk, giving the firm more exposure to global oil price swings and potentially big losses if individual projects fail. The downsides have some analysts questioning whether the traditionally conservative firm is taking on too many speculative projects too quickly."
+General Electric,2017-9,"Schlumberger already has taken hundreds of millions in write-downs or impairments on some of these joint ventures, according to its financial filings."
+General Electric,2017-9,"Traditionally, oil producers manage the risk and make the financial and operational decisions on projects; they pay service providers a fee to carry out individual jobs. Firms such as Schlumberger typically supply a wide variety of services, such as well design, along with technology and staff to run rigs."
+General Electric,2017-9,Schlumberger declined to make executives available for interviews and did not respond to written questions about its production business.
+General Electric,2017-9,"Despite early setbacks, Schlumberger has committed cash to growing the division, called Schlumberger Production Management, since its launch in 2011. Last year, it generated $1.4 billion in revenue. It had investment of $2.6 billion as of June 30, Schlumberger Executive Vice President Patrick Schorn told investors earlier this summer."
+General Electric,2017-9,"The company's investments have the firm co-managing about 230,000 barrels a day of oil and gas output at the end of 2016 - about as much as one of the largest U.S. independent producers, Pioneer Natural Resources ."
+General Electric,2017-9,"This year, the company stepped up the financing role, opening a standalone investment fund to provide financing for the ventures. The company has not disclosed the size of the fund."
+General Electric,2017-9,Such ventures require a breadth of skills and a tolerance for risk generally found at large integrated oil companies such as Chevron Corp and Exxon Mobil Corp .
+General Electric,2017-9,Two of Schlumberger's newest partnerships - a deepwater liquefied natural gas project off the coast of Equatorial Guinea and an Argentina shale development with YPF SA - involve decision-making and operational authority similar to that typically held by multinational oil producers.
+General Electric,2017-9,"In June, Schlumberger agreed to invest $700 million in an oil exploration project with Nigerian National Petroleum Corp and First Exploration & Production that would require global oil prices of between $50 to $60 a barrel to achieve a 20 percent profit, research house Bernstein estimated in a report published in July. Current prices are struggling to break out of the bottom of that range."
+General Electric,2017-9,"As Schlumberger's production business has grown, it has negotiated deals that include equity in oil and gas fields and as well as deals that give the firm payment based on oil and gas output, according to interviews with customers, partners, investors and former Schlumberger executives."
+General Electric,2017-9,"Schlumberger this year agreed to contribute $390 million for a 49 percent stake in a venture with YPF in Argentina's Vaca Muerta shale field, which has attracted international oil firms including Chevron and Royal Dutch Shell ."
+General Electric,2017-9,Schlumberger Chief Executive Paal Kibsgaard has downplayed the potential for its production business to compete with its own oil company customers.
+General Electric,2017-9,"He described the enterprise as ""a new avenue for project investments alongside our customers"" in remarks to investors in April."
+General Electric,2017-9,"Schorn also insisted this spring that the business is ""not significantly changing the risk profile ... the biggest risk remains the cyclical nature"" of the oil and gas industry."
+General Electric,2017-9,"Investors say Schlumberger, which held $6.22 billion in cash and short-term investments at June 30, is strong enough to handle any increased risks and the price volatility of its investments in long-term projects."
+General Electric,2017-9,"As both project manager and service provider, Schlumberger also has an enviable level of control over operations, said Mike Breard of Dallas-based wealth management firm Hodges Capital, which invests in oilfield service companies."
+General Electric,2017-9,"British-based natural gas explorer Sound Energy PLC was happy to give Schlumberger full rights to the service contracts on drilling projects in Morocco in exchange for a Schlumberger investment amounting to 27 percent of total costs, said the chief of British-based natural gas explorer."
+General Electric,2017-9,Schlumberger will get 27.5 percent of revenue from the oil produced.
+General Electric,2017-9,"""We're smaller and entrepreneurial. Schlumberger has the technical capability and cash. That's the nature of the partnership,"" Sound CEO James Parsons said in an interview."
+General Electric,2017-9,The duo has completed three wells in Morocco and plans to drill three more by year end.
+General Electric,2017-9,"""It's a $50 [million] or $60 million bet for them so far,"" Parsons said."
+General Electric,2017-9,"Schlumberger's appetite for these ventures is spurring rivals to consider similar financing and services deals. Baker Hughes recently agreed to provide about $10 million in financing to Twinza Oil's first offshore gas field in Papua New Guinea, supplying the cash to prove the merits of the field."
+General Electric,2017-9,"""It allows Twinza to have success in going out to raise financing,"" Baker Hughes CEO Lorenzo Simonelli said."
+General Electric,2017-9,"Baker Hughes will not take a stake in the oilfield, unlike some of Schlumberger's joint investments with producers."
+General Electric,2017-9,"In 2014 and 2015, Schlumberger took nearly $400 million in combined write-offs on oil production investments, including an Eagle Ford shale field in south Texas that struggled after oil prices crashed."
+General Electric,2017-9,"It also is owed about $900 million by Ecuador. In July, the South American country said it had negotiated a payment plan that includes an expanded contract that has Schlumberger agreeing to invest another $1 billion in the venture."
+General Electric,2017-9,Schlumberger hasn't commented on the South American nation's disclosure. It previously acknowledged taking Ecuadorian bonds in lieu of cash for $150 million in bills. It also previously estimated its investment in the projects at up to $4.9 billion over 20 years.
+General Electric,2017-9,The write downs have stirred some on Wall Street to question whether Schlumberger should take more conservative path with its oil production partnerships.
+General Electric,2017-9,"The firm's production division ""used to focus on production management of well understood low-risk oil fields,"" said Colin Davies, a Bernstein oilfield services analyst. ""Now it has expanded into frankly somewhat more speculative ventures."""
+General Electric,2017-9,"{{20170908T110000.000+0000}}RPT-INSIGHT-The next oil major? Service firm Schlumberger's big bet on productionHOUSTON, Sept 8 (Reuters)"
+General Electric,2017-9,"HOUSTON, Sept 8 (Reuters) - The world's largest oilfield services company, Schlumberger NV , is spending billions of dollars buying stakes in its customers' oil and gas projects - investing in the same ventures it supplies with equipment and expertise."
+General Electric,2017-9,"The new business model gives Schlumberger a say in drilling decisions, oilfield management and even on hiring other Schlumberger units for service contracts, the company has told investors."
+General Electric,2017-9,The expanded operational authority saves Schlumberger from bidding for each of the many jobs that typically require separate contracts on a large drilling project - effectively locking out the firm's competitors.
+General Electric,2017-9,"Schlumberger's gamble could upend the service business model throughout the industry, as rivals including General Electric Co's unit Baker Hughes say they are considering whether to adopt similar strategies."
+General Electric,2017-9,"The model can supercharge profits on a given job but also ramps up risk, giving the firm more exposure to global oil price swings and potentially big losses if individual projects fail. The downsides have some analysts questioning whether the traditionally conservative firm is taking on too many speculative projects too quickly."
+General Electric,2017-9,"Schlumberger already has taken hundreds of millions in write-downs or impairments on some of these joint ventures, according to its financial filings."
+General Electric,2017-9,"Traditionally, oil producers manage the risk and make the financial and operational decisions on projects; they pay service providers a fee to carry out individual jobs. Firms such as Schlumberger typically supply a wide variety of services, such as well design, along with technology and staff to run rigs."
+General Electric,2017-9,Schlumberger declined to make executives available for interviews and did not respond to written questions about its production business.
+General Electric,2017-9,"Despite early setbacks, Schlumberger has committed cash to growing the division, called Schlumberger Production Management, since its launch in 2011. Last year, it generated $1.4 billion in revenue. It had investment of $2.6 billion as of June 30, Schlumberger Executive Vice President Patrick Schorn told investors earlier this summer."
+General Electric,2017-9,"The company's investments have the firm co-managing about 230,000 barrels a day of oil and gas output at the end of 2016 - about as much as one of the largest U.S. independent producers, Pioneer Natural Resources ."
+General Electric,2017-9,"This year, the company stepped up the financing role, opening a standalone investment fund to provide financing for the ventures. The company has not disclosed the size of the fund."
+General Electric,2017-9,Such ventures require a breadth of skills and a tolerance for risk generally found at large integrated oil companies such as Chevron Corp and Exxon Mobil Corp .
+General Electric,2017-9,Two of Schlumberger's newest partnerships - a deepwater liquefied natural gas project off the coast of Equatorial Guinea and an Argentina shale development with YPF SA - involve decision-making and operational authority similar to that typically held by multinational oil producers.
+General Electric,2017-9,"In June, Schlumberger agreed to invest $700 million in an oil exploration project with Nigerian National Petroleum Corp and First Exploration & Production that would require global oil prices of between $50 to $60 a barrel to achieve a 20 percent profit, research house Bernstein estimated in a report published in July. Current prices are struggling to break out of the bottom of that range."
+General Electric,2017-9,"As Schlumberger's production business has grown, it has negotiated deals that include equity in oil and gas fields and as well as deals that give the firm payment based on oil and gas output, according to interviews with customers, partners, investors and former Schlumberger executives."
+General Electric,2017-9,"Schlumberger this year agreed to contribute $390 million for a 49 percent stake in a venture with YPF in Argentina's Vaca Muerta shale field, which has attracted international oil firms including Chevron and Royal Dutch Shell ."
+General Electric,2017-9,Schlumberger Chief Executive Paal Kibsgaard has downplayed the potential for its production business to compete with its own oil company customers.
+General Electric,2017-9,"He described the enterprise as ""a new avenue for project investments alongside our customers"" in remarks to investors in April."
+General Electric,2017-9,"Schorn also insisted this spring that the business is ""not significantly changing the risk profile ... the biggest risk remains the cyclical nature"" of the oil and gas industry."
+General Electric,2017-9,"Investors say Schlumberger, which held $6.22 billion in cash and short-term investments at June 30, is strong enough to handle any increased risks and the price volatility of its investments in long-term projects."
+General Electric,2017-9,"As both project manager and service provider, Schlumberger also has an enviable level of control over operations, said Mike Breard of Dallas-based wealth management firm Hodges Capital, which invests in oilfield service companies."
+General Electric,2017-9,"British-based natural gas explorer Sound Energy PLC was happy to give Schlumberger full rights to the service contracts on drilling projects in Morocco in exchange for a Schlumberger investment amounting to 27 percent of total costs, said the chief of British-based natural gas explorer."
+General Electric,2017-9,Schlumberger will get 27.5 percent of revenue from the oil produced.
+General Electric,2017-9,"""We're smaller and entrepreneurial. Schlumberger has the technical capability and cash. That's the nature of the partnership,"" Sound CEO James Parsons said in an interview."
+General Electric,2017-9,The duo has completed three wells in Morocco and plans to drill three more by year end.
+General Electric,2017-9,"""It's a $50 [million] or $60 million bet for them so far,"" Parsons said."
+General Electric,2017-9,"Schlumberger's appetite for these ventures is spurring rivals to consider similar financing and services deals. Baker Hughes recently agreed to provide about $10 million in financing to Twinza Oil's first offshore gas field in Papua New Guinea, supplying the cash to prove the merits of the field."
+General Electric,2017-9,"""It allows Twinza to have success in going out to raise financing,"" Baker Hughes CEO Lorenzo Simonelli said."
+General Electric,2017-9,"Baker Hughes will not take a stake in the oilfield, unlike some of Schlumberger's joint investments with producers."
+General Electric,2017-9,"In 2014 and 2015, Schlumberger took nearly $400 million in combined write-offs on oil production investments, including an Eagle Ford shale field in south Texas that struggled after oil prices crashed."
+General Electric,2017-9,"It also is owed about $900 million by Ecuador. In July, the South American country said it had negotiated a payment plan that includes an expanded contract that has Schlumberger agreeing to invest another $1 billion in the venture."
+General Electric,2017-9,Schlumberger hasn't commented on the South American nation's disclosure. It previously acknowledged taking Ecuadorian bonds in lieu of cash for $150 million in bills. It also previously estimated its investment in the projects at up to $4.9 billion over 20 years.
+General Electric,2017-9,The write downs have stirred some on Wall Street to question whether Schlumberger should take more conservative path with its oil production partnerships.
+General Electric,2017-9,"The firm's production division ""used to focus on production management of well understood low-risk oil fields,"" said Colin Davies, a Bernstein oilfield services analyst. ""Now it has expanded into frankly somewhat more speculative ventures."""
+General Electric,2017-9,"BRIEF-Baker Hughes, A GE Company announces August 2017 rig counts - Reuters News"
+General Electric,2017-9,"{{20170908T102102.511+0000}}BRIEF-Baker Hughes, A GE Company announces August 2017 rig countsSept 8 (Reuters) - Baker Hughes A GE Co :"
+General Electric,2017-9,INSIGHT-The next oil major? Service firm Schlumberger's big bet on production - Reuters News
+General Electric,2017-9,{{20170908T050004.131+0000}}INSIGHT-The next oil major? Service firm Schlumberger's big bet on productionBy Liz Hampton
+General Electric,2017-9,"HOUSTON, Sept 8 (Reuters) - The world's largest oilfield services company, Schlumberger NV , is spending billions of dollars buying stakes in its customers' oil and gas projects - investing in the same ventures it supplies with equipment and expertise."
+General Electric,2017-9,"The new business model gives Schlumberger a say in drilling decisions, oilfield management and even on hiring other Schlumberger units for service contracts, the company has told investors."
+General Electric,2017-9,The expanded operational authority saves Schlumberger from bidding for each of the many jobs that typically require separate contracts on a large drilling project - effectively locking out the firm's competitors.
+General Electric,2017-9,"Schlumberger's gamble could upend the service business model throughout the industry, as rivals including General Electric Co's unit Baker Hughes say they are considering whether to adopt similar strategies."
+General Electric,2017-9,"The model can supercharge profits on a given job but also ramps up risk, giving the firm more exposure to global oil price swings and potentially big losses if individual projects fail. The downsides have some analysts questioning whether the traditionally conservative firm is taking on too many speculative projects too quickly."
+General Electric,2017-9,"Schlumberger already has taken hundreds of millions in write-downs or impairments on some of these joint ventures, according to its financial filings."
+General Electric,2017-9,"Traditionally, oil producers manage the risk and make the financial and operational decisions on projects; they pay service providers a fee to carry out individual jobs. Firms such as Schlumberger typically supply a wide variety of services, such as well design, along with technology and staff to run rigs."
+General Electric,2017-9,Schlumberger declined to make executives available for interviews and did not respond to written questions about its production business.
+General Electric,2017-9,"Despite early setbacks, Schlumberger has committed cash to growing the division, called Schlumberger Production Management, since its launch in 2011. Last year, it generated $1.4 billion in revenue. It had investment of $2.6 billion as of June 30, Schlumberger Executive Vice President Patrick Schorn told investors earlier this summer."
+General Electric,2017-9,"The company's investments have the firm co-managing about 230,000 barrels a day of oil and gas output at the end of 2016 - about as much as one of the largest U.S. independent producers, Pioneer Natural Resources ."
+General Electric,2017-9,"This year, the company stepped up the financing role, opening a standalone investment fund to provide financing for the ventures. The company has not disclosed the size of the fund."
+General Electric,2017-9,Such ventures require a breadth of skills and a tolerance for risk generally found at large integrated oil companies such as Chevron Corp and Exxon Mobil Corp .
+General Electric,2017-9,Two of Schlumberger's newest partnerships - a deepwater liquefied natural gas project off the coast of Equatorial Guinea and an Argentina shale development with YPF SA - involve decision-making and operational authority similar to that typically held by multinational oil producers.
+General Electric,2017-9,"In June, Schlumberger agreed to invest $700 million in an oil exploration project with Nigerian National Petroleum Corp and First Exploration & Production that would require global oil prices of between $50 to $60 a barrel to achieve a 20 percent profit, research house Bernstein estimated in a report published in July. Current prices are struggling to break out of the bottom of that range."
+General Electric,2017-9,"As Schlumberger's production business has grown, it has negotiated deals that include equity in oil and gas fields and as well as deals that give the firm payment based on oil and gas output, according to interviews with customers, partners, investors and former Schlumberger executives."
+General Electric,2017-9,"Schlumberger this year agreed to contribute $390 million for a 49 percent stake in a venture with YPF in Argentina's Vaca Muerta shale field, which has attracted international oil firms including Chevron and Royal Dutch Shell ."
+General Electric,2017-9,Schlumberger Chief Executive Paal Kibsgaard has downplayed the potential for its production business to compete with its own oil company customers.
+General Electric,2017-9,"He described the enterprise as ""a new avenue for project investments alongside our customers"" in remarks to investors in April."
+General Electric,2017-9,"Schorn also insisted this spring that the business is ""not significantly changing the risk profile ... the biggest risk remains the cyclical nature"" of the oil and gas industry."
+General Electric,2017-9,"Investors say Schlumberger, which held $6.22 billion in cash and short-term investments at June 30, is strong enough to handle any increased risks and the price volatility of its investments in long-term projects."
+General Electric,2017-9,"As both project manager and service provider, Schlumberger also has an enviable level of control over operations, said Mike Breard of Dallas-based wealth management firm Hodges Capital, which invests in oilfield service companies."
+General Electric,2017-9,"British-based natural gas explorer Sound Energy PLC was happy to give Schlumberger full rights to the service contracts on drilling projects in Morocco in exchange for a Schlumberger investment amounting to 27 percent of total costs, said the chief of British-based natural gas explorer."
+General Electric,2017-9,Schlumberger will get 27.5 percent of revenue from the oil produced.
+General Electric,2017-9,"""We're smaller and entrepreneurial. Schlumberger has the technical capability and cash. That's the nature of the partnership,"" Sound CEO James Parsons said in an interview."
+General Electric,2017-9,The duo has completed three wells in Morocco and plans to drill three more by year end.
+General Electric,2017-9,"""It's a $50 [million] or $60 million bet for them so far,"" Parsons said."
+General Electric,2017-9,"Schlumberger's appetite for these ventures is spurring rivals to consider similar financing and services deals. Baker Hughes recently agreed to provide about $10 million in financing to Twinza Oil's first offshore gas field in Papua New Guinea, supplying the cash to prove the merits of the field."
+General Electric,2017-9,"""It allows Twinza to have success in going out to raise financing,"" Baker Hughes CEO Lorenzo Simonelli said."
+General Electric,2017-9,"Baker Hughes will not take a stake in the oilfield, unlike some of Schlumberger's joint investments with producers."
+General Electric,2017-9,"In 2014 and 2015, Schlumberger took nearly $400 million in combined write-offs on oil production investments, including an Eagle Ford shale field in south Texas that struggled after oil prices crashed."
+General Electric,2017-9,"It also is owed about $900 million by Ecuador. In July, the South American country said it had negotiated a payment plan that includes an expanded contract that has Schlumberger agreeing to invest another $1 billion in the venture."
+General Electric,2017-9,Schlumberger hasn't commented on the South American nation's disclosure. It previously acknowledged taking Ecuadorian bonds in lieu of cash for $150 million in bills. It also previously estimated its investment in the projects at up to $4.9 billion over 20 years.
+General Electric,2017-9,The write downs have stirred some on Wall Street to question whether Schlumberger should take more conservative path with its oil production partnerships.
+General Electric,2017-9,"The firm's production division ""used to focus on production management of well understood low-risk oil fields,"" said Colin Davies, a Bernstein oilfield services analyst. ""Now it has expanded into frankly somewhat more speculative ventures."""
+General Electric,2017-9,UPDATE 1-Swiss utility BKW jumps into nuclear plant dismantling business - Reuters News
+General Electric,2017-9,{{20170907T191416.038+0000}}UPDATE 1-Swiss utility BKW jumps into nuclear plant dismantling business* DfN already works with BKW at Muehleberg station
+General Electric,2017-9,"ZURICH, Sept 7 (Reuters) - Swiss utility BKW AG bought a small German nuclear services company on Thursday, joining firms including GE that are banking on rising revenue from the decommissioning of European nuclear plants."
+General Electric,2017-9,"BKW, which plans to dismantle its own Muehleberg nuclear station after shuttering it in 2019, bought Dienstleistungen fuer Nukleartechnik GmbH (DfN). Its services include verifying that components removed from nuclear facilities are no longer radioactive. [nL8N1DS0MF]"
+General Electric,2017-9,"Other companies, including Finland's Fortum , privately held U.S.-based Bechtel and the GE Hitachi Nuclear Energy alliance, are also seeking to benefit from plant decommissioning in Sweden as well as Germany. [nL8N1LM42M]"
+General Electric,2017-9,Germany decided to exit nuclear power by 2022 following the Fukushima disaster in Japan in 2011.
+General Electric,2017-9,"Similarly, energy groups E.ON and EnBW , which are now tearing down their German nuclear plants, are seeking to parlay newfound dismantling expertise by offering similar services elsewhere in the world."
+General Electric,2017-9,"With its acquisition of DfN, BKW hopes to capitalise on a growing sector. DfN is already working on five plants that are in the process of being decommissioned, BKW said."
+General Electric,2017-9,"""Germany has many decommissioning projects either underway or in the works with the planned or already completed shuttering of nuclear power stations,"" BKW said in a statement."
+General Electric,2017-9,"""That will open significant growth potential for DfN in the area of radiation protection services,"" it said."
+General Electric,2017-9,"BKW's DfN will be a comparatively tiny player, with 22 employees. BKW declined to disclose financial details of the transaction or current or projected revenue for DfN."
+General Electric,2017-9,"That compares E.ON's 650 staff at its PreussenElektra decommissioning unit and GE Hitachi's 3,000 employees."
+General Electric,2017-9,"French water and waste giant Veolia has also started selling nuclear dismantling and decommissioning services in recent years, while France's EDF is expected to enter the business after its acquisition of Areva NP."
+General Electric,2017-9,"DfN will not compete with larger companies that will be in charge of decommissioning, BKW said, but instead will offer complementary services necessary to completing the projects."
+General Electric,2017-9,"""The services from DfN accompany the decommissioning projects but will cover niche activities that require very special qualifications and authorisation,"" a spokeswoman said."
+General Electric,2017-9,"Switzerland has five reactors including Beznau 1, the world's oldest operating nuclear plant that was powered up in 1969."
+General Electric,2017-9,"BKW has worked with the Heidelberg-based company since it was founded in 2009 on radiation protection for its Muehleberg station, the Bern-based utility said. DfN's head, Martin Herzner, will continue to run the unit."
+General Electric,2017-9,GE board authorizes quarterly dividend of $0.24/share - Reuters Investor Briefs
+General Electric,2017-9,BRIEF-GE board authorizes quarterly dividend of $0.24/share - Reuters News
+General Electric,2017-9,{{20170907T154617.449+0000}}BRIEF-GE board authorizes quarterly dividend of $0.24/shareSept 7 (Reuters) - GE :
+General Electric,2017-9,GE sells remaining equity stake in Penske Truck Leasing - Reuters Investor Briefs
+General Electric,2017-9,UPDATE 1-Canada mulls buying used Boeing fighter jets from Australia - Reuters News
+General Electric,2017-9,{{20170906T212248.023+0000}}UPDATE 1-Canada mulls buying used Boeing fighter jets from Australia(Adds aerospace firms urging Trudeau to approve Boeing deal)
+General Electric,2017-9,"OTTAWA, Sept 6 (Reuters) - Canada, embroiled in a dispute with Boeing Co over the planned purchase of 18 new Super Hornet fighters, could buy older jets from Australia instead, the defense ministry said on Wednesday."
+General Electric,2017-9,The Liberal government of Prime Minister Justin Trudeau suspended talks with Boeing over a possible acquisition after the U.S. firm launched a trade challenge against Canadian planemaker Bombardier Inc . [nL1N1IY1KC]
+General Electric,2017-9,"Defence Minister Harjit Sajjan says Canada needs the 18 jets as a stopgap measure until it can run a competition to replace its CF-18 fighters. The CF-18 is Canada's version of the F-18, a design that is 40 years old."
+General Electric,2017-9,"""In light of Australia recently notifying all allies about their intent to dispose of their F-18 fleet, Canada visited them to inquire about the state of their equipment and spare parts,"" Sajjan's office said in a statement."
+General Electric,2017-9,"""It is too early to provide detailed information about other options,"" it added."
+General Electric,2017-9,Boeing declined to comment. The Australian High Commission (embassy) did not reply to a request for comment.
+General Electric,2017-9,Sajjan spokeswoman Jordan Owens said Canada had not visited other nations to assess their planes.
+General Electric,2017-9,"Trudeau on Tuesday slammed Boeing's ""unfair and aggressive"" challenge against Bombardier, which the U.S. firm alleges is dumping passenger planes in the American market. [nL2N1LM285]"
+General Electric,2017-9,"Boeing's Canadian network of aerospace suppliers on Tuesday urged Trudeau to buy the Super Hornets, noting the firm supported more than 17,000 jobs in Canada."
+General Electric,2017-9,"""Our partnership is deep and enduring, but it needs your engagement,"" said a letter from 10 firms, a copy of which was seen by Reuters."
+General Electric,2017-9,"Signatories included CAE Inc , Heroux Devtek Inc and Honeywell International Inc. as well as the Canadian arms of General Electric Co and Raytheon Co ."
+General Electric,2017-9,"CAE, which has close ties to Bombardier, later noted the letter had not mentioned the Boeing dispute."
+General Electric,2017-9,"Asked for a reaction to the letter, a source familiar with government thinking said the Canadian aerospace sector supported many jobs in the United States."
+General Electric,2017-9,Australia bought 24 Super Hornets as an interim fleet until it could take delivery of F-35 planes from Lockheed Martin Corp .
+General Electric,2017-9,"Canada's former Conservative government said in 2010 it would buy 65 F-35s but later scrapped the decision, triggering years of delays and reviews."
+General Electric,2017-9,"Ahead of the 2015 election that brought him to power, Trudeau campaigned against buying the F-35 on the grounds it was too expensive. Officials now say the plane would be eligible to participate in the competition. [nL1N1E7170]"
+General Electric,2017-9,"ABB plans expansion in U.S., scouting for acquisitions, CEO says - Reuters News"
+General Electric,2017-9,"{{20170906T205431.682+0000}}ABB plans expansion in U.S., scouting for acquisitions, CEO saysBy Joseph White"
+General Electric,2017-9,"DETROIT, Sept 6 (Reuters) - ABB Ltd plans to expand its U.S. industrial robot factory in Michigan, the company's chief executive officer said on Wednesday, while declining to comment on reports that he is weighing the purchase of a unit of rival General Electric Co ."
+General Electric,2017-9,"Ulrich Spiesshofer, who took over as CEO of ABB in 2013, said in an interview that the company plans to expand its industrial robot manufacturing facility in Auburn Hills, Michigan, which delivered its first robot in March. He declined to offer details on new jobs or investment. ABB currently has a workforce of about 1,000 at the Auburn Hills complex."
+General Electric,2017-9,"Zurich-based ABB is counting on continued growth in demand for industrial robots from automakers and other sectors, such as the food and beverage industry, Spiesshofer said."
+General Electric,2017-9,"U.S. automakers have caught up with Japanese and German rivals in the level of factory automation, Spiesshofer said. ""The next phase is about portfolio differentiation and expansion,"" as automakers build more electric cars, he said."
+General Electric,2017-9,Spiesshofer has been reshaping ABB's portfolio of businesses through acquisitions and divestitures for the past four years. He declined to comment on whether he is discussing the acquisition of GE's industrial solutions business.
+General Electric,2017-9,"People familiar with the situation said last month that GE and ABB had restarted talks after GE cut the asking price of the business, which sells industrial electrical equipment. [nL8N1L95US]"
+General Electric,2017-9,"ABB is scouting for potential acquisitions in certain areas, such as planning software, and those would likely be smaller deals, Spiesshofer said."
+General Electric,2017-9,"ABB will be ""brutally disciplined"" in what it buys, he said, noting that the company ""could have afforded"" to buy industrial robot maker Kuka last year, but walked away ""because the economics did not fit what we want to do."""
+General Electric,2017-9,"In a presentation on Wednesday, Spiesshofer reaffirmed that, after what he called a ""transitional year"" in 2017, ABB should begin hitting its goals for revenue growth of 3 to 6 percent, and returns on capital investments in the ""mid-teens."""
+General Electric,2017-9,Spiesshofer said problems with excess capacity in the robotics and motion business that hit second-quarter results should be resolved by growth in business.
+General Electric,2017-9,"""I am confident for the full year we will be back"" within a profit margin range of 15 to 18 percent, he said. Operating margins for ABB's robotics and motion business were 14.9 percent in the second quarter."
+General Electric,2017-9,"CORRECTED-United Tech, Rockwell deal faces bumpy road to approval, especially in the EU - Reuters News"
+General Electric,2017-9,"{{20170906T015652.265+0000}}CORRECTED-United Tech, Rockwell deal faces bumpy road to approval, especially in the EU(In 4th paragraph corrects misstatement by source in 1st sentence to say combined company would have 50 percent of systems content on the Boeing 787, not 50 percent of all content. In second sentence of 4th paragraph, corrects to say Michaels does not see a regulatory issue, not that this could be a bigger issue.))"
+General Electric,2017-9,"PARIS/NEW YORK/WASHINGTON, Sept 5 (Reuters) - U.S. aerospace and industrial company United Technologies Corp faces a long road to win approval for its $23 billion plan to buy avionics maker Rockwell Collins Inc , and the biggest bumps could be in Brussels rather than Washington."
+General Electric,2017-9,"United Tech and Rockwell, who both supply airplane makers, say the overlap in their product lines is relatively small. Yet opponents of the deal could argue the combination gives the aircraft parts supply company undue market power."
+General Electric,2017-9,"The combined company could make more than 50 percent of the systems content on a Boeing 787 aircraft, by dollar value, noted Kevin Michaels, president of consulting firm AeroDynamic Advisory, referring to such components as flight controls and air conditioning. Michaels said he does not see the deal facing an issue from a competitive standpoint as there is virtually no overlap in products between the two companies."
+General Electric,2017-9,"Rockwell's shares rose 0.3 percent to $131.00 while United Tech shares fell 5.7 percent to $111.21, in part on the warning from Boeing. [nL2N1LM0KR]"
+General Electric,2017-9,"There was also a sign that Airbus is preparing to ratchet up pressure behind the scenes. A source close to the European plane maker told Reuters there were concerns about a ""disconnect"" between United Technologies and the leadership of its Pratt & Whitney unit. Another Airbus source said any distraction due to the merger would benefit Pratt & Whitney's main rival CFM International, co-owned by the U.S. manufacturer General Electric Co and France's Safran ."
+General Electric,2017-9,"Problems at Pratt & Whitney have delayed European aircraft deliveries, and Airbus has publicly warned United Tech to focus on delivering jet engines on time. [nP6N1JF00H]"
+General Electric,2017-9,"If Boeing or Airbus opts to complain to antitrust enforcers, they can take the complaint to Europe's competition authority and either the U.S. Justice Department or Federal Trade Commission, both of which review proposed mergers for compliance with antitrust law."
+General Electric,2017-9,Their strongest argument would be if both companies made one or several parts and had few competitors.
+General Electric,2017-9,"""Many initially assumed it would be a slam dunk because of the lack of overlap. But the EU probe may prove to be difficult, simply on the grounds that the combined company would be so big,"" said Nick Cunningham, aerospace analyst at UK-based Agency Partners."
+General Electric,2017-9,"Boeing could also be concerned about the ""portfolio effect,"" where companies are able to exercise leverage based on the fact that they sell a wide range of specialized products to certain customers."
+General Electric,2017-9,"This argument was used to doom GE's plan to buy Honeywell in 2001, although it was European regulators rather than Washington who killed that deal."
+General Electric,2017-9,"Boeing or other companies objecting to the deal could complain about a loss of competition. That would be the case if the government proves that either United Tech or Rockwell had plans to expand to compete with the other, said James Tierney, a former Justice Department antitrust expert now at the law firm Orrick."
+General Electric,2017-9,"Antitrust enforcers would also be concerned by the reduced number of market players if United Tech and Rockwell were among the few companies that Boeing or Airbus could reach out to resolve technical problems, said Tierney."
+General Electric,2017-9,"That concern would be amplified if the Defense Department agreed, said Tierney."
+General Electric,2017-9,"Both the Justice Department and Federal Trade Commission review proposed mergers to ensure they are legal under antitrust law. It is unclear which of the agencies would review this deal, antitrust experts said."
+General Electric,2017-9,"UPDATE 5-UTC touts $23 bln deal as stock drops, Boeing turns critic - Reuters News"
+General Electric,2017-9,"{{20170905T194317.335+0000}}UPDATE 5-UTC touts $23 bln deal as stock drops, Boeing turns critic(Recasts and adds detail)"
+General Electric,2017-9,"NEW YORK, Sept 5 (Reuters) - Investors and Boeing Co gave two thumbs down on Tuesday to aerospace and industrial company United Technologies Corp $23 billion plan to buy avionics maker Rockwell Collins Inc ."
+General Electric,2017-9,"The acquisition, announced on Monday, would be the largest in aerospace history and create a new player in the top echelon of suppliers to Boeing, Airbus, Bombardier and other plane makers. [nL2N1LL17P]"
+General Electric,2017-9,"United Tech shares were down 5.2 percent after Boeing said it would and use the power granted by its contracts with the companies, and its sway with regulators, ""to protect our interests."" [nL2N1LM15K]"
+General Electric,2017-9,"The stock had fallen more than 4 percent before Boeing's statement, as analysts factored in United Tech's decision to halt share buybacks for three to four years and earnings dilution caused by the cash-and-stock deal. Analysts expected $2 billion in buybacks in the second half of 2017 alone."
+General Electric,2017-9,The loss of years of buybacks and Boeing's unusual blowback came as plane makers are pressing United Tech and other suppliers for price cuts and trying to compete against them on high-margin services and spare parts.
+General Electric,2017-9,"By making more of the components used on each Boeing and Airbus SE aircraft, analysts say, United Technologies-Rockwell Collins would gain leverage to resist that pressure."
+General Electric,2017-9,"United Tech Chief Executive Greg Hayes, who would lead the combined company, brushed aside Boeing's concerns."
+General Electric,2017-9,"""The whole idea of this deal is to be able to drive more innovative solutions at lower cost for our customers - both the (plane makers) and the airlines,"" Hayes told Reuters on Tuesday, shortly before Boeing issued its criticism."
+General Electric,2017-9,"Rockwell's skill with software combined with United Tech's expertise in numerous aircraft components allows the company to offer new ""digital"" products that airlines want, he said."
+General Electric,2017-9,"""We'll be able to do predictive analytics that many others can't do, and that's how you add value to airline customers,"" Hayes said, referring to data-crunching that allows airlines to spot problems in engines and other components before they fail."
+General Electric,2017-9,Hayes said he had assured Airbus CEO Tom Enders that United Tech's Pratt & Whitney unit will stay on track to deliver between 350 and 400 jetliner engines this year.
+General Electric,2017-9,"United Tech fell behind on engine deliveries this year due to production problems, and Airbus raised concern last week about the deal distracting United Tech. [nL2N1LH0WI]"
+General Electric,2017-9,"""Pratt has nothing to do with this,"" Hayes said, noting United Tech's aerospace unit, not Pratt, will combine with Rockwell Collins to create Collins Aerospace."
+General Electric,2017-9,"Hayes also knocked down speculation that the purchase would prompt United Tech to spin off its Carrier air conditioner or Otis elevator units, saying the company needs their cash flow to help pay down debt from the deal."
+General Electric,2017-9,But Hayes did not rule out such sales in the longer term.
+General Electric,2017-9,"""After the deal is done, and after we pay down some debt, we're going to go back and look,"" he said."
+General Electric,2017-9,"If the company's share price does not reflect its value, he said, ""we'll need to do something."""
+General Electric,2017-9,"United Tech could sell ""non-core pieces"" such as home security in the meantime, Hayes said. But given taxes and lost earnings, ""it's hard to make financial sense out of those transactions"" unless they fetch a high price, he said."
+General Electric,2017-9,"Rockwell's shares rose 0.3 percent to $131.00 in afternoon trading. United Tech shares, part of the Dow Jones industrial average <.DJI>, fell 5.2 percent to $111.82."
+General Electric,2017-9,"""We see limited upside near term as share repurchase is withdrawn and deal timing becomes an investor focus,"" analyst Jeff Sprague at Vertical Research Partners said in a note."
+General Electric,2017-9,"United Tech's engines and systems portfolio has little overlap with the avionics, seats and interiors businesses of Rockwell, which Hayes said should mean little trouble during the necessary regulatory review."
+General Electric,2017-9,"The combination, if successful, would mark the rise of a second engines-to-seating supplier, after jet-engine maker Safran SA's pending $7.7-billion deal to buy seat maker Zodiac Aerospace . Safran said on Tuesday it would look at assets that might come up for sale after the United Tech-Rockwell deal. [nL8N1LM2UL]"
+General Electric,2017-9,"United Tech expects to borrow $15 billion and will assume $7 billion in Rockwell debt to fund the deal, which is expected to close by the third quarter of 2018. [nL2N1LL17P]"
+General Electric,2017-9,United Tech said the acquisition would add to earnings in its first full year and yield at least $500 million in cost savings by the fourth year of operation.
+General Electric,2017-9,U.S. FDA clears mammography device with option for patient-assisted compression - Reuters Investor Briefs
+General Electric,2017-9,{{20170901T204133.272+0000}}U.S. FDA clears mammography device with option for patient-assisted compressionSept 1 (Reuters) - U.S.
+General Electric,2017-9,BRIEF-U.S. FDA clears mammography device with option for patient-assisted compression - Reuters News
+General Electric,2017-9,{{20170901T191428.124+0000}}BRIEF-U.S. FDA clears mammography device with option for patient-assisted compressionSept 1 (Reuters) - U.S. Food and Drug Administration:
+General Electric,2017-9,"* Cleared 2D digital mammography system allowing patients to increase, decrease compression amount applied to breast before mammogram x-ray is taken"
+General Electric,2017-9,Source text for Eikon: [ID:nPnrDWSHa] Further company coverage: [GE.N]

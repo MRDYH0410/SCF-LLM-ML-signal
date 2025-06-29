@@ -1,0 +1,452 @@
+firm_id,date,text
+Ford Motor,2017-12,Dec 29 (Reuters) - Wall Street securities analysts revised their ratings and price targets
+Ford Motor,2017-12,"on several U.S.-listed companies, including Ford Motor, General Motors and Walker & Dunlop on"
+Ford Motor,2017-12,* Ford Motor Co : Evercore ISI raises price target to $13 from $10.50
+Ford Motor,2017-12,* General Motors Co : Evercore ISI raises price target to $47 from $40
+Ford Motor,2017-12,* Walker & Dunlop Inc : Compass Point raises target to $55 from $48; neutral
+Ford Motor,2017-12,Following is a summary of research actions on U.S. companies reported by Reuters on Friday.
+Ford Motor,2017-12,* Adtran Inc : Cowen and Company cuts price target to $16 from $17
+Ford Motor,2017-12,* Ford Motor Co : Evercore ISI raises price target to $13 from $10.50
+Ford Motor,2017-12,* General Motors Co : Evercore ISI raises price target to $47 from $40
+Ford Motor,2017-12,* Old Second Bancorp Inc : D.A. Davidson raises price target to $15 from $13
+Ford Motor,2017-12,* Robert Half International : BMO raises target to $58 from $53; market perform
+Ford Motor,2017-12,* Walker & Dunlop Inc : Compass Point raises target to $55 from $48; neutral
+Ford Motor,2017-12,"{{20171227T103213.007+0000}}UPDATE 2-China extends tax rebate for electric cars, hybridsBEIJING/SHANGHAI, Dec 27 (Reuters)"
+Ford Motor,2017-12,"BEIJING/SHANGHAI, Dec 27 (Reuters) - China will extend a tax rebate on purchases of so-called new-energy vehicles (NEV) until the end of 2020, a boost for hybrid and electric car makers amid a shift by policy-makers away from the traditional internal combustion engine."
+Ford Motor,2017-12,"The finance ministry said in a statement on Wednesday the tax exemption, which was set to expire at the end of this year, will run from Jan. 1, 2018 until Dec. 31, 2020 for electric, plug-in petrol-electric hybrid and fuel-cell powered vehicles."
+Ford Motor,2017-12,The extension comes as automakers in China brace to meet strict NEV quotas starting in 2019 that are sparking a flurry of electric car deals and new launches of electric and hybrid models.
+Ford Motor,2017-12,"Amid the shift, some global automakers have called on China to maintain financial support for the market, citing concerns consumer demand alone will not be sufficient to drive sales without state-backed incentive schemes to lure buyers."
+Ford Motor,2017-12,"The Ministry of Finance said the extension would help ""increase support for innovation and development in new energy vehicles"", an area where China is hoping it can catch up - and even overtake - more established global automaker rivals."
+Ford Motor,2017-12,"Local firms like NEV specialist BYD Co Ltd <002594.SZ> are now jostling with global names such as Ford Motor Co and Nissan Motor Co Ltd <7201.T> in the race to develop successful ""green"" vehicles for the Chinese market."
+Ford Motor,2017-12,"China's auto market, the world's largest, has slowed sharply this year, but new-energy vehicles has been a bright spot. NEV sales in January-November jumped 51.4 percent and are on track to hit a target of 700,000 NEV sales this year. [nL4N1OE1G8]"
+Ford Motor,2017-12,Dec 22 (Reuters) - Ford Motor Co chief executive Jim Hackett has apologized to employees for accusations detailed in a New York Times report that management at two Chicago plants did not respond adequately to complaints of sexual harassment.
+Ford Motor,2017-12,"Several prominent men in U.S. politics, entertainment and the media have been felled by allegations of sexual misconduct in recent months."
+Ford Motor,2017-12,"""I want to take this opportunity to say that I am sorry for any instance where a colleague was subjected to harassment or discriminatory conduct,"" Hackett wrote in the letter."
+Ford Motor,2017-12,Reuters has not independently confirmed the New York Times report.
+Ford Motor,2017-12,"Hackett, who took over the top job at Ford in May, said there was zero tolerance for harassment and promised no retaliation against anyone who speaks up."
+Ford Motor,2017-12,Dec 22 (Reuters) - The following are the top stories on the New York Times business pages. Reuters has not verified these stories and does not vouch for their accuracy.
+Ford Motor,2017-12,"{{20171222T021643.000+0000}}UPDATE 1-Some U.S. automakers go slow on automatic emergency braking systemsWASHINGTON, Dec 21 (Reuters)"
+Ford Motor,2017-12,"WASHINGTON, Dec 21 (Reuters) - U.S. automakers installed automatic emergency braking technology that experts said could prevent thousands of deaths and injuries in just 19 percent of new vehicles sold in the 2017 model year, regulators and safety advocates said on Thursday."
+Ford Motor,2017-12,"Last year, 20 automakers struck a voluntary agreement with the U.S. National Highway Traffic Safety Administration (NHTSA) to make collision-avoiding braking systems standard equipment on nearly all light vehicles by September 2022, representing 99 percent of all U.S. vehicle sales."
+Ford Motor,2017-12,"The push comes as U.S. traffic deaths jumped 5.6 percent in 2016 to a decade-high 37,461, and pedestrian deaths rose 9 percent to 5,987, the highest number since 1990. By 2025, standard automatic braking systems could prevent 28,000 crashes and 12,000 injuries, the Insurance Institute for Highway Safety estimated."
+Ford Motor,2017-12,"Automatic braking systems, which activate brakes when the technology senses objects ahead and the driver does not slow down, require more sensors and software than conventional brakes and add to vehicle costs. Automakers say they need time to engineer the systems that use radar or cameras into vehicles as part of more comprehensive makeovers."
+Ford Motor,2017-12,"Luxury automakers have been quick to install the systems, while others have lagged."
+Ford Motor,2017-12,"Tesla Inc and Daimler AG's Mercedes-Benz unit have installed the technology on virtually all vehicles sold, according to figures released by NHTSA."
+Ford Motor,2017-12,"Toyota Motor Corp <7203.T> has the largest number of 2017 model vehicles with automatic emergency braking, equipping 56 percent of its fleet, or 1.4 million vehicles."
+Ford Motor,2017-12,"Volkswagen AG's VW brand has it in 36 percent of vehicles, while its Audi unit has it in 73 percent of vehicles. Its Porsche unit did not install the technology on any 2017 vehicles. Subaru Corp <7270.T> has the technology in nearly all vehicles sold."
+Ford Motor,2017-12,"General Motors Co installed the technology on 20 percent of vehicles sold, while Fiat Chrysler Automobiles NV has it in 6 percent and Ford Motor Co just 2 percent - the lowest of any major automaker. Jaguar Land Rover, owned by India's Tata Motors did not install the technology on any 2017 vehicles."
+Ford Motor,2017-12,"GM said it continues to expand availability of automatic emergency braking, and about two thirds of its U.S. models offer the system."
+Ford Motor,2017-12,"Ford spokeswoman Elizabeth Weigandt said the automaker offers automatic emergency braking on a number of vehicles and has ""a plan to standardize over time."""
+Ford Motor,2017-12,"Fiat Chrysler backs the 2022 commitment, and a spokesman said it is offering automatic emergency braking on a growing number of vehicles."
+Ford Motor,2017-12,"Jason Levine, executive director of the Center for Auto Safety, said automakers are ""playing roulette with the lives of consumers who cannot afford safety as a luxury."" He said NHTSA must write mandatory regulations, not rely on a voluntary agreement."
+Ford Motor,2017-12,"{{20171221T225245.950+0000}}Some U.S. automakers go slow on automatic emergency braking systemsWASHINGTON, Dec 21 (Reuters)"
+Ford Motor,2017-12,"WASHINGTON, Dec 21 (Reuters) - U.S. automakers installed automatic emergency braking technology that experts said could prevent thousands of deaths and injuries in just 19 percent of new vehicles sold in the 2017 model year, regulators and safety advocates said on Thursday."
+Ford Motor,2017-12,"Last year, 20 automakers struck a voluntary agreement with the U.S. National Highway Traffic Safety Administration (NHTSA) to make collision-avoiding braking systems standard equipment on nearly all light vehicles by September 2022."
+Ford Motor,2017-12,"The push comes as U.S. traffic deaths jumped 5.6 percent in 2016 to a decade-high 37,461, and pedestrian deaths rose 9 percent to 5,987, the highest number since 1990. By 2025, standard automatic braking systems could prevent 28,000 crashes and 12,000 injuries, the Insurance Institute for Highway Safety estimated."
+Ford Motor,2017-12,"Automatic braking systems, which activate brakes when the technology senses objects ahead and the driver does not slow down, require more sensors and software than conventional brakes and add to vehicle costs. Automakers say they need time to engineer the systems into vehicles as part of more comprehensive makeovers."
+Ford Motor,2017-12,"Luxury automakers have been quick to install the systems, while others have lagged."
+Ford Motor,2017-12,"Tesla Inc and Daimler AG's Mercedes-Benz unit have installed it on virtually all vehicles sold, according to figures released by NHTSA."
+Ford Motor,2017-12,"Toyota Motor Corp <7203.T> has the largest number of 2017 model vehicles with automatic emergency braking, equipping 56 percent of its fleet, or 1.4 million vehicles."
+Ford Motor,2017-12,"Volkswagen AG's VW brand has it in 36 percent of vehicles, while its Audi unit has it in 73 percent of vehicles. Subaru Corp <7270.T> has the technology in nearly all vehicles sold."
+Ford Motor,2017-12,"General Motors Co installed the technology on 20 percent of vehicles sold, while Fiat Chrysler Automobiles NV has it in 6 percent and Ford Motor Co just 2 percent -- the lowest of any major automaker."
+Ford Motor,2017-12,"GM said it continues to expand availability of automatic emergency braking, and about two thirds of its U.S. models offer the system."
+Ford Motor,2017-12,"Ford spokeswoman Elizabeth Weigandt said the automaker offers automatic emergency braking on a number of vehicles and has ""a plan to standardize over time."""
+Ford Motor,2017-12,"Fiat Chrysler backs the 2022 commitment and a spokesman said it offers forward collision warning systems, which alert drivers to objects or vehicles in front of them but do no activate the brakes, on a number of vehicles."
+Ford Motor,2017-12,"Jason Levine, executive director of the Center for Auto Safety, said automakers are ""playing roulette with the lives of consumers who cannot afford safety as a luxury."" He said NHTSA must write mandatory regulations, not rely on a voluntary agreement."
+Ford Motor,2017-12,"{{20171220T210834.942+0000}}UPDATE 1-United Auto Workers head says U.S. training center probe is limitedDETROIT, Dec 20 (Reuters)"
+Ford Motor,2017-12,"DETROIT, Dec 20 (Reuters) - The United Auto Workers is cooperating with a government investigation into allegations of embezzlement by union officials at training centers funded by U.S. automakers, the union's president said on Wednesday."
+Ford Motor,2017-12,"The probe was limited to a small group of people and would not affect remaining leadership, UAW President Dennis Williams said. He said the union is conducting its own investigation, led by outside attorneys and UAW general counsel Niraj Ganatra."
+Ford Motor,2017-12,"""I don't see no reason to have no cloud over anybody at this point,"" Williams told reporters at the union's Detroit headquarters. ""We have spent the last several months under a magnifying glass, and rightly so."""
+Ford Motor,2017-12,"In July, federal prosecutors accused a former Fiat Chrysler Automobiles NV vice president of making $1.2 million in improper payments to a former union vice president and his wife. Four people have been charged in the Fiat Chrysler probe.[nL1N1KH2IE]"
+Ford Motor,2017-12,"In November, General Motors Co and Ford Motor Co said they were cooperating with the U.S. Department of Justice investigation."
+Ford Motor,2017-12,"The UAW is preparing for an election next June to replace Williams. Top union officials have nominated Gary Jones, a UAW regional director, as president. [nL1N1O02JU]"
+Ford Motor,2017-12,Williams said he did not expect a backlash from rank-and-file members.
+Ford Motor,2017-12,"""I feel very comfortable that our standing with the membership is the same,"" he said."
+Ford Motor,2017-12,"He expressed dissatisfaction with Ford over its decision to shift production of a future battery electric vehicle to Mexico to make room for self-driving vehicles at the company's Flat Rock, Michigan, plant."
+Ford Motor,2017-12,A Ford spokesman said the company remains the top producer of U.S. vehicles and has more hourly U.S. workers than any other automaker.
+Ford Motor,2017-12,The UAW has struggled to organize automakers and suppliers this year.
+Ford Motor,2017-12,Workers at a Fuyao Glass Industry Group Co Ltd <600660.SS> plant in southwestern Ohio voted heavily against union representation last month. The UAW also lost a bitterly contested vote at a Nissan Motor Co Ltd <7201.T> plant in Mississippi in August.[nL1N1NG04X] [nL1N1KR04I]
+Ford Motor,2017-12,"Last week, the National Labor Relations Board voted to make it harder to organize so-called micro unions made up of small groups of a company's employees, posing a fresh challenge. [L1N1OG0A6]"
+Ford Motor,2017-12,"Volkswagen AG is contesting the NLRB's recognition of a vote for UAW representation by roughly 160 skilled workers at its Chattanooga, Tennessee, plant. [nL1N1IE23F]"
+Ford Motor,2017-12,"Williams said that if the NLRB moved against the VW micro union, ""we may have to go back to striking to get recognition."""
+Ford Motor,2017-12,"{{20171220T210423.378+0000}}CORRECTED-UAW head does not see more charges in U.S. training center probeDETROIT, Dec 20 (Reuters)"
+Ford Motor,2017-12,"DETROIT, Dec 20 (Reuters) - The United Auto Workers is cooperating with a Justice Department probe into alleged misspending by union officials at training centers funded by U.S. automakers, the union's president said on Wednesday, saying that he did not expect any more charges stemming from the probe."
+Ford Motor,2017-12,"""I don't see no reason to have no cloud over anybody at this point,"" UAW President Dennis Williams told reporters at the union's Detroit headquarters. ""We have spent the last several months under a magnifying glass, and rightly so."""
+Ford Motor,2017-12,In July federal prosecutors accused a former Fiat Chrysler Automobiles NV vice president of making $1.2 million in improper payments to a former union vice president and his wife. Four people have been charged in the Fiat Chrysler probe.[nL1N1KH2IE]
+Ford Motor,2017-12,"In November, General Motors Co and Ford Motor Co said they were cooperating with the Justice Department probe."
+Ford Motor,2017-12,"Williams said the union is conducting its own investigation, led by outside attorneys and UAW general counsel Niraj Ganatra."
+Ford Motor,2017-12,"The UAW is readying for a leadership election next June to replace Williams. Top union officials have nominated Gary Jones, a UAW regional director, as president. [nL1N1O02JU]"
+Ford Motor,2017-12,Williams said he did not expect a backlash from rank-and-file members.
+Ford Motor,2017-12,"""I feel very comfortable that our standing with the membership is the same,"" he said."
+Ford Motor,2017-12,"He expressed dissatisfaction with Ford over a recent decision to shift production of a future battery electric vehicle to Mexico to make room for self-driving vehicles at the company's Flat Rock, Michigan, plant."
+Ford Motor,2017-12,"""I'm not happy with Ford, with their decision,"" he said. ""I think that we're missing a huge opportunity in this country."""
+Ford Motor,2017-12,The UAW has struggled to organize automakers and suppliers this year.
+Ford Motor,2017-12,Workers at a Fuyao Glass Industry Group Co Ltd <600660.SS> plant in southwestern Ohio voted heavily against union representation last month. The UAW also lost a bitterly contested vote at a Nissan Motor Co Ltd <7201.T> plant in Mississippi in August.[nL1N1NG04X] [nL1N1KR04I]
+Ford Motor,2017-12,"Last week the National Labor Relations Board voted to make it harder to organize so-called micro unions made up of small groups of a company's employees, posing a fresh challenge. [L1N1OG0A6]"
+Ford Motor,2017-12,"The UAW is engaged in a lengthy battle with Volkswagen AG over the NLRB's recognition of a vote by roughly 160 skilled workers at the automakers Chattanooga, Tennessee, plant for UAW representation. [nL1N1IE23F]"
+Ford Motor,2017-12,"If the NLRB moved against the VW micro union, ""this is about not having the unions,"" Williams said."
+Ford Motor,2017-12,"""That rises to a different level of how we feel about the NLRB,"" he said. ""Because we may have to go back to striking to get recognition if that's how they're gonna act."
+Ford Motor,2017-12,"""We'll shut down these companies we're organizing,"" he added."
+Ford Motor,2017-12,"{{20171216T001312.000+0000}}Republican tax bill retains U.S. electric vehicle tax creditWASHINGTON, Dec 15 (Reuters)"
+Ford Motor,2017-12,"WASHINGTON, Dec 15 (Reuters) - A compromise Republican tax bill released late Friday does not eliminate a $7,500 electric vehicle tax credit as Republicans in the U.S. House of Representatives had previously proposed."
+Ford Motor,2017-12,"The measure follows the lead of the Senate version approved last month that did not eliminate the credit. Killing the credit could have hurt automakers like General Motors Co , Volkswagen AG , Tesla Inc and Nissan Motor Co <7201.T>."
+Ford Motor,2017-12,"Consumers under current law are eligible for a $7,500 tax credit to defray the cost of plug-in electric vehicles. The electric vehicle tax credit starts to phase out after a manufacturer sells 200,000 plug-in vehicles. After an automaker hits that point, the $7,500 tax credit is still available for at least three more months before phasing out."
+Ford Motor,2017-12,"Consumers are currently allowed to take the credit on vehicles until the manufacturer hits 200,000 plug-in vehicles sold. Electric vehicles have expensive batteries that make them pricier than gasoline-powered vehicles."
+Ford Motor,2017-12,"The Electric Drive Transportation Association said in a statement late Friday it was pleased the credit would remain in law. ""The credit supports innovation and job creation while helping drivers access advanced vehicle technology,"" the group said."
+Ford Motor,2017-12,"More than 50 automakers and other companies and groups released a letter earlier this week urging Congress to retain the credit, including Ford Motor Co , BMW AG , GM, Uber Technologies Inc [UBER.UL]."
+Ford Motor,2017-12,"Former President Barack Obama repeatedly proposed hiking the tax credit for electric vehicles to $10,000 and converting it to a point-of-sale rebate, but Congress did not approve the measure."
+Ford Motor,2017-12,Automakers face mandates from California and a dozen other states to produce a rising number of zero-emission vehicles and have said the credits are essential to meeting requirements.
+Ford Motor,2017-12,PRESS DIGEST- New York Times business news - Dec 15 - Reuters News
+Ford Motor,2017-12,Dec 15 (Reuters) - The following are the top stories on the New York Times business pages. Reuters has not verified these stories and does not vouch for their accuracy.
+Ford Motor,2017-12,"{{20171215T004936.255+0000}}UPDATE 1-More efficient SUVs a factor in product strategy - Ford CEODETROIT, Dec 14 (Reuters)"
+Ford Motor,2017-12,"DETROIT, Dec 14 (Reuters) - Ford Chief Executive Jim Hackett said on Thursday the automaker is reviewing its product portfolio as consumers show a preference for sport utility vehicles that have fuel efficiencies closer to sedans."
+Ford Motor,2017-12,"Hackett, at a Ford event in Detroit, said that in the past SUVs were not fuel efficient, but ""we're starting to crack that code""."
+Ford Motor,2017-12,"The automaker is conducting an annual review of its product portfolio against that backdrop, he said, but did not address specifics."
+Ford Motor,2017-12,"Ford has signaled a plan to stop producing mid-size Fusion sedans for North America at a plant in Mexico, people familiar with Ford's communications with suppliers told Reuters on Wednesday."
+Ford Motor,2017-12,Ford had previously announced plans to shift production of its Focus cars to China from Mexico.
+Ford Motor,2017-12,"Separately, Ford also said on Thursday it would relocate its autonomous and electric vehicle units to Detroit from Dearborn, Michigan."
+Ford Motor,2017-12,"""The relocation brings together Ford teams that are creating new business models in a resurgent, diverse neighborhood with industrial roots"", Ford said."
+Ford Motor,2017-12,The company said the new facility located in the Corktown neighborhood would be up and running early next year.
+Ford Motor,2017-12,"The team in Corktown will be led by Sherif Marakby, Ford's vice president of autonomous vehicles and electrification. The company will begin testing its latest self-driving vehicle technology next year."
+Ford Motor,2017-12,Ford CEO Says Product Portfolio Under Review - Reuters Investor Briefs
+Ford Motor,2017-12,"Dec 14 (Reuters) - Ford Motor Co said on Thursday it would relocate its autonomous and electric vehicle units to Detroit from Dearborn, Michigan."
+Ford Motor,2017-12,"""The relocation brings together Ford teams that are creating new business models in a resurgent, diverse neighborhood with industrial roots"", Ford said."
+Ford Motor,2017-12,The company said the new facility located in the Corktown neighborhood would be up and running early next year.
+Ford Motor,2017-12,"The team in Corktown will be led by Sherif Marakby, Ford's vice president of autonomous vehicles and electrification. The company will begin testing its latest self-driving vehicle technology next year."
+Ford Motor,2017-12,"Ford told suppliers it plans to shift production of mid-size Fusion and Mondeo sedans out of Mexico and Spain in 2020 and move it to China, Reuters reported earlier in December citing sources."
+Ford Motor,2017-12,"{{20171214T070719.373+0000}}PSA, Toyota lead European car sales gain, helped by extra selling dayBERLIN, Dec 14 (Reuters)"
+Ford Motor,2017-12,"BERLIN, Dec 14 (Reuters) - European car sales rose 5.8 percent in November, helped by an extra selling day as PSA Group and Toyota <7203.T> posted the strongest gains among the region's major automakers, industry data published on Thursday showed."
+Ford Motor,2017-12,"Registrations rose to 1.26 million cars last month in the European Union (EU) and European Free Trade Association (EFTA) countries, Brussels-based industry body ACEA said, from 1.19 million a year earlier. Eleven-months sales were up 4 percent to 14.5 million autos."
+Ford Motor,2017-12,"Sales by France's PSA soared 83 percent from November 2016 to 200,211 cars as registrations of the newly acquired Opel-Vauxhall division were not included in year-earlier records, while Toyota was up 12 percent at 57,355 cars."
+Ford Motor,2017-12,"French rival Renault grew 10 percent to 139,335 vehicles whereas Fiat Chrysler slipped 1 percent to 74,568 cars, weighed down by declines of over 20 percent each at its Jeep and Alfa Romeo brands."
+Ford Motor,2017-12,"Volkswagen , Europe's biggest automotive group reported a 5 percent increase to 310,647 cars with premium nameplates Audi and Porsche as well as mass-market brands Seat and Skoda all posting growth."
+Ford Motor,2017-12,"Of Europe's five biggest auto markets, Germany, France and Spain posted double-digit or close to double-digit advances, outweighing an 11 percent plunge in the No. 2 market Britain where weaker consumer confidence and uncertainty over the future of diesel have been hurting demand."
+Ford Motor,2017-12,{{20171214T035131.257+0000}}GM says former UAW Vice President Joe Ashton to resign from boardDec 13 (Reuters)
+Ford Motor,2017-12,"Dec 13 (Reuters) - General Motors Co said on Wednesday Joseph Ashton, a former United Auto Workers vice president who led the union's GM department, has resigned from the company's board."
+Ford Motor,2017-12,"The trust can nominate a replacement for Ashton, but shareholders won't vote on the trust's nominee until the company's next annual meeting in the spring, a GM spokesman said."
+Ford Motor,2017-12,"The U.S. Justice Department is looking into the use of money at UAW managed training centers funded by GM and Ford Motor Co , and into charities established by senior UAW officers. [nL2N1N8232]"
+Ford Motor,2017-12,General Motors and Ford said last month they were cooperating with the investigation into the finances of training centers.
+Ford Motor,2017-12,"GM is conducting its own investigation of the UAW-GM Center for Human Resources, the company spokesman said, but did not provide details of that investigation."
+Ford Motor,2017-12,"Ashton has not been charged with any wrongdoing, and federal authorities have not disclosed that he is under scrutiny as part of their probe."
+Ford Motor,2017-12,Federal officials expanded their probe of the UAW training centers after charging a former Fiat Chrysler Automobiles NV vice president of making $1.2 million in improper payments to a former union vice president and his wife. Four people have been charged in the Fiat Chrysler investigation.
+Ford Motor,2017-12,{{20171213T220647.191+0000}}UPDATE 1-Ford to shift midsize sedan production out of Mexico -sourcesDec 13 (Reuters)
+Ford Motor,2017-12,"Dec 13 (Reuters) - Ford Motor Co has told suppliers it plans to shift production of midsize Fusion and Mondeo sedans out of Mexico and Spain in 2020 and move it to China, three sources said on Wednesday."
+Ford Motor,2017-12,The automaker said it will not ship those cars from China to the United States and Europe.
+Ford Motor,2017-12,"Ford did not address the future of the plants in Hermosillo, Mexico and Valencia, Spain that currently build midsize sedans for the North American and European markets, respectively."
+Ford Motor,2017-12,Ford said last month it would invest more than 750 million euros ($887 million) in Valencia to produce a new generation of its Kuga sport utility vehicle.
+Ford Motor,2017-12,"Recent Ford documents shared with suppliers show the automaker plans to shift some Focus and Mondeo production to China, and no longer list Hermosillo and Valencia as production sites, according to sources familiar with the company's plans."
+Ford Motor,2017-12,"Ford said in a statement ""we have no plans to export the next-generation Fusion/Mondeo from China to North America and Europe. Fusion/Mondeo are an important part of the Ford car lineup. We will have more information to share about the next Fusion/Mondeo at a later date."""
+Ford Motor,2017-12,"Ford Chief Executive Officer Jim Hackett has taken a series of steps to cut the automaker's production costs, and shift the company's product lineup away from sedans toward sport utility and crossover vehicles, especially in North America."
+Ford Motor,2017-12,"Fusion sales in the United States are down 22 percent this year, while Mondeo sales in Europe are down 21 percent."
+Ford Motor,2017-12,Ford in June said it would shift some production of its Focus small car from Mexico to China and import the vehicles to the United States. [nL1N1JH0GP]
+Ford Motor,2017-12,Ford's latest moves come as U.S. President Donald Trump has said he wants to significantly revamp or possibly exit the North American Free Trade Agreement that allows tariff-free shipments of vehicles to the United States from Mexico.
+Ford Motor,2017-12,"Last week, Ford said it plans to relocate production of a future battery electric vehicle to Cuatitlan, Mexico in 2020 to free up capacity at its Flat Rock, Michigan, plant to build self-driving vehicles in 2021. [nL1N1O715Y]"
+Ford Motor,2017-12,{{20171213T214525.000+0000}}UPDATE 1-Ford to shift midsize sedan production out of Mexico -sourcesDec 13 (Reuters)
+Ford Motor,2017-12,"Dec 13 (Reuters) - Ford Motor Co has told suppliers it plans to shift production of midsize Fusion and Mondeo sedans out of Mexico and Spain in 2020 and move it to China, three sources said on Wednesday."
+Ford Motor,2017-12,The automaker said it will not ship those cars from China to the United States and Europe.
+Ford Motor,2017-12,"Ford did not address the future of the plants in Hermosillo, Mexico and Valencia, Spain that currently build midsize sedans for the North American and European markets, respectively."
+Ford Motor,2017-12,Ford said last month it would invest more than 750 million euros ($887 million) in Valencia to produce a new generation of its Kuga sport utility vehicle.
+Ford Motor,2017-12,"Recent Ford documents shared with suppliers show the automaker plans to shift some Focus and Mondeo production to China, and no longer list Hermosillo and Valencia as production sites, according to sources familiar with the company's plans."
+Ford Motor,2017-12,"Ford said in a statement ""we have no plans to export the next-generation Fusion/Mondeo from China to North America and Europe. Fusion/Mondeo are an important part of the Ford car lineup. We will have more information to share about the next Fusion/Mondeo at a later date."""
+Ford Motor,2017-12,"Ford Chief Executive Officer Jim Hackett has taken a series of steps to cut the automaker's production costs, and shift the company's product lineup away from sedans toward sport utility and crossover vehicles, especially in North America."
+Ford Motor,2017-12,"Fusion sales in the United States are down 22 percent this year, while Mondeo sales in Europe are down 21 percent."
+Ford Motor,2017-12,Ford in June said it would shift some production of its Focus small car from Mexico to China and import the vehicles to the United States. [nL1N1JH0GP]
+Ford Motor,2017-12,Ford's latest moves come as U.S. President Donald Trump has said he wants to significantly revamp or possibly exit the North American Free Trade Agreement that allows tariff-free shipments of vehicles to the United States from Mexico.
+Ford Motor,2017-12,"Last week, Ford said it plans to relocate production of a future battery electric vehicle to Cuatitlan, Mexico in 2020 to free up capacity at its Flat Rock, Michigan, plant to build self-driving vehicles in 2021. [nL1N1O715Y]"
+Ford Motor,2017-12,"{{20171213T213320.980+0000}}CORRECTED-EXCLUSIVE-Ford to base Fusion production in China -sources(Corrects headline, first and eighth paragraphs to show that Ford does not plan to import China-made vehicles to United States)"
+Ford Motor,2017-12,"Dec 13 (Reuters) - Ford Motor Co plans to consolidate global production of midsize sedans in China in 2020, three sources said on Wednesday."
+Ford Motor,2017-12,"In North America, the Fusion sedan currently is built in Hermosillo, Mexico, while in Europe, the companion Mondeo sedan is built in Valencia, Spain."
+Ford Motor,2017-12,"Both models are expected to be redesigned in mid to late 2020, when Ford plans to shift their production to Chongqing, to a joint-venture plant operated with Ford's Chinese partner Changan Automobile Co <000625.SZ>, according to sources connected to Ford's component suppliers who are familiar with the automaker's future production plans."
+Ford Motor,2017-12,"The move is part of Chief Executive Officer Jim Hackett's ongoing effort to reduce inefficiency and trim costs, while shifting the company's emphasis away from sedans toward sport utility and crossover vehicles, especially in North America."
+Ford Motor,2017-12,Ford in June said it would shift some production of its Focus small car from Mexico to China and import the vehicles to the United States. [nL1N1JH0GP]
+Ford Motor,2017-12,Ford's latest moves could blunt U.S. President Donald Trump's threats to repeal or revamp the North American Free Trade Agreement.
+Ford Motor,2017-12,"As with the Focus move, the decision to build the Fusion in China also signals a shift in strategy at Ford, which is responding to dwindling U.S. consumer demand for passenger cars in favor of more expensive and more profitable trucks and SUVs."
+Ford Motor,2017-12,"Last week, Ford said it plans to relocate production of a future battery electric vehicle to Cuatitlan, Mexico in 2020 to free up capacity at its Flat Rock, Michigan, plant to build self-driving vehicles in 2021. [nL1N1O715Y]"
+Ford Motor,2017-12,{{20171212T032222.851+0000}}CORRECTED-MEDIA-Ford India to hike prices by up to 4 pct from Jan - PTI in Business Line(Corrects to add source PTI in headline)
+Ford Motor,2017-12,Note: Reuters has not verified this story and does not vouch for its accuracy
+Ford Motor,2017-12,"{{20171211T064529.849+0000}}Ford's November China vehicle sales drop 8 pct y/yDec 11 (Reuters) - Ford Motor Co's sales in China fell 8 percent in November from a year ago, following a 5 percent decline in October, the U.S. automaker said on Monday."
+Ford Motor,2017-12,"The firm's sales in the first 11 months of the year totaled 1.06 million vehicles, down 6 percent from the same period a year ago."
+Ford Motor,2017-12,"Ford's China sales growth has lagged behind rivals in the world's top auto market this year, with the carmaker now looking to overhaul its strategy to revive growth in China under new chief executive Jim Hackett."
+Ford Motor,2017-12,"Among other moves, the review of its China operations will likely see Ford focus on segments such as electric cars and electric commercial vans, with China encouraging to help clean up its polluted and congested city centers."
+Ford Motor,2017-12,Ford is looking to roll out more new-energy vehicles for China and is planning to experiment with a more direct selling approach in a partnership with Chinese e-commerce giant Alibaba Group Holding Ltd. [nL3N1O52O7] [nL3N1O72T7]
+Ford Motor,2017-12,{{20171208T055119.447+0000}}PRESS DIGEST-New York Times business news - Dec 8Dec 8 (Reuters) - The following are the top stories on the New York Times business pages. Reuters has not verified these stories and does not vouch for their accuracy.
+Ford Motor,2017-12,{{20171208T000045.867+0000}}UPDATE 1-Morgan Stanley fires former U.S. lawmaker for misconduct(Adds statement from Ford)
+Ford Motor,2017-12,"NEW YORK, Dec 7 (Reuters) - Morgan Stanley fired former U.S. Democratic lawmaker Harold Ford, Jr., a managing director at the Wall Street bank, for inappropriate conduct related to an undisclosed event, a spokeswoman said on Thursday."
+Ford Motor,2017-12,"Ford, a frequent guest on news and finance TV shows and a five term congressman from Tennessee's 9th district, denied wrongdoing in a statement emailed to Reuters by Ford's lawyer."
+Ford Motor,2017-12,"""This simply did not happen,"" Ford, who has worked at Morgan Stanley as a managing director since 2011, said in a statement. He also said in the statement that he ""never forcibly grabbed any woman or man in my life."""
+Ford Motor,2017-12,"Ford's lawyer, John Singer, said the firm has not explained the reason for Ford's termination. The Huffington Post reported news of Ford's departure earlier on Thursday, citing interviews with an unnamed woman who claimed Ford harassed her on a night several years ago."
+Ford Motor,2017-12,"Morgan Stanley spokeswoman Margaret Draper said Ford was let go for ""conduct inconsistent with our values and in violation of our policies."""
+Ford Motor,2017-12,The entertainment and media industries and Congress have grappled with how to address a string of harassment allegations against prominent men.
+Ford Motor,2017-12,Democratic Senator Al Franken resigned on Thursday after a series of sexual misconduct allegations against him. [nL1N1O70XG]
+Ford Motor,2017-12,"{{20171207T181942.568+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Lululemon, LendingClub, Sears Holdings, Sage Therapeutics* Eikon search string for individual stock moves: [STXBZ]"
+Ford Motor,2017-12,U.S. stocks edged higher in early afternoon trading on Thursday as popular
+Ford Motor,2017-12,technology stocks gained a firm footing after a bout of selloff and industrial
+Ford Motor,2017-12,"At 13:05 ET, the Dow Jones Industrial Average <.DJI> was up 0.42 percent at"
+Ford Motor,2017-12,BUZZ-Argan Inc: Worst day in over 11 years on lower profit [nL3N1O74OO]
+Ford Motor,2017-12,BUZZ-National Storage Affiliates: Acquisitive REIT slips on stock offering
+Ford Motor,2017-12,BUZZ-Ctrip.Com International Ltd: JP Morgan downgrades to 'neutral'
+Ford Motor,2017-12,BUZZ-Walt Disney Co: CEO Iger may extend tenure if Fox deal happens
+Ford Motor,2017-12,"BUZZ-Tailored Brands fits well with analysts, two brokerages raise PT"
+Ford Motor,2017-12,BUZZ-Sears Holdings: Investor asks co to consider going private [nL3N1O743R]
+Ford Motor,2017-12,BUZZ-Recent pullback in Lam Research an 'early Christmas gift' -Instinet
+Ford Motor,2017-12,BUZZ- Alibaba signs deal with Ford to explore new retail opportunities
+Ford Motor,2017-12,"UPDATE 1-Alibaba, Ford to cooperate in search for new retail opportunities"
+Ford Motor,2017-12,BUZZ-Sage Therapeutics: Set for record high after depression drug succeeds in
+Ford Motor,2017-12,BUZZ-AK Steel: JP Morgan upgrades on Vietnam circumvention decision
+Ford Motor,2017-12,BUZZ-Dollar General: Set to hit highest in a year at open [nL3N1O7412]
+Ford Motor,2017-12,BUZZ-Fibrocell Science: Set to open at record low on stock offering
+Ford Motor,2017-12,"UPDATE 1-General Electric to cut 12,000 jobs in power business revamp"
+Ford Motor,2017-12,"{{20171207T164109.760+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Broadcom, Sears Holdings, Dollar General, Sage Therapeutics, General Electric, Shake Shack, Lululemon* Eikon search string for individual stock moves: [STXBZ]"
+Ford Motor,2017-12,The three major U.S. indexes rose in late morning trading on Thursday with
+Ford Motor,2017-12,"stocks of technology companies leading the pack, followed by industrials. [.N]"
+Ford Motor,2017-12,"At 11:12 ET, the Dow Jones Industrial Average <.DJI> was up 0.08 percent at"
+Ford Motor,2017-12,BUZZ-At Home Group: Rebounds after downsized secondary stock offering
+Ford Motor,2017-12,"UPDATE 1-General Electric to cut 12,000 jobs in power business revamp"
+Ford Motor,2017-12,"BUZZ-General Electric: Up marginally on plans to cut 12,000 jobs [nL1N1O713Q]"
+Ford Motor,2017-12,BUZZ-Sage Therapeutics: Set for record high after depression drug succeeds in
+Ford Motor,2017-12,BUZZ-National Storage Affiliates: Acquisitive REIT slips on stock offering
+Ford Motor,2017-12,BUZZ-Ctrip.Com International Ltd: JP Morgan downgrades to 'neutral'
+Ford Motor,2017-12,BUZZ-Walt Disney Co: CEO Iger may extend tenure if Fox deal happens
+Ford Motor,2017-12,"BUZZ-Tailored Brands fits well with analysts, two brokerages raise PT"
+Ford Motor,2017-12,BUZZ-Sears Holdings: Investor asks co to consider going private [nL3N1O743R]
+Ford Motor,2017-12,BUZZ-Recent pullback in Lam Research an 'early Christmas gift' -Instinet
+Ford Motor,2017-12,BUZZ- Alibaba signs deal with Ford to explore new retail opportunities
+Ford Motor,2017-12,"UPDATE 1-Alibaba, Ford to cooperate in search for new retail opportunities"
+Ford Motor,2017-12,BUZZ-AK Steel: JP Morgan upgrades on Vietnam circumvention decision
+Ford Motor,2017-12,BUZZ-Dollar General: Set to hit highest in a year at open [nL3N1O7412]
+Ford Motor,2017-12,BUZZ-Fibrocell Science: Set to open at record low on stock offering
+Ford Motor,2017-12,{{20171207T161937.094+0000}}Ford to test new self-driving vehicle technology in 2018By Paul Lienert
+Ford Motor,2017-12,"DETROIT, Dec 7 (Reuters) - Ford Motor Co will begin testing its latest self-driving vehicle technology next year in at least one city but has not changed its plan to begin commercial production until 2021, the company said."
+Ford Motor,2017-12,"The automaker said on Thursday that it would test self-driving prototypes in various pilot programs with partners such as Lyft, the ride services company in which rival General Motors Co owns a minority stake, and Domino's Pizza Inc . However, Ford has still not decided whether to operate its own on-demand transportation service."
+Ford Motor,2017-12,"In a blog post, Jim Farley, president of global markets, said Ford also would test new business models that involve its self-driving vehicles, including the movement of people and goods."
+Ford Motor,2017-12,"GM unveiled plans last week to introduce its own on-demand ride-sharing service in several U.S. cities in 2019, using self-driving versions of the battery-powered Chevrolet Bolt. [nL1N1O01UD]"
+Ford Motor,2017-12,"Ford is shifting production of a future battery electric vehicle to Mexico to free up capacity at its Flat Rock, Michigan, plant to build the self-driving vehicles in 2021, according to spokesman Alan Hall."
+Ford Motor,2017-12,"The electric vehicle, whose more-advanced battery system will enable a driving range of more than 300 miles, will go into production in 2020 at Ford's Cuatitlan plant, which suppliers say will also build a new hybrid crossover vehicle around the same time."
+Ford Motor,2017-12,"At the Flat Rock plant, Ford is boosting investment to $900 million from $700 million and adding 850 jobs."
+Ford Motor,2017-12,Both the 2020 electric and the 2021 self-driving vehicles will draw on the next-generation Ford Focus for some of their underbody structure and components while using different propulsion systems.
+Ford Motor,2017-12,"Unlike the full electric vehicle from Cuatitlan, the self-driving vehicle from Flat Rock will use a hybrid system with a gasoline engine and an electric motor, Hall said."
+Ford Motor,2017-12,"{{20171207T150505.574+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Sage Therapeutics, Priceline, Yelp, Fibrocell Science, AK Steel, Broadcom, Shake Shack* Eikon search string for individual stock moves: [STXBZ]"
+Ford Motor,2017-12,"Gains in technology stocks helped lift the Nasdaq on Thursday, while the S&P 500"
+Ford Motor,2017-12,and the Dow were weighed down by losses in consumer stocks. [.N]
+Ford Motor,2017-12,"At 9:49 ET, the Dow Jones Industrial Average <.DJI> was up 0.17 percent at"
+Ford Motor,2017-12,BUZZ-Sage Therapeutics: Set for record high after depression drug succeeds in
+Ford Motor,2017-12,BUZZ-National Storage Affiliates: Acquisitive REIT slips on stock offering
+Ford Motor,2017-12,BUZZ-Ctrip.Com International Ltd: JP Morgan downgrades to 'neutral'
+Ford Motor,2017-12,BUZZ-Walt Disney Co: CEO Iger may extend tenure if Fox deal happens
+Ford Motor,2017-12,"BUZZ-Tailored Brands fits well with analysts, two brokerages raise PT"
+Ford Motor,2017-12,BUZZ-Sears Holdings: Investor asks co to consider going private [nL3N1O743R]
+Ford Motor,2017-12,BUZZ-Recent pullback in Lam Research an 'early Christmas gift' -Instinet
+Ford Motor,2017-12,BUZZ- Alibaba signs deal with Ford to explore new retail opportunities
+Ford Motor,2017-12,"UPDATE 1-Alibaba, Ford to cooperate in search for new retail opportunities"
+Ford Motor,2017-12,BUZZ-AK Steel: JP Morgan upgrades on Vietnam circumvention decision
+Ford Motor,2017-12,BUZZ-Dollar General: Set to hit highest in a year at open [nL3N1O7412]
+Ford Motor,2017-12,BUZZ-Fibrocell Science: Set to open at record low on stock offering
+Ford Motor,2017-12,"{{20171207T140233.605+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Tailored Brands, Sage Therapeutics, AK Steel, Lululemon, Broadcom, Fibrocell* Eikon search string for individual stock moves: [STXBZ]"
+Ford Motor,2017-12,"The S&P 500 and the Dow looked set for a softer opening on Thursday, while gains in chipmaker Broadcom and apparel Lululemon are likely to power the Nasdaq to a higher start. [.N] [.N/P]"
+Ford Motor,2017-12,"{{20171207T122645.485+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Tailored Brands, Lululemon Athletica, Sage Therapeutics, Broadcom, Bill Barrett, Shake Shack* Eikon search string for individual stock moves: [STXBZ]"
+Ford Motor,2017-12,U.S. stock futures pointed to a dull opening on Thursday with technology stocks holding on to their modest gains as traders focus on progress in tax bill negotiations and General Electric's job-cut plan.[.N]
+Ford Motor,2017-12,{{20171207T102722.102+0000}}BUZZ- Alibaba signs deal with Ford to explore new retail opportunities ** Alibaba Group signs deal with Ford Motor Co which could involve the sale of Ford cars on Alibaba's online retail platform Tmall [nL3N1O72T7]
+Ford Motor,2017-12,** U.S.-listed shares of Chinese e-commerce giant up 1.6 pct at $175.4 premarket; Among most actively traded stocks of NYSE-listed companies
+Ford Motor,2017-12,"** Alibaba says agreement to initially ""explore a pilot study"" for new retail opportunities"
+Ford Motor,2017-12,"** Apart from retail, deal to also explore cooperation in areas such as cloud computing & connectivity"
+Ford Motor,2017-12,** BABA stock nearly doubled in value YTD while Ford stock rose 2 pct this year
+Ford Motor,2017-12,"{{20171207T085850.310+0000}}UPDATE 1-Alibaba, Ford to cooperate in search for new retail opportunities* Firms exploring selling Ford cars on Tmall -Alibaba spokeswoman"
+Ford Motor,2017-12,"(Adds Ford CEO comment, Ford China background, Alibaba automotive context)"
+Ford Motor,2017-12,"BEIJING/SHANGHAI, Dec 7 (Reuters) - Alibaba Group Holding Ltd has signed a deal with Ford Motor Co to explore cooperation in areas such as cloud computing, connectivity and retail which could involve the sale of Ford cars on Alibaba's online retail platform Tmall."
+Ford Motor,2017-12,Alibaba in a statement on Thursday said digital marketing-focused Alimama and operating system firm AliOS would be among subsidiaries working with Ford under the three-year agreement.
+Ford Motor,2017-12,"One avenue under consideration is the sale of Ford cars on Tmall, an Alibaba spokeswoman said. Reuters on Wednesday reported that Ford was planning to sign such a deal as it overhauls its China strategy to stimulate growth. [nL3N1O54R7]"
+Ford Motor,2017-12,"""The agreement aims to explore new ways to redefine how consumers purchase and own vehicles, as well as how to leverage digital channels to identify new retail opportunities,"" Alibaba said in its statement."
+Ford Motor,2017-12,"The Chinese e-commerce firm and U.S. automaker will initially ""explore a pilot study"" for new retail opportunities, Alibaba said."
+Ford Motor,2017-12,"Ford President and Chief Executive Officer Jim Hackett in the statement said collaborating with technology firms builds on its vision to make ""smart vehicles""."
+Ford Motor,2017-12,"Ford's China sales have been sluggish in recent months as it struggles to keep pace with rapidly changing trends, including increased demand for entry-level cars in smaller cities."
+Ford Motor,2017-12,"Meanwhile Alibaba is increasing its presence in the automotive sector with Banma Technologies, a partnership with SAIC Motor Corp Ltd <600104.SS> developing Internet-connected cars."
+Ford Motor,2017-12,"{{20171207T074936.802+0000}}Alibaba to cooperate with Ford Motor for new retail opportunitiesBEIJING, Dec 7 (Reuters) - China's e-commerce giant Alibaba said on Thursday it signed an agreement with Ford Motor on strategic cooperation to jointly explore areas such as connectivity, cloud computing and artificial intelligence."
+Ford Motor,2017-12,"""The agreement aims to explore new ways to redefine how consumers purchase and own vehicles, as well as how to leverage digital channels to identify new retail opportunities,"" Alibaba said in a press release."
+Ford Motor,2017-12,"The agreement between Alibaba and Ford is to ""explore a pilot study"" for new retail opportunities, it added."
+Ford Motor,2017-12,"{{20171206T153109.483+0000}}Russian watchdog informed about recall of 13,129 Ford Transit vehiclesMOSCOW, Dec 6 (Reuters) - Russia's technical safety watchdog Rosstandart said on Wednesday it had been informed by Ford's Russian venture about the voluntary recall of 13,129 Ford Transit vehicles produced between Oct. 23, 2014, and July 5, 2017."
+Ford Motor,2017-12,"The recall is due to a possible problem with the vehicles' seat belts, Rosstandart said in a statement on its website."
+Ford Motor,2017-12,"{{20171206T130048.586+0000}}Brazil auto production slips 0.3 pct in NovemberSAO PAULO, Dec 6 (Reuters) - Automobile production in Brazil slipped 0.3 percent and sales rose 0.7 percent in November from October, the national automakers' association said on Wednesday."
+Ford Motor,2017-12,"Automakers in Brazil produced about 249,100 new cars and trucks last month, while sales totaled around 204,200 vehicles, according to data released by industry group Anfavea. Compared to a year ago, auto output grew 15.2 percent and sales climbed 14.6 percent."
+Ford Motor,2017-12,"Brazil was one of the world's five biggest auto markets until a recent downturn and is still a major base of operations for Fiat Chrysler Automobiles NV , Volkswagen AG , General Motors Co and Ford Motor Co ."
+Ford Motor,2017-12,"{{20171206T101809.817+0000}}EXCLUSIVE-Ford set for China tie-up with Alibaba to test online, direct auto sales-sourceBy Norihiko Shirouzu"
+Ford Motor,2017-12,"BEIJING, Dec 6 (Reuters) - Ford Motor Co is expected to sign as early as Thursday a deal with Alibaba Group Holding Ltd which may allow the U.S. automaker to test selling cars to consumers in China through Alibaba's online retail arm Tmall, as well as via a new ""auto vending machine"" store concept, according to a Ford source familiar with the matter."
+Ford Motor,2017-12,"Representatives of Ford and Alibaba, including Ford Executive Chairman Bill Ford Jr. and Ford CEO Jim Hackett, are expected to be in Hangzhou on Thursday to sign a letter of intent that outlines the scope of the new partnership."
+Ford Motor,2017-12,"According to the source, who did not want to be named because he is not authorized to speak with reporters, the deal is intended to position the Dearborn, Michigan, automaker for an emerging Chinese marketplace where more cars could be sold online."
+Ford Motor,2017-12,The partnership would be part of Ford's effort to overhaul its China strategy to revive the growth momentum it has lost in recent months.
+Ford Motor,2017-12,"Ford's global chief spokesman Mark Truby said the company is expected to make an announcement on Thursday in Hangzhou, where Alibaba is based, but declined to comment in advance."
+Ford Motor,2017-12,The source said the proposal could mean that cars purchased online are delivered to buyers by franchised Ford retail stores and would be maintained and repaired by them.
+Ford Motor,2017-12,"According to Alibaba, consumers can use their phones to browse through the cars garaged in the store and choose to either immediately buy one or test drive it. The vehicle would be delivered to them on the ground floor."
+Ford Motor,2017-12,"The model allows shoppers with good credit to purchase their new ride with a 10 percent down payment and then make monthly payments for the car purchase through Alibaba's affiliate Alipay, according to Alibaba."
+Ford Motor,2017-12,"Ford believes dealers would likely agree to this direct retailing model because they still get to service cars sold through Tmall, the Ford source said."
+Ford Motor,2017-12,"The move, though, could be potentially problematic for dealers, some industry experts said."
+Ford Motor,2017-12,"""When online sales and direct sales volume was small that's one thing. But if this format gained steam, it would definitely impact dealers,"" according to Yale Zhang, head of Shanghai-based consultancy Automotive Foresight. ""Retail innovation is great, but it is by its nature disruptive and can't keep everybody happy."""
+Ford Motor,2017-12,The danger is that the dealers lose out not only on a lot of car sales but also the potentially lucrative auto financing aspect of their traditional business.
+Ford Motor,2017-12,"Direct selling by auto brands is not always possible in many markets around the world. In the United States, for example, because of franchise auto dealer operators' political clout, except for a small number of states, direct selling is largely not possible."
+Ford Motor,2017-12,"The source said Ford is ""behind in using big data"" to monitor sales trends and effectively market its cars and the move to online sales as well as the access to Tmall's massive database of information on consumers would help it to catch up."
+Ford Motor,2017-12,"Online auto sales volumes are currently limited in China because car buyers want to be able to see, touch and drive cars before buying them, said Zhang. The ability to test drive a car ordered online could change that."
+Ford Motor,2017-12,"Ford's China sales have been sluggish in recent months in part because it has failed to catch on to rapidly changing trends in the marketplace, including the rise of entry-level cars popular in smaller and less-well-known cities, where demand is booming."
+Ford Motor,2017-12,"Ford's sales in the first 10 months of this year were 938,570, a decline of 5 percent from the same period in 2016, against a 2.2 percent gains to 3.13 million for hometown rival General Motors ."
+Ford Motor,2017-12,"{{20171205T190103.647+0000}}CORRECTED-Amid rising discounts, Nissan seeks 'fair share' of pie in U.S. -exec(Corrects and recasts paragraph 10 to show status of 2018 year model vehicles)"
+Ford Motor,2017-12,"DETROIT, Dec 4 (Reuters) - Facing a glut of late-model 2017 vehicles and rising consumer discounts by competitors, Nissan Motor Co Ltd <7201.T> will continue to target a ""fair share of the pie"" with big discounts of its own, the automaker's U.S. sales chief said on Monday."
+Ford Motor,2017-12,"""It would be great if everybody got their incentive spending under control. That would be a fabulous thing for everyone,"" Nissan's Judy Wheeler told Reuters. ""But the one thing about our business, you have to stay in the game."""
+Ford Motor,2017-12,"""The market is still very healthy and we want to make sure we're still in the game,"" she added."
+Ford Motor,2017-12,Wheeler spoke to Reuters after Nissan posted an 18.1 percent spike in U.S. sales for November versus the same month in 2016.
+Ford Motor,2017-12,Fellow automakers posted mixed new vehicle sales for the month. [nL1N1O114U]
+Ford Motor,2017-12,Major automakers are coming off an all-time high for sales in 2016 and have been hiking consumer discounts in a saturated market to move passenger cars off dealer lots.
+Ford Motor,2017-12,"According to industry consultants J.D. Power and LMC, consumer discounts have been above 10 percent of the average transaction price for 16 of the last 17 months. Anything over 10 percent is considered unhealthy for resale values and thus bad news for carmakers."
+Ford Motor,2017-12,"Industry data for November provided to Reuters show only Honda Motor Co Ltd <7267.T> came in below that level at 7.6 percent. Toyota Motor Corp <7203.T> offered discounts equivalent to 10.1 percent of the average transaction price, while Fiat Chrysler Automobiles NV was at 12.8 percent. General Motors Co was at 12.9 percent and Ford Motor Co was at 14.6 percent."
+Ford Motor,2017-12,Nissan was well above the rest with an average discount of 18.6 percent.
+Ford Motor,2017-12,"Wheeler said while Nissan now has 2018 model-year vehicles available in its U.S. dealer inventory, almost 100 percent of its sales in November were 2017 model-year vehicles and they may not all be gone until spring 2018."
+Ford Motor,2017-12,"""That's really hard to predict because the reality is we did extremely well in November,"" she said. ""If we continue at that kind of a pace, then it may be quicker than what we expected."""
+Ford Motor,2017-12,"But Wheeler said the ""big thing"" affecting the auto industry is the high discounts being offered by most manufacturers."
+Ford Motor,2017-12,"""So really, it has to do with what's happening in the market and trying to make sure you get your fair share of the pie,"" she said."
+Ford Motor,2017-12,* PLANS TO LOCALLY ASSEMBLE FIVE MORE VEHICLES IN CHINA FOR CHINESE CUSTOMERS STARTING IN 2019
+Ford Motor,2017-12,* ALL NEW VEHICLES IN CHINA TO BE INTERNET-CONNECTED BY END 2019
+Ford Motor,2017-12,"* ""TO ENABLE FUTURE GROWTH IN CHINA"", CO TO CONTAIN STRUCTURAL COST IN REGION THROUGHOUT 2018"
+Ford Motor,2017-12,* CO PLANS TO GROW ITS CHINA REVENUE BY 50 PERCENT BY 2025 VERSUS 2017
+Ford Motor,2017-12,"* PLANS TO LOCALLY ASSEMBLE FIVE MORE VEHICLES IN CHINA STARTING IN 2019 INCLUDE A LINCOLN PREMIUM SUV, CO'S FIRST GLOBAL ALL-ELECTRIC SMALL SUV"
+Ford Motor,2017-12,"{{20171205T091146.777+0000}}UK new car sales on course for first annual drop since 2011LONDON, Dec 5 (Reuters) - British new car registrations dropped 5 percent in the year to date, putting them on track for the first annual fall since 2011, hit by weaker consumer confidence and uncertainty over the future of diesel, an industry body said on Tuesday."
+Ford Motor,2017-12,"Sales slumped 11.2 percent in November to 163,541 cars, according to data from the Society of Motor Manufacturers and Traders (SMMT), with demand falling among business, fleet and individual buyers."
+Ford Motor,2017-12,"Diesel has been particularly hit this year, with registrations declining 16.1 percent between January and November, while petrol rose 3.1 percent in the same period."
+Ford Motor,2017-12,"""An eighth month of decline in the new car market is a major concern, with falling business and consumer confidence exacerbated by ongoing anti-diesel messages from government,"" said SMMT Chief Executive Mike Hawes."
+Ford Motor,2017-12,"Britain will increase the tax paid by those driving new diesel cars that do not meet the latest emissions standards from next year, finance minister Philip Hammond said last month, in the latest blow to the segment. [nL8N1NS50C]"
+Ford Motor,2017-12,"Since the 2015 Volkswagen emissions cheating scandal, a number of major cities including Madrid, Paris and Athens have announced plans particularly focused on cutting diesel emissions including bans, fines and restrictions."
+Ford Motor,2017-12,{{20171205T085605.874+0000}}UPDATE 2-Ford ramps up electric vehicle push in China amid slowing sales* Ford to launch 50 new vehicles in China by 2025
+Ford Motor,2017-12,"SHANGHAI, Dec 5 (Reuters) - Ford Motor Co will launch 50 new vehicles in China by 2025, including 15 electrified vehicles, the U.S. firm said at an event in Shanghai on Tuesday, as it looks to rev up sales growth in the market and shift towards cleaner electric cars."
+Ford Motor,2017-12,"Ford's sales in China have been weak in recent months, and the company is scrambling to come up with electric and hybrid vehicles to comply with strict Chinese quotas over production and sales for so-called new energy vehicles, or NEVs."
+Ford Motor,2017-12,"The U.S. automaker is undergoing a broad review of its China operations, part of a strategic re-think under new Chief Executive Officer Jim Hackett, which will likely see the company focus on electric commercial vans as well as electric cars. [nL4N1ME2KZ] [nL4N1ME3GX]"
+Ford Motor,2017-12,"""Between now and 2025, we will launch 50 new vehicles in China, and of those 50 new vehicles, 15 of them will be all-new electrified vehicles,"" said Peter Fleet, Ford's head of Asia Pacific, pointing to big growth in the ""utility"" segment."
+Ford Motor,2017-12,Fleet also said Ford's China revenue would grow by 50 percent over the same period.
+Ford Motor,2017-12,"China is pushing automakers toward electric and hybrid petrol-electric vehicles, setting tough quotas for NEVs that come into play in 2019, and has signalled a longer-term shift away from traditional internal combustion engine cars."
+Ford Motor,2017-12,"The major shift in the world's largest auto market has jolted some automakers, sparking a spate of recent electric vehicle (EV) joint ventures in the market. Ford has announced an EV tie-up with China's Anhui Zotye Automobile Co Ltd <000980.SZ>."
+Ford Motor,2017-12,"""We've never seen change like we do today,"" said Ford Executive Chairman Bill Ford. ""Everything is being disrupted"" by the development of autonomous vehicles, trends such as ride-sharing and electric vehicles, he added."
+Ford Motor,2017-12,"""It's clearly the case that China will lead the world in EV development, and so we at Ford are investing enormous amounts of money both here in China and globally to bring electrification into fruition."""
+Ford Motor,2017-12,"{{20171205T082729.000+0000}}UPDATE 2-Ford ramps up electric vehicle push in China amid slowing salesSHANGHAI, Dec 5 (Reuters)"
+Ford Motor,2017-12,"SHANGHAI, Dec 5 (Reuters) - Ford Motor Co will launch 50 new vehicles in China by 2025, including 15 electrified vehicles, the U.S. firm said at an event in Shanghai on Tuesday, as it looks to rev up sales growth in the market and shift towards cleaner electric cars."
+Ford Motor,2017-12,"Ford's sales in China have been weak in recent months, and the company is scrambling to come up with electric and hybrid vehicles to comply with strict Chinese quotas over production and sales for so-called new energy vehicles, or NEVs."
+Ford Motor,2017-12,"The U.S. automaker is undergoing a broad review of its China operations, part of a strategic re-think under new Chief Executive Officer Jim Hackett, which will likely see the company focus on electric commercial vans as well as electric cars. [nL4N1ME2KZ] [nL4N1ME3GX]"
+Ford Motor,2017-12,"""Between now and 2025, we will launch 50 new vehicles in China, and of those 50 new vehicles, 15 of them will be all-new electrified vehicles,"" said Peter Fleet, Ford's head of Asia Pacific, pointing to big growth in the ""utility"" segment."
+Ford Motor,2017-12,Fleet also said Ford's China revenue would grow by 50 percent over the same period.
+Ford Motor,2017-12,"China is pushing automakers toward electric and hybrid petrol-electric vehicles, setting tough quotas for NEVs that come into play in 2019, and has signalled a longer-term shift away from traditional internal combustion engine cars."
+Ford Motor,2017-12,"The major shift in the world's largest auto market has jolted some automakers, sparking a spate of recent electric vehicle (EV) joint ventures in the market. Ford has announced an EV tie-up with China's Anhui Zotye Automobile Co Ltd <000980.SZ>."
+Ford Motor,2017-12,"""We've never seen change like we do today,"" said Ford Executive Chairman Bill Ford. ""Everything is being disrupted"" by the development of autonomous vehicles, trends such as ride-sharing and electric vehicles, he added."
+Ford Motor,2017-12,"""It's clearly the case that China will lead the world in EV development, and so we at Ford are investing enormous amounts of money both here in China and globally to bring electrification into fruition."""
+Ford Motor,2017-12,"{{20171205T064345.360+0000}}Ford to launch 50 new vehicles in China by 2025SHANGHAI, Dec 5 (Reuters) - Ford Motor Co will launch 50 new vehicles in China by 2025, including 15 electrified vehicles, Peter Fleet, head of Ford Asia Pacific, told a news conference on Tuesday."
+Ford Motor,2017-12,"Ford's sales in China have been weak in recent months, and the company is scrambling to come up with electric cars to comply with China's production and sales quotas for such so-called new energy vehicles, or NEVs."
+Ford Motor,2017-12,"{{20171205T053159.522+0000}}BUZZ-China's Jiangling Motors slides to over 4-yr low; Nov vehicles sales down ** Shares in Jiangling Motors <000550.SZ> lose more than 3 pct to their lowest since Sept 2013, after the Ford-backed carmaker posted a drop in Nov vehicle sales"
+Ford Motor,2017-12,"** For the first nine month of 2017, Jiangling recorded a 41.15 pct y/y slump in net profit [nH9N1MV01M]"
+Ford Motor,2017-12,"** Among the 4 analysts that cover Jiangling Motors Corp Ltd, the current average rating on the shares is ""sell""; the breakdown of recommendations is 0 ""strong buy"" or ""buy"", one ""hold"", three ""sell"" or ""strong sell"""
+Ford Motor,2017-12,"{{20171205T053000.711+0000}}UK new car sales fell 11 percent in November-dataLONDON, Dec 5 (Reuters) - New car registrations in Britain fell by around 11 percent in November, the eighth consecutive month that sales have declined, according to preliminary numbers from an industry body."
+Ford Motor,2017-12,"The sales have reflected caution among consumers faced by a rise in inflation since the Brexit vote in 2016 and weak wage growth, as well as concerns that the government would clamp down on diesel vehicles to curb pollution."
+Ford Motor,2017-12,Figures from the Society of Motor Manufacturers and Traders were expected to show diesel car sales fell sharply again.
+Ford Motor,2017-12,"Britain will increase tax on diesel cars that do not meet more stringent emissions standards, finance minister Philip Hammond said last month."
+Ford Motor,2017-12,November's expected drop in sales would add to the fall of nearly 5 percent in overall registrations between January and October.
+Ford Motor,2017-12,The SMMT is due to publish final numbers at 0900 GMT on Tuesday.
+Ford Motor,2017-12,{{20171205T050101.061+0000}}GM puts an e-commerce marketplace in the dashboardBy Joseph White
+Ford Motor,2017-12,"DETROIT, Dec 5 (Reuters) - General Motors Co on Tuesday said it will equip newer cars with in-dash e-commerce technology, betting it can profit as drivers order food, find fuel or reserve hotel rooms by tapping icons on the dashboard screen, instead of using smartphones while driving."
+Ford Motor,2017-12,"GM's Marketplace technology, developed in collaboration with International Business Machines will be uploaded automatically to about 1.9 million model-year 2017 and later vehicles starting immediately, with about 4 million vehicles across the Chevrolet, Buick, GMC and Cadillac brands equipped with the capability in the United States by the end of 2018, GM said."
+Ford Motor,2017-12,"GM will get an undisclosed amount of revenue from merchants featured on its in-dash Marketplace, Santiago Chamorro, GM vice president for global connected customer experience, said during a briefing for reporters. Customers will not be charged for using the service or the data transmitted to and from the car while making transactions, he said."
+Ford Motor,2017-12,"""This platform is financed by the merchants,"" Chamorro said. GM will get paid for placing a merchant's application on its screens, and ""there's some level of revenue sharing"" based on each transaction, he said."
+Ford Motor,2017-12,"It is too soon to say how much revenue GM could realize from the Marketplace system, he said."
+Ford Motor,2017-12,"The GM Marketplace will compete for customer clicks and revenue with hand-held smartphones, which offer a far richer array of applications than the GM system will at the outset. Amazon.com is partnering with other automakers, including Ford Motor Co, , to offer in car ecommerce capability through Amazon's Alexa personal assistant system."
+Ford Motor,2017-12,"For example, GM will launch Marketplace with just Shell and Exxon Mobil icons in the fuel category. The only restaurant available for in-car table reservations at launch is the chain TGI Fridays, GM said. In addition, there will be apps for parking, and ordering ahead at coffee shops and restaurants such as Starbucks, Dunkin' Donuts and Applebee's."
+Ford Motor,2017-12,"""We will be adding more vendors,"" with some coming in the first quarter of 2018, Chamorro said. In addition, he said GM plans to expand integration into its vehicles of music, news and other information services."
+Ford Motor,2017-12,"GM also hopes to use its in-car Marketplace connections to expand purchases of products and services, such as additional access to in-car wifi, from its own replacement parts business and dealer network. Customers can ""expect to see more service promotions coming through the platform,"" Chamorro said."
+Ford Motor,2017-12,"{{20171205T010000.808+0000}}Australian new vehicle sales notch a record November-industrySYDNEY, Dec 5 (Reuters) - Australian new vehicle sales posted a second consecutive month of solid gains in November, with strong demand in the commercial sector pointing to a continued pick up in business spending."
+Ford Motor,2017-12,"The Australian Federal Chamber of Automotive Industries' VFACTS report out on Tuesday showed 101,365 new vehicles were sold in November, up 2.5 percent on the same month last year. Both months had the same number of selling days."
+Ford Motor,2017-12,That total was a record for a November month and left sales for the year to date running 0.6 percent ahead of the same period in 2016.
+Ford Motor,2017-12,"Demand for commercial vehicles showed no signs of waning with the light sector up 7.9 percent on November last year, while sales of heavy vehicles surged 22.7 percent."
+Ford Motor,2017-12,"Sales of passenger cars extended their long decline with a fall of 7.3 percent in November, losing share to sports utilities which rose 8.6 percent."
+Ford Motor,2017-12,"Toyota Motor Corp <7203.T> retained first place on the sales ladder with a steady share of 18.6 percent, while Mazda Motor Corp <7261.T> grabbed second spot with 9.2 percent."
+Ford Motor,2017-12,"Hyundai Motor <005380.KS> claimed 8.7 percent, followed by the Holden unit of General Motors on 7.8 percent. Mitsubishi <7211.T> took 6.6 percent, followed by Ford at 6.2 percent."
+Ford Motor,2017-12,{{20171204T163041.721+0000}}TABLE-November U.S. auto sales 17.53 mln annualized rateDec 4 (Reuters) - Automakers reported a 1.3 percent rise in U.S. vehicle
+Ford Motor,2017-12,"sales for November from a year earlier, with the seasonally adjusted annualized"
+Ford Motor,2017-12,The annualized rate is followed by economists and calculated using seasonal
+Ford Motor,2017-12,factors supplied by the U.S. Commerce Department that account for sales from
+Ford Motor,2017-12,"{{20171204T152233.264+0000}}Canadian auto sales could hit 2 mln in 2017- industry groupDec 4 (Reuters) - Canadian auto sales dipped 1.2 percent in November from last year but could hit the two million milestone for the first time, according to data released by an automotive industry research firm."
+Ford Motor,2017-12,"About 158,653 vehicles were sold in the month, bringing the total number of units sold to 1.9 million so far this year, according to a report published by Desrosiers Automotive Consultants Inc on Monday."
+Ford Motor,2017-12,"""The average sales total for November and December for the last ten years is just a little under 243,000 units ... to be fair, nothing over the last few years has been average, when it comes to sales results,"" Brian Murphy, Vice President of Research and Editorial at Canadian Black Book said, commenting separately from the report on Canadian auto industry sales."
+Ford Motor,2017-12,"On a year-to-date basis, auto sales have risen 5 percent, with trucks making for over two-thirds of all the vehicles sold in Canada."
+Ford Motor,2017-12,"However, the top three automakers in Canada reported a drop in November total sales."
+Ford Motor,2017-12,"On Friday, General Motors Co reported a 17.2 percent decline, while Ford reported a 2.8 percent drop in total sales for the month. Ford was the top selling automaker for November in Canada. [nL3N1O14S7]"
+Ford Motor,2017-12,"Fiat Chrysler Automobiles , maker of Dodge and Chrysler vehicles, sold 19,054 vehicles for the month, a 7.8 percent drop from a year earlier."
+Ford Motor,2017-12,{{20171204T143541.062+0000}}TABLE- Top 20 vehicles sold in U.S. in NovemberDec 4 (Reuters) - The following are the 20 top-selling vehicles in
+Ford Motor,2017-12,the U.S. in November as reported by the automakers and ranked by total
+Ford Motor,2017-12,{{20171204T143421.352+0000}}TABLE-November U.S. light vehicle sales by major automakersDec 4 (Reuters) - The following are U.S. auto sales results for
+Ford Motor,2017-12,November reported so far on Friday by top-selling automakers:
+Ford Motor,2017-12,{{20171204T135950.390+0000}}TABLE- November Canada light vehicle sales by major automakersDec 4 (Reuters) - The following are Canada auto sales results for
+Ford Motor,2017-12,November reported so far on Monday by top-selling automakers:
+Ford Motor,2017-12,{{20171201T221027.922+0000}}TABLE- November U.S. auto sales 17.48 mln annualized rateDec 1 (Reuters) - Automakers reported a 0.9 percent rise in U.S. sales in
+Ford Motor,2017-12,"November from a year earlier, with a seasonally adjusted annualized rate of"
+Ford Motor,2017-12,The annualized rate is followed by economists and calculated using seasonal
+Ford Motor,2017-12,factors supplied by the U.S. Commerce Department that account for sales from
+Ford Motor,2017-12,UPDATE 3-November mixed for U.S. sales as automakers hike discounts - Reuters News
+Ford Motor,2017-12,{{20171201T213736.715+0000}}UPDATE 3-November mixed for U.S. sales as automakers hike discounts(Adds industry wide sales estimate)
+Ford Motor,2017-12,"DETROIT, Dec 1 (Reuters) - Major automakers posted mixed U.S. November new vehicle sales on Friday and predicted a competitive December as they rush to sell vehicles and boost their 2017 numbers before the year comes to an end."
+Ford Motor,2017-12,"Automakers are trying to sell down 2017 model year vehicles, offering high discounts to consumers as the year-end nears. In 2016, the industry reported record annual sales of 17.55 million units."
+Ford Motor,2017-12,"The seasonally adjusted annualized rate of U.S. car and light truck sales in November fell to 17.48 million vehicles, down from 17.71 million vehicles a year earlier, according to Autodata Corp, which tracks industry sales. This was roughly in line with the 17.5 million predicted by analysts polled by Thomson Reuters."
+Ford Motor,2017-12,"According to consultancies J.D. Power and LMC, discounts have been above 10 percent of the average transaction price for 16 of the last 17 months, a level experts say is unhealthy and unsustainable. [nL1N1NU19X]"
+Ford Motor,2017-12,"The November sales results come as the National Automobile Dealers Association said on Friday it expects new vehicle sales to decline to 16.7 million units in 2018, after dropping to 17.1 million for the full year in 2017. [nL1N1O110A]"
+Ford Motor,2017-12,"If that forecast comes true, the race to move new vehicles off dealers' lots will only intensify next year."
+Ford Motor,2017-12,"Brandon Mason, a director at PwC's automotive practice, said a worrying trend for the industry was a rising number of subprime loans. He said subprime levels are at just over 20 percent of originations, against more than 30 percent prior to the Great Recession, but recent increases remain a concern."
+Ford Motor,2017-12,"""That's a bit of a red flag,"" Mason said. ""It's something to keep an eye on as we move into 2018."""
+Ford Motor,2017-12,"No. 1 U.S. automaker General Motors Co said its sales fell 2.9 percent in November, with sales to consumers flat against the same month in 2016. Much of the decrease was driven by lower fleet sales to rental agencies, businesses and government agencies."
+Ford Motor,2017-12,"GM said strong SUV and crossover sales pushed its average transaction price for the month above $37,000 for the first time. The company's level of unsold cars, which has been a concern for analysts and the industry, rose slightly to 83 days supply, from 80 days at the end of October."
+Ford Motor,2017-12,"""More vehicles are sold in December than any other month and we are very well positioned because we have momentum in so many segments, but especially in crossovers,"" said Kurt McNeil, U.S. vice president of sales operations."
+Ford Motor,2017-12,Fiat Chrysler Automobiles NV (FCA) in particular has targeted a significant reduction in this type of sale in 2017.
+Ford Motor,2017-12,"The automaker posted a 4 percent overall decrease in sales for November, but said fleet sales were down 25 percent while sales to consumers were up 2 percent on the year."
+Ford Motor,2017-12,"No. 2 U.S. automaker Ford Motor Co reported a 6.7 percent increase in sales in November, with fleet sales up nearly 26 percent and retail sales 1.3 percent higher than in November 2016."
+Ford Motor,2017-12,"Ford said SUV sales rose 13.3 percent in November, while its pickup truck sales were up 4.1 percent."
+Ford Motor,2017-12,"""November and December over the last few years has become a very big merchandising window for the industry,"" Ford's U.S. sales chief Mark LaNeve told reporters on a conference call."
+Ford Motor,2017-12,"He said price competition between automakers should continue into 2018, but it ""should not be too disruptive."""
+Ford Motor,2017-12,"Toyota Motor Corp <7203.T> said its sales were down 3 percent, while Honda Motor Co Ltd <7267.T> sales rose 8.3 percent."
+Ford Motor,2017-12,"Nissan Motor Co Ltd <7201.T> said in a statement a systems outage meant it would not post official November results until Dec. 4, but estimated its U.S. sales rose 14 percent versus November 2016."
+Ford Motor,2017-12,"GM shares closed down 30 cents at $42.79, FCA was off a penny at $17.09 and Ford ended up 8 cents at $12.58."
+Ford Motor,2017-12,{{20171201T213417.236+0000}}TABLE- Top 20 vehicles sold in U.S. in NovemberDec 1 (Reuters) - The following are the 20 top-selling vehicles
+Ford Motor,2017-12,in the U.S. in November as reported by the automakers and ranked by
+Ford Motor,2017-12,** The table does not reflect Nissan's auto sales figures as the
+Ford Motor,2017-12,{{20171201T213354.172+0000}}TABLE-November U.S. light vehicle sales by major automakersDec 1 (Reuters) - The following are U.S. auto sales results for
+Ford Motor,2017-12,November reported so far on Friday by top-selling automakers:
+Ford Motor,2017-12,Note: Nissan sales figures are from the Auto Corp Data.
+Ford Motor,2017-12,"UPDATE 1-General Motors, Ford report fall in Canada auto sales  - Reuters News"
+Ford Motor,2017-12,"{{20171201T191624.285+0000}}UPDATE 1-General Motors, Ford report fall in Canada auto sales (Adds Ford Canada numbers)"
+Ford Motor,2017-12,Dec 1 (Reuters) - General Motors Co and Ford Motor Co on Friday reported a drop in Canadian auto sales for November.
+Ford Motor,2017-12,"Ford said sales fell 2.8 percent to 23,788 vehicles, largely due to weak demand for cars."
+Ford Motor,2017-12,"GM Canada has sold 283,025 vehicles and Ford 291,104 units for the year."
+Ford Motor,2017-12,EXCLUSIVE-VW in talks to buy stake in Russian light vehicle maker GAZ -sources - Reuters News
+Ford Motor,2017-12,{{20171201T181008.645+0000}}EXCLUSIVE-VW in talks to buy stake in Russian light vehicle maker GAZ -sources(Adds background)
+Ford Motor,2017-12,"MOSCOW, Dec 1 (Reuters) - German carmaker Volkswagen is in talks to buy a stake in GAZ , a Russian manufacturer of light commercial vehicles, sources familiar with the talks said."
+Ford Motor,2017-12,GAZ is part of the Basic Element group that holds the assets of Russian businessman Oleg Deripaska and already has a partnership with Volkswagen.
+Ford Motor,2017-12,"It was not immediately clear how big a stake VW was talking about taking, or the value of the potential deal and a decision on size has yet to be made, one of the sources said."
+Ford Motor,2017-12,"Both GAZ and Basic Element declined to comment, while a spokesman said VW does not comment on market speculation."
+Ford Motor,2017-12,"""There are talks, they are trying to reach an agreement. Deripaska has long been looking for a partner and VW does not have a Russian partner,"" one car industry source said."
+Ford Motor,2017-12,"A source close to VW also confirmed that talks were in progress, but said the possibility of the carmaker taking a stake in GAZ is not the only matter under consideration."
+Ford Motor,2017-12,"The stake deal, if it goes ahead, would show that major Western companies are forging ahead with investments in Russia despite political tensions over Ukraine and allegations, denied by Moscow, of Russian meddling in foreign elections."
+Ford Motor,2017-12,"Other global automakers have already taken stakes in major Russian vehicle manufacturers. Russia's biggest carmaker, Avtovaz is controlled by the Renault-Nissan <7201.T> alliance, while Russian truck maker Kamaz is part-owned by Daimler ."
+Ford Motor,2017-12,"Sollers, a Russian firm which manufactures light commercial vans, has no global automaker as a shareholder, though it has a joint venture with Ford"
+Ford Motor,2017-12,"Russian car sales, which shrank from 2015 as the economy slowed sharply, have recovered this year and new car sales rose 17.3 percent year-on-year in October to 148,597 units, the Association of European Businesses (AEB) lobby group said this month. It was the eighth consecutive month of sales growth."
+Ford Motor,2017-12,"VW is already a major investor in Russia, having sunk 1.75 billion Euros ($2 billion) into its operations. It has a vehicle plant and an engine plant in Kaluga, 150 km south of Moscow."
+Ford Motor,2017-12,"Under its existing partnership with GAZ, the Russian firm assembles VW brand and Skoda cars, while VW supplies 2.0 litre diesel engines for light commercial vehicles made by GAZ. ($1 = 0.8389 euros)"
+Ford Motor,2017-12,"DETROIT, Dec 1 (Reuters) - Major automakers posted mixed U.S. November new vehicle sales for November on Friday, with General Motors Co and Fiat Chrysler Automobiles NV (FCA) down largely on lower fleet sales, while Ford Motor Co's sales rose."
+Ford Motor,2017-12,"Automakers are trying to sell down 2017 model year vehicles, offering high discounts to consumers as the year-end nears. Last year the industry hit record annual sales of 17.55 million units and this year analysts expect full-year sales to fall slightly, increasing competition to move vehicles off dealers' lots."
+Ford Motor,2017-12,"No. 1 U.S. automaker GM said its sales fell 2.9 percent in November, with sales to consumers flat versus the same month in 2016. Much of the decrease was driven by lower fleet sales to rental agencies, businesses and government agencies."
+Ford Motor,2017-12,"GM said strong SUV and crossover sales pushed its average transaction price for the month above $37,000 for the first time. The company's level of unsold cars, which has been a concern for analysts and the industry, rose slightly to 83 days supply from 80 days at the end of October."
+Ford Motor,2017-12,Fleet sales are a low-margin business for automakers. FCA in particular has targeted a significant reduction in this type of sale in 2017.
+Ford Motor,2017-12,"The automaker posted a 4 percent overall decrease in sales for November, but said fleet sales were down 25 percent while sales to consumers were up 2 percent on the year."
+Ford Motor,2017-12,"No. 2 U.S. automaker Ford reported a 6.7 percent increase in sales in November, with fleet sales up nearly 26 percent and retail sales 1.3 percent higher than in November 2016."
+Ford Motor,2017-12,"Ford said SUV sales rose 13.3 percent in November, while its pickup truck sales were up 4.1 percent."
+Ford Motor,2017-12,"In morning trading, GM shares were down 18 cents at $42.91, FCA was off 9 cents at $17.01 and Ford was up 0.8 percent at $12.63."
+Ford Motor,2017-12,UPDATE 2-Influential U.S. auto union caucus nominates regional head for president - Reuters News
+Ford Motor,2017-12,"{{20171130T234941.909+0000}}UPDATE 2-Influential U.S. auto union caucus nominates regional head for president(Adds biographical details of nominee, background)"
+Ford Motor,2017-12,"DETROIT, Nov 30 (Reuters) - An influential caucus at the United Auto Workers nominated on Thursday a regional director as candidate for union president as the UAW struggles to organize auto plants and faces a probe into alleged misuse of funds at training centers funded by Detroit's automakers."
+Ford Motor,2017-12,"The caucus, named for renowned former UAW President Walter Reuther, nominated Gary Jones, director of the union's region 5 covering 17 Western and Southwestern states, for a four-year term."
+Ford Motor,2017-12,"For the past seven decades, the Reuther Caucus's nominee has won election as union president. The UAW will hold a leadership election in June."
+Ford Motor,2017-12,"Current UAW President Dennis Williams was elected in 2014 and will turn 65 in 2018, which would bar him from re-election."
+Ford Motor,2017-12,"Based in Kansas City, Missouri, where he has been regional director since 2012, Jones is far removed from the Justice Department probe into alleged misuse of funds at the UAW training centers in the Detroit area. [nL2N1N8232]"
+Ford Motor,2017-12,"Jones joined the UAW in 1975 when he was hired at a Ford Motor Co plant in Broken Arrow, Oklahoma. He has worked for the union in various roles since 1990."
+Ford Motor,2017-12,"The UAW's next president will have to steer the union through challenging contract negotiations with General Motors Co , Ford and Fiat Chrysler Automobiles NV in 2019."
+Ford Motor,2017-12,"After a boom running from 2010 to record annual sales of 17.55 million units in 2016, new vehicle sales are expected to decline slightly this year, followed by further decreases in 2018 and 2019."
+Ford Motor,2017-12,"Industry consultant LMC predicts U.S. new vehicle sales will dip to 16.8 million units in 2019, likely portending a much tougher round of contract talks than in 2015 when automakers were on an upswing."
+Ford Motor,2017-12,"UAW membership has crept up since the end of the 2007-2009 recession, but is about half of what it was in 1998 and well below a peak of 1.5 million members in 1979. The Detroit automakers and their suppliers have slashed workforces at UAW-represented factories over the past 30 years as they have automated and lost sales to European and Asian rivals."
+Ford Motor,2017-12,"Earlier this month, workers at a Chinese-owned auto glass plant in southwestern Ohio voted heavily against union representation. The UAW lost the vote at Fuyao Glass Industry Group Co Ltd <600660.SS> by a 2-to-1 margin. [nL1N1NG04X]"
+Ford Motor,2017-12,"The union also lost a bitterly contested vote at a Nissan Motor Co Ltd <7201.T> plant in Mississippi in August, adding to a decades-long record of failure to organize a major automaker's plant in the U.S. South. [nL1N1KR04I]"

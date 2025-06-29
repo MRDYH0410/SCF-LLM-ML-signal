@@ -1,0 +1,786 @@
+firm_id,date,text
+tesla,2017-12,"{{20171228T004536.000+0000}}BREAKINGVIEWS-Samsung soups up for car race of the futureHONG KONG, Dec 28 (Reuters Breakingviews)"
+tesla,2017-12,(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+tesla,2017-12,"HONG KONG, Dec 28 (Reuters Breakingviews) - Samsung Electronics <005930.KS> will soon soup up its engine for the car race of the future. The tech behemoth faces slowing growth in its core smartphone and chips products at the same time as it's distracted by a leadership crisis. Revving up its automotive offering, as strategy chief Young Sohn recently said the company would like to do, could help Samsung jump start new growth engines."
+tesla,2017-12,"The cyclical market for memory chips, which account for over 60 percent of Samsung's operating profit, may enter a downturn next year, analysts warn. Meanwhile, the automotive tech market is growing fast and could be worth $645 billion or more by 2030, according to Jefferies. By then 95 percent of new cars on the road could be self-driving, reckon Bernstein analysts."
+tesla,2017-12,"The South Korean conglomerate splashed out $8 billion in 2016 for Harman, a parts supplier which provides infotainment systems to Volkswagen , General Motors and other carmakers. So far, though, the company has only dabbled in autonomous vehicles, taking small stakes in startups including Oculii, which makes radar sensors, and car-safety specialist TTTech."
+tesla,2017-12,"That pales in comparison to Qualcomm's $47 billion bid for automotive chip maker NXP Semiconductors , or Intel's $15 billion acquisition of Mobileye. Apple , Alphabet and Uber are pouring huge sums into self-driving cars and GM plans to put fleets of robo-taxis on U.S. streets by 2019."
+tesla,2017-12,"Samsung's $46 billion or so of net cash gives it the financial power to try and catch up. Investing some of that to beef up Harman's integrated car systems to rival Delphi is one option. Another would involve playing to its natural strengths in semiconductors and taking on the likes of NXP and Nvidia , whose chips power cars from Tesla to Toyota <7203.T>."
+tesla,2017-12,"Or it could try expanding into a related field by snagging, for example, a cyber-security specialist. The candidates range from the $3 billion FireEye to $18 billion Symantec ."
+tesla,2017-12,"There are a couple of obstacles in its path, though. First, Samsung is engulfed in a leadership crisis: de facto boss Jay Y. Lee was convicted of bribery in August and several top executives have since resigned. Second, organic expansion takes time, yet Samsung has never been a big M&A player: Harman is its largest acquisition."
+tesla,2017-12,"That means new executives will need quickly to get comfortable with taking the wheel. With so many players already further down the road, Samsung needs to speed up to compete."
+tesla,2017-12,"- Samsung Electronics President and Chief Strategy Officer Young Sohn on Dec. 1 said he was keen for the company to expand in automotive markets, digital health and industrial automation."
+tesla,2017-12,"- Speaking to Reuters on the sidelines of the Slush tech startup festival in Helsinki, Sohn said Samsung's $8 billion purchase of automotive and audio company, Harman, in 2016 had given Samsung confidence to chase big deals."
+tesla,2017-12,"- By 2030, 106 million new vehicles a year, or 95 percent of all new cars sold, will be fully autonomous, according to analysts at Bernstein."
+tesla,2017-12,"- For previous columns by the author, Reuters customers can click on [MAK/]"
+tesla,2017-12,"{{20171227T174446.940+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Energous, Tesla, Callaway Golf* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,"U.S. stocks edged higher in late morning trading on Wednesday, helped by gains"
+tesla,2017-12,"At 12:22 ET, the Dow Jones Industrial Average <.DJI> was up 0.10 percent at"
+tesla,2017-12,BUZZ-Energous shares power up as charging tech gets FCC certification
+tesla,2017-12,BUZZ-HTG Molecular Diagnostics: Up on revised collaboration with Germany's
+tesla,2017-12,UPDATE 3-Bitcoin recovers some losses after its worst week since
+tesla,2017-12,BUZZ-Diffusion Pharma: Begins late-stage study of lead drug [nL4N1OR372]
+tesla,2017-12,BUZZ-Destination Maternity: Analyst at NGM Asset Management takes stake
+tesla,2017-12,BUZZ-LightInTheBox Holding: Rises after CEO Alan Guo buys shares [nL4N1OM3S1]
+tesla,2017-12,"BUZZ-Diana Shipping Inc: Rises on contract extension, higher rate [nL4N1OR3GR]"
+tesla,2017-12,BRIEF-Horizon Pharma Announces FDA Approval to Expand the Indication for
+tesla,2017-12,BRIEF-Joseph Samberg Reports 9.5 Percent Passive Stake In NII Holdings
+tesla,2017-12,BRIEF-CNX Resources Announces Intention To Rebrand Cone Midstream Partners LP
+tesla,2017-12,"Dec 27 (Reuters) - Iridium Communications Inc said on Wednesday its 10 satellites, launched last week by tech billionaire Elon Musk's SpaceX, are functioning as expected."
+tesla,2017-12,"The launch on SpaceX's reusable Falcon 9 rocket on Friday had sparked concerns on the U.S. West Coast due to its glowing trail, according to media reports. Some users also took to social media to suggest that the glow made the rocket look like a 'UFO', with hashtag #aliens trending on Twitter."
+tesla,2017-12,"On Wednesday, Iridium said the 10 Iridium NEXT satellites are in early stages of testing and validating process."
+tesla,2017-12,"Friday's launch was the fourth set of 10 satellites in a series of 75 total satellites that SpaceX will launch for Iridium. Four additional Iridium NEXT launches are scheduled for the first half of 2018, the company said."
+tesla,2017-12,"Iridium's fleet of satellites in low Earth orbit will cover the entire surface of the planet, according to the company's website."
+tesla,2017-12,Falcon 9 is part of Musk's attempts to slash launch costs and shorten intervals between launches.
+tesla,2017-12,"{{20171227T155255.357+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Energous, Tesla, Nova LifeStyle* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,"U.S. stocks were little changed in morning trading on Wednesday, with gains in"
+tesla,2017-12,healthcare and technology stocks helping offset losses in energy shares. [.N]
+tesla,2017-12,"At 10:20 ET, the Dow Jones Industrial Average <.DJI> was up 0.03 percent at"
+tesla,2017-12,BUZZ-Energous shares power up as charging tech gets FCC certification
+tesla,2017-12,BUZZ-HTG Molecular Diagnostics: Up on revised collaboration with Germany's
+tesla,2017-12,UPDATE 3-Bitcoin recovers some losses after its worst week since
+tesla,2017-12,BUZZ-Diffusion Pharma: Begins late-stage study of lead drug [nL4N1OR372]
+tesla,2017-12,BRIEF-Horizon Pharma Announces FDA Approval to Expand the Indication for
+tesla,2017-12,BRIEF-Joseph Samberg Reports 9.5 Percent Passive Stake In NII Holdings
+tesla,2017-12,"{{20171227T143704.749+0000}}BUZZ-Tesla Inc: KeyBanc lowers Model 3 estimates** KeyBanc lowers current-quarter delivery estimates for Tesla's Model 3 to 5,000 from 15,000 after the brokerage's channel checks"
+tesla,2017-12,"** The price point required for Tesla to achieve its gross-margin target might affect Model 3 demand, says analyst Brad Erickson, who rates TSLA ""sector weight"""
+tesla,2017-12,** Bullish investors will remain more focused on that the car is being produced with minimal defects - Erickson
+tesla,2017-12,** Erickson is rated 4/5 stars by TR StarMine for his recommendation accuracy
+tesla,2017-12,"** 8 of 25 brokerages rate the stock ""buy"" or higher, 8 ""hold"" and 9 ""sell"" or lower; median PT of $310 down about 5 pct in a month"
+tesla,2017-12,"** Up to Tuesday's close, stock had risen 48.5 pct this year after declining 11 pct in 2016"
+tesla,2017-12,{{20171227T142547.000+0000}}Tesla's Model 3 deliveries point to slower ramp up - brokerageDec 27 (Reuters)
+tesla,2017-12,"Dec 27 (Reuters) - Tesla Inc is likely to deliver about 5,000 Model 3s in the fourth quarter, KeyBanc Capital Markets analysts said on Wednesday, far below the brokerage's estimate of 15,000."
+tesla,2017-12,"The numbers indicate that the electric carmaker may still not be out of its self-described ""manufacturing hell"" for the production of the $35,000 Model 3 sedan."
+tesla,2017-12,KeyBanc analysts based their projections after conversations last week with sales people at 18 stores in the United States.
+tesla,2017-12,"""We talked to stores in California doing as many as a dozen per week with around 10 being the average, and we estimate stores outside of California were doing something closer to half a dozen per week,"" the analysts wrote."
+tesla,2017-12,Tesla's shares fell 0.5 percent to $315.74 in premarket trading on Wednesday.
+tesla,2017-12,"Palo Alto, California-based Tesla made just 260 Model 3 sedans in the third quarter against its own target to build more than 1,500 due to what it called ""production bottlenecks."""
+tesla,2017-12,"The company said in November it expects to build 5,000 Model 3s per week late in the first quarter of 2018 from its original target date of December. [nL2N1N72DJ]"
+tesla,2017-12,"A further delay in Model 3 production could lead to postponed sales and exacerbate Tesla's cash burn. Over 500,000 customers have put down a refundable deposit for the car."
+tesla,2017-12,"However, KeyBanc maintained its ""sector weight"" rating on the stock."
+tesla,2017-12,"Bullish investors in particular remain more focused on that the car is being produced with minimal defects and that consumer reviews and response are favorable, the brokerage said."
+tesla,2017-12,"{{20171227T141201.431+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Energous, Tesla, Nova LifeStyle, HTG Molecular* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,"Wall Street's main indexes were set to open slightly higher on Wednesday, with a jump in prices of commodities such as copper and oil hinting at a strong global economic growth in 2018. [.N]"
+tesla,2017-12,** Tesla Inc : down 0.4 pct premarket BUZZ-Tesla Inc: KeyBanc lowers Model 3 delivery est for Q4 [L4N1OR3AT]
+tesla,2017-12,** Nova LifeStyle Inc : up 18.3 pct premarket BUZZ-Nova LifeStyle: Gains on blockchain-powered unit progress [nL4N1OR35O]
+tesla,2017-12,** HTG Molecular Diagnostics Inc : up 16.0 pct premarket BUZZ-HTG Molecular Diagnostics: Up on revised collaboration with Germany's Merck [nL4N1OR34H]
+tesla,2017-12,** Diffusion Pharmaceuticals Inc : up 22.3 pct premarket BRIEF-Diffusion Pharmaceuticals begins phase 3 clinical trial with TSC in glioblastoma multiforme [nASB0BZ5C] ** Marathon Patent Group Inc : up 4.4 pct premarket ** Riot Blockchain Inc : down 2.1 pct premarket UPDATE 3-Bitcoin recovers some losses after its worst week since 2013 [nL4N1OQ1PI] ** Digital Power Corp : up 5.5 pct premarket BUZZ-Digital Power Corp: Updates cryptocurrency mining strategy [nL4N1OR35K]
+tesla,2017-12,** Pareteum Corp : up 5.4 pct premarket BUZZ-Digital Power Corp: Updates cryptocurrency mining strategy [nL4N1OR35K]
+tesla,2017-12,** Protalix BioTherapeutics Inc : up 5.3 pct premarket BUZZ-Protalix BioTherapeutics: Fabry drug gets orphan status in Europe[nL4N1OR389]
+tesla,2017-12,** Horizon Pharma PLC : up 1.7 pct premarket BRIEF-Horizon Pharma announces FDA approval to expand the indication for procysbi [nASB0BZ5F]
+tesla,2017-12,** NII Holdings Inc : up 18.4 pct premarket BRIEF-Joseph Samberg reports 9.5 percent passive stake in nII Holdings [nFWN1OQ041]
+tesla,2017-12,Dec 27 (Reuters) - The following are the top stories in the Wall Street Journal. Reuters has not verified these stories and does not vouch for their accuracy.
+tesla,2017-12,"Dec 26 (Reuters) - Tesla Inc will build a pickup truck soon after producing electric crossover vehicle Model Y, Chief Executive Elon Musk said on Tuesday."
+tesla,2017-12,"The Model Y, to be built on the same platform as the Model 3 sedan, was tentatively scheduled to begin production in mid-2019, Reuters reported in June."
+tesla,2017-12,"The electric vehicle maker first announced plans for a pickup truck last July, alongside a ""master plan"" to develop a commercial truck, a public transport bus and a compact sport utility vehicle."
+tesla,2017-12,Musk had said in April that the pickup truck would be unveiled within 18 to 24 months.
+tesla,2017-12,"{{20171226T060519.842+0000}}Shanghai stock market edges up, but blue-chip index downSHANGHAI, Dec 26 (Reuters)"
+tesla,2017-12,"SHANGHAI, Dec 26 (Reuters) - China's main Shanghai stock market <.SSEC> rose slightly on Tuesday, but both the blue-chip index <.CSI300> and the start-up board ChiNext <.CHINEXTP> dipped in holiday-thinned trade, as banking system liquidity remains relatively tight."
+tesla,2017-12,"** Hong Kong market is closed for the Christmas holiday, so the cross-border Connect scheme which typically contributes to China market liquidity is also shut."
+tesla,2017-12,"{{20171222T074831.608+0000}}REFILE-Bracing for EV shift, NGK Spark Plug ignites all solid-state battery questNAGOYA, Japan, Dec 22 (Reuters)"
+tesla,2017-12,* NGK Spark Plug joins other suppliers in developing EV parts
+tesla,2017-12,"NAGOYA, Japan, Dec 22 (Reuters) - Facing the eventual demise of gasoline engines, the world's biggest maker of spark plugs is turning its focus to a component it believes will be just as vital in the coming era of electric vehicles - next-generation all solid state batteries."
+tesla,2017-12,"Japan's NGK Spark Plug Co <5334.T> has for years leveraged its expertise in ceramics technology used in spark plugs to expand into sensors, semiconductors and other products mainly for automobiles."
+tesla,2017-12,"Now, it sees a future in all solid-state batteries, which experts believe will be safer and more powerful than the lithium-ion batteries currently used in battery electric vehicles (EVs)."
+tesla,2017-12,"After dominating transport for 150 years, the internal combustion engine is facing the end of the road in the coming decades as tightening global emissions regulations force automakers to develop more electric cars."
+tesla,2017-12,"""We realised that it was inevitable that the industry would at some point shift from the internal combustion engine to battery EVs, and that ultimately this could make our spark plug and oxygen sensor businesses obsolete,"" Takio Kojima, senior general manager of engineering and R&D at NGK Spark Plug told Reuters in an interview."
+tesla,2017-12,"""Our expertise is in advanced ceramics, and so we have decided to pursue all solid-state batteries."""
+tesla,2017-12,"Established in 1936 and based in Japan's automaking heartland of Nagoya, NGK Spark Plug's realisation that its main business faced obsolescence came around 2010, Kojima said."
+tesla,2017-12,"That was the year Nissan Motor Co <7201.T> rolled out the Leaf, the first mass-production all battery EV, and just after Tesla Inc came out with the Roadster, its first production car."
+tesla,2017-12,Other global parts suppliers are also scrambling to overhaul their product portfolios.
+tesla,2017-12,"In Japan, Denso Corp <6902.T> has teamed up with Toyota Motor Corp <7203.T> and Mazda Motor Corp <7261.T> to develop battery EVs while transmission maker Aisin Seiki Co <7259.T> is developing hybrid transmission systems and EV-specific, four-wheel-drive units."
+tesla,2017-12,"In the United States, powertrain products maker Borg Warner has expanded into hybrid and electric car parts, including transmissions and drive modules for electric cars."
+tesla,2017-12,"Industry experts anticipate plug-in hybrid petrol-electric vehicles and all-battery EVs will account for as much as 26 percent of global car sales by 2030, versus just over 1 percent last year, data from the International Energy Agency shows."
+tesla,2017-12,"The rise in EV use will require a steep increase in manufacturing capacity for longer-life batteries which are more powerful, lighter and can charge quicker than conventional lithium-ion batteries."
+tesla,2017-12,"NGK Spark Plug joins Toyota and other companies developing all solid-state car batteries, which offer more capacity and better safety than conventional lithium-ion batteries by replacing their liquid or gel-like electrolyte with a solid, conductive material."
+tesla,2017-12,"Toyota is developing batteries with sulfide-based solid electrolytes, which offer high conductivity and are relatively flexible but can release toxic hydrogen sulfide when exposed to moisture."
+tesla,2017-12,"NGK Spark Plug is betting on a different technology with an oxide-based chemistry using ceramics which is highly stable at extreme temperatures, but has less conductivity. In addition, brittle ceramics can be difficult to process."
+tesla,2017-12,"Japan's TDK Corp <6762.T> has developed small, ceramic, all solid-state batteries for use mainly in wearable devices like personal fitness monitors, while Murata Manufacturing Co <6981.T> is developing similar products."
+tesla,2017-12,"But NGK Spark Plug has bigger plans, developing a larger format necessary for cars."
+tesla,2017-12,"""It's relatively easy to work in smaller sizes, but when you get to larger sizes it gets very difficult to assemble each layer because it's difficult to make each layer the same thickness,"" said Hideaki Hikosaka, a member of NGK Spark Plug's solid state battery R&D team."
+tesla,2017-12,"The company has spent the past five years developing a solid, oxide-based electrolyte which incorporates an additional material to make it resemble a sulfide-based one."
+tesla,2017-12,"This makes the electrolyte easier to process into larger, thin layers which are compressed, making them easier to stack with anodes and cathodes."
+tesla,2017-12,"""It's because of the addition of that material that we're able to process layers using compression (rather than sintering) to make a bigger, oxide-based battery cell. At the same time, it doesn't release any gases like sulfides do,"" Hikosaka said."
+tesla,2017-12,"As a result, the company has developed a 10 cm by 10 cm battery pouch cell, much bigger than 4.5 mm by 3.2 mm cells developed by TDK."
+tesla,2017-12,NGK Spark Plug declined to comment on the material used in its oxide compound and the capabilities of its battery.
+tesla,2017-12,"Hikosaka said his team was working to raise the battery's energy density to enable it to match the performance of lithium ion batteries by around 2020, and to develop more powerful, lighter and competitively priced batteries ""in the 2020s""."
+tesla,2017-12,"Battery experts believe producing affordable, all solid-state batteries in the 2020s, a target also shared by Toyota, is ambitious given the challenges of achieving a fine balance between numerous performance characteristics."
+tesla,2017-12,"Once they do come to market, some experts believe competition between batteries based on oxides, sulfides, and other chemistries would likely heat up, as producers vie to deliver batteries with diverse specifications."
+tesla,2017-12,"""If these chemistries can compete and win against lithium-ion and we see a shift to all solid-state, we might see a diversification in the materials used in them, as in lithium-ion batteries,"" said Venkat Srinivasan, director of the Argonne Collaborative Center for Energy Storage Science in Illinois."
+tesla,2017-12,"""Some automakers and battery makers might be more interested in conductivity than oxidative stability, for example ... Batteries are all about compromise. You're not going to hit every metric."""
+tesla,2017-12,"{{20171222T021643.000+0000}}UPDATE 1-Some U.S. automakers go slow on automatic emergency braking systemsWASHINGTON, Dec 21 (Reuters)"
+tesla,2017-12,"WASHINGTON, Dec 21 (Reuters) - U.S. automakers installed automatic emergency braking technology that experts said could prevent thousands of deaths and injuries in just 19 percent of new vehicles sold in the 2017 model year, regulators and safety advocates said on Thursday."
+tesla,2017-12,"Last year, 20 automakers struck a voluntary agreement with the U.S. National Highway Traffic Safety Administration (NHTSA) to make collision-avoiding braking systems standard equipment on nearly all light vehicles by September 2022, representing 99 percent of all U.S. vehicle sales."
+tesla,2017-12,"The push comes as U.S. traffic deaths jumped 5.6 percent in 2016 to a decade-high 37,461, and pedestrian deaths rose 9 percent to 5,987, the highest number since 1990. By 2025, standard automatic braking systems could prevent 28,000 crashes and 12,000 injuries, the Insurance Institute for Highway Safety estimated."
+tesla,2017-12,"Automatic braking systems, which activate brakes when the technology senses objects ahead and the driver does not slow down, require more sensors and software than conventional brakes and add to vehicle costs. Automakers say they need time to engineer the systems that use radar or cameras into vehicles as part of more comprehensive makeovers."
+tesla,2017-12,"Luxury automakers have been quick to install the systems, while others have lagged."
+tesla,2017-12,"Tesla Inc and Daimler AG's Mercedes-Benz unit have installed the technology on virtually all vehicles sold, according to figures released by NHTSA."
+tesla,2017-12,"Toyota Motor Corp <7203.T> has the largest number of 2017 model vehicles with automatic emergency braking, equipping 56 percent of its fleet, or 1.4 million vehicles."
+tesla,2017-12,"Volkswagen AG's VW brand has it in 36 percent of vehicles, while its Audi unit has it in 73 percent of vehicles. Its Porsche unit did not install the technology on any 2017 vehicles. Subaru Corp <7270.T> has the technology in nearly all vehicles sold."
+tesla,2017-12,"General Motors Co installed the technology on 20 percent of vehicles sold, while Fiat Chrysler Automobiles NV has it in 6 percent and Ford Motor Co just 2 percent - the lowest of any major automaker. Jaguar Land Rover, owned by India's Tata Motors did not install the technology on any 2017 vehicles."
+tesla,2017-12,"GM said it continues to expand availability of automatic emergency braking, and about two thirds of its U.S. models offer the system."
+tesla,2017-12,"Ford spokeswoman Elizabeth Weigandt said the automaker offers automatic emergency braking on a number of vehicles and has ""a plan to standardize over time."""
+tesla,2017-12,"Fiat Chrysler backs the 2022 commitment, and a spokesman said it is offering automatic emergency braking on a growing number of vehicles."
+tesla,2017-12,"Jason Levine, executive director of the Center for Auto Safety, said automakers are ""playing roulette with the lives of consumers who cannot afford safety as a luxury."" He said NHTSA must write mandatory regulations, not rely on a voluntary agreement."
+tesla,2017-12,"{{20171221T225245.950+0000}}Some U.S. automakers go slow on automatic emergency braking systemsWASHINGTON, Dec 21 (Reuters)"
+tesla,2017-12,"WASHINGTON, Dec 21 (Reuters) - U.S. automakers installed automatic emergency braking technology that experts said could prevent thousands of deaths and injuries in just 19 percent of new vehicles sold in the 2017 model year, regulators and safety advocates said on Thursday."
+tesla,2017-12,"Last year, 20 automakers struck a voluntary agreement with the U.S. National Highway Traffic Safety Administration (NHTSA) to make collision-avoiding braking systems standard equipment on nearly all light vehicles by September 2022."
+tesla,2017-12,"The push comes as U.S. traffic deaths jumped 5.6 percent in 2016 to a decade-high 37,461, and pedestrian deaths rose 9 percent to 5,987, the highest number since 1990. By 2025, standard automatic braking systems could prevent 28,000 crashes and 12,000 injuries, the Insurance Institute for Highway Safety estimated."
+tesla,2017-12,"Automatic braking systems, which activate brakes when the technology senses objects ahead and the driver does not slow down, require more sensors and software than conventional brakes and add to vehicle costs. Automakers say they need time to engineer the systems into vehicles as part of more comprehensive makeovers."
+tesla,2017-12,"Luxury automakers have been quick to install the systems, while others have lagged."
+tesla,2017-12,"Tesla Inc and Daimler AG's Mercedes-Benz unit have installed it on virtually all vehicles sold, according to figures released by NHTSA."
+tesla,2017-12,"Toyota Motor Corp <7203.T> has the largest number of 2017 model vehicles with automatic emergency braking, equipping 56 percent of its fleet, or 1.4 million vehicles."
+tesla,2017-12,"Volkswagen AG's VW brand has it in 36 percent of vehicles, while its Audi unit has it in 73 percent of vehicles. Subaru Corp <7270.T> has the technology in nearly all vehicles sold."
+tesla,2017-12,"General Motors Co installed the technology on 20 percent of vehicles sold, while Fiat Chrysler Automobiles NV has it in 6 percent and Ford Motor Co just 2 percent -- the lowest of any major automaker."
+tesla,2017-12,"GM said it continues to expand availability of automatic emergency braking, and about two thirds of its U.S. models offer the system."
+tesla,2017-12,"Ford spokeswoman Elizabeth Weigandt said the automaker offers automatic emergency braking on a number of vehicles and has ""a plan to standardize over time."""
+tesla,2017-12,"Fiat Chrysler backs the 2022 commitment and a spokesman said it offers forward collision warning systems, which alert drivers to objects or vehicles in front of them but do no activate the brakes, on a number of vehicles."
+tesla,2017-12,"Jason Levine, executive director of the Center for Auto Safety, said automakers are ""playing roulette with the lives of consumers who cannot afford safety as a luxury."" He said NHTSA must write mandatory regulations, not rely on a voluntary agreement."
+tesla,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet - Reuters News"
+tesla,2017-12,"{{20171219T181706.579+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,Wall Street dipped on Tuesday ahead of a vote on a bill to overhaul the U.S. tax
+tesla,2017-12,"system, with a pullback in technology stocks leading the declines after two"
+tesla,2017-12,strong session of gains on hopes that Congress will vote in favor of the bill.
+tesla,2017-12,"At 12:56 ET, the Dow Jones Industrial Average <.DJI> was down 0.12 percent"
+tesla,2017-12,"BUZZ-Apple: Instinet cuts to 'neutral', sees limited upside to iPhone X sales"
+tesla,2017-12,"BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view"
+tesla,2017-12,"BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018 [nL4N1OJ3VZ]"
+tesla,2017-12,"BUZZ-Crypto Co: SEC suspends trading after 2,700 pct bitcoin-fueled surge"
+tesla,2017-12,SEC suspends trading in tiny firm after eye-popping rise [nL4N1OJ486]
+tesla,2017-12,BUZZ-OTC-traded bitcoin bets tumble after SEC suspends Crypto Co shares
+tesla,2017-12,BUZZ-Riot Blockchain: Gains despite private placement on stormy day for crypto
+tesla,2017-12,"BUZZ-Longfin dives, then rebounds in turbulent day for crypto"
+tesla,2017-12,"BUZZ-Kindred Healthcare to be bought by Humana, private equity [nL4N1OJ48T]"
+tesla,2017-12,"BUZZ-Carnival Corp: Robust demand, higher ticket prices boost results"
+tesla,2017-12,"BUZZ-Altria: Berenberg says lower tax to boost EPS, div payout [nL4N1OJ46C]"
+tesla,2017-12,"BUZZ-Tenet Healthcare: Boosted by plan to sale unit, cut more costs"
+tesla,2017-12,BUZZ-Spark Therapeutics: FDA approves gene therapy for rare form of blindness
+tesla,2017-12,BUZZ-Cars.com: Accelerates to record high on Starboard stake [nL4N1OJ3UI]
+tesla,2017-12,BUZZ-U.S. banks mixed ahead of Congress vote on tax bill [nL4N1OJ4D7]
+tesla,2017-12,BUZZ-Funko Inc: Wobbles to record low after BMO downgrade [nL1N1OJ0VL]
+tesla,2017-12,UPDATE 1-Packaging company Crown Holdings to buy Signode in $3.91 bln deal
+tesla,2017-12,BUZZ-Jack in the Box to sell Qdoba Restaurant unit to Apollo Global
+tesla,2017-12,BUZZ-Zimmer Biomet: Top of S&P after CEO hunt finally ends [nL4N1OJ44J]
+tesla,2017-12,BUZZ-Remark Holdings: Hits 9-yr high on new KanKan deal in China [nL4N1OJ4B2]
+tesla,2017-12,BUZZ-Novavax Inc: Down on delayed data from influenza vaccine study
+tesla,2017-12,"BUZZ-Sucampo: Nomura bullish on ultra-rare disease drug, says 'buy'"
+tesla,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet - Reuters News"
+tesla,2017-12,"{{20171219T172532.815+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, Cryptocurrency stocks, Cars.com, Zimmer Biomet* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,"Wall Street dipped on Tuesday, ahead of a vote on a bill to overhaul the U.S."
+tesla,2017-12,"tax system, weighed down by an Apple-led pullback after two strong session of"
+tesla,2017-12,gains on rising hopes that the U.S. Congress will vote in favor of the bill.
+tesla,2017-12,"At 11:36 ET, the Dow Jones Industrial Average <.DJI> was down 0.11 percent"
+tesla,2017-12,"BUZZ-Apple: Instinet cuts to 'neutral', sees limited upside to iPhone X sales"
+tesla,2017-12,BUZZ-McDonald's value menu could turn 2018 into a year of deep discounting in
+tesla,2017-12,"BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view"
+tesla,2017-12,"BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018 [nL4N1OJ3VZ]"
+tesla,2017-12,"UPDATE 3-Humana, private equity firms buy Kindred Healthcare for $810 mln"
+tesla,2017-12,"BUZZ-Kindred Healthcare to be bought by Humana, private equity [nL4N1OJ48T]"
+tesla,2017-12,UPDATE 1-Cruise operator Carnival beats Street on boost from ticket prices
+tesla,2017-12,"BUZZ-Carnival Corp: Robust demand, higher ticket prices boost results"
+tesla,2017-12,"BUZZ-Altria: Berenberg says lower tax to boost EPS, div payout [nL4N1OJ46C]"
+tesla,2017-12,UPDATE 2-Tenet explores sale of Conifer unit amid investor pressure
+tesla,2017-12,"BUZZ-Tenet Healthcare: Boosted by plan to sale unit, cut more costs"
+tesla,2017-12,BUZZ-Spark Therapeutics: FDA approves gene therapy for rare form of blindness
+tesla,2017-12,FDA approves Spark's gene therapy for rare form of blindness [nFWN1OJ0N6]
+tesla,2017-12,BUZZ-Cars.com: Accelerates to record high on Starboard stake [nL4N1OJ3UI]
+tesla,2017-12,BUZZ-U.S. banks mixed ahead of Congress vote on tax bill [nL4N1OJ4D7]
+tesla,2017-12,"BUZZ-Longfin dives, then rebounds in turbulent day for crypto [nL1N1OJ18Q]"
+tesla,2017-12,BUZZ-Funko Inc: Wobbles to record low after BMO downgrade [nL1N1OJ0VL]
+tesla,2017-12,UPDATE 1-Packaging company Crown Holdings to buy Signode in $3.91 bln deal
+tesla,2017-12,Jack in the Box to sell Qdoba Restaurant unit for $305 mln cash [nL4N1OJ3NN]
+tesla,2017-12,BUZZ-Jack in the Box to sell Qdoba Restaurant unit to Apollo Global
+tesla,2017-12,BUZZ-Zimmer Biomet: Top of S&P after CEO hunt finally ends [nL4N1OJ44J]
+tesla,2017-12,BUZZ-Remark Holdings: Hits 9-yr high on new KanKan deal in China [nL4N1OJ4B2]
+tesla,2017-12,"BUZZ-Crypto Co: SEC suspends trading after 2,700 pct bitcoin-fueled surge"
+tesla,2017-12,SEC suspends trading in tiny firm after eye-popping rise [nL4N1OJ486]
+tesla,2017-12,BUZZ-OTC-traded bitcoin bets tumble after SEC suspends Crypto Co shares
+tesla,2017-12,BUZZ-Novavax Inc: Down on delayed data from influenza vaccine study
+tesla,2017-12,"BUZZ-Sucampo: Nomura bullish on ultra-rare disease drug, says 'buy'"
+tesla,2017-12,"{{20171219T152250.072+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Wal-Mart, GM, Cars.com, Zimmer Biomet, Navistar* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,"Wall Street's main indexes were slightly lower on Tuesday, weighed down by an"
+tesla,2017-12,Apple-led pullback in technology stocks and after two strong session of gains on
+tesla,2017-12,rising hopes that the U.S. Congress will vote in favor of a proposed tax
+tesla,2017-12,"At 9:56 ET, the Dow Jones Industrial Average <.DJI> was down 0.19 percent at"
+tesla,2017-12,"BUZZ-Apple: Instinet cuts to 'neutral', sees limited upside to iPhone X sales"
+tesla,2017-12,BUZZ-McDonald's value menu could turn 2018 into a year of deep discounting in
+tesla,2017-12,"BUZZ-GM: RBC raises to 'outperform', sees co's 2018 forecast above Street view"
+tesla,2017-12,"BUZZ-Wal-Mart: Citi says ""buy"" on more room to run in 2018 [nL4N1OJ3VZ]"
+tesla,2017-12,"BUZZ-Altria: Berenberg says lower tax to boost EPS, div payout [nL4N1OJ46C]"
+tesla,2017-12,UPDATE 1-Cruise operator Carnival beats Street on boost from ticket prices
+tesla,2017-12,"BUZZ-Carnival Corp: Robust demand, higher ticket prices boost results"
+tesla,2017-12,UPDATE 1-Tenet to explore Conifer unit sale amid investor pressure [nL4N1OJ3SK]
+tesla,2017-12,"BUZZ-Tenet Healthcare: Boosted by plan to sale unit, cut more costs"
+tesla,2017-12,BUZZ-Cars.com: Accelerates to record high on Starboard stake [nL4N1OJ3UI]
+tesla,2017-12,Jack in the Box to sell Qdoba Restaurant unit for $305 mln cash [nL4N1OJ3NN]
+tesla,2017-12,BUZZ-Jack in the Box to sell Qdoba Restaurant unit to Apollo Global
+tesla,2017-12,BUZZ-Zimmer Biomet: Top of S&P after CEO hunt finally ends [nL4N1OJ44J]
+tesla,2017-12,BUZZ-Novavax Inc: Down on delayed data from influenza vaccine study
+tesla,2017-12,"{{20171219T144549.000+0000}}UPDATE 2-UPS reserves 125 Tesla semi-trucks, largest public pre-order yetDETROIT, Dec 19 (Reuters)"
+tesla,2017-12,"DETROIT, Dec 19 (Reuters) - United Parcel Service Inc said on Tuesday it is buying 125 Tesla Inc all-electric semi-trucks, the largest known order for the big rig so far, as the package delivery company expands its fleet of alternative-fuel vehicles."
+tesla,2017-12,"Tesla is trying to convince the trucking community it can build an affordable electric big rig with the range and cargo capacity to compete with relatively low-cost, time-tested diesel trucks. This is the largest public order of the big rig so far, Tesla said."
+tesla,2017-12,Tesla unveiled its semi last month and expects the truck to be in production by 2019.
+tesla,2017-12,"The Tesla trucks will cost around $200,000 each for a total order of about $25 million. UPS expects the semi-trucks, the big rigs that haul freight along America's highways, will have a lower total cost of ownership than conventional vehicles, which run at about $120,000."
+tesla,2017-12,"Tesla has received pre-orders from such major companies as Walmart , fleet operator J.B. Hunt Transport Services Inc and food service distributor Sysco Corp [nL3N1NN3V7]"
+tesla,2017-12,"Prior to UPS, the largest single pre-order came from PepsiCo Inc , for 100 trucks. [nL1N1OC15U]"
+tesla,2017-12,UPS said it has provided Tesla with data on how its trucks function on their real-world routes in order to evaluate how the vehicle should perform in its fleet.
+tesla,2017-12,"""As with any introductory technology for our fleet, we want to make sure it's in a position to succeed,"" Scott Phillippi, UPS senior director for automotive maintenance and engineering for international operations, told Reuters."
+tesla,2017-12,"Phillippi said the 125 trucks will allow UPS to conduct a proper test of their abilities. He said the company was still determining their routes, but the semis will ""primarily be in the United States."" Tesla will provide consultation and support on charging infrastructure."
+tesla,2017-12,"""We have high expectations and are very optimistic that this will be a good product and it will have firm support from Tesla to make it work,"" Phillippi said."
+tesla,2017-12,"The UPS alternative fuel fleet already includes trucks propelled by electricity, natural gas, propane and other non-traditional fuels."
+tesla,2017-12,"About 260,000 semis, or heavy-duty Class-8 trucks, are produced in North America annually, according to FTR, an industry economics research firm."
+tesla,2017-12,"Including the UPS order, Tesla has at least 410 pre-orders in hand, according to a Reuters tally."
+tesla,2017-12,"Navistar International Corp and Volkswagen AG hope to launch a smaller, electric medium-duty truck by late 2019, while rival Daimler AG has delivered the first of a smaller range of electric trucks to customers in New York."
+tesla,2017-12,"In afternoon trade on Nasdaq, Tesla shares were down nearly 1.1 percent at $335.24."
+tesla,2017-12,"{{20171219T140850.508+0000}}UPS pre-orders 125 Tesla electric semi-trucks, largest order yetDETROIT, Dec 19 (Reuters)"
+tesla,2017-12,"DETROIT, Dec 19 (Reuters) - United Parcel Service Inc said on Tuesday it is buying 125 Tesla Inc all-electric semi-trucks, the largest order for the big rig so far, as the package delivery company expands its fleet of alternative-fuel vehicles."
+tesla,2017-12,"Tesla is trying to convince the trucking community it can build an affordable electric big rig with the range and cargo capacity to compete with relatively low-cost, time-tested diesel trucks."
+tesla,2017-12,"The Tesla trucks will cost around $200,000 each for a total order of about $25 million. UPS expects the semi-trucks, the big rigs that haul freight along America's highways, will have a lower total cost of ownership than conventional vehicles, which run about $120,000."
+tesla,2017-12,"Tesla has received pre-orders from such major companies as Walmart , fleet operator J.B. Hunt Transport Services Inc and food service distributor Sysco Corp [nL3N1NN3V7]"
+tesla,2017-12,"Prior to UPS, the largest single pre-order came from PepsiCo Inc , for 100 trucks. [nL1N1OC15U]"
+tesla,2017-12,UPS said it has provided Tesla with real-world routing information as part of its evaluation of the vehicle's expected performance.
+tesla,2017-12,"""As with any introductory technology for our fleet, we want to make sure it's in a position to succeed,"" Scott Phillippi, UPS senior director for automotive maintenance and engineering for international operations, told Reuters."
+tesla,2017-12,"Phillippi said the 125 trucks will allow UPS to conduct a proper test of their abilities. He said the company was still determining their routes, but the semis will ""primarily be in the United States."" Tesla will provide consultation and support on charging infrastructure."
+tesla,2017-12,"""We have high expectations and are very optimistic that this will be a good product and it will have firm support from Tesla to make it work,"" Phillippi said."
+tesla,2017-12,"The UPS alternative fuel fleet already includes trucks propelled by electricity, natural gas, propane and other non-traditional fuels."
+tesla,2017-12,"About 260,000 semis, or heavy-duty Class-8 trucks, are produced in North America annually, according to FTR, an industry economics research firm."
+tesla,2017-12,"Including the UPS order, Tesla has at least 410 pre-orders in hand, according to a Reuters tally."
+tesla,2017-12,"Navistar International Corp and Volkswagen AG hope to launch a smaller, electric medium-duty truck by late 2019, while rival Daimler AG has delivered the first of a smaller range of electric trucks to customers in New York."
+tesla,2017-12,Tesla unveiled its semi last month and expects the truck to be in production by 2019.
+tesla,2017-12,"{{20171219T125817.975+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, GM, McDonald's, Roku, Navistar, Akers Biosciences* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,"Wall Street's major indexes were poised to inch higher at the open on Tuesday, building on gains in the past two sessions on rising hopes that the U.S. Congress will vote for the biggest overhaul of the country's tax system in more than 30 years.[.N]"
+tesla,2017-12,"{{20171219T120035.137+0000}}BUZZ-Tesla: RBC lifts PT, says industry welcomes electric truck** RBC hikes Tesla PT to $380 from $340, a 12 pct upside to current levels"
+tesla,2017-12,"** With almost 300 orders, industry has welcomed Tesla's electric semi truck; entry to be disruptive for existing players and have meaningful effect on TSLA earnings but not until 2020-21 - RBC (""sector-perform"" on TSLA)"
+tesla,2017-12,"** There is an ""intense focus"" on cash flow in 2018, which is clearly dependent on Model 3; as deliveries take place, working capital should begin to benefit but capex likely to remain elevated - RBC"
+tesla,2017-12,"** We don't quite see Tesla needing to raise capital, but it is close; believe that TSLA will be a continued issuer of capital to fund their ambitions - RBC"
+tesla,2017-12,"** 2018 to be ""another volatile year"" for Tesla but co will eventually get past Model 3 bottlenecks - RBC"
+tesla,2017-12,"{{20171216T001312.000+0000}}Republican tax bill retains U.S. electric vehicle tax creditWASHINGTON, Dec 15 (Reuters)"
+tesla,2017-12,"WASHINGTON, Dec 15 (Reuters) - A compromise Republican tax bill released late Friday does not eliminate a $7,500 electric vehicle tax credit as Republicans in the U.S. House of Representatives had previously proposed."
+tesla,2017-12,"The measure follows the lead of the Senate version approved last month that did not eliminate the credit. Killing the credit could have hurt automakers like General Motors Co , Volkswagen AG , Tesla Inc and Nissan Motor Co <7201.T>."
+tesla,2017-12,"Consumers under current law are eligible for a $7,500 tax credit to defray the cost of plug-in electric vehicles. The electric vehicle tax credit starts to phase out after a manufacturer sells 200,000 plug-in vehicles. After an automaker hits that point, the $7,500 tax credit is still available for at least three more months before phasing out."
+tesla,2017-12,"Consumers are currently allowed to take the credit on vehicles until the manufacturer hits 200,000 plug-in vehicles sold. Electric vehicles have expensive batteries that make them pricier than gasoline-powered vehicles."
+tesla,2017-12,"The Electric Drive Transportation Association said in a statement late Friday it was pleased the credit would remain in law. ""The credit supports innovation and job creation while helping drivers access advanced vehicle technology,"" the group said."
+tesla,2017-12,"More than 50 automakers and other companies and groups released a letter earlier this week urging Congress to retain the credit, including Ford Motor Co , BMW AG , GM, Uber Technologies Inc [UBER.UL]."
+tesla,2017-12,"Former President Barack Obama repeatedly proposed hiking the tax credit for electric vehicles to $10,000 and converting it to a point-of-sale rebate, but Congress did not approve the measure."
+tesla,2017-12,Automakers face mandates from California and a dozen other states to produce a rising number of zero-emission vehicles and have said the credits are essential to meeting requirements.
+tesla,2017-12,"{{20171215T211146.117+0000}}Hungary courts Tesla with tax breaks, incentives -MTIBUDAPEST, Dec 15 (Reuters)"
+tesla,2017-12,"BUDAPEST, Dec 15 (Reuters) - Hungary's foreign minister has met executives of electric vehicle manufacturer Tesla during a tour of Silicon Valley, extolling tax breaks and other incentives offered to car makers, national news agency MTI reported on Friday."
+tesla,2017-12,"The production and export of cars by foreign automakers is a key driver of economic growth in Hungary, where wages for skilled workers are well below Western European levels."
+tesla,2017-12,"The car sector employs over 100,000 people and accounts for about a third of industrial output in Hungary, an eastern member of the European Union. Neighbouring Slovakia and the Czech Republic are also major car making hubs in the region."
+tesla,2017-12,"""Our purpose with today's visit was to place Hungary on the map ... as a country, which puts great emphasis on the car sector,"" Szijjarto was quoted as saying after talks on Thursday with Tesla's business development and legal directors."
+tesla,2017-12,"Szijjarto said Tesla executives responded ""very positively"" to tax breaks linked to research and development and investments in Hungary, as well as the country's corporate tax rate, which at 9 percent is the lowest in the 28-member EU."
+tesla,2017-12,"The minister said Hungary aimed to install over 3,000 electric charging points by 2019."
+tesla,2017-12,"He added that Tesla would build two supercharging stations in Hungary by the end of next year, one in the western town of Gyor, an industrial hub home to German premium car maker Audi , and another in Nagykanizsa in the southwest."
+tesla,2017-12,"Audi is one of Hungary's biggest exporters and revenue earners and the company describes the Gyor engine plant as the world's largest, supplying more than 30 Volkswagen Group sites."
+tesla,2017-12,"Other major car makers in Hungary include German rival Daimler , PSA Group's Opel, and Suzuki Motor Corp <7269.T>."
+tesla,2017-12,South Korea's SK Innovation <096770.KS> said last month it would invest 840.2 billion won ($771.86 million) to build an electric vehicle battery plant in Hungary to meet demand from automakers in Europe.
+tesla,2017-12,{{20171215T211145.689+0000}}CORRECTED-Tesla largely responsible for slide in U.S. home solar salesDec 15 (Reuters)
+tesla,2017-12,"(Removes attribution to report in headline, corrects which GTM report data comes from in paragraphs 8 and 9)"
+tesla,2017-12,"Dec 15 (Reuters) - After years of double-digit growth, home solar installations in the United States are poised to fall for the first time this year, according to a report released on Thursday by GTM Research."
+tesla,2017-12,"The reason? An analysis of installation data suggests that most of the slowdown is traceable to a single company: Tesla Inc , which acquired sister company SolarCity about a year ago."
+tesla,2017-12,"For years, SolarCity, with early backing from Tesla CEO Elon Musk, was the biggest player in residential solar and the driving force behind that market's supercharged growth."
+tesla,2017-12,"When Tesla bought SolarCity last year, Musk called the acquisition a ""no-brainer,"" saying the two companies shared ""the same overarching goal of sustainable energy."""
+tesla,2017-12,"But under Tesla's ownership, the company has largely stopped its aggressive marketing campaigns and ambitious expansion."
+tesla,2017-12,"As a result, Tesla's rooftop solar installations have fallen sharply each quarter this year compared to last. In the third quarter, installations were off by 42 percent over the previous year."
+tesla,2017-12,"Tesla declined to comment for this story, but has previously said that while sales are down, margins are up. The company expects its fourth-quarter solar installation numbers to be higher than those of the third quarter."
+tesla,2017-12,"Overall, the residential solar market is expected to fall 13 percent this year, according to GTM's quarterly solar market report, released on Thursday. That compares with a 19 percent rise last year and four straight years before that of increases above 50 percent."
+tesla,2017-12,"SolarCity was responsible for an outsized portion of that growth, accounting for a quarter of the national market in 2016 and more than 30 percent the previous two years. By the third quarter of this year, its share had dropped to 14 percent, according to GTM's U.S. PV Leaderboard report."
+tesla,2017-12,"""If SolarCity accounted for a 30 percent share of the national market and you cut those installation volumes effectively in half, that's really what we are looking at in terms of the market downturn in 2017,"" said Austin Perea, who tracks the U.S. residential solar market for GTM."
+tesla,2017-12,SolarCity's rapid growth was fueled in part by a no-money-down offering that enabled residential customers to pay a monthly fee to go solar. The business generated huge sales volumes but led to investor concern about debt.
+tesla,2017-12,In many ways SolarCity's rise helped lift the fortunes of smaller rivals.
+tesla,2017-12,"""They spent a lot of money making people aware of what solar can do and all of us little guys have been the beneficiaries of that,"" said Jim Petersen, chief executive of Fremont, California-based PetersenDean, who said his company is forecasting sales growth of 7 to 9 percent this fiscal year."
+tesla,2017-12,"Tesla stopped selling installations door-to-door earlier this year, eliminating a major way it reached new customers. It now sells systems in its high-end retail stores, where cars and batteries are also sold."
+tesla,2017-12,"SolarCity's fall has benefited some competitors. Sunrun Inc , the largest publicly held standalone residential installer, has gained market share this year, and its installations are expected to rise 15 percent in 2017."
+tesla,2017-12,"{{20171214T160258.201+0000}}Ontario to introduce rebates to boost electric truck demandMONTREAL, Dec 14 (Reuters)"
+tesla,2017-12,"MONTREAL, Dec 14 (Reuters) - Canada's biggest province, Ontario, will introduce a new rebate program worth up to C$75,000 for buyers of electric trucks, in a move that could boost domestic purchases of models by Tesla Inc and rivals like China's BYD <1211.HK>, <002594.SZ> a government spokesman said ahead of a Thursday announcement."
+tesla,2017-12,"The program will offer buyers rebates of up to 60 percent of the incremental purchase cost of an electric truck, compared with an equivalent diesel vehicle, up to a cap of C$75,000 per vehicle, according to documents seen by Reuters."
+tesla,2017-12,"Ontario's new Green Commercial Vehicle Program, which also gives rebates on other fuel-saving devices, helps brings the province in line with other jurisdictions like Quebec, California and New York states, which offer incentives to defray the higher costs of electric trucks."
+tesla,2017-12,"Canadian firms, including retailer Loblaw Cos Ltd , have been among the first to pre-order Semi trucks from Tesla, which has at least 285 reservations in hand, according to a Reuters tally as of Dec. 12. [nL1N1OC15U]"
+tesla,2017-12,"Tesla has been trying to convince the trucking community that it can build an affordable electric big rig with the range and cargo capacity to compete with relatively low-cost, time-tested diesel trucks."
+tesla,2017-12,The rebate program comes as Ontario is working to attract electric vehicle manufacturers and parts-suppliers. The automaking province has lost ground in recent years to lower-cost jurisdictions like Mexico and the southern United States.
+tesla,2017-12,"The rebates are being offered through a C$12 million fund, for the fiscal year ending on March 31, 2018."
+tesla,2017-12,"The government used an existing incentive program to help attract BYD, which recently announced it will open an Ontario factory to assembly 900 electric vehicles over the next five years, Economic Development Minister Brad Duguid said by email."
+tesla,2017-12,"Ontario has set the target of cutting greenhouse gas pollution to 15 percent below 1990 levels by 2020, 37 percent by 2030 and 80 per cent by 2050 and the use of electric vehicles is expected to help reach that goal. ($1 = 1.2856 Canadian dollars)"
+tesla,2017-12,"Online shopping won't grow forever, says Unibail boss creating malls giant - Reuters News"
+tesla,2017-12,"{{20171214T140701.000+0000}}Online shopping won't grow forever, says Unibail boss creating malls giantSYDNEY/PARIS, Dec 14 (Reuters)"
+tesla,2017-12,* Says online shopping to peak at fifth of global spend
+tesla,2017-12,"SYDNEY/PARIS, Dec 14 (Reuters) - Online shopping has its limits and physical stores will never go out of fashion, says the CEO of Unibail-Rodamco which is betting $16 billion on buying Westfield to create a global mall giant."
+tesla,2017-12,The deal comes at a time when the traditional retail sector and shopping centres are under pressure to reinvent themselves in the face of fierce online competition led by Amazon . [nL8N1OC2T6]
+tesla,2017-12,"However, Unibail-Rodamco Chief Executive Christophe Cuvillier predicted online shopping would peak at 20 percent of global retail spending, up from 8-10 percent now, although he did not give a timeframe."
+tesla,2017-12,"""Internet will grow but internet cannot do everything. It's very difficult to be profitable on the internet, particularly pure-play online retailers,"" he told journalists on a call on Thursday."
+tesla,2017-12,"""Retailers need physical presence,"" he added, noting that largely online companies like Apple , Nespresso , Tesla and even Amazon had opened bricks-and-mortar stores."
+tesla,2017-12,"Franco-Dutch group Unibail's planned acquisition of Westfield will create a stronger competitor for the world's biggest commercial property owner Simon Property Group , one with 104 centres and more than 1.2 billion visitors a year."
+tesla,2017-12,"The deal gives Europe-focused Unibail, which owns Les 4 Temps and Forum des Halles in Paris and has centres spreading from Helsinki to Valencia, exposure to Britain, the United States and Italy, countries where Westfield operates 35 malls."
+tesla,2017-12,"The acquisition is part of Unibail's strategy of increasingly focusing on high-end ""destination"" malls in landmark locations and Westfield would bring shopping centres in big cities like London, New York and San Francisco, which offer customers a wide range of restaurants, bars and entertainment."
+tesla,2017-12,"Unibail could replicate some of Westfield's services at its other centres around Europe, including staging events like concerts and hosting pop-up shops, according to a source familiar with the matter."
+tesla,2017-12,"""The big (Westfield) malls are only getting stronger,"" said Grant Berry, portfolio manager at Australian broker S.G. Hiscock, which holds real-estate investment trust shares, including Westfield."
+tesla,2017-12,"""Nothing's changed in terms of these big malls as gathering places for entertainment and experiences."""
+tesla,2017-12,"As part of its ""destination"" mall push, Unibail has said it plans to sell some regional Westfield shopping centres in the United States to concentrate on malls in central locations of big cities, but has not provided more specific details."
+tesla,2017-12,Cuvillier said one of the reasons why many American malls and department stores were struggling was a failure to diversify into offering customers food.
+tesla,2017-12,"""I think it (food retailing) is a way of recovery for United States shopping centres. Some department stores ... have nothing more to offer."
+tesla,2017-12,"Dec 14 (Reuters) - U.S. solar installations will fall more than expected this year, according to an industry report released on Thursday, due to weakened demand for residential systems and delays on large projects over concerns that President Donald Trump will impose tariffs on imported panels, increasing costs."
+tesla,2017-12,"In a quarterly report, GTM Research said it expected U.S. installations to fall 22 percent to 11.8 gigawatts (GW) this year, down from a prior forecast that called for a decline of 17 percent. GTM conducted the analysis for the Solar Energy Industries Association trade group."
+tesla,2017-12,"In the third quarter, market installations fell 51 percent to 2.03 GW. Last year was a particularly strong year for installations as developers raced to capture a federal tax credit that had been scheduled to expire at the end of 2016. The solar market is also expected to fall next year but will resume growth in 2019, GTM said."
+tesla,2017-12,"Many utility-scale project developers are delaying projects due to tight solar panel supplies, the report said. Uncertainty regarding a trade case brought by U.S. manufacturer Suniva has raised the price of panels and prompted some developers to buy in advance of their needs, GTM said."
+tesla,2017-12,"Solar module prices averaged 45 cents per watt in the third quarter, up from 40 cents in the prior quarter."
+tesla,2017-12,"Trump is expected to make a final decision on the trade case next month. While Suniva wants less foreign competition, developers rely on low-priced imports to compete with fossil fuels and have argued against tariffs."
+tesla,2017-12,GTM cut its 2017 utility-scale forecast to 7.6 GW from 8.1 GW but lifted its view of the market for 2018 slightly to 6.6 GW from 6.5 GW.
+tesla,2017-12,"The industry's residential sector dropped 18 percent from last year because of weakness in big markets like California. The residential market has suffered this year due to a pullback by top installer SolarCity after its acquisition by Tesla Inc last year. Residential solar installations are expected to be down 13 percent for the year, the market's first-ever annual decline."
+tesla,2017-12,"Bucking the downward trend was the commercial sector. GTM's non-residential category, which includes projects for businesses and small communities, rose 22 percent from the third quarter of 2016 thanks to favorable policies in California, Massachusetts and New York. Installations also rose in Minnesota due to Xcel Energy Inc's community solar program."
+tesla,2017-12,{{20171213T072919.006+0000}}RPT-Toyota and Panasonic eye joint development of new EV batteries(Repeats to attach to additional alerts)
+tesla,2017-12,"TOKYO, Dec 13 (Reuters) - Japan's Panasonic Corp <6752.T> and Toyota Motor Corp <7203.T> said on Wednesday they will consider jointly developing batteries for electric vehicles."
+tesla,2017-12,The move could help Panasonic extend its lead as the world's largest automotive lithium-ion battery manufacturer.
+tesla,2017-12,The announcement builds on an existing agreement under which Panasonic manufactures batteries for Toyota's gasoline hybrid and plug-in hybrid vehicles.
+tesla,2017-12,Toyota said last year it was planning add fully electric vehicles to its product line-up - a strategic shift away from its previous position that it saw fuel-cell vehicles and plug-in hybrids as the most sensible technologies to make cars greener.
+tesla,2017-12,"{{20171213T065806.074+0000}}Toyota and Panasonic eye joint development of new EV batteriesTOKYO, Dec 13 (Reuters) - Japan's Panasonic Corp <6752.T> and Toyota Motor Corp <7203.T> said on Wednesday they will consider jointly developing batteries for electric vehicles."
+tesla,2017-12,The move could help Panasonic extend its lead as the world's largest automotive lithium-ion battery manufacturer.
+tesla,2017-12,The announcement builds on an existing agreement under which Panasonic manufactures batteries for Toyota's gasoline hybrid and plug-in hybrid vehicles.
+tesla,2017-12,Toyota said last year it was planning add fully electric vehicles to its product line-up - a strategic shift away from its previous position that it saw fuel-cell vehicles and plug-in hybrids as the most sensible technologies to make cars greener.
+tesla,2017-12,"{{20171213T022755.574+0000}}Toyota, Panasonic to hold news conference at 0630 GMTTOKYO, Dec 13 (Reuters) - Toyota Motor Corp <7203.T> and Panasonic Corp <6752.T> on Wednesday said they would hold a joint news conference in Tokyo at 3:30 pm (0630 GMT)."
+tesla,2017-12,The two companies did not give details on the content of the news conference.
+tesla,2017-12,The Nikkei business daily reported earlier on Wednesday that Toyota and Panasonic were forming a tie-up to establish standards for batteries used in electric vehicles which could help reduce manufacturing costs and establish recycling options for used batteries.
+tesla,2017-12,"Panasonic manufactures batteries used in Toyota's gasoline hybrid and plug-in hybrid vehicles, and Toyota is developing battery-electric vehicles (EVs) which it plans to market in the early 2020s."
+tesla,2017-12,A Toyota spokeswoman declined to comment on the Nikkei report. Panasonic also supplies Tesla Inc with EV batteries.
+tesla,2017-12,"{{20171212T180017.108+0000}}UPDATE 1-PepsiCo makes biggest public pre-order of Tesla Semis: 100 trucks(Updates pre-order tally, paragraph 6; adds details on other electric trucks, paragraph 4)"
+tesla,2017-12,"SEATTLE, Dec 12 (Reuters) - PepsiCo Inc has reserved 100 of Tesla Inc's new electric Semi trucks, the largest known order of the big rig, as the maker of Mountain Dew soda and Doritos chips seeks to reduce fuel costs and fleet emissions, a company executive said on Tuesday."
+tesla,2017-12,"Tesla has been trying to convince the trucking community that it can build an affordable electric big rig with the range and cargo capacity to compete with relatively low-cost, time-tested diesel trucks."
+tesla,2017-12,"Several transportation firms are holding off on the Tesla for now, citing uncertainty over the time it takes to recharge compared to a diesel fill-up, range, and payload capabilities and how the market for electric commercial vehicles will develop. [nL3N1NN3V7] [nL1N1NM1N4]"
+tesla,2017-12,"About 260,000 heavy-duty Class-8 trucks are produced in North America annually, according to FTR, an industry economics research firm."
+tesla,2017-12,"Navistar International Corp and Volkswagen AG's Truck and Bus are working to launch an electric medium duty truck by late 2019, while rival Daimler AG has delivered the first of a smaller range of electric trucks to customers in New York. [nL2N1LV11Y]"
+tesla,2017-12,"PepsiCo's 100 trucks add to orders by more than a dozen companies such as Wal-Mart Stores Inc , fleet operator J.B. Hunt Transport Services Inc , and food service distribution company Sysco Corp . Tesla has at least 285 truck reservations in hand, according to a Reuters tally."
+tesla,2017-12,PepsiCo intends to deploy Tesla Semis for shipments of snack foods and beverages between manufacturing and distribution facilities and direct to retailers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+tesla,2017-12,"The semi-trucks will complement PepsiCo's U.S. fleet of nearly 10,000 big rigs and are a key part of its plan to reduce greenhouse gas emissions across its supply chain by a total of at least 20 percent by 2030, said Mike O'Connell, senior director of North American supply chain for PepsiCo subsidiary Frito-Lay."
+tesla,2017-12,"PepsiCo is analyzing what routes are best for its Tesla trucks but sees a wide range of uses for lighter loads like snacks or shorter shipments of heavier beverages, O'Connell said."
+tesla,2017-12,Tesla declined to comment on its customers and potential customers to date.
+tesla,2017-12,Tesla unveiled the Semi last month and expects the truck to be in production by 2019.
+tesla,2017-12,"O'Connell declined to say how much PepsiCo paid to reserve its trucks, when it placed the order, or whether it plans to lease the trucks or buy them outright. Tesla initially asked $5,000 per truck for pre-orders but that amount has since risen to about $20,000."
+tesla,2017-12,"{{20171212T180015.000+0000}}UPDATE 1-PepsiCo makes biggest public pre-order of Tesla Semis: 100 trucksSEATTLE, Dec 12 (Reuters)"
+tesla,2017-12,"(Updates pre-order tally, paragraph 6; adds details on other electric trucks, paragraph 4)"
+tesla,2017-12,"SEATTLE, Dec 12 (Reuters) - PepsiCo Inc has reserved 100 of Tesla Inc's new electric Semi trucks, the largest known order of the big rig, as the maker of Mountain Dew soda and Doritos chips seeks to reduce fuel costs and fleet emissions, a company executive said on Tuesday."
+tesla,2017-12,"Tesla has been trying to convince the trucking community that it can build an affordable electric big rig with the range and cargo capacity to compete with relatively low-cost, time-tested diesel trucks."
+tesla,2017-12,"Several transportation firms are holding off on the Tesla for now, citing uncertainty over the time it takes to recharge compared to a diesel fill-up, range, and payload capabilities and how the market for electric commercial vehicles will develop. [nL3N1NN3V7] [nL1N1NM1N4]"
+tesla,2017-12,"About 260,000 heavy-duty Class-8 trucks are produced in North America annually, according to FTR, an industry economics research firm."
+tesla,2017-12,"Navistar International Corp and Volkswagen AG's Truck and Bus are working to launch an electric medium duty truck by late 2019, while rival Daimler AG has delivered the first of a smaller range of electric trucks to customers in New York. [nL2N1LV11Y]"
+tesla,2017-12,"PepsiCo's 100 trucks add to orders by more than a dozen companies such as Wal-Mart Stores Inc , fleet operator J.B. Hunt Transport Services Inc , and food service distribution company Sysco Corp . Tesla has at least 285 truck reservations in hand, according to a Reuters tally."
+tesla,2017-12,PepsiCo intends to deploy Tesla Semis for shipments of snack foods and beverages between manufacturing and distribution facilities and direct to retailers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+tesla,2017-12,"The semi-trucks will complement PepsiCo's U.S. fleet of nearly 10,000 big rigs and are a key part of its plan to reduce greenhouse gas emissions across its supply chain by a total of at least 20 percent by 2030, said Mike O'Connell, senior director of North American supply chain for PepsiCo subsidiary Frito-Lay."
+tesla,2017-12,"PepsiCo is analyzing what routes are best for its Tesla trucks but sees a wide range of uses for lighter loads like snacks or shorter shipments of heavier beverages, O'Connell said."
+tesla,2017-12,Tesla declined to comment on its customers and potential customers to date.
+tesla,2017-12,Tesla unveiled the Semi last month and expects the truck to be in production by 2019.
+tesla,2017-12,"O'Connell declined to say how much PepsiCo paid to reserve its trucks, when it placed the order, or whether it plans to lease the trucks or buy them outright. Tesla initially asked $5,000 per truck for pre-orders but that amount has since risen to about $20,000."
+tesla,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Tesla, Boeing, Verizon, Edison International, Fairmount Santrol - Reuters News"
+tesla,2017-12,"{{20171212T164320.091+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Tesla, Boeing, Verizon, Edison International, Fairmount Santrol* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,The S&P 500 and the Dow advanced in late morning trade on Tuesday as Boeing's
+tesla,2017-12,shares hit a record and bank stocks rose ahead of a near certain move by the
+tesla,2017-12,"At 11:29 ET, the Dow Jones Industrial Average <.DJI> was up 0.48 percent at"
+tesla,2017-12,BUZZ-Boeing Co: Lifts dividend and announces $18 bln share buyback [nL3N1OB593]
+tesla,2017-12,"BUZZ-Boeing flies to record on hiked dividend, stock buyback [nL3N1OC49Z]"
+tesla,2017-12,BUZZ-Energy stocks gain with crude prices after UK pipeline shuts [nL3N1OC3UE]
+tesla,2017-12,BUZZ-Disney in lead for Fox assets after Comcast pulls bid [nL3N1OC46B]
+tesla,2017-12,"UPDATE 2-Comcast drops bid for Fox assets, leaving Disney in pole position"
+tesla,2017-12,"BRIEF-Fox, Disney On 'glide path' for Thursday deal announcement - CNBC"
+tesla,2017-12,BUZZ-Edison plunges on probe into SCE role in California fires [nL3N1OC4E3]
+tesla,2017-12,"BUZZ-Oasis Petroleum: Buys Delaware Basin acreage, prices stock offering"
+tesla,2017-12,UPDATE 1-Oasis Petroleum adds more acreage in Delaware Basin for $946 mln
+tesla,2017-12,BUZZ-Mylan: Top pick for Guggenheim among generic drug makers [nL3N1OC3PC]
+tesla,2017-12,BUZZ-GlycoMimetics: Positive mid-stage data from cancer drug boosts stock
+tesla,2017-12,BUZZ-Iron Mountain: Down on deal to buy IO Data's U.S. operations [nL3N1OC3TJ]
+tesla,2017-12,UPDATE 1-Iron Mountain to buy IO Data's US operations for $1.32 bln
+tesla,2017-12,BUZZ-Omeros Corp: Gets FDA nod for use of eye drug in children [nL3N1OC411]
+tesla,2017-12,BUZZ-Xunlei Inc: Elects Xiaomi co-founder as new board chairman [nL3N1OC422]
+tesla,2017-12,BUZZ-NCI Building Systems: Shares fall as top holder cuts stake [nL1N1OC0QX]
+tesla,2017-12,"BUZZ-GS raises Activision Blizzard, takes EA off conviction list [nL3N1OC42E]"
+tesla,2017-12,"BUZZ-Smart Sand Inc: Falls on mixed shelf, secondary stock offerings"
+tesla,2017-12,BUZZ-Fairmount Santrol: To merge with Unimin in cash-and-stock deal
+tesla,2017-12,Unimin to buy shale sand supplier Fairmount in cash-and-stock deal [nL1N1OC0YE]
+tesla,2017-12,BUZZ-Dextera Surgical: Hits record low on filing for Chapter 11 [nL3N1OC48D]
+tesla,2017-12,BUZZ-Tel-Instrument: Hits more than two-year high on new orders [nL3N1OC4CS]
+tesla,2017-12,{{20171212T160700.035+0000}}BUZZ-Pepsi fizz drives Tesla higher** Tesla shares up 2.4 pct at $336.88 after PepsiCo reserves 100 of Tesla's new electric Semi trucks
+tesla,2017-12,"** The biggest public pre-order of Tesla Semis follows orders from companies including Walmart , J.B. Hunt Transport Services , foodservice distribution company Sysco"
+tesla,2017-12,** Order gives Tesla access to some free money; TSLA needs cash and all of these deposits are free loans - Tigress Financial Partners analyst Ivan Feinseth
+tesla,2017-12,"** Stock could soon go back to ~$350, adds Semi is a game changer and ""everybody wants to put down deposits in the fear of missing out"" - Feinseth"
+tesla,2017-12,** Stock hit a record high of ~$390 in Sept but has fallen 14 pct since; stock up 58 pct YTD
+tesla,2017-12,{{20171212T120004.205+0000}}PepsiCo makes biggest public pre-order of Tesla Semis: 100 trucksBy Eric M. Johnson
+tesla,2017-12,"SEATTLE, Dec 12 (Reuters) - PepsiCo Inc has reserved 100 of Tesla Inc's new electric Semi trucks, the largest-known order of the big rig, as the maker of Mountain Dew soda and Doritos chips seeks to reduce fuel costs and fleet emissions, a company executive said on Tuesday."
+tesla,2017-12,"Tesla has been trying to convince the trucking community that it can build an affordable electric big rig with the range and cargo capacity to compete with relatively low-cost, time-tested diesel trucks."
+tesla,2017-12,"Early orders reflect uncertainty over how the market for electric commercial vehicles will develop. About 260,000 heavy-duty Class-8 trucks are produced in North America annually, according to FTR, an industry economics research firm."
+tesla,2017-12,"PepsiCo's 100 trucks add to orders by more than a dozen companies such as Wal-Mart Stores Inc , fleet operator J.B. Hunt Transport Services Inc , and foodservice distribution company Sysco Corp . Reservations to date are at 267 Tesla trucks, according to a Reuters tally. [nL3N1NN3V7]"
+tesla,2017-12,PepsiCo intends to deploy Tesla Semis for shipments of snack foods and beverages between manufacturing and distribution facilities and direct to retailers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+tesla,2017-12,"The semi-trucks will complement PepsiCo's U.S. fleet of nearly 10,000 big rigs and are a key part of its plan to reduce greenhouse gas emissions across its supply chain by a total of at least 20 percent by 2030, said Mike O'Connell, the senior director of North American supply chain for PepsiCo subsidiary Frito-Lay."
+tesla,2017-12,"PepsiCo is analyzing what routes are best for its Tesla trucks in North America but sees a wide range of uses for lighter loads like snacks or shorter shipments of heavier beverages, O'Connell said."
+tesla,2017-12,Tesla unveiled the Semi last month and expects the truck to be in production by 2019.
+tesla,2017-12,"O'Connell declined to say how much PepsiCo paid to reserve its trucks, when it placed its pre-orders, or whether it plans to lease the trucks or buy them outright. Tesla initially asked $5,000 per truck for pre-orders but that amount has since risen to about $20,000."
+tesla,2017-12,BREAKINGVIEWS-Tencent's list of impulse buys looks worrying - Reuters Breakingviews
+tesla,2017-12,{{20171212T052055.226+0000}}BREAKINGVIEWS-Tencent's list of impulse buys looks worrying(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+tesla,2017-12,"HONG KONG, Dec 12 (Reuters Breakingviews) - Tencent's <0700.HK> shopping spree looks increasingly distracted. The Chinese social media and gaming group is planning a foray into bricks and mortar via a minority stake in a hypermarket chain. Apart from irritating its arch rival, Alibaba , this tie-up makes little strategic sense. Nor do earlier stakes in Tesla , Snap and Spotify."
+tesla,2017-12,"Shares of Shanghai-listed Yonghui Superstores <601933.SS> soared by the daily limit of 10 percent last Friday on media reports of the deal. On Monday the hypermarket chain operator confirmed that it is in talks to transfer a 5 percent stake, worth roughly 4.3 billion yuan ($649 million) based on the undisturbed share price, to the Shenzhen-based company. Details are not finalised, but Tencent may also inject new funding into a Yonghui subsidiary in exchange for a 15 percent stake."
+tesla,2017-12,"The $493 billion internet goliath is trailing rival Alibaba into traditional retail, where boss Jack Ma has splashed out over $10 billion over the past few years on major stakes in malls and grocery stores. Just last month Alibaba took a 36 percent stake in Sun Art Retail <6808.HK>, a leading Chinese retailer, for $2.9 billion, and is building out a high-tech chain of stores called Hema."
+tesla,2017-12,"This might make sense for Alibaba's shopping platforms. But for Tencent, combining its mobile games and chat apps with supermarkets is unlikely to produce synergies. Direct access to Yonghui's customers may help increase users of Tencent's mobile payments arm in the battle against Ma's Alipay. But Tencent already has exposure through its 18 percent stake in e-commerce ally JD.com , which owns a stake in Yonghui and partners with it selling groceries online."
+tesla,2017-12,"Tencent can afford to splurge, to be sure. Analysts polled on Eikon forecast it will churn out some $14 billion in operating cash flow this year. But the company's recent dealmaking raises red flags nonetheless. Passive stakes in Tesla and Snap , both publicly traded U.S. companies, look like trophy assets. Ditto for the recent share swap with Swedish music platform Spotify. Executives owe investors a good explanation."
+tesla,2017-12,"- Chinese gaming and social media company Tencent plans to buy a 5 percent stake in Shanghai-listed Yonghui Superstores, according to a Yonghui filing on Dec. 11."
+tesla,2017-12,"- Tencent may also buy a 15 percent stake in Yonghui's supply chain and logistics subsidiary, the retailer said. Details of the investments, including transaction prices, remain under discussion."
+tesla,2017-12,"- Trading in Yonghuui's stock has been suspended after being halted on Dec. 8, when the firm's shares rose by the daily limit of 10 percent on media reports of Tencent's investment."
+tesla,2017-12,"- E-commerce giant Alibaba, Tencent's biggest rival, said on Nov. 20 it would invest HK$22.4 billion ($2.9 billion) in supermarket chain operator Sun Art Retail Group in exchange for a 36 percent stake."
+tesla,2017-12,"- For previous columns by the author, Reuters customers can click on [MAK/]"
+tesla,2017-12,{{20171211T173623.423+0000}}RPT-ANALYSIS-Small Canadian miners in pole position for electric vehicle battery boon(Repeats to additional customers with no changes to text)
+tesla,2017-12,"VANCOUVER, Dec 11 (Reuters) - Canadian developers of cobalt and lithium mines stand to benefit from a round of investments from the makers of electric vehicles and the batteries powering them, a potential game-changer for small miners short on money to develop deposits of these critical battery ingredients."
+tesla,2017-12,"Toronto-listed cobalt companies, Ecobalt Solutions and Fortune Minerals , are in talks, ranging from preliminary to more advanced, with more than a dozen groups, including car and battery makers, on financing their projects, their chief executives told Reuters."
+tesla,2017-12,The interest in miners from downstream players along the battery supply chain - a new area of investment for most - would provide a life-line to miners at time when equity funding for developers remains relatively tight after a five-year downturn on weak metals prices.
+tesla,2017-12,"""We anticipate additional transactions in the coming months and years. It is a function of demand-supply imbalance,"" said John Kanellitsas, President and Vice Chairman of Lithium Americas Corp , which raised nearly $300 million this year for a project in Argentina."
+tesla,2017-12,A string of potential financing deals in Canada comes after a handful of predominantly lithium miners in Australia - the world's biggest lithium producer - secured investment from mainly Chinese automakers and battery makers this year looking to lock in future raw material supply.
+tesla,2017-12,"Lithium mine developers have been able to secure funding earlier than their cobalt peers as fears of a supply shortage started in late 2015, when cobalt was still in surplus."
+tesla,2017-12,"Like lithium, cobalt's price has doubled - but most of that upswing has come this year on concerns of multi-year shortfalls in the next decade as demand from the electric vehicle sector surges. [nL8N1JB4AB]"
+tesla,2017-12,"Cobalt's fortunes are more closely tied to batteries than lithium's: about 55 percent of all cobalt goes into battery chemicals compared to about 40 percent for lithium, according to a Dec. 4 BMO Capital Markets report."
+tesla,2017-12,"Although there are no guarantees that deals will be struck, the cobalt miners, who have been advancing their projects for more than a decade, are in their strongest position yet to secure funding, said Cormark Securities analyst MacMurray Whale."
+tesla,2017-12,"That is because of deficit forecasts due to constrained supply and expected soaring demand from the electric vehicle market. ""All those elements together suggest to me that it can't be better,"" Whale said."
+tesla,2017-12,"With more than 1,200 publicly listed mining companies, Canada has long been the global hub for mine developers with projects around the world."
+tesla,2017-12,"Vancouver-based Ecobalt's ""path forward"" is to first sign a long-term supply agreement, called an offtake, with one or more customers to provide a portion of the funds it needs to develop its Idaho cobalt project, CEO Paul Farquharson said in an email."
+tesla,2017-12,"Once in place, this would significantly lower the risk for the project, making it more attractive for banks to provide debt financing and other investors to fund the balance."
+tesla,2017-12,"Ecobalt outlined plans on Dec. 7 to produce for offtake a cobalt concentrate, a less-processed cobalt product than initially planned - a step that could slash as much as $100 million, according to analysts, off its previous project capital cost estimate of $187 million. [nCNW8k2Vwa]"
+tesla,2017-12,"Ecobalt, whose Idaho project is the only fully-permitted, primary cobalt deposit in the United States, is the most likely of the Canadian cobalt developers to secure financing, possibly within six months, said Eight Capital analyst David Talbot."
+tesla,2017-12,"Canada's Nemaska Lithium and Mason Graphite , which both have projects in Quebec, could also secure funding in coming months, Talbot said."
+tesla,2017-12,"Graphite is another battery ingredient but unlike cobalt and lithium, batteries are not graphite's main end-use."
+tesla,2017-12,"Ecobalt's Idaho project has unique advantages over other projects including that around 75 percent of its revenue will come from cobalt and that it is located in a safe political jurisdiction, Talbot said."
+tesla,2017-12,"Almost all cobalt is produced as a by-product from copper and nickel mines, meaning output increases are dependant on other markets."
+tesla,2017-12,"More than half of the world's cobalt comes from the Democratic Republic of Congo (DRC), a country racked by political instability and legal opacity, and where child labor is used in mines - a worry for automakers looking to secure ethically-sourced battery raw materials. [nL8N1NZ1YB]"
+tesla,2017-12,"Fortune, which is seeking more than $700 million to develop its Nico cobalt mine and processing plant in Canada, expects to secure finance in 2018 once it releases a feasibility study on an expanded project, CEO Robin Goad said."
+tesla,2017-12,"""Our biggest advantage is to be able to market our project as a Canadian source of supply,"" Goad said."
+tesla,2017-12,"{{20171211T131215.997+0000}}Chinese electric car maker to put ""Weltmeister"" on road next yearBy Norihiko Shirouzu"
+tesla,2017-12,"BEIJING, Dec 11 (Reuters) - WM Motor Technology Co, one of a new breed of Chinese electric car companies, will use its company name ""Weltmeister"" as its brand and plans to start taking orders for its first product, a sport-utility vehicle, from April."
+tesla,2017-12,"The Shanghai-based startup plans to start producing its first car at a new plant in Wenzhou during the second quarter of next year, Freeman Shen, WM Motor's founder and chief executive, told Reuters ahead of a media event."
+tesla,2017-12,The exterior design for the SUV was presented at the event in Shanghai on Monday. WM Motor also unveiled a logo for the brand that will adorn its cars.
+tesla,2017-12,"The brand name ""Weltmeister"" is German for ""world champion"" and reflects the rising challenge to traditional carmakers from startup companies."
+tesla,2017-12,"WM Motor is one of several largely Chinese-funded EV startups betting on the benefits of local production to compete with companies such as Tesla Inc , which has to import cars from the United States and pay a 25 percent import duty."
+tesla,2017-12,"Tesla's ""mass market"" Model 3 sedan starts around $35,000 in the United States. Tesla has discussed the need to set up local production in China but has yet to announce any plans."
+tesla,2017-12,"WM Motor plans to start delivering its first car, due to be priced below 300,000 yuan ($45,340), to buyers in the second half of 2018. WM Motor aims to sell 100,000 cars a year with three models within 3-4 years of the planned 2018 launch, Shen said."
+tesla,2017-12,"WM Motor plans to introduce the three electric vehicles by 2020, Shen said. To match that ambition, the assembly plant in Wenzhou has a potential annual capacity of 100,000 vehicles."
+tesla,2017-12,"Other Chinese EV startups include Future Mobility Corp Ltd with its Byton brand, Singulato Motors, and Nio."
+tesla,2017-12,"Nio has said it plans to start delivering its first ""volume car,"" an all-electric sport-utility vehicle called the Nio ES8, to buyers by June next year."
+tesla,2017-12,"Future Mobility has said it plans to start delivering its first car, also an SUV, during the fourth quarter of next year. Singulato plans to start delivering its all-electric SUV, dubbed the Singulato iS6, to buyers before the end of 2018. ($1 = 6.6170 Chinese yuan renminbi)"
+tesla,2017-12,"{{20171211T131214.000+0000}}Chinese electric car maker to put ""Weltmeister"" on road next yearBEIJING, Dec 11 (Reuters)"
+tesla,2017-12,"BEIJING, Dec 11 (Reuters) - WM Motor Technology Co, one of a new breed of Chinese electric car companies, will use its company name ""Weltmeister"" as its brand and plans to start taking orders for its first product, a sport-utility vehicle, from April."
+tesla,2017-12,"The Shanghai-based startup plans to start producing its first car at a new plant in Wenzhou during the second quarter of next year, Freeman Shen, WM Motor's founder and chief executive, told Reuters ahead of a media event."
+tesla,2017-12,The exterior design for the SUV was presented at the event in Shanghai on Monday. WM Motor also unveiled a logo for the brand that will adorn its cars.
+tesla,2017-12,"The brand name ""Weltmeister"" is German for ""world champion"" and reflects the rising challenge to traditional carmakers from startup companies."
+tesla,2017-12,"WM Motor is one of several largely Chinese-funded EV startups betting on the benefits of local production to compete with companies such as Tesla Inc , which has to import cars from the United States and pay a 25 percent import duty."
+tesla,2017-12,"Tesla's ""mass market"" Model 3 sedan starts around $35,000 in the United States. Tesla has discussed the need to set up local production in China but has yet to announce any plans."
+tesla,2017-12,"WM Motor plans to start delivering its first car, due to be priced below 300,000 yuan ($45,340), to buyers in the second half of 2018. WM Motor aims to sell 100,000 cars a year with three models within 3-4 years of the planned 2018 launch, Shen said."
+tesla,2017-12,"WM Motor plans to introduce the three electric vehicles by 2020, Shen said. To match that ambition, the assembly plant in Wenzhou has a potential annual capacity of 100,000 vehicles."
+tesla,2017-12,"Other Chinese EV startups include Future Mobility Corp Ltd with its Byton brand, Singulato Motors, and Nio."
+tesla,2017-12,"Nio has said it plans to start delivering its first ""volume car,"" an all-electric sport-utility vehicle called the Nio ES8, to buyers by June next year."
+tesla,2017-12,"Future Mobility has said it plans to start delivering its first car, also an SUV, during the fourth quarter of next year. Singulato plans to start delivering its all-electric SUV, dubbed the Singulato iS6, to buyers before the end of 2018. ($1 = 6.6170 Chinese yuan renminbi)"
+tesla,2017-12,{{20171211T120001.817+0000}}RPT-ANALYSIS-Small Canadian miners in pole position for electric vehicle battery boon(Repeats to additional customers with no changes to text)
+tesla,2017-12,"VANCOUVER, Dec 11 (Reuters) - Canadian developers of cobalt and lithium mines stand to benefit from a round of investments from the makers of electric vehicles and the batteries powering them, a potential game-changer for small miners short on money to develop deposits of these critical battery ingredients."
+tesla,2017-12,"Toronto-listed cobalt companies, Ecobalt Solutions and Fortune Minerals , are in talks, ranging from preliminary to more advanced, with more than a dozen groups, including car and battery makers, on financing their projects, their chief executives told Reuters."
+tesla,2017-12,The interest in miners from downstream players along the battery supply chain - a new area of investment for most - would provide a life-line to miners at time when equity funding for developers remains relatively tight after a five-year downturn on weak metals prices.
+tesla,2017-12,"""We anticipate additional transactions in the coming months and years. It is a function of demand-supply imbalance,"" said John Kanellitsas, President and Vice Chairman of Lithium Americas Corp , which raised nearly $300 million this year for a project in Argentina."
+tesla,2017-12,A string of potential financing deals in Canada comes after a handful of predominantly lithium miners in Australia - the world's biggest lithium producer - secured investment from mainly Chinese automakers and battery makers this year looking to lock in future raw material supply.
+tesla,2017-12,"Lithium mine developers have been able to secure funding earlier than their cobalt peers as fears of a supply shortage started in late 2015, when cobalt was still in surplus."
+tesla,2017-12,"Like lithium, cobalt's price has doubled - but most of that upswing has come this year on concerns of multi-year shortfalls in the next decade as demand from the electric vehicle sector surges. [nL8N1JB4AB]"
+tesla,2017-12,"Cobalt's fortunes are more closely tied to batteries than lithium's: about 55 percent of all cobalt goes into battery chemicals compared to about 40 percent for lithium, according to a Dec. 4 BMO Capital Markets report."
+tesla,2017-12,"Although there are no guarantees that deals will be struck, the cobalt miners, who have been advancing their projects for more than a decade, are in their strongest position yet to secure funding, said Cormark Securities analyst MacMurray Whale."
+tesla,2017-12,"That is because of deficit forecasts due to constrained supply and expected soaring demand from the electric vehicle market. ""All those elements together suggest to me that it can't be better,"" Whale said."
+tesla,2017-12,"With more than 1,200 publicly listed mining companies, Canada has long been the global hub for mine developers with projects around the world."
+tesla,2017-12,"Vancouver-based Ecobalt's ""path forward"" is to first sign a long-term supply agreement, called an offtake, with one or more customers to provide a portion of the funds it needs to develop its Idaho cobalt project, CEO Paul Farquharson said in an email."
+tesla,2017-12,"Once in place, this would significantly lower the risk for the project, making it more attractive for banks to provide debt financing and other investors to fund the balance."
+tesla,2017-12,"Ecobalt outlined plans on Dec. 7 to produce for offtake a cobalt concentrate, a less-processed cobalt product than initially planned - a step that could slash as much as $100 million, according to analysts, off its previous project capital cost estimate of $187 million. [nCNW8k2Vwa]"
+tesla,2017-12,"Ecobalt, whose Idaho project is the only fully-permitted, primary cobalt deposit in the United States, is the most likely of the Canadian cobalt developers to secure financing, possibly within six months, said Eight Capital analyst David Talbot."
+tesla,2017-12,"Canada's Nemaska Lithium and Mason Graphite , which both have projects in Quebec, could also secure funding in coming months, Talbot said."
+tesla,2017-12,"Graphite is another battery ingredient but unlike cobalt and lithium, batteries are not graphite's main end-use."
+tesla,2017-12,"Ecobalt's Idaho project has unique advantages over other projects including that around 75 percent of its revenue will come from cobalt and that it is located in a safe political jurisdiction, Talbot said."
+tesla,2017-12,"Almost all cobalt is produced as a by-product from copper and nickel mines, meaning output increases are dependant on other markets."
+tesla,2017-12,"More than half of the world's cobalt comes from the Democratic Republic of Congo (DRC), a country racked by political instability and legal opacity, and where child labor is used in mines - a worry for automakers looking to secure ethically-sourced battery raw materials. [nL8N1NZ1YB]"
+tesla,2017-12,"Fortune, which is seeking more than $700 million to develop its Nico cobalt mine and processing plant in Canada, expects to secure finance in 2018 once it releases a feasibility study on an expanded project, CEO Robin Goad said."
+tesla,2017-12,"""Our biggest advantage is to be able to market our project as a Canadian source of supply,"" Goad said."
+tesla,2017-12,{{20171211T060002.895+0000}}ANALYSIS-Small Canadian miners in pole position for electric vehicle battery boonBy Nicole Mordant
+tesla,2017-12,"VANCOUVER, Dec 11 (Reuters) - Canadian developers of cobalt and lithium mines stand to benefit from a round of investments from the makers of electric vehicles and the batteries powering them, a potential game-changer for small miners short on money to develop deposits of these critical battery ingredients."
+tesla,2017-12,"Toronto-listed cobalt companies, Ecobalt Solutions and Fortune Minerals , are in talks, ranging from preliminary to more advanced, with more than a dozen groups, including car and battery makers, on financing their projects, their chief executives told Reuters."
+tesla,2017-12,The interest in miners from downstream players along the battery supply chain - a new area of investment for most - would provide a life-line to miners at time when equity funding for developers remains relatively tight after a five-year downturn on weak metals prices.
+tesla,2017-12,"""We anticipate additional transactions in the coming months and years. It is a function of demand-supply imbalance,"" said John Kanellitsas, President and Vice Chairman of Lithium Americas Corp , which raised nearly $300 million this year for a project in Argentina."
+tesla,2017-12,A string of potential financing deals in Canada comes after a handful of predominantly lithium miners in Australia - the world's biggest lithium producer - secured investment from mainly Chinese automakers and battery makers this year looking to lock in future raw material supply.
+tesla,2017-12,"Lithium mine developers have been able to secure funding earlier than their cobalt peers as fears of a supply shortage started in late 2015, when cobalt was still in surplus."
+tesla,2017-12,"Like lithium, cobalt's price has doubled - but most of that upswing has come this year on concerns of multi-year shortfalls in the next decade as demand from the electric vehicle sector surges. [nL8N1JB4AB]"
+tesla,2017-12,"Cobalt's fortunes are more closely tied to batteries than lithium's: about 55 percent of all cobalt goes into battery chemicals compared to about 40 percent for lithium, according to a Dec. 4 BMO Capital Markets report."
+tesla,2017-12,"Although there are no guarantees that deals will be struck, the cobalt miners, who have been advancing their projects for more than a decade, are in their strongest position yet to secure funding, said Cormark Securities analyst MacMurray Whale."
+tesla,2017-12,"That is because of deficit forecasts due to constrained supply and expected soaring demand from the electric vehicle market. ""All those elements together suggest to me that it can't be better,"" Whale said."
+tesla,2017-12,"With more than 1,200 publicly listed mining companies, Canada has long been the global hub for mine developers with projects around the world."
+tesla,2017-12,"Vancouver-based Ecobalt's ""path forward"" is to first sign a long-term supply agreement, called an offtake, with one or more customers to provide a portion of the funds it needs to develop its Idaho cobalt project, CEO Paul Farquharson said in an email."
+tesla,2017-12,"Once in place, this would significantly lower the risk for the project, making it more attractive for banks to provide debt financing and other investors to fund the balance."
+tesla,2017-12,"Ecobalt outlined plans on Dec. 7 to produce for offtake a cobalt concentrate, a less-processed cobalt product than initially planned - a step that could slash as much as $100 million, according to analysts, off its previous project capital cost estimate of $187 million. [nCNW8k2Vwa]"
+tesla,2017-12,"Ecobalt, whose Idaho project is the only fully-permitted, primary cobalt deposit in the United States, is the most likely of the Canadian cobalt developers to secure financing, possibly within six months, said Eight Capital analyst David Talbot."
+tesla,2017-12,"Canada's Nemaska Lithium and Mason Graphite , which both have projects in Quebec, could also secure funding in coming months, Talbot said."
+tesla,2017-12,"Graphite is another battery ingredient but unlike cobalt and lithium, batteries are not graphite's main end-use."
+tesla,2017-12,"Ecobalt's Idaho project has unique advantages over other projects including that around 75 percent of its revenue will come from cobalt and that it is located in a safe political jurisdiction, Talbot said."
+tesla,2017-12,"Almost all cobalt is produced as a by-product from copper and nickel mines, meaning output increases are dependant on other markets."
+tesla,2017-12,"More than half of the world's cobalt comes from the Democratic Republic of Congo (DRC), a country racked by political instability and legal opacity, and where child labor is used in mines - a worry for automakers looking to secure ethically-sourced battery raw materials. [nL8N1NZ1YB]"
+tesla,2017-12,"Fortune, which is seeking more than $700 million to develop its Nico cobalt mine and processing plant in Canada, expects to secure finance in 2018 once it releases a feasibility study on an expanded project, CEO Robin Goad said."
+tesla,2017-12,"""Our biggest advantage is to be able to market our project as a Canadian source of supply,"" Goad said."
+tesla,2017-12,{{20171208T132430.164+0000}}BRIEF-Sysco Has Placed A Reservation For 50 Of Tesla's New Fully-Electric Semi Tractors At Its Investor DayDec 8 (Reuters) - Sysco Corp :
+tesla,2017-12,"* SYSCO SAYS AT ITS INVESTOR DAY IN NEW YORK ON DEC 7, CO HAS PLACED A RESERVATION FOR 50 OF TESLA'S NEW FULLY-ELECTRIC SEMI TRACTORS"
+tesla,2017-12,Source text for Eikon: [ID:nGNXOJUXMa] Further company coverage: [SYY.N]
+tesla,2017-12,"{{20171207T204504.170+0000}}UPDATE 4-Budweiser maker Anheuser-Busch reserves 40 Tesla electric trucks(Adds new tally of Tesla orders, paragraph 5; adds details on order, paragraph 9)"
+tesla,2017-12,"Dec 7 (Reuters) - Budweiser beer maker Anheuser-Busch has reserved 40 Tesla Inc all-electric Semi trucks as it seeks to reduce fuel costs and vehicle emissions, the brewer said on Thursday."
+tesla,2017-12,"It was one of the largest publicly announced orders Tesla has received for its electric trucks, which are scheduled to be in production by 2019."
+tesla,2017-12,"""At Anheuser-Busch, we are constantly seeking new ways to make our supply chain more sustainable, efficient, and innovative,"" said James Sembrot, senior director of logistics strategy. ""This investment in Tesla semi-trucks helps us achieve these goals while improving road safety and lowering our environmental impact."""
+tesla,2017-12,The U.S. subsidiary of Anheuser-Busch InBev NV plans to use the trucks for shipments to wholesalers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+tesla,2017-12,The Semi is Tesla's next step to move the economy away from fossil fuels. Limited early orders have reflected uncertainty about the market for electric commercial vehicles due to their limited range compared with diesel vehicles.
+tesla,2017-12,"A range of trucking, grocery, and retail companies have reserved at least 117 Tesla Semi trucks, according to a Reuters tally, including Anheuser-Busch's 40. That number could be higher because fleet operator J.B. Hunt Transport Services Inc said it reserved multiple Semis without providing a specific number."
+tesla,2017-12,"Last month, Tesla received orders for its electric trucks from high-profile companies such as Wal-Mart Stores Inc . [nL3N1NN3V7]"
+tesla,2017-12,"Germany-based Deutsche Post AG's DHL and Fortigo Freight Services Inc, one of Canada's largest fleet management companies, also pre-ordered Tesla's electric trucks last month to test on limited routes. [nL1N1NY1J0]"
+tesla,2017-12,"Lithuania-based transport company Girteka Logistics reserved one Tesla Semi, the company said."
+tesla,2017-12,"(Adds new tally of Tesla orders, paragraph 5; adds details on order, paragraph 9)"
+tesla,2017-12,"Dec 7 (Reuters) - Budweiser beer maker Anheuser-Busch has reserved 40 Tesla Inc all-electric Semi trucks as it seeks to reduce fuel costs and vehicle emissions, the brewer said on Thursday."
+tesla,2017-12,"It was one of the largest publicly announced orders Tesla has received for its electric trucks, which are scheduled to be in production by 2019."
+tesla,2017-12,"""At Anheuser-Busch, we are constantly seeking new ways to make our supply chain more sustainable, efficient, and innovative,"" said James Sembrot, senior director of logistics strategy. ""This investment in Tesla semi-trucks helps us achieve these goals while improving road safety and lowering our environmental impact."""
+tesla,2017-12,The U.S. subsidiary of Anheuser-Busch InBev NV plans to use the trucks for shipments to wholesalers within the 500-mile (800-km) range promised by Tesla Chief Executive Elon Musk.
+tesla,2017-12,The Semi is Tesla's next step to move the economy away from fossil fuels. Limited early orders have reflected uncertainty about the market for electric commercial vehicles due to their limited range compared with diesel vehicles.
+tesla,2017-12,"A range of trucking, grocery, and retail companies have reserved at least 117 Tesla Semi trucks, according to a Reuters tally, including Anheuser-Busch's 40. That number could be higher because fleet operator J.B. Hunt Transport Services Inc said it reserved multiple Semis without providing a specific number."
+tesla,2017-12,"Last month, Tesla received orders for its electric trucks from high-profile companies such as Wal-Mart Stores Inc . [nL3N1NN3V7]"
+tesla,2017-12,"Germany-based Deutsche Post AG's DHL and Fortigo Freight Services Inc, one of Canada's largest fleet management companies, also pre-ordered Tesla's electric trucks last month to test on limited routes. [nL1N1NY1J0]"
+tesla,2017-12,"Lithuania-based transport company Girteka Logistics reserved one Tesla Semi, the company said."
+tesla,2017-12,{{20171207T162518.197+0000}}UPDATE 1-Budweiser maker Anheuser-Busch reserves 40 Tesla electric trucks-WSJ(Adds Tesla declining to comment)
+tesla,2017-12,"Dec 7 (Reuters) - Anheuser-Busch, which makes Budweiser beers, has reserved 40 of Tesla Inc's all-electric Semi trucks as it seeks to reduce fuel costs and vehicle emissions, the Wall Street Journal reported on Thursday."
+tesla,2017-12,"This could the biggest order Tesla has received for its electric trucks, which are scheduled for rollout in 2019."
+tesla,2017-12,"The brewing company has not finalized yet whether to buy the vehicles outright or lease them, James Sembrot, the company's senior director of logistics strategy told the Journal."
+tesla,2017-12,"Last month, Tesla received orders for its electric trucks from high profile companies such as Wal-Mart Stores Inc and fleet operator J.B. Hunt . [nL3N1NN3V7]"
+tesla,2017-12,"Germany-based Deutsche Post AG's DHL and Fortigo Freight Services Inc, one of Canada's largest fleet management companies, also pre-ordered Tesla's electric trucks last month to test on limited routes. [nL1N1NY1J0]"
+tesla,2017-12,"Anheuser-Busch did not immediately respond to a request for comment, while Tesla declined to comment."
+tesla,2017-12,"{{20171207T133440.143+0000}}Budweiser maker Anheuser-Busch reserves 40 Tesla electric trucks -WSJDec 7 (Reuters) - Anheuser-Busch, which makes Budweiser beers, has reserved 40 of Tesla Inc's all-electric Semi trucks as it seeks to reduce fuel costs and vehicle emissions, the Wall Street Journal reported on Thursday."
+tesla,2017-12,"This could the biggest order Tesla has received for its electric trucks, which are scheduled for rollout in 2019."
+tesla,2017-12,"The brewing company has not finalized yet whether to buy the vehicles outright or lease them, James Sembrot, the company's senior director of logistics strategy told the Journal."
+tesla,2017-12,"Last month, Tesla received orders for its electric trucks from high profile companies such as Wal-Mart Stores Inc and fleet operator J.B. Hunt . [nL3N1NN3V7]"
+tesla,2017-12,"Germany-based Deutsche Post AG's DHL and Fortigo Freight Services Inc, one of Canada's largest fleet management companies, also pre-ordered Tesla's electric trucks last month to test on limited routes. [nL1N1NY1J0] Anheuser-Busch and Tesla were not immediately available for comment."
+tesla,2017-12,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+tesla,2017-12,"LONDON, Dec 6 (Reuters) - European oil shares, having been for so long the dividend darlings of income funds, are losing their pulling power as investors take another look at the long term future of energy companies focused on fossil fuels."
+tesla,2017-12,"A proposal by the world's largest $1 trillion sovereign wealth fund to ditch its oil and gas shares because of the volatile oil price, has highlighted the risks of being exposed to a sector which analysts say is in long term decline.[nL8N1NN4BJ]"
+tesla,2017-12,"Investors are pulling money out of exchange traded funds (ETFs) tracking global oil and gas stocks. Net assets in oil and gas ETFs fell to their lowest in a year in November, to $21.9 billion, from a high of $24.4 billion in March, ETFGI data showed."
+tesla,2017-12,"""In the long run, we have to reassess the oil and gas sector as an ex-growth or a sector going into decline,"" said Simon Webber, lead portfolio manager on the global and international equities team at Schroders, who said he was underweight in the sector."
+tesla,2017-12,"A combination of factors has put a question mark over the oil sector's desirability as an investment, chiefly environmental considerations and ambitions for a world powered by electric vehicles."
+tesla,2017-12,"While the price of Brent crude has rallied this year to over $60 a barrel, from $27 in January 2016, the European oil & gas sector <.SXEP> has been a notable laggard."
+tesla,2017-12,The sector is down 3.5 percent in 2017 against a 6.5 percent gain for the pan-European STOXX 600 <.STOXX> index. That compares with a near-23 percent gain for oil shares in 2016.
+tesla,2017-12,"Oil stocks are however, still popular for the income they generate through dividend payouts. Of the companies in the FTSE 100 <.FTSE>, BP and Royal Dutch Shell feature in the top 10 in terms of dividend yield."
+tesla,2017-12,"Currently the FTSE 100 yields 3.8 percent, while the STOXX 600 yields 3.2 percent. By comparison, Shell and BP yield around 6 percent, while the highest yielding stock in the European tech sector is Nokia at 4.2 percent."
+tesla,2017-12,"Shell recently announced it would return to paying cash dividends rather than dividends in shares, and would step up its investment in new energy which focuses on renewables.[nL8N1O64MW]"
+tesla,2017-12,The sharp fall in oil prices in 2014 prompted oil majors to curb investment in alternative energy technology. [nL1N1ND281]
+tesla,2017-12,"Bank of America Merrill Lynch's November European fund manager survey showed that oil was still the most popular sector. Though fund managers are beginning to rethink their oil exposure, they say the shift will be slow."
+tesla,2017-12,"Gary Paulin, head of institutional brokerage, EMEA and APAC at Northern Trust Capital Markets, expects another big spike in oil prices in the next two or three years."
+tesla,2017-12,"""That will be the last hurrah, however, and then it will be the greatest short for the next 20 years,"" Paulin said."
+tesla,2017-12,Fund managers said they are diversifying their portfolios and looking to a future of electric vehicles.
+tesla,2017-12,"Richard Robinson, manager of the Ashburton Global Energy Fund, has been buying battery makers in order to benefit from the demand for electric vehicles - even though he expects oil prices will continue to rise."
+tesla,2017-12,"Robinson has bought into Albemarle , Nemaska Lithium , Umicore and Clean Teq . He has increased exposure to these lithium and cobalt companies, now accounting for up to 7.6 percent of his portfolio."
+tesla,2017-12,"""It will be a while before it hurts oil demand but the growth that you see in these areas is very exciting,"" Robinson said. ""We want to be investing wherever energy is going, not necessarily just oil."""
+tesla,2017-12,Robinson is typical of many investors keen to ride the first wave of a fast growing sector while not betting the farm on its success.
+tesla,2017-12,"This year a string of governments made commitments to phase out diesel and petrol engines. China, the world's largest car market, wants electric and plug-in hybrid cars to account for at least a fifth of total vehicle sales by 2025. [nL4N1HX1HS]"
+tesla,2017-12,"Morgan Stanley expects there to be more than a billion electric vehicles on the road globally by 2050, reaching about 80 percent of global sales. Liberum expects battery demand will grow 20 times by 2025."
+tesla,2017-12,European carmakers Volkswagen and Daimler are ramping up their investment in electric cars while Tesla is cranking up production. [nL5N1LT47Z] [nL2N1N72DJ] [nL1N1NM1N4]
+tesla,2017-12,Shares in battery maker Umicore have risen 45 percent this year and chipmakers are also among the big gainers.
+tesla,2017-12,"Northern Trust Capital Markets' Paulin is a fan of Umicore, and has reassessed his view on miners given the high content of copper, aluminium, nickel and lithium in electric vehicles."
+tesla,2017-12,"""We've reached the tipping point in EV proliferation,"" Paulin said. ""We're looking at ways of how you get exposure to that."""
+tesla,2017-12,"{{20171206T154147.000+0000}}Investors wean themselves off oil as electric future beckonsLONDON, Dec 6 (Reuters)"
+tesla,2017-12,"LONDON, Dec 6 (Reuters) - European oil shares, having been for so long the dividend darlings of income funds, are losing their pulling power as investors take another look at the long term future of energy companies focused on fossil fuels."
+tesla,2017-12,"A proposal by the world's largest $1 trillion sovereign wealth fund to ditch its oil and gas shares because of the volatile oil price, has highlighted the risks of being exposed to a sector which analysts say is in long term decline.[nL8N1NN4BJ]"
+tesla,2017-12,"Investors are pulling money out of exchange traded funds (ETFs) tracking global oil and gas stocks. Net assets in oil and gas ETFs fell to their lowest in a year in November, to $21.9 billion, from a high of $24.4 billion in March, ETFGI data showed."
+tesla,2017-12,"""In the long run, we have to reassess the oil and gas sector as an ex-growth or a sector going into decline,"" said Simon Webber, lead portfolio manager on the global and international equities team at Schroders, who said he was underweight in the sector."
+tesla,2017-12,"A combination of factors has put a question mark over the oil sector's desirability as an investment, chiefly environmental considerations and ambitions for a world powered by electric vehicles."
+tesla,2017-12,"While the price of Brent crude has rallied this year to over $60 a barrel, from $27 in January 2016, the European oil & gas sector <.SXEP> has been a notable laggard."
+tesla,2017-12,The sector is down 3.5 percent in 2017 against a 6.5 percent gain for the pan-European STOXX 600 <.STOXX> index. That compares with a near-23 percent gain for oil shares in 2016.
+tesla,2017-12,"Oil stocks are however, still popular for the income they generate through dividend payouts. Of the companies in the FTSE 100 <.FTSE>, BP and Royal Dutch Shell feature in the top 10 in terms of dividend yield."
+tesla,2017-12,"Currently the FTSE 100 yields 3.8 percent, while the STOXX 600 yields 3.2 percent. By comparison, Shell and BP yield around 6 percent, while the highest yielding stock in the European tech sector is Nokia at 4.2 percent."
+tesla,2017-12,"Shell recently announced it would return to paying cash dividends rather than dividends in shares, and would step up its investment in new energy which focuses on renewables.[nL8N1O64MW]"
+tesla,2017-12,The sharp fall in oil prices in 2014 prompted oil majors to curb investment in alternative energy technology. [nL1N1ND281]
+tesla,2017-12,"Bank of America Merrill Lynch's November European fund manager survey showed that oil was still the most popular sector. Though fund managers are beginning to rethink their oil exposure, they say the shift will be slow."
+tesla,2017-12,"Gary Paulin, head of institutional brokerage, EMEA and APAC at Northern Trust Capital Markets, expects another big spike in oil prices in the next two or three years."
+tesla,2017-12,"""That will be the last hurrah, however, and then it will be the greatest short for the next 20 years,"" Paulin said."
+tesla,2017-12,Fund managers said they are diversifying their portfolios and looking to a future of electric vehicles.
+tesla,2017-12,"Richard Robinson, manager of the Ashburton Global Energy Fund, has been buying battery makers in order to benefit from the demand for electric vehicles - even though he expects oil prices will continue to rise."
+tesla,2017-12,"Robinson has bought into Albemarle , Nemaska Lithium , Umicore and Clean Teq . He has increased exposure to these lithium and cobalt companies, now accounting for up to 7.6 percent of his portfolio."
+tesla,2017-12,"""It will be a while before it hurts oil demand but the growth that you see in these areas is very exciting,"" Robinson said. ""We want to be investing wherever energy is going, not necessarily just oil."""
+tesla,2017-12,Robinson is typical of many investors keen to ride the first wave of a fast growing sector while not betting the farm on its success.
+tesla,2017-12,"This year a string of governments made commitments to phase out diesel and petrol engines. China, the world's largest car market, wants electric and plug-in hybrid cars to account for at least a fifth of total vehicle sales by 2025. [nL4N1HX1HS]"
+tesla,2017-12,"Morgan Stanley expects there to be more than a billion electric vehicles on the road globally by 2050, reaching about 80 percent of global sales. Liberum expects battery demand will grow 20 times by 2025."
+tesla,2017-12,European carmakers Volkswagen and Daimler are ramping up their investment in electric cars while Tesla is cranking up production. [nL5N1LT47Z] [nL2N1N72DJ] [nL1N1NM1N4]
+tesla,2017-12,Shares in battery maker Umicore have risen 45 percent this year and chipmakers are also among the big gainers.
+tesla,2017-12,"Northern Trust Capital Markets' Paulin is a fan of Umicore, and has reassessed his view on miners given the high content of copper, aluminium, nickel and lithium in electric vehicles."
+tesla,2017-12,"""We've reached the tipping point in EV proliferation,"" Paulin said. ""We're looking at ways of how you get exposure to that."""
+tesla,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Home builders, Barnes & Noble, Ascena, Neuralstem, Tabula Rasa - Reuters News"
+tesla,2017-12,"{{20171205T182021.402+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Home builders, Barnes & Noble, Ascena, Neuralstem, Tabula Rasa* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,The tech-heavy Nasdaq recovered from a two-day selloff on Tuesday but other U.S.
+tesla,2017-12,share indexes were mixed as investors assessed changes to the Senate's version
+tesla,2017-12,"At 13:09 ET, the Dow Jones Industrial Average <.DJI> was down 0.16 percent at"
+tesla,2017-12,BUZZ-Tabula Rasa Healthcare: Biggest ever one-day drop ahead of stock offering
+tesla,2017-12,"BUZZ-Near-term uncertainties for Yirendai, China Rapid Finance - MS"
+tesla,2017-12,BUZZ-Revance: Investors smile as frown lines injection succeeds in trials
+tesla,2017-12,"BUZZ-G-III Apparel: Over a year high on profit beat, forecast raise"
+tesla,2017-12,BUZZ-Smart & Final Stores: Falls as JP Morgan initiates with 'neutral'
+tesla,2017-12,BUZZ-Incyte Corp: Gains on positive initial data from study [nL3N1O54HF]
+tesla,2017-12,BUZZ-Fox shares rise after report Disney deal likely soon [nL3N1O54GD]
+tesla,2017-12,BUZZ-Edison Intl shares plunge as Southern California wildfire spreads
+tesla,2017-12,"BUZZ-Barclays upgrades Snap to ""overweight"", says good time to buy shares"
+tesla,2017-12,UPDATE 2-UK's Cineworld targets U.S. expansion with $3.6 bln deal to buy Regal
+tesla,2017-12,BUZZ-Jefferies upgrades McDonald's to 'buy'; says to gain further share
+tesla,2017-12,BUZZ-Moleculin Biotech: IND application of brain tumor drug gets FDA nod
+tesla,2017-12,BUZZ-Blackline Inc: Falls as top holders cut stakes in secondary offering
+tesla,2017-12,BUZZ-Francesca's Holdings: Q3 hurt by lower 'back-to-school' demand
+tesla,2017-12,BUZZ-Galectin Therapeutics: Plunges as NASH drug misses main goal [nL3N1O53MO]
+tesla,2017-12,BUZZ-Revance Therapeutics: Injection to treat frown lines meets main goal in
+tesla,2017-12,BUZZ-Barnes & Noble Education: Best ever day after rare earnings beat
+tesla,2017-12,{{20171205T180001.537+0000}}Disrupt This! Innovation ETFs are storming the market(The writer is a Reuters contributor. The opinions expressed are his own.)
+tesla,2017-12,"NEW YORK, Dec 5 (Reuters) - Amazon.com is disrupting retail. Airbnb is disrupting hotels. Uber [UBER.UL] is disrupting transportation. Who is going to be disrupted next?"
+tesla,2017-12,A growing number of exchange-traded funds are searching for that answer.
+tesla,2017-12,"Instead of investing in the traditional companies playing defense, they are buying hefty stakes in the firms shaking up the way business was always done."
+tesla,2017-12,Most of the early gains from innovative disruptors went to venture capitalists and private equity.
+tesla,2017-12,"Now ETFs - like iShares Exponential Technologies , Ark Invest's ARK Innovation and Knowledge Leaders Developed World - are delivering stakes in cutting-edge innovation, but in a relatively low-cost ETF wrapper."
+tesla,2017-12,"The innovation theme is a particularly timely bet. Just think how many capabilities are contained in a single smartphone, for example, and how that compares to 10 years ago. Indeed, many of the biggest companies in the country, such as Facebook , did not even exist not so long ago."
+tesla,2017-12,"""We haven't had so many innovative platforms taking shape since the late 1800s,"" says Tom Staudt, ARK Invest's chief operating officer. ""Back then it was things like internal combustion engines, telephones and electricity. These days massive change is being driven by fields like DNA sequencing, robotics and artificial intelligence, battery storage and blockchain."""
+tesla,2017-12,"You can argue about the riskiness or long-term viability of the strategy, but it is hard to argue with recent results. This year, ARK Invest's offerings have consistently ranked in the top handful of non-leveraged products across the entire ETF universe. ARKK's annualized gains from 2014 through Dec. 1 are 23.6 percent, according to fund tracker Morningstar. Its year-to-date return is an eye-popping 86.5 percent."
+tesla,2017-12,"Take a look under the hood and you understand why the fund has been on such a run. Top holdings include such famed disruptors as Tesla , Amazon.com and Bitcoin Investment Trust, the latter of which now makes up almost 7 percent of the portfolio."
+tesla,2017-12,"Most of ARK's products are actively managed, relatively rare in the ETF world, which pushes fees up. ARKK, for instance, clocks in at an expense ratio of 0.75 percent, higher than most of its passively-managed brethren."
+tesla,2017-12,"The firm now has $2.7 billion under management and five ETFs on the market. One more, launching just this week: Israel Innovative Technologies , capitalizing on that country's status as an emerging market and tech hotbed."
+tesla,2017-12,Take Knowledge Leaders Developed World. The core thesis of this ETF is that companies which invest significantly in R&D end up outperforming the broader market and powerfully so.
+tesla,2017-12,But it also seeks out consumers of exponential technologies as well as producers and companies with a proven record of profitability.
+tesla,2017-12,"The portfolio ends up with slices of several hundred equally-weighted firms, many of which are from sectors you might not associate with disruptive innovation such as consumer staples, food and beverage, chemicals and industrial machinery."
+tesla,2017-12,"""Innovation touches our everyday lives in far more ways than most people realize,"" says Steve Vannelli, CEO of Knowledge Leaders Funds."
+tesla,2017-12,"Another unique approach: since the ETF scours globally for R&D spending, that means ""the chips fall where they may,"" says Vannelli."
+tesla,2017-12,"The ETF holds a heavy dose of Japan, home to more than a third of total holdings. The fund's year-to-date performance: 26.3 percent, outpacing the S&P 500 by over six percentage points."
+tesla,2017-12,"It is not just niche money managers who are capitalizing on the innovation theme either. BlackRock's iShares Exponential Technologies now has over $1.5 billion in assets. Its formation was inspired by money manager Ric Edelman of Edelman Financial, who had pressed for an ETF of next-gen technologies for clients."
+tesla,2017-12,"Many of its top holdings are IT plays, such as Micron Technologies and Tencent Holdings <0700.HK>. More than 60 percent of the portfolio is based in the United States, tracking the Morningstar Exponential Technologies Index."
+tesla,2017-12,The ETF boasts a one-year return of 37.8 percent and 14 percent annualized since inception in 2015.
+tesla,2017-12,"A word of caution for investors, however: don't pile too much into disruptive innovation just to chase those juicy returns."
+tesla,2017-12,"""When people are investing in niche or non-traditional asset classes like this, they have to be very careful - how much money do you have, what are you saving for, what is your tolerance,"" says Deborah Fuhr, managing director of London-based consultancy ETFGI. ""This is riskier stuff - and it's definitely not for everyone."""
+tesla,2017-12,"BUZZ-U.S. STOCKS ON THE MOVE-Snap, McDonald's, Ascena, Delphi Technologies, Cleveland-Cliffs - Reuters News"
+tesla,2017-12,"{{20171205T170322.605+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Snap, McDonald's, Ascena, Delphi Technologies, Cleveland-Cliffs* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,Wall Street rose and technology stocks recovered on Tuesday from a two-day
+tesla,2017-12,"selloff, with investors assessing a change to the Senate's version of the tax"
+tesla,2017-12,overhaul bill that could affect the ability of companies to cut their tax bills.
+tesla,2017-12,"At 11:50 ET, the Dow Jones Industrial Average <.DJI> was up 0.04 percent at"
+tesla,2017-12,BUZZ-Revance: Investors smile as frown lines injection succeeds in trials
+tesla,2017-12,"BUZZ-G-III Apparel: Over a year high on profit beat, forecast raise"
+tesla,2017-12,BUZZ-Smart & Final Stores: Falls as JP Morgan initiates with 'neutral'
+tesla,2017-12,BUZZ-Incyte Corp: Gains on positive initial data from study [nL3N1O54HF]
+tesla,2017-12,BUZZ-Fox shares rise after report Disney deal likely soon [nL3N1O54GD]
+tesla,2017-12,BUZZ-Edison Intl shares plunge as Southern California wildfire spreads
+tesla,2017-12,"BUZZ-Barclays upgrades Snap to ""overweight"", says good time to buy shares"
+tesla,2017-12,UPDATE 2-UK's Cineworld targets U.S. expansion with $3.6 bln deal to buy Regal
+tesla,2017-12,BUZZ-Jefferies upgrades McDonald's to 'buy'; says to gain further share
+tesla,2017-12,BUZZ-Moleculin Biotech: IND application of brain tumor drug gets FDA nod
+tesla,2017-12,BUZZ-Blackline Inc: Falls as top holders cut stakes in secondary offering
+tesla,2017-12,BUZZ-Francesca's Holdings: Q3 hurt by lower 'back-to-school' demand
+tesla,2017-12,BUZZ-Galectin Therapeutics: Plunges as NASH drug misses main goal [nL3N1O53MO]
+tesla,2017-12,BUZZ-Revance Therapeutics: Injection to treat frown lines meets main goal in
+tesla,2017-12,BUZZ-Barnes & Noble Education: Best ever day after rare earnings beat
+tesla,2017-12,"{{20171205T150912.362+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Moleculin, Snap, Ascena, Toll Brothers, Discovery, Autozone* Eikon search string for individual stock moves: [STXBZ]"
+tesla,2017-12,Technology stocks edged higher on Tuesday and signaled a pause to two days of
+tesla,2017-12,"selloff, while a rally in bank and other stocks powered by tax-cut optimism"
+tesla,2017-12,"At 9:47 ET, the Dow Jones Industrial Average <.DJI> was up 0.05 percent at"
+tesla,2017-12,"BUZZ-Barclays upgrades Snap to ""overweight"", says good time to buy shares"
+tesla,2017-12,BUZZ-Jefferies upgrades McDonald's to 'buy'; says to gain further share
+tesla,2017-12,BUZZ-Moleculin Biotech: IND application of brain tumor drug gets FDA nod
+tesla,2017-12,BUZZ-Blackline Inc: Falls as top holders cut stakes in secondary offering
+tesla,2017-12,BUZZ-Francesca's Holdings: Q3 hurt by lower 'back-to-school' demand
+tesla,2017-12,BUZZ-Galectin Therapeutics: Plunges as NASH drug misses main goal [nL3N1O53MO]
+tesla,2017-12,BUZZ-Revance Therapeutics: Injection to treat frown lines meets main goal in
+tesla,2017-12,BUZZ-Barnes & Noble Education: Best ever day after rare earnings beat
+tesla,2017-12,"{{20171205T131844.295+0000}}BUZZ-Tesla, SpaceX partnership a natural fit - MS ** Tesla and SpaceX could be a compelling relationship, especially due to higher 'key man' risk surrounding CEO Elon Musk, writes Morgan Stanley analyst Adam Jonas"
+tesla,2017-12,"** 'Key man' risk at Tesla rivaled only by Sergio Marchionne at Fiat and combination of efforts between Tesla and SpaceX could address this important issue, Jonas writes, maintaining his ""equal-weight"" rating and $379 PT"
+tesla,2017-12,"** Strategic partnerships, technology transfer, co-investment make sense as TSLA set to attract fierce competition from its tech peers, threatening its existence as a standalone entity - analyst"
+tesla,2017-12,"** SpaceX's competitive moat may be vastly superior to Tesla on a more sustainable basis, analyst writes, adding no apparent natural buyer for Tesla"
+tesla,2017-12,"** Points to SolarCity acquisition to highlight Tesla leadership's willingness to undertake strategic actions to consolidate separate interests for financial sustainability, technological overlap"
+tesla,2017-12,** TSLA shares down marginally premarket; Stock up 43 pct this year
+tesla,2017-12,Gersan Elektrik signs one-sided non-disclosure agreement with Tesla Motors Netherlands - Reuters Investor Briefs
+tesla,2017-12,Gersan Elektrik signs one-sided non-disclosure agreement with Tesla Motors Netherlands - Reuters Investor Briefs
+tesla,2017-12,{{20171204T153035.613+0000}}BRIEF-Gersan Elektrik signs one-sided non-disclosure agreement with Tesla Motors NetherlandsDec 4 (Reuters) - GERSAN ELEKTRIK :
+tesla,2017-12,* AGREEMENT COVERS POSSIBLE DEAL ABOUT PRODUCTION AND INSTALLATION OF ELECTRIC VEHICLE CHARGING STATIONS
+tesla,2017-12,Source text for Eikon: [ID:nIKA3s1mLc] Further company coverage: [GEREL.IS]
+tesla,2017-12,"{{20171204T144901.674+0000}}Direct Line offers 5-percent Tesla ""auto-pilot"" incentiveBy Noor Zainab Hussain"
+tesla,2017-12,"Dec 4 (Reuters) - Britain's largest motor insurer Direct Line is offering Tesla Inc drivers in Britain a 5-percent discount for switching on the car's autopilot system, seeking to encourage use of a system it hopes will cut down on accidents."
+tesla,2017-12,The move - confirmed by company representatives in response to Reuters' questions - is Tesla's only tie-up in the UK and comes at a time when the company is trying to convince insurers that its internet-connected vehicles are statistically safer.
+tesla,2017-12,Direct Line said it was too early to say whether the use of the autopilot system produced a safety record that justified lower premiums. It said it was charging less to encourage use of the system and aid research.
+tesla,2017-12,"""At present the driver is firmly in charge so it's just like insuring other cars, but it does offer Direct Line a great opportunity to learn and prepare for the future,"" said Dan Freedman, Head of Motor Development at Direct Line."
+tesla,2017-12,Direct Line sells insurance policies to customers introduced to it by Tesla. Tesla then provides information on the features and capabilities of its vehicles to help Direct Line set insurance prices.
+tesla,2017-12,"According to Tesla's website, some of the autopilot functions include matching speed to traffic conditions, automatically changing lanes without driver input and even self-parking. The car can also be ""summoned"" to and from a garage."
+tesla,2017-12,"""Crash rates across all Tesla models have fallen by 40 percent since the introduction of the autopilot system ... However, when owners seek to insure their Tesla vehicles, this is not reflected in the pricing of premiums,"" Daniel Pearce, Financial Analyst at GlobalData, said."
+tesla,2017-12,"""The insurance industry will gradually respond to these developments,"" Pearce added."
+tesla,2017-12,"Direct Line, which is enjoying soaring motor insurance prices in Britain, said it sets premiums for Tesla drivers based on the risk they present, including who is driving, their age, driving experience and claim history."
+tesla,2017-12,"""We aim to offer competitive premiums and we've welcomed a good number of Tesla drivers in the UK,"" Freedman said."
+tesla,2017-12,"Tesla declined to specify how many vehicles with autopilot capabilities currently are on British roads but industry figures pointed to UK data on imports, which suggest the number is more than 4,500."
+tesla,2017-12,{{20171204T131910.816+0000}}BRIEF-Glu Mobile Adds Tesla's Chief People Officer To Its BoardDec 4 (Reuters) - Glu Mobile Inc :
+tesla,2017-12,* GLU ADDS TESLA'S CHIEF PEOPLE OFFICER GABRIELLE TOLEDANO TO BOARD OF DIRECTORS
+tesla,2017-12,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+tesla,2017-12,{{20171203T021523.464+0000}}CORRECTED-Tesla switches on giant battery to shore up Australia's grid(Corrects Reuters instrument code in paragraph 1 and clarifies name and description of company in paragraph 6)
+tesla,2017-12,"HORNSDALE, Australia, Dec 1 (Reuters) - Tesla Inc switched on the world's biggest lithium ion battery on Friday in time to feed Australia's shaky power grid for the first day of summer, meeting a promise by Elon Musk to build it in 100 days or give it free."
+tesla,2017-12,"""South Australia is now leading the world in dispatchable renewable energy,"" state Premier Jay Weatherill said at the official launch at the Hornsdale wind farm, owned by private French firm Neoen."
+tesla,2017-12,"Tesla won a bid in July to build the 129-megawatt hour battery for South Australia, which expanded in wind power far quicker than the rest of the country, but has suffered a string of blackouts over the past 18 months."
+tesla,2017-12,"In a politically charged debate, opponents of the state's renewables push have argued that the battery is a ""Hollywood solution"" in a country that still relies on fossil fuels, mainly coal, for two-thirds of its electricity."
+tesla,2017-12,"Supporters, however, say it will help stabilise the grid in a state that now gets more than 40 percent of its electricity from wind energy, but needs help when the wind dies down."
+tesla,2017-12,"""Storage can respond within a fraction of a second. It can address those stability issues very quickly without needing to resort to using large power plants,"" said Praveen Kathpal, vice president of AES Energy Storage , which was a supplier to a losing bidder to build the battery."
+tesla,2017-12,"Highlighting industry hopes for the take-up of battery storage, Tesla CEO Elon Musk visited the site some 225 kms (141 miles) north of the state capital Adelaide in July, hailing the battery as ""just the beginning""."
+tesla,2017-12,The state has yet to reveal how much it is paying Tesla.
+tesla,2017-12,"Weatherill came under fire last year after the entire state went black following a major storm, and raced to shore up the state's grid with a A$510 million ($385 million) plan, including ordering the big battery and installing diesel-fueled turbines."
+tesla,2017-12,"AES's Kathpal, who is also chairman of the U.S. Energy Storage Association, said South Australia's commitment to turn to energy storage was an important step for the rest of the industry."
+tesla,2017-12,"""We think that's what's really going to acclerate the uptake of energy storage in Australia,"" he said."
+tesla,2017-12,UPDATE 1-Germany removes Tesla from subsidies list as too pricey - Reuters News
+tesla,2017-12,{{20171201T122301.309+0000}}UPDATE 1-Germany removes Tesla from subsidies list as too pricey* Available Models S deemed too expensive for scheme
+tesla,2017-12,"* Tesla denies this, says drivers can buy no-frills version"
+tesla,2017-12,"BERLIN, Dec 1 (Reuters) - A German government agency has removed Tesla from the list of electric cars eligible for subsidies, sparking a row with the U.S. company over whether its Model S is too expensive to qualify for the scheme."
+tesla,2017-12,"Tesla customers cannot order the Model S base version without extra features that pushed the car above the 60,000 euro ($71,500) price limit, a spokesman for the German Federal Office for Economic Affairs and Export Controls (BAFA) said on Friday."
+tesla,2017-12,"Germany last year launched the incentive scheme worth about 1 billion euros, partly financed by the German car industry, to boost electric car usage. A price cap was included to exempt premium models."
+tesla,2017-12,"""This is a completely false accusation. Anyone in Germany can order a Tesla Model S base version without the comfort package, and we have delivered such cars to customers,"" Tesla said in a statement."
+tesla,2017-12,"The carmaker said the upper price limit was initially set by the German government to exclude Tesla, but later a compromise was reached ""that allows Tesla to sell a low option vehicle that qualifies for the incentive and customers can subsequently upgrade if they wish."""
+tesla,2017-12,"It said, however, it would investigate whether any car buyers were denied the no-frills version."
+tesla,2017-12,"""If a sales person told a customer they could not buy the Model S base version without the comfort package, this is not accurate and clearly outside our policies and procedures and we will investigate and take appropriate action as necessary."""
+tesla,2017-12,"Under the subsidy scheme, buyers get 4,000 euros off their all-electric vehicle purchase and 3,000 euros off plug-in hybrids."
+tesla,2017-12,German magazine Auto Bild had reported that BAFA was looking into the Tesla issue and could take the company's cars off the eligibility list.
+tesla,2017-12,BRIEF-Tesla denies Model S base version not available in Germany - Reuters News
+tesla,2017-12,{{20171201T110049.143+0000}}BRIEF-Tesla denies Model S base version not available in GermanyDec 1 (Reuters) - Tesla :
+tesla,2017-12,"* SAYS IT IS ""COMPLETELY FALSE"" THAT ITS MODEL S IS NOT AVAILABLE IN BASE VERSION IN GERMANY"
+tesla,2017-12,Germany removes Tesla from subsidies list as too pricey - Reuters News
+tesla,2017-12,"{{20171201T104756.897+0000}}Germany removes Tesla from subsidies list as too priceyBERLIN, Dec 1 (Reuters) - A German government agency has removed Tesla's Model S from the list of electric cars eligible for subsidies because it is not available in a version that falls within a 60,000 euro ($71,448) price limit."
+tesla,2017-12,"Tesla customers could not order the Model S without extra features that pushed the price of the car above the limit, a spokesman for the German Federal Office for Economic Affairs and Export Controls (BAFA) said on Friday."
+tesla,2017-12,German magazine Auto Bild had reported that BAFA was looking into the issue and could take Tesla off the eligibility list.
+tesla,2017-12,Tesla switches on giant battery to shore up Australia's grid - Reuters News
+tesla,2017-12,{{20171201T063038.464+0000}}Tesla switches on giant battery to shore up Australia's gridBy David B Gray
+tesla,2017-12,"HORNSDALE, Australia, Dec 1 (Reuters) - Tesla Inc switched on the world's biggest lithium ion battery on Friday in time to feed Australia's shaky power grid for the first day of summer, meeting a promise by Elon Musk to build it in 100 days or give it free."
+tesla,2017-12,"""South Australia is now leading the world in dispatchable renewable energy,"" state Premier Jay Weatherill said at the official launch at the Hornsdale wind farm, owned by private French firm Neoen."
+tesla,2017-12,"Tesla won a bid in July to build the 129-megawatt hour battery for South Australia, which expanded in wind power far quicker than the rest of the country, but has suffered a string of blackouts over the past 18 months."
+tesla,2017-12,"In a politically charged debate, opponents of the state's renewables push have argued that the battery is a ""Hollywood solution"" in a country that still relies on fossil fuels, mainly coal, for two-thirds of its electricity."
+tesla,2017-12,"Supporters, however, say it will help stabilise the grid in a state that now gets more than 40 percent of its electricity from wind energy, but needs help when the wind dies down."
+tesla,2017-12,"""Storage can respond within a fraction of a second. It can address those stability issues very quickly without needing to resort to using large power plants,"" said Praveen Kathpal, vice president of AES Energy , a losing bidder to build the battery."
+tesla,2017-12,"Highlighting industry hopes for the take-up of battery storage, Tesla CEO Elon Musk visited the site some 225 kms (141 miles) north of the state capital Adelaide in July, hailing the battery as ""just the beginning""."
+tesla,2017-12,The state has yet to reveal how much it is paying Tesla.
+tesla,2017-12,"Weatherill came under fire last year after the entire state went black following a major storm, and raced to shore up the state's grid with a A$510 million ($385 million) plan, including ordering the big battery and installing diesel-fueled turbines."
+tesla,2017-12,"AES's Kathpal, who is also chairman of the U.S. Energy Storage Association, said South Australia's commitment to turn to energy storage was an important step for the rest of the industry."
+tesla,2017-12,"""We think that's what's really going to acclerate the uptake of energy storage in Australia,"" he said."
+tesla,2017-12,"{{20171201T063036.000+0000}}CORRECTED-Tesla switches on giant battery to shore up Australia's gridHORNSDALE, Australia, Dec 1 (Reuters)"
+tesla,2017-12,(Corrects Reuters instrument code in paragraph 1 and clarifies name and description of company in paragraph 6)
+tesla,2017-12,"HORNSDALE, Australia, Dec 1 (Reuters) - Tesla Inc switched on the world's biggest lithium ion battery on Friday in time to feed Australia's shaky power grid for the first day of summer, meeting a promise by Elon Musk to build it in 100 days or give it free."
+tesla,2017-12,"""South Australia is now leading the world in dispatchable renewable energy,"" state Premier Jay Weatherill said at the official launch at the Hornsdale wind farm, owned by private French firm Neoen."
+tesla,2017-12,"Tesla won a bid in July to build the 129-megawatt hour battery for South Australia, which expanded in wind power far quicker than the rest of the country, but has suffered a string of blackouts over the past 18 months."
+tesla,2017-12,"In a politically charged debate, opponents of the state's renewables push have argued that the battery is a ""Hollywood solution"" in a country that still relies on fossil fuels, mainly coal, for two-thirds of its electricity."
+tesla,2017-12,"Supporters, however, say it will help stabilise the grid in a state that now gets more than 40 percent of its electricity from wind energy, but needs help when the wind dies down."
+tesla,2017-12,"""Storage can respond within a fraction of a second. It can address those stability issues very quickly without needing to resort to using large power plants,"" said Praveen Kathpal, vice president of AES Energy Storage , which was a supplier to a losing bidder to build the battery."
+tesla,2017-12,"Highlighting industry hopes for the take-up of battery storage, Tesla CEO Elon Musk visited the site some 225 kms (141 miles) north of the state capital Adelaide in July, hailing the battery as ""just the beginning""."
+tesla,2017-12,The state has yet to reveal how much it is paying Tesla.
+tesla,2017-12,"Weatherill came under fire last year after the entire state went black following a major storm, and raced to shore up the state's grid with a A$510 million ($385 million) plan, including ordering the big battery and installing diesel-fueled turbines."
+tesla,2017-12,"AES's Kathpal, who is also chairman of the U.S. Energy Storage Association, said South Australia's commitment to turn to energy storage was an important step for the rest of the industry."
+tesla,2017-12,"""We think that's what's really going to acclerate the uptake of energy storage in Australia,"" he said."
+tesla,2017-12,ANALYSIS-Luxury auto brands adopt new strategies as the old run out of gas - Reuters News
+tesla,2017-12,{{20171130T140917.921+0000}}ANALYSIS-Luxury auto brands adopt new strategies as the old run out of gasBy Joseph White
+tesla,2017-12,"LOS ANGELES, Nov 30 (Reuters) - Success in the United States used to come easily for German automaker BMW AG , whose sporty sedans in three sizes would be snapped up by affluent consumers."
+tesla,2017-12,"The premium auto business has now become more complicated, as illustrated by the BMW models displayed at this week's Los Angeles auto show, amid a backdrop of heavy spending by luxury auto brands on new models and technology as they make awkward leaps from a predictable past to an uncertain future."
+tesla,2017-12,"On one side of BMW's display stood a prototpye of a large X7 sport utility vehicle, a vehicle that was unthinkable in its lineup a few years ago when the top of the line was still defined as a large sedan."
+tesla,2017-12,"On the other side, BMW displayed the iVision, a prototype of an electric sedan that will rival Silicon Valley electric luxury car maker Tesla Inc's Model S when the production version, or non-prototype version, launches in 2021."
+tesla,2017-12,"""This is the future,"" said Bernhard Kuhnt, the new head of BMW's North American operations, referring to the iVision and electric vehicles in general."
+tesla,2017-12,"More immediately, Kuhnt said, the X7 represents BMW's determination to offer more sport utility vehicles, which now account for more than half of luxury vehicle sales in the United States, to reverse a four percent slide in sales this year through October."
+tesla,2017-12,"""In October, we sold 60 percent sedans in a market that is 55 percent SUVs,"" he said."
+tesla,2017-12,"But next year, as BMW's U.S. dealers get more newly redesigned X3 SUVs, and a new X2 sport utility, the SUV-to-sedan ratio will start to flip, and sales should grow, he said."
+tesla,2017-12,BMW's rivals are at different points in their own jumps from the strategies that fueled growth during the past two decades. The type of vehicle that defines the top of the line for German luxury brands shows how the business is changing.
+tesla,2017-12,"""The classic definition of the standard bearer as a three-box sedan, that is migrating in three directions,"" said Scott Keogh, head of U.S. operations for Volkswagen AG's Audi brand."
+tesla,2017-12,"One direction, he said, is ""electrification as the new prestige,"" a trend driven by Tesla."
+tesla,2017-12,Rivals at other established luxury brands agreed during interviews at the LA show that some form of electric power - fully electric or plug-in hybrids - is now necessary in order to compete.
+tesla,2017-12,"""The U.S. is a market where customers are asking for electric"" vehicles, Hakan Samuelsson, chief executive of Volvo Cars, said in an interview on the sidelines of the LA auto show Wednesday. ""That's a premium value - to be carbon free."""
+tesla,2017-12,Volvo has said it will engineer all its vehicles to rely on full or partial electric power starting in 2019.
+tesla,2017-12,German luxury car makers have announced aggressive plans to expand their electric vehicle lineups.[nL5N1LT47Z]
+tesla,2017-12,"Another way the market is veering away from sedans is with the rise of the large, luxury SUV, now available in most luxury brands at prices that can easily top $100,000. Jaguar Land Rover, owned by India's Tata Motors Ltd, is displaying a $207,900, 557-horsepower Range Rover model at the LA show."
+tesla,2017-12,"Audi plans to launch a Q8 SUV next year that will add a more luxurious SUV to the top of its U.S. lineup, Keogh said. Two large luxury SUVs are now sold for each large luxury sedan, Audi reckons.[nL1N1NU0Y5]"
+tesla,2017-12,"Daimler AG's Mercedes-Benz brand used the Los Angeles show to debut an example of a third trend. The new generation of the Mercedes CLS coupe joins Audi's A7 and the Porsche Panamera in a stable of large, premium, sporty fastbacks."
+tesla,2017-12,"Not to be outdone, BMW is displaying a large, sleek coupe of its own, the 8-series."

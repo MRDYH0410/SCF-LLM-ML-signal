@@ -1,0 +1,839 @@
+firm_id,date,text
+Civmec,2017-3,18:53:03  [GLOSTP] (CIVM.SI USD=) - Monthly: Civmec (CVL: 90.50c) unchanged on robust volume in April 2024 -
+Civmec,2017-3,17:57:12  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 90.50c) climbs 2.8% on rising relative strength; +2.5c [2.8%] Vol Index 1.8 [1 is avg] -
+Civmec,2017-3,12:07:34  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to outperform PEC -
+Civmec,2017-3,12:07:31  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,11:07:13  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,11:06:45  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-3,10:07:38  [GLOSTO] (CIVM.SI) - Tuesday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-3,10:07:37  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng -
+Civmec,2017-3,10:07:35  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-3,18:07:43  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,"17:57:16  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 88.0c) accelerates decline, down 3.3% in 2 days; -3c [3.3%] Vol Index 3.7 [1 is avg] -"
+Civmec,2017-3,17:12:23  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,16:13:22  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-3,15:12:32  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,14:07:10  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings -
+Civmec,2017-3,13:07:20  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,12:07:22  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,11:07:11  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,10:07:23  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,21:55:49  [STOCKP] (CIVM.SI) - Civmec (1CV.F) is trading -1.06 percent lower on Friday 26th of April and has a trading volume of AUD 29.8 k -
+Civmec,2017-3,17:57:14  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 90.0c) drops 1.1% on extraordinary volume; -1c [1.1%] Vol Index 4.1 [1 is avg] -
+Civmec,2017-3,11:07:06  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,10:07:31  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-3,05:27:46  [GERCOM] (1CV.F CIVM.SI) - German trading: Civmec (1CV: 52.50c) increases 1.0% against the trend; +0.5c [1.0%] -
+Civmec,2017-3,18:54:30  [STOCKP] (CIVM.SI) - Civmec (1CV.F) is trading -1.06 percent lower on Thursday 25th of April and has a trading volume of AUD 29.8 k -
+Civmec,2017-3,11:07:12  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,10:07:35  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,"17:59:57  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 91.0c) decreases, 3 days' volume in a day; -0.5c [0.6%] Vol Index 2.6 [1 is avg] -"
+Civmec,2017-3,15:40:08  [STOCKP] (CIVM.SI) - On Wednesday 24th of April Civmec trades -1.06 percent lower -
+Civmec,2017-3,15:12:33  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,13:07:14  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,12:10:35  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,11:07:14  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,10:07:34  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,03:54:56  [STOCKP] (CIVM.SI) - Civmec trades -1.06 percent lower on Tuesday 23rd of April -
+Civmec,2017-3,18:03:48  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 91.50c) in 2nd consecutive rise; +1.5c [1.7%] Vol Index 2.1 [1 is avg] -
+Civmec,2017-3,12:06:54  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-3,11:07:14  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-3,11:07:13  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,10:07:37  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,"10:00:00  [GERCOM] (1CV.F CIVM.SI) - German trading: Civmec (1CV: 52.0c) down 6.3% in 2 days, hits 78-day low; -3.5c [6.3%] -"
+Civmec,2017-3,18:07:43  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,17:52:20  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 90.50c) increases on average volume; +0.5c [0.6%] -
+Civmec,2017-3,17:49:10  [STOCKP] (CIVM.SI) - On Monday 22nd of April Civmec trades -1.06 percent lower -
+Civmec,2017-3,17:12:50  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,16:13:55  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-3,15:07:26  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,14:07:11  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-3,13:07:18  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,12:07:20  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,11:07:14  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,10:07:33  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,"10:00:00  [GERCOM] (1CV.F CIVM.SI) - German trading: Civmec (1CV: 52.50c) tumbles 5.4%, hits 77-day low; -3c [5.4%] -"
+Civmec,2017-3,11:07:11  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,10:07:40  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-3,10:07:38  [GLOSTO] (CIVM.SI) - Investors concerned as Civmec down in recent days -
+Civmec,2017-3,02:48:46  [STOCKP] (CIVM.SI) - Civmec is trading -1.06 percent lower with a volume of AUD 29.8 k on Thursday 18th of April -
+Civmec,2017-3,17:51:14  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 91.0c) increases on rising relative strength; +0.5c [0.6%] Vol Index 1.8 [1 is avg] -
+Civmec,2017-3,10:06:28  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,10:06:28  [GLOSTO] (CIVM.SI) - Thursday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-3,17:56:21  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 90.50c) drops on increasing volatility; -0.5c [0.6%] Vol Index 2.6 [1 is avg] -
+Civmec,2017-3,17:11:17  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,16:07:32  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-3,13:06:05  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,12:06:36  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,11:06:03  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,10:06:26  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,04:55:37  [STOCKP] (CIVM.SI) - Civmec is trading -1.06 percent lower with a volume of AUD 29.8 k on Tuesday 16th of April -
+Civmec,2017-3,"17:57:08  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 91.0c) falls 2.7%, 3 days' volume in a day; -2.5c [2.7%] Vol Index 3.1 [1 is avg] -"
+Civmec,2017-3,11:07:03  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,10:07:37  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,"19:12:26  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.50c) increases, 2 days' volume in a day; +0.5c [0.5%] Vol Index 2.2 [1 is avg] -"
+Civmec,2017-3,18:12:08  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,17:12:07  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,16:12:53  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-3,15:12:07  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,14:07:07  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-3,13:07:16  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,12:07:19  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,11:07:06  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,10:07:26  [GLOSTO] (CIVM.SI) - Monday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-3,10:07:23  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,05:53:40  [STOCKP] (CIVM.SI) - Civmec (1CV.F) is trading -1.06 percent lower on Friday 12th of April and has a trading volume of AUD 29.8 k -
+Civmec,2017-3,13:07:22  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to outperform PEC -
+Civmec,2017-3,11:07:25  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,11:07:22  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,10:07:47  [GLOSTO] (CIVM.SI) - Friday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-3,10:07:39  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,03:52:16  [STOCKP] (CIVM.SI) - Civmec (1CV.F) is trading -1.06 percent lower on Thursday 11th of April and has a trading volume of AUD 29.8 k -
+Civmec,2017-3,16:07:46  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,15:07:19  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-3,13:07:30  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,12:07:02  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,11:07:01  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,10:09:35  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-3,10:07:31  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,17:49:06  [STOCKP] (CIVM.SI) - Civmec is trading -1.06 percent lower with a volume of AUD 29.8 k on Wednesday 10th of April -
+Civmec,2017-3,02:48:34  [STOCKP] (CIVM.SI) - On Tuesday 9th of April Civmec trades -1.06 percent lower -
+Civmec,2017-3,21:17:06  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,10:08:12  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,10:07:43  [GLOSTO] (CIVM.SI) - Investors concerned as Civmec down in recent days -
+Civmec,2017-3,10:07:42  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-3,17:07:43  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,15:12:15  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:23  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,12:07:17  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,11:07:09  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,10:07:32  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,13:52:45  [STOCKP] (CIVM.SI) - Civmec (CVL.AX) is trading 2.17 percent higher on Saturday 6th of April and has a trading volume of AUD 120.1 k -
+Civmec,2017-3,17:52:21  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) drops 1.1% on firm volume; -1c [1.1%] -
+Civmec,2017-3,13:06:53  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,12:07:31  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-3,11:07:22  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-3,19:54:57  [STOCKP] (CIVM.SI) - Civmec (CVL.AX) is trading -1.6 percent lower on Thursday 4th of April and has a trading volume of AUD 54.6 k -
+Civmec,2017-3,"17:52:14  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 94.0c) climbs 2.2% on rising relative strength, hits 97-day high; +2c [2.2%] Vol Index 4.5 [1 is avg] -"
+Civmec,2017-3,16:07:17  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-3,15:07:34  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,14:06:58  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-3,12:07:32  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,11:07:35  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,06:50:27  [STOCKP] (CIVM.SI) - Civmec trades 3.31 percent higher on Wednesday 3rd of April -
+Civmec,2017-3,"17:52:26  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.0c) drops 1.6%, 2 days' volume in a day; -1.5c [1.6%] Vol Index 2.1 [1 is avg] -"
+Civmec,2017-3,17:52:16  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.0c) offers Price Earnings growth of 0.84; -1.5c [1.6%] Vol Index 2.1 [1 is avg] -
+Civmec,2017-3,14:07:33  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:38  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:07:19  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:07:47  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,"17:52:18  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.50c) gains 3.3%, 2 days' volume in a day; +3c [3.3%] Vol Index 2.2 [1 is avg] -"
+Civmec,2017-3,16:43:22  [GLOSTP] (CIVM.SI .AORD) - Monthly: Civmec (CVL: 90.50c) lifts 3% on firm volume in March 2024 -
+Civmec,2017-3,12:07:51  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,11:07:38  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,11:07:37  [GLOSTO] (CIVM.SI) - Tuesday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-3,06:18:35  [AUSCON] (CIVM.SI CVL.AX) - Monthly: Civmec (CVL: 90.50c) increases 3% on firm volume in March 2024 -
+Civmec,2017-3,"06:17:52  [AUSCON] (CIVM.SI CVL.AX) - Civmec Compendium - A Snapshot as of March 31, 2024 -"
+Civmec,2017-3,"19:43:02  [GLOSTP] (CIVM.SI .STI) - Monthly: Civmec (P9D: 77.0c) wipes off SGD10 million ($8 million) in MCap in March, highest loser in Construction and Engineering sector -"
+Civmec,2017-3,17:12:39  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,16:12:12  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,14:07:04  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:12  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:07:03  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:07:26  [GLOSTO] (CIVM.SI) - Monday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-3,11:07:10  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,"Monthly: Civmec (P9D: 77.0c) wipes off SGD10 million ($8 million) in MCap in March, highest loser in Construction and Engineering sector - Global Stocks - Monthly"
+Civmec,2017-3,"{{20240328T104234.594+0000}}Monthly: Civmec (P9D: 77.0c) wipes off SGD10 million ($8 million) in MCap in March, highest loser in Construction and Engineering sectorSINGAPOREAN END-OF-MONTH STOCK REPORT"
+Civmec,2017-3,"Civmec (SI:P9D), Singapore's largest Construction and Engineering company by market cap, has decreased 2.0c (or 2.5%) in the month ended March 28 to close at 77.0c. This loss makes the stock the biggest decliner in the Construction and Engineering sector which is up 2.8%. Compared with the Straits Times Index which rose 98.5 points (or 3.1%) in the month, this represented a relative price change of -5.2%."
+Civmec,2017-3,"The price ranged between a low of 0.8 on Wednesday, 28 Feb and a high of 0.8 on Wednesday, 28 Feb. In the past month the market cap has declined by SGD10.2 million ($7.5 million) to SGD390.9 million ($289.9 million)."
+Civmec,2017-3,The volume in the month was 0.5 times the average trading of 4.4 million shares per month.
+Civmec,2017-3,Price Volume Snapshot past 3 months (SGD) [*Volume Index of 0.5 means volume for the month was 0.5 times its 12-month average]
+Civmec,2017-3,March    Headline                              Close price [SGD]   Price change %   Relative change %   Comment
+Civmec,2017-3,"Week 10 of 2024: Up 0.6%; the price ranged between a low of 79.0c on Monday, Mar 04 and a high of 79.50c on Thursday, Mar 07."
+Civmec,2017-3,March    Headline    Close price [SGD]   Price change %   Relative change %   Comment
+Civmec,2017-3,"Week 11 of 2024: Down 0.6%; the price ranged between a low of 78.50c on Tuesday, Mar 12 and a high of 79.0c on Monday, Mar 11."
+Civmec,2017-3,March    Headline                                  Close price [SGD]   Price change %   Relative change %   Comment
+Civmec,2017-3,Tue 12   Drops on increasing volatility            0.785               -0.6             -0.7                Falls for a second consecutive day
+Civmec,2017-3,Fri 15   Decreases on slipping relative strength   0.785               -0.6             -0.3                Price fall on falling relative strength
+Civmec,2017-3,"Week 12 of 2024: Up 0.6%; the price ranged between a low of 78.50c on Monday, Mar 18 and a high of 79.0c on Wednesday, Mar 20."
+Civmec,2017-3,March    Headline                     Close price [SGD]   Price change %   Relative change %   Comment
+Civmec,2017-3,"Week 13 of 2024: Down 1.9%; the price ranged between a low of 77.0c on Tuesday, Mar 26 and a high of 78.50c on Monday, Mar 25."
+Civmec,2017-3,March    Headline                                   Close price [SGD]   Price change %   Relative change %   Comment
+Civmec,2017-3,Thu 28   Drops to two-month low                     0.77                -1.3             -0.8                Price fall on falling relative strength
+Civmec,2017-3,"The P/E of 8 is 0.2 times the highest average P/E of 32.4 in the last five years. This is a value criterion, according to Benjamin Graham who described as a value criterion ""A P/E ratio down to less than four-tenth of the highest average P/E ratio the stock attained in the most recent five years""."
+Civmec,2017-3,"The stock is oversold according to the Williams % R indicator of -83.3, suggesting the price is close to its 14-day low. The Williams % R was previously -60.0."
+Civmec,2017-3,"CIVMEC (P9D) Stock Dashboard [traded in Singapore Dollars, SGD] End-of-Day Thu, Mar 28"
+Civmec,2017-3,VI* Volume Index = Number of shares traded today/Average number of shares traded per day.
+Civmec,2017-3,"A year ago the exchange rate was USD 1 = 1.33 SGD. USD1000 would have bought SGD1,332. A year ago the Civmec share price was 65.93c. SGD1,332 would have bought 2,020.5 Civmec shares on that day. Those 2,020.5 shares would be worth SGD1,556 at today's share price of 77.0c. At today's exchange rate of USD1=1.35 SGD this is equivalent to USD1,154. Dividends reinvested are worth SGD73 ($72). PV$1000= $1,226."
+Civmec,2017-3,[*Volume Index of 0.5 means volume for the month was 0.5 times its 12-month average]
+Civmec,2017-3,"P9D dips 1.9% on low volume 0.3 times average. Compared with the Straits Times Index which rose 25.9 points (or 0.8%) in the 3-days, the relative price change was -2.3%."
+Civmec,2017-3,Week 13 of 2024: Down 2.5%; Civmec (P9D) underperformed the Straits Times Index in 2 out of 3 days. The price ranged between a low of 77.0c on Thursday Mar 28 and a high of 78.0c on Wednesday Mar 27.
+Civmec,2017-3,Thu 28   Drops to two-month low                     0.77          -1.3       Price fall on falling relative strength
+Civmec,2017-3,* RPC - Relative Price Change is % price change of stock less % change of the Straits Times Index.
+Civmec,2017-3,1.2 Rank in the bottom 14% by Relative Valuation in the Singapore market
+Civmec,2017-3,1.3 Rank in the bottom 17% by Price Performance in the Singapore market
+Civmec,2017-3,Beta < 1 combined with price fall. The Beta of the stock is 0.8.
+Civmec,2017-3,"- The Moving Average Convergence Divergence (MACD) indicator of 12-day Exponential Moving Average (EMA) of 0.78 minus the 26-day EMA of 0.79 is negative, suggesting a bearish signal. Both the 12-day EMA as well as the 26-day EMA are falling, another bearish signal."
+Civmec,2017-3,In the past quarter the steepest fall of 1.9% took place in the week beginning Monday February 26.
+Civmec,2017-3,Mon-Fri         Change %   Straits Times Index Change %   Vol Ind [1 is avg]
+Civmec,2017-3,- Net profit margin has averaged 6.1% in the last 3 years. This is lower than the sector average of 9.4% and suggests a low margin of safety.
+Civmec,2017-3,"- As per the Du Pont analysis, Return on Equity of 13.7% is lower than sector average of 18.7%. This is computed as net profit margin of 6.9% times asset turnover [sales/assets] of 1.1 times leverage factor [total assets/shareholders' equity] of 1.8."
+Civmec,2017-3,2.1 Rank in the bottom 6% by Growth in the Singapore market
+Civmec,2017-3,2.2 Present Value of SGD1000 Invested in the Past 3 Months; The Worst Period with PVSGD1000 < 988
+Civmec,2017-3,3-Month price change of -1.3% for Civmec underperformed the change of -0.5% in the Straits Times Index for a relative price change of -0.8%.
+Civmec,2017-3,3.1 Price/Earnings of 8 < Construction and Engineering sector (of 45 stocks) avg of 13.3:
+Civmec,2017-3,- The price-to-earnings ratio of 8 indicates undervaluation compared with sector average of 13.3 and market average of 14.6.
+Civmec,2017-3,3.2 Relative Value Indicators: Undervaluation compared with Index averages and bond yield
+Civmec,2017-3,- Earnings yield of 12.6% is more attractive compared with the Singapore average earning yield of 6.9%.
+Civmec,2017-3,- The earnings yield of 12.6% is 4.1 times the 10-year bond yield of 3.1%.
+Civmec,2017-3,The dividend yield of 5.74% is 1.85 times the triple-A bond yield of 3.1%. The times factor of 1.85 is above the benchmark factor of 0.67 times set by Benjamin Graham.
+Civmec,2017-3,3.3 Rank in the top 23% by Relative Valuation in the Singapore market
+Civmec,2017-3,"- The Price/MAP 200 for Civmec is 1.04. Being higher than 1 is a bullish indicator. It is higher than the Price/MAP 200 for the Straits Times Index of 1.02, a second bullish indicator. The stock is trading above both its MAPs and the 50-day MAP of 78.17c is higher than the 200-day MAP of 74.05c, a third bullish indicator."
+Civmec,2017-3,"- Total Liabilities/EBITDA of 4.3 is less than 5, this compares favourably with the Joseph Piotroski benchmark of 5."
+Civmec,2017-3,"- Tobin's Q Ratio, defined as MCap divided by Total Assets, is 0.6. Compared with the rest of the market the stock is undervalued."
+Civmec,2017-3,"- At 77.0c the price is below the lower Bollinger band support of 77.29c, indicating an upside for it to return to the band."
+Civmec,2017-3,"- The stock is oversold according to the Williams % R indicator of -83.3, suggesting the price is close to its 14-day low of 76.50c."
+Civmec,2017-3,- Civmec rose for a fourth consecutive year. In the past four years it has risen 55.82c (263.5%).
+Civmec,2017-3,"4.2 Present Value of SGD1000 Invested in the Past [1 Yr, 3 Yrs]; The Best Periods with PVSGD1000 > 1,240"
+Civmec,2017-3,3-Year price change of 55.4% for Civmec outperformed the change of 2.1% in the Straits Times Index for a relative price change of 53.3%.
+Civmec,2017-3,"Moving Annual Return was 23.5% in the past year. Based on a dynamic start date of 5 years ago, the real rate of return has averaged 34.1%. The Moving Annual Return has been positive in 4 of the last 5 years."
+Civmec,2017-3,P9D         Close (SGD)   Dividends (SGD)   Capital Gain / (Loss) %   % Yield   Annual Return %
+Civmec,2017-3,"In the past 5 years Market Capitalization has increased by SGD190.5 million (95%) from SGD200.4 million to SGD390.9 million. Based on a dynamic start date of 5 years ago, there has been only 1 decline in MCap over the last 5 years."
+Civmec,2017-3,4.6 Annualised Period-based Total Shareholder Returns [TSR %]: The Best Periods with TSR > 20.5%
+Civmec,2017-3,The price earnings ratio of 8.0 divided by trailing twelve months eps growth of 10.0% corresponds to an attractive P/E/G of 0.8 times; being less than the value benchmark of 1.0.
+Civmec,2017-3,EBIT margin is positive and has seen consecutive rises in the last 4 years.
+Civmec,2017-3,"The debt to equity ratio of 15.9% is under a safe benchmark figure of 50%. Moreover, it has improved in the past four years."
+Civmec,2017-3,"In the past five years, Average Daily Volume of Trading (ADVT) has increased 416.9% to 207,177 shares."
+Civmec,2017-3,In the past five years Volume Weighted Average Price (VWAP) has increased by 159.2% to 74.58c.
+Civmec,2017-3,"In the past five years, average daily share turnover has increased 1506.0% to SGD143,713 ($106,581). This suggests increased liquidity."
+Civmec,2017-3,Liquidity has improved from 57 Days Untraded five years ago to 6 days in the past year.
+Civmec,2017-3,- The P/E of 8 multiplied by the P/NTA of 1.1 is 8.4. Being less than the Benjamin Graham benchmark of 22.5 the stock appears undervalued.
+Civmec,2017-3,"- ""An earnings-to-price yield of at least twice the triple-A bond""; the stock's earning yield of 12.6% is 4.1 times the triple-A bond yield of 3.1%."
+Civmec,2017-3,"- The P/E of 8 is 0.2 times the highest average P/E of 32.4 in the last five years. This is a value criterion, according to Benjamin Graham who described as a value criterion ""A P/E ratio down to less than four-tenth of the highest average P/E ratio the stock attained in the most recent five years""."
+Civmec,2017-3,"- ""A dividend yield of at least two-thirds the triple-A bond yield""; the stock's dividend yield is 1.8 times the triple-A bond yield of 3.1%."
+Civmec,2017-3,"-""Total debt less than tangible book value""; total debt of AUD66.7 million (US$44.2 million) is less than tangible book value of AUD420.6 million (US$279 million).-""Total debt equal or less than twice the net quick liquidation value""; total debt of AUD66.7 million (US$44.2 million) is 0.3 times the net liquidation value of AUD214.3 million (US$142.1 million)."
+Civmec,2017-3,But does not meet the following 3 criteria of Joseph Piotroski:
+Civmec,2017-3,- Total shares on issue unchanged (or reduction in total shares on issue).
+Civmec,2017-3,Final dividend for FY 2023 was 3.0c. The year-on-year change was up 50.0% from 2.0c in the previous year FY 2022.
+Civmec,2017-3,"Civmec Ltd. is an integrated multi-disciplinary construction and heavy engineering services provider to the oil and gas, mining and other industries, such as the infrastructure, utilities, chemical and power industries. The Company provides heavy engineering and other services including fabrication, site civil works, pre-cast concrete and maintenance services. It is Singapore's largest Construction and Engineering company by market capitalisation."
+Civmec,2017-3,+ Net profit was up 13.6% from $33.3 million in FY2022 to $37.9 million in FY2023.
+Civmec,2017-3,+ Earnings Per Share (EPS) was up 10% from 10.0c in FY2022 to 11.0c in FY2023.
+Civmec,2017-3,"Civmec (SI:P9D) reported net profit for the year-ended 30 June 2023 [FY2023] of $A57.7m ($38.2m), up 14% from $A50.8m ($35.0m) in the previous year [FY2022]. Earnings per share (EPS) were up 10% from 10.0c (US6.9c) in FY2022 to 11.0c (US7.3c) in FY2023."
+Civmec,2017-3,"In the last 5 years Total Revenue averaged $A637.8M ($423M), EBITDA averaged $A46.9M ($31.1M) and Net Profit averaged $A33.5M ($22.2M). Compound Annual Growth Rate (CAGR) averaged 3.4% for Total Revenue, 26.1% for Net Profit and 26.8% for EBITDA."
+Civmec,2017-3,"Five-year record of EBITDA, Operating Profit, Net Profit, ROE, ROA and ROCE"
+Civmec,2017-3,In 2023 Net Profit Margin of 6.9% was above its 5-year Avg of 4.9% (All Figures in %)
+Civmec,2017-3,"In the past 5 years annual dividends have increased by 1.9c from 0.7c to 2.6c. Based on a start date of 5 years ago, there has been two decline in dividends over the last 5 years."
+Civmec,2017-3,"In the last 5 years the average annualized return to shareholders was 23.0%. The present value of SGD1,000 (PV1000) invested 5 years ago is now SGD2,815, a gain of SGD1,312 and dividend reinvested of SGD503."
+Civmec,2017-3,"Mr. James Finbarr Fitzgerald was appointed to our Board on 27 March 2012. He is responsible for the Company's corporate direction and implementing the company's vision and strategic directions. With more than 35 years' experience, Mr. Fitzgerald has a wealth of experience, with the ability to create solutions for complex tasks, he has a strong belief in training, strong corporate governance and with uncomplicated systems as a cornerstone to his and the Company's growth and success."
+Civmec,2017-3,"In the last 5 years the average annualized return to shareholders was 23.0%. The present value of SGD1,000 (PV1000) invested 5 years ago is now SGD2,815, a gain of SGD1,312 and dividend reinvested of SGD503."
+Civmec,2017-3,"Mr. Kevin James Deery was appointed to our Board on 27 March 2012. He is responsible for ensuring a safetyfocused workplace, delivering a high-quality product, while overseeing the ongoing business operations of the Group's quality-orientated culture, compliance and operational productivity. Mr. Deery has more than 21 years' experience, with extensive experience in the construction and engineering services industry throughout Australia."
+Civmec,2017-3,"In the last 5 years the average annualized return to shareholders was 23.0%. The present value of SGD1,000 (PV1000) invested 5 years ago is now SGD2,815, a gain of SGD1,312 and dividend reinvested of SGD503."
+Civmec,2017-3,"Mr. Douglas Owen Chester was appointed to our Board on 2 November 2012. He is Lead Independent Director of Kim Heng Offshore & Marine Holdings Limited. Prior to his appointment, he held the role of Australia's High Commissioner to Singapore. Mr. Chester holds a Bachelor of Science (Honours) from the Australian National University."
+Civmec,2017-3,"In the last 5 years the average annualized return to shareholders was 23.0%. The present value of SGD1,000 (PV1000) invested 5 years ago is now SGD2,815, a gain of SGD1,312 and dividend reinvested of SGD503."
+Civmec,2017-3,"Mr. Sunny Wong Fook Choy was appointed to our Board on 27 March 2012. He is a practising advocate and solicitor of the Supreme Court of Singapore and is currently the Managing Director of Wong Tan & Molly Lim LLC. He is also an Independent Director of China Medical (International) Group Limited, Excelpoint Technology Ltd., Mencast holdings Ltd., InnoTek Ltd. and KTL Global Ltd. Mr. Wong holds a Bachelor of Law (Honours) from the National University of Singapore."
+Civmec,2017-3,"In the last 5 years the average annualized return to shareholders was 23.0%. The present value of SGD1,000 (PV1000) invested 5 years ago is now SGD2,815, a gain of SGD1,312 and dividend reinvested of SGD503."
+Civmec,2017-3,"Mr. Chong Teck Sin was appointed to our Board on 27 March 2012. Mr. Chong is currently an independent Director of Changan Minsheng APLL Logistics Co. Ltd. and Audit Committee Chairman of AVIC International Maritime Holdings Limited, InnoTek Limited and Accordia Golf Trust Management Pte. Ltd. Mr. Chong has a Bachelor of Engineering from the University of Tokyo and a Masters of Business Administration from the National University of Singapore."
+Civmec,2017-3,"In the last 5 years the average annualized return to shareholders was 23.0%. The present value of SGD1,000 (PV1000) invested 5 years ago is now SGD2,815, a gain of SGD1,312 and dividend reinvested of SGD503."
+Civmec,2017-3,Earnings per share attributable to equity holders of the Company (cents per share):
+Civmec,2017-3,"Total equity attributable to the Owners of the Company   420,870       371,393       Up 13.3"
+Civmec,2017-3,"Depreciation of property plant and equipment and investment properties - leasehold land   18,418        16,600        Up 11.0"
+Civmec,2017-3,"Fair value gain on investment property at fair value through profit or loss               -420          -1,640        Improved 74.4"
+Civmec,2017-3,Reversal of revaluation loss on freehold land and buildings                               -149          -967          Improved 84.6
+Civmec,2017-3,"Cash and cash equivalents at the beginning of the year                                    40,841        48,172        Down 15.2"
+Civmec,2017-3,"Cash and cash equivalents at the end of the year                                          70,381        40,841        Up 72.3"
+Civmec,2017-3,"Out of 308 stocks and 1 unit in the Singapore Market, Civmec is ranked Thirty-first(31) by P/Sales, Thirty-fourth(34) by P/Earnings/ Growth, Fifty-fifth(55) by Free Cash Flow and Fifty-eighth(58) by P/Earnings."
+Civmec,2017-3,Civmec vs Construction and Engineering sector [Construction and Engineering sector Total in Brackets]
+Civmec,2017-3,Revenue of $A730.9 million[7.2% of aggregate sector revenue of SGD12.9 billion; down from 13.7% in the previous year.]
+Civmec,2017-3,Net Profit of $A50.7 million [4.7% of aggregate sector net profit of SGD1 billion; down from 15.7% in the previous year.]
+Civmec,2017-3,EBIT of $A72.6 million [3.2% of aggregate sector EBIT of SGD2.2 billion; down from 9.6% in the previous year.]
+Civmec,2017-3,"10.3 GLOBAL RANK [out of 46,471 stocks] AND RANK OF CIVMEC IN THE ASIA REGION [out of 25,376 stocks]"
+Civmec,2017-3,10.4 RANK OF CIVMEC IN THE SINGAPORE MARKET [out of 469 stocks] AND IN THE CONSTRUCTION AND ENGINEERING SECTOR [out of 33 stocks]
+Civmec,2017-3,Description           Value    In Singapore Market   In Construction and Engineering sector
+Civmec,2017-3,Civmec is ranked number 1 out of 45 listed construction and engineering companies in the Singapore with a market capitalization of SGD390.9 million ($289.9 million).
+Civmec,2017-3,In the construction and engineering companies it has the 9th highest total assets and 2nd highest revenues.
+Civmec,2017-3,Within its sector it has a relatively low P/E of 8 and low Price/Sales of 0.5.
+Civmec,2017-3,"The company paid a dividend of 2.65c in the last twelve months. The dividend yield is high at 5.7%. Finally, its earnings growth in the past 12 months has been a comparatively high 10%."
+Civmec,2017-3,"Stocks are scored on a set of parameters reflecting fundamental analytical tools involving valuation, size and financial performance. They are ranked according to the average values of those parameters. The highest ranking is 5 and the lowest ranking is 1."
+Civmec,2017-3,In the past year the Singapore Dollar fell 1.1% against the US Dollars; in the past three years the Singapore Dollar fell 0.1% against the US Dollars.
+Civmec,2017-3,Annual Return: Dividends Paid In a 12-Month Period/Price at the Beginning of the Period + Capital Gain or Loss over 1 Year/Price 1 Year Ago (%)
+Civmec,2017-3,Moving Average Price (n periods): Sum of Prices for each Period/Number of Periods
+Civmec,2017-3,Price Close/Moving Avg Price: Latest Price/Moving Average Price
+Civmec,2017-3,Price/NTA: Closing Share Price/Net Tangible Assets Per Share (times)
+Civmec,2017-3,Relative Price Change [RPC]: Relative price change is price change of stock with respect to Benchmark Index
+Civmec,2017-3,"Relative Strength (6 Months): Price close today/Price close 6 months ago, then ranked by percentile within the entire market."
+Civmec,2017-3,TSR: Total Shareholder Returns is expressed as an annualized rate of return for shareholders after allowing for capital appreciation and dividend
+Civmec,2017-3,Volume Index (VI): Number of shares traded in the period/Average number of shares traded for the period
+Civmec,2017-3,Volume Weighted Average Price (VWAP): The Volume Weighted Average Price (VWAP) is the summation of turnover divided by total volume in the same period.
+Civmec,2017-3,"Data for the BuySellSignals algorithms is drawn from annual reports, company websites and similar sources of publicly available data. It should be used as a guide only."
+Civmec,2017-3,End-of-Quarter Synopsis Monthly : Civmec (CVL: 90.50c) increases 3% on firm volume in March 2024 - Australian Company News Bites - Stock Report
+Civmec,2017-3,"{{20240328T094258.637+0000}}End-of-Quarter Synopsis Monthly : Civmec (CVL: 90.50c) increases 3% on firm volume in March 2024Civmec (ASX:CVL 90.50c), Australia's 20th largest Capital Goods company by market cap, has increased 2.43c (or 2.8%) in the past month to close at 90.50c on Thursday March 28. Compared with the All Ordinaries Index which rose 236.6 points (or 3.0%) in the month, this represented a relative price change of -0.2%."
+Civmec,2017-3,"The price ranged between a low of 90.0c on Monday, 4 Mar and a high of 90.0c on Monday, 4 Mar."
+Civmec,2017-3,"Beginning of Quarter (28 Dec, 2023)   End-of Quarter (28 Mar, 2024)   Change          Change %"
+Civmec,2017-3,"Civmec today announced an interim dividend of 2.50c per share, franked to 100%. The ex-dividend date is Tuesday, March 26, 2024 and the record date is Wednesday, March 27, 2024 and it is payable on Monday, April 15."
+Civmec,2017-3,"Civmec Limited (CVL) are an Australian based multi-disciplinary construction and heavy engineering provider, with major facilities in Henderson, WA and Newcastle, NSW and satellite offices in Broome, Darwin, Gladstone and Sydney, offering an integrated turn key solution to the oil and gas, metals and minerals, infrastructure, marine and defence, water and energy markets."
+Civmec,2017-3,"SECTION 3 CIVMEC (CVL) Stock Dashboard [traded in Australian Dollar, AUD (AUD 1 = 100 A cents)] End-of-Day Thu, Mar 28"
+Civmec,2017-3,VI* Volume Index = Number of shares traded today/Average number of shares traded per day.
+Civmec,2017-3,"A year ago the exchange rate was USD 1 = 1.51 AUD. USD1000 would have bought $A1,505. A year ago the Civmec share price was 65.60c. $A1,505 would have bought 2,294.7 Civmec shares on that day. Those 2,294.7 shares would be worth $A2,077 at today's share price of 90.50c. At today's exchange rate of USD1=1.53 AUD this is equivalent to USD1,355. Dividends reinvested are worth $A125 ($123). PV$1000= $1,478."
+Civmec,2017-3,Monthly: Civmec (CVL: 90.50c) lifts 3% on firm volume in March 2024 - Global Stocks - Monthly
+Civmec,2017-3,{{20240328T081227.595+0000}}Monthly: Civmec (CVL: 90.50c) lifts 3% on firm volume in March 2024AUSTRALIAN END-OF-MONTH STOCK REPORT
+Civmec,2017-3,"Civmec (ASX:CVL), Australia's 20th largest Capital Goods company by market cap, has lifted 2.43c (or 2.8%) in the past month to close at 90.50c on Thursday March 28. Compared with the All Ordinaries Index which rose 236.6 points (or 3.0%) in the month, this represented a relative price change of -0.2%."
+Civmec,2017-3,"The price ranged between a low of 0.9 on Monday, 4 Mar and a high of 0.9 on Monday, 4 Mar."
+Civmec,2017-3,Price Volume Snapshot past 3 months (AUD) [*Volume Index of 1.1 means volume for the month was 1.1 times its 12-month average]
+Civmec,2017-3,The shares decreased 2.2% in the 2 trading sessions since the ex-dividend date of March 26. The company paid a dividend of 2.50c per share. Based on dividends of 7.50c per share for the trailing twelve months and the last price of 90.50c the dividend yield is 8.3%.
+Civmec,2017-3,"Week 10 of 2024: The price ranged between a low of 89.0c on Monday, Mar 04 and a high of 89.0c on Monday, Mar 04."
+Civmec,2017-3,"Week 11 of 2024: Down 1.1%; the price ranged between a low of 89.50c on Thursday, Mar 14 and a high of 90.50c on Monday, Mar 11."
+Civmec,2017-3,March    Headline                                Close price [AUD]   Price change %   Relative change %   Comment
+Civmec,2017-3,Mon 11   Hits one-month high on average volume   0.905               1.6              3.4                 Price rise on rising relative strength
+Civmec,2017-3,"Week 12 of 2024: The price ranged between a low of 90.50c on Monday, Mar 18 and a high of 91.50c on Tuesday, Mar 19."
+Civmec,2017-3,March    Headline                                      Close price [AUD]   Price change %   Relative change %   Comment
+Civmec,2017-3,Tue 19   In 2nd consecutive rise                       0.915               1.1              0.7                 Price rise on rising relative strength
+Civmec,2017-3,Wed 20   Offers earnings yield of 11.7%                0.915                                0                   Price rise on rising relative strength
+Civmec,2017-3,"Week 13 of 2024: The price ranged between a low of 90.50c on Monday, Mar 25 and a high of 93.0c on Wednesday, Mar 27."
+Civmec,2017-3,March    Headline                                     Close price [AUD]   Price change %   Relative change %   Comment
+Civmec,2017-3,Wed 27   Offers dividend yield of 8.1%; ex-Dividend   0.93                0.5              0.1                 Month-high of 0.93
+Civmec,2017-3,"Based on dividends of 7.50c per share for the trailing twelve months and the last price of 90.50c the dividend yield is 8.3%, a significant improvement from 8.1% on the previous day."
+Civmec,2017-3,"CIVMEC (CVL) Stock Dashboard [traded in Australian Dollar, AUD (AUD 1 = 100 A cents)] End-of-Day Thu, Mar 28"
+Civmec,2017-3,VI* Volume Index = Number of shares traded today/Average number of shares traded per day.
+Civmec,2017-3,"A year ago the exchange rate was USD 1 = 1.51 AUD. USD1000 would have bought $A1,505. A year ago the Civmec share price was 65.60c. $A1,505 would have bought 2,294.7 Civmec shares on that day. Those 2,294.7 shares would be worth $A2,077 at today's share price of 90.50c. At today's exchange rate of USD1=1.53 AUD this is equivalent to USD1,355. Dividends reinvested are worth $A125 ($123). PV$1000= $1,478."
+Civmec,2017-3,In the past month there were 3 days untraded out of 21 trading days in the month. Days Untraded increased from 2 days in February to 3 days in March.
+Civmec,2017-3,Past month to   High   Low   VWAP   Volume Index *   Days Untraded
+Civmec,2017-3,[*Volume Index of 1.1 means volume for the month was 1.1 times its 12-month average]
+Civmec,2017-3,"Civmec today announced an interim dividend of 2.50c per share, franked to 100%. The ex-dividend date is Tuesday, March 26, 2024 and the record date is Wednesday, March 27, 2024 and it is payable on Monday, April 15."
+Civmec,2017-3,2.1 Rank in the bottom 12% by Relative Valuation in the Australian market
+Civmec,2017-3,"- The shares had their worst quarter in seven quarters since the quarter ended June 28, 2022."
+Civmec,2017-3,- The Stochastic indicator of 81.5 has broken through the overbought line of 80; this indicates the price is close to its 14-day high and is likely to revert to a downtrend.
+Civmec,2017-3,3.1 Rank in the bottom 21% by Growth in the Australian market
+Civmec,2017-3,3.2 Present Value of AUD1000 Invested in the Past 3 Months; The Worst Period with PVAUD1000 < 986
+Civmec,2017-3,3-Month price change of -4.1% for Civmec underperformed the change of 4.1% in the All Ordinaries Index for a relative price change of -8.3%.
+Civmec,2017-3,"In the past 5 years Market Capitalization has decreased by $A1.3 million (1%) from $A220.4 million to $A219.1 million. Based on a dynamic start date of 5 years ago, there have been declines in MCap in 3 out of 5 years."
+Civmec,2017-3,4.1 Price/Earnings of 8.2 < Capital Goods sector (of 68 stocks) avg of 37.5:
+Civmec,2017-3,- The price-to-earnings ratio of 8.2 indicates undervaluation compared with sector average of 37.5 and market average of 20.8.
+Civmec,2017-3,Price to Book of 0.5 < Capital Goods sector (of 68 stocks) average of 7.3:
+Civmec,2017-3,- The Price to Book of 0.5 indicates undervaluation compared with sector average of 7.3 and 2.9 for the Australian Market.
+Civmec,2017-3,4.2 Relative Value Indicators: Undervaluation compared with Index averages and bond yield
+Civmec,2017-3,- Earnings yield of 12.2% is more attractive compared with the Australian average earning yield of 4.8%.
+Civmec,2017-3,- The earnings yield of 12.2% is 3.0 times the 10-year bond yield of 4.1%.
+Civmec,2017-3,The dividend yield of 8.29% is 2.05 times the triple-A bond yield of 4.05%. The times factor of 2.05 is above the benchmark factor of 0.67 times set by Benjamin Graham.
+Civmec,2017-3,The Dividend Yield of 8.3% is better than the Index average of 4.8%
+Civmec,2017-3,"- The relative yield of the stock, defined by its yield of 8.3%, divided by average yield of dividend yielding stocks in the All Ordinaries Index of 4.8% is 173.8%. This suggests the stock is undervalued in dividend yield terms."
+Civmec,2017-3,4.3 Rank in the top 24% by Relative Valuation in the Australian market
+Civmec,2017-3,4.4 Rank in the top 18% by Price Performance in the Australian market
+Civmec,2017-3,"- The Price/MAP 200 for Civmec is 1.02. Being higher than 1 is a bullish indicator. The stock is trading above both its MAPs and the 50-day MAP of 89.51c is higher than the 200-day MAP of 88.40c, a second bullish indicator."
+Civmec,2017-3,"- The Moving Average Convergence Divergence (MACD) indicator of 12-day Exponential Moving Average (EMA) of 0.91 minus the 26-day EMA of 0.9 is positive, suggesting a bullish signal."
+Civmec,2017-3,In the past quarter the week beginning Monday January 29 saw the highest weekly rise of 2.7% for a relative price increase of 0.8%.
+Civmec,2017-3,Mon-Fri         Change %   All Ordinaries Index Change %   Vol Ind [1 is avg]
+Civmec,2017-3,- Return on Equity of 13.7% versus sector average of 7.9% and market average of 10.6%.
+Civmec,2017-3,"- Total Liabilities/EBITDA of 4.3 is less than 5, this compares favourably with the Joseph Piotroski benchmark of 5."
+Civmec,2017-3,- Return on Assets of 7.4% versus sector average of 3.5% and market average of 1.9%.
+Civmec,2017-3,- Return on Capital Employed of 14.3% versus sector average of 8.8% and market average of 3.5%.
+Civmec,2017-3,"- Tobin's Q Ratio, defined as MCap divided by Total Assets, is 0.3. Compared with the rest of the market the stock is undervalued and ranks in the top quartile of stocks by value of Q Ratio."
+Civmec,2017-3,- Net profit margin has averaged 6.1% in the last 3 years. This is better than the sector average of 6.1% and suggests a high margin of safety.
+Civmec,2017-3,"- As per the Du Pont analysis, Return on Equity of 13.7% is better than sector average of 7.9%. This is computed as net profit margin of 6.9% times asset turnover [sales/assets] of 1.1 times leverage factor [total assets/shareholders' equity] of 1.8."
+Civmec,2017-3,- Civmec rose for a fourth consecutive year. In the past four years it has risen 55.24c (156.7%).
+Civmec,2017-3,5.2 Rank in the top 12% by Size in the Australian market
+Civmec,2017-3,"5.3 Present Value of AUD1000 Invested in the Past [1 Yr, 3 Yrs]; The Best Periods with PVAUD1000 > 1,504"
+Civmec,2017-3,3-Year price change of 90.7% for Civmec outperformed the change of 15.4% in the All Ordinaries Index for a relative price change of 75.3%.
+Civmec,2017-3,"Moving Annual Return was 49.4% in the past year. Based on a dynamic start date of 5 years ago, the real rate of return has averaged 26.4%. The Moving Annual Return has been positive in 4 of the last 5 years."
+Civmec,2017-3,CVL         Close (AUD)   Dividends (AUD)   Capital Gain / (Loss) %   % Yield   Annual Return %
+Civmec,2017-3,5.7 Annualised Period-based Total Shareholder Returns [TSR %]: The Best Periods with TSR > 25.4%
+Civmec,2017-3,The price earnings ratio of 8.2 divided by trailing twelve months eps growth of 10.0% corresponds to an attractive P/E/G of 0.8 times; being less than the value benchmark of 1.0.
+Civmec,2017-3,EBIT margin is positive and has seen consecutive rises in the last 4 years.
+Civmec,2017-3,"The debt to equity ratio of 15.9% is under a safe benchmark figure of 50%. Moreover, it has improved in the past four years."
+Civmec,2017-3,"In the past five years, Average Daily Volume of Trading (ADVT) has increased 106.7% to 28,013 shares."
+Civmec,2017-3,"In the past five years Volume Weighted Average Price (VWAP) has increased by 160.4% to 83.99c. Based on a dynamic start date of five years ago, there has been no decline in VWAP over the last 5 years."
+Civmec,2017-3,"In the past five years, average daily share turnover has increased 1003.0% to $A23,526. This suggests increased liquidity."
+Civmec,2017-3,The stock is thinly traded. Liquidity has improved from 131 Days Untraded five years ago to 33 days in the past year.
+Civmec,2017-3,- The P/E of 8.2 multiplied by the P/NTA of 0.5 is 4.3. Being less than the Benjamin Graham benchmark of 22.5 the stock appears undervalued.
+Civmec,2017-3,"- ""An earnings-to-price yield of at least twice the triple-A bond""; the stock's earning yield of 12.2% is 3 times the triple-A bond yield of 4.1%."
+Civmec,2017-3,"- ""A dividend yield of at least two-thirds the triple-A bond yield""; the stock's dividend yield is 2 times the triple-A bond yield of 4.1%."
+Civmec,2017-3,"-""Stability of growth in earnings over the last 5 years, defined as no more than two declines of 5% or greater in year-end earnings""; there has been only 1 decline in earnings in the last 5 years."
+Civmec,2017-3,But does not meet the following 3 criteria of Joseph Piotroski:
+Civmec,2017-3,- Total shares on issue unchanged (or reduction in total shares on issue).
+Civmec,2017-3,"Civmec Limited (CVL) are an Australian based multi-disciplinary construction and heavy engineering provider, with major facilities in Henderson, WA and Newcastle, NSW and satellite offices in Broome, Darwin, Gladstone and Sydney, offering an integrated turn key solution to the oil and gas, metals and minerals, infrastructure, marine and defence, water and energy markets. It is Australia's 20th largest Capital goods company by market capitalisation."
+Civmec,2017-3,+ Net profit was up 13.6% from $33.3 million in FY2022 to $37.9 million in FY2023.
+Civmec,2017-3,+ Earnings Per Share (EPS) was up 10% from 10.0c in FY2022 to 11.0c in FY2023.
+Civmec,2017-3,"Civmec (ASX:CVL), announced EPS of 11.0c for the year-ended 30 June 2023 [FY2023], up 10% from 10.0c in the previous year-ended 30 June 2022 [FY2022]. EPS growth from the year-ended 30 June 2021 [FY2021] to the year-ended 30 June 2022 [FY2022] was 43%."
+Civmec,2017-3,"In the last 5 years Total Revenue averaged $A638.9M, EBITDA averaged $A46.9M and Net Profit averaged $A33.5M. Compound Annual Growth Rate (CAGR) averaged 3.4% for Total Revenue, 26.1% for Net Profit and 26.8% for EBITDA."
+Civmec,2017-3,"Five-year record of EBITDA, Operating Profit, Net Profit, ROE, ROA and ROCE"
+Civmec,2017-3,In 2023 Net Profit Margin of 6.9% was above its 5-year Avg of 4.9% (All Figures in %)
+Civmec,2017-3,"Civmec (ASX:CVL) announced EPS of 5.83c for the half year-ended 30 June 2023, up 3.9% from 5.61c in the previous corresponding period."
+Civmec,2017-3,"Compared with the Previous Corresponding Period [PCP; H/30 Jun 2022], year-over-year [y.o.y.] Revenue was down 1.9% and Net Profit was up 4.4%."
+Civmec,2017-3,"In the past 5 years annual dividends have increased by 4.9c from 0.6c to 5.5c. Based on a start date of 5 years ago, there has been no decline in dividends over the last 5 years."
+Civmec,2017-3,"Mr. Patrick John Tallon was appointed to our Board on 27 March 2012. He is responsible for the development and performance of the Group, including building culture and leadership. Over the past 28 years, Mr. Tallon has accumulated significant knowledge and experience in all aspects of the construction industry and has been involved in many major oil and gas, mining and infrastructure projects."
+Civmec,2017-3,"Mr. James Finbarr Fitzgerald was appointed to our Board on 27 March 2012. He is responsible for the corporate direction and implementing the company's vision and strategic direction. With more than 34 years' experience, he has extensive knowledge in civil, structural, mechanical and piping works, as well as insulation and modularisation of structures onshore and offshore."
+Civmec,2017-3,"Mr. Kevin James Deery was appointed to our Board on 27 March 2012. He is responsible for overseeing the ongoing business operations of the Group's quality-orientated culture compliance and operational productivity. Mr. Deery has more than 20 years' experience having previously managed structural, mechanical and process piping construction works for major clients."
+Civmec,2017-3,"Mr. Sunny Wong Fook Choy was appointed to our Board on 27 March 2012. He is a practising advocate and solicitor of the Supreme Court of Singapore and is currently the Managing Director of Wong Tan & Molly Lim LLC. He is also an independent director of China Medical (International) Group Limited, Excelpoint Technology Ltd., Mencast Holdings Ltd., InnoTek Ltd. and KTL Global Ltd. Mr. Wong holds a Bachelor of Law (Honours) from the National University of Singapore."
+Civmec,2017-3,"Mr. Douglas Owen Chester was appointed to our Board on 2 November 2012. He is an Independent Director and Audit Chairman of Stamford Land Corporation Limited and Lead Independent Director of Kim Heng Offshore & Marine Holdings Limited. Prior to this appointment, he held the role of Australia's High Commissioner to Singapore. Mr. Chester holds a Bachelor of Science (Honours) from the Australian National University."
+Civmec,2017-3,"Mr. Chong Teck Sin was appointed to our Board on 27 March 2012. Mr. Chong is currently an independent director of Changan Minsheng APLL Logistics Co. Ltd. and Audit Committee Chairman of AVIC International Maritime Holdings Limited, InnoTek Limited and Accordia Golf Trust Management Pte. Ltd. Mr. Chong has a Bachelor of Engineering from the University of Tokyo and a Masters of Business Administration from the National University of Singapore."
+Civmec,2017-3,Earnings per share attributable to equity holders of the Company (cents per share):
+Civmec,2017-3,"Total equity attributable to the Owners of the Company   420,870       371,393       Up 13.3"
+Civmec,2017-3,"Depreciation of property plant and equipment and investment properties - leasehold land   18,418        16,600        Up 11.0"
+Civmec,2017-3,"Fair value gain on investment property at fair value through profit or loss               -420          -1,640        Improved 74.4"
+Civmec,2017-3,Reversal of revaluation loss on freehold land and buildings                               -149          -967          Improved 84.6
+Civmec,2017-3,"Cash and cash equivalents at the beginning of the year                                    40,841        48,172        Down 15.2"
+Civmec,2017-3,"Cash and cash equivalents at the end of the year                                          70,381        40,841        Up 72.3"
+Civmec,2017-3,"Out of 1,533 stocks and 13 units in the Australian Market, Civmec is ranked Sixty-second(62) by Yield, Sixty-third(63) by P/Sales, Seventy-fourth(74) by P/Earnings/ Growth and Eighty-ninth(89) by Free Cash Flow."
+Civmec,2017-3,Civmec vs Capital Goods sector [Capital Goods sector Total in Brackets]
+Civmec,2017-3,Revenue of $A830.9 million[2.0% of aggregate sector revenue of $A40.7 billion; down from 2.3% in the previous year.]
+Civmec,2017-3,Net Profit of $A57.7 million [4.1% of aggregate sector net profit of $A1.4 billion; up from 3.3% in the previous year.]
+Civmec,2017-3,EBIT of $A82.6 million [3.1% of aggregate sector EBIT of $A2.7 billion; up from 2.9% in the previous year.]
+Civmec,2017-3,"11.3 GLOBAL RANK [out of 46,471 stocks] AND RANK OF CIVMEC IN THE ASIA PACIFIC REGION [out of 1,977 stocks]"
+Civmec,2017-3,11.4 RANK OF CIVMEC IN THE AUSTRALIAN MARKET [out of 1811 stocks] AND IN THE CAPITAL GOODS SECTOR [out of 62 stocks]
+Civmec,2017-3,Civmec is ranked number 20 out of 68 listed capital goods companies in the Australia with a market capitalization of $A219.1 million.
+Civmec,2017-3,In the capital goods companies it has the 10th highest total assets and 12th highest revenues.
+Civmec,2017-3,Within its sector it has a relatively low P/E of 8.2 and low Price/Sales of 0.3.
+Civmec,2017-3,"It has a strong relative ROE of 13.7% and ROA of 7.4%. The company paid a dividend of 5.50c in the last twelve months. The dividend yield is high at 8.3%. Finally, its earnings growth in the past 12 months has been a comparatively high 10%."
+Civmec,2017-3,"Stocks are scored on a set of parameters reflecting fundamental analytical tools involving valuation, size and financial performance. They are ranked according to the average values of those parameters. The highest ranking is 5 and the lowest ranking is 1."
+Civmec,2017-3,In the past year the Australian Dollar fell 1.8% against the US Dollars; in the past three years the Australian Dollar fell 14.3% against the US Dollars.
+Civmec,2017-3,Annual Return: Dividends Paid In a 12-Month Period/Price at the Beginning of the Period + Capital Gain or Loss over 1 Year/Price 1 Year Ago (%)
+Civmec,2017-3,Moving Average Price (n periods): Sum of Prices for each Period/Number of Periods
+Civmec,2017-3,Price Close/Moving Avg Price: Latest Price/Moving Average Price
+Civmec,2017-3,Price/NTA: Closing Share Price/Net Tangible Assets Per Share (times)
+Civmec,2017-3,Relative Price Change [RPC]: Relative price change is price change of stock with respect to Benchmark Index
+Civmec,2017-3,TSR: Total Shareholder Returns is expressed as an annualized rate of return for shareholders after allowing for capital appreciation and dividend
+Civmec,2017-3,Volume Index (VI): Number of shares traded in the period/Average number of shares traded for the period
+Civmec,2017-3,Volume Weighted Average Price (VWAP): The Volume Weighted Average Price (VWAP) is the summation of turnover divided by total volume in the same period.
+Civmec,2017-3,"Data for the BuySellSignals algorithms is drawn from annual reports, company websites and similar sources of publicly available data. It should be used as a guide only."
+Civmec,2017-3,Civmec (CVL: 90.50c) drops 2.7% on increasing volatility; -2.5c [2.7%] - Australian Company News Bites - Stock Report
+Civmec,2017-3,{{20240328T065719.791+0000}}Civmec (CVL: 90.50c) drops 2.7% on increasing volatility; -2.5c [2.7%]AUSTRALIAN END-OF-DAY STOCK REPORT
+Civmec,2017-3,Civmec Limited's (ASX: CVL 90.50c) stock price traded between an intraday low of 90.50c and a high of 93.0c.
+Civmec,2017-3,Civmec's stock price fell 2.50c (2.7%) from its previous trading session to close at 90.50c.
+Civmec,2017-3,"Compared with the All Ordinaries Index which rose 80.1 points (1%) in the day, the relative price change was -3.7%."
+Civmec,2017-3,Civmec Limited is Australia's 20th largest Capital goods company by market cap.
+Civmec,2017-3,"There were 3,723 shares worth $A3,369 traded today. The volume was 0.1 times the average daily trading volume of 28,013 shares."
+Civmec,2017-3,"CIVMEC (CVL) Stock Dashboard [traded in Australian Dollar, AUD (AUD 1 = 100 A cents)] End-of-Day Thu, Mar 28"
+Civmec,2017-3,"A year ago the exchange rate was USD 1 = 1.51 AUD. USD1000 would have bought $A1,505. A year ago the Civmec share price was 65.60c. $A1,505 would have bought 2,294.7 Civmec shares on that day. Those 2,294.7 shares would be worth $A2,077 at today's share price of 90.50c. At today's exchange rate of USD1=1.53 AUD this is equivalent to USD1,355. Dividends reinvested are worth $A125 ($123). PV$1000= $1,478."
+Civmec,2017-3,"Based on dividends of 7.50c per share for the trailing twelve months and the last price of 90.50c the dividend yield is 8.3%, a significant improvement from 8.1% on the previous day."
+Civmec,2017-3,In the past month there were 3 days untraded out of 21 trading days in the month. Days Untraded increased from 2 days in February to 3 days in March.
+Civmec,2017-3,Past month to   High   Low   VWAP   Volume Index *   Days Untraded
+Civmec,2017-3,[*Volume Index of 1.1 means volume for the month was 1.1 times its 12-month average]
+Civmec,2017-3,The shares decreased 2.2% in the 2 trading sessions since the ex-dividend date of March 26. The company paid a dividend of 2.50c per share. Based on dividends of 7.50c per share for the trailing twelve months and the last price of 90.50c the dividend yield is 8.3%.
+Civmec,2017-3,VI* Volume Index = Number of shares traded today/Average number of shares traded per day.
+Civmec,2017-3,"Civmec today announced an interim dividend of 2.50c per share, franked to 100%. The ex-dividend date is Tuesday, March 26, 2024 and the record date is Wednesday, March 27, 2024 and it is payable on Monday, April 15."
+Civmec,2017-3,3.1 Rank in the bottom 12% by Relative Valuation in the Australian market
+Civmec,2017-3,"- The shares had their worst quarter in seven quarters since the quarter ended June 28, 2022."
+Civmec,2017-3,- The Stochastic indicator of 81.5 has broken through the overbought line of 80; this indicates the price is close to its 14-day high and is likely to revert to a downtrend.
+Civmec,2017-3,4.1 Rank in the bottom 21% by Growth in the Australian market
+Civmec,2017-3,4.2 Present Value of AUD1000 Invested in the Past 3 Months; The Worst Period with PVAUD1000 < 986
+Civmec,2017-3,3-Month price change of -4.1% for Civmec underperformed the change of 4.1% in the All Ordinaries Index for a relative price change of -8.3%.
+Civmec,2017-3,"In the past 5 years Market Capitalization has decreased by $A1.3 million (1%) from $A220.4 million to $A219.1 million. Based on a dynamic start date of 5 years ago, there have been declines in MCap in 3 out of 5 years."
+Civmec,2017-3,Price/Earnings of 8.2 < Capital Goods sector (of 68 stocks) avg of 37.5:
+Civmec,2017-3,- The price-to-earnings ratio of 8.2 indicates undervaluation compared with sector average of 37.5 and market average of 20.8.
+Civmec,2017-3,Price to Book of 0.5 < Capital Goods sector (of 68 stocks) average of 7.3:
+Civmec,2017-3,- The Price to Book of 0.5 indicates undervaluation compared with sector average of 7.3 and 2.9 for the Australian Market.
+Civmec,2017-3,5.1 Relative Value Indicators: Undervaluation compared with Index averages and bond yield
+Civmec,2017-3,- Earnings yield of 12.2% is more attractive compared with the Australian average earning yield of 4.8%.
+Civmec,2017-3,- The earnings yield of 12.2% is 3.0 times the 10-year bond yield of 4.1%.
+Civmec,2017-3,The dividend yield of 8.29% is 2.05 times the triple-A bond yield of 4.05%. The times factor of 2.05 is above the benchmark factor of 0.67 times set by Benjamin Graham.
+Civmec,2017-3,The Dividend Yield of 8.3% is better than the Index average of 4.8%
+Civmec,2017-3,"- The relative yield of the stock, defined by its yield of 8.3%, divided by average yield of dividend yielding stocks in the All Ordinaries Index of 4.8% is 173.8%. This suggests the stock is undervalued in dividend yield terms."
+Civmec,2017-3,5.2 Rank in the top 24% by Relative Valuation in the Australian market
+Civmec,2017-3,5.3 Rank in the top 18% by Price Performance in the Australian market
+Civmec,2017-3,"- The Price/MAP 200 for Civmec is 1.02. Being higher than 1 is a bullish indicator. The stock is trading above both its MAPs and the 50-day MAP of 89.51c is higher than the 200-day MAP of 88.40c, a second bullish indicator."
+Civmec,2017-3,"- The Moving Average Convergence Divergence (MACD) indicator of 12-day Exponential Moving Average (EMA) of 0.91 minus the 26-day EMA of 0.9 is positive, suggesting a bullish signal."
+Civmec,2017-3,In the past quarter the week beginning Monday January 29 saw the highest weekly rise of 2.7% for a relative price increase of 0.8%.
+Civmec,2017-3,Mon-Fri         Change %   All Ordinaries Index Change %   Vol Ind [1 is avg]
+Civmec,2017-3,- Return on Equity of 13.7% versus sector average of 7.9% and market average of 10.6%.
+Civmec,2017-3,"- Total Liabilities/EBITDA of 4.3 is less than 5, this compares favourably with the Joseph Piotroski benchmark of 5."
+Civmec,2017-3,- Return on Assets of 7.4% versus sector average of 3.5% and market average of 1.9%.
+Civmec,2017-3,- Return on Capital Employed of 14.3% versus sector average of 8.8% and market average of 3.5%.
+Civmec,2017-3,"- Tobin's Q Ratio, defined as MCap divided by Total Assets, is 0.3. Compared with the rest of the market the stock is undervalued and ranks in the top quartile of stocks by value of Q Ratio."
+Civmec,2017-3,- Net profit margin has averaged 6.1% in the last 3 years. This is better than the sector average of 6.1% and suggests a high margin of safety.
+Civmec,2017-3,"- As per the Du Pont analysis, Return on Equity of 13.7% is better than sector average of 7.9%. This is computed as net profit margin of 6.9% times asset turnover [sales/assets] of 1.1 times leverage factor [total assets/shareholders' equity] of 1.8."
+Civmec,2017-3,- Civmec rose for a fourth consecutive year. In the past four years it has risen 55.24c (156.7%).
+Civmec,2017-3,6.2 Rank in the top 12% by Size in the Australian market
+Civmec,2017-3,"6.3 Present Value of AUD1000 Invested in the Past [1 Yr, 3 Yrs]; The Best Periods with PVAUD1000 > 1,504"
+Civmec,2017-3,3-Year price change of 90.7% for Civmec outperformed the change of 15.4% in the All Ordinaries Index for a relative price change of 75.3%.
+Civmec,2017-3,6.6 Annualised Period-based Total Shareholder Returns [TSR %]: The Best Periods with TSR > 25.4%
+Civmec,2017-3,The price earnings ratio of 8.2 divided by trailing twelve months eps growth of 10.0% corresponds to an attractive P/E/G of 0.8 times; being less than the value benchmark of 1.0.
+Civmec,2017-3,EBIT margin is positive and has seen consecutive rises in the last 4 years.
+Civmec,2017-3,"The debt to equity ratio of 15.9% is under a safe benchmark figure of 50%. Moreover, it has improved in the past four years."
+Civmec,2017-3,"In the past five years, Average Daily Volume of Trading (ADVT) has increased 106.7% to 28,013 shares."
+Civmec,2017-3,"In the past five years Volume Weighted Average Price (VWAP) has increased by 160.4% to 83.99c. Based on a dynamic start date of five years ago, there has been no decline in VWAP over the last 5 years."
+Civmec,2017-3,"In the past five years, average daily share turnover has increased 1003.0% to $A23,526. This suggests increased liquidity."
+Civmec,2017-3,The stock is thinly traded. Liquidity has improved from 131 Days Untraded five years ago to 33 days in the past year.
+Civmec,2017-3,- The P/E of 8.2 multiplied by the P/NTA of 0.5 is 4.3. Being less than the Benjamin Graham benchmark of 22.5 the stock appears undervalued.
+Civmec,2017-3,"- ""An earnings-to-price yield of at least twice the triple-A bond""; the stock's earning yield of 12.2% is 3 times the triple-A bond yield of 4.1%."
+Civmec,2017-3,"- ""A dividend yield of at least two-thirds the triple-A bond yield""; the stock's dividend yield is 2 times the triple-A bond yield of 4.1%."
+Civmec,2017-3,"-""Stability of growth in earnings over the last 5 years, defined as no more than two declines of 5% or greater in year-end earnings"";there has been only 1 decline in earnings in the last 5 years."
+Civmec,2017-3,But does not meet the following 3 criteria of Joseph Piotroski:
+Civmec,2017-3,- Total shares on issue unchanged (or reduction in total shares on issue).
+Civmec,2017-3,"Civmec Limited (CVL) are an Australian based multi-disciplinary construction and heavy engineering provider, with major facilities in Henderson, WA and Newcastle, NSW and satellite offices in Broome, Darwin, Gladstone and Sydney, offering an integrated turn key solution to the oil and gas, metals and minerals, infrastructure, marine and defence, water and energy markets. It is Australia's 20th largest Capital goods company by market capitalisation."
+Civmec,2017-3,+ Net profit was up 13.6% from $33.3 million in FY2022 to $37.9 million in FY2023.
+Civmec,2017-3,+ Earnings Per Share (EPS) was up 10% from 10.0c in FY2022 to 11.0c in FY2023.
+Civmec,2017-3,"Civmec (ASX:CVL), announced EPS of 11.0c for the year-ended 30 June 2023 [FY2023], up 10% from 10.0c in the previous year-ended 30 June 2022 [FY2022]. EPS growth from the year-ended 30 June 2021 [FY2021] to the year-ended 30 June 2022 [FY2022] was 43%."
+Civmec,2017-3,"In the last 5 years Total Revenue averaged $A638.9M, EBITDA averaged $A46.9M and Net Profit averaged $A33.5M. Compound Annual Growth Rate (CAGR) averaged 3.4% for Total Revenue, 26.1% for Net Profit and 26.8% for EBITDA."
+Civmec,2017-3,"Five-year record of EBITDA, Operating Profit, Net Profit, ROE, ROA and ROCE"
+Civmec,2017-3,In 2023 Net Profit Margin of 6.9% was above its 5-year Avg of 4.9% (All Figures in %)
+Civmec,2017-3,"Civmec (ASX:CVL) announced EPS of 5.83c for the half year-ended 30 June 2023, up 3.9% from 5.61c in the previous corresponding period."
+Civmec,2017-3,"Compared with the Previous Corresponding Period [PCP; H/30 Jun 2022], year-over-year [y.o.y.] Revenue was down 1.9% and Net Profit was up 4.4%."
+Civmec,2017-3,"In the past 5 years annual dividends have increased by 4.9c from 0.6c to 5.5c. Based on a start date of 5 years ago, there has been no decline in dividends over the last 5 years."
+Civmec,2017-3,Annual Return: Dividends Paid In a 12-Month Period/Price at the Beginning of the Period + Capital Gain or Loss over 1 Year/Price 1 Year Ago (%)
+Civmec,2017-3,Moving Average Price (n periods): Sum of Prices for each Period/Number of Periods
+Civmec,2017-3,Price Close/Moving Avg Price: Latest Price/Moving Average Price
+Civmec,2017-3,Price/NTA: Closing Share Price/Net Tangible Assets Per Share (times)
+Civmec,2017-3,Relative Price Change [RPC]: Relative price change is price change of stock with respect to Benchmark Index
+Civmec,2017-3,TSR: Total Shareholder Returns is expressed as an annualized rate of return for shareholders after allowing for capital appreciation and dividend
+Civmec,2017-3,Volume Index (VI): Number of shares traded in the period/Average number of shares traded for the period
+Civmec,2017-3,Volume Weighted Average Price (VWAP): The Volume Weighted Average Price (VWAP) is the summation of turnover divided by total volume in the same period.
+Civmec,2017-3,"Data for the BuySellSignals algorithms is drawn from annual reports, company websites and similar sources of publicly available data. It should be used as a guide only."
+Civmec,2017-3,Civmec (CVL: 93.0c) offers dividend yield of 8.1%; +0.5c [0.5%] - Australian Company News Bites - Stock Report
+Civmec,2017-3,{{20240327T064717.106+0000}}Civmec (CVL: 93.0c) offers dividend yield of 8.1%; +0.5c [0.5%]AUSTRALIAN END-OF-DAY STOCK REPORT
+Civmec,2017-3,Civmec Limited (ASX:CVL) ranks 18 in the Top 20 by dividend yielding stocks in the Total Australian Market ex All Ordinaries Index of 1595 stocks.
+Civmec,2017-3,The dividend yield of 8.1% is 2.0 times the triple-A bond yield of 4.1%.;
+Civmec,2017-3,"Pg 67: Why has the Dow 10 strategy worked? There are two reasons: first, and most important, a value-based strategy based on a group of superior ""survivor"" firms; second, a high-dividend strategy."
+Civmec,2017-3,"Stocks for the Long Run by Jeremy J Siegel, McGraw Hill."
+Civmec,2017-3,"If investors are sure that the high yield will hold up, they'll buy the stock just for that. This will put a floor under the stock price. Blue chips with long records paying and raising dividends are the stocks people flock to in any sort of crisis."
+Civmec,2017-3,One Up On Wallstreet by Peter Lynch with John Rothchild.
+Civmec,2017-3,"Civmec today announced an interim dividend of 2.50c per share, franked to 100%. The ex-dividend date is Tuesday, March 26, 2024 and the record date is Wednesday, March 27, 2024 and it is payable on Monday, April 15."
+Civmec,2017-3,2.1 Relative Value Indicators: Undervaluation compared with Index averages and bond yield
+Civmec,2017-3,- Earnings yield of 11.8% is more attractive compared with the Australian average earning yield of 4.9%.
+Civmec,2017-3,- The earnings yield of 11.8% is 2.9 times the 10-year bond yield of 4.1%.
+Civmec,2017-3,The dividend yield of 8.06% is 1.99 times the triple-A bond yield of 4.05%. The times factor of 1.99 is above the benchmark factor of 0.67 times set by Benjamin Graham.
+Civmec,2017-3,The Dividend Yield of 8.1% is better than the Index average of 4.9%
+Civmec,2017-3,"- The relative yield of the stock, defined by its yield of 8.1%, divided by average yield of dividend yielding stocks in the All Ordinaries Index of 4.9% is 165.5%. This suggests the stock is undervalued in dividend yield terms."
+Civmec,2017-3,- Return on Equity of 13.7% versus sector average of 7.9% and market average of 10.6%.
+Civmec,2017-3,"- Total Liabilities/EBITDA of 4.3 is less than 5, this compares favourably with the Joseph Piotroski benchmark of 5."
+Civmec,2017-3,- Return on Assets of 7.4% versus sector average of 3.5% and market average of 1.9%.
+Civmec,2017-3,- Return on Capital Employed of 14.3% versus sector average of 8.8% and market average of 3.5%.
+Civmec,2017-3,"- Tobin's Q Ratio, defined as MCap divided by Total Assets, is 0.3. Compared with the rest of the market the stock is undervalued and ranks in the top quartile of stocks by value of Q Ratio."
+Civmec,2017-3,- Net profit margin has averaged 6.1% in the last 3 years. This is better than the sector average of 6.1% and suggests a high margin of safety.
+Civmec,2017-3,"- As per the Du Pont analysis, Return on Equity of 13.7% is better than sector average of 7.9%. This is computed as net profit margin of 6.9% times asset turnover [sales/assets] of 1.1 times leverage factor [total assets/shareholders' equity] of 1.8."
+Civmec,2017-3,3.1 Rank in the top 12% by Size in the Australian market
+Civmec,2017-3,The price earnings ratio of 8.4 divided by trailing twelve months eps growth of 10.0% corresponds to an attractive P/E/G of 0.8 times; being less than the value benchmark of 1.0.
+Civmec,2017-3,EBIT margin is positive and has seen consecutive rises in the last 4 years.
+Civmec,2017-3,"The debt to equity ratio of 15.9% is under a safe benchmark figure of 50%. Moreover, it has improved in the past four years."
+Civmec,2017-3,The stock is thinly traded. Liquidity has improved from 132 Days Untraded five years ago to 33 days in the past year.
+Civmec,2017-3,- The P/E of 8.4 multiplied by the P/NTA of 0.5 is 4.6. Being less than the Benjamin Graham benchmark of 22.5 the stock appears undervalued.
+Civmec,2017-3,"- ""An earnings-to-price yield of at least twice the triple-A bond""; the stock's earning yield of 11.8% is 2.9 times the triple-A bond yield of 4.1%."
+Civmec,2017-3,"- ""A dividend yield of at least two-thirds the triple-A bond yield""; the stock's dividend yield is 2 times the triple-A bond yield of 4.1%."
+Civmec,2017-3,"-""Stability of growth in earnings over the last 5 years, defined as no more than two declines of 5% or greater in year-end earnings""; there has been only 1 decline in earnings in the last 5 years."
+Civmec,2017-3,But does not meet the following 3 criteria of Joseph Piotroski:
+Civmec,2017-3,- Total shares on issue unchanged (or reduction in total shares on issue).
+Civmec,2017-3,Final dividend for FY 2023 was 3.0c. The year-on-year change was up 50.0% from 2.0c in the previous year FY 2022.
+Civmec,2017-3,4.1 Rank in the bottom 13% by Relative Valuation in the Australian market
+Civmec,2017-3,5.1 Rank in the bottom 21% by Growth in the Australian market
+Civmec,2017-3,+ Net profit was up 13.6% from $33.3 million in FY2022 to $37.9 million in FY2023.
+Civmec,2017-3,+ Earnings Per Share (EPS) was up 10% from 10.0c in FY2022 to 11.0c in FY2023.
+Civmec,2017-3,"Civmec (ASX:CVL), announced EPS of 11.0c for the year-ended 30 June 2023 [FY2023], up 10% from 10.0c in the previous year-ended 30 June 2022 [FY2022]. EPS growth from the year-ended 30 June 2021 [FY2021] to the year-ended 30 June 2022 [FY2022] was 43%."
+Civmec,2017-3,"In the last 5 years Total Revenue averaged $A638.9M, EBITDA averaged $A46.9M and Net Profit averaged $A33.5M. Compound Annual Growth Rate (CAGR) averaged 3.4% for Total Revenue, 26.1% for Net Profit and 26.8% for EBITDA."
+Civmec,2017-3,"Five-year record of EBITDA, Operating Profit, Net Profit, ROE, ROA and ROCE"
+Civmec,2017-3,In 2023 Net Profit Margin of 6.9% was above its 5-year Avg of 4.9% (All Figures in %)
+Civmec,2017-3,"Civmec (ASX:CVL) announced EPS of 5.83c for the half year-ended 30 June 2023, up 3.9% from 5.61c in the previous corresponding period."
+Civmec,2017-3,"Compared with the Previous Corresponding Period [PCP; H/30 Jun 2022], year-over-year [y.o.y.] Revenue was down 1.9% and Net Profit was up 4.4%."
+Civmec,2017-3,"In the past 5 years annual dividends have increased by 4.4c from 0.6c to 5.0c. Based on a start date of 5 years ago, there has been no decline in dividends over the last 5 years."
+Civmec,2017-3,Earnings per share attributable to equity holders of the Company (cents per share):
+Civmec,2017-3,"Total equity attributable to the Owners of the Company   420,870       371,393       Up 13.3"
+Civmec,2017-3,"Depreciation of property plant and equipment and investment properties - leasehold land   18,418        16,600        Up 11.0"
+Civmec,2017-3,"Fair value gain on investment property at fair value through profit or loss               -420          -1,640        Improved 74.4"
+Civmec,2017-3,Reversal of revaluation loss on freehold land and buildings                               -149          -967          Improved 84.6
+Civmec,2017-3,"Cash and cash equivalents at the beginning of the year                                    40,841        48,172        Down 15.2"
+Civmec,2017-3,"Cash and cash equivalents at the end of the year                                          70,381        40,841        Up 72.3"
+Civmec,2017-3,In the past year the Australian Dollar fell 1.6% against the US Dollars; in the past three years the Australian Dollar fell 13.8% against the US Dollars.
+Civmec,2017-3,Price/NTA: Closing Share Price/Net Tangible Assets Per Share (times)
+Civmec,2017-3,Civmec (CVL: 93.0c) offers dividend yield of 8.1%; ex-Dividend; +0.5c [0.5%] - Australian Company News Bites - Stock Report
+Civmec,2017-3,{{20240327T064713.155+0000}}Civmec (CVL: 93.0c) offers dividend yield of 8.1%; ex-Dividend; +0.5c [0.5%]AUSTRALIAN END-OF-DAY STOCK REPORT
+Civmec,2017-3,Civmec Limited (ASX: CVL 93.0c) ranks 18 in the Top 20 by dividend yielding stocks in the Total Australian Market ex All Ordinaries Index of 1595 stocks.
+Civmec,2017-3,Civmec Limited is Australia's 14th largest Capital goods company by market cap.
+Civmec,2017-3,The dividend yield of 8.1% is 2.0 times the triple-A bond yield of 4.1%.;
+Civmec,2017-3,"CIVMEC (CVL) Stock Dashboard [traded in Australian Dollar, AUD (AUD 1 = 100 A cents)] End-of-Day Wed, Mar 27"
+Civmec,2017-3,"A year ago the exchange rate was USD 1 = 1.5 AUD. USD1000 would have bought $A1,504. A year ago the Civmec share price was 67.90c. $A1,504 would have bought 2,214.8 Civmec shares on that day. Those 2,214.8 shares would be worth $A2,060 at today's share price of 93.0c. At today's exchange rate of USD1=1.53 AUD this is equivalent to USD1,346. Dividends reinvested are worth $A125 ($122). PV$1000= $1,469."
+Civmec,2017-3,In the past month there were 4 days untraded out of 21 trading days in the month. Days Untraded increased from 1 day in February to 4 days in March.
+Civmec,2017-3,Past month to   High   Low   VWAP   Volume Index *   Days Untraded
+Civmec,2017-3,[*Volume Index of 1.1 means volume for the month was 1.1 times its 12-month average]
+Civmec,2017-3,The shares increased 0.5% in the 1 trading session since the ex-dividend date of March 26. The company paid a dividend of 2.50c per share. Based on dividends of 7.50c per share for the trailing twelve months and the last price of 93.0c the dividend yield is 8.1%.
+Civmec,2017-3,VI* Volume Index = Number of shares traded today/Average number of shares traded per day.
+Civmec,2017-3,"Civmec today announced an interim dividend of 2.50c per share, franked to 100%. The ex-dividend date is Tuesday, March 26, 2024 and the record date is Wednesday, March 27, 2024 and it is payable on Monday, April 15."
+Civmec,2017-3,Price/Earnings of 8.4 < Capital Goods sector (of 68 stocks) avg of 37.2:
+Civmec,2017-3,- The price-to-earnings ratio of 8.4 indicates undervaluation compared with sector average of 37.2 and market average of 20.6.
+Civmec,2017-3,Price to Book of 0.5 < Capital Goods sector (of 68 stocks) average of 7.3:
+Civmec,2017-3,- The Price to Book of 0.5 indicates undervaluation compared with sector average of 7.3 and 2.9 for the Australian Market.
+Civmec,2017-3,3.1 Relative Value Indicators: Undervaluation compared with Index averages and bond yield
+Civmec,2017-3,- Earnings yield of 11.8% is more attractive compared with the Australian average earning yield of 4.9%.
+Civmec,2017-3,- The earnings yield of 11.8% is 2.9 times the 10-year bond yield of 4.1%.
+Civmec,2017-3,The dividend yield of 8.06% is 1.99 times the triple-A bond yield of 4.05%. The times factor of 1.99 is above the benchmark factor of 0.67 times set by Benjamin Graham.
+Civmec,2017-3,The Dividend Yield of 8.1% is better than the Index average of 4.9%
+Civmec,2017-3,"- The relative yield of the stock, defined by its yield of 8.1%, divided by average yield of dividend yielding stocks in the All Ordinaries Index of 4.9% is 165.5%. This suggests the stock is undervalued in dividend yield terms."
+Civmec,2017-3,"CVL increases 2.8% on high volume 1.99 times average. Compared with the All Ordinaries Index which rose 47.3 points (or 0.6%) in the 3-days, the relative price increase was 2.2%."
+Civmec,2017-3,The price ranged between a high of 93.0c on Wednesday Mar 27 and a low of 91.0c on Monday Mar 25.
+Civmec,2017-3,Wed 27   Offers dividend yield of 8.1%   0.93          0.5        Price rise on beating relative strength
+Civmec,2017-3,* RPC - Relative Price Change is % price change of stock less % change of the All Ordinaries Index.
+Civmec,2017-3,3.3 Rank in the top 24% by Relative Valuation in the Australian market
+Civmec,2017-3,3.4 Rank in the top 18% by Price Performance in the Australian market
+Civmec,2017-3,"- The Price/MAP 200 for Civmec is 1.05. Being higher than 1 is a bullish indicator. The stock is trading above both its MAPs and the 50-day MAP of 89.49c is higher than the 200-day MAP of 88.39c, a second bullish indicator."
+Civmec,2017-3,"- The Moving Average Convergence Divergence (MACD) indicator of 12-day Exponential Moving Average (EMA) of 0.91 minus the 26-day EMA of 0.9 is positive, suggesting a bullish signal. Both the 12-day EMA as well as the 26-day EMA are rising, another bullish signal."
+Civmec,2017-3,- Rises to Falls: In the past month the number of rises outnumbered falls 6:3 or 2:1.
+Civmec,2017-3,In the past quarter the week beginning Monday January 29 saw the highest weekly rise of 2.7% for a relative price increase of 0.8%.
+Civmec,2017-3,Mon-Fri         Change %   All Ordinaries Index Change %   Vol Ind [1 is avg]
+Civmec,2017-3,- Return on Equity of 13.7% versus sector average of 7.9% and market average of 10.6%.
+Civmec,2017-3,"- Total Liabilities/EBITDA of 4.3 is less than 5, this compares favourably with the Joseph Piotroski benchmark of 5."
+Civmec,2017-3,- Return on Assets of 7.4% versus sector average of 3.5% and market average of 1.9%.
+Civmec,2017-3,- Return on Capital Employed of 14.3% versus sector average of 8.8% and market average of 3.5%.
+Civmec,2017-3,"- Tobin's Q Ratio, defined as MCap divided by Total Assets, is 0.3. Compared with the rest of the market the stock is undervalued and ranks in the top quartile of stocks by value of Q Ratio."
+Civmec,2017-3,- Net profit margin has averaged 6.1% in the last 3 years. This is better than the sector average of 6.1% and suggests a high margin of safety.
+Civmec,2017-3,"- As per the Du Pont analysis, Return on Equity of 13.7% is better than sector average of 7.9%. This is computed as net profit margin of 6.9% times asset turnover [sales/assets] of 1.1 times leverage factor [total assets/shareholders' equity] of 1.8."
+Civmec,2017-3,- Civmec rose for a fourth consecutive year. In the past four years it has risen 57.74c (163.8%).
+Civmec,2017-3,4.2 Rank in the top 12% by Size in the Australian market
+Civmec,2017-3,"4.3 Present Value of AUD1000 Invested in the Past [3 Mo, 1 Yr, 3 Yrs]; The Best Periods with PVAUD1000 > 1,038"
+Civmec,2017-3,3-Year price change of 96% for Civmec outperformed the change of 14.3% in the All Ordinaries Index for a relative price change of 81.7%.
+Civmec,2017-3,"In the past 5 years Market Capitalization has increased by $A4.7 million (2%) from $A220.4 million to $A225.1 million. Based on a dynamic start date of 5 years ago, there have been declines in MCap in 3 out of 5 years."
+Civmec,2017-3,4.7 Annualised Period-based Total Shareholder Returns [TSR %]: The Best Periods with TSR > 26.1%
+Civmec,2017-3,The price earnings ratio of 8.4 divided by trailing twelve months eps growth of 10.0% corresponds to an attractive P/E/G of 0.8 times; being less than the value benchmark of 1.0.
+Civmec,2017-3,EBIT margin is positive and has seen consecutive rises in the last 4 years.
+Civmec,2017-3,"The debt to equity ratio of 15.9% is under a safe benchmark figure of 50%. Moreover, it has improved in the past four years."
+Civmec,2017-3,"In the past five years, Average Daily Volume of Trading (ADVT) has increased 106.7% to 28,018 shares."
+Civmec,2017-3,"In the past five years Volume Weighted Average Price (VWAP) has increased by 160.4% to 83.97c. Based on a dynamic start date of five years ago, there has been no decline in VWAP over the last 5 years."
+Civmec,2017-3,"In the past five years, average daily share turnover has increased 1003.0% to $A23,525. This suggests increased liquidity."
+Civmec,2017-3,The stock is thinly traded. Liquidity has improved from 132 Days Untraded five years ago to 33 days in the past year.
+Civmec,2017-3,- The P/E of 8.4 multiplied by the P/NTA of 0.5 is 4.6. Being less than the Benjamin Graham benchmark of 22.5 the stock appears undervalued.
+Civmec,2017-3,"- ""An earnings-to-price yield of at least twice the triple-A bond""; the stock's earning yield of 11.8% is 2.9 times the triple-A bond yield of 4.1%."
+Civmec,2017-3,"- ""A dividend yield of at least two-thirds the triple-A bond yield""; the stock's dividend yield is 2 times the triple-A bond yield of 4.1%."
+Civmec,2017-3,"-""Stability of growth in earnings over the last 5 years, defined as no more than two declines of 5% or greater in year-end earnings"";there has been only 1 decline in earnings in the last 5 years."
+Civmec,2017-3,But does not meet the following 3 criteria of Joseph Piotroski:
+Civmec,2017-3,- Total shares on issue unchanged (or reduction in total shares on issue).
+Civmec,2017-3,Final dividend for FY 2023 was 3.0c. The year-on-year change was up 50.0% from 2.0c in the previous year FY 2022.
+Civmec,2017-3,5.1 Rank in the bottom 13% by Relative Valuation in the Australian market
+Civmec,2017-3,"- At 93.0c the price has risen above the upper Bollinger band resistance of 92.75c, indicating a downside risk for it to fall back within the band."
+Civmec,2017-3,"- The Relative Strength Index (RSI) of 75.0 has penetrated the overbought line of 70, suggesting the price gain of 2.8% in the last 14 days is unusually high."
+Civmec,2017-3,6.1 Rank in the bottom 21% by Growth in the Australian market
+Civmec,2017-3,"Civmec Limited (CVL) are an Australian based multi-disciplinary construction and heavy engineering provider, with major facilities in Henderson, WA and Newcastle, NSW and satellite offices in Broome, Darwin, Gladstone and Sydney, offering an integrated turn key solution to the oil and gas, metals and minerals, infrastructure, marine and defence, water and energy markets. It is Australia's 14th largest Capital goods company by market capitalisation."
+Civmec,2017-3,+ Net profit was up 13.6% from $33.3 million in FY2022 to $37.9 million in FY2023.
+Civmec,2017-3,+ Earnings Per Share (EPS) was up 10% from 10.0c in FY2022 to 11.0c in FY2023.
+Civmec,2017-3,"Civmec (ASX:CVL), announced EPS of 11.0c for the year-ended 30 June 2023 [FY2023], up 10% from 10.0c in the previous year-ended 30 June 2022 [FY2022]. EPS growth from the year-ended 30 June 2021 [FY2021] to the year-ended 30 June 2022 [FY2022] was 43%."
+Civmec,2017-3,"In the last 5 years Total Revenue averaged $A638.9M, EBITDA averaged $A46.9M and Net Profit averaged $A33.5M. Compound Annual Growth Rate (CAGR) averaged 3.4% for Total Revenue, 26.1% for Net Profit and 26.8% for EBITDA."
+Civmec,2017-3,"Five-year record of EBITDA, Operating Profit, Net Profit, ROE, ROA and ROCE"
+Civmec,2017-3,In 2023 Net Profit Margin of 6.9% was above its 5-year Avg of 4.9% (All Figures in %)
+Civmec,2017-3,"Civmec (ASX:CVL) announced EPS of 5.83c for the half year-ended 30 June 2023, up 3.9% from 5.61c in the previous corresponding period."
+Civmec,2017-3,"Compared with the Previous Corresponding Period [PCP; H/30 Jun 2022], year-over-year [y.o.y.] Revenue was down 1.9% and Net Profit was up 4.4%."
+Civmec,2017-3,"In the past 5 years annual dividends have increased by 4.4c from 0.6c to 5.0c. Based on a start date of 5 years ago, there has been no decline in dividends over the last 5 years."
+Civmec,2017-3,Annual Return: Dividends Paid In a 12-Month Period/Price at the Beginning of the Period + Capital Gain or Loss over 1 Year/Price 1 Year Ago (%)
+Civmec,2017-3,Moving Average Price (n periods): Sum of Prices for each Period/Number of Periods
+Civmec,2017-3,Price Close/Moving Avg Price: Latest Price/Moving Average Price
+Civmec,2017-3,Price/NTA: Closing Share Price/Net Tangible Assets Per Share (times)
+Civmec,2017-3,Relative Price Change [RPC]: Relative price change is price change of stock with respect to Benchmark Index
+Civmec,2017-3,"Relative Strength (6 Months): Price close today/Price close 6 months ago, then ranked by percentile within the entire market."
+Civmec,2017-3,TSR: Total Shareholder Returns is expressed as an annualized rate of return for shareholders after allowing for capital appreciation and dividend
+Civmec,2017-3,Volume Index (VI): Number of shares traded in the period/Average number of shares traded for the period
+Civmec,2017-3,Volume Weighted Average Price (VWAP): The Volume Weighted Average Price (VWAP) is the summation of turnover divided by total volume in the same period.
+Civmec,2017-3,"Data for the BuySellSignals algorithms is drawn from annual reports, company websites and similar sources of publicly available data. It should be used as a guide only."
+Civmec,2017-3,Civmec (CVL: 92.50c) hits two-month high; ex-Dividend; +2c [2.2%] - Australian Company News Bites - Stock Report
+Civmec,2017-3,{{20240326T065221.789+0000}}Civmec (CVL: 92.50c) hits two-month high; ex-Dividend; +2c [2.2%]AUSTRALIAN END-OF-DAY STOCK REPORT
+Civmec,2017-3,"Civmec Limited's (ASX: CVL 92.50c) stock price traded at its 40-day high of 92.50c. The last time the price hit that high level was on Thursday, Feb 15, 2024."
+Civmec,2017-3,Civmec's stock price climbed 2.0c (2.2%) from its previous trading session to close at 92.50c.
+Civmec,2017-3,"Compared with the All Ordinaries Index which fell 34.8 points (0.4%) in the day, the relative price increase was 2.3%."
+Civmec,2017-3,Civmec Limited is Australia's 19th largest Capital goods company by market cap.
+Civmec,2017-3,"There were 800 shares worth $A740 traded today. The volume was 0.03 times the average daily trading volume of 27,952 shares."
+Civmec,2017-3,"CIVMEC (CVL) Stock Dashboard [traded in Australian Dollar, AUD (AUD 1 = 100 A cents)] End-of-Day Tue, Mar 26"
+Civmec,2017-3,"Based on dividends of 7.50c per share for the trailing twelve months and the last price of 92.50c the dividend yield is 8.1%, a significant improvement from 5.4% on the previous day."
+Civmec,2017-3,In the past month there were 4 days untraded out of 21 trading days in the month. Days Untraded increased from 1 day in February to 4 days in March.
+Civmec,2017-3,Past month to   High   Low   VWAP   Volume Index *   Days Untraded
+Civmec,2017-3,[*Volume Index of 1.1 means volume for the month was 1.1 times its 12-month average]
+Civmec,2017-3,The shares lifted 2.2% in the today's trading session. The company paid a dividend of 2.50c per share. Based on dividends of 7.50c per share for the trailing twelve months and the last price of 92.50c the dividend yield is 8.1%.
+Civmec,2017-3,VI* Volume Index = Number of shares traded today/Average number of shares traded per day.
+Civmec,2017-3,"Civmec today announced an interim dividend of 2.50c per share, franked to 100%. The ex-dividend date is Tuesday, March 26, 2024 and the record date is Wednesday, March 27, 2024 and it is payable on Monday, April 15."
+Civmec,2017-3,3.1 Rank in the bottom 13% by Relative Valuation in the Australian market
+Civmec,2017-3,Beta < 1 combined with price fall. The Beta of the stock is 0.3.
+Civmec,2017-3,"- The Relative Strength Index (RSI) of 73.3 has penetrated the overbought line of 70, suggesting the price gain of 3.9% in the last 14 days is unusually high."
+Civmec,2017-3,4.1 Rank in the bottom 21% by Growth in the Australian market
+Civmec,2017-3,4.2 Present Value of AUD1000 Invested in the Past 3 Months; The Worst Period with PVAUD1000 < 980
+Civmec,2017-3,3-Month price change of -2.1% for Civmec underperformed the change of 3.1% in the All Ordinaries Index for a relative price change of -5.2%.
+Civmec,2017-3,Price/Earnings of 8.4 < Capital Goods sector (of 68 stocks) avg of 36.9:
+Civmec,2017-3,- The price-to-earnings ratio of 8.4 indicates undervaluation compared with sector average of 36.9 and market average of 20.5.
+Civmec,2017-3,Price to Book of 0.5 < Capital Goods sector (of 68 stocks) average of 7.2:
+Civmec,2017-3,- The Price to Book of 0.5 indicates undervaluation compared with sector average of 7.2 and 2.9 for the Australian Market.
+Civmec,2017-3,5.1 Relative Value Indicators: Undervaluation compared with Index averages and bond yield
+Civmec,2017-3,- Earnings yield of 11.9% is more attractive compared with the Australian average earning yield of 4.9%.
+Civmec,2017-3,- The earnings yield of 11.9% is 3.0 times the 10-year bond yield of 4.0%.
+Civmec,2017-3,The dividend yield of 8.11% is 2.02 times the triple-A bond yield of 4.01%. The times factor of 2.02 is above the benchmark factor of 0.67 times set by Benjamin Graham.
+Civmec,2017-3,The Dividend Yield of 8.1% is better than the Index average of 4.9%
+Civmec,2017-3,"- The relative yield of the stock, defined by its yield of 8.1%, divided by average yield of dividend yielding stocks in the All Ordinaries Index of 4.9% is 166.9%. This suggests the stock is undervalued in dividend yield terms."
+Civmec,2017-3,5.2 Rank in the top 24% by Relative Valuation in the Australian market
+Civmec,2017-3,"- The Price/MAP 200 for Civmec is 1.05. Being higher than 1 is a bullish indicator. The stock is trading above both its MAPs and the 50-day MAP of 89.41c is higher than the 200-day MAP of 88.36c, a second bullish indicator."
+Civmec,2017-3,"- The Moving Average Convergence Divergence (MACD) indicator of 12-day Exponential Moving Average (EMA) of 0.91 minus the 26-day EMA of 0.9 is positive, suggesting a bullish signal. Both the 12-day EMA as well as the 26-day EMA are rising, another bullish signal."
+Civmec,2017-3,- Return on Equity of 13.7% versus sector average of 7.9% and market average of 10.6%.
+Civmec,2017-3,"- Total Liabilities/EBITDA of 4.3 is less than 5, this compares favourably with the Joseph Piotroski benchmark of 5."
+Civmec,2017-3,- Return on Assets of 7.4% versus sector average of 3.5% and market average of 1.9%.
+Civmec,2017-3,- Return on Capital Employed of 14.3% versus sector average of 8.8% and market average of 3.5%.
+Civmec,2017-3,"- Tobin's Q Ratio, defined as MCap divided by Total Assets, is 0.3. Compared with the rest of the market the stock is undervalued and ranks in the top quartile of stocks by value of Q Ratio."
+Civmec,2017-3,- Net profit margin has averaged 6.1% in the last 3 years. This is better than the sector average of 6.1% and suggests a high margin of safety.
+Civmec,2017-3,"- As per the Du Pont analysis, Return on Equity of 13.7% is better than sector average of 7.9%. This is computed as net profit margin of 6.9% times asset turnover [sales/assets] of 1.1 times leverage factor [total assets/shareholders' equity] of 1.8."
+Civmec,2017-3,- Civmec rose for a fourth consecutive year. In the past four years it has risen 57.24c (162.3%).
+Civmec,2017-3,6.2 Rank in the top 12% by Size in the Australian market
+Civmec,2017-3,The price earnings ratio of 8.4 divided by trailing twelve months eps growth of 10.0% corresponds to an attractive P/E/G of 0.8 times; being less than the value benchmark of 1.0.
+Civmec,2017-3,EBIT margin is positive and has seen consecutive rises in the last 4 years.
+Civmec,2017-3,"The debt to equity ratio of 15.9% is under a safe benchmark figure of 50%. Moreover, it has improved in the past four years."
+Civmec,2017-3,"In the past five years, Average Daily Volume of Trading (ADVT) has increased 106.2% to 27,952 shares."
+Civmec,2017-3,"In the past five years Volume Weighted Average Price (VWAP) has increased by 160.3% to 83.94c. Based on a dynamic start date of five years ago, there has been no decline in VWAP over the last 5 years."
+Civmec,2017-3,"In the past five years, average daily share turnover has increased 1000.1% to $A23,464. This suggests increased liquidity."
+Civmec,2017-3,The stock is thinly traded. Liquidity has improved from 132 Days Untraded five years ago to 33 days in the past year.
+Civmec,2017-3,- The P/E of 8.4 multiplied by the P/NTA of 0.5 is 4.5. Being less than the Benjamin Graham benchmark of 22.5 the stock appears undervalued.
+Civmec,2017-3,"- ""An earnings-to-price yield of at least twice the triple-A bond""; the stock's earning yield of 11.9% is 3 times the triple-A bond yield of 4%."
+Civmec,2017-3,"- ""A dividend yield of at least two-thirds the triple-A bond yield""; the stock's dividend yield is 2 times the triple-A bond yield of 4%."
+Civmec,2017-3,"-""Stability of growth in earnings over the last 5 years, defined as no more than two declines of 5% or greater in year-end earnings"";there has been only 1 decline in earnings in the last 5 years."
+Civmec,2017-3,But does not meet the following 3 criteria of Joseph Piotroski:
+Civmec,2017-3,- Total shares on issue unchanged (or reduction in total shares on issue).
+Civmec,2017-3,Final dividend for FY 2023 was 3.0c. The year-on-year change was up 50.0% from 2.0c in the previous year FY 2022.
+Civmec,2017-3,"Civmec Limited (CVL) are an Australian based multi-disciplinary construction and heavy engineering provider, with major facilities in Henderson, WA and Newcastle, NSW and satellite offices in Broome, Darwin, Gladstone and Sydney, offering an integrated turn key solution to the oil and gas, metals and minerals, infrastructure, marine and defence, water and energy markets. It is Australia's 19th largest Capital goods company by market capitalisation."
+Civmec,2017-3,+ Net profit was up 13.6% from $33.3 million in FY2022 to $37.9 million in FY2023.
+Civmec,2017-3,+ Earnings Per Share (EPS) was up 10% from 10.0c in FY2022 to 11.0c in FY2023.
+Civmec,2017-3,"Civmec (ASX:CVL), announced EPS of 11.0c for the year-ended 30 June 2023 [FY2023], up 10% from 10.0c in the previous year-ended 30 June 2022 [FY2022]. EPS growth from the year-ended 30 June 2021 [FY2021] to the year-ended 30 June 2022 [FY2022] was 43%."
+Civmec,2017-3,"In the last 5 years Total Revenue averaged $A638.9M, EBITDA averaged $A46.9M and Net Profit averaged $A33.5M. Compound Annual Growth Rate (CAGR) averaged 3.4% for Total Revenue, 26.1% for Net Profit and 26.8% for EBITDA."
+Civmec,2017-3,"Five-year record of EBITDA, Operating Profit, Net Profit, ROE, ROA and ROCE"
+Civmec,2017-3,In 2023 Net Profit Margin of 6.9% was above its 5-year Avg of 4.9% (All Figures in %)
+Civmec,2017-3,"Civmec (ASX:CVL) announced EPS of 5.83c for the half year-ended 30 June 2023, up 3.9% from 5.61c in the previous corresponding period."
+Civmec,2017-3,"Compared with the Previous Corresponding Period [PCP; H/30 Jun 2022], year-over-year [y.o.y.] Revenue was down 1.9% and Net Profit was up 4.4%."
+Civmec,2017-3,"In the past 5 years annual dividends have increased by 4.4c from 0.6c to 5.0c. Based on a start date of 5 years ago, there has been no decline in dividends over the last 5 years."
+Civmec,2017-3,Moving Average Price (n periods): Sum of Prices for each Period/Number of Periods
+Civmec,2017-3,Price Close/Moving Avg Price: Latest Price/Moving Average Price
+Civmec,2017-3,Price/NTA: Closing Share Price/Net Tangible Assets Per Share (times)
+Civmec,2017-3,Relative Price Change [RPC]: Relative price change is price change of stock with respect to Benchmark Index
+Civmec,2017-3,"Relative Strength (6 Months): Price close today/Price close 6 months ago, then ranked by percentile within the entire market."
+Civmec,2017-3,Volume Index (VI): Number of shares traded in the period/Average number of shares traded for the period
+Civmec,2017-3,Volume Weighted Average Price (VWAP): The Volume Weighted Average Price (VWAP) is the summation of turnover divided by total volume in the same period.
+Civmec,2017-3,"Data for the BuySellSignals algorithms is drawn from annual reports, company websites and similar sources of publicly available data. It should be used as a guide only."
+Civmec,2017-3,"Civmec today announced an interim dividend of 2.50c per share, franked to 100%. The ex-dividend date is Tuesday, March 26, 2024 and the record date is Wednesday, March 27, 2024 and it is payable on Monday, April 15."
+Civmec,2017-3,"CIVMEC (CVL) Stock Dashboard [traded in Australian Dollar, AUD (AUD 1 = 100 A cents)] Tue, Mar 26"
+Civmec,2017-3,VI* Volume Index = Number of shares traded today/Average number of shares traded per day.
+Civmec,2017-3,"A year ago the exchange rate was USD 1 = 1.5 AUD. USD1000 would have bought $A1,504. A year ago the Civmec share price was 69.77c. $A1,504 would have bought 2,155.5 Civmec shares on that day. Those 2,155.5 shares would be worth $A1,994 at today's share price of 92.50c. At today's exchange rate of USD1=1.53 AUD this is equivalent to USD1,299. Dividends reinvested are worth $A81 ($79). PV$1000= $1,378."
+Civmec,2017-3,"Civmec Limited (CVL) are an Australian based multi-disciplinary construction and heavy engineering provider, with major facilities in Henderson, WA and Newcastle, NSW and satellite offices in Broome, Darwin, Gladstone and Sydney, offering an integrated turn key solution to the oil and gas, metals and minerals, infrastructure, marine and defence, water and energy markets."
+Civmec,2017-3,Civmec Limited (CVL) to Issue Interim Dividend of $0.03 on  April 14th - Ticker Report
+Civmec,2017-3,"{{20240323T121303.665+0000}}Civmec Limited (CVL) to Issue Interim Dividend of $0.03 on  April 14thMar 23, 2024"
+Civmec,2017-3,"Civmec Limited(ASX:CVL - Get Free Report) declared a interim dividend on Wednesday, March 20th, MarketIndexAU reports. Stockholders of record on Sunday, April 14th will be paid a dividend of 0.025 per share on Sunday, April 14th. This represents a dividend yield of 2.66%. The ex-dividend date of this dividend is Monday, March 25th. This is an increase from Civmec's previous interim dividend of $0.02."
+Civmec,2017-3,"The company has a quick ratio of 1.23, a current ratio of 1.56 and a debt-to-equity ratio of 27.10."
+Civmec,2017-3,"Civmec Limited, an investment holding company, provides construction and engineering services to the energy, resources, infrastructure, and marine and defense sectors in Australia. The company undertakes fabrication projects, such as structural steel, plate works, tanks, vessels, materials handling equipment, subsea and offshore structures, and pipe spooling services."
+Civmec,2017-3,* Why Special Dividends Can be a Delightful Surprise for Income Investors
+Civmec,2017-3,"Civmec Limited (CVL) to Issue Interim Dividend of $0.03 on  April 14th - Cerbat Gem, The"
+Civmec,2017-3,"{{20240323T121300.813+0000}}Civmec Limited (CVL) to Issue Interim Dividend of $0.03 on  April 14thMar 23, 2024"
+Civmec,2017-3,"Civmec Limited (ASX:CVL - Get Free Report) declared a interim dividend on Wednesday, March 20th, MarketIndexAU reports. Stockholders of record on Sunday, April 14th will be paid a dividend of 0.025 per share on Sunday, April 14th. This represents a dividend yield of 2.66%. The ex-dividend date of this dividend is Monday, March 25th. This is an increase from Civmec's previous interim dividend of $0.02."
+Civmec,2017-3,"The company has a quick ratio of 1.23, a current ratio of 1.56 and a debt-to-equity ratio of 27.10."
+Civmec,2017-3,"Civmec Limited, an investment holding company, provides construction and engineering services to the energy, resources, infrastructure, and marine and defense sectors in Australia. The company undertakes fabrication projects, such as structural steel, plate works, tanks, vessels, materials handling equipment, subsea and offshore structures, and pipe spooling services."
+Civmec,2017-3,* Why Special Dividends Can be a Delightful Surprise for Income Investors
+Civmec,2017-3,04:54:55  [STOCKP] (CIVM.SI) - On Friday 29th of March Civmec trades -2.69 percent lower -
+Civmec,2017-3,15:46:44  [STOCKP] (CIVM.SI) - Civmec trades 0.54 percent higher on Friday 29th of March -
+Civmec,2017-3,"21:42:34  [GLOSTP] (CIVM.SI .STI) - Monthly: Civmec (P9D: 77.0c) wipes off SGD10 million ($8 million) in MCap in March, highest loser in Construction and Engineering sector -"
+Civmec,2017-3,20:42:58  [AUSCON] (CIVM.SI CVL.AX) - End-of-Quarter Synopsis Monthly : Civmec (CVL: 90.50c) increases 3% on firm volume in March 2024 -
+Civmec,2017-3,19:12:27  [GLOSTP] (CIVM.SI .AORD) - Monthly: Civmec (CVL: 90.50c) lifts 3% on firm volume in March 2024 -
+Civmec,2017-3,17:57:19  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 90.50c) drops 2.7% on increasing volatility; -2.5c [2.7%] -
+Civmec,2017-3,12:07:31  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,11:07:59  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-3,11:07:59  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,17:47:17  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) offers dividend yield of 8.1%; +0.5c [0.5%] -
+Civmec,2017-3,17:47:13  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) offers dividend yield of 8.1%; ex-Dividend; +0.5c [0.5%] -
+Civmec,2017-3,17:17:33  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,16:06:54  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-3,14:07:37  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:35  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:07:34  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:07:57  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,11:07:46  [GLOSTO] (CIVM.SI) - Investors concerned as Civmec down in recent days -
+Civmec,2017-3,17:52:21  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.50c) hits two-month high; ex-Dividend; +2c [2.2%] -
+Civmec,2017-3,13:06:54  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,12:07:18  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-3,11:07:44  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,19:07:52  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,18:07:53  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-3,16:07:49  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,15:07:10  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-3,14:07:17  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:31  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:07:18  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:07:31  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,23:13:03  [TICREP] (CIVM.SI) - Civmec Limited (CVL) to Issue Interim Dividend of $0.03 on  April 14th -
+Civmec,2017-3,23:13:00  [CERGEM] (CIVM.SI) - Civmec Limited (CVL) to Issue Interim Dividend of $0.03 on  April 14th -
+Civmec,2017-3,15:48:10  [STOCKP] (CIVM.SI) - On Saturday 23rd of March Civmec trades -1.06 percent lower -
+Civmec,2017-3,22:34:31  [TRADAJ] (CIVM.SI) - Civmec Limited (ASX:CVL) Announces Interim Dividend of $0.03 -
+Civmec,2017-3,22:32:30  [ZOLCOM] (CIVM.SI) - Civmec Limited (CVL) To Go Ex-Dividend on March 25th -
+Civmec,2017-3,14:07:38  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-3,13:07:22  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-3,12:07:12  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,11:08:07  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-3,17:43:05  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) drops to 23-day low on extraordinary volume; -1c [1.1%] Vol Index 3.6 [1 is avg] -
+Civmec,2017-3,17:43:04  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) offers earnings yield of 11.8% ; -1c [1.1%] Vol Index 3.6 [1 is avg] -
+Civmec,2017-3,13:07:21  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,12:07:16  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,11:07:41  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-3,01:27:27  [DAILYQ] (CIVM.SI) - Civmec Limited (ASX:CVL) to Issue Interim Dividend of $0.03 -
+Civmec,2017-3,20:01:35  [STOCKP] (CIVM.SI) - On Wednesday 20th of March Civmec trades 1.08 percent higher -
+Civmec,2017-3,17:42:59  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 94.0c) offers earnings yield of 11.7% -
+Civmec,2017-3,15:07:22  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,14:07:21  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:15  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:07:35  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:07:32  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,17:52:18  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 94.0c) in 2nd consecutive rise; +2c [2.2%] Vol Index 2.0 [1 is avg] -
+Civmec,2017-3,13:07:20  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-3,13:07:20  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,12:07:17  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,12:07:13  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,11:08:12  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-3,11:08:11  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-3,"20:32:51  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) lifts 1.1%, 4 days' volume in a day; +1c [1.1%] Vol Index 3.7 [1 is avg] -"
+Civmec,2017-3,19:08:00  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,18:08:08  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-3,17:12:53  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-3,16:07:19  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,15:07:08  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-3,14:07:20  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:10  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:07:26  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:07:44  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,11:07:35  [GLOSTO] (CIVM.SI) - Monday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-3,06:53:49  [STOCKP] (CIVM.SI) - Civmec trades -0.54 percent lower on Friday 15th of March -
+Civmec,2017-3,17:47:30  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.0c) offers earnings yield of 12% ; Vol Index 1.7 [1 is avg] -
+Civmec,2017-3,11:08:42  [GLOSTO] (CIVM.SI) - Friday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-3,17:52:43  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 92.0c) decreases on robust volume; -0.5c [0.5%] Vol Index 1.4 [1 is avg] -
+Civmec,2017-3,12:07:26  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,11:09:48  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-3,16:07:34  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,14:07:32  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:08:42  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:07:31  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:09:19  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,11:08:51  [GLOSTO] (CIVM.SI) - Investors concerned as Civmec down in recent days -
+Civmec,2017-3,13:09:09  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-3,13:09:01  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,12:07:49  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,12:07:29  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,11:10:01  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-3,11:09:13  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-3,20:08:41  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,19:07:48  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-3,18:08:04  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-3,17:52:55  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: 93.0c) hits one-month high on average volume; +1.5c [1.6%] -
+Civmec,2017-3,16:07:33  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,15:07:20  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings -
+Civmec,2017-3,14:07:25  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:27  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:07:12  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:08:11  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,12:07:55  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,11:08:46  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-3,11:08:06  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-3,13:07:15  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,12:08:43  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,11:08:08  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-3,17:13:23  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,14:07:29  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:24  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:08:35  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:06:59  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,14:08:51  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -
+Civmec,2017-3,13:07:48  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:35  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-3,12:07:36  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to underperform KSH Holdings -
+Civmec,2017-3,12:07:35  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-3,11:09:00  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to underperform Hock Lian Seng -
+Civmec,2017-3,11:08:16  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-3,19:46:28  [GLOSTP] (CIVM.SI .STI) - Monthly: Civmec (P9D: 79.50c) increases 2% on weak volume in February 2024 -
+Civmec,2017-3,17:08:30  [NEWBIF] (CIVM.SI) - Civmec- 6 Reasons Investors Remain Bullish (and 5 Reasons Why Bearish) -
+Civmec,2017-3,15:07:24  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-3,14:07:25  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-3,13:07:21  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-3,12:07:18  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-3,11:09:17  [GLOSTO] (CIVM.SI) - Monday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-3,11:08:40  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-3,05:55:14  [STOCKP] - Civmec (CVL.AX) is trading 0.56 percent higher on Friday 1st of March and has a trading volume of AUD 5.7 k -
+Civmec,2017-3,14:12:44  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC -
+Civmec,2017-3,13:07:18  [NEWBIF] (CIVM.SI WHHL.SI) - Civmec continues to outperform Wee Hur -
+Civmec,2017-3,12:08:02  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings -
+Civmec,2017-3,11:09:46  [GLOSTO] (CIVM.SI) - Friday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-3,11:09:41  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang -

@@ -1,0 +1,1345 @@
+firm_id,date,text
+ConocoPhillips,2017-11,"{{20171204T170331.564+0000}}TABLE-North Sea gas maintenance schedule: adds Hornsea outage(Adds Hornsea outage starting Dec. 2, Kollsnes outage on Dec. 12, ConocoPhillips J-Area, Britannia outages and"
+ConocoPhillips,2017-11,"Dec 4 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Injection unavailability at 125 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 24 0500 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 25 0500 GMT-         Unavailable storage capacity at 0.0867
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 28 0500 CET-         Injection unavailability at 42 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 28 0500 CET-         Injection unavailability at 46 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Dec. 1 0800 CET-          Injection unavailability at 47 GWh/d
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Dec. 1 0800 CET-          Injection unavailability at 47 GWh/d;
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Dec. 2 0500 GMT-          Storage unavailability at 0.42 TWh
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Dec. 5 0500 CET-          Injection unavailability at 50 GWh/d
+ConocoPhillips,2017-11,Gassco                   Kollsnes gas plant        Dec. 12 0600 CET-         -30 mcm/d; corrective maintenance on
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071 GWh/d,"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,ConocoPhillips           Britannia gas field       Aug. 1 0600 BST-          Unavailable capacity at 9 mcm/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,{{20171204T152559.245+0000}}UPDATE 1-ConocoPhillips to receive $337 million in accord with Ecuador(Recasts to add context)
+ConocoPhillips,2017-11,"HOUSTON, Dec 4 (Reuters) - ConocoPhillips will receive $337 million from Ecuador under a settlement of an arbitration case that the U.S. energy company brought over a 2009 confiscation of assets in the South American country."
+ConocoPhillips,2017-11,"A World Bank panel in February had ordered Ecuador to pay $380 million in damages to the oil and gas producer's subsidiary, Burlington Resources. The subsidiary had stakes in two blocks producing about 22,000 barrels of oil per day that were taken over by the government more than eight years ago. [nL4N1FU00G]"
+ConocoPhillips,2017-11,"The settlement includes an offset for a decision awarding Ecuador $42 million on its environmental and infrastructure counterclaims. Burlington is entitled to $24 million through a third-party contribution to the payment, ConocoPhillips said on Monday"
+ConocoPhillips,2017-11,ConocoPhillips also said it was pleased to reach a conclusion of the matter. It received $75 million on Dec. 1 from Ecuador and expects to collect another $262 million by April 2018. [nBw24kcCfa]
+ConocoPhillips,2017-11,"In a statement, Ecuador's attorney general's office said, ""The agreement between Ecuador and Burlington allows us to resolve this controversy and to reaffirm the Ecuadorean state's commitment to fulfilling its international obligations."""
+ConocoPhillips,2017-11,"In 2012, the International Center for Settlement of Investment Disputes ruled Ecuador had unlawfully seized the investments and in February 2016 awarded damages. A stay of the award was lifted in August."
+ConocoPhillips,2017-11,"{{20171204T130644.998+0000}}ConocoPhillips, Ecuador to settle World Bank arbitration awardDec 4 (Reuters) - ConocoPhillips and Ecuador agreed to terms of a settlement under an arbitration award in a case where the energy company had been seeking compensation related to confiscation of assets."
+ConocoPhillips,2017-11,A World Bank panel in February ordered the South American country to pay $380 million in damages to the oil and gas producer's subsidiary Burlington Resources. [nL4N1FU00G]
+ConocoPhillips,2017-11,ConocoPhillips said it received $75 million on Dec. 1 and would receive $262 million by April 2018. [nBw24kcCfa]
+ConocoPhillips,2017-11,"The settlement includes an offset for the decision awarding Ecuador $42 million on its counterclaims, of which Burlington is entitled an additional $24 million, ConocoPhillips said."
+ConocoPhillips,2017-11,"{{20171201T102516.358+0000}}TABLE-North Sea gas maintenance schedule: adds Bergermeer outage(Adds Bergermeer outage starting Dec. 1, removes completed outages)"
+ConocoPhillips,2017-11,"Dec 1 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Injection unavailability at 125 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 24 0500 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 25 0500 GMT-         Unavailable storage capacity at 0.0867
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 28 0500 CET-         Injection unavailability at 42 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 28 0500 CET-         Injection unavailability at 46 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Dec. 1  0800 CET-         Injection unavailability at 47 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071 GWh/d,"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,FACTBOX-Foreign majors leaving Canada's oil and gas sector - Reuters News
+ConocoPhillips,2017-11,"{{20171123T182419.819+0000}}FACTBOX-Foreign majors leaving Canada's oil and gas sectorCALGARY, Alberta, Nov 23 (Reuters) - Low oil and gas prices have spurred an"
+ConocoPhillips,2017-11,exodus on foreign oil companies from Canada's energy sector over the last year.
+ConocoPhillips,2017-11,On Thursday South Africa's Sasol Ltd  became the latest international
+ConocoPhillips,2017-11,energy firm to say it plans to divest Canadian assets. [nL3N1NT2Q8]
+ConocoPhillips,2017-11,The departures have raised doubts over future development prospects of the
+ConocoPhillips,2017-11,world's third largest crude reserves and stoked criticism of federal and
+ConocoPhillips,2017-11,provincial environmental policies that are stricter than those of the United
+ConocoPhillips,2017-11,Oct. 5  Progress         Sale not     Deep Basin oil and gas      Not
+ConocoPhillips,2017-11,"{{20171123T152105.416+0000}}TABLE-North Sea gas maintenance schedule: adds Bergermeer outages(Adds multiple Bergermeer outages, revises Oseberg outage starting Nov. 21)"
+ConocoPhillips,2017-11,"Nov 23 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Injection unavailability at 125 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 22 1600 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 23 0500 CET-         Injection unavailability at 126 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 24 0500 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 25 0500 CET-         Injection unavailability at 42 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 26 0500 CET-         Injection unavailability at 42 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal        Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 27 1100 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 28 0500 CET-         Injection unavailability at 42 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071 GWh/d,"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,{{20171122T152320.078+0000}}TABLE-North Sea gas maintenance schedule: adds Statoil outages(Adds multiple Statoil outages; removes past outages)
+ConocoPhillips,2017-11,"Nov 22 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Injection unavailability at 125 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 24 0500 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal        Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 27 1100 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071 GWh/d,"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"UPDATE 2-Libya's Waha Oil Co pumping 260,000 bpd, plans hampered by funding shortfall - Reuters News"
+ConocoPhillips,2017-11,"{{20171121T203429.957+0000}}UPDATE 2-Libya's Waha Oil Co pumping 260,000 bpd, plans hampered by funding shortfall(Adds details)"
+ConocoPhillips,2017-11,"TUNIS, Nov 21 (Reuters) - Libya's Waha Oil Co is producing about 260,000 barrels per day (bpd), up more than 100,000 bpd from the company's output levels this summer, but further gains are complicated by a lack of investment, its chairman said on Tuesday."
+ConocoPhillips,2017-11,"Ahmed Ammar said Waha was aiming to increase output to 375,000 bpd by the end of next year but was facing major funding shortfalls and challenges in maintaining damaged infrastructure."
+ConocoPhillips,2017-11,"Waha is a subsidiary of Libya's National Oil Corporation (NOC) and operates as a joint venture with Hess Corp , Marathon Oil Corp and ConocoPhillips ."
+ConocoPhillips,2017-11,"Its oil is exported through Es Sider terminal, which reopened late last year after an armed group that was blockading the port was forced out."
+ConocoPhillips,2017-11,"Waha's gains have helped raise Libya's national oil output to around one million bpd, about four times higher than the OPEC member's production in mid-2016."
+ConocoPhillips,2017-11,"It remains well below the 1.6 million bpd Libya was producing before a 2011 uprising, and vulnerable to continuing political and economic turmoil."
+ConocoPhillips,2017-11,"Plans to increase Waha's production to as high as 600,000 bpd over the next five years, partly through major new projects at the NC-98 and Jalo North fields, have been postponed because of a lack of funding, Ammar told Reuters on the sidelines of a business conference in Tunis."
+ConocoPhillips,2017-11,But he said some gains could be made by developing drilling in fields that are already in production and replacing pumps that were damaged after long output stoppages.
+ConocoPhillips,2017-11,"""Some of the production will come from existing wells. We need to work them over,"" Ammar said."
+ConocoPhillips,2017-11,"Some of Waha's fields and facilities have been badly damaged in militant attacks, fighting and looting."
+ConocoPhillips,2017-11,"At Es Sider, 12 out of 19 storage tanks remain out of use. Ammar said this was not hampering exports, but would become a constraint if the company raised its production towards 400,000 bpd."
+ConocoPhillips,2017-11,"Waha hopes to rebuild two of the storage tanks next year, adding storage capacity of one million barrels, but Ammar said approval for the project from Libya's Audit Bureau was still pending."
+ConocoPhillips,2017-11,"Waha has also suffered repeated leaks in its pipeline network, which was damaged by highly corrosive water. In one pipeline there were 57 leaks in a single month, Ammar said."
+ConocoPhillips,2017-11,"The company has been patching up or clamping pipes but needs to replace or upgrade sections of its network, which is much more expensive."
+ConocoPhillips,2017-11,"""Our major issue now at Waha in the existing facilities is the pipelines,"" Ammar said. ""They require a lot of funding."""
+ConocoPhillips,2017-11,"{{20171121T201753.740+0000}}TABLE-North Sea gas maintenance schedule: adds Bacton terminal outage(Adds Statoil's Field, Britain's North Morecambe, Bergermeer outages and Shell's Bacton terminal 2018 outage;"
+ConocoPhillips,2017-11,"Nov 21 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 17 0500 CET-         Unavailable injection capacity at 121
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 21 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,Centrica                 North Morecambe gas       Nov. 21 1450 BST-         Flows resuming; production capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Injection unavailability at 125 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 24 0500 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal        Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 27 1100 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071 GWh/d,"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,{{20171121T142715.365+0000}}TABLE-North Sea gas maintenance schedule: adds BBL UK-Netherlands pipeline 2018 outage(Adds BBL gas pipeline outage in Sept. 2018)
+ConocoPhillips,2017-11,"Nov 21 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             May 11 0500 BST-          Withdrawal capacity loss 245 GWh/d;
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          July 14 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Aug. 31 1447 BST-         Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,Bbl Company              BBL UK-Netherlands gas        Sept. 15-30               Planned maintenance to take place
+ConocoPhillips,2017-11,Perenco UK               Bacton terminal               Sept. 22 1330 BST-        Reduced terminal gas export due to
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Sept. 29 2200 CET-        Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Sept. 29 2200 CET-        Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Sept. 30 0400 CET-        Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Sept. 30 0500 CET-        Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 11 0500 CET-         Unavailable injection capacity at
+ConocoPhillips,2017-11,Storengy UK              Stublach Gas Storage          Oct. 19 0500 BST-         Withdrawal capacity reduced to 0 pct
+ConocoPhillips,2017-11,Storengy UK              Stublach Gas Storage          Oct. 20 0500 BST-         Withdrawal capacity reduced to 50
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 21 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Oct. 23 0500 BST-         Unavailable injection capacity at
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Oct. 30 0500 BST-         Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1                    Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0600 CET-         Annual maintenance shutdown,"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171120T160849.910+0000}}TABLE-North Sea gas maintenance schedule: adds Bacton terminal outage(Adds Perenco's Bacton terminal outage; revises Hornsea, Aldbrough and Bergermeer outages; removes past outages)"
+ConocoPhillips,2017-11,"Nov 20 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 8 1800 GMT-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 17 0500 CET-         Unavailable injection capacity at 121
+ConocoPhillips,2017-11,Perenco UK               Bacton terminal           Nov. 20 0930 CET          Throughput reduced to 6.3 mcm/d
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 21 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal        Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 27 1100 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171117T172450.519+0000}}TABLE-North Sea gas maintenance schedule: adds Bacton terminal and St Fergus outage(Adds Perenco's Bacton terminal, Gassco's Field, Shell's St Fergus and Britain's Hornsea outages, revises Aldbrough"
+ConocoPhillips,2017-11,"Nov 17 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 8 1800 GMT-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 17 0500 CET-         Unavailable injection capacity at 121
+ConocoPhillips,2017-11,Perenco UK               Bacton terminal               Nov. 17 1900 CET-         Reduction of 5.7 mcm/d; unplanned
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 17 0500 CET-         Unavailable injection capacity at 34
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 20 0500 CET-         Unavailable injection capacity at 37
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 27 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline System   Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171116T161657.469+0000}}TABLE-North Sea gas maintenance schedule: adds Statoil outages(Adds Statoil outages, adds and revises Bergemeer outages, revises Gassco's Field outage and Hornsea outage, removes"
+ConocoPhillips,2017-11,"Nov 16 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 8 1800 GMT-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 15 0500 CET-         Unavailable injection capacity at 118
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 16 1400 CET-         Unavailable injection capacity at 205
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 17 1200 GMT-         Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 17 0500 CET-         Unavailable injection capacity at 121
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 17 0500 CET-         Unavailable injection capacity at 34
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 20 0500 CET-         Unavailable injection capacity at 37
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline System   Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,Canada's Cenovus has put some non-core deep basin assets for sale -new CEO - Reuters News
+ConocoPhillips,2017-11,"{{20171115T172410.063+0000}}Canada's Cenovus has put some non-core deep basin assets for sale -new CEOCALGARY, Nov 15 (Reuters) - Canadian oil producer Cenovus Energy inc has put a package of mainly non-core Deep Basin gas assets for sale, its new CEO Alex Pourbaix said in his first media briefing on Wednesday."
+ConocoPhillips,2017-11,Cenovus has raised just under C$4 billion ($3.1 billion) of a targeted C$4 billion to C$5 billion to pay down debt it took for buying some of ConocoPhillips' Canadian assets in March. Pourbaix took charge as the new CEO earlier this month. [nL4N1N540C].
+ConocoPhillips,2017-11,FACTBOX-Foreign majors leaving Canada's oil and gas sector - Reuters News
+ConocoPhillips,2017-11,"{{20171123T182419.819+0000}}FACTBOX-Foreign majors leaving Canada's oil and gas sectorCALGARY, Alberta, Nov 23 (Reuters) - Low oil and gas prices have spurred an"
+ConocoPhillips,2017-11,exodus on foreign oil companies from Canada's energy sector over the last year.
+ConocoPhillips,2017-11,On Thursday South Africa's Sasol Ltd  became the latest international
+ConocoPhillips,2017-11,energy firm to say it plans to divest Canadian assets. [nL3N1NT2Q8]
+ConocoPhillips,2017-11,The departures have raised doubts over future development prospects of the
+ConocoPhillips,2017-11,world's third largest crude reserves and stoked criticism of federal and
+ConocoPhillips,2017-11,provincial environmental policies that are stricter than those of the United
+ConocoPhillips,2017-11,Oct. 5  Progress         Sale not     Deep Basin oil and gas      Not
+ConocoPhillips,2017-11,"{{20171123T152105.416+0000}}TABLE-North Sea gas maintenance schedule: adds Bergermeer outages(Adds multiple Bergermeer outages, revises Oseberg outage starting Nov. 21)"
+ConocoPhillips,2017-11,"Nov 23 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Injection unavailability at 125 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 22 1600 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 23 0500 CET-         Injection unavailability at 126 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 24 0500 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 25 0500 CET-         Injection unavailability at 42 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 26 0500 CET-         Injection unavailability at 42 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal        Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 27 1100 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 28 0500 CET-         Injection unavailability at 42 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071 GWh/d,"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,{{20171122T152320.078+0000}}TABLE-North Sea gas maintenance schedule: adds Statoil outages(Adds multiple Statoil outages; removes past outages)
+ConocoPhillips,2017-11,"Nov 22 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Injection unavailability at 125 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 24 0500 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal        Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 27 1100 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071 GWh/d,"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"UPDATE 2-Libya's Waha Oil Co pumping 260,000 bpd, plans hampered by funding shortfall - Reuters News"
+ConocoPhillips,2017-11,"{{20171121T203429.957+0000}}UPDATE 2-Libya's Waha Oil Co pumping 260,000 bpd, plans hampered by funding shortfall(Adds details)"
+ConocoPhillips,2017-11,"TUNIS, Nov 21 (Reuters) - Libya's Waha Oil Co is producing about 260,000 barrels per day (bpd), up more than 100,000 bpd from the company's output levels this summer, but further gains are complicated by a lack of investment, its chairman said on Tuesday."
+ConocoPhillips,2017-11,"Ahmed Ammar said Waha was aiming to increase output to 375,000 bpd by the end of next year but was facing major funding shortfalls and challenges in maintaining damaged infrastructure."
+ConocoPhillips,2017-11,"Waha is a subsidiary of Libya's National Oil Corporation (NOC) and operates as a joint venture with Hess Corp , Marathon Oil Corp and ConocoPhillips ."
+ConocoPhillips,2017-11,"Its oil is exported through Es Sider terminal, which reopened late last year after an armed group that was blockading the port was forced out."
+ConocoPhillips,2017-11,"Waha's gains have helped raise Libya's national oil output to around one million bpd, about four times higher than the OPEC member's production in mid-2016."
+ConocoPhillips,2017-11,"It remains well below the 1.6 million bpd Libya was producing before a 2011 uprising, and vulnerable to continuing political and economic turmoil."
+ConocoPhillips,2017-11,"Plans to increase Waha's production to as high as 600,000 bpd over the next five years, partly through major new projects at the NC-98 and Jalo North fields, have been postponed because of a lack of funding, Ammar told Reuters on the sidelines of a business conference in Tunis."
+ConocoPhillips,2017-11,But he said some gains could be made by developing drilling in fields that are already in production and replacing pumps that were damaged after long output stoppages.
+ConocoPhillips,2017-11,"""Some of the production will come from existing wells. We need to work them over,"" Ammar said."
+ConocoPhillips,2017-11,"Some of Waha's fields and facilities have been badly damaged in militant attacks, fighting and looting."
+ConocoPhillips,2017-11,"At Es Sider, 12 out of 19 storage tanks remain out of use. Ammar said this was not hampering exports, but would become a constraint if the company raised its production towards 400,000 bpd."
+ConocoPhillips,2017-11,"Waha hopes to rebuild two of the storage tanks next year, adding storage capacity of one million barrels, but Ammar said approval for the project from Libya's Audit Bureau was still pending."
+ConocoPhillips,2017-11,"Waha has also suffered repeated leaks in its pipeline network, which was damaged by highly corrosive water. In one pipeline there were 57 leaks in a single month, Ammar said."
+ConocoPhillips,2017-11,"The company has been patching up or clamping pipes but needs to replace or upgrade sections of its network, which is much more expensive."
+ConocoPhillips,2017-11,"""Our major issue now at Waha in the existing facilities is the pipelines,"" Ammar said. ""They require a lot of funding."""
+ConocoPhillips,2017-11,"{{20171121T201753.740+0000}}TABLE-North Sea gas maintenance schedule: adds Bacton terminal outage(Adds Statoil's Field, Britain's North Morecambe, Bergermeer outages and Shell's Bacton terminal 2018 outage;"
+ConocoPhillips,2017-11,"Nov 21 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 17 0500 CET-         Unavailable injection capacity at 121
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 21 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,Centrica                 North Morecambe gas       Nov. 21 1450 BST-         Flows resuming; production capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Injection unavailability at 125 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 24 0500 CET-         Injection unavailability at 41 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal        Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 27 1100 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071 GWh/d,"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,{{20171121T142715.365+0000}}TABLE-North Sea gas maintenance schedule: adds BBL UK-Netherlands pipeline 2018 outage(Adds BBL gas pipeline outage in Sept. 2018)
+ConocoPhillips,2017-11,"Nov 21 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             May 11 0500 BST-          Withdrawal capacity loss 245 GWh/d;
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          July 14 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Aug. 31 1447 BST-         Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,Bbl Company              BBL UK-Netherlands gas        Sept. 15-30               Planned maintenance to take place
+ConocoPhillips,2017-11,Perenco UK               Bacton terminal               Sept. 22 1330 BST-        Reduced terminal gas export due to
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Sept. 29 2200 CET-        Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Sept. 29 2200 CET-        Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Sept. 30 0400 CET-        Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Sept. 30 0500 CET-        Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 11 0500 CET-         Unavailable injection capacity at
+ConocoPhillips,2017-11,Storengy UK              Stublach Gas Storage          Oct. 19 0500 BST-         Withdrawal capacity reduced to 0 pct
+ConocoPhillips,2017-11,Storengy UK              Stublach Gas Storage          Oct. 20 0500 BST-         Withdrawal capacity reduced to 50
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 21 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Oct. 23 0500 BST-         Unavailable injection capacity at
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Oct. 30 0500 BST-         Unavailable injection capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1                    Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0600 CET-         Annual maintenance shutdown,"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171120T160849.910+0000}}TABLE-North Sea gas maintenance schedule: adds Bacton terminal outage(Adds Perenco's Bacton terminal outage; revises Hornsea, Aldbrough and Bergermeer outages; removes past outages)"
+ConocoPhillips,2017-11,"Nov 20 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North"
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage         March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage         June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage    Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage     Nov. 8 1800 GMT-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 17 0500 CET-         Unavailable injection capacity at 121
+ConocoPhillips,2017-11,Perenco UK               Bacton terminal           Nov. 20 0930 CET          Throughput reduced to 6.3 mcm/d
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    Nov. 21 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 21 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal        Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage       Nov. 27 1100 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 17 0500 GMT-         Unavailable storage capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline      Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage    May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing   June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector    June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage      Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage      Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage    June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171117T172450.519+0000}}TABLE-North Sea gas maintenance schedule: adds Bacton terminal and St Fergus outage(Adds Perenco's Bacton terminal, Gassco's Field, Shell's St Fergus and Britain's Hornsea outages, revises Aldbrough"
+ConocoPhillips,2017-11,"Nov 17 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 8 1800 GMT-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 17 0500 CET-         Unavailable injection capacity at 121
+ConocoPhillips,2017-11,Perenco UK               Bacton terminal               Nov. 17 1900 CET-         Reduction of 5.7 mcm/d; unplanned
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 17 0500 CET-         Unavailable injection capacity at 34
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 20 0500 CET-         Unavailable injection capacity at 37
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Nov. 26 0100 GMT-         Capacity cut by 7.5 mcm/d
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 27 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline System   Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171116T161657.469+0000}}TABLE-North Sea gas maintenance schedule: adds Statoil outages(Adds Statoil outages, adds and revises Bergemeer outages, revises Gassco's Field outage and Hornsea outage, removes"
+ConocoPhillips,2017-11,"Nov 16 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 8 1800 GMT-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 15 0500 CET-         Unavailable injection capacity at 118
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 16 1400 CET-         Unavailable injection capacity at 205
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 17 1200 GMT-         Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 17 0500 CET-         Unavailable injection capacity at 121
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 17 0500 CET-         Unavailable injection capacity at 34
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 20 0500 CET-         Unavailable injection capacity at 37
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 1000 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline System   Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,Canada's Cenovus has put some non-core deep basin assets for sale -new CEO - Reuters News
+ConocoPhillips,2017-11,"{{20171115T172410.063+0000}}Canada's Cenovus has put some non-core deep basin assets for sale -new CEOCALGARY, Nov 15 (Reuters) - Canadian oil producer Cenovus Energy inc has put a package of mainly non-core Deep Basin gas assets for sale, its new CEO Alex Pourbaix said in his first media briefing on Wednesday."
+ConocoPhillips,2017-11,Cenovus has raised just under C$4 billion ($3.1 billion) of a targeted C$4 billion to C$5 billion to pay down debt it took for buying some of ConocoPhillips' Canadian assets in March. Pourbaix took charge as the new CEO earlier this month. [nL4N1N540C].
+ConocoPhillips,2017-11,"{{20171113T154605.000+0000}}UPDATE 1-Seeking to slow climate change, lawsuits look to the constitutionBONN, Germany, Nov 13 (Reuters)"
+ConocoPhillips,2017-11,"BONN, Germany, Nov 13 (Reuters) - Climate activists will argue in an Oslo court this week that Norway's plans for Arctic oil exploration are unconstitutional, in an emerging branch of law where plaintiffs are trying to enlist a nation's founding principles to limit warming."
+ConocoPhillips,2017-11,"The cases, including one in the United States where a group of young people are arguing that global warming threatens their Fifth Amendment right to life, liberty and property, are widening the scope of environmental litigation."
+ConocoPhillips,2017-11,Some legal scholars say it is a stretch to invoke the Constitution rather than focus on taxes and regulations to control greenhouse gases. Governments including the U.S. Trump administration and Norway are dismissive.
+ConocoPhillips,2017-11,"Still, some cases have succeeded, such as a 2015 case that told the Dutch government to cut greenhouse emissions."
+ConocoPhillips,2017-11,"And worldwide, 90 national constitutions have some sort of provisions guaranteeing environmental protection. Article 112 of Norway's constitution speaks of safeguarding a healthy environment for future generations."
+ConocoPhillips,2017-11,"""We want the court to recognise that climate change is not some side issue but a fundamental core issue,"" said Jennifer Morgan, executive director of Greenpeace whose lawyers will go to court in Oslo from Tuesday."
+ConocoPhillips,2017-11,"""The constitution represents those basic rights,"" she told Reuters in Bonn, Germany, where almost 200 nations are working on ways to bolster the 2015 Paris climate agreement after President Donald Trump decided in June to pull out."
+ConocoPhillips,2017-11,"The Norwegian case, brought by Greenpeace and the Nature and Youth group, argues that a 2015 oil licensing round in the Arctic violates the constitution because Norway has agreed to the Paris accord's goals to end the fossil fuel era this century."
+ConocoPhillips,2017-11,"Norway's attorney general argues that the oil licences, awarded to Statoil , Chevron , Lukoil, ConocoPhillips and others, have no link to the Constitution. Norway's environmental laws are among the toughest in the world."
+ConocoPhillips,2017-11,"The plaintiffs' case is based on ""a distinctly broad, political, and expanded interpretation of the Constitution's article 112,"" the Attorney General's office said in court documents."
+ConocoPhillips,2017-11,"Environmentalists say the case is far more than a stunt. Losing could mean having to pay the state's legal fees, meaning a total bill exceeding $500,000."
+ConocoPhillips,2017-11,"Worldwide, there are almost 900 lawsuits related to climate change in 25 nations, a U.N. study said in March."
+ConocoPhillips,2017-11,"Among them, a Peruvian farmer launched an appeal in Germany on Monday, arguing that greenhouse gas emissions by energy utility RWE are partly to the blame for melting an Andean glacier that is threatening to cause floods."
+ConocoPhillips,2017-11,"Cases have risen since the Paris Agreement in 2015. Adding relevance, researchers increasingly say that greenhouse gas emissions have raised the risks of individual extreme events, from heat waves in Europe to downpours in India."
+ConocoPhillips,2017-11,"""Flooding in New York after superstorm Sandy (in 2012) would have been less severe without a rise in sea levels,"" said Michiel Shaeffer, science director of research group Climate Analytics."
+ConocoPhillips,2017-11,"Still, courts are a ""blunt instrument"" to try to force change on climate policies, said Oonagh Fitzgerald, a legal expert at the Centre for International Governance Innovation in Canada."
+ConocoPhillips,2017-11,"""And for a lot of people it seems far-fetched"" to link climate change with fundamental rights, she said."
+ConocoPhillips,2017-11,"Kiran Oommen, aged 20, is among 21 young plaintiffs in the U.S. case accusing the government of allowing emissions of greenhouse gases to rise even when it knew they could disrupt the climate."
+ConocoPhillips,2017-11,He said that rising seas threatened his uncle and aunt's home in Florida and his brother developed allergies because of high pollen levels in Oregon linked to warmer temperatures.
+ConocoPhillips,2017-11,"The court case is due to start on Feb. 5, after judges rejected attempts by both the Obama and Trump U.S. administrations to have it dismissed."
+ConocoPhillips,2017-11,"And the Dutch government is appealing against a 2015 court ruling that ordered it to slash emissions by 25 percent from 1990 levels by 2020, more deeply than planned, to care for its citizens."
+ConocoPhillips,2017-11,"""The relevant question in all these cases is 'is there an obligation on a state that goes further than what the laws of parliament say?'"" said Dennis van Berkel, legal counsel of the Urgenda Foundation which represented 900 co-plaintiffs."
+ConocoPhillips,2017-11,"He said legal arguments in the Dutch case were based mainly on the civil code, backed up by the Constitution, which obliges authorities ""to keep the country habitable and to protect and improve the environment."""
+ConocoPhillips,2017-11,"Seeking to slow climate change, lawsuits look to the constitution - Reuters News"
+ConocoPhillips,2017-11,"{{20171113T114033.272+0000}}Seeking to slow climate change, lawsuits look to the constitution* Greenpeace challenges Norway drilling as unconstitutional"
+ConocoPhillips,2017-11,"BONN, Germany, Nov 13 (Reuters) - Climate activists will argue in an Oslo court this week that Norway's plans for Arctic oil exploration are unconstitutional, in an emerging branch of law where plaintiffs are trying to enlist a nation's founding principles to limit warming."
+ConocoPhillips,2017-11,"The cases, including one in the United States where a group of young people are arguing that global warming threatens their Fifth Amendment right to life, liberty and property, are widening the scope of environmental litigation."
+ConocoPhillips,2017-11,Some legal scholars say it is a stretch to invoke the Constitution rather than focus on taxes and regulations to control greenhouse gases. Governments including the U.S. Trump administration and Norway are dismissive.
+ConocoPhillips,2017-11,"Still, some cases have succeeded, such as a 2015 case that told the Dutch government to cut greenhouse emissions."
+ConocoPhillips,2017-11,"And worldwide, 90 national constitutions have some sort of provisions guaranteeing environmental protection. Article 112 of Norway's constitution speaks of safeguarding a healthy environment for future generations."
+ConocoPhillips,2017-11,"""We want the court to recognise that climate change is not some side issue but a fundamental core issue,"" said Jennifer Morgan, executive director of Greenpeace whose lawyers will go to court in Oslo from Tuesday."
+ConocoPhillips,2017-11,"""The constitution represents those basic rights,"" she told Reuters in Bonn, Germany, where almost 200 nations are working on ways to bolster the 2015 Paris climate agreement after President Donald Trump decided in June to pull out."
+ConocoPhillips,2017-11,"The Norwegian case, brought by Greenpeace and the Nature and Youth group, argues that a 2015 oil licensing round in the Arctic violates the constitution because Norway has agreed to the Paris accord's goals to end the fossil fuel era this century."
+ConocoPhillips,2017-11,"Norway's attorney general argues that the oil licences, awarded to Statoil , Chevron , Lukoil, ConocoPhillips and others, have no link to the Constitution. Norway's environmental laws are among the toughest in the world."
+ConocoPhillips,2017-11,"The plaintiffs' case is based on ""a distinctly broad, political, and expanded interpretation of the Constitution's article 112,"" the Attorney General's office said in court documents."
+ConocoPhillips,2017-11,"Environmentalists say the case is far more than a stunt. Losing could mean having to pay the state's legal fees, meaning a total bill exceeding $500,000."
+ConocoPhillips,2017-11,"Worldwide, there are almost 900 lawsuits related to climate change in 25 nations, a U.N. study said in March, from Pakistan to New Zealand."
+ConocoPhillips,2017-11,"And cases have risen since the Paris Agreement in 2015. Adding relevance, researchers increasingly say that greenhouse gas emissions have raised the risks of individual extreme events, from heat waves in Europe to downpours in India."
+ConocoPhillips,2017-11,"""Flooding in New York after superstorm Sandy (in 2012) would have been less severe without a rise in sea levels,"" said Michiel Shaeffer, science director of research group Climate Analytics."
+ConocoPhillips,2017-11,"Still, courts are a ""blunt instrument"" to try to force change on climate policies, said Oonagh Fitzgerald, a legal expert at the Centre for International Governance Innovation in Canada."
+ConocoPhillips,2017-11,"""And for a lot of people it seems far-fetched"" to link climate change with fundamental rights, she said."
+ConocoPhillips,2017-11,"Kiran Oommen, aged 20, is among 21 young plaintiffs in the U.S. case accusing the government of allowing emissions of greenhouse gases to rise even when it knew they could disrupt the climate."
+ConocoPhillips,2017-11,He said that rising seas threatened his uncle and aunt's home in Florida and his brother developed allergies because of high pollen levels in Oregon linked to warmer temperatures.
+ConocoPhillips,2017-11,"The court case is due to start on Feb. 5, after judges rejected attempts by both the Obama and Trump U.S. administrations to have it dismissed."
+ConocoPhillips,2017-11,"And the Dutch government is appealing against a 2015 court ruling that ordered it to slash emissions by 25 percent from 1990 levels by 2020, more deeply than planned, to care for its citizens."
+ConocoPhillips,2017-11,"""The relevant question in all these cases is 'is there an obligation on a state that goes further than what the laws of parliament say?'"" said Dennis van Berkel, legal counsel of the Urgenda Foundation which represented 900 co-plaintiffs."
+ConocoPhillips,2017-11,"He said legal arguments in the Dutch case were based mainly on the civil code, backed up by the Constitution, which obliges authorities ""to keep the country habitable and to protect and improve the environment."""
+ConocoPhillips,2017-11,"{{20171113T102358.688+0000}}TABLE-North Sea gas maintenance schedule: adds Aldbrough outage(Adds Aldbrough outage starting Nov. 8, removes completed outages)"
+ConocoPhillips,2017-11,"Nov 13 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 7 1200 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 8 1800 GMT-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 12 0500 CET-         Unavailable injection capacity at 120
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 14 0500 CET-         Unavailable injection capacity at 36
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline System   Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171110T152006.553+0000}}TABLE-North Sea gas maintenance schedule: adds North Morecambe outage(Adds North Morecambe outage starting Nov. 10 and Entry SEGAL Pipeline outage starting Feb. 12, 2018)"
+ConocoPhillips,2017-11,"Nov 10 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 7 1200 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 8 1800 CET-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 288
+ConocoPhillips,2017-11,Centrica                 North Morecambe gas           Nov. 10 0704 GMT-         Unplanned outage; production capacity
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 10 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 12 0500 CET-         Unavailable injection capacity at 120
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 14 0500 CET-         Unavailable injection capacity at 36
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,Gassco                   Entry SEGAL Pipeline System   Feb. 12 0600 CET-         -17 mcm/day; yearly maintenance
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171109T160658.702+0000}}TABLE-North Sea gas maintenance schedule: adds Bergermeer outages(Adds Bergermeer and Statoil's Field outages, removes completed outages)"
+ConocoPhillips,2017-11,"Nov 9 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 7 1200 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 8 1100 CET-          Unavailable injection capacity at 287
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 8 1800 CET-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 10 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 12 0500 CET-         Unavailable injection capacity at 120
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 14 0500 CET-         Unavailable injection capacity at 36
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,UPDATE 4-ConocoPhillips vows financial discipline as it aims to boost output - Reuters News
+ConocoPhillips,2017-11,"{{20171108T201533.533+0000}}UPDATE 4-ConocoPhillips vows financial discipline as it aims to boost output(Adds CEO interview, OPEC material, executive pay quotes, updates stock)"
+ConocoPhillips,2017-11,"NEW YORK, Nov 8 (Reuters) - ConocoPhillips said on Wednesday it will boost oil and natural gas output for the rest of the decade but vowed it would do so only when it was financially prudent and that it would strictly adhere to shareholder returns."
+ConocoPhillips,2017-11,The largest U.S. independent oil and natural gas producer plans to spend an average of $5.5 billion annually for the next three years as long as oil prices stay above $50 per barrel.
+ConocoPhillips,2017-11,"""Our value proposition is not built around production growth. It is built around returns,"" Chief Executive Ryan Lance said in an interview on the sidelines of the company's investor day in New York."
+ConocoPhillips,2017-11,"The spending forecast, an increase from 2017 and higher than many Wall Street analysts expected, comes as Conoco, like some peers, focuses more on generating profits rather than boosting production at any cost.[nL1N1NE0Z7]"
+ConocoPhillips,2017-11,"Much of that discipline is helped by better technology and more efficient processes. The company expects production to grow 5 percent each year for the rest of the decade, helped by output spikes in the Eagle Ford and Permian shales of Texas, two of the largest U.S. oilfields."
+ConocoPhillips,2017-11,"That growth will come, Lance said, regardless of what members of the Organization of the Petroleum Exporting Countries decide this month when they meet in Vienna to debate extending an agreement to curb oil production."
+ConocoPhillips,2017-11,"""I don't care what they do,"" Lance said of OPEC's 14 members. ""They're not going to change our plans."""
+ConocoPhillips,2017-11,"OPEC and partners, including Russia, are largely expected to extend the agreement, which ends in March.[nL5N1ND6QC]"
+ConocoPhillips,2017-11,"U.S. oil prices have risen more than 5 percent in the past month due in part to the success of OPEC's supply cuts. That raises the specter of cost hikes for oilfield services, a situation that would erode margins. But Lance said that Conoco would pull back operations rather than burn cash if that scenario occurred."
+ConocoPhillips,2017-11,"""If the returns start to be diluted due to inflationary pressures, we'll pull back and think about fighting another day,"" he said."
+ConocoPhillips,2017-11,Lance and his deputies said at an investor presentation on Wednesday morning that they should be able to send more than 30 percent of cash flow back to shareholders in the form of dividends and share buybacks by 2020.
+ConocoPhillips,2017-11,"Shareholder returns are the ""ultimate measure of value creation in our business,"" Lance said."
+ConocoPhillips,2017-11,Lance and his deputies were at pains to stress the focus on boosting profits and increasing production only when it makes financial sense.
+ConocoPhillips,2017-11,"""It's just not getting big for big's sake,"" Lance said. ""It's about generating high-value earnings and cash flow to boost our returns."""
+ConocoPhillips,2017-11,Wall Street has pressured oil producers in the past year to stop rewarding executives for spending billions of dollars on new wells when crude prices are depressed.[nL2N1LZ236]
+ConocoPhillips,2017-11,"Lance's 2016 compensation nearly tripled to $19.2 million from 2015 levels, fueling accusations from some investors that the company was not serious about its new focus on shareholder returns.[nFWN1HB0PG]"
+ConocoPhillips,2017-11,The pay jump came the same year that Lance slashed Conoco's dividend - the first in 25 years for the company - and the stock price fell.
+ConocoPhillips,2017-11,"Lance said on Monday that changes were underway in how the company calculates executive compensation. ""We have identified things that will be addressed"" in compensation discussions, said Lance, who is also chairman of the company's board. ""You can expect more disclosure from us on that front."""
+ConocoPhillips,2017-11,Shares of Conoco shares edged up about 0.5 percent to $53.73 in afternoon trading as oil prices edged down by about 0.8 percent.
+ConocoPhillips,2017-11,"{{20171108T165641.419+0000}}TABLE-North Sea gas maintenance schedule: adds Aldbrough outages(Adds Aldbrough, Bergermeer outages, North Morecambe outage starting June 1, 2019 and revises Sept. 1, 2018 outage,"
+ConocoPhillips,2017-11,"Nov 8 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 7 1200 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 8 1313 CET-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 8 1100 CET-          Unavailable injection capacity at 287
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 8 1800 CET-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 288
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,ConocoPhillips plan to double free cash flow in next three years - Reuters Investor Briefs
+ConocoPhillips,2017-11,{{20171108T164202.656+0000}}ConocoPhillips plan to double free cash flow in next three yearsNov 8 (Reuters) - ConocoPhillips <COP.N>:Says will invest $1.2 billion in shale operations annually for rest of decade.Chief Executive Ryan Lance says returns 'ultimate measure of value creation in our business'.Says 'increased shareholder distributions will compete for capital allocation'.Says
+ConocoPhillips,2017-11,BRIEF-ConocoPhillips plan to double free cash flow in next three years - Reuters News
+ConocoPhillips,2017-11,{{20171108T161524.653+0000}}BRIEF-ConocoPhillips plan to double free cash flow in next three yearsNov 8 (Reuters) - ConocoPhillips
+ConocoPhillips,2017-11,* Says will invest $1.2 billion in shale operations annually for rest of decade
+ConocoPhillips,2017-11,* Chief Executive Ryan Lance says returns 'ultimate measure of value creation in our business'
+ConocoPhillips,2017-11,* Says production should not drop significantly unless oil prices fall below $40/barrel for long period
+ConocoPhillips,2017-11,* Says its shale operations have average cost of supply below $35/barrel
+ConocoPhillips,2017-11,* Says expects to generate $1 billion in net cash flow from shale operations by 2020
+ConocoPhillips,2017-11,"* Says will pump 245,000 barrels/day from Eagle Ford shale by 2020, an 89 percent increase from 2017 levels"
+ConocoPhillips,2017-11,"* Says will pump 80,000 barrels/day from Delaware portion of Permian shale by 2020, more than fourfold increase from 2017 levels"
+ConocoPhillips,2017-11,"* Says will keep Bakken shale production steady near 70,000 barrels/ day for rest of decade to generate cash flow"
+ConocoPhillips,2017-11,* Says plan to double free cash flow in next three years
+ConocoPhillips,2017-11,"* ConocoPhillips analyst and investor meeting to outline 2018-2020 operating plan; creating value with disciplined, returns-focused strategy"
+ConocoPhillips,2017-11,ConocoPhillips aims to spend $5.5 bln/year for rest of decade - Reuters News
+ConocoPhillips,2017-11,"{{20171108T121141.979+0000}}ConocoPhillips aims to spend $5.5 bln/year for rest of decadeNEW YORK, Nov 8 (Reuters) - ConocoPhillips , the largest U.S. independent oil and natural gas producer, said on Wednesday it would spend $5.5 billion annually for the rest of the decade on capital projects as long as oil prices stay above $50 per barrel."
+ConocoPhillips,2017-11,"The Houston-based company also said it expects to pay off more than $4.6 billion of debt by 2020, reducing its debt load to $15 billion. Continuing a theme of focusing on profits and not production, ConocoPhillips said it would generate a 20 percent cash return on capital employed by the end of the decade."
+ConocoPhillips,2017-11,"{{20171107T134407.229+0000}}TABLE-North Sea gas maintenance schedule: adds Bergermeer outages(Adds Bergermeer outages, removes completed outages)"
+ConocoPhillips,2017-11,"Nov 7 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 262
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 7 1000 CET-          Unavailable injection capacity at 346
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 7 1200 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 7 0500 BST-          Withdrawal capacity loss 48 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 8 0500 CET-          Unavailable injection capacity at 262
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1 -                  Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,Oil at $70/barrel already a reality for some as Asian premium bites - Reuters News
+ConocoPhillips,2017-11,"{{20171107T095917.710+0000}}Oil at $70/barrel already a reality for some as Asian premium bites* Robust demand, limited supplies underpin spot premiums"
+ConocoPhillips,2017-11,"SINGAPORE, Nov 7 (Reuters) - The rising demand for crude oil that can more easily produce transportation fuels when refined has some Australian and Malaysian producers boasting cargoes valued at close to $70 a barrel, a hefty premium to global benchmarks ."
+ConocoPhillips,2017-11,"Malaysia's state oil company Petronas [PETR.UL] sold last week a December-loading Miri Light cargo at a premium of about $4.50 a barrel to dated Brent, equivalent to about $69 at the latest prices, according to multiple traders that participate in the Asian regional crude market."
+ConocoPhillips,2017-11,"Australian Barrow Island and Cooper Basin crudes are now close to $70 a barrel currently, based on premiums for grades of about $1.50 a barrel to Malaysian benchmark grade Kimanis, said the traders. Kimanis itself is priced at a premium of about $4.40 a barrel to dated Brent, which was assessed at $64.07 a barrel on Monday by price reporting agency S&P Global Platts."
+ConocoPhillips,2017-11,"""Prices of domestic Australian grades are even higher than MCO (Malaysian Crude Oil),"" an Asian trader said. ""That would make them the most expensive crudes in the world."""
+ConocoPhillips,2017-11,"Demand for these grades is rising because of the short distances to Asian refineries, which prize the crude for their low sulphur content and higher yields of more valuable oil products such as diesel, the traders said."
+ConocoPhillips,2017-11,"Demand for short-haul grades has increased after the Brent oil market structure flipped into backwardation, when prompt prices are more than later prices. That means the value of the crude drops over the course of the voyage."
+ConocoPhillips,2017-11,"The refiners are willing to pay up for the Australian and Malaysian crudes rather than incur the additional time and cost of shipping Brent supplies from the North Sea, the traders said."
+ConocoPhillips,2017-11,"Typically, Asia-Pacific grades are sold to refineries in Southeast Asia and Australia or New Zealand that have a preference for low-sulphur oil."
+ConocoPhillips,2017-11,Values for these grades have risen because of their scarcity.
+ConocoPhillips,2017-11,"Petronas and its partners Royal Dutch Shell , ConocoPhillips , Murphy Oil Corp , Pertamina [PERTM.UL] sell about 6 million barrels of Kimanis each month."
+ConocoPhillips,2017-11,But volumes for other Malaysian grades such as Kikeh and Labuan have fallen as output declines at the mature fields.
+ConocoPhillips,2017-11,"Australia's crude and condensate production has been below 300,000 barrels per day (bpd) since September 2016, data from the country's Department of the Environment and Energy showed. In August it was 279,000 bpd."
+ConocoPhillips,2017-11,"Santos Ltd produces about 30,000 bpd of Cooper Basin crude in southern Australia, according to its website."
+ConocoPhillips,2017-11,"Santos and its partners, Chevron Corp and Mobil Australia Resources Co, a unit of Exxon Mobil Corp , produces 5,000 bpd of Barrow Island in western Australia, according to Santos."
+ConocoPhillips,2017-11,"{{20171106T184254.016+0000}}TABLE-North Sea gas maintenance schedule: adds Bergermeer outages(Adds Bergermeer, Centrica's Rough and North Morecambe outages, revises Rough outage on Nov. 4, removes past outages)"
+ConocoPhillips,2017-11,"Nov 6 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 5 0500 CET-          Withdrawal capacity loss 109 gwh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 262
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 4 1600 BST-          Withdrawal capacity loss 105 GWh/d;
+ConocoPhillips,2017-11,Centrica                 North Morecambe gas           Nov. 6 1430 BST-          Unplanned outage; production cut to
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 7 0500 BST-          Withdrawal capacity loss 48 GWh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 8 0500 CET-          Unavailable injection capacity at 262
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1                    Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171106T124639.249+0000}}TABLE-North Sea gas maintenance schedule: adds Heimdal outage(Adds Gassco's Heimdal and Centrica's North Morecambe outages, revises Rough outage and removes completed outages)"
+ConocoPhillips,2017-11,"Nov 6 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable withdrawal capacity at 77
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 5 0500 CET-          Withdrawal capacity loss 109 gwh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 6 0500 CET-          Withdrawal capacity loss 83 gwh/d;
+ConocoPhillips,2017-11,Centrica                 North Morecambe gas           Nov. 6 1030 CET-          Unplanned outage; production cut to
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 8 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 0
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1                    Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,BUZZ-Oil stocks: Oil prices at two-year high  - Reuters News
+ConocoPhillips,2017-11,"{{20171103T185157.025+0000}}BUZZ-Oil stocks: Oil prices at two-year high ** Shares of oil cos up more than 1 pct as oil prices climb to over 2-year high on rising global demand and physical prices, as well as expectations deal to cut output would be extended"
+ConocoPhillips,2017-11,"** ""The market continues to find support from expectations that we're going to see the cut extended and from robust demand,"" says Gene McGillian, director of market research at Tradition Energy in Stamford [nL4N1N91NK]"
+ConocoPhillips,2017-11,"** EOG Resources 1.3 pct at $104.32, Halliburton 1.7 pct at $43.43, ConocoPhillips 1 pct at $52.96"
+ConocoPhillips,2017-11,Libya's Waha Oil boosts export capacity at Es Sider port - Reuters News
+ConocoPhillips,2017-11,{{20171103T154432.631+0000}}TABLE-North Sea gas maintenance schedule: adds Bergermeer outages(Adds Bergermeer outages and removes completed outages)
+ConocoPhillips,2017-11,"Nov 3 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 24 2300 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 27 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 28 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Oct. 30 0500 BST-         Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable withdrawal capacity at 77
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0800 CET-          Unavailable injection capacity at 370
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0900 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0000 CET-          Unavailable injection capacity at 214
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 12
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 4 1600 CET-          Withdrawal capacity loss 59 gwh/d;
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 5 0500 CET-          Withdrawal capacity loss 109 gwh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 6 0500 CET-          Withdrawal capacity loss 32 gwh/d
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 8 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 0
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1                    Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,{{20171102T164437.945+0000}}TABLE-North Sea gas maintenance schedule: adds Bergermeer outages(Adds multiple Bergermeer outages and removes completed outages)
+ConocoPhillips,2017-11,"Nov 2 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 24 2300 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 27 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 28 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Oct. 30 0500 BST-         Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable withdrawal capacity at 77
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 2 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0000 CET-          Unavailable injection capacity at 214
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 12
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 4 1600 CET-          Withdrawal capacity loss 59 gwh/d;
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 5 0500 CET-          Withdrawal capacity loss 109 gwh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 6 0500 CET-          Withdrawal capacity loss 32 gwh/d
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 8 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 0
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1                    Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,"{{20171101T131648.607+0000}}TABLE-North Sea gas maintenance schedule: adds Oseberg outage(Adds Gassco's Oseberg outage starting Nov. 1, removes completed outages)"
+ConocoPhillips,2017-11,"Nov 1 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 22 2300 CET-         Unavailable injection capacity at 36
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 23 2300 CET-         Unavailable injection capacity at 36
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 24 0500 CET-         Unavailable injection capacity at 36
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 24 2300 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 27 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 28 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Oct. 30 0500 BST-         Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 2300 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable withdrawal capacity at 77
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0200 CET-          Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 2 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0000 CET-          Unavailable injection capacity at 214
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 12
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 4 1600 CET-          Withdrawal capacity loss 59 gwh/d;
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 5 0500 CET-          Withdrawal capacity loss 109 gwh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 6 0500 CET-          Withdrawal capacity loss 32 gwh/d
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 8 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 0
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1                    Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"
+ConocoPhillips,2017-11,UPDATE 2-Australia's Oil Search buys into promising Alaska oil find - Reuters News
+ConocoPhillips,2017-11,{{20171101T064826.194+0000}}UPDATE 2-Australia's Oil Search buys into promising Alaska oil find* Spain's Repsol sees field holding 1.2 bln barrels of oil
+ConocoPhillips,2017-11,"MELBOURNE, Nov 1 (Reuters) - Australia's Oil Search Ltd has agreed to buy stakes in a huge oil find in Alaska for $400 million, in a surprise push to diversify from its sweet spot of gas in Papua New Guinea."
+ConocoPhillips,2017-11,"Oil Search will pick up stakes in three oil blocks from privately owned U.S. firms Armstrong Energy and GMT Exploration giving it a roughly 26 percent holding in the Nanushuk play, co-owned by Spain's Repsol SA ."
+ConocoPhillips,2017-11,"The play includes the Horseshoe block, which hit oil in March in what Repsol called the biggest U.S. onshore find in 30 years. It estimated the field could hold 1.2 billion barrels. [nFWN1GM0QP]"
+ConocoPhillips,2017-11,"Oil Search bought in assuming the field holds 500 million barrels, expecting production to begin in 2023, with output to plateau at 80,000 to 120,000 barrels per day."
+ConocoPhillips,2017-11,"""With the quality of the assets, the fact that they're tier 1, and the fact that we've gone in very conservatively against what Repsol are saying, I think we can demonstrate to the market that this will be a super deal for Oil Search in the medium term,"" Oil Search Chief Executive Peter Botten told Reuters."
+ConocoPhillips,2017-11,"Investors were nervous about the $8 billion company's move into a region where it has no experience and which is dominated by giants like BP and ExxonMobil Corp , sending its shares down 3 percent, especially after it gave up on a push into Kurdistan."
+ConocoPhillips,2017-11,Other Australian oil and gas producers rose more than 1 percent on Wednesday.
+ConocoPhillips,2017-11,"""Questions will inevitably be asked about Oil Search's competitive advantage to play in Alaska until it proves its operational capability there,"" said Saul Kavonic, an analyst with energy consultants Wood Mackenzie."
+ConocoPhillips,2017-11,"RBC analyst Ben Wilson said the move was well-timed near the bottom of the oil price cycle and with some of the appraisal work on the field already done. He said it had ""good prospects"" as the oil was high-grade."
+ConocoPhillips,2017-11,"Botten began working on the deal eight months ago when oil prices were about 20 percent lower than now and said Oil Search managed to get the asset despite higher-priced interest from others in nearby fields, whom he declined to name."
+ConocoPhillips,2017-11,"The owners of the neighbouring fields are ConocoPhillips , ExxonMobil and Italy's ENI ."
+ConocoPhillips,2017-11,Oil Search has the option of doubling its stake in the Alaskan assets for a further $450 million. It plans to fund the deal from its cash reserves.
+ConocoPhillips,2017-11,Oil Search will work with oilfield services giant Halliburton Co and Armstrong before taking over as operator of the assets in June 2018.
+ConocoPhillips,2017-11,"{{20171031T164257.382+0000}}TABLE-North Sea gas maintenance schedule: adds Rough outages(Adds Britain's Rough gas storage and multiple Bergermeer outages, revises Gullfaks and North Morecambe outages and"
+ConocoPhillips,2017-11,"Oct 31 (Reuters) - The following is a schedule of maintenance work on gas infrastructure, mainly in the North Sea."
+ConocoPhillips,2017-11,Volumes are in standard million cubic metres per day (mcm/d) or gigawatt-hours per day (GWh/d) unless otherwise
+ConocoPhillips,2017-11,"Centrica                 Rough gas storage             March 18, 2015-end of     Gas storage site closed for injection"
+ConocoPhillips,2017-11,Shell                    St Fergus terminal            Dec. 28 0600 GMT-Unknown  Volume cut by 10.6 mcm/d
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             June 22 1414 BST-         Oil and Gas Authority granted its
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 3 0500 BST-          Unavailable withdrawal capacity at
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          July 14 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 25 0500 BST-         Unavailable storage capacity at 0.2849
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Aug. 21 0500 BST-         Unavailable withdrawal and injection
+ConocoPhillips,2017-11,"EDF Energy               Hole House gas storage        Aug. 30 0500 BST-         Injection capability is 1,000,000"
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 11 0500 CET-         Unavailable injection capacity at 372
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 21 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 22 2300 CET-         Unavailable injection capacity at 36
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 23 2300 CET-         Unavailable injection capacity at 36
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 24 0500 CET-         Unavailable injection capacity at 36
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 24 2300 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 27 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 28 0500 CET-         Unavailable injection capacity at 204
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Oct. 30 0500 BST-         Maximum gas capacity increased from
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 30 2300 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Oct. 30 0500 BST-         Unavailable injection capacity at 111
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0200 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable injection capacity at 372
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0800 CET-         Unavailable injection capacity at 372
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 1100 CET-         Unavailable injection capacity at 372
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 1400 CET-         Unavailable injection capacity at 372
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 1700 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 2000 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 2100 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 2300 CET-         Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Oct. 31 0500 CET-         Unavailable withdrawal capacity at 77
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0200 CET-          Unavailable injection capacity at 288
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 1 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 2 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0000 CET-          Unavailable injection capacity at 214
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 3 0500 CET-          Unavailable injection capacity at 204
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 4 0500 CET-          Unavailable injection capacity at 12
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 4 1600 CET-          Withdrawal capacity loss 59 gwh/d;
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 5 0500 CET-          Withdrawal capacity loss 109 gwh/d;
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 5 0500 CET-          Unavailable injection capacity at 286
+ConocoPhillips,2017-11,SSE                      Aldbrough gas storage         Nov. 5 0500 GMT-          Unavailable injection capacity at 111
+ConocoPhillips,2017-11,Centrica                 Rough gas storage             Nov. 6 0500 CET-          Withdrawal capacity loss 32 gwh/d
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 8 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 9 0500 CET-          Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 286
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 38
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        Nov. 11 0500 CET-         Unavailable injection capacity at 0
+ConocoPhillips,2017-11,SSE                      Hornsea gas storage           Nov. 21 0800 GMT-         Injection unavailability at 30 GWh/d;
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 13 0500 GMT-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 17 0500 GMT-         Unavailable storage capacity at 0.5231
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Jan. 1 0500 GMT-          Planned withdrawal unavailability
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        April 8 0500 BST-         Max withdrawal and injection at
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        May 22 0500 BST-          Unavailable injection at 29.3071
+ConocoPhillips,2017-11,TAQA                     Bergermeer gas storage        May 28 0500 CET-          Unavailable injection capacity at 439
+ConocoPhillips,2017-11,NSMP                     Teesside gas processing       June 1                    Loss of volume: 100 pct; estimated
+ConocoPhillips,2017-11,"Interconnector UK        IUK gas interconnector        June 13 0500 CET-         Annual maintenance shutdown, capacity"
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Sept. 4 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 7 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Oct. 1 0500 BST-          Unavailable injection and withdrawal
+ConocoPhillips,2017-11,Storengy UK              Stublach gas storage          Nov. 6 0500 GMT-          Unavailable Capacity at 185 GWh/d
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Dec. 29 0500 GMT-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        Feb. 11  0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        March 22 0500 GMT         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 29 0500 BST-         Available gas capacity is 0 therms
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        July 15 0500 BST-         Unavailable injection and withdrawal
+ConocoPhillips,2017-11,EDF Energy               Hill Top gas storage          Sept. 4 0500 BST-         Maximum available gas injection and
+ConocoPhillips,2017-11,EDF Energy               Hole House gas storage        June 26 0500 BST          Available gas capacity is 0 Therms
+ConocoPhillips,2017-11,"CET - Central European Time (GMT +1 or GMT +2, depending on time of the year)"

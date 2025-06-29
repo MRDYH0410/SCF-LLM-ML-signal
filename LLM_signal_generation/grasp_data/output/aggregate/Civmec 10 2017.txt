@@ -1,0 +1,200 @@
+firm_id,date,text
+Civmec,2017-10,18:47:36  [GLOSTP] (CIVM.SI .AORD) - Monthly: Civmec (CVL: $A1.38) up 23% in 2 months -
+Civmec,2017-10,17:57:26  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.38) offers dividend yield of 6.5%; Vol Index 4.9 [1 is avg] -
+Civmec,2017-10,21:35:28  [SGX] (CVL.AX CIVM.SI) - PDF 1: CIVMEC LIMITED (Change in Composition of Board and Board Committees) -
+Civmec,2017-10,21:35:27  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Change in Composition of Board and Board Committees) -
+Civmec,2017-10,21:34:01  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Retirement of Independent Director ) -
+Civmec,2017-10,"21:32:39  [GLOSTP] (CIVM.SI .STI) - Monthly: Civmec (P9D: SGD1.13) adds SGD66 million ($50 million) in MCap in October, leads Construction and Engineering sector gains -"
+Civmec,2017-10,21:32:39  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Retirement of Independent Director ) -
+Civmec,2017-10,21:31:46  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Retirement of Lead Independent Director) -
+Civmec,2017-10,17:57:10  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.38) offers dividend yield of 6.5%; +4c [3.0%] Vol Index 4.2 [1 is avg] -
+Civmec,2017-10,"17:57:01  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.38) adds $A20 million (3.0%) in MCap, top heavyweight rise in Capital goods sector; +4c [3.0%] Vol Index 4.2 [1 is avg] -"
+Civmec,2017-10,15:07:51  [NEWBIF] (CIVM.SI) - The Long-Term Bullish Case For Civmec -
+Civmec,2017-10,14:06:46  [NEWBIF] (CIVM.SI) - How Civmec's Tax Rate compares to Its Peers -
+Civmec,2017-10,13:07:16  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-10,"12:16:43  [NEWPEO] (CIVM.SI) - Ong Beng Hong Director of Civmec in top 4% of Singaporean stocks Wednesday October 30, 2024 -"
+Civmec,2017-10,12:07:11  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-10,11:07:37  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-10,20:35:03  [SGX] (CVL.AX CIVM.SI) - PDF 1: CIVMEC LIMITED (Civmec Investor Presentation Q1 Fy25) -
+Civmec,2017-10,20:34:31  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Civmec Investor Presentation Q1 Fy25) -
+Civmec,2017-10,20:33:19  [SGX] (CVL.AX CIVM.SI) - PDF 1: CIVMEC LIMITED (Civmec Business Update Q1 Fy25) -
+Civmec,2017-10,20:33:18  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Civmec Business Update Q1 Fy25) -
+Civmec,2017-10,19:08:07  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to outperform PEC by 13.8% in the past month -
+Civmec,2017-10,18:12:33  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) by 14.7% in the past month -
+Civmec,2017-10,"17:57:30  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.34) drops 1.5%, 3 days' volume in a day; -2c [1.5%] Vol Index 3.5 [1 is avg] -"
+Civmec,2017-10,17:57:14  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.34) offers dividend yield of 6.7%; -2c [1.5%] Vol Index 3.5 [1 is avg] -
+Civmec,2017-10,17:12:31  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng by 17.6% in the past month -
+Civmec,2017-10,15:07:29  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-10,14:07:18  [NEWBIF] (CIVM.SI SOIL.SI) - How Civmec's dividend compares to Soilbuild Construction -
+Civmec,2017-10,14:07:18  [NEWBIF] (CIVM.SI WHHL.SI) - How Wee Hur's dividend compares to Civmec -
+Civmec,2017-10,13:07:24  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-10,"12:12:31  [NEWPEO] (CIVM.SI) - Gary Gray Director of Civmec in top 3% of Singaporean stocks Tuesday October 29, 2024 -"
+Civmec,2017-10,12:07:20  [NEWBIF] (CIVM.SI LUCS.SI) - How Civmec's dividend compares to Lum Chang -
+Civmec,2017-10,11:07:37  [GLOSTO] (CIVM.SI) - Traders look to see if Civmec's recent rally will continue -
+Civmec,2017-10,11:07:30  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Its Peers -
+Civmec,2017-10,08:39:15  [STOCKP] - Civmec Australia (CVLDA.OLD.AX) is trading 6.15 percent higher on Monday 28th of October and has a trading volume of AUD 285.7 k -
+Civmec,2017-10,17:52:25  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.36) offers dividend yield of 6.6%; +6c [4.6%] Vol Index 8.3 [1 is avg] -
+Civmec,2017-10,17:52:20  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.36) offers dividend yield of 6.6%; +6c [4.6%] Vol Index 8.3 [1 is avg] -
+Civmec,2017-10,14:06:50  [NEWBIF] (CIVM.SI) - Civmec continues to underperform Wee Hur by 18.8% in the past month -
+Civmec,2017-10,13:06:56  [NEWBIF] (CIVM.SI LUCS.SI) - Civmec continues to outperform Lum Chang by 7.2% in the past month -
+Civmec,2017-10,12:07:02  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings by 4.0% in the past month -
+Civmec,2017-10,12:07:01  [NEWBIF] (CIVM.SI WHHL.SI) - Wee Hur continues to outperform Civmec by 18.8% in the past month -
+Civmec,2017-10,11:07:19  [NEWBIF] (CIVM.SI SOIL.SI) - Civmec continues to outperform Soilbuild Construction by 15.9% in the past month -
+Civmec,2017-10,06:06:59  [AUSCON] (CIVM.SI CVL.AX) - Weekly: Civmec (CVL: $A1.30) jumps 9% - outperforming 87% of stocks; +11c [9.2%] Vol Index 4.6 [1 is avg] -
+Civmec,2017-10,08:22:06  [GLOWEE] (CIVM.SI .AORD) - Weekly: Civmec (CVL: $A1.30) jumps 9% - outperforming 87% of stocks; +11c [9.2%] Vol Index 4.6 [1 is avg] -
+Civmec,2017-10,18:17:17  [AUSCON] (CIVM.SI CVL.AX) - Weekly: Civmec (CVL: $A1.30) jumps 9% - outperforming 87% of stocks; +11c [9.2%] Vol Index 4.6 [1 is avg] -
+Civmec,2017-10,18:17:08  [GLOWEE] (CIVM.SI .AORD) - Weekly: Civmec (CVL: $A1.30) jumps 9% - outperforming 87% of stocks; +11c [9.2%] Vol Index 4.6 [1 is avg] -
+Civmec,2017-10,18:02:32  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.30) offers dividend yield of 6.9%; +3c [2.4%] Vol Index 8.4 [1 is avg] -
+Civmec,2017-10,17:57:07  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.30) hits year-high 6th time in three months; +3c [2.4%] Vol Index 8.4 [1 is avg] -
+Civmec,2017-10,11:07:42  [GLOSTO] (CIVM.SI) - Friday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-10,21:31:05  [STOCKP] - On Thursday 24th of October Civmec Singapore trades 2.46 percent higher -
+Civmec,2017-10,18:02:12  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.27) offers dividend yield of 7.1%; +2c [1.6%] Vol Index 8.9 [1 is avg] -
+Civmec,2017-10,18:02:06  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.27) up 4.1% in 2 days; +5c [4.1%] Vol Index 5.5 [1 is avg] -
+Civmec,2017-10,11:07:38  [GLOSTO] (CIVM.SI) - Traders look to see if Civmec's recent rally will continue -
+Civmec,2017-10,17:57:05  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.25) offers dividend yield of 7.2%; +3c [2.5%] Vol Index 2.1 [1 is avg] -
+Civmec,2017-10,"17:57:02  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.25) climbs 2.5%, 2 days' volume in a day; +3c [2.5%] Vol Index 2.1 [1 is avg] -"
+Civmec,2017-10,15:06:43  [NEWBIF] (CIVM.SI) - The Long-Term Bullish Case For Civmec -
+Civmec,2017-10,14:07:16  [NEWBIF] (CIVM.SI) - How Civmec's Tax Rate compares to Its Peers -
+Civmec,2017-10,13:07:20  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-10,12:07:24  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-10,11:07:43  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-10,19:08:09  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings by 20.0% year to date -
+Civmec,2017-10,18:12:28  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) by 31.2% year to date -
+Civmec,2017-10,17:57:26  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.22) offers dividend yield of 7.4%; -2c [1.6%] Vol Index 2.2 [1 is avg] -
+Civmec,2017-10,17:57:21  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.22) offers dividend yield of 7.4%; -2c [1.6%] Vol Index 2.2 [1 is avg] -
+Civmec,2017-10,17:12:34  [NEWBIF] (CIVM.SI SOIL.SI) - Civmec continues to underperform Soilbuild Construction by 130.8% year to date -
+Civmec,2017-10,17:12:32  [NEWBIF] (CIVM.SI WHHL.SI) - Wee Hur continues to outperform Civmec by 84.7% year to date -
+Civmec,2017-10,15:07:30  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-10,14:07:37  [NEWBIF] (CIVM.SI SOIL.SI) - How Civmec's dividend compares to Soilbuild Construction -
+Civmec,2017-10,14:07:37  [NEWBIF] (CIVM.SI WHHL.SI) - How Wee Hur's dividend compares to Civmec -
+Civmec,2017-10,13:07:12  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-10,12:07:38  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-10,11:07:54  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Its Peers -
+Civmec,2017-10,17:57:02  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.24) gains 4.2% strengthening above moving average price; +5c [4.2%] Vol Index 2.2 [1 is avg] -
+Civmec,2017-10,14:06:53  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to outperform PEC by 9.6% year to date -
+Civmec,2017-10,13:06:56  [NEWBIF] (CIVM.SI) - Civmec continues to underperform Wee Hur by 84.7% year to date -
+Civmec,2017-10,12:07:02  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings by 53.4% year to date -
+Civmec,2017-10,11:07:29  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng by 10.4% year to date -
+Civmec,2017-10,"06:07:02  [AUSCON] (CIVM.SI CVL.AX) - Weekly: Civmec (CVL: $A1.19) slides 7.8%, 3 weeks' volume in a week; -10c [7.8%] Vol Index 2.6 [1 is avg] -"
+Civmec,2017-10,17:41:09  [STOCKP] - Civmec Singapore (CVL.AX) is trading -1.59 percent lower on Saturday 19th of October and has a trading volume of AUD 274.2 k -
+Civmec,2017-10,"08:22:23  [GLOWEE] (CIVM.SI .AORD) - Weekly: Civmec (CVL: $A1.19) slides 7.8%, 3 weeks' volume in a week; -10c [7.8%] Vol Index 2.6 [1 is avg] -"
+Civmec,2017-10,"18:22:19  [GLOWEE] (CIVM.SI .AORD) - Weekly: Civmec (CVL: $A1.19) slides 7.8%, 3 weeks' volume in a week; -10c [7.8%] Vol Index 2.6 [1 is avg] -"
+Civmec,2017-10,"18:17:30  [AUSCON] (CIVM.SI CVL.AX) - Weekly: Civmec (CVL: $A1.19) slides 7.8%, 3 weeks' volume in a week; -10c [7.8%] Vol Index 2.6 [1 is avg] -"
+Civmec,2017-10,18:02:46  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.19) offers Price Earnings growth of 0.5; -5c [4.0%] -
+Civmec,2017-10,"18:02:31  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.19) accelerates decline, down 5.6% in 2 days; -7c [5.6%] Vol Index 2.5 [1 is avg] -"
+Civmec,2017-10,18:02:36  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.24) drops 1.6% on increasing volatility; -2c [1.6%] Vol Index 3.9 [1 is avg] -
+Civmec,2017-10,16:20:08  [STOCKP] - Civmec Australia is trading 0.79 percent higher with a volume of AUD 67.1 k on Thursday 17th of October -
+Civmec,2017-10,12:31:10  [PUBT] (CVL.AX CIVM.SI) - Civmec Limited - Investor Presentation Morgans October 2024 -
+Civmec,2017-10,11:07:39  [GLOSTO] (CIVM.SI) - Thursday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-10,06:31:10  [PLUMED] (CIVM.SI) - CIVMEC LIMITED: CIVMEC AND NVL ENTER INTO HEADS OF AGREEMENT FOR OWNERSHIP TRANSFER OF LUERSSEN AUSTRALIA -
+Civmec,2017-10,20:29:44  [ASX] (CVL.AX) - Civmec Investor Presentation - Morgans Conference 2024-CVL.AX -
+Civmec,2017-10,20:20:56  [SGX] (CVL.AX CIVM.SI) - PDF 1: CIVMEC LIMITED (Civmec Investor Presentation - Morgans Conference 2024) -
+Civmec,2017-10,20:20:27  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Civmec Investor Presentation - Morgans Conference 2024) -
+Civmec,2017-10,20:17:54  [PUBT] (CVL.AX CIVM.SI) - Civmec Limited - Civmec Welcomes the Announcement Regarding a New Defence Precinct at Henderson -
+Civmec,2017-10,17:57:13  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.26) offers Price Earnings growth of 0.53; Vol Index 4.8 [1 is avg] -
+Civmec,2017-10,16:08:09  [SINBUS] (CIVM.SI) - Civmec to acquire Luerssen Australia in non-binding agreement with NVL -- -
+Civmec,2017-10,15:07:11  [NEWBIF] (CIVM.SI) - The Long-Term Bullish Case For Civmec -
+Civmec,2017-10,14:07:26  [NEWBIF] (CIVM.SI) - How Civmec's Tax Rate compares to Its Peers -
+Civmec,2017-10,13:07:10  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-10,12:07:13  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-10,"12:05:45  [BUSTIM] (CIVM.SI) - Stocks to watch: SIA, CDLHT, Straits Trading, Civmec, Food Innovators -- -"
+Civmec,2017-10,11:08:16  [GLOSTO] (CIVM.SI) - Investors concerned as Civmec down in recent days -
+Civmec,2017-10,11:07:31  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-10,21:39:10  [WESAUT] (CIVM.SI) - Civmec signs deal to buy German maker of RAN's new patrol boats -- -
+Civmec,2017-10,21:38:54  [SIGDEV] (CVL.AX CIVM.SI) - Civmec Signs HOA For Luerssen Australia Ownership Transfer -
+Civmec,2017-10,21:38:44  [BUSTIM] (CIVM.SI) - Civmec inks deal detailing transfer of ownership of NVL subsidiary -- -
+Civmec,2017-10,21:29:00  [RTRS] (CVL.AX) - Civmec Signs HOA For Luerssen Australia Ownership Transfer (BRIEF) -
+Civmec,2017-10,20:20:28  [RTRS] (CVL.AX) - CIVMEC - TO AGREE ON FRAMEWORK FOR INTERIM PERIOD IN WHICH LUERSSEN AUSTRALIA AND CIVMEC WILL CLOSELY COOPERATE IN MANAGING SEA1180 PROJECT -
+Civmec,2017-10,20:20:17  [SGX] (CVL.AX CIVM.SI) - PDF 1: CIVMEC LIMITED (Civmec and Nvl enter into Heads of Agreement for Ownership Transfer of Luerssen Australia) -
+Civmec,2017-10,20:20:17  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Civmec and Nvl enter into Heads of Agreement for Ownership Transfer of Luerssen Australia) -
+Civmec,2017-10,20:19:26  [ASX] (CVL.AX) - ASX ALERT-Civmec signs HoA for Luerssen Australia Ownership Transfer-CVL.AX -
+Civmec,2017-10,18:12:20  [NEWBIF] (CIVM.SI SOIL.SI) - Civmec continues to outperform Soilbuild Construction by 34.9% in the past three months -
+Civmec,2017-10,18:12:20  [NEWBIF] (CIVM.SI WHHL.SI) - Wee Hur continues to outperform Civmec by 33.5% in the past three months -
+Civmec,2017-10,17:13:43  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng by 8.5% in the past three months -
+Civmec,2017-10,15:07:17  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-10,14:07:16  [NEWBIF] (CIVM.SI WHHL.SI) - How Wee Hur's dividend compares to Civmec -
+Civmec,2017-10,14:07:16  [NEWBIF] (CIVM.SI SOIL.SI) - How Civmec's dividend compares to Soilbuild Construction -
+Civmec,2017-10,13:07:23  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-10,12:07:38  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-10,11:07:36  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Its Peers -
+Civmec,2017-10,07:09:07  [STOCKP] - On Monday 14th of October Civmec Australia trades -0.78 percent lower -
+Civmec,2017-10,"04:27:46  [GLOUPF] (CIVM.SI CVL.AX) - FY2024 Annual Report: Civmec Net Profit up 12% Corporate Wire Date: 15 October 2024 02:31 AEDT Release Date: October 03, 2024 -"
+Civmec,2017-10,"17:52:19  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.26) falls 2.3%, 3 days' volume in a day; -3c [2.3%] Vol Index 3.3 [1 is avg] -"
+Civmec,2017-10,14:07:26  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC by 1.5% in the past three months -
+Civmec,2017-10,13:06:52  [NEWBIF] (CIVM.SI) - Civmec continues to underperform Wee Hur by 37.3% in the past three months -
+Civmec,2017-10,12:07:00  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) by 8.7% in the past three months -
+Civmec,2017-10,11:07:27  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings by 22.2% in the past three months -
+Civmec,2017-10,06:07:34  [AUSCON] (CIVM.SI CVL.AX) - Weekly: Civmec (CVL: $A1.29) accelerates rise: up 10% in 2 weeks; +12c [10.3%] -
+Civmec,2017-10,12:58:16  [STOCKP] - Civmec Australia (CVLDA.OLD.AX) is trading 2.38 percent higher on Saturday 12th of October and has a trading volume of AUD 29.2 k -
+Civmec,2017-10,08:12:11  [GLOWEE] (CIVM.SI USD=) - Weekly: Civmec (CVL: $A1.29) accelerates rise: up 10% in 2 weeks; +9c [7.5%] Vol Index 3.1 [1 is avg] -
+Civmec,2017-10,18:12:09  [AUSCON] (CIVM.SI CVL.AX) - Weekly: Civmec (CVL: $A1.29) accelerates rise: up 10% in 2 weeks; +12c [10.3%] -
+Civmec,2017-10,18:12:05  [GLOWEE] (CIVM.SI .AORD) - Weekly: Civmec (CVL: $A1.29) accelerates rise: up 10% in 2 weeks; +9c [7.5%] Vol Index 3.1 [1 is avg] -
+Civmec,2017-10,"12:12:32  [NEWPEO] (CIVM.SI) - Ong Beng Hong Director of Civmec in top 12% of Singaporean stocks Friday October 11, 2024 -"
+Civmec,2017-10,"12:12:28  [NEWPEO] (CIVM.SI) - Gary Gray Director of Civmec in top 9% of Singaporean stocks Friday October 11, 2024 -"
+Civmec,2017-10,11:07:29  [GLOSTO] (CIVM.SI) - Friday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-10,"17:57:07  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.29) up 4.0% in 2 days, hits 66-day high; +5c [4.0%] Vol Index 4.5 [1 is avg] -"
+Civmec,2017-10,"12:17:10  [NEWPEO] (CIVM.SI) - Civmec will appoint Ong Beng Hong as director Wednesday October 09, 2024 -"
+Civmec,2017-10,"12:17:08  [NEWPEO] (CIVM.SI) - Civmec will appoint Gary Gray as director Wednesday October 09, 2024 -"
+Civmec,2017-10,11:07:30  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-10,20:32:35  [SGX] (CVL.AX CIVM.SI) - PDF 3: CIVMEC LIMITED (Notice of Change of Interest - Kevin James Deery) -
+Civmec,2017-10,20:32:35  [SGX] (CVL.AX CIVM.SI) - PDF 3: CIVMEC LIMITED (Notice of Change of Interest - Kevin James Deery) -
+Civmec,2017-10,20:32:35  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Notice of Change of Interest - Kevin James Deery) -
+Civmec,2017-10,20:28:51  [SGX] (CVL.AX CIVM.SI) - PDF 1: CIVMEC LIMITED (Vesting of Performance Rights Pursuant to the Civmec Key Senior Executives Performance Rights Plan) -
+Civmec,2017-10,20:28:51  [SGX] (CVL.AX CIVM.SI) - CIVMEC LIMITED (Vesting of Performance Rights Pursuant to the Civmec Key Senior Executives Performance Rights Plan) -
+Civmec,2017-10,18:02:43  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.26) lifts 1.6% strengthening above moving average price; +2c [1.6%] Vol Index 2.8 [1 is avg] -
+Civmec,2017-10,15:07:34  [NEWBIF] (CIVM.SI) - The Long-Term Bullish Case For Civmec -
+Civmec,2017-10,14:07:37  [NEWBIF] (CIVM.SI SOIL.SI) - Civmec continues to outperform Soilbuild Construction by 10.1% in the past month -
+Civmec,2017-10,13:07:14  [NEWBIF] (CIVM.SI WHHL.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-10,12:07:36  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-10,11:07:44  [GLOSTO] (CIVM.SI) - Wednesday's Preview: Can Civmec rebound after being down? -
+Civmec,2017-10,11:07:41  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-10,19:08:24  [NEWBIF] (CIVM.SI) - How Civmec's Tax Rate compares to Its Peers -
+Civmec,2017-10,18:12:44  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to outperform OKP Holdings by 13.2% in the past month -
+Civmec,2017-10,17:57:22  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.24) shares fall after 4 days of rises; -4c [3.1%] Vol Index 2.8 [1 is avg] -
+Civmec,2017-10,17:39:10  [STOCKP] - Civmec Australia is trading 4.17 percent higher with a volume of AUD 10.5 k on Tuesday 8th of October -
+Civmec,2017-10,17:12:47  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng by 8.7% in the past month -
+Civmec,2017-10,17:12:46  [NEWBIF] (CIVM.SI WHHL.SI) - Wee Hur continues to outperform Civmec by 42.6% in the past month -
+Civmec,2017-10,15:07:41  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-10,14:07:29  [NEWBIF] (CIVM.SI SOIL.SI) - How Civmec's dividend compares to Soilbuild Construction -
+Civmec,2017-10,14:07:28  [NEWBIF] (WHHL.SI) - How Wee Hur's dividend compares to Civmec -
+Civmec,2017-10,13:07:44  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-10,12:07:40  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-10,11:07:10  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Its Peers -
+Civmec,2017-10,22:57:02  [STOCKP] - Civmec Australia is trading 1.27 percent higher with a volume of AUD 331.1 k on Monday 7th of October -
+Civmec,2017-10,"20:32:39  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.28) keeps rising, up 9.4% in 4 days; +11c [9.4%] Vol Index 2.4 [1 is avg] -"
+Civmec,2017-10,"16:42:18  [GLOSTP] (CIVM.SI .AORD) - Monthly: Civmec (CVL: $A1.17) increases 2%, beating 81% of stocks -"
+Civmec,2017-10,14:06:55  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to underperform PEC by 1.8% in the past month -
+Civmec,2017-10,13:06:53  [NEWBIF] (CIVM.SI) - Civmec continues to underperform Wee Hur by 48.2% in the past month -
+Civmec,2017-10,12:06:56  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) by 11.1% in the past month -
+Civmec,2017-10,11:07:04  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings by 12.6% in the past month -
+Civmec,2017-10,10:07:27  [GLOSTO] (CIVM.SI) - Monday's Preview: Can Civmec continue its recent gains? -
+Civmec,2017-10,18:07:37  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.20) in 3rd consecutive rise; +3c [2.6%] Vol Index 2.9 [1 is avg] -
+Civmec,2017-10,10:07:15  [NEWBIF] (CIVM.SI OKPH.SI) - Civmec continues to underperform OKP Holdings by 24.9% year to date -
+Civmec,2017-10,08:48:09  [YAHNEX] (CIVM.SI) - Is Civmec Limited's (ASX:CVL) Latest Stock Performance A Reflection Of Its Financial Health? -- -
+Civmec,2017-10,01:27:07  [TICREP] (CIVM.SI) - Civmec Limited (ASX:CVL) Increases Dividend to $0.04 Per Share -
+Civmec,2017-10,01:24:44  [ETFDAI] (CIVM.SI) - Civmec Limited (ASX:CVL) Increases Dividend to $0.04 Per Share -- -
+Civmec,2017-10,20:41:54  [STOCKP] - Civmec Australia (CVLDA.OLD.AX) is trading 0.86 percent higher on Thursday 3rd of October and has a trading volume of AUD 113.7 k -
+Civmec,2017-10,17:57:11  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.19) in 2nd consecutive rise; +2c [1.7%] Vol Index 1.6 [1 is avg] -
+Civmec,2017-10,12:07:14  [NEWBIF] (CIVM.SI WHHL.SI) - Wee Hur continues to outperform Civmec by 46.3% year to date -
+Civmec,2017-10,"17:52:48  [AUSCON] (CIVM.SI CVL.AX) - Civmec (CVL: $A1.18) increases, 2 days' volume in a day; +1c [0.8%] Vol Index 2.0 [1 is avg] -"
+Civmec,2017-10,17:23:21  [NEWBIF] (CIVM.SI) - The Long-Term Bullish Case For Civmec -
+Civmec,2017-10,16:17:23  [NEWBIF] (CIVM.SI) - How Civmec's Tax Rate compares to Its Peers -
+Civmec,2017-10,15:07:39  [NEWBIF] (CIVM.SI SOIL.SI) - Civmec continues to underperform Soilbuild Construction by 143.4% year to date -
+Civmec,2017-10,14:11:21  [NEWBIF] (CIVM.SI HLSG.SI) - Civmec continues to outperform Hock Lian Seng by 5.9% year to date -
+Civmec,2017-10,13:34:16  [NEWBIF] (CIVM.SI PECL.SI) - Civmec continues to outperform PEC by 8.6% year to date -
+Civmec,2017-10,12:07:59  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Wee Hur -
+Civmec,2017-10,11:07:12  [NEWBIF] (CIVM.SI OKPH.SI) - How Civmec's dividend compares to OKP Holdings -
+Civmec,2017-10,10:08:09  [NEWBIF] (LKH.SI CIVM.SI) - How Civmec's dividend compares to Low Keng Huat (Singapore) -
+Civmec,2017-10,10:07:49  [GLOSTO] (CIVM.SI) - Investors look to see if Civmec's recent rally will continue -
+Civmec,2017-10,05:56:17  [STOCKP] - Civmec Australia is trading 0 percent unchanged with a volume of AUD 94.7 k on Tuesday 1st of October -
+Civmec,2017-10,18:08:19  [NEWBIF] (CIVM.SI) - Civmec continues to underperform Wee Hur by 52.7% year to date -
+Civmec,2017-10,17:12:59  [NEWBIF] (LKH.SI CIVM.SI) - Civmec continues to outperform Low Keng Huat (Singapore) by 33.4% year to date -
+Civmec,2017-10,16:19:25  [NEWBIF] (CIVM.SI KSHH.SI) - Civmec continues to outperform KSH Holdings by 49.8% year to date -
+Civmec,2017-10,14:07:14  [NEWBIF] (CIVM.SI KSHH.SI) - How Civmec's dividend compares to KSH Holdings -
+Civmec,2017-10,13:07:19  [NEWBIF] (CIVM.SI SOIL.SI) - How Civmec's dividend compares to Soilbuild Construction -
+Civmec,2017-10,13:07:18  [NEWBIF] (CIVM.SI WHHL.SI) - How Wee Hur's dividend compares to Civmec -
+Civmec,2017-10,12:07:32  [NEWBIF] (CIVM.SI HLSG.SI) - How Civmec's dividend compares to Hock Lian Seng -
+Civmec,2017-10,11:07:15  [NEWBIF] (CIVM.SI PECL.SI) - How Civmec's dividend compares to PEC -
+Civmec,2017-10,10:07:18  [NEWBIF] (CIVM.SI) - How Civmec's dividend compares to Its Peers -
+Civmec,2017-10,08:00:28  [STOCKP] - Civmec Australia trades 1.74 percent higher on Monday 30th of September -
+Civmec,2017-10,"06:08:42  [AUSCON] (CIVM.SI CVL.AX) - Monthly: Civmec (CVL: $A1.17) increases 2%, beating 81% of stocks -"

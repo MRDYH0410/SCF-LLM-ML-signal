@@ -1,0 +1,511 @@
+firm_id,date,text
+HubSpot,2017-2,"23:48:46  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $612.69) Thursday February 29, 2024 07:02 EST -"
+HubSpot,2017-2,"22:47:58  [NEWNYS] (HUBS.N .SPX) - Hubspot in 4th consecutive rise, nears high Tuesday, February 27, 2024 10:00:00 -"
+HubSpot,2017-2,21:48:19  [GLOSTO] (HUBS.N) - Update: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-2,"20:22:53  [GLOUPF] (HUBS.N) - FY2023 Annual Report: Hubspot Revenue up 25% Corporate Wire Date: 29 February 2024 02:30 EST Release Date: February 16, 2024 -"
+HubSpot,2017-2,19:23:10  [NEWWIR] (HUBS.N) - Hubspot: File SEC Form 10-K - Management's Discussion and Analysis 10-K -
+HubSpot,2017-2,18:49:29  [STOCKP] (HUBS.N) - Hubspot trades -0.47 percent lower on Thursday 29th of February -
+HubSpot,2017-2,"11:00:00  [GLOSTP] (HUBS.N .SPX) - Monthly: Hubspot (HUBS: $618.81) rises for a third consecutive month, a three-month rise of 25% -"
+HubSpot,2017-2,"10:13:09  [STOOBS] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Position Lowered by Karani Asset Management LLC -"
+HubSpot,2017-2,07:48:20  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $616.92) strengthens above moving average price; +$1.31 [0.2%] -
+HubSpot,2017-2,03:54:06  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-2,"02:15:16  [TICREP] (HUBS.N) - 604 Shares in HubSpot, Inc. (NYSE:HUBS) Purchased by MQS Management LLC -"
+HubSpot,2017-2,"01:42:48  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $614.80) lifts 1.3% strengthening above moving average price Wednesday February 28, 2024 07:02 EST -"
+HubSpot,2017-2,"01:23:10  [DAILYQ] (HUBS.N) - MQS Management LLC Purchases New Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,00:45:55  [STOCKP] (HUBS.N) - Hubspot (HUBS) is trading 1.43 percent higher on Wednesday 28th of February and has a trading volume of USD 215.2 mn -
+HubSpot,2017-2,"23:06:47  [TRADAJ] (HUBS.N) - Meiji Yasuda Asset Management Co Ltd. Has $261,000 Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"23:06:44  [ZOLCOM] (HUBS.N) - Meiji Yasuda Asset Management Co Ltd. Acquires 90 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"11:00:00  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a third consecutive day, a three-day rise of 3.4% Monday, February 26, 2024 11:00:00 -"
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $615.61) Wednesday February 28, 2024 07:02 EST -"
+HubSpot,2017-2,"11:00:00  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a third consecutive day, a three-day rise of 3.4% Monday, February 26, 2024 10:00:00 -"
+HubSpot,2017-2,11:00:00  [NEWWIR] (HUBS.N) - Hubspot: File SEC Form 10-K - Management's Discussion and Analysis 10-K -
+HubSpot,2017-2,"10:06:50  [COMFIN] (HUBS.N) - Knollwood Investment Advisory LLC Makes New $1.27 Million Investment in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"08:41:36  [WATNEW] (HUBS.N) - Knollwood Investment Advisory LLC Takes Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"06:05:59  [MARDAJ] (HUBS.N) - Reuter James Wealth Management LLC Lowers Stock Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"04:46:17  [TICREP] (HUBS.N) - Truvestments Capital LLC Sells 48 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"04:11:35  [DAILYQ] (HUBS.N) - Truvestments Capital LLC Trims Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"02:11:47  [CERGEM] (HUBS.N) - Vinva Investment Management Ltd Buys 599 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"22:56:03  [TRADAJ] (HUBS.N) - 1,414 Shares in HubSpot, Inc. (NYSE:HUBS) Purchased by Dark Forest Capital Management LP -"
+HubSpot,2017-2,"22:11:32  [AMEBAN] (HUBS.N) - Envestnet Portfolio Solutions Inc. Purchases New Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $614.80) rises in 4 out of last 5 days, 5-day rise of 3.3%; +$7.84 [1.3%] (UPDATE) -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $613.64) lifts 1.1% strengthening above moving average price; +$6.68 [1.1%] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $614.56) lifts 1.3% strengthening above moving average price; +$7.60 [1.3%] -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (HUBS.N .SPX) - Confirmatory Bullish Trend: Hubspot (HUBS: $618.24) in 4th consecutive rise Tuesday February 27, 2024 10:30 EST -"
+HubSpot,2017-2,"11:00:00  [NEWNYS] (HUBS.N .SPX) - Hubspot in 4th consecutive rise, nears high Tuesday, February 27, 2024 10:00:00 -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $618.24) lifts 1.9% strengthening above moving average price; +$11.28 [1.9%] -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $607.13) strengthens above moving average price Tuesday February 27, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $606.96) Tuesday February 27, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Update: Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,"04:11:07  [MARDAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Westfield Capital Management Co. LP -"
+HubSpot,2017-2,"02:12:27  [CERGEM] (HUBS.N) - Primecap Management Co. CA Has $46.17 Million Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"00:07:03  [ZOLCOM] (NTRS.O HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Purchased by Northern Trust Corp -"
+HubSpot,2017-2,"22:31:09  [TRADAJ] (HUBS.N HSBA.L) - Hsbc Holdings PLC Has $10.03 Million Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,21:50:36  [STOCKP] (HUBS.N) - Hubspot trades 0.84 percent higher on Monday 26th of February -
+HubSpot,2017-2,"11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $607.13) keeps rising, up 3.0% in 3 days; +$1.73 [0.3%] (UPDATE) -"
+HubSpot,2017-2,"11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $607.13) keeps rising, up 3.0% in 3 days; +$1.73 [0.3%] (UPDATE) -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $612.29) lifts 1.1% strengthening above moving average price; +$6.88 [1.1%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $612.29) lifts 1.1% strengthening above moving average price; +$6.88 [1.1%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $611.47) climbs 1.0% strengthening above moving average price; +$6.06 [1.0%] -
+HubSpot,2017-2,"11:00:00  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a third consecutive day, a three-day rise of 3.4% Monday, February 26, 2024 11:00:00 -"
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.36) strengthens above moving average price; +$3.95 [0.7%] -
+HubSpot,2017-2,"11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.36) keeps rising, up 3.4% in 3 days; +$3.95 [0.7%] -"
+HubSpot,2017-2,"11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.15) keeps rising, up 3.4% in 3 days; +$3.74 [0.6%] -"
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $605.42) inches higher, resistance at 12-day EMA Monday February 26, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $605.41) Monday February 26, 2024 07:02 EST -"
+HubSpot,2017-2,"11:00:00  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a second consecutive day, a two-day rise of 3.1% Friday, February 23, 2024 10:00:00 -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Update: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,"03:06:10  [MARDAJ] (8471.HK HUBS.N) - Numerai GP LLC Acquires New Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"02:31:29  [DAILYQ] (8471.HK HUBS.N) - Numerai GP LLC Acquires New Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,14:55:37  [GURCOM] (HUBS.N) - Hubspot's valuation signals irrational exuberance despite uncertain conditions ahead -
+HubSpot,2017-2,"01:11:20  [AMEBAN] (HUBS.N) - Envestnet Asset Management Inc. Grows Stock Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"11:00:00  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Thursday February 22, 2024 -"
+HubSpot,2017-2,"01:21:06  [TICREP] (HUBS.N) - V Square Quantitative Management LLC Buys 33 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"21:06:12  [MARDAJ] (HUBS.N) - Brokerages Set HubSpot, Inc. (NYSE:HUBS) Target Price at $631.54 -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $605.42) strengthens above moving average price; Executive Chairman Brian Halligan sells; +$5.08 [0.8%] (UPDATE) -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $605.42) strengthens above moving average price; Executive Chairman Brian Halligan sells; +$5.08 [0.8%] (UPDATE) -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $605.06) up 2.7% in 2 days; Executive Chairman Brian Halligan sells; +$4.71 [0.8%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $607.70) climbs 1.2% strengthening above moving average price; +$7.35 [1.2%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $607.70) climbs 1.2% strengthening above moving average price; +$7.35 [1.2%] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $608.34) lifts 1.3% strengthening above moving average price; +$7.99 [1.3%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $608.34) lifts 1.3% strengthening above moving average price; +$7.99 [1.3%] -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (HUBS.N .SPX) - Confirmatory Bullish Trend: Hubspot (HUBS: $602.03) in 2nd consecutive rise Friday February 23, 2024 11:36 EST -"
+HubSpot,2017-2,"11:00:00  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a second consecutive day, a two-day rise of 2.2% Friday, February 23, 2024 11:00:00 -"
+HubSpot,2017-2,"11:00:00  [GLOBUL] (HUBS.N .SPX) - Confirmatory Bullish Trend: Hubspot (HUBS: $607.37) up 3.1% in 2 days Friday February 23, 2024 10:30 EST -"
+HubSpot,2017-2,"11:00:00  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a second consecutive day, a two-day rise of 3.1% Friday, February 23, 2024 10:00:00 -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $607.37) lifts 1.2% strengthening above moving average price; +$7.02 [1.2%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $607.37) lifts 1.2% strengthening above moving average price; +$7.02 [1.2%] -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $600.22) lifts 1.9% strengthening above moving average price Friday February 23, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $600.35) Friday February 23, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Update: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,"01:14:26  [NEWBIZ] (HUBS.N) - February 19, 2024: TEAMWORKCOM 11 powerful project management integrations for your HubSpot CRM -"
+HubSpot,2017-2,"21:07:02  [ZOLCOM] (HUBS.N) - Dawson Alyssa Harvey Sells 1,086 Shares of HubSpot, Inc. (NYSE:HUBS) Stock -"
+HubSpot,2017-2,"21:06:58  [TRADAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Insider Sells $671,419.50 in Stock -"
+HubSpot,2017-2,"11:00:00  [NEWPEO] (HUBS.N) - Hubspot chief legal officer Harvey Dawson Alyssa sells shares worth $671,416 Tuesday February 20, 2024 -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $600.22) inches higher; Chief Legal Officer Harvey Dawson Alyssa sells; +$10.99 [1.9%] (UPDATE) -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $602.75) climbs 2.3% strengthening above moving average price; Chief Legal Officer Harvey Dawson Alyssa sells; +$13.52 [2.3%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $605.0) gains 2.7% strengthening above moving average price; +$15.77 [2.7%] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $605.39) climbs 2.7% strengthening above moving average price; +$16.16 [2.7%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $605.39) climbs 2.7% strengthening above moving average price; +$16.16 [2.7%] -
+HubSpot,2017-2,"11:00:00  [NEWPEO] (HUBS.N) - Hubspot chief legal officer Harvey Dawson Alyssa sells shares worth $671,416 Tuesday February 20, 2024 -"
+HubSpot,2017-2,"11:00:00  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $589.22) drops to one-month low Thursday February 22, 2024 07:02 EST -"
+HubSpot,2017-2,"11:00:00  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $589.23) Thursday February 22, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-2,"11:00:00  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Tuesday February 20, 2024 -"
+HubSpot,2017-2,"03:06:15  [MARDAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Stake Lowered by Regal Investment Advisors LLC -"
+HubSpot,2017-2,02:56:16  [ZACKSC] (0046.HK HUBS.N) - Here's Why HubSpot (HUBS) is a Strong Momentum Stock -
+HubSpot,2017-2,"02:26:39  [DAILYQ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Stake Lowered by Regal Investment Advisors LLC -"
+HubSpot,2017-2,"02:11:31  [CERGEM] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Bought by UniSuper Management Pty Ltd -"
+HubSpot,2017-2,22:50:43  [STOCKP] (HUBS.N) - With a trading volume of USD 336.1 mn HUBS trades -2.96 percent lower today -
+HubSpot,2017-2,"18:36:22  [ZOLCOM] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Receives $631.54 Consensus PT from Analysts -"
+HubSpot,2017-2,"18:36:21  [TRADAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Receives $631.54 Consensus Price Target from Brokerages -"
+HubSpot,2017-2,"17:11:13  [COMFIN] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Insider Sells $671,419.50 in Stock -"
+HubSpot,2017-2,11:00:00  [PLUCOM] (HUBS.N) - HubSpot to Attend the Morgan Stanley Technology Conference -
+HubSpot,2017-2,11:00:00  [BENZIN] (HUBS.N) - $100 Invested In HubSpot 5 Years Ago Would Be Worth This Much Today -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $589.22) down 4.0% in 2 days; Chief Legal Officer Harvey Dawson Alyssa sells; -$6.12 [-1.0%] (UPDATE) -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $585.59) drops to one-month low; Chief Legal Officer Harvey Dawson Alyssa sells; -$9.75 [-1.6%] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $585.44) drops to one-month low; -$9.90 [-1.7%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-2,"11:00:00  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $585.47) down 4.6% in 2 days Wednesday February 21, 2024 10:31 EST -"
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $585.47) drops to one-month low; -$9.87 [-1.7%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,"11:00:00  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $595.34) Wednesday February 21, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - ICYMI: Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Update: Wednesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,"11:00:00  [NEWPEO] (HUBS.N) - Hubspot chief legal officer Harvey Dawson Alyssa sells shares worth $671,416 Tuesday February 20, 2024 -"
+HubSpot,2017-2,08:15:00  [BSW] (MS.N HUBS.N) - HubSpot to Present at the Morgan Stanley Technology Conference -
+HubSpot,2017-2,"04:06:43  [TICREP] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Clearbridge Investments LLC -"
+HubSpot,2017-2,"04:06:04  [CERGEM] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Clearbridge Investments LLC -"
+HubSpot,2017-2,"03:06:20  [MARDAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Stake Lessened by Acadian Asset Management LLC -"
+HubSpot,2017-2,18:46:13  [STOCKP] (HUBS.N) - With a trading volume of USD 484.4 mn HUBS trades 0.75 percent higher today -
+HubSpot,2017-2,17:30:00  [INDTEL] (HUBS.N) - Wildix Joins HubSpot App Marketplace: Transforming Business Communications with Advanced Integration -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,11:00:00  [GLOWEE] (HUBS.N .SPX) - Weekly: Hubspot (HUBS: $613.50) in bottom 4% performers of NYSE market in past week; -$33.13 [5.1%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Weekly: Hubspot (HUBS: $613.50) in bottom 4% performers of NYSE market in past week; -$33.13 [5.1%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Update: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,"01:11:48  [DAILYQ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Stake Trimmed by Pearl River Capital LLC -"
+HubSpot,2017-2,"01:11:21  [TICREP] (HUBS.N) - Pearl River Capital LLC Sells 4,116 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,22:05:58  [CERGEM] (HUBS.N) - Truist Financial Raises HubSpot (NYSE:HUBS) Price Target to $700.00 -
+HubSpot,2017-2,22:05:58  [CERGEM] (HUBS.N) - The Goldman Sachs Group Raises HubSpot (NYSE:HUBS) Price Target to $656.00 -
+HubSpot,2017-2,22:05:57  [CERGEM] (HUBS.N) - HubSpot (NYSE:HUBS) PT Raised to $715.00 at Wolfe Research -
+HubSpot,2017-2,21:05:56  [MARDAJ] (HUBS.N) - Piper Sandler Increases HubSpot (NYSE:HUBS) Price Target to $675.00 -
+HubSpot,2017-2,21:05:50  [MARDAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Raised to $650.00 at Evercore ISI -
+HubSpot,2017-2,21:05:50  [MARDAJ] (HUBS.N) - Royal Bank of Canada Increases HubSpot (NYSE:HUBS) Price Target to $700.00 -
+HubSpot,2017-2,21:05:49  [MARDAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $630.00 Price Target at JPMorgan Chase & Co. -
+HubSpot,2017-2,20:56:21  [DAILYQ] (HUBS.N) - Truist Financial Raises HubSpot (NYSE:HUBS) Price Target to $700.00 -
+HubSpot,2017-2,20:56:14  [DAILYQ] (HUBS.N) - UBS Group Reiterates Neutral Rating for HubSpot (NYSE:HUBS) -
+HubSpot,2017-2,20:56:07  [TICREP] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $630.00 Price Target at JPMorgan Chase & Co. -
+HubSpot,2017-2,20:56:06  [TICREP] (HUBS.N) - UBS Group Reiterates Neutral Rating for HubSpot (NYSE:HUBS) -
+HubSpot,2017-2,20:56:00  [TICREP] (HUBS.N) - The Goldman Sachs Group Raises HubSpot (NYSE:HUBS) Price Target to $656.00 -
+HubSpot,2017-2,20:16:30  [DAILYQ] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $730.00 Price Target at Needham & Company LLC -
+HubSpot,2017-2,20:16:29  [DAILYQ] (HUBS.N) - Piper Sandler Increases HubSpot (NYSE:HUBS) Price Target to $675.00 -
+HubSpot,2017-2,19:50:56  [STOCKP] (HUBS.N) - Hubspot is trading -3.28 percent lower with a volume of USD 880.8 mn on Monday 19th of February -
+HubSpot,2017-2,"01:50:59  [TICREP] (019660.KQ HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Bought by Korea Investment CORP -"
+HubSpot,2017-2,"00:11:47  [ZOLCOM] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Holdings Lowered by Rhumbline Advisers -"
+HubSpot,2017-2,"00:11:43  [TRADAJ] (HUBS.N) - Rhumbline Advisers Decreases Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"22:11:12  [MARDAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Earns ""Outperform"" Rating from William Blair -"
+HubSpot,2017-2,22:11:10  [MARDAJ] (HUBS.N) - Wells Fargo & Company Boosts HubSpot (NYSE:HUBS) Price Target to $725.00 -
+HubSpot,2017-2,22:06:03  [CERGEM] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Increased to $675.00 by Analysts at Piper Sandler -
+HubSpot,2017-2,21:36:13  [TRADAJ] (HUBS.N) - Truist Financial Raises HubSpot (NYSE:HUBS) Price Target to $700.00 -
+HubSpot,2017-2,21:36:04  [TICREP] (HUBS.N) - Wolfe Research Boosts HubSpot (NYSE:HUBS) Price Target to $715.00 -
+HubSpot,2017-2,21:01:51  [ZOLCOM] (HUBS.N) - Wells Fargo & Company Boosts HubSpot (NYSE:HUBS) Price Target to $725.00 -
+HubSpot,2017-2,"21:01:38  [DAILYQ] (HUBS.N) - HubSpot (NYSE:HUBS) Earns ""Outperform"" Rating from William Blair -"
+HubSpot,2017-2,"18:06:28  [AMEBAN] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Given Average Rating of ""Moderate Buy"" by Brokerages -"
+HubSpot,2017-2,"04:36:07  [WATNEW] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Sees Significant Decrease in Short Interest -"
+HubSpot,2017-2,01:11:28  [AMEBAN] (HUBS.N) - Needham & Company LLC Increases HubSpot (NYSE:HUBS) Price Target to $730.00 -
+HubSpot,2017-2,00:36:16  [ZOLCOM] (HUBS.N) - Needham & Company LLC Increases HubSpot (NYSE:HUBS) Price Target to $730.00 -
+HubSpot,2017-2,23:46:29  [ZOLCOM] (HUBS.N) - Truist Financial Increases HubSpot (NYSE:HUBS) Price Target to $700.00 -
+HubSpot,2017-2,"22:11:36  [AMEBAN] (HUBS.N) - HubSpot's (HUBS) ""Outperform"" Rating Reiterated at William Blair -"
+HubSpot,2017-2,"21:56:44  [TRADAJ] (HUBS.N) - William Blair Reiterates ""Outperform"" Rating for HubSpot (NYSE:HUBS) -"
+HubSpot,2017-2,19:01:32  [ZOLCOM] (HUBS.N) - Evercore ISI Increases HubSpot (NYSE:HUBS) Price Target to $650.00 -
+HubSpot,2017-2,"19:01:31  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Given ""Neutral"" Rating at UBS Group -"
+HubSpot,2017-2,11:00:00  [GLOWEE] (HUBS.N .SPX) - Weekly: Hubspot (HUBS: $613.50) in bottom 4% performers of NYSE market in past week; -$33.13 [5.1%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,"10:06:11  [COMFIN] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Sees Large Decrease in Short Interest -"
+HubSpot,2017-2,"03:41:27  [ZOLCOM] (HUBS.N) - 1,334 Shares in HubSpot, Inc. (NYSE:HUBS) Acquired by Pathstone Family Office LLC -"
+HubSpot,2017-2,"03:41:18  [TRADAJ] (HUBS.N) - 1,334 Shares in HubSpot, Inc. (NYSE:HUBS) Purchased by Pathstone Family Office LLC -"
+HubSpot,2017-2,"03:07:04  [DAILYQ] (AV.L HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Position Raised by Aviva PLC -"
+HubSpot,2017-2,"03:06:49  [TICREP] (AV.L HUBS.N) - Aviva PLC Grows Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,01:46:38  [TRADAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $730.00 Price Target at Needham & Company LLC -
+HubSpot,2017-2,01:11:50  [MARDAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Increased to $700.00 by Analysts at Truist Financial -
+HubSpot,2017-2,01:07:10  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Raised to $675.00 at Piper Sandler -
+HubSpot,2017-2,00:21:49  [TRADAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Receives Neutral Rating from UBS Group -
+HubSpot,2017-2,00:21:47  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Given Outperform Rating at William Blair -
+HubSpot,2017-2,00:21:46  [TRADAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Raised to $650.00 at Evercore ISI -
+HubSpot,2017-2,00:21:45  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Raised to $650.00 at Evercore ISI -
+HubSpot,2017-2,23:46:12  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $656.00 Price Target at The Goldman Sachs Group -
+HubSpot,2017-2,22:42:02  [TRADAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Raised to $725.00 at Wells Fargo & Company -
+HubSpot,2017-2,22:41:59  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Increased to $715.00 by Analysts at Wolfe Research -
+HubSpot,2017-2,22:41:27  [TRADAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Increased to $715.00 by Analysts at Wolfe Research -
+HubSpot,2017-2,22:12:02  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Increased to $630.00 by Analysts at JPMorgan Chase & Co. -
+HubSpot,2017-2,21:46:38  [STOCKP] (HUBS.N) - Hubspot is trading -3.28 percent lower with a volume of USD 880.8 mn on Friday 16th of February -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $613.50) up 0.7% after an upgrade this week; +$4.54 [0.7%] Vol Index 1.2 [1 is avg] (UPDATE) -
+HubSpot,2017-2,11:00:00  [GLOWEE] (HUBS.N .SPX) - Weekly: Hubspot (HUBS: $613.50) in bottom 4% performers of NYSE market in past week; -$33.13 [5.1%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $613.50) up 0.7% after an upgrade this week; +$4.54 [0.7%] Vol Index 1.2 [1 is avg] (UPDATE) -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $612.13) strengthens above moving average price; +$3.17 [0.5%] -
+HubSpot,2017-2,"11:00:00  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $605.25) down 3.9% in 2 days Friday February 16, 2024 10:30 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-2,"11:00:00  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $608.96) Friday February 16, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-2,"11:00:00  [GLOBEA] (HUBS.N .SPX) - Hubspot (HUBS: $608.96) drops 3.3% on increasing volatility Friday February 16, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-2,11:00:00  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Update: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-2,"07:26:47  [WATNEW] (HUBS.N) - HubSpot (NYSE:HUBS) Earns ""Neutral"" Rating from UBS Group -"
+HubSpot,2017-2,07:06:09  [CERGEM] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $725.00 Price Target at Wells Fargo & Company -
+HubSpot,2017-2,06:06:33  [MARDAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Raised to $715.00 at Wolfe Research -
+HubSpot,2017-2,06:01:25  [DAILYQ] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $725.00 Price Target at Wells Fargo & Company -
+HubSpot,2017-2,05:11:08  [CERGEM] (HUBS.N) - HubSpot (NYSE:HUBS) Earns Outperform Rating from William Blair -
+HubSpot,2017-2,04:51:14  [STOCKP] (HUBS.N) - Hubspot (HUBS) is trading 4.26 percent higher on Thursday 15th of February and has a trading volume of USD 560.7 mn -
+HubSpot,2017-2,04:05:54  [CERGEM] (HUBS.N) - HubSpot (NYSE:HUBS) PT Raised to $630.00 at JPMorgan Chase & Co. -
+HubSpot,2017-2,03:41:52  [DAILYQ] (HUBS.N) - HubSpot (NYSE:HUBS) PT Raised to $630.00 at JPMorgan Chase & Co. -
+HubSpot,2017-2,03:01:57  [DAILYQ] (HUBS.N) - Royal Bank of Canada Increases HubSpot (NYSE:HUBS) Price Target to $700.00 -
+HubSpot,2017-2,03:01:35  [TICREP] (HUBS.N) - Royal Bank of Canada Increases HubSpot (NYSE:HUBS) Price Target to $700.00 -
+HubSpot,2017-2,02:20:38  [PROINV] (HUBS.N) - HubSpot shares slip on disappointing guidance despite better-than-expected 4Q performance -
+HubSpot,2017-2,"22:36:24  [TRADAJ] (HUBS.N) - Atria Wealth Solutions Inc. Has $795,000 Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,14:50:50  [RTRS] (HUBS.N) - HubSpot Inc reports results for the quarter ended in December - Earnings Summary -
+HubSpot,2017-2,13:30:00  [FDFAIR] (HUBS.N) - Event Brief of Q4 2023 HubSpot Inc Earnings Call - Final -
+HubSpot,2017-2,11:30:56  [ZACKSC] (HUBS.N) - HubSpot (HUBS) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates -
+HubSpot,2017-2,"11:00:00  [PLUCOM] (HUBS.N) - Piper Sandler boosts price target to $675 for HubSpot, Inc. -"
+HubSpot,2017-2,"11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $608.96) slides 3.3%, 2 days' volume in a day; -$20.68 [-3.3%] Vol Index 2.4 [1 is avg] (UPDATE) -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $606.81) drops 3.6% on increasing volatility; -$22.83 [-3.6%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $604.80) sinks 3.9% on high volume; -$24.84 [-3.9%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $613.28) slides 2.6% on high volume; -$16.36 [-2.6%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $613.28) slides 2.6% on high volume; -$16.36 [-2.6%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $611.25) falls 2.9% on high volume; -$18.39 [-2.9%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $611.25) falls 2.9% on high volume; -$18.39 [-2.9%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $607.0) slides 3.6% on high volume; -$22.64 [-3.6%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.79) sinks 3.2% on high volume; -$19.85 [-3.2%] Vol Index 2.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.67) slides 3.2% on high volume; -$19.97 [-3.2%] Vol Index 2.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.67) slides 3.2% on high volume; -$19.97 [-3.2%] Vol Index 2.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [PROINX] (HUBS.N) - HubSpot shares slip on disappointing guidance despite better-than-expected 4Q performance -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $627.25) decreases $2.39 on high volume; -$2.39 [-0.4%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $627.25) decreases $2.39 on high volume; -$2.39 [-0.4%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $628.01) up 4.0% after an upgrade this week Thursday February 15, 2024 07:02 EST -"
+HubSpot,2017-2,"11:00:00  [GLOBUL] (HUBS.N .SPX) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $629.64) Thursday February 15, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [BENZIN] (HUBS.N) - HubSpot Analysts Increase Their Forecasts Following Upbeat Results -
+HubSpot,2017-2,11:00:00  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-2,19:10:57  [AMEBAN] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Raised to $710.00 at BMO Capital Markets -
+HubSpot,2017-2,18:55:58  [TRADAJ] (HUBS.N) - HubSpot (NYSE:HUBS) PT Raised to $710.00 at BMO Capital Markets -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $628.01) gains 4.0% strengthening above moving average price; +$26.28 [4.4%] Vol Index 1.2 [1 is avg] (UPDATE) -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $628.01) gains 4.0% strengthening above moving average price; +$26.28 [4.4%] Vol Index 1.2 [1 is avg] (UPDATE) -
+HubSpot,2017-2,"11:00:00  [SEECOM] (HUBS.N) - HubSpot earnings, outlook blow past expectations; shares jump -"
+HubSpot,2017-2,"11:00:00  [SEECOM] (HUBS.N) - HubSpot Non-GAAP EPS of $1.76 beats by $0.21, revenue of $581.91M beats by $23.16M -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $616.07) gains 2.0% strengthening above moving average price; +$12.16 [2.0%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $616.07) gains 2.0% strengthening above moving average price; +$12.16 [2.0%] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $614.04) climbs 1.7% strengthening above moving average price; +$10.13 [1.7%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $615.02) lifts 1.8% strengthening above moving average price; +$11.11 [1.8%] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $615.02) lifts 1.8% strengthening above moving average price; +$11.11 [1.8%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $615.02) lifts 1.8% strengthening above moving average price; +$11.11 [1.8%] -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (HUBS.N .SPX) - Hubspot soars 251% in 5 years Tuesday February 13, 2024 07:43 EST -"
+HubSpot,2017-2,"11:00:00  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $603.91) Wednesday February 14, 2024 07:02 EST -"
+HubSpot,2017-2,"11:00:00  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $603.75) down 6.6% in 2 days Wednesday February 14, 2024 07:02 EST -"
+HubSpot,2017-2,"03:05:52  [MARDAJ] (FSZ.TO HUBS.N) - Fiera Capital Corp Raises Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"00:26:40  [DAILYQ] (HUBS.N) - Mitsubishi UFJ Trust & Banking Corp Has $14.90 Million Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"00:26:20  [TICREP] (HUBS.N) - Mitsubishi UFJ Trust & Banking Corp Sells 2,484 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"22:56:11  [DAILYQ] (HUBS.N) - Canada Pension Plan Investment Board Raises Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,21:26:55  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Given New $710.00 Price Target at BMO Capital Markets -
+HubSpot,2017-2,19:41:30  [TRADAJ] (HUBS.N) - HubSpot (HUBS) Scheduled to Post Quarterly Earnings on Wednesday -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $602.62) down 6.8% in 2 days; -$14.45 [-2.3%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $602.62) down 6.8% in 2 days; -$14.45 [-2.3%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $602.62) down 6.8% in 2 days; -$14.45 [-2.3%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $604.0) slides 2.1% on firm volume; -$13.07 [-2.1%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $604.0) slides 2.1% on firm volume; -$13.07 [-2.1%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $604.0) slides 2.1% on firm volume; -$13.07 [-2.1%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $607.71) down 6.0% in 2 days; -$9.36 [-1.5%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $606.59) drops 1.7% on firm volume; -$10.48 [-1.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $608.19) down 5.9% in 2 days; -$8.88 [-1.4%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $608.19) down 5.9% in 2 days; -$8.88 [-1.4%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.82) drops 1.2% on robust volume; -$7.25 [-1.2%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.82) down 5.7% in 2 days; -$7.25 [-1.2%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $599.28) falls 2.9% on robust volume; -$17.79 [-2.9%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $599.28) down 7.3% in 2 days; -$17.79 [-2.9%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $599.28) down 7.3% in 2 days; -$17.79 [-2.9%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $599.28) falls 2.9% on robust volume; -$17.79 [-2.9%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $599.28) falls 2.9% on robust volume; -$17.79 [-2.9%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $599.28) down 7.3% in 2 days; -$17.79 [-2.9%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Tuesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,"11:00:00  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $617.07) Tuesday February 13, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Update: Tuesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,"05:11:40  [CERGEM] (HUBS.N) - Marsico Capital Management LLC Acquires Shares of 7,529 HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,02:26:31  [TICREP] (HUBS.N) - HubSpot (NYSE:HUBS) Price Target Increased to $710.00 by Analysts at BMO Capital Markets -
+HubSpot,2017-2,01:51:08  [STOCKP] (HUBS.N) - With a trading volume of USD 349.6 mn HUBS trades 2.85 percent higher today -
+HubSpot,2017-2,"21:51:25  [TRADAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by New York Life Investment Management LLC -"
+HubSpot,2017-2,"21:11:58  [TRADAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by New York Life Investment Management LLC -"
+HubSpot,2017-2,19:11:52  [ZOLCOM] (HUBS.N) - HubSpot (HUBS) Set to Announce Quarterly Earnings on Wednesday -
+HubSpot,2017-2,11:00:00  [PLUCOM] (HUBS.N) - HubSpot Inc gains 2.7% as it hits 52-week high -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $615.67) tumbles 4.8% on robust volume; -$30.96 [-4.8%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $615.67) tumbles 4.8% on robust volume; -$30.96 [-4.8%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $615.01) sinks 4.9% on robust volume; -$31.62 [-4.9%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $615.01) sinks 4.9% on robust volume; -$31.62 [-4.9%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $626.10) slides 3.2% on firm volume; -$20.53 [-3.2%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $628.16) slides 2.9% on firm volume; -$18.47 [-2.9%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $628.16) slides 2.9% on firm volume; -$18.47 [-2.9%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $628.16) slides 2.9% on firm volume; -$18.47 [-2.9%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $629.60) falls 2.6% on robust volume; -$17.03 [-2.6%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $629.60) falls 2.6% on robust volume; -$17.03 [-2.6%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $629.60) falls 2.6% on robust volume; -$17.03 [-2.6%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $646.65) hits year-high 9th time in three months Monday February 12, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Monday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $646.63) Monday February 12, 2024 07:02 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - ICYMI: Monday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,"11:00:00  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a third consecutive day, a three-day rise of 3.7% Thursday, February 08, 2024 10:00:00 -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Weekly: Hubspot (HUBS: $646.65) accelerates rise: up 10% in 2 weeks; +$57.91 [9.8%] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Update: Monday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,19:11:32  [AMEBAN] (HUBS.N) - HubSpot (NYSE:HUBS) Sets New 1-Year High at $652.69 -
+HubSpot,2017-2,"03:11:57  [DAILYQ] (HUBS.N) - State Board of Administration of Florida Retirement System Has $32.13 Million Stock Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"03:11:41  [TICREP] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Acquired by State Board of Administration of Florida Retirement System -"
+HubSpot,2017-2,"02:11:38  [CERGEM] (HUBS.N) - Campbell & CO Investment Adviser LLC Invests $945,000 in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"00:06:27  [AMEBAN] (HUBS.N) - Jump Financial LLC Trims Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"23:26:36  [ZOLCOM] (HUBS.N) - Jump Financial LLC Sells 5,168 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"22:26:42  [TRADAJ] (HUBS.N) - Janney Montgomery Scott LLC Grows Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"21:41:41  [ZOLCOM] (HUBS.N) - Amalgamated Bank Raises Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,11:00:00  [MENREP] (HUBS.N) - Supply Of Licenses To Use The Hubspot Crm Platform -
+HubSpot,2017-2,04:26:38  [DAILYQ] (HUBS.N) - HubSpot (NYSE:HUBS) Sets New 1-Year High at $652.69 -
+HubSpot,2017-2,04:26:18  [TICREP] (HUBS.N) - HubSpot (NYSE:HUBS) Reaches New 1-Year High at $652.69 -
+HubSpot,2017-2,02:22:36  [ZACKSC] (HUBS.N) - Insights Into HubSpot (HUBS) Q4: Wall Street Projections for Key Metrics -
+HubSpot,2017-2,"01:42:36  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $628.67) up 4.3% in 3 days Friday February 09, 2024 07:02 EST -"
+HubSpot,2017-2,00:49:13  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,"00:02:55  [TRADAJ] (HUBS.N) - NewEdge Wealth LLC Increases Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"23:48:24  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $628.69) Friday February 09, 2024 07:02 EST -"
+HubSpot,2017-2,23:47:51  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,"23:08:21  [TRADAJ] (HUBS.N) - Spire Wealth Management Trims Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"23:07:07  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a second consecutive day, a two-day rise of 1.1% Wednesday, February 07, 2024 11:00:00 -"
+HubSpot,2017-2,"22:49:12  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a second consecutive day, a two-day rise of 1.6% Wednesday, February 07, 2024 10:00:00 -"
+HubSpot,2017-2,22:48:58  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,22:32:21  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-2,21:47:31  [GLOSTO] (HUBS.N) - Update: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.0) hits year-high 9th time in three months; +$22.31 [3.5%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $651.0) hits two-year high on robust volume; +$22.31 [3.5%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.95) hits year-high 9th time in three months; +$23.26 [3.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.0) hits two-year high on robust volume; +$22.31 [3.5%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.95) hits year-high; +$23.26 [3.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $650.82) hits year-high 9th time in three months; +$22.13 [3.5%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $650.82) in 4th consecutive rise; +$22.13 [3.5%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $650.82) in 4th consecutive rise; +$22.13 [3.5%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $650.82) in 4th consecutive rise; +$22.13 [3.5%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $654.94) in 4th consecutive rise; +$26.25 [4.2%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $654.94) hits year-high 9th time in three months; +$26.25 [4.2%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $654.94) hits year-high 9th time in three months; +$26.25 [4.2%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.84) hits year-high 9th time in three months; +$23.15 [3.7%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.84) gains 3.7% on rising relative strength; +$23.15 [3.7%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $651.84) gains 3.7% on rising relative strength; +$23.15 [3.7%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.84) hits year-high 9th time in three months; +$23.15 [3.7%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.84) gains 3.7% on rising relative strength; +$23.15 [3.7%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - Confirmatory Bullish Trend: Hubspot (HUBS: $651.62) accelerates rise, up 7.5% in 3 days Friday February 09, 2024 11:36 EST -"
+HubSpot,2017-2,"11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $652.02) keeps rising, up 8.2% in 4 days; +$23.33 [3.7%] Vol Index 1.8 [1 is avg] -"
+HubSpot,2017-2,"11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $652.02) keeps rising, up 8.2% in 4 days; +$23.33 [3.7%] Vol Index 1.8 [1 is avg] -"
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $652.02) hits year-high; +$23.33 [3.7%] Vol Index 1.8 [1 is avg] -
+HubSpot,2017-2,"11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $652.02) accelerates rise, up 7.6% in 3 days; +$23.33 [3.7%] Vol Index 1.8 [1 is avg] -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $652.02) in 4th consecutive rise; +$23.33 [3.7%] Vol Index 1.8 [1 is avg] -
+HubSpot,2017-2,"11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $652.02) keeps rising, up 8.2% in 4 days; +$23.33 [3.7%] Vol Index 1.8 [1 is avg] -"
+HubSpot,2017-2,"11:00:00  [GLOBUL] (.GDAXI HUBS.N) - Confirmatory Bullish Trend: Hubspot (HUBS: $651.62) accelerates rise, up 7.5% in 3 days Friday February 09, 2024 10:30 EST -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.62) hits year-high 9th time in three months; +$22.93 [3.6%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-2,"11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.62) accelerates rise, up 7.5% in 3 days; +$22.93 [3.6%] Vol Index 1.9 [1 is avg] -"
+HubSpot,2017-2,"11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $651.62) accelerates rise, up 7.5% in 3 days; +$22.93 [3.6%] Vol Index 1.9 [1 is avg] -"
+HubSpot,2017-2,11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $651.62) in 4th consecutive rise; +$22.93 [3.6%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-2,"11:00:00  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $651.62) keeps rising, up 8.1% in 4 days; +$22.93 [3.6%] Vol Index 1.9 [1 is avg] -"
+HubSpot,2017-2,11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.62) hits year-high 9th time in three months; +$22.93 [3.6%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-2,"11:00:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $651.62) accelerates rise, up 7.5% in 3 days; +$22.93 [3.6%] Vol Index 1.9 [1 is avg] -"
+HubSpot,2017-2,10:07:32  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $628.67) accelerates rise; Chief Legal Officer Harvey Dawson Alyssa sells; +$18.82 [3.1%] (UPDATE) -
+HubSpot,2017-2,08:52:30  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $628.67) accelerates rise; Chief Legal Officer Harvey Dawson Alyssa sells; +$18.82 [3.1%] (UPDATE) -
+HubSpot,2017-2,08:07:12  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $626.76) up 4.0% in 3 days; Chief Legal Officer Harvey Dawson Alyssa sells; +$16.91 [2.8%] -
+HubSpot,2017-2,06:46:40  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $628.21) jumps 3.0% strengthening above moving average price; +$18.36 [3.0%] -
+HubSpot,2017-2,06:27:28  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $628.21) jumps 3.0% strengthening above moving average price; +$18.36 [3.0%] -
+HubSpot,2017-2,06:12:18  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $628.21) jumps 3.0% strengthening above moving average price; +$18.36 [3.0%] -
+HubSpot,2017-2,04:42:34  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $625.29) climbs 2.5% on rising relative strength; +$15.44 [2.5%] -
+HubSpot,2017-2,"04:22:49  [GLOBUL] (.GDAXI HUBS.N) - Confirmatory Bullish Trend: Hubspot (HUBS: $624.87) accelerates rise, up 3.1% in 2 days Thursday February 08, 2024 11:36 EST -"
+HubSpot,2017-2,"04:22:43  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a third consecutive day, a three-day rise of 3.9% Thursday, February 08, 2024 11:00:00 -"
+HubSpot,2017-2,"04:02:14  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $626.08) keeps rising, up 3.9% in 3 days; +$16.23 [2.7%] -"
+HubSpot,2017-2,03:57:20  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $626.08) gains 2.7% strengthening above moving average price; +$16.23 [2.7%] -
+HubSpot,2017-2,"03:22:23  [GLOBUL] (.GDAXI HUBS.N) - Confirmatory Bullish Trend: Hubspot (HUBS: $624.87) accelerates rise, up 3.1% in 2 days Thursday February 08, 2024 10:31 EST -"
+HubSpot,2017-2,"03:17:18  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a third consecutive day, a three-day rise of 3.7% Thursday, February 08, 2024 10:00:00 -"
+HubSpot,2017-2,"02:48:37  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $624.87) keeps rising, up 3.7% in 3 days; +$15.02 [2.5%] -"
+HubSpot,2017-2,"02:02:56  [DAILYQ] (HUBS.N) - Massachusetts Financial Services Co. MA Grows Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"01:42:47  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $609.65) strengthens above moving average price Thursday February 08, 2024 07:02 EST -"
+HubSpot,2017-2,"01:27:28  [DAILYQ] (HUBS.N) - Massachusetts Financial Services Co. MA Boosts Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"01:22:45  [TICREP] (HUBS.N) - Massachusetts Financial Services Co. MA Boosts Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"01:22:38  [TICREP] (HUBS.N) - Massachusetts Financial Services Co. MA Raises Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"23:48:14  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $609.85) Thursday February 08, 2024 07:02 EST -"
+HubSpot,2017-2,"22:08:24  [CERGEM] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Insider Sells $591,090.00 in Stock -"
+HubSpot,2017-2,21:48:30  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-2,13:52:51  [STOCKP] (HUBS.N) - Hubspot is trading 0.51 percent higher with a volume of USD 186.6 mn on Thursday 8th of February -
+HubSpot,2017-2,10:07:34  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.65) in 2nd consecutive rise; Chief Legal Officer Harvey Dawson Alyssa sells; +$3.72 [0.6%] (UPDATE) -
+HubSpot,2017-2,08:52:27  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.65) in 2nd consecutive rise; Chief Legal Officer Harvey Dawson Alyssa sells; +$3.72 [0.6%] (UPDATE) -
+HubSpot,2017-2,08:07:14  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.87) strengthens above moving average price; Chief Legal Officer Harvey Dawson Alyssa sells; +$3.94 [0.7%] -
+HubSpot,2017-2,04:27:18  [GLOBUL] (.GDAXI HUBS.N) - Confirmatory Bullish Trend: Hubspot (HUBS: $612.35) in 2nd consecutive rise 07022024 12:20 EST -
+HubSpot,2017-2,"04:27:13  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a second consecutive day, a two-day rise of 1.1% Wednesday, February 07, 2024 11:00:00 -"
+HubSpot,2017-2,04:27:10  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.23) in 2nd consecutive rise; +$3.30 [0.5%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,04:22:17  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.23) strengthens above moving average price; +$3.30 [0.5%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,04:02:30  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.23) strengthens above moving average price; +$3.30 [0.5%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,03:53:04  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.23) increases $3.30 on firm volume; +$3.30 [0.5%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,03:52:43  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-2,03:52:32  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.23) in 2nd consecutive rise; +$3.30 [0.5%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,03:47:20  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.23) strengthens above moving average price; +$3.30 [0.5%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-2,"03:22:54  [TICREP] (HUBS.N) - Burney Co. Invests $4.45 Million in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"03:22:54  [DAILYQ] (HUBS.N) - Burney Co. Makes New Investment in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"03:22:21  [GLOBUL] (.GDAXI HUBS.N) - Confirmatory Bullish Trend: Hubspot (HUBS: $612.35) in 2nd consecutive rise Wednesday February 07, 2024 10:30 EST -"
+HubSpot,2017-2,03:22:11  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $612.35) lifts 1.1% on robust volume; +$6.42 [1.1%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-2,"03:17:18  [NEWNYS] (HUBS.N .SPX) - Hubspot rises for a second consecutive day, a two-day rise of 1.6% Wednesday, February 07, 2024 10:00:00 -"
+HubSpot,2017-2,03:12:14  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $612.35) in 2nd consecutive rise; +$6.42 [1.1%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-2,02:57:38  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $612.35) in 2nd consecutive rise; +$6.42 [1.1%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-2,02:48:06  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $612.35) lifts 1.1% strengthening above moving average price; +$6.42 [1.1%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-2,02:47:15  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $612.35) lifts 1.1% on robust volume; +$6.42 [1.1%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-2,02:42:10  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $612.35) in 2nd consecutive rise; +$6.42 [1.1%] Vol Index 1.6 [1 is avg] -
+HubSpot,2017-2,"02:08:36  [NEWPEO] (HUBS.N) - Hubspot chief legal officer Harvey Dawson Alyssa sells shares worth $591,090 Monday February 05, 2024 -"
+HubSpot,2017-2,"01:42:47  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $605.42) strengthens above moving average price Wednesday February 07, 2024 07:02 EST -"
+HubSpot,2017-2,00:49:21  [GLOSTO] (HUBS.N) - Wednesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,"23:48:13  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $605.93) Wednesday February 07, 2024 07:02 EST -"
+HubSpot,2017-2,23:47:35  [GLOSTO] (HUBS.N) - ICYMI: Wednesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,"23:44:06  [ZOLCOM] (HUBS.N) - J.P. Morgan Private Wealth Advisors LLC Sells 28,633 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,22:48:20  [GLOSTO] (HUBS.N) - ICYMI: Wednesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,21:47:45  [GLOSTO] (HUBS.N) - Update: Wednesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-2,"21:13:53  [ZOLCOM] (HUBS.N) - Dawson Alyssa Harvey Sells 969 Shares of HubSpot, Inc. (NYSE:HUBS) Stock -"
+HubSpot,2017-2,"21:08:27  [AMEBAN] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) Insider Sells 969 Shares of Stock -"
+HubSpot,2017-2,"20:41:58  [TRADAJ] (HUBS.N) - Dawson Alyssa Harvey Sells 969 Shares of HubSpot, Inc. (NYSE:HUBS) Stock -"
+HubSpot,2017-2,"16:12:31  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Monday February 05, 2024 -"
+HubSpot,2017-2,"11:00:00  [NEWPEO] (HUBS.N) - Hubspot chief legal officer Harvey Dawson Alyssa sells shares worth $591,090 Monday February 05, 2024 -"
+HubSpot,2017-2,10:11:43  [NOTENG] (HUBS.N) - 52% of companies in Mexico have adopted innovative technology in the last two years: Hubspot -
+HubSpot,2017-2,10:07:31  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $605.42) up 0.4% after an upgrade this week; +$2.57 [0.4%] (UPDATE) -
+HubSpot,2017-2,08:52:12  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $605.42) up 0.4% after an upgrade this week; +$2.57 [0.4%] (UPDATE) -
+HubSpot,2017-2,"08:26:55  [SEECOM] (HUBS.N) - HubSpot's Valuation Is Outstretched, Leading Me To Downgrade This Stock -"
+HubSpot,2017-2,08:08:01  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $604.60) strengthens above moving average price; Chief Legal Officer Harvey Dawson Alyssa sells; +$1.75 [0.3%] -
+HubSpot,2017-2,07:47:37  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $606.20) increases $3.35 on rising relative strength; +$3.35 [0.6%] -
+HubSpot,2017-2,07:42:11  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $606.20) increases $3.35 on rising relative strength; +$3.35 [0.6%] -
+HubSpot,2017-2,07:17:17  [GERCOM] (HUBS.N 096.F) - German trading: HubSpot (096: EUR565.80) increases EUR3.80 on rising relative strength; +EUR3.80 [0.7%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,07:12:16  [GERCOM] (HUBS.N 096.F) - German trading: HubSpot (096: EUR565.80) increases EUR3.80 on rising relative strength; +EUR3.80 [0.7%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-2,04:27:06  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $601.48) decreases $1.37 06022024 12:20 EST -
+HubSpot,2017-2,04:02:31  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $605.11) strengthens above moving average price; +$2.26 [0.4%] -
+HubSpot,2017-2,"03:22:07  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $601.48) decreases $1.37 Tuesday February 06, 2024 10:30 EST -"
+HubSpot,2017-2,00:49:04  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-2,"00:43:26  [TICREP] (SNBN.S HUBS.N) - Swiss National Bank Reduces Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"00:43:23  [DAILYQ] (SNBN.S HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Stock Position Lowered by Swiss National Bank -"
+HubSpot,2017-2,"23:48:01  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $602.85) Tuesday February 06, 2024 07:02 EST -"
+HubSpot,2017-2,23:47:33  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-2,22:47:41  [GLOSTO] (HUBS.N) - ICYMI: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-2,21:47:45  [GLOSTO] (HUBS.N) - Update: Investors concerned as Hubspot down in recent days -
+HubSpot,2017-2,20:06:59  [GLODAT] (HUBS.N) - Postalytics Announces Release of Premium Integration Features for HubSpot -
+HubSpot,2017-2,"17:32:28  [NEWPEO] (HUBS.N) - Hubspot chief legal officer Harvey Dawson Alyssa sells shares worth $591,090 Monday February 05, 2024 -"
+HubSpot,2017-2,10:47:31  [NATLAW] (HUBS.N) - How to Successfully Implement HubSpot at Your Law Firm -
+HubSpot,2017-2,"08:49:18  [GLOSTP] (HUBS.N .SPX) - Monthly: Hubspot (HUBS: $611.0) rises for a second consecutive month, a two-month rise of 24% -"
+HubSpot,2017-2,08:15:09  [BSW] (WEAV.N HUBS.N) - Weave Appoints David McNeil as Chief Revenue Officer -
+HubSpot,2017-2,"06:01:58  [BENZIN] (HUBS.N) - $1000 Invested In This Stock 5 Years Ago Would Be Worth $3,800 Today -"
+HubSpot,2017-2,"05:13:15  [CERGEM] (HUBS.N) - Blueshift Asset Management LLC Makes New $1 Million Investment in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"04:47:21  [DAILYQ] (HUBS.N) - Blueshift Asset Management LLC Makes New $1 Million Investment in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"01:13:22  [MARDAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Purchased by PGGM Investments -"
+HubSpot,2017-2,"00:03:05  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $612.39) Monday February 05, 2024 07:02 EST -"
+HubSpot,2017-2,"23:48:37  [ZOLCOM] (HUBS.N) - Thompson Siegel & Walmsley LLC Lowers Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"21:28:25  [ZOLCOM] (HUBS.N) - Private Advisor Group LLC Sells 764 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,21:07:28  [MARDAJ] (HUBS.N) - HubSpot's (HUBS) Outperform Rating Reaffirmed at Royal Bank of Canada -
+HubSpot,2017-2,20:37:05  [TICREP] (HUBS.N) - HubSpot's (HUBS) Outperform Rating Reaffirmed at Royal Bank of Canada -
+HubSpot,2017-2,19:13:23  [AMEBAN] (INTA.OQ INTA.O) - Head-To-Head Review: Intapp (NASDAQ:INTA) & HubSpot (NYSE:HUBS) -
+HubSpot,2017-2,"04:13:12  [MARDAJ] (HUBS.N) - Landscape Capital Management L.L.C. Buys New Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"03:04:10  [DAILYQ] (HUBS.N) - Landscape Capital Management L.L.C. Acquires New Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"03:03:37  [TICREP] (HUBS.N) - 16,172 Shares in HubSpot, Inc. (NYSE:HUBS) Purchased by Landscape Capital Management L.L.C. -"
+HubSpot,2017-2,"01:18:16  [TRADAJ] (HUBS.N) - Quantbot Technologies LP Purchases Shares of 2,288 HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"01:12:44  [AMEBAN] (HUBS.N) - Quantbot Technologies LP Makes New $1.13 Million Investment in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"23:47:20  [ZOLCOM] (HUBS.N) - Metis Global Partners LLC Buys 138 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,21:08:30  [AMEBAN] (HUBS.N) - HubSpot (NYSE:HUBS) Earns Outperform Rating from Royal Bank of Canada -
+HubSpot,2017-2,"04:08:12  [STOOBS] (HUBS.N) - Values First Advisors Inc. Trims Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"00:08:08  [AMEBAN] (HUBS.N) - Mitsubishi UFJ Kokusai Asset Management Co. Ltd. Increases Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"22:53:23  [ZOLCOM] (HUBS.N) - Mitsubishi UFJ Kokusai Asset Management Co. Ltd. Purchases 2,217 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,21:53:33  [ZOLCOM] (HUBS.N) - HubSpot (NYSE:HUBS) Rating Reiterated by Royal Bank of Canada -
+HubSpot,2017-2,18:18:32  [TRADAJ] (INTA.OQ INTA.O) - HubSpot (NYSE:HUBS) and Intapp (NASDAQ:INTA) Critical Review -
+HubSpot,2017-2,18:18:20  [ZOLCOM] (INTA.OQ INTA.O) - HubSpot (NYSE:HUBS) and Intapp (NASDAQ:INTA) Critical Review -
+HubSpot,2017-2,"01:42:47  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $612.70) up 0.3% after an upgrade this week Friday February 02, 2024 07:02 EST -"
+HubSpot,2017-2,"01:13:27  [MARDAJ] (HUBS.N) - Chartwell Investment Partners LLC Makes New $2.51 Million Investment in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,00:49:13  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,00:13:05  [NOTENG] (HUBS.N) - 92% of Chilean companies consider technology essential for sustainable growth -
+HubSpot,2017-2,"23:48:07  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $612.97) Friday February 02, 2024 07:02 EST -"
+HubSpot,2017-2,23:47:33  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,22:48:54  [GLOSTO] (HUBS.N) - ICYMI: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,22:42:21  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-2,"22:35:20  [TRADAJ] (HUBS.N ABDN.L) - abrdn plc Increases Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"22:33:36  [ZOLCOM] (HUBS.N ABDN.L) - abrdn plc Increases Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,21:54:04  [TRADAJ] (HUBS.N) - HubSpot (NYSE:HUBS) Rating Reiterated by Royal Bank of Canada -
+HubSpot,2017-2,21:47:36  [GLOSTO] (HUBS.N) - Update: Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-2,11:03:37  [ZACKSC] (.SPX HUBS.N) - HubSpot (HUBS) Ascends But Remains Behind Market: Some Facts to Note -
+HubSpot,2017-2,08:07:01  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $613.59) up 0.4% after an upgrade this week; +$2.59 [0.4%] -
+HubSpot,2017-2,"06:08:29  [MARDAJ] (HUBS.N) - New York State Common Retirement Fund Decreases Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,04:08:50  [CERGEM] (HUBS.N) - HubSpot (NYSE:HUBS) Rating Reiterated by Royal Bank of Canada -
+HubSpot,2017-2,03:58:39  [DAILYQ] (HUBS.N) - HubSpot (NYSE:HUBS) Rating Reiterated by Royal Bank of Canada -
+HubSpot,2017-2,03:06:59  [BENZIN] (HUBS.N) - HubSpot Stock: A Deep Dive Into Analyst Perspectives (13 Ratings) -
+HubSpot,2017-2,"02:59:14  [DAILYQ] (IPX.L HUBS.N) - Impax Asset Management Group plc Sells 154 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,02:59:06  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $615.58) strengthens above moving average price; +$4.58 [0.7%] -
+HubSpot,2017-2,"02:58:43  [TICREP] (IPX.L HUBS.N) - Impax Asset Management Group plc Sells 154 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,00:55:04  [GLOSTO] (HUBS.N) - Thursday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,"00:38:14  [TRADAJ] (LNC.N HUBS.N) - Lincoln National Corp Takes Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,23:52:39  [GLOSTO] (HUBS.N) - ICYMI: Thursday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,23:48:53  [GLOBUL] (HUBS.N .SPX) - Past Week: Hubspot (HUBS: $611.0) climbs 4.3% on below average volume -
+HubSpot,2017-2,23:03:34  [GLOSTO] (HUBS.N) - ICYMI: Thursday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,"22:53:25  [GLOSTO] (HUBS.N) - Monthly: Hubspot (HUBS: $611.0) rises for a second consecutive month, a two-month rise of 24% -"
+HubSpot,2017-2,21:48:22  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-2,21:48:07  [GLOSTO] (HUBS.N) - Update: Thursday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-2,20:03:20  [STOCKP] (HUBS.N) - Hubspot trades -2.08 percent lower on Thursday 1st of February -
+HubSpot,2017-2,11:00:00  [NOTENG] (HUBS.N) - 52% of companies in Mexico have adopted innovative technology in the last two years: Hubspot -
+HubSpot,2017-2,"08:14:12  [COMFIN] (HUBS.N) - Prosperity Financial Group Inc. Has $220,000 Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,07:54:49  [STOCKP] (HUBS.N) - Hubspot is trading 2.3 percent higher with a volume of USD 507.3 mn on Wednesday 31st of January -
+HubSpot,2017-2,"07:08:34  [STOOBS] (HUBS.N) - Prosperity Financial Group Inc. Has $220,000 Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"06:32:19  [GERCOM] (HUBS.N 096.F) - German trading: HubSpot (096: EUR572.20) jumps 6.2% on rising relative strength, hits twenty-six-month high; +EUR33.40 [6.2%] -"
+HubSpot,2017-2,"05:17:18  [GERCOM] (HUBS.N 096.F) - German trading: HubSpot (096: EUR572.20) jumps 6.2% on rising relative strength, hits twenty-six-month high; +EUR33.40 [6.2%] -"
+HubSpot,2017-2,05:03:14  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $613.69) drops 1.6% on firm volume; -$10.29 [-1.6%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,04:48:06  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $613.69) drops 1.6% on firm volume; -$10.29 [-1.6%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,04:34:32  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $613.69) drops 1.6% on firm volume; -$10.29 [-1.6%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,04:17:14  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.37) falls 2.3% on firm volume; -$14.61 [-2.3%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,04:02:25  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.37) falls 2.3% on firm volume; -$14.61 [-2.3%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,03:53:03  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $609.37) falls 2.3% on firm volume; -$14.61 [-2.3%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,03:52:46  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-2,03:47:18  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $609.37) falls 2.3% on firm volume; -$14.61 [-2.3%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-2,"01:42:36  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $623.75) climbs 2.3% strengthening above moving average price, hits twenty-six-month high Wednesday January 31, 2024 07:01 EST -"
+HubSpot,2017-2,"01:17:33  [TICREP] (HUBS.N) - Arizona State Retirement System Purchases 59 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,"00:44:33  [DAILYQ] (HUBS.N) - Arizona State Retirement System Boosts Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-2,00:13:27  [DAILYQ] (HUBS.N) - HubSpot (NYSE:HUBS) Sets New 12-Month High at $608.48 -
+HubSpot,2017-2,00:13:14  [TICREP] (HUBS.N) - HubSpot (NYSE:HUBS) Hits New 12-Month High at $608.48 -
+HubSpot,2017-2,"00:08:11  [AMEBAN] (HUBS.N) - Sigma Planning Corp Purchases 45 Shares of HubSpot, Inc. (NYSE:HUBS) -"

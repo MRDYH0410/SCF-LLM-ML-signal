@@ -1,0 +1,869 @@
+firm_id,date,text
+Chevron,2017-1,"{{20170203T005327.775+0000}}UPDATE 3-Coal rule killed by U.S. Congress, others near chopping block(Recasts, adds extraction vote, Manchin quote)"
+Chevron,2017-1,"WASHINGTON, Feb 2 (Reuters) - The U.S. Congress moved swiftly on Thursday to undo Obama-era rules on the environment, corruption, labor and guns, with the Senate wiping from the books a rule aimed at reducing water pollution."
+Chevron,2017-1,"By a vote of 54-45, the Senate approved a resolution already passed in the House of Representatives to kill the rule aimed at keeping pollutants out of streams in areas near mountaintop removal coal-mining sites."
+Chevron,2017-1,"The resolution now goes to President Donald Trump, who is expected to sign it quickly. It was only the second time the Congressional Review Act, which allows lawmakers to stop newly minted regulations in their tracks, has been used successfully since it was passed in 2000."
+Chevron,2017-1,"The Senate then turned to an equally controversial rule requiring mining and energy companies such as Exxon Mobil and Chevron to disclose taxes and other payments they make to governments at home and abroad. Democrats, who cannot filibuster the resolution, attempted to slow the process by pushing debate late into the night, with a vote scheduled for shortly after 6:30 a.m. on Friday. [nL1N1FM268]"
+Chevron,2017-1,Republicans are using their control of Congress and the White House to attack regulations they believe hurt the economy. They cast the stream protection rule as harming industry and usurping state rights.
+Chevron,2017-1,"""The Obama Administration's stream buffer rule was an attack against coal miners and their families,"" said the top Senate Republican, Mitch McConnell, adding it had threatened jobs in his home state of Kentucky."
+Chevron,2017-1,Environmental activists and many Democrats said it would have made drinking water safer by monitoring for pollutants such as lead.
+Chevron,2017-1,"""Given that many of these toxins are known to cause birth defects, developmental delays, and other health and environmental impacts, this basic monitoring provision was essential,"" said Jeni Collins, associate legislative representative for environmental group Earthjustice."
+Chevron,2017-1,The coal industry hopes the repeal will lead Trump to overturn a moratorium by former President Barack Obama's administration on some coal leases.[nL1N1FN1N6]
+Chevron,2017-1,"Senator Joe Manchin, who represents West Virginia, historically coal country, was one of the few Democrats who supported killing the rule. He told CNN more than 400 changes had been made to the regulation as it was drafted."
+Chevron,2017-1,"""There's nobody in West Virginia that wants dirty water and dirty air, but you can't throw 400 different regulations ... on top of what we already have and expect anyone to survive,"" he said."
+Chevron,2017-1,"Also on Thursday, the House on Thursday overturned Obama administration rules addressing pay discrimination at federal contractors and requiring expanded background checks for gun purchasers who receive Social Security benefits and have a history of mental illness. It plans on Friday to kill a measure addressing methane emissions on public lands. The Senate will then take all three up. [nL1N1FL29C]"
+Chevron,2017-1,"The Senate is also targeting rules enacted in the final months of Obama's administration for extinction. Senator David Perdue, a Republican from Georgia, introduced on Wednesday a resolution for killing one intended to protect users of gift and prepaid cards."
+Chevron,2017-1,"Under the Congressional Review Act, lawmakers can vote to undo regulations with a simple majority. Agencies cannot revisit overturned regulations. Timing in the law means any regulation enacted since May is eligible for repeal."
+Chevron,2017-1,"The House already approved a resolution ending the rule that requires oil companies to publicly state taxes and payments, which is part of the 2010 Dodd-Frank Wall Street reform law."
+Chevron,2017-1,Republicans and some oil and mining companies say the rule is burdensome and costly and duplicates other long-standing regulations.
+Chevron,2017-1,"Supporters of the rule see it as vital for exposing bribery and questionable financial ties U.S. companies may have with foreign governments, as well as showing shareholders how their money is spent. [nL1N1FN257]"
+Chevron,2017-1,"{{20170201T220550.911+0000}}U.S. House axes regulations on oil and mining company payments, stream pollutionWASHINGTON, Feb 1 (Reuters) - The Republican-led U.S. House of Representatives on Wednesday killed two Obama-era rules, one intended to root out corruption in the extraction sector and one aimed at reducing stream pollution."
+Chevron,2017-1,"Required by the 2010 Dodd-Frank Wall Street reform law, the Securities and Exchange Commission's ""extraction rule"" was approved this summer to require oil, gas, mining and other companies to publicly state the taxes and other fees they pay to governments. Republicans say the requirement is burdensome and costly for energy companies, and also that it duplicates other long-standing regulations."
+Chevron,2017-1,"The stream buffer rule is intended to lessen the amount of waste from mountain-top removal coal mining deposited in local waterways. Republican lawmakers, though, say it is hurting coal jobs by placing unworkable limits on the industry."
+Chevron,2017-1,The Republican-dominated Senate is expected to quickly take up killing both regulations and then send the resolutions to President Donald Trump to sign.
+Chevron,2017-1,"{{20170201T191430.138+0000}}INSIGHT-As oil recovers, U.S. firms descend on the Permian Basin in West Texas(Updates with Endeavor considering IPO, link to FACTBOX)"
+Chevron,2017-1,"ODESSA, Texas, Feb 1 (Reuters) - In most U.S. shale oil regions, energy firms are making strategic but cautious bets as the price of oil holds above $50 a barrel."
+Chevron,2017-1,"Here in the Permian Basin of West Texas, the largest U.S. oil patch, the industry poured more than $28 billion into land acquisitions last year - more than triple what they spent in 2015."
+Chevron,2017-1,Those deals set the stage for much larger investments needed to extract the oil from the ground - and they illustrate how the Permian Basin has become the epicenter for the U.S. shale resurgence after a historic oil price crash.
+Chevron,2017-1,"""We could easily see an extra 100 rigs out here in the Permian by June,"" said Josh Clawson of Gesco, a Midland, Texas, electrical contractor for oil drilling rigs."
+Chevron,2017-1,That doesn't necessarily mean the investment blitz will extend to other U.S. oil regions. The industry's focus on the Permian reflects the simple math of profitability and a complex set of geographic advantages and technological advances that make it cheaper to drill here than in other major U.S. oil regions.
+Chevron,2017-1,"Permian Basin producers make money at the current crude price of about $53 per barrel because of the region's sprawling pipeline network, abundant labor and supplies, and warm winters that allow year-round work."
+Chevron,2017-1,Most of America's shale industry needs prices above $60 a barrel to justify new projects and expansion. Oil has not hit that price since June 2015.
+Chevron,2017-1,"So at least for now, the Permian accounts for a disproportionate share of the industry's recovery. The amount spent on Permian land purchases and leases last year represented 39 percent of all deals nationally and tripled the activity seen in any other major U.S. oil region."
+Chevron,2017-1,"Acquisitions in North Dakota's Bakken shale fields, by comparison, accounted for 3 percent of all deals."
+Chevron,2017-1,Judging by the confident flow of capital into West Texas - a swagger bred in part by aggressive cost-cutting and innovation through the downturn - U.S. oil companies have retained their appetite for risk.
+Chevron,2017-1,"What remains to be seen, should per-barrel prices rise further, is whether companies continue to expand operations in the Permian as projects start to make more economic sense in other oil states including North Dakota, Colorado and Wyoming."
+Chevron,2017-1,"Oil companies started the new year with announcements of about $9 billion more in Permian land deals, including a $6.6 billion Exxon Mobil Corp buy that doubled its acreage in the basin.[nL4N1F74E1]"
+Chevron,2017-1,"Occidental Petroleum Corp , WPX Energy , Noble Energy Inc and RSP Permian Inc have also made major commitments to the region."
+Chevron,2017-1,"The companies that have sold or leased their holdings have typically been smaller, privately-held firms aiming to take advantage of the high land prices rather than invest the millions of dollars needed to pump the oil."
+Chevron,2017-1,"The demand for West Texas acreage has sent land prices soaring in the last two years. One deal in December 2016 priced out at more than $63,000 an acre, double the price paid in similar deal earlier that year."
+Chevron,2017-1,Double Eagle Energy Permian LLC and its predecessor companies have made a fortune buying and selling Permian acreage starting in 2009.
+Chevron,2017-1,"But Double Eagle's founders, who have snapped up 65,000 acres in the past two years, now plan to start drilling their holdings in addition to speculating on land values. The firm is preparing for an initial public offering with an expected valuation of $3 billion, according to a half dozen bankers who have examined its value.[nL1N1CI1LI]"
+Chevron,2017-1,"""Activity breeds activity,"" said John Sellers, co-founder of Double Eagle, of the surge here. ""The Permian is a really great basin to be in."""
+Chevron,2017-1,"While land prices have risen fast, the cost of acreage still represents a small part of the profit equation. Most of the expense is tied to drilling and getting the oil to market."
+Chevron,2017-1,Buyers of Permian acreage are moving quickly to tap their holdings. The number of rigs across the basin is up more than 28 percent in the past year; oil job postings here have more than doubled from lows of last March; and sales tax receipts for the region starting rising in November after falling for two years.
+Chevron,2017-1,"Oil firms are pumping 2.2 million barrels per day (bpd) of crude from the Permian, about a quarter of U.S. output of 8.9 million bpd."
+Chevron,2017-1,"In Midland and nearby Odessa, centers for the West Texas industry, the buzz of economic growth has replaced the desolation of 2015 and early 2016."
+Chevron,2017-1,Many storage yards are only half full - meaning more equipment is in the field.
+Chevron,2017-1,"Chevron Corp , which controls more than 1 million acres of Permian land, last year opened a new regional office in Midland. EOG Resources Inc and Occidental Petroleum Corp have office expansion plans of their own."
+Chevron,2017-1,"Concho Resources Inc , which is headquartered in Midland, has been renovating and expanding its downtown Midland offices and funding community projects, including a $400,000 makeover of a downtown park."
+Chevron,2017-1,"Permits for new home construction jumped 50 percent in November, the latest period for which data are available. And dinner at Midland's Texas Roadhouse Inc now requires a half-hour wait."
+Chevron,2017-1,"""Everyone I know here is hiring,"" said J. Ross Lacy, a Midland councilman."
+Chevron,2017-1,"The resurgence gained momentum last summer when industry veteran Mark Papa's Silver Run Acquisition Corp bought Centennial Resource Development Inc , which controls premium acreage across the Permian.[nL1N1A51D0]"
+Chevron,2017-1,"Papa is considered one of the preeminent oil executives of his generation, and his move from retirement back into the oil patch was seen as a sign by many that the Permian was heating up again.[nL1N1A51D0]"
+Chevron,2017-1,"Two months later, Apache Corp said it had accumulated over 300,000 acres of Permian land over two years for less than $1,300 an acre."
+Chevron,2017-1,"""The Permian Basin represents the foundation of Apache's North American growth strategy,"" said Gary Clark, vice president of investor relations at Houston-based Apache."
+Chevron,2017-1,"Apache estimated the land had more than 3 billion barrels of oil, sparking speculation that the Permian holds far more oil than anyone had expected in a previously overlooked part of the basin.[nL3N1BJ3XA]"
+Chevron,2017-1,"Anadarko Petroleum Corp sold acreage in east Texas earlier this month for $2.3 billion as it looked to raise cash to develop the 600,000 acres of Permian land it controls.[nL1N1F22LS]"
+Chevron,2017-1,"The firm is relocating 200 employees and their families to Midland, a sign of faith in the region's long-term prospects."
+Chevron,2017-1,"Many of recent Permian deals were paid for with cash from secondary stock offerings, an unusual step that investors typically dislike because it dilutes their stakes in companies. But in the Permian, it seems, investors see the payoff."
+Chevron,2017-1,Companies turned to stock offerings for cash because debt markets were largely closed to oil producers during the two-year price downturn.[nL2N1800XD]
+Chevron,2017-1,Diamondback Energy Inc paid more than $3 billion last year for Permian land in two separate transactions - deals financed through stock offerings. Diamondback executives said the deals were immediately profitable and should provide years of growth.
+Chevron,2017-1,"Executives at SM Energy Co and RSP Permian made similar comments in announcing their own deals late last year for $1.6 billion and $2.4 billion, respectively.[nL4N1CO3MW][nL4N1CJ552]"
+Chevron,2017-1,"While shares of top Permian producers have risen in recent weeks, Wall Street's appetite for stock is unsated."
+Chevron,2017-1,"West Texas oil giant Endeavor Energy Resources LP[EERL.UL], one of the biggest private oil producers in the Permian, is considering taking advantage of that with an initial public offering to expand and pump more from the field, Chief Executive Chuck Moloy told Reuters. [L1N1FM1FJ]"
+Chevron,2017-1,"Of the 44 analysts covering Pioneer Natural Resources Co - considered by many investors to be the top Permian producer - forty recommend buying it, according to Thomson Reuters data."
+Chevron,2017-1,Investors are seeing the same unique advantages that drew oil companies to wide-open spaces of West Texas.
+Chevron,2017-1,"""The industry is learning where the value really is,"" said Chuck Meloy, chief executive of Endeavor."
+Chevron,2017-1,"{{20170201T120002.838+0000}}RPT-INSIGHT-As oil recovers, U.S. firms descend on the Permian Basin in West Texas(Repeating for additional clients with no changes to text)"
+Chevron,2017-1,"ODESSA, Texas, Feb 1 (Reuters) - In most U.S. shale oil regions, energy firms are making strategic but cautious bets as the price of oil holds above $50 a barrel."
+Chevron,2017-1,"Here in the Permian Basin of West Texas, the largest U.S. oil patch, the industry poured more than $28 billion into land acquisitions last year - more than triple what they spent in 2015."
+Chevron,2017-1,Those deals set the stage for much larger investments needed to extract the oil from the ground - and they illustrate how the Permian Basin has become the epicenter for the U.S. shale resurgence after a historic oil price crash.
+Chevron,2017-1,"""We could easily see an extra 100 rigs out here in the Permian by June,"" said Josh Clawson of Gesco, a Midland, Texas, electrical contractor for oil drilling rigs."
+Chevron,2017-1,That doesn't necessarily mean the investment blitz will extend to other U.S. oil regions. The industry's focus on the Permian reflects the simple math of profitability and a complex set of geographic advantages and technological advances that make it cheaper to drill here than in other major U.S. oil regions.
+Chevron,2017-1,"Permian Basin producers make money at the current crude price of about $53 per barrel because of the region's sprawling pipeline network, abundant labor and supplies, and warm winters that allow year-round work."
+Chevron,2017-1,Most of America's shale industry needs prices above $60 a barrel to justify new projects and expansion. Oil has not hit that price since June 2015.
+Chevron,2017-1,"So at least for now, the Permian accounts for a disproportionate share of the industry's recovery. The amount spent on Permian land purchases and leases last year represented 39 percent of all deals nationally and tripled the activity seen in any other major U.S. oil region."
+Chevron,2017-1,"Acquisitions in North Dakota's Bakken shale fields, by comparison, accounted for 3 percent of all deals."
+Chevron,2017-1,Judging by the confident flow of capital into West Texas - a swagger bred in part by aggressive cost-cutting and innovation through the downturn - U.S. oil companies have retained their appetite for risk.
+Chevron,2017-1,"What remains to be seen, should per-barrel prices rise further, is whether companies continue to expand operations in the Permian as projects start to make more economic sense in other oil states including North Dakota, Colorado and Wyoming."
+Chevron,2017-1,"Oil companies started the new year with announcements of about $9 billion more in Permian land deals, including a $6.6 billion Exxon Mobil Corp buy that doubled its acreage in the basin.[nL4N1F74E1]"
+Chevron,2017-1,"Occidental Petroleum Corp , WPX Energy , Noble Energy Inc and RSP Permian Inc have also made major commitments to the region."
+Chevron,2017-1,"The companies that have sold or leased their holdings have typically been smaller, privately-held firms aiming to take advantage of the high land prices rather than invest the millions of dollars needed to pump the oil."
+Chevron,2017-1,"The demand for West Texas acreage has sent land prices soaring in the last two years. One deal in December 2016 priced out at more than $63,000 an acre, double the price paid in similar deal earlier that year."
+Chevron,2017-1,Double Eagle Energy Permian LLC and its predecessor companies have made a fortune buying and selling Permian acreage starting in 2009.
+Chevron,2017-1,"But Double Eagle's founders, who have snapped up 65,000 acres in the past two years, now plan to start drilling their holdings in addition to speculating on land values. The firm is preparing for an initial public offering with an expected valuation of $3 billion, according to a half dozen bankers who have examined its value.[nL1N1CI1LI]"
+Chevron,2017-1,"""Activity breeds activity,"" said John Sellers, co-founder of Double Eagle, of the surge here. ""The Permian is a really great basin to be in."""
+Chevron,2017-1,"While land prices have risen fast, the cost of acreage still represents a small part of the profit equation. Most of the expense is tied to drilling and getting the oil to market."
+Chevron,2017-1,Buyers of Permian acreage are moving quickly to tap their holdings. The number of rigs across the basin is up more than 28 percent in the past year; oil job postings here have more than doubled from lows of last March; and sales tax receipts for the region starting rising in November after falling for two years.
+Chevron,2017-1,"Oil firms are pumping 2.2 million barrels per day (bpd) of crude from the Permian, about a quarter of U.S. output of 8.9 million bpd."
+Chevron,2017-1,"In Midland and nearby Odessa, centers for the West Texas industry, the buzz of economic growth has replaced the desolation of 2015 and early 2016."
+Chevron,2017-1,Many storage yards are only half full - meaning more equipment is in the field.
+Chevron,2017-1,"Chevron Corp , which controls more than 1 million acres of Permian land, last year opened a new regional office in Midland. EOG Resources Inc and Occidental Petroleum Corp have office expansion plans of their own."
+Chevron,2017-1,"Concho Resources Inc , which is headquartered in Midland, has been renovating and expanding its downtown Midland offices and funding community projects, including a $400,000 makeover of a downtown park."
+Chevron,2017-1,"Permits for new home construction jumped 50 percent in November, the latest period for which data are available. And dinner at Midland's Texas Roadhouse Inc now requires a half-hour wait."
+Chevron,2017-1,"""Everyone I know here is hiring,"" said J. Ross Lacy, a Midland councilman."
+Chevron,2017-1,"The resurgence gained momentum last summer when industry veteran Mark Papa's Silver Run Acquisition Corp bought Centennial Resource Development Inc , which controls premium acreage across the Permian.[nL1N1A51D0]"
+Chevron,2017-1,"Papa is considered one of the preeminent oil executives of his generation, and his move from retirement back into the oil patch was seen as a sign by many that the Permian was heating up again.[nL1N1A51D0]"
+Chevron,2017-1,"Two months later, Apache Corp said it had accumulated over 300,000 acres of Permian land over two years for less than $1,300 an acre."
+Chevron,2017-1,"""The Permian Basin represents the foundation of Apache's North American growth strategy,"" said Gary Clark, vice president of investor relations at Houston-based Apache."
+Chevron,2017-1,"Apache estimated the land had more than 3 billion barrels of oil, sparking speculation that the Permian holds far more oil than anyone had expected in a previously overlooked part of the basin.[nL3N1BJ3XA]"
+Chevron,2017-1,"Anadarko Petroleum Corp sold acreage in east Texas earlier this month for $2.3 billion as it looked to raise cash to develop the 600,000 acres of Permian land it controls.[nL1N1F22LS]"
+Chevron,2017-1,"The firm is relocating 200 employees and their families to Midland, a sign of faith in the region's long-term prospects."
+Chevron,2017-1,"Many of recent Permian deals were paid for with cash from secondary stock offerings, an unusual step that investors typically dislike because it dilutes their stakes in companies. But in the Permian, it seems, investors see the payoff."
+Chevron,2017-1,Companies turned to stock offerings for cash because debt markets were largely closed to oil producers during the two-year price downturn.[nL2N1800XD]
+Chevron,2017-1,Diamondback Energy Inc paid more than $3 billion last year for Permian land in two separate transactions - deals financed through stock offerings. Diamondback executives said the deals were immediately profitable and should provide years of growth.
+Chevron,2017-1,"Executives at SM Energy Co and RSP Permian made similar comments in announcing their own deals late last year for $1.6 billion and $2.4 billion, respectively.[nL4N1CO3MW][nL4N1CJ552]"
+Chevron,2017-1,"While shares of top Permian producers have risen in recent weeks, Wall Street's appetite for stock is unsated. Of the 44 analysts covering Pioneer Natural Resources Co - considered by many investors to be the top Permian producer - forty recommend buying it, according to Thomson Reuters data."
+Chevron,2017-1,Investors are seeing the same unique advantages that drew oil companies to wide-open spaces of West Texas.
+Chevron,2017-1,"""The industry is learning where the value really is,"" said Chuck Meloy, chief executive of Endeavor Energy Resources LP [EERL.UL], one of the largest private oil producers in the region. ""And that's out here in the Permian."""
+Chevron,2017-1,"{{20170201T060003.066+0000}}INSIGHT-As oil recovers, U.S. firms descend on the Permian Basin in West TexasBy Ernest Scheyder"
+Chevron,2017-1,"ODESSA, Texas, Feb 1 (Reuters) - In most U.S. shale oil regions, energy firms are making strategic but cautious bets as the price of oil holds above $50 a barrel."
+Chevron,2017-1,"Here in the Permian Basin of West Texas, the largest U.S. oil patch, the industry poured more than $28 billion into land acquisitions last year - more than triple what they spent in 2015."
+Chevron,2017-1,Those deals set the stage for much larger investments needed to extract the oil from the ground - and they illustrate how the Permian Basin has become the epicenter for the U.S. shale resurgence after a historic oil price crash.
+Chevron,2017-1,"""We could easily see an extra 100 rigs out here in the Permian by June,"" said Josh Clawson of Gesco, a Midland, Texas, electrical contractor for oil drilling rigs."
+Chevron,2017-1,That doesn't necessarily mean the investment blitz will extend to other U.S. oil regions. The industry's focus on the Permian reflects the simple math of profitability and a complex set of geographic advantages and technological advances that make it cheaper to drill here than in other major U.S. oil regions.
+Chevron,2017-1,"Permian Basin producers make money at the current crude price of about $53 per barrel because of the region's sprawling pipeline network, abundant labor and supplies, and warm winters that allow year-round work."
+Chevron,2017-1,Most of America's shale industry needs prices above $60 a barrel to justify new projects and expansion. Oil has not hit that price since June 2015.
+Chevron,2017-1,"So at least for now, the Permian accounts for a disproportionate share of the industry's recovery. The amount spent on Permian land purchases and leases last year represented 39 percent of all deals nationally and tripled the activity seen in any other major U.S. oil region."
+Chevron,2017-1,"Acquisitions in North Dakota's Bakken shale fields, by comparison, accounted for 3 percent of all deals."
+Chevron,2017-1,Judging by the confident flow of capital into West Texas - a swagger bred in part by aggressive cost-cutting and innovation through the downturn - U.S. oil companies have retained their appetite for risk.
+Chevron,2017-1,"What remains to be seen, should per-barrel prices rise further, is whether companies continue to expand operations in the Permian as projects start to make more economic sense in other oil states including North Dakota, Colorado and Wyoming."
+Chevron,2017-1,"Oil companies started the new year with announcements of about $9 billion more in Permian land deals, including a $6.6 billion Exxon Mobil Corp buy that doubled its acreage in the basin.[nL4N1F74E1]"
+Chevron,2017-1,"Occidental Petroleum Corp , WPX Energy , Noble Energy Inc and RSP Permian Inc have also made major commitments to the region."
+Chevron,2017-1,"The companies that have sold or leased their holdings have typically been smaller, privately-held firms aiming to take advantage of the high land prices rather than invest the millions of dollars needed to pump the oil."
+Chevron,2017-1,"The demand for West Texas acreage has sent land prices soaring in the last two years. One deal in December 2016 priced out at more than $63,000 an acre, double the price paid in similar deal earlier that year."
+Chevron,2017-1,Double Eagle Energy Permian LLC and its predecessor companies have made a fortune buying and selling Permian acreage starting in 2009.
+Chevron,2017-1,"But Double Eagle's founders, who have snapped up 65,000 acres in the past two years, now plan to start drilling their holdings in addition to speculating on land values. The firm is preparing for an initial public offering with an expected valuation of $3 billion, according to a half dozen bankers who have examined its value.[nL1N1CI1LI]"
+Chevron,2017-1,"""Activity breeds activity,"" said John Sellers, co-founder of Double Eagle, of the surge here. ""The Permian is a really great basin to be in."""
+Chevron,2017-1,"While land prices have risen fast, the cost of acreage still represents a small part of the profit equation. Most of the expense is tied to drilling and getting the oil to market."
+Chevron,2017-1,Buyers of Permian acreage are moving quickly to tap their holdings. The number of rigs across the basin is up more than 28 percent in the past year; oil job postings here have more than doubled from lows of last March; and sales tax receipts for the region starting rising in November after falling for two years.
+Chevron,2017-1,"Oil firms are pumping 2.2 million barrels per day (bpd) of crude from the Permian, about a quarter of U.S. output of 8.9 million bpd."
+Chevron,2017-1,"In Midland and nearby Odessa, centers for the West Texas industry, the buzz of economic growth has replaced the desolation of 2015 and early 2016."
+Chevron,2017-1,Many storage yards are only half full - meaning more equipment is in the field.
+Chevron,2017-1,"Chevron Corp , which controls more than 1 million acres of Permian land, last year opened a new regional office in Midland. EOG Resources Inc and Occidental Petroleum Corp have office expansion plans of their own."
+Chevron,2017-1,"Concho Resources Inc , which is headquartered in Midland, has been renovating and expanding its downtown Midland offices and funding community projects, including a $400,000 makeover of a downtown park."
+Chevron,2017-1,"Permits for new home construction jumped 50 percent in November, the latest period for which data are available. And dinner at Midland's Texas Roadhouse Inc now requires a half-hour wait."
+Chevron,2017-1,"""Everyone I know here is hiring,"" said J. Ross Lacy, a Midland councilman."
+Chevron,2017-1,"The resurgence gained momentum last summer when industry veteran Mark Papa's Silver Run Acquisition Corp bought Centennial Resource Development Inc , which controls premium acreage across the Permian.[nL1N1A51D0]"
+Chevron,2017-1,"Papa is considered one of the preeminent oil executives of his generation, and his move from retirement back into the oil patch was seen as a sign by many that the Permian was heating up again.[nL1N1A51D0]"
+Chevron,2017-1,"Two months later, Apache Corp said it had accumulated over 300,000 acres of Permian land over two years for less than $1,300 an acre."
+Chevron,2017-1,"""The Permian Basin represents the foundation of Apache's North American growth strategy,"" said Gary Clark, vice president of investor relations at Houston-based Apache."
+Chevron,2017-1,"Apache estimated the land had more than 3 billion barrels of oil, sparking speculation that the Permian holds far more oil than anyone had expected in a previously overlooked part of the basin.[nL3N1BJ3XA]"
+Chevron,2017-1,"Anadarko Petroleum Corp sold acreage in east Texas earlier this month for $2.3 billion as it looked to raise cash to develop the 600,000 acres of Permian land it controls.[nL1N1F22LS]"
+Chevron,2017-1,"The firm is relocating 200 employees and their families to Midland, a sign of faith in the region's long-term prospects."
+Chevron,2017-1,"Many of recent Permian deals were paid for with cash from secondary stock offerings, an unusual step that investors typically dislike because it dilutes their stakes in companies. But in the Permian, it seems, investors see the payoff."
+Chevron,2017-1,Companies turned to stock offerings for cash because debt markets were largely closed to oil producers during the two-year price downturn.[nL2N1800XD]
+Chevron,2017-1,Diamondback Energy Inc paid more than $3 billion last year for Permian land in two separate transactions - deals financed through stock offerings. Diamondback executives said the deals were immediately profitable and should provide years of growth.
+Chevron,2017-1,"Executives at SM Energy Co and RSP Permian made similar comments in announcing their own deals late last year for $1.6 billion and $2.4 billion, respectively.[nL4N1CO3MW][nL4N1CJ552]"
+Chevron,2017-1,"While shares of top Permian producers have risen in recent weeks, Wall Street's appetite for stock is unsated. Of the 44 analysts covering Pioneer Natural Resources Co - considered by many investors to be the top Permian producer - forty recommend buying it, according to Thomson Reuters data."
+Chevron,2017-1,Investors are seeing the same unique advantages that drew oil companies to wide-open spaces of West Texas.
+Chevron,2017-1,"""The industry is learning where the value really is,"" said Chuck Meloy, chief executive of Endeavor Energy Resources LP [EERL.UL], one of the largest private oil producers in the region. ""And that's out here in the Permian."""
+Chevron,2017-1,"{{20170201T000101.571+0000}}After slump in energy deals, hints of recovery: EY* Deal volume down 27 pct in 2016 from year earlier: EY"
+Chevron,2017-1,"LONDON, Feb 1 (Reuters) - A sharp pick up in deal-making in the oil and gas sector in recent weeks has scope to accelerate as oil prices recover, advisory company EY said in a report."
+Chevron,2017-1,"While the number of deals in 2016 dropped year-on-year by 27 percent, their value rose to $395 billion from $340 billion in 2015."
+Chevron,2017-1,"Executives' appetite for acquisition clearly grew after OPEC and major non-OPEC oil producers agreed to cut output in November, boosting prices and instilling confidence that a recovery was under way. Exxon Mobil BP , Total and Statoil all signed major deals in the last few weeks of the year. [nL5N1F239Q]"
+Chevron,2017-1,"Royal Dutch Shell on Tuesday announced $4.7 billion in asset sales, including a large chunk of its North Sea portfolio in what many analysts saw as a bellwether for M&A activity due to its relatively high operating costs. [nL5N1FL1XD]"
+Chevron,2017-1,"""Transactions took a back seat to the more urgent task to adapt to new economic realities in the sector last year. A number of deals were initiated but not completed amid ongoing volatility,"" Andy Brogan, EY Global Oil and Gas Transaction Leader said."
+Chevron,2017-1,"""We expect to see the momentum that began in the fourth quarter of 2016 continue in the year ahead."""
+Chevron,2017-1,"Oil prices have gradually recovered since January 2016, when they sank to a 13-year low of $27 a barrel, forcing companies to slash spending and shelve deals on oil and gas fields."
+Chevron,2017-1,"Deal activity in North America rose to $76 billion in 2016 from $43 billion in 2015, driven primarily by the shale oil Permian basin, with its low operating costs and high reservoirs, which spurred a record number of transactions, according to the EY report."
+Chevron,2017-1,"A total of 1,024 upstream deals were struck last year with a combined value of $130 billion."
+Chevron,2017-1,"The infrastructure sector, which includes pipelines and storage terminals, produced the largest increase in volume, rising by 37 percent to 93 deals worth $146 billion."
+Chevron,2017-1,"Deals in the refining sector, which is less influenced by oil price volatility, declined by 17 percent from a year earlier to 131 while rising in value by around 30 percent to $65.9 billion, EY said."
+Chevron,2017-1,Major downstream assets included the $10.9 billion acquisition by a consortium led by Russia's oil champion Rosneft to acquire a 98 percent stake in an Indian refinery.[nL4N1CL05T
+Chevron,2017-1,"{{20170130T113058.970+0000}}BRIEF-Chevron says approved annual base salary of $1.9 million for CEO John Watson, no increase from prior yearJan 30 (Reuters) - Chevron Corp"
+Chevron,2017-1,"* Chevron says approved annual base salary of $1.9 million for CEO John Watson, no increase from prior year"
+Chevron,2017-1,"{{20170130T060001.665+0000}}RPT-ANALYSIS-Border tax ideas roil oil markets, favor Gulf Coast refiners(Repeating for additional clients with no changes to text)"
+Chevron,2017-1,"HOUSTON/NEW YORK, Jan 27 (Reuters) - As with many industries now fretting over the uncertain future of U.S. trade policy, the oil business is sizing up the potential impact of the various protectionist measures being bandied about Washington - which have sent crude markets into a tizzy."
+Chevron,2017-1,"The trade proposal with the most momentum may be the controversial tax reform, pushed by Republicans in Congress, that could slap a tax of up to 20 percent on all imports, including crude oil. That would spark a rise in fuel costs across the country that would hurt East and West Coast refiners more than those near the Gulf of Mexico."
+Chevron,2017-1,"It would also hit the pocketbooks of drivers and airline passengers, as refiners pass on the nearly $30 billion that the tax could cost them each year on crude imports."
+Chevron,2017-1,"""The consumer is really the one that suffers,"" Cynthia Warner, executive vice president for operations at refiner Tesoro Corp , said earlier this month at a conference in Houston. Tesoro operates seven refineries: two in California, two in North Dakota and one each in Utah, Alaska and Washington."
+Chevron,2017-1,"The ""border adjustment"" tax could also redraw trade maps for global flows of crude and refined products. U.S. crude producers would be the obvious beneficiaries as their overseas rivals bear heavy taxes on imports, which are used often by coastal refiners, especially those without direct access to U.S. pipelines."
+Chevron,2017-1,Higher prices for domestic crude would make pumping from more U.S. fields economically viable - encouraging higher output from the shale patch and giving more momentum to a nascent recovery in the U.S. shale industry after a brutal international price war.
+Chevron,2017-1,"While that likely would not put a big dent in the 7.9 million barrels per day (bpd) that the U.S. imports, Goldman Sachs estimates that U.S. oil exploration and production firms would benefit to the tune of $20 billion from higher domestic crude price and increased production."
+Chevron,2017-1,Crude markets have been buffeted by the public back-and-forth between President Donald Trump and the Republican party over various tax proposals.
+Chevron,2017-1,"Contradictory signals from Trump sent the oil markets up and down in recent days. U.S. crude fell to its biggest discount to Brent crude in five months last week after Trump appeared to poured cold water on the idea as ""too complex"". [nL4N1F7531]"
+Chevron,2017-1,"The next day, he said the tax would be discussed - and U.S. crude rose relative to Brent."
+Chevron,2017-1,"Traders had speculated on the tax with an options bet that the value of U.S. crude would rise above the global Brent crude benchmark. Trump's comments caused volatility in trade of those options, which in turn impacted benchmark oil prices."
+Chevron,2017-1,"Investment bank Goldman Sachs estimated in a report this week the border tax proposal had a 20 percent chance of passing. [nL1N1FE4JC] But White House chief of staff Reince Priebus seemed to move the President closer to supporting the border adjustment tax on Thursday, in the context of discussing how to make Mexico pay for a security wall on U.S. border with Mexico, his signature campaign promise."
+Chevron,2017-1,"Asked if Trump favored a border adjustment tax, Priebus said such a tax would be ""one way"" of paying for the border wall."
+Chevron,2017-1,Border taxes are part of a broader tax reform plan that is being pushed by Republican House Speaker Paul Ryan as an alternative to a variety of protectionist trade policies discussed in a more ad hoc way by Trump.
+Chevron,2017-1,"While Trump has threatened to impose tariffs on specific industries or countries in an effort to boost U.S. manufacturing, Ryan's border adjustment tax would tax all imports at 20 percent. Exports would be tax-free."
+Chevron,2017-1,"That could add more than $30 billion to the annual import bill for U.S. refiners, assuming an oil price of $53 per barrel on the 7.9 million bpd of imports that fuel the world's largest economy."
+Chevron,2017-1,A steep rise in import costs would squeeze the margins of refiners dependent on foreign crude shipments such as Chevron and PBF Energy .
+Chevron,2017-1,"But all refiners would see feedstock prices rise if the tax pushed up domestic crude prices - and it would, because there is not enough U.S. crude to meet demand."
+Chevron,2017-1,"To cover the costs to refiners, retail gasoline prices would need to increase by 13 percent, or 30 cents a gallon, energy consultant Philip Verleger estimated in a report last month. Diesel would rise by 11 percent, or 27 cents a gallon."
+Chevron,2017-1,"That would be the equivalent of adding $300 to $400 per year to the average consumers' gasoline tab, Barclays Capital said earlier this month."
+Chevron,2017-1,"Aside from oil refiners, automakers and retailers oppose the tax. Those against the measure include billionaire industrialists Charles and David Koch, who spend heavily to support Republican candidates and conservative policies and own a refinery that imports crude."
+Chevron,2017-1,"Republicans, who now control the House and Representatives and the Senate, say that if U.S. companies want the lower corporation tax from its current level of 35 percent - a move supported by both Trump and Ryan - then they have to accept the border tax on imports. [nL1N1FE4WX]"
+Chevron,2017-1,"The refining industry as a whole opposes the tax, which would separate it from the global oil marketplace. But East and West Coast refiners have more reason to worry."
+Chevron,2017-1,Coastal refiners import more foreign oil and typically have a competitive advantage over inland counterparts in accessing imports because they can buy a wider range of crude oil in various qualities.
+Chevron,2017-1,"""Anybody who is importing crude and not exporting very much - mostly refiners on the East and West Coasts - is going to be in a worse position,"" said Sandy Fielden, director of oil and products research at Morningstar. ""Their raw material cost will have gone up, and that will eat into their margins."""
+Chevron,2017-1,"Chevron, which operates two refineries in California with capacity of more than 500,000 barrels per day, is the largest importer of foreign crude, according to government data from 2016."
+Chevron,2017-1,"For the first ten months of 2016, Chevron imported some 213 million barrels, excluding Canadian imports. That's followed by Valero Energy , which imported 194 million barrels, and Phillips 66 , which imported 130 million barrels."
+Chevron,2017-1,"Phillips 66 said it was analyzing the potential impacts of such a law, while Chevron, Valero and PBF Energy did not respond to requests for comment."
+Chevron,2017-1,"West Coast refiners may feel the pinch less than those on the East Coast, because they have access to Alaskan crude cargoes."
+Chevron,2017-1,"U.S. Gulf refiners would be on the best footing, traders say, because of their easy access to domestic and foreign supplies and proximity to export markets for tax-free fuel shipments out."
+Chevron,2017-1,"ANALYSIS-Border tax ideas roil oil markets, favor Gulf Coast refiners - Reuters News"
+Chevron,2017-1,"{{20170127T203512.090+0000}}ANALYSIS-Border tax ideas roil oil markets, favor Gulf Coast refinersBy Liz Hampton and Catherine Ngai"
+Chevron,2017-1,"HOUSTON/NEW YORK, Jan 27 (Reuters) - As with many industries now fretting over the uncertain future of U.S. trade policy, the oil business is sizing up the potential impact of the various protectionist measures being bandied about Washington - which have sent crude markets into a tizzy."
+Chevron,2017-1,"The trade proposal with the most momentum may be the controversial tax reform, pushed by Republicans in Congress, that could slap a tax of up to 20 percent on all imports, including crude oil. That would spark a rise in fuel costs across the country that would hurt East and West Coast refiners more than those near the Gulf of Mexico."
+Chevron,2017-1,"It would also hit the pocketbooks of drivers and airline passengers, as refiners pass on the nearly $30 billion that the tax could cost them each year on crude imports."
+Chevron,2017-1,"""The consumer is really the one that suffers,"" Cynthia Warner, executive vice president for operations at refiner Tesoro Corp , said earlier this month at a conference in Houston. Tesoro operates seven refineries: two in California, two in North Dakota and one each in Utah, Alaska and Washington."
+Chevron,2017-1,"The ""border adjustment"" tax could also redraw trade maps for global flows of crude and refined products. U.S. crude producers would be the obvious beneficiaries as their overseas rivals bear heavy taxes on imports, which are used often by coastal refiners, especially those without direct access to U.S. pipelines."
+Chevron,2017-1,Higher prices for domestic crude would make pumping from more U.S. fields economically viable - encouraging higher output from the shale patch and giving more momentum to a nascent recovery in the U.S. shale industry after a brutal international price war.
+Chevron,2017-1,"While that likely would not put a big dent in the 7.9 million barrels per day (bpd) that the U.S. imports, Goldman Sachs estimates that U.S. oil exploration and production firms would benefit to the tune of $20 billion from higher domestic crude price and increased production."
+Chevron,2017-1,Crude markets have been buffeted by the public back-and-forth between President Donald Trump and the Republican party over various tax proposals.
+Chevron,2017-1,"Contradictory signals from Trump sent the oil markets up and down in recent days. U.S. crude fell to its biggest discount to Brent crude in five months last week after Trump appeared to poured cold water on the idea as ""too complex"". [nL4N1F7531]"
+Chevron,2017-1,"The next day, he said the tax would be discussed - and U.S. crude rose relative to Brent."
+Chevron,2017-1,"Traders had speculated on the tax with an options bet that the value of U.S. crude would rise above the global Brent crude benchmark. Trump's comments caused volatility in trade of those options, which in turn impacted benchmark oil prices."
+Chevron,2017-1,"Investment bank Goldman Sachs estimated in a report this week the border tax proposal had a 20 percent chance of passing. [nL1N1FE4JC] But White House chief of staff Reince Priebus seemed to move the President closer to supporting the border adjustment tax on Thursday, in the context of discussing how to make Mexico pay for a security wall on U.S. border with Mexico, his signature campaign promise."
+Chevron,2017-1,"Asked if Trump favored a border adjustment tax, Priebus said such a tax would be ""one way"" of paying for the border wall."
+Chevron,2017-1,Border taxes are part of a broader tax reform plan that is being pushed by Republican House Speaker Paul Ryan as an alternative to a variety of protectionist trade policies discussed in a more ad hoc way by Trump.
+Chevron,2017-1,"While Trump has threatened to impose tariffs on specific industries or countries in an effort to boost U.S. manufacturing, Ryan's border adjustment tax would tax all imports at 20 percent. Exports would be tax-free."
+Chevron,2017-1,"That could add more than $30 billion to the annual import bill for U.S. refiners, assuming an oil price of $53 per barrel on the 7.9 million bpd of imports that fuel the world's largest economy."
+Chevron,2017-1,A steep rise in import costs would squeeze the margins of refiners dependent on foreign crude shipments such as Chevron and PBF Energy .
+Chevron,2017-1,"But all refiners would see feedstock prices rise if the tax pushed up domestic crude prices - and it would, because there is not enough U.S. crude to meet demand."
+Chevron,2017-1,"To cover the costs to refiners, retail gasoline prices would need to increase by 13 percent, or 30 cents a gallon, energy consultant Philip Verleger estimated in a report last month. Diesel would rise by 11 percent, or 27 cents a gallon."
+Chevron,2017-1,"That would be the equivalent of adding $300 to $400 per year to the average consumers' gasoline tab, Barclays Capital said earlier this month."
+Chevron,2017-1,"Aside from oil refiners, automakers and retailers oppose the tax. Those against the measure include billionaire industrialists Charles and David Koch, who spend heavily to support Republican candidates and conservative policies and own a refinery that imports crude."
+Chevron,2017-1,"Republicans, who now control the House and Representatives and the Senate, say that if U.S. companies want the lower corporation tax from its current level of 35 percent - a move supported by both Trump and Ryan - then they have to accept the border tax on imports. [nL1N1FE4WX]"
+Chevron,2017-1,"The refining industry as a whole opposes the tax, which would separate it from the global oil marketplace. But East and West Coast refiners have more reason to worry."
+Chevron,2017-1,Coastal refiners import more foreign oil and typically have a competitive advantage over inland counterparts in accessing imports because they can buy a wider range of crude oil in various qualities.
+Chevron,2017-1,"""Anybody who is importing crude and not exporting very much - mostly refiners on the East and West Coasts - is going to be in a worse position,"" said Sandy Fielden, director of oil and products research at Morningstar. ""Their raw material cost will have gone up, and that will eat into their margins."""
+Chevron,2017-1,"Chevron, which operates two refineries in California with capacity of more than 500,000 barrels per day, is the largest importer of foreign crude, according to government data from 2016."
+Chevron,2017-1,"For the first ten months of 2016, Chevron imported some 213 million barrels, excluding Canadian imports. That's followed by Valero Energy , which imported 194 million barrels, and Phillips 66 , which imported 130 million barrels."
+Chevron,2017-1,"Phillips 66 said it was analyzing the potential impacts of such a law, while Chevron, Valero and PBF Energy did not respond to requests for comment."
+Chevron,2017-1,"West Coast refiners may feel the pinch less than those on the East Coast, because they have access to Alaskan crude cargoes."
+Chevron,2017-1,"U.S. Gulf refiners would be on the best footing, traders say, because of their easy access to domestic and foreign supplies and proximity to export markets for tax-free fuel shipments out."
+Chevron,2017-1,"UPDATE 4-Chevron profit miss hurts stock, Dow Jones index - Reuters News"
+Chevron,2017-1,"{{20170127T182149.819+0000}}UPDATE 4-Chevron profit miss hurts stock, Dow Jones index(Recasts top of story, adds details from earnings call; updates stock)"
+Chevron,2017-1,"Jan 27 (Reuters) - Helped by rising oil prices, Chevron Corp swung to a quarterly profit on Friday that still fell short of analyst expectations, dragging down the company's share price, and with it, the Dow Jones industrial average <.DJI> index."
+Chevron,2017-1,The results showed that Wall Street analysts overestimated how much the No. 2 U.S. oil producer could improve with cost cuts in the quarter after two years of lackluster results.
+Chevron,2017-1,"""Sometimes when things are going well, it's not uncommon for the Street to be optimistic,"" said Brian Youngberg, an analyst at Edward Jones."
+Chevron,2017-1,"Since the end of 2014, Chevron has laid off 9.500 employees and slashed its annual budget to boost results and protect its dividend, which Chief Executive John Watson said on a Friday call with investors remained his top priority.[nL1N16G0I8]"
+Chevron,2017-1,"""The trend of spend is down,"" Watson said, forecasting the company will be cash-flow neutral this year. ""We've made remarkable progress bringing our costs down."""
+Chevron,2017-1,"Like many U.S. oil producers, Chevron has benefited from the OPEC oil cartel's move to curtail production, which has helped lift crude prices in recent months.[nL5N1FG3RE]"
+Chevron,2017-1,"The California-based company posted a net income of $415 million, or 22 cents per share, after a net loss of $588 million, or 31 cents a share, a year earlier."
+Chevron,2017-1,"Excluding one-time items, the company earned 21 cents per share. By that measure, analysts expected earnings of 64 cents a share, according to Thomson Reuters I/B/E/S."
+Chevron,2017-1,"Despite missing expectations, Chevron still is seen by many as a top-notch oil producer."
+Chevron,2017-1,"""The overall investment thesis hasn't changed at all,"" Youngberg said."
+Chevron,2017-1,Production fell slightly to 2.7 million barrels of oil equivalent per day.
+Chevron,2017-1,"Earnings rose in the company's upstream segments, which pump oil and gas, but dropped in the refining segments due to lower margins and higher taxes."
+Chevron,2017-1,"Chevron's flagship Richmond, Calif., refinery, which is undergoing a $1 billion renovation, also had downtime during the quarter, denting profit.[nL2N1C91Z5]"
+Chevron,2017-1,"Watson said he expected the company's Wheatstone liquefied natural gas (LNG) project in Australia to come online this year. The nearby Gorgon LNG facility has shipped 10 LNG tankers since Jan. 1, he said."
+Chevron,2017-1,"In the Permian Basin of Texas, where Chevron controls more than 1 million acres of oil-rich land, the company plans to add a new drilling rig every 8 weeks, Watson said."
+Chevron,2017-1,"BUZZ-U.S. STOCKS ON THE MOVE-Chevron, General Dynamics, American Airlines - Reuters News"
+Chevron,2017-1,"{{20170127T174206.436+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Chevron, General Dynamics, American Airlines* Eikon search string for individual stock moves: STXBZ"
+Chevron,2017-1,"Wall Street was slightly lower on Friday, weighed down by underwhelming corporate earnings and gross domestic product data. [.N]"
+Chevron,2017-1,"The Dow Jones Industrial Average <.DJI> was down 0.05 percent at 20,091.7, the S&P 500 <.SPX> was down 0.11 percent at 2,294.17 and the Nasdaq Composite <.IXIC> was down 0.01 percent at 5,654.404."
+Chevron,2017-1,"The oil and natural gas producer said it swung to a fourth-quarter profit due to rising commodity prices and cost cuts, though results fell short of analysts' expectations . [nL1N1FH0MS]"
+Chevron,2017-1,"The software maker reported a 3.6 percent rise in fiscal second-quarter profit on Thursday, helped by growth in its fast-growing cloud computing business, but it saw a slight decline in margins in the unit that includes its flagship cloud platform Azure. [nL4N1FG52V]"
+Chevron,2017-1,"The U.S. defense contractors reported a better-than-expected quarterly profit on higher sales across all its business units, particularly in combat systems, sending shares up more than 3 percent.[nL4N1FH2J7]"
+Chevron,2017-1,"The personal products and pet nutrition maker reported lower-than-expected quarterly sales, hurt by a strong dollar and weak demand for its products in Europe. [nL4N1FH2VS]"
+Chevron,2017-1,"The world's biggest coffee seller trimmed its full-year revenue forecast and reported a smaller-than-expected rise in quarterly sales at established restaurants in the Americas, sending its shares down 3.8 percent in after-hours trade. [nL1N1FG2JU]"
+Chevron,2017-1,"The company reported better-than-expected quarterly revenue and profit driven by a stabilizing PC market and growth in its data center business, which offers cloud-based software services. [nL4N1FG521]"
+Chevron,2017-1,"Google's parent posted fourth-quarter profit below analysts' estimates on Thursday, hurt by a higher tax rate, but analysts cheered the company's progress in diversifying its business beyond advertising. [nL4N1FG52R]"
+Chevron,2017-1,The payments processor offered a subdued outlook as it faced unpredictable currency fluctuations and an increasingly competitive digital payments market. [nL4N1FG52G]
+Chevron,2017-1,The carmaker expects the embattled Russian car market to return to growth this year as improved stability in exchange rates and prices brings customers back into showrooms. [nL5N1FH4XV]
+Chevron,2017-1,"The No. 1 U.S. airline by passenger traffic reported a fall in profit from a year earlier, when it recorded a $3 billion tax benefit. [nL4N1FH2BD]"
+Chevron,2017-1,The stem cell developer announced proposed public offering after the bell on Thursday but did not disclose the size. [nL1N1FH0IR]
+Chevron,2017-1,"The casino operator's revenue jumped 37.3 percent to $1.30 billion, beating analysts' estimate, mainly driven by sales at Wynn Palace resort. [nL4N1FH2M7]"
+Chevron,2017-1,"Enbridge Inc said it would pay about $170 million to take private Midcoast Energy Partners, which also has a stake in natural gas pipelines owned by Enbridge Energy Partners. [nL4N1FH2DF]"
+Chevron,2017-1,"The cyber-security software and hardware maker offered 8.5 million shares at $10.50, a 13.2 percent discount to stock's $12.09 last sale. [nL1N1FH0O3]"
+Chevron,2017-1,"The company offered 6.5 million shares at $3.00, a 13.5 percent discount to stock's last sale on Thursday. [nL1N1FH0TY]"
+Chevron,2017-1,The drug developer said its topical acne drug failed to meet all the goals in one of two late-stage studies. [nL4N1FH2YD]
+Chevron,2017-1,"The network gear maker's price target was cut by four brokerages, saying revenue from company's cloud business and U.S. market was strong, but international market ""looked pretty sloppy"". [nL4N1FH2MK]"
+Chevron,2017-1,The educational software company reported second-quarter results that beat estimates and also unveiled plans to cut capital expenditure. [nL1N1FH0W6]
+Chevron,2017-1,"The U.S. shale oil producer's shares debut at $14.10, 6 percent below IPO price. [nL4N1FH2YX]"
+Chevron,2017-1,The Abu Dhabi Investment Authority slices its stake in the PE firm for the second time in a week. [nL1N1FH0ZA]
+Chevron,2017-1,The royalty trust of SandRidge Energy announced a distribution of 12 cents per unit for the three months ended Dec. 31 primarily related to production attributable to the trust's interests from September to November. [nL4N1FH2U7]
+Chevron,2017-1,"The cancer drug developer priced an upsized deal of 6.4 million shares at $16, above the filed range of $13 to $15, to raise about $101.8 million. [nL4N1FH2ND]"
+Chevron,2017-1,Chevron CEO says top priority remains dividend - Reuters Investor Briefs
+Chevron,2017-1,{{20170127T174051.040+0000}}Chevron CEO says top priority remains dividendChevron Corp <CVX.N> : Chief Executive John Watson says top priority remains keeping & growing dividend . CEO says still expects Wheatstone LNG project to come online this year . CEO says work on Gorgon LNG train 3 will continue this year . CEO says expects to cut operating expenses further in 2017 .
+Chevron,2017-1,BRIEF-Chevron CEO says top priority remains dividend - Reuters News
+Chevron,2017-1,{{20170127T171229.327+0000}}BRIEF-Chevron CEO says top priority remains dividendJan 27 (Reuters) - Chevron Corp
+Chevron,2017-1,* Chief Executive John Watson says top priority remains keeping & growing dividend
+Chevron,2017-1,* CEO says still expects Wheatstone LNG project to come online this year
+Chevron,2017-1,* CEO says work on Gorgon LNG train 3 will continue this year
+Chevron,2017-1,* CEO says expects to be cash flow neutral this year
+Chevron,2017-1,* CEO says Gorgon LNG operations are stable; 10 cargos shipped since Jan. 1
+Chevron,2017-1,* CEO says expect first LNG from Gorgon train 3 early in second quarter
+Chevron,2017-1,* CEO says lowered Permian unit operating costs by 35 percent last year
+Chevron,2017-1,* CEO says capex would drop further in 2018 if oil prices stay in $50-$55/barrel range
+Chevron,2017-1,* CEO says: 'I've been very pleased with the Trump Administration agenda'
+Chevron,2017-1,* CEO says U.S. tax system has not been competitive for some time
+Chevron,2017-1,* CEO says agrees with U.S. President Trump that any border tax schema would be complex
+Chevron,2017-1,"* CEO says: 'We need to take a look at the consequences of' U.S. border tax, both positive and negative"
+Chevron,2017-1,* CEO says has been able to 'navigate pretty well' in Venezuela
+Chevron,2017-1,"BUZZ-U.S. STOCKS ON THE MOVE-Chevron, Intel, Microsoft, Wynn Resorts - Reuters News"
+Chevron,2017-1,"{{20170127T155935.733+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Chevron, Intel, Microsoft, Wynn Resorts* Eikon search string for individual stock moves: STXBZ"
+Chevron,2017-1,"U.S. stocks were slightly lower at the open on Friday as investors took a breather following the Dow Jones Industrial Average's three-day winning streak, which has kept the index firmly above the 20,000 mark. [.N]"
+Chevron,2017-1,"The Dow Jones Industrial Average <.DJI> was down 0.08 percent at 20,083.88, the S&P 500 <.SPX> was down 0.15 percent at 2,293.29 and the Nasdaq Composite <.IXIC> was down 0.03 percent at 5,653.523."
+Chevron,2017-1,"The oil and natural gas producer said it swung to a fourth-quarter profit due to rising commodity prices and cost cuts, though results fell short of analysts' expectations. [nL1N1FH0MS]"
+Chevron,2017-1,"The chipmaker reported better-than-expected quarterly revenue and profit driven by a stabilizing PC market and growth in its data center business, which offers cloud-based software services. [nL4N1FG521]"
+Chevron,2017-1,"The software maker reported a 3.6 percent rise in fiscal second-quarter profit on Thursday, helped by growth in its fast-growing cloud computing business, but it saw a slight decline in margins in the unit that includes its flagship cloud platform Azure. [nL4N1FG52V]"
+Chevron,2017-1,"Google's parent posted fourth-quarter profit below analysts' estimates on Thursday, hurt by a higher tax rate, but analysts cheered the company's progress in diversifying its business beyond advertising. [nL4N1FG52R]"
+Chevron,2017-1,"The U.S. defense contractors reported a better-than-expected quarterly profit on higher sales across all its business units, particularly in combat systems. [nL4N1FH2J7]"
+Chevron,2017-1,"The No. 1 U.S. airline by passenger traffic reported a fall in profit from a year earlier, when it recorded a $3 billion tax benefit. [nL4N1FH2BD]"
+Chevron,2017-1,The stem cell developer announced proposed public offering after the bell on Thursday but did not disclose the size. [nL1N1FH0IR]
+Chevron,2017-1,"The casino operator's revenue jumped 37.3 percent to $1.30 billion, beating analysts' estimate, mainly driven by sales at Wynn Palace resort. [nL4N1FH2M7]"
+Chevron,2017-1,"The cyber-security software and hardware maker offered 8.5 million shares at $10.50, a 13.2 percent discount to stock's $12.09 last sale. [nL1N1FH0O3]"
+Chevron,2017-1,"The personal products and pet nutrition maker's quarterly revenue missed Wall Street estimates, hurt by weak demand for some of its products in Latin America, Europe and North America and deconsolidation of its Venezuela operations. [nBw97bndCa]"
+Chevron,2017-1,"The world's biggest coffee seller trimmed its full-year revenue forecast and reported a smaller-than-expected rise in quarterly sales at established restaurants in the Americas, sending its shares down 3.8 percent in after-hours trade. [nL1N1FG2JU]"
+Chevron,2017-1,The payments processor offered a subdued outlook as it faced unpredictable currency fluctuations and an increasingly competitive digital payments market. [nL4N1FG52G]
+Chevron,2017-1,BUZZ-Chevron Corp: Biggest intraday loss in 6 months - Reuters News
+Chevron,2017-1,"{{20170127T150944.443+0000}}BUZZ-Chevron Corp: Biggest intraday loss in 6 months** Second-largest U.S. oil producer's shares fall as much as 3.2 pct to $112.87, stock's biggest intraday pct loss in 6 months"
+Chevron,2017-1,** Biggest drag on the Dow <.DJI> and the S&P 500 Energy Index <.SPNY> in early trading
+Chevron,2017-1,** Earnings rose in the company's upstream segments but dropped in the refining segments due to lower margins and higher taxes
+Chevron,2017-1,"** Up to Thursday's close, Chevron's stock had risen about 40 pct in the last 12 months, while the S&P 500 Energy index's <.SPNY> gained about 34 pct"
+Chevron,2017-1,"BUZZ-U.S. STOCKS ON THE MOVE-Starbucks, Chevron, Colgate-Palmolive, Wynn Resorts - Reuters News"
+Chevron,2017-1,"{{20170127T141514.367+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Starbucks, Chevron, Colgate-Palmolive, Wynn Resorts* Eikon search string for individual stock moves: STXBZ"
+Chevron,2017-1,"The S&P 500 and the Dow Jones Industrial Average looked set to open little changed on Friday, but the Nasdaq was on track for a higher open following strong results from tech companies. [.N]"
+Chevron,2017-1,"Dow Jones Industrial Average futures <1YMc1> were down 0.09 percent at 20,033, S&P 500 futures were down 0.01 percent at 2,293.75 and Nasdaq 100 futures were up 0.23 percent at 5,159.75."
+Chevron,2017-1,"The world's biggest coffee seller trimmed its full-year revenue forecast and reported a smaller-than-expected rise in quarterly sales at established restaurants in the Americas, sending its shares down 3.8 percent in after-hours trade. [nL1N1FG2JU]"
+Chevron,2017-1,"The oil and natural gas producer said it swung to a fourth-quarter profit due to rising commodity prices and cost cuts, though results fell short of analysts' expectations. [nL1N1FH0JP]"
+Chevron,2017-1,"The casino operator's revenue jumped 37.3 percent to $1.30 billion, beating analysts' estimate, mainly driven by sales at Wynn Palace resort. [nL4N1FH2M7]"
+Chevron,2017-1,"The personal products and pet nutrition maker's quarterly revenue missed Wall Street estimates, hurt by weak demand for some of its products in Latin America, Europe and North America and deconsolidation of its Venezuela operations. [nBw97bndCa]"
+Chevron,2017-1,The stem cell developer announced proposed public offering after the bell on Thursday but did not disclose the size. [nL1N1FH0IR]
+Chevron,2017-1,"The No. 1 U.S. airline by passenger traffic reported a fall in profit from a year earlier, when it recorded a $3 billion tax benefit. [nL4N1FH2BD]"
+Chevron,2017-1,"The world's biggest software company reported a 3.6 percent rise in fiscal second-quarter profit on Thursday, helped by growth in its fast-growing cloud computing business, but it saw a slight decline in margins in the unit that includes its flagship cloud platform Azure."
+Chevron,2017-1,"The company's quarterly adjusted revenue missed analysts' estimate, partly due to lower-than-expected sales of its hepatitis C drug and cancer treatment. [nL4N1FH2LQ]"
+Chevron,2017-1,The payments processor offered a subdued outlook as it faced unpredictable currency fluctuations and an increasingly competitive digital payments market. [nL4N1FG52G]
+Chevron,2017-1,{{20170127T135936.080+0000}}Chevron reports Q4 earnings per share $0.22Chevron Corp <CVX.N>: Chevron reports fourth quarter net income of $415 million . Q4 earnings per share $0.22 . Q4 sales $30 billion versus I/B/E/S view $33.3 billion . Q4 earnings per share view $0.64 -- Thomson Reuters I/B/E/S . Chevron Corp - international upstream operations earned $809 million in Q4 2016 compared with $593 million a year earlier .
+Chevron,2017-1,* Chevron Corp - international upstream operations earned $809 million in Q4 2016 compared with $593 million a year earlier
+Chevron,2017-1,* Says U.S. Downstream operations were breakeven in Q4 2016 compared with earnings of $496 million a year earlier
+Chevron,2017-1,* Chevron corp - U.S. Upstream operations earned $121 million in Q4 2016 compared with a loss of $1.95 billion from a year earlier
+Chevron,2017-1,* Chevron Corp - international downstream operations earned $357 million in Q4 2016 compared with $515 million a year earlier
+Chevron,2017-1,"* Chevron says Q4 international refinery crude oil input of 801,000 barrels per day in Q4 2016 increased 18,000 barrels per day from year-ago period"
+Chevron,2017-1,"* Chevron - international upstream net oil-equivalent production of 1.99 million barrels per day in Q4 2016 increased 33,000 barrels per day, or 2 percent"
+Chevron,2017-1,"* U.S. Downstream refinery crude oil input in q4 2016 decreased 21 percent to 721,000 barrels per day from year-ago period"
+Chevron,2017-1,"* Chevron - U.S. Upstream net oil-equivalent production of 682,000 barrels per day in Q4 2016 was down 37,000 barrels per day, or 5 percent, from a year earlier"
+Chevron,2017-1,"* Chevron Corp - total debt at Dec. 31, 2016 stood at $46.1 billion, an increase of $7.5 billion from a year earlier"
+Chevron,2017-1,"* Chevron corp - ""our 2016 earnings reflect low oil and gas prices we saw during year"""
+Chevron,2017-1,"* Chevron - ""we are well positioned to improve earnings and be cash flow balanced in 2017 through continued tight spending and cost control"""
+Chevron,2017-1,Chevron swings to fourth-quarter profit on rising oil prices - Reuters News
+Chevron,2017-1,{{20170127T133833.200+0000}}Chevron swings to fourth-quarter profit on rising oil pricesJan 27 (Reuters) - Oil and natural gas producer Chevron Corp said on Friday it swung to a fourth-quarter profit due to rising commodity prices and cost cuts.
+Chevron,2017-1,"The company earned a net income of $415 million, or 22 cents per share, after a net loss of $588 million, or 31 cents a share, a year earlier."
+Chevron,2017-1,Production fell slightly to 2.7 million barrels of oil equivalent per day.
+Chevron,2017-1,CORRECTED-UPDATE 1-Lebanon relaunches first oil and gas licensing round - Reuters News
+Chevron,2017-1,{{20170127T090656.276+0000}}CORRECTED-UPDATE 1-Lebanon relaunches first oil and gas licensing round(Corrects number of disputed blocks in paragraph 8 from one to three)
+Chevron,2017-1,"BEIRUT, Jan 26 (Reuters) - Lebanon relaunched its first oil and gas exploration and production licensing round after a three-year delay, its energy minister said on Thursday, kick-starting the development of a hydrocarbon industry stalled by national political paralysis."
+Chevron,2017-1,"Lebanon has opened five offshore blocks (1,4,8,9 and 10) for bidding in a first licensing round, Minister of Energy and Water Cesar Abou Khalil told a news conference."
+Chevron,2017-1,"Lebanon, along with Cyprus, Israel and Egypt, sits on the Levant Basin in the eastern Mediterranean where new gas fields have been discovered since 2009."
+Chevron,2017-1,"In 2013, 46 companies qualified to take part in bidding for oil and gas tenders in Lebanon, 12 of them as operators, including Chevron , Total and Exxon Mobil ."
+Chevron,2017-1,"But political paralysis, which left Lebanon without a president for more than two years, meant the licensing process was put on hold."
+Chevron,2017-1,"Abou Khalil said these companies will remain qualified to bid and a second pre-qualification round for any more companies interested in exploration and production contracts would run between Feb. 2 and March 31. The qualifying companies will be announced on April 13, he said."
+Chevron,2017-1,Pre-qualified companies will submit their bids to the Lebanese Petroleum Administration on Sept. 15 where they will be considered for a month before being passed to the energy minister and then to the cabinet for final approval.
+Chevron,2017-1,Three of the five blocks opened for bidding border Israeli waters. Lebanon considers Israel an enemy state and has an unresolved maritime border dispute with it over a triangular area of sea around 860 sq km that extends along the edge of the three blocks.
+Chevron,2017-1,"Abou Khalil said the choice of blocks offered in the first licensing round was dictated by the likelihood of finding exploitable quantities of oil and gas, and by the need to protect Lebanon's resources along its border."
+Chevron,2017-1,BRIEF-Chevron Corp increases size of board to 12 members - Reuters News
+Chevron,2017-1,{{20170126T223634.242+0000}}BRIEF-Chevron Corp increases size of board to 12 membersJan 26 (Reuters) - Chevron Corp -
+Chevron,2017-1,"What to Watch in the Day Ahead - Friday, January 27 - Reuters News"
+Chevron,2017-1,"{{20170126T193135.909+0000}}What to Watch in the Day Ahead - Friday, January 27(The Day Ahead is an email and PDF publication that includes the day's major stories and"
+Chevron,2017-1,"events, analyses and other features. To receive The Day Ahead, Eikon users can register at"
+Chevron,2017-1,[DAY/US]. Thomson One users can register at RT/DAY/US. All times in ET/GMT)
+Chevron,2017-1,U.S. oil and natural gas producer Chevron Corp will report fourth-quarter results. The oil major
+Chevron,2017-1,is expected to report a jump in quarterly profit helped by rising commodity prices.
+Chevron,2017-1,AbbVie Inc will report fourth-quarter results before markets open. The company's results are
+Chevron,2017-1,"likely to be hurt by slowing sales of its flagship rheumatoid arthritis treatment, Humira."
+Chevron,2017-1,Investors will watch out for additional commentary about the company's promise to keep all drug
+Chevron,2017-1,price increases in 2017 under 10 percent. Investors will also be keen to know about AbbVie's
+Chevron,2017-1,plan on how it intends to tackle potential healthcare and tax reforms put forward by the Trump
+Chevron,2017-1,Investors' focus will be on U.S. government's advanced fourth-quarter gross domestic product
+Chevron,2017-1,"estimate. According to a Reuters survey of economists, GDP likely increased at a 2.2 percent"
+Chevron,2017-1,annualized rate in the fourth quarter after a surging at a 3.5 percent pace in the
+Chevron,2017-1,"July-September quarter. (0830/1330) Also, data from the Commerce Department is likely to show"
+Chevron,2017-1,that durable goods orders rose 2.6 percent in December after falling 4.5 percent in November.
+Chevron,2017-1,"Non-defense capital goods excluding aircraft, a proxy for business spending, are expected to"
+Chevron,2017-1,Aerospace parts maker Honeywell International Inc is expected to report a higher profit for the
+Chevron,2017-1,"fourth quarter, partly helped by a rise in sales in its business which makes controls and"
+Chevron,2017-1,"displays for heating and cooling systems for commercial buildings. In December, Honeywell"
+Chevron,2017-1,"forecast its 2017 organic sales growth rate to improve for the first time in three years, helped"
+Chevron,2017-1,in part by the stabilizing oil and gas market. Investors will look for an update on full year
+Chevron,2017-1,financial forecast and comments on demand trends in 2017 its aerospace business.
+Chevron,2017-1,"American Airlines Group Inc, operator of the No. 1 U.S. airline by passenger traffic, is"
+Chevron,2017-1,"expected to report a lower profit for the fourth quarter, hurt by cheap airfares and higher"
+Chevron,2017-1,"General Dynamics Corp, the maker of Gulfstream business jets, is expected to report a lower"
+Chevron,2017-1,"profit for the fourth quarter, hurt by slowing aircraft sales. Investors will look for comments"
+Chevron,2017-1,on 2017 financial forecast and business environment under new President Donald Trump.
+Chevron,2017-1,Reuters EMEA markets editor Mike Dolan discusses the upcoming week's main market inflection
+Chevron,2017-1,(Compiled By Nayyar Rasheed in Bengaluru; Edited by Shounak Dasgupta)
+Chevron,2017-1,"Australia's LNG projects face major delays, benefiting U.S. producers - Reuters News"
+Chevron,2017-1,"{{20170126T151911.070+0000}}Australia's LNG projects face major delays, benefiting U.S. producers* Australia is set to become the world's biggest LNG exporter"
+Chevron,2017-1,"SINGAPORE, Jan 26 (Reuters) - Australia's plans for a huge increase in its production of liquefied natural gas are being dealt a big blow by a series of production delays, as energy companies struggle with technical problems and cost overruns."
+Chevron,2017-1,"The country is still likely to become the world's biggest LNG exporter, dispatching about 85 million tonnes a year by the end of the decade, up from 30.7 million tonnes in 2015 and 45.1 million tonnes last year. But the pace of growth is much slower than expected because of snafus and higher-than-expected costs that have delayed plans to start or increase LNG exports from four megaprojects, Gorgon, Ichthys, Prelude and Wheatstone, all along or off the coast of northwest Australia."
+Chevron,2017-1,"Now at least three of them, Shell's Prelude floating LNG production vessel, Inpex's <1605.T> Ichtys project, and the expansion of Chevron's Gorgon operation, won't begin exporting until 2018 or even later, rather than 2017 as previously planned, according to several sources with knowledge of the matter."
+Chevron,2017-1,"Chevron, Shell, and Inpex would not comment on potential delays."
+Chevron,2017-1,"It should all be a boon for other suppliers of LNG to Asian buyers, such as utilities in the region. These suppliers can also benefit from higher prices."
+Chevron,2017-1,"Traders said that the beneficiaries include U.S.-based Cheniere Energy with its facility at Sabine Pass in the Gulf of Mexico, and global energy giant Exxon Mobil with its production in Papua New Guinea."
+Chevron,2017-1,"Making matters even worse, the producers in Australia are having to go to their rivals to fulfil contracts."
+Chevron,2017-1,"""The Australian producers have supply commitments, so when there's production delays they have to buy these supplies from competitors in the spot market,"" said an LNG trader involved in such deals who was speaking on condition of anonymity."
+Chevron,2017-1,"""These guys will make a lot of money filling the gap of Australia's production delays,"" he said."
+Chevron,2017-1,Once completed the four projects will have a combined annual LNG capacity of 36.5 million tonnes. The development costs will total $130 billion.
+Chevron,2017-1,"Each one has had to hit the brakes. ""All of Australia's recent wave of LNG projects have had cost and schedule overruns compared to expectations,"" said Saul Kavonic of energy consultancy Wood Mackenzie."
+Chevron,2017-1,The projects being built In Australia are amongst the biggest and technically most challenging ever attempted in the industry. One problem the LNG project developers have pointed to in explaining production delays is that they struggle to find enough qualified and experienced staff.
+Chevron,2017-1,"""There aren't many experts and teams with relevant experience who can lead such huge developments. That's contributed to some of the delays,"" said on engineer who has worked on developing offshore oil and gas projects."
+Chevron,2017-1,"At the $35 billion Ichthys project, engineering firm CIMIC this week pulled out of its contract to build the facility's power station, citing cost overruns."
+Chevron,2017-1,"Ichthys, which includes a stationary rig and a floating production vessel, was due to start operations between July and September this year, but the power station problem will almost certainly cause more delays and costs. [nL4N1FF2PN]"
+Chevron,2017-1,"""Any delays to the delivery of the project may have very serious implications for Inpex. Low oil prices have already impacted the financial position of the company,"" said Tom O'Sullivan, managing director of energy consultancy Mathyos Japan."
+Chevron,2017-1,"At Gorgon, which has cost $55 billion to develop and which started operations last year, there are problems in bringing expanded production online. [nL4N1EU1RG]"
+Chevron,2017-1,"Two sources with knowledge of the matter said that crews working on the expansion phase had to be shifted to repair operational facilities, delaying full completion. [nL4N1FA34E]"
+Chevron,2017-1,"Delays are also expected at Shell's Prelude. The production vessel, the world's biggest ship at half-a-kilometre in length, is currently being built in South Korea."
+Chevron,2017-1,"Scheduled to generate cash flow by 2018, one source with the shipyard and another with one of Prelude's LNG buyers said it was unlikely that Prelude would produce any gas before late 2018, maybe even 2019."
+Chevron,2017-1,Potential delays and cost overruns are likely to have a big impact on returns on investment.
+Chevron,2017-1,"""On average, Australia's recent LNG projects were forecast to achieve an internal rate of return (IRR) of around 13 percent,"" Wood Mackenzie's Kavonic said. ""They are now only forecast to realise below 8 percent,"""
+Chevron,2017-1,"Neil Beveridge, oil and gas analyst at AB Bernstein in Hong Kong, said that ""the returns of many of the projects are going to be low and probably lower than the cost of capital in the current oil price environment."""
+Chevron,2017-1,"Beyond adding to already huge costs for its developers, the delays will have a strong market impact."
+Chevron,2017-1,"For 2017, they mean a tighter market than initially expected, and prices have already reacted. The Asian spot LNG price almost doubled between June last year and January 2017 to more than $9 per million British thermal units (mmBtu), its highest since 2014. [nL4N1FA34E]"
+Chevron,2017-1,"The delays are happening just as new supplies are coming on stream elsewhere. Seven U.S. export projects are currently approved, with a potential to reach 50 million tonnes a year by the early 2020s."
+Chevron,2017-1,"""Australian LNG projects will be competing with U.S. projects. Cost efficiency is going to be critical. And here, the Australians have to put in some serious effort,"" Kavonic said."
+Chevron,2017-1,Lebanon re-launches first oil and gas licensing round - Reuters News
+Chevron,2017-1,"{{20170126T123616.220+0000}}Lebanon re-launches first oil and gas licensing roundBEIRUT, Jan 26 (Reuters) - Lebanon re-launched its first oil and gas licensing round after a three-year delay, the energy minister said on Thursday, kick-starting the development of a hydrocarbon industry stalled by national political paralysis."
+Chevron,2017-1,"Lebanon has opened five offshore blocks (1,4,8,9 and 10) for bidding in a first licensing round, Minister of Energy and Water Cesar Abou Khalil told a news conference."
+Chevron,2017-1,"In 2013, 46 companies qualified to take part in bidding for oil and gas tenders, 12 of them as operators, including Chevron , Total and Exxon Mobil ."
+Chevron,2017-1,"But political paralysis, which left Lebanon without a president for more than two years, meant the licensing process was put on hold."
+Chevron,2017-1,Abou Khalil said a second pre-qualification round for companies interested in exploration and production contracts would be launched soon.
+Chevron,2017-1,"Lebanon, along with Cyprus, Israel and Egypt, sits on the eastern Mediterranean gas field discovered in 2009."
+Chevron,2017-1,{{20170126T112454.578+0000}}PRESS DIGEST-Canada - Jan 26Jan 26 (Reuters) - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy.
+Chevron,2017-1,"UPDATE 1-Kazakhstan, Shell-Eni group continue talks over tax dispute - Reuters News"
+Chevron,2017-1,"{{20170126T101645.997+0000}}UPDATE 1-Kazakhstan, Shell-Eni group continue talks over tax dispute(Adds context)"
+Chevron,2017-1,"ASTANA, Jan 26 (Reuters) - Kazakhstan has agreed to continue talks about a tax dispute with the Karachaganak consortium of oil majors led by Shell and Eni despite beginning arbitration proceedings, the Kazakh Energy Ministry said on Thursday."
+Chevron,2017-1,"Quoting minister Kanat Bozumbayev, a ministry spokesman said the sides had agreed in December to extend talks by nine months and Kazakhstan might stop the arbitration if it was satisfied with the consortium's offer."
+Chevron,2017-1,Russia's Lukoil said last April Kazakhstan had filed a $1.6 billion claim against the consortium developing the Karachaganak gas condensate field.
+Chevron,2017-1,The energy ministry has said the dispute was about calculations of the parties' shares in the field's output.
+Chevron,2017-1,"Eni and Shell each own 29.25 percent of the Karachaganak project in northwest Kazakhstan, which they jointly operate. State-owned KazMunayGaz owns 10 percent, Chevron Corp 18 percent and Lukoil 13.5 percent."
+Chevron,2017-1,"Karachaganak produced 78.8 million barrels of liquid hydrocarbons in the first half of 2016, up 11.3 percent from the same period a year earlier."
+Chevron,2017-1,"The field contains 1.2 billion tonnes of oil and gas condensate and more than 1.35 trillion cubic metres of gas, making it one of the world's largest oil and gas deposits."
+Chevron,2017-1,"Kazakhstan, Shell-Eni group continue talks over tax dispute - Reuters News"
+Chevron,2017-1,"{{20170126T100138.791+0000}}Kazakhstan, Shell-Eni group continue talks over tax disputeASTANA, Jan 26 (Reuters) - Kazakhstan has agreed to continue talks about a tax dispute with the Karachaganak consortium of oil majors led by Shell and Eni despite beginning arbitration proceedings, the Kazakh Energy Ministry said on Thursday."
+Chevron,2017-1,"Quoting minister Kanat Bozumbayev, a ministry spokesman said the sides had agreed in December to extend talks by nine months and Kazakhstan might stop the arbitration if it was satisfied with the consortium's offer."
+Chevron,2017-1,CORRECTED-UPDATE 1-Australia's Ichthys LNG dealt blow as major contractor pulls plug - Reuters News
+Chevron,2017-1,"{{20170126T054515.746+0000}}CORRECTED-UPDATE 1-Australia's Ichthys LNG dealt blow as major contractor pulls plug(Corrects annual output in 10th paragraph, ownership percentages for Ichthys project and partners in 11th paragraph)"
+Chevron,2017-1,* CIMIC pulls out of building power station to supply Ichthys LNG
+Chevron,2017-1,* Ichthys LNG Jul-Sept 2017 start-up likely to be delayed
+Chevron,2017-1,"SINGAPORE, Jan 25 (Reuters) - Australia's over $35 billion Ichthys liquefied natural gas (LNG) export project has been dealt a blow as engineering firm CIMIC , involved in building the facility's power station, announced on Wednesday it was pulling the plug."
+Chevron,2017-1,"""CIMIC Group advises that the ... consortium (building the power station) ... has terminated its contract with JKC Australia LNG Pty Ltd for the design, construction and commissioning of the Ichthys Combined Cycle Power Plant (CCPP) project,"" CIMIC said in a statement to the Australian Securities Exchange Ltd (ASX) on Wednesday. [nFWN1FE0SE]"
+Chevron,2017-1,"CIMIC spokeswoman Fiona Tyndall said ""we are not going beyond what we have said in that ASX statement."""
+Chevron,2017-1,The power station is designed to supply the Ichthys LNG export facility with electricity.
+Chevron,2017-1,"A spokesman for Japan's Inpex <1605.T>, the majority owner of Ichthys LNG, said the power station was 89 percent complete."
+Chevron,2017-1,"And while the spokesman said Inpex did not see this cancellation as ""critical"" to Ichthys and that it would have ""no fatal influence"" on its launch, the cancellation will almost certainly add further costs and delay the project's production ramp-up, which was scheduled for July to September this year. [nL4N1D00MR]"
+Chevron,2017-1,"Australia's $200 billion LNG production ramp-up is one of the biggest increases in supply the industry has ever seen, and will lift Australia over Qatar as the world's biggest LNG exporter."
+Chevron,2017-1,"Even so, most of Australia's LNG projects currently under construction, including Chevron's huge Gorgon facility and Royal Dutch Shell's floating Prelude production vessel, are having trouble keeping within budget and sticking to schedules, and more delays are expected."
+Chevron,2017-1,"""All projects currently being built or expanded in Australia are having trouble with time and cost control. They will almost certainly see further delays,"" a source advising LNG producers said on condition of anonymity."
+Chevron,2017-1,"Once completed, Ichthys will produce 8.9 million tonnes of LNG per year."
+Chevron,2017-1,"Inpex holds 62.245 percent of Ichthys, France's Total 30 percent, with the rest spread amongst Taiwan's CPC Corp [CHIP.UL] and Japanese utilities Tokyo Gas <9531.T>, Osaka Gas <9532.T>, Kansai Electric <9503.T>, JERA Corp and Toho Gas <9533.T>."
+Chevron,2017-1,CIMIC gained the power station and infrastructure contracts for Ichthys after taking over Australian engineering firm UGL last year.
+Chevron,2017-1,"UGL said in its last annual report that ""unfortunately, the projects continued to be impacted by significant client delays and disruption resulting in additional costs incurred."""
+Chevron,2017-1,"CIMIC said the termination of the contract will not have any ""material impact"" on its 2016 and 2017 financial results."
+Chevron,2017-1,CORRECTED-FACTBOX-Australia's LNG industry: Wheatstone costs blow out to $34 bln - Reuters News
+Chevron,2017-1,{{20170126T054358.845+0000}}CORRECTED-FACTBOX-Australia's LNG industry: Wheatstone costs blow out to $34 bln(Corrects capacity and comments for Ichthys project)
+Chevron,2017-1,Oct 31 (Reuters) - Australia has more than $180 billion of liquefied natural gas export projects
+Chevron,2017-1,"coming online, with developers planning to add about 53 million tonnes per annum (mtpa) of LNG"
+Chevron,2017-1,"production by 2018, an increase that would make the country the world's top LNG exporter."
+Chevron,2017-1,Chevron Corp  flagged on Friday that costs on the Wheatstone LNG project had blown out to
+Chevron,2017-1,"$34 billion, due to delays in module deliveries and an underestimation of materials needed for the"
+Chevron,2017-1,"project, but it was still on track to start producing in mid-2017. [nL4N1D00HP]"
+Chevron,2017-1,Here is a list of Australia's other LNG projects expected to start up over the next two years.
+Chevron,2017-1,Ichthys 1 & 2      FID in Jan     Inpex/Total    8.9        July-Sept  Around $37 bln - about 10 pct
+Chevron,2017-1,"Prelude FLNG       FID in May     Shell/KOGAS    3.6        By 2017    Estimated at $10.8-$12.6 bln,"
+Chevron,2017-1,Wheatstone 1 & 2   FID in Sept    Chevron        8.9        Mid-2017   $34 bln; $29 bln at FID in
+Chevron,2017-1,Arrow LNG 1 & 2*  FID unclear   Shell/PetroChi  8.0        est.     Shell CEO said in January
+Chevron,2017-1,Browse FLNG       Considering   Woodside        12 mtpa    NA       Woodside aims to select
+Chevron,2017-1,Scarborough FLNG  No FID        Exxon/BHP/Wood  6-7        2020-    Woodside bought half of
+Chevron,2017-1,"Source: Company announcements, documents and websites, Queensland government websites, industry"
+Chevron,2017-1,"sources, Macquarie Research, Tri-Zen Capital, analyst reports and estimates. Where dates for FIDs and"
+Chevron,2017-1,"start-up dates were not available from the project developers, analyst and industry source estimates"
+Chevron,2017-1,were used. Projects of 1 mtpa or below have been excluded.
+Chevron,2017-1,{{20170125T221131.978+0000}}BRIEF-Chevron names Michael Wirth vice chairmanJan 25 (Reuters) - Chevron Corp
+Chevron,2017-1,Source text for Eikon: [ID:nBwglgcNa] Further company coverage: [CVX.N]
+Chevron,2017-1,* Chevron corp - declared a quarterly dividend of one dollar and eight cents ($1.08) per share
+Chevron,2017-1,"Republicans to kill U.S. rules on corruption, environment, labor and guns next week - Reuters News"
+Chevron,2017-1,"{{20170125T172202.718+0000}}Republicans to kill U.S. rules on corruption, environment, labor and guns next weekBy Lisa Lambert"
+Chevron,2017-1,"WASHINGTON, Jan 25 (Reuters) - Congressional Republicans are set to overturn a slew of Obama-era regulations next week, including a controversial anti-bribery rule aimed at U.S. resource companies such as Exxon Mobil Corp and Chevron Corp , according to a top lawmaker."
+Chevron,2017-1,"After six years of legal battles, the U.S. Securities and Exchange Commission in June approved the rule requiring companies to disclose payments to foreign governments. It will probably be killed swiftly with two simple congressional votes."
+Chevron,2017-1,"Other rules eyed for quick overturning by Congress include newly minted environmental, gun control and labor relations measures, sources said."
+Chevron,2017-1,"Under the Congressional Review Act, Congress can use simple majority votes to stop recent regulations in their tracks. The timing in the law means that any rules that became final after May 31 could go on the chopping block. [nL1N1DI2DS]"
+Chevron,2017-1,"House of Representatives Majority Leader Kevin McCarthy, the second-most powerful Republican in the chamber, had said he would start using that law quickly after President Donald Trump was inaugurated to help roll back regulations the party considers abusive. House Republicans have been on a blitz of regulatory reform, passing bills to drive down regulations' costs and create more congressional oversight. [nL1N1F22LN]"
+Chevron,2017-1,"The Republican-dominated House will bypass the committee process and go directly to a vote by the entire chamber on a half-dozen resolutions, McCarthy's spokesman said on Wednesday."
+Chevron,2017-1,"Further rule reversals are likely to come out of various committees, Representative Greg Walden, a Republican from Oregon, said on Tuesday."
+Chevron,2017-1,"Given the resolutions only require simple majorities to pass, they will probably sail through the House and then pass the Senate, where Democrats, the minority party, cannot mount a filibuster against them. They could then zoom to the White House for fellow Republican Trump to sign."
+Chevron,2017-1,"But Walden also said the Congressional Review Act broadly wipes out entire regulations and forbids agencies from writing new versions in their place. That could be dangerous for a rule with some provisions that Republicans support, he said."
+Chevron,2017-1,"Earlier this month, McCarthy said the House would try to kill regulations protecting streams and forests from coal mining's impacts, curbing methane leaks on public lands, and requiring employers to report workers' information as part of an attempt to end pay discrimination."
+Chevron,2017-1,"Reforming regulations is as high a priority as undoing the Affordable Care Act and rewriting the tax code, he said."
+Chevron,2017-1,"In a Wall Street Journal opinion piece on Wednesday, he also added a rule expanding background checks on gun purchases for disabled Social Security recipients to the hit list, as well as the anti-bribery regulation."
+Chevron,2017-1,"Requiring companies to state publicly how much they pay governments in taxes, royalties and other types of fees for exploration and extraction was included in the 2010 Dodd-Frank Wall Street reform law. Regulators struggled for years to make it a reality as the companies said it would drive up their costs."
+Chevron,2017-1,"Human rights group Oxfam in 2014 sued the SEC when it stalled on drafting the rule, and in 2015 a federal judge ordered the commission to fast-track it. The commission met the judge's deadline this summer, with the requirements set to take effect in 2018. [nL1N19J21Q]"
+Chevron,2017-1,{{20170126T112454.578+0000}}PRESS DIGEST-Canada - Jan 26Jan 26 (Reuters) - The following are the top stories from selected Canadian newspapers. Reuters has not verified these stories and does not vouch for their accuracy.
+Chevron,2017-1,"UPDATE 1-Kazakhstan, Shell-Eni group continue talks over tax dispute - Reuters News"
+Chevron,2017-1,"{{20170126T101645.997+0000}}UPDATE 1-Kazakhstan, Shell-Eni group continue talks over tax dispute(Adds context)"
+Chevron,2017-1,"ASTANA, Jan 26 (Reuters) - Kazakhstan has agreed to continue talks about a tax dispute with the Karachaganak consortium of oil majors led by Shell and Eni despite beginning arbitration proceedings, the Kazakh Energy Ministry said on Thursday."
+Chevron,2017-1,"Quoting minister Kanat Bozumbayev, a ministry spokesman said the sides had agreed in December to extend talks by nine months and Kazakhstan might stop the arbitration if it was satisfied with the consortium's offer."
+Chevron,2017-1,Russia's Lukoil said last April Kazakhstan had filed a $1.6 billion claim against the consortium developing the Karachaganak gas condensate field.
+Chevron,2017-1,The energy ministry has said the dispute was about calculations of the parties' shares in the field's output.
+Chevron,2017-1,"Eni and Shell each own 29.25 percent of the Karachaganak project in northwest Kazakhstan, which they jointly operate. State-owned KazMunayGaz owns 10 percent, Chevron Corp 18 percent and Lukoil 13.5 percent."
+Chevron,2017-1,"Karachaganak produced 78.8 million barrels of liquid hydrocarbons in the first half of 2016, up 11.3 percent from the same period a year earlier."
+Chevron,2017-1,"The field contains 1.2 billion tonnes of oil and gas condensate and more than 1.35 trillion cubic metres of gas, making it one of the world's largest oil and gas deposits."
+Chevron,2017-1,"Kazakhstan, Shell-Eni group continue talks over tax dispute - Reuters News"
+Chevron,2017-1,"{{20170126T100138.791+0000}}Kazakhstan, Shell-Eni group continue talks over tax disputeASTANA, Jan 26 (Reuters) - Kazakhstan has agreed to continue talks about a tax dispute with the Karachaganak consortium of oil majors led by Shell and Eni despite beginning arbitration proceedings, the Kazakh Energy Ministry said on Thursday."
+Chevron,2017-1,"Quoting minister Kanat Bozumbayev, a ministry spokesman said the sides had agreed in December to extend talks by nine months and Kazakhstan might stop the arbitration if it was satisfied with the consortium's offer."
+Chevron,2017-1,CORRECTED-UPDATE 1-Australia's Ichthys LNG dealt blow as major contractor pulls plug - Reuters News
+Chevron,2017-1,"{{20170126T054515.746+0000}}CORRECTED-UPDATE 1-Australia's Ichthys LNG dealt blow as major contractor pulls plug(Corrects annual output in 10th paragraph, ownership percentages for Ichthys project and partners in 11th paragraph)"
+Chevron,2017-1,* CIMIC pulls out of building power station to supply Ichthys LNG
+Chevron,2017-1,* Ichthys LNG Jul-Sept 2017 start-up likely to be delayed
+Chevron,2017-1,"SINGAPORE, Jan 25 (Reuters) - Australia's over $35 billion Ichthys liquefied natural gas (LNG) export project has been dealt a blow as engineering firm CIMIC , involved in building the facility's power station, announced on Wednesday it was pulling the plug."
+Chevron,2017-1,"""CIMIC Group advises that the ... consortium (building the power station) ... has terminated its contract with JKC Australia LNG Pty Ltd for the design, construction and commissioning of the Ichthys Combined Cycle Power Plant (CCPP) project,"" CIMIC said in a statement to the Australian Securities Exchange Ltd (ASX) on Wednesday. [nFWN1FE0SE]"
+Chevron,2017-1,"CIMIC spokeswoman Fiona Tyndall said ""we are not going beyond what we have said in that ASX statement."""
+Chevron,2017-1,The power station is designed to supply the Ichthys LNG export facility with electricity.
+Chevron,2017-1,"A spokesman for Japan's Inpex <1605.T>, the majority owner of Ichthys LNG, said the power station was 89 percent complete."
+Chevron,2017-1,"And while the spokesman said Inpex did not see this cancellation as ""critical"" to Ichthys and that it would have ""no fatal influence"" on its launch, the cancellation will almost certainly add further costs and delay the project's production ramp-up, which was scheduled for July to September this year. [nL4N1D00MR]"
+Chevron,2017-1,"Australia's $200 billion LNG production ramp-up is one of the biggest increases in supply the industry has ever seen, and will lift Australia over Qatar as the world's biggest LNG exporter."
+Chevron,2017-1,"Even so, most of Australia's LNG projects currently under construction, including Chevron's huge Gorgon facility and Royal Dutch Shell's floating Prelude production vessel, are having trouble keeping within budget and sticking to schedules, and more delays are expected."
+Chevron,2017-1,"""All projects currently being built or expanded in Australia are having trouble with time and cost control. They will almost certainly see further delays,"" a source advising LNG producers said on condition of anonymity."
+Chevron,2017-1,"Once completed, Ichthys will produce 8.9 million tonnes of LNG per year."
+Chevron,2017-1,"Inpex holds 62.245 percent of Ichthys, France's Total 30 percent, with the rest spread amongst Taiwan's CPC Corp [CHIP.UL] and Japanese utilities Tokyo Gas <9531.T>, Osaka Gas <9532.T>, Kansai Electric <9503.T>, JERA Corp and Toho Gas <9533.T>."
+Chevron,2017-1,CIMIC gained the power station and infrastructure contracts for Ichthys after taking over Australian engineering firm UGL last year.
+Chevron,2017-1,"UGL said in its last annual report that ""unfortunately, the projects continued to be impacted by significant client delays and disruption resulting in additional costs incurred."""
+Chevron,2017-1,"CIMIC said the termination of the contract will not have any ""material impact"" on its 2016 and 2017 financial results."
+Chevron,2017-1,CORRECTED-FACTBOX-Australia's LNG industry: Wheatstone costs blow out to $34 bln - Reuters News
+Chevron,2017-1,{{20170126T054358.845+0000}}CORRECTED-FACTBOX-Australia's LNG industry: Wheatstone costs blow out to $34 bln(Corrects capacity and comments for Ichthys project)
+Chevron,2017-1,Oct 31 (Reuters) - Australia has more than $180 billion of liquefied natural gas export projects
+Chevron,2017-1,"coming online, with developers planning to add about 53 million tonnes per annum (mtpa) of LNG"
+Chevron,2017-1,"production by 2018, an increase that would make the country the world's top LNG exporter."
+Chevron,2017-1,Chevron Corp  flagged on Friday that costs on the Wheatstone LNG project had blown out to
+Chevron,2017-1,"$34 billion, due to delays in module deliveries and an underestimation of materials needed for the"
+Chevron,2017-1,"project, but it was still on track to start producing in mid-2017. [nL4N1D00HP]"
+Chevron,2017-1,Here is a list of Australia's other LNG projects expected to start up over the next two years.
+Chevron,2017-1,Ichthys 1 & 2      FID in Jan     Inpex/Total    8.9        July-Sept  Around $37 bln - about 10 pct
+Chevron,2017-1,"Prelude FLNG       FID in May     Shell/KOGAS    3.6        By 2017    Estimated at $10.8-$12.6 bln,"
+Chevron,2017-1,Wheatstone 1 & 2   FID in Sept    Chevron        8.9        Mid-2017   $34 bln; $29 bln at FID in
+Chevron,2017-1,Arrow LNG 1 & 2*  FID unclear   Shell/PetroChi  8.0        est.     Shell CEO said in January
+Chevron,2017-1,Browse FLNG       Considering   Woodside        12 mtpa    NA       Woodside aims to select
+Chevron,2017-1,Scarborough FLNG  No FID        Exxon/BHP/Wood  6-7        2020-    Woodside bought half of
+Chevron,2017-1,"Source: Company announcements, documents and websites, Queensland government websites, industry"
+Chevron,2017-1,"sources, Macquarie Research, Tri-Zen Capital, analyst reports and estimates. Where dates for FIDs and"
+Chevron,2017-1,"start-up dates were not available from the project developers, analyst and industry source estimates"
+Chevron,2017-1,were used. Projects of 1 mtpa or below have been excluded.
+Chevron,2017-1,{{20170125T221131.978+0000}}BRIEF-Chevron names Michael Wirth vice chairmanJan 25 (Reuters) - Chevron Corp
+Chevron,2017-1,Source text for Eikon: [ID:nBwglgcNa] Further company coverage: [CVX.N]
+Chevron,2017-1,* Chevron corp - declared a quarterly dividend of one dollar and eight cents ($1.08) per share
+Chevron,2017-1,"Republicans to kill U.S. rules on corruption, environment, labor and guns next week - Reuters News"
+Chevron,2017-1,"{{20170125T172202.718+0000}}Republicans to kill U.S. rules on corruption, environment, labor and guns next weekBy Lisa Lambert"
+Chevron,2017-1,"WASHINGTON, Jan 25 (Reuters) - Congressional Republicans are set to overturn a slew of Obama-era regulations next week, including a controversial anti-bribery rule aimed at U.S. resource companies such as Exxon Mobil Corp and Chevron Corp , according to a top lawmaker."
+Chevron,2017-1,"After six years of legal battles, the U.S. Securities and Exchange Commission in June approved the rule requiring companies to disclose payments to foreign governments. It will probably be killed swiftly with two simple congressional votes."
+Chevron,2017-1,"Other rules eyed for quick overturning by Congress include newly minted environmental, gun control and labor relations measures, sources said."
+Chevron,2017-1,"Under the Congressional Review Act, Congress can use simple majority votes to stop recent regulations in their tracks. The timing in the law means that any rules that became final after May 31 could go on the chopping block. [nL1N1DI2DS]"
+Chevron,2017-1,"House of Representatives Majority Leader Kevin McCarthy, the second-most powerful Republican in the chamber, had said he would start using that law quickly after President Donald Trump was inaugurated to help roll back regulations the party considers abusive. House Republicans have been on a blitz of regulatory reform, passing bills to drive down regulations' costs and create more congressional oversight. [nL1N1F22LN]"
+Chevron,2017-1,"The Republican-dominated House will bypass the committee process and go directly to a vote by the entire chamber on a half-dozen resolutions, McCarthy's spokesman said on Wednesday."
+Chevron,2017-1,"Further rule reversals are likely to come out of various committees, Representative Greg Walden, a Republican from Oregon, said on Tuesday."
+Chevron,2017-1,"Given the resolutions only require simple majorities to pass, they will probably sail through the House and then pass the Senate, where Democrats, the minority party, cannot mount a filibuster against them. They could then zoom to the White House for fellow Republican Trump to sign."
+Chevron,2017-1,"But Walden also said the Congressional Review Act broadly wipes out entire regulations and forbids agencies from writing new versions in their place. That could be dangerous for a rule with some provisions that Republicans support, he said."
+Chevron,2017-1,"Earlier this month, McCarthy said the House would try to kill regulations protecting streams and forests from coal mining's impacts, curbing methane leaks on public lands, and requiring employers to report workers' information as part of an attempt to end pay discrimination."
+Chevron,2017-1,"Reforming regulations is as high a priority as undoing the Affordable Care Act and rewriting the tax code, he said."
+Chevron,2017-1,"In a Wall Street Journal opinion piece on Wednesday, he also added a rule expanding background checks on gun purchases for disabled Social Security recipients to the hit list, as well as the anti-bribery regulation."
+Chevron,2017-1,"Requiring companies to state publicly how much they pay governments in taxes, royalties and other types of fees for exploration and extraction was included in the 2010 Dodd-Frank Wall Street reform law. Regulators struggled for years to make it a reality as the companies said it would drive up their costs."
+Chevron,2017-1,"Human rights group Oxfam in 2014 sued the SEC when it stalled on drafting the rule, and in 2015 a federal judge ordered the commission to fast-track it. The commission met the judge's deadline this summer, with the requirements set to take effect in 2018. [nL1N19J21Q]"
+Chevron,2017-1,Australia's Ichthys LNG dealt blow as major contractor pulls plug - Reuters News
+Chevron,2017-1,{{20170125T073234.527+0000}}Australia's Ichthys LNG dealt blow as major contractor pulls plug* CIMIC pulls out of building power station to supply Ichthys LNG
+Chevron,2017-1,* Ichthys LNG start-up still aimed for July to Sept 2017
+Chevron,2017-1,"SINGAPORE, Jan 25 (Reuters) - Australia's $34 billion Ichthys liquefied natural gas (LNG) export project has been dealt a blow as engineering firm CIMIC involved in building the facility's power station announced on Thursday it was pulling the plug."
+Chevron,2017-1,"""CIMIC Group advises that the ... consortium (building the power station) ... has terminated its contract with JKC Australia LNG Pty Ltd for the design, construction and commissioning of the Ichthys Combined Cycle Power Plant (CCPP) project,"" CIMIC said in a statement. [nFWN1FE0SE]"
+Chevron,2017-1,The power station is planned to supply the Ichthys LNG export facility with electricity.
+Chevron,2017-1,"A spokesman for Japan's Inpex <1605.T>, the majority owner of Ichthys LNG, said the power station was 89 percent complete."
+Chevron,2017-1,"And while the spokesman said Inpex did not see this cancellation as ""critical"" to Ichthys and that it would have ""no fatal influence"" on its launch, the cancellation will almost certainly delay the project's production ramp-up, which was scheduled for July to September this year. [nL4N1D00MR]"
+Chevron,2017-1,"Australia's $200 billion LNG production ramp-up is one of the biggest increases in supply the industry has ever seen, and it will lift Australia over Qatar as the world's biggest exporter of the fuel."
+Chevron,2017-1,"Even so, most of Australia's LNG projects currently under construction, including Chevron's huge Gorgon facility and Royal Dutch Shell's floating Prelude production vessel, are having trouble keeping within budget and sticking to schedules, and more delays are expected."
+Chevron,2017-1,"""All projects currently being built or expanded in Australia are having trouble with time and cost control. They will almost certainly see further delays,"" a source advising LNG producers said on condition of anonymity."
+Chevron,2017-1,UPDATE 3-Court rejects bid to enforce Ecuador judgment on Chevron Canada - Reuters News
+Chevron,2017-1,"{{20170121T024126.534+0000}}UPDATE 3-Court rejects bid to enforce Ecuador judgment on Chevron Canada(Recasts, adds updated comment from plaintiffs)"
+Chevron,2017-1,"Jan 20 (Reuters) - A Toronto court has rejected a bid by Ecuadorian villagers to enforce a judgment in their home country against Chevron Canada Ltd, ruling the subsidiary is not liable for parent Chevron Corp , the U.S. oil major said on Friday."
+Chevron,2017-1,"A Canadian lawyer for the villagers in the environment-damage lawsuit said the ruling is ""not a modern-day view,"" and that an appeal will be filed."
+Chevron,2017-1,"Residents of Ecuador's Lago Agrio region have been trying to force Chevron to pay for water and soil contamination caused from 1964 to 1992 by Texaco, which Chevron acquired in 2001."
+Chevron,2017-1,"The villagers obtained a $9 billion judgment against Chevron in Ecuador in 2011. But the company has no assets in Ecuador, and the villagers have been suing it in the United States, Canada, Brazil and Argentina to enforce the decision."
+Chevron,2017-1,"While not disputing that pollution occurred, Chevron has alleged the villagers' lawyer, Steven Donziger, and his associates went too far, including arranging for the ghost-writing of a key environmental report and bribing the presiding judge in Ecuador."
+Chevron,2017-1,"A U.S. federal appeals court, which blocked enforcement of the judgment last year, agreed with the company. [nL1N1AP126]"
+Chevron,2017-1,"On Friday, the Ontario Superior Court of Justice ruled Chevron Canada Ltd is a separate entity from Chevron Corp, and is thus not a debtor to the Ecuadorian judgment, according to a copy of the decision provided by the California-based Chevron."
+Chevron,2017-1,But Justice Glenn Hainey also ruled partly in favor of the villagers.
+Chevron,2017-1,Chevron had argued the Ecuadorian judgment is unenforceable in Canada because of what it says is the corrupt manner in which it was obtained. The villagers had asked for that argument to be struck out entirely.
+Chevron,2017-1,"Hainey ruled some parts of Chevron's argument should be struck, while some should be tested through trial."
+Chevron,2017-1,"Karen Hinton, U.S. spokeswoman for the Amazon Defense Coalition that represents the villagers, called the decision a ""resounding victory,"" even if the Chevron Canada subsidiary, which is worth billions, is not up for grabs."
+Chevron,2017-1,"""The part of the decision that knocks out Chevron's subsidiary from the enforcement action still allows the villagers to proceed against Chevron itself,"" she said."
+Chevron,2017-1,"""The part of the decision to limit Chevron's liability is a temporary setback that will be corrected quickly on appeal."""
+Chevron,2017-1,Canada court rejects attempt to enforce Ecuador Chevron judgment - Reuters News
+Chevron,2017-1,"{{20170120T215101.557+0000}}Canada court rejects attempt to enforce Ecuador Chevron judgmentJan 20 (Reuters) - A Canadian court has rejected an attempt by Ecuadorian communities to enforce a judgment against Chevron Corp they obtained in their home country, saying the company's local subsidiary liable for the parent, the oil major said on Friday."
+Chevron,2017-1,"Representatives of residents of Ecuador's Lago Agrio region were trying to force Chevron to pay for what they say is water and soil contamination caused from 1964 to 1992 by Texaco, which Chevron acquired in 2001."
+Chevron,2017-1,UPDATE 1-U.S. exports fill Asia's LNG demand gap as market tightens - Reuters News
+Chevron,2017-1,{{20170120T092025.283+0000}}UPDATE 1-U.S. exports fill Asia's LNG demand gap as market tightens* Traders bring U.S. LNG to Asia at huge profits
+Chevron,2017-1,"SINGAPORE, Jan 20 (Reuters) - U.S. liquefied natural gas exporters are sending tankers to Asia to fill a gap in the region's demand as markets have tightened more-than-expected on surging consumption in China and Pakistan, and because of Australia's struggles to ramp up production."
+Chevron,2017-1,"Benefiting from the Panama Canal expansion last year that allows bigger ships to cross from the Gulf of Mexico into the Pacific, around a dozen LNG cargoes from the United States have gone to Asia since December. Data in Thomson Reuters Eikon currently shows two LNG tankers, carrying a combined 280,000 cubic metres of gas, are currently crossing to Asia from Louisiana. [nL1N1F10M9] [nL4N18T3LG]"
+Chevron,2017-1,"The U.S. LNG exports are coming from Cheniere Energy's Sabine Pass, Louisiana, facility that opened last year as the first U.S. export terminal outside Alaska."
+Chevron,2017-1,"They included the first-ever U.S. shale gas going to South Korea, which arrived this month and was bought by South Korea's private gas company SK E&S Co. [nL4N1FA2TG]"
+Chevron,2017-1,"U.S. spot natural gas costs just $3.21 per million British thermal units (mmBtu), while Asian spot LNG prices have soared over 80 percent since June last year to almost $10 per mmBtu."
+Chevron,2017-1,"""This run up in prices definitely took everyone by surprise. In mid-2016, I don't think anyone expected LNG prices to double to reach $10 per mmBtu,"" said Chong Zhi Xin, principal Asia LNG analyst at consultants Wood Mackenzie. ""Cheniere definitely did well (out of filling the supply gap), as they have been selling on a spot basis."""
+Chevron,2017-1,"Shipping brokerage Arctic Securities said this week that this Asian LNG premium meant ""LNG traders (are) netting $1 million plus per U.S.-Asia cargo."""
+Chevron,2017-1,"Along with Cheniere, Royal Dutch Shell , and Spain's Gas Natural Fenosa (GNF) have been active exporters from Louisiana to Asia."
+Chevron,2017-1,"""LNG exports out of U.S. to Asia... is clearly an attractive deal which is benefiting the likes of Cheniere Marketing, and Shell/GNF, who own volumes at the first two trains,"" Arctic Securities said."
+Chevron,2017-1,The juicy arbitrage route is a result of Asian demand rising faster than expected.
+Chevron,2017-1,"Commodity trader Gunvor has won a major tender to supply 60 LNG shipments to Pakistan over a five-year period, starting this year, while Italy's Eni will supply the country with 180 LNG cargoes over a 15-year period, a Pakistani energy official told Reuters this week. [nL5N1F95J2]"
+Chevron,2017-1,The expected surge in Pakistani demand is occurring as colder-than-normal winter weather in North Asia has increased LNG requirements. [nL4N1EV2RZ]
+Chevron,2017-1,"China's 2016 LNG imports surged 30 percent from 2015 to over 25 million tonnes a year, making it the world's third-biggest LNG importer behind Japan and South Korea. [nL4N1EG2J6]"
+Chevron,2017-1,"Including India and Taiwan, the world's five largest LNG consumers are now in Asia, using about 70 percent of globally traded LNG, according to the International Gas Union (IGU). Meanwhile, demand is stagnant in Europe, the next biggest import region."
+Chevron,2017-1,Asia faster-than-expected demand is happening amid delays and outages at new export sites.
+Chevron,2017-1,"Chevron's Gorgon export facility, which was launched last year in Western Australia, has had several outages due to technical trouble. Upcoming projects like Shell's Prelude, the world's biggest ever floating liquefaction vessel, and Ichthys - led by Japan's Inpex <1605.T> - have had delays in expected first exports. [nL4N1EU1SS]"
+Chevron,2017-1,"Still, the LNG market remains well supplied, with available LNG capacity standing 45 percent above demand last year, according to Eikon data."
+Chevron,2017-1,U.S. exports fill Asia's LNG demand gap as market tightens - Reuters News
+Chevron,2017-1,{{20170120T051211.167+0000}}U.S. exports fill Asia's LNG demand gap as market tightens* Traders bring U.S. LNG to Asia at huge profits
+Chevron,2017-1,"SINGAPORE, Jan 20 (Reuters) - U.S. liquefied natural gas exporters sending tankers to Asia to fill a gap in the region's demand as markets have tightened more-than-expected on surging consumption in China and Pakistan as well as Australia's continuing struggles to ramp up scheduled production."
+Chevron,2017-1,"Benefiting from the Panama Canal expansion last year that allows bigger ships to cross from the Gulf of Mexico into the Pacific, around a dozen LNG cargoes from the United States have gone to Asia since December. Data in Thomson Reuters Eikon currently shows two LNG tankers, carrying a combined 280,000 cubic metres of gas, are currently crossing to Asia from Louisiana. [nL1N1F10M9] [nL4N18T3LG]"
+Chevron,2017-1,"The U.S. LNG exports are coming from Cheniere Energy's Sabine Pass, Louisiana, facility that opened last year as the first U.S. export terminal outside Alaska."
+Chevron,2017-1,"U.S. spot natural gas costs just $3.21 per million British thermal units (mmBtu), while Asian spot LNG prices have soared over 80 percent since June last year to almost $10 per mmBtu."
+Chevron,2017-1,"""This run up in prices definitely took everyone by surprise. In mid-2016, I don't think anyone expected LNG prices to double to reach $10 per mmBtu,"" said Chong Zhi Xin, principal Asia LNG analyst at consultants Wood Mackenzie. ""Cheniere definitely did well (out of filling the supply gap), as they have been selling on a spot basis."""
+Chevron,2017-1,"Shipping brokerage Arctic Securities said this week that this Asian LNG premium meant ""LNG traders (are) netting $1 million plus per U.S.-Asia cargo."""
+Chevron,2017-1,"Along with Cheniere, Royal Dutch Shell , and Spain's Gas Natural Fenosa (GNF) have been active exporters from Louisiana to Asia."
+Chevron,2017-1,"""LNG exports out of U.S. to Asia... is clearly an attractive deal which is benefiting the likes of Cheniere Marketing, and Shell/GNF, who own volumes at the first two trains,"" Arctic Securities said."
+Chevron,2017-1,The juicy arbitrage route is a result of Asian demand rising faster than expected.
+Chevron,2017-1,"Commodity trader Gunvor has won a major tender to supply 60 LNG shipments to Pakistan over a five-year period, starting this year, while Italy's Eni will supply the country with 180 LNG cargoes over a 15-year period, a Pakistani energy official told Reuters this week. [nL5N1F95J2]"
+Chevron,2017-1,The expected surge in Pakistani demand is occurring as colder-than-normal winter weather in North Asia has increased LNG requirements. [nL4N1EV2RZ]
+Chevron,2017-1,"China's 2016 LNG imports surged 30 percent from 2015 to over 25 million tonnes a year, making it the world's third-biggest LNG importer behind Japan and South Korea. [nL4N1EG2J6]"
+Chevron,2017-1,"Including India and Taiwan, the world's five largest LNG consumers are now in Asia, using about 70 percent of globally traded LNG, according to the International Gas Union (IGU). Meanwhile, demand is stagnant in Europe, the next biggest import region."
+Chevron,2017-1,Asia faster-than-expected demand is happening amid delays and outages at new export sites.
+Chevron,2017-1,"Chevron's Gorgon export facility, which was launched last year in Western Australia, has had several outages due to technical trouble. Upcoming projects like Shell's Prelude, the world's biggest ever floating liquefaction vessel, and Ichthys - led by Japan's Inpex <1605.T> - have had delays in expected first exports. [nL4N1EU1SS]"
+Chevron,2017-1,"Still, the LNG market remains well supplied, with available LNG capacity standing 45 percent above demand last year, according to Eikon data."
+Chevron,2017-1,Big Oil back on the acquisition trail as outlook brightens - Reuters News
+Chevron,2017-1,{{20170119T070002.425+0000}}Big Oil back on the acquisition trail as outlook brightens* More than $30 bln of deals signed since late November
+Chevron,2017-1,"LONDON, Jan 19 (Reuters) - The world's top oil companies are back in acquisition mode, targeting smaller exploration and development firms to boost oil and gas reserves rather than the mega-mergers that followed previous slumps in crude prices."
+Chevron,2017-1,"Since late November, major oil companies have announced 11 deals worth more than $500 million each with a combined value of $31 billion, the clearest sign yet that oil executives are more confident a recovery is underway."
+Chevron,2017-1,"When crude prices collapsed in the second half of 2014, large oil firms slashed spending on exploration and production and offloaded assets to reduce debt so they could cope with lower revenue from oil and gas sales."
+Chevron,2017-1,"But with crude reservoirs declining at a rate of 10 percent a year in some cases, major oil companies are now looking to snap up assets to start growing again and there are plenty of smaller firms burdened with debt looking to sell."
+Chevron,2017-1,"""You're seeing the majors sharpening their pencils after a long while and actually flipping around from disposals to acquisitions,"" said Tony Durrant, chief executive of British energy firm Premier Oil , which is looking to sell several stakes in its North Sea operations. [nL8N15G1ET]"
+Chevron,2017-1,"Total acquisitions of oil and gas fields, known as upstream assets, tripled to $31 billion in December from a month earlier, when the Organization of the Petroleum Exporting Countries agreed to cut output for the first time in eight years, according to data from consultancy Energy Market Square."
+Chevron,2017-1,"BP announced a string of investments in the last two months of 2016, including a $1 billion partnership with Dallas-based Kosmos Energy in Mauritania and Senegal in West Africa, as well as acquisitions in Abu Dhabi and Azerbaijan."
+Chevron,2017-1,The British company also spent $375 million on a 10 percent stake in Eni's giant Zohr gas field in Egypt while Russian oil giant Rosneft bought 30 percent stake of the same field for $1.575 billion. [nL5N1E722C]
+Chevron,2017-1,France's Total and Norway's Statoil bought into Brazil's lucrative sub-salt deepwater oil fields while ExxonMobil Corp bought assets in Papua New Guinea to meet growing Asian demand for liquefied natural gas. [nL1N1EG1S4] [nL4N1A758E]
+Chevron,2017-1,The trend continued in January with Total boosting its stake in Uganda's Lake Albert oil project by snapping up most of Tullow Oil's stake for $900 million. [nL5N1EZ4XF]
+Chevron,2017-1,"ExxonMobile and Noble Energy also struck deals worth nearly $10 billion combined for a larger slice of the Permian Basin, the largest U.S. oil field. [nL4N1F74E1] [nL1N1F60XV]"
+Chevron,2017-1,"While deal making outside the United States almost ground to a halt at the start of 2016, acquisitions in North American shale basins have continued at a steady pace."
+Chevron,2017-1,"In the Permian Basin, for example, the time it takes to produce oil and gas after an initial investment is far quicker and cheaper than developing conventional fields over three to five years."
+Chevron,2017-1,More deals are likely this year as the large overhang of crude oil in the world that has weighed on the market since 2014 continues to clear and oil prices rise.
+Chevron,2017-1,"""When you can cut capex (capital spending), two-and-a-half to three years later you see production decline and reserves depleting and you have one choice only and that is going after high quality resource,"" said Sachin Oza, co-manager with Stephen Williams of the Guinness Global Oil and Gas Exploration Trust."
+Chevron,2017-1,"""If you've not spent any time filling your hopper with these opportunities that take five years to build up, there is only one choice: you have to buy them,"" said Oza."
+Chevron,2017-1,The Guinness Trust is a fund that invests in firms in the early stages of exploration or development of energy resources which it believes will attract investment from oil majors.
+Chevron,2017-1,"Investors reckon large firms will focus on underdeveloped basins in east and west Africa, Romania and Albania, as well as nascent Latin American reserves in places such as Colombia, all areas where the growth potential is seen as greater than in established regions such as North America and the North Sea."
+Chevron,2017-1,"While slides in oil prices typically unleash a wave of takeovers, companies emerging from the current downturn are generally shunning outright acquisitions and instead looking at specific deals for specific fields."
+Chevron,2017-1,"After a prolonged period of low oil prices in the late 1990s Exxon merged with Mobil, Total merged with Elf Aquitaine and Petrofina, Chevron bought Texaco, BP snapped up Amoco and ARCO and Conoco and Philips merged."
+Chevron,2017-1,"This time round, the only stand-out acquisition has been Royal Dutch Shell's takeover of BG, which was announced in April 2015 and completed in February a year later for $53 billion. [nL8N15R388]"
+Chevron,2017-1,"As large oil firms are wary of increasing their debt burden at this point, investors say corporate acquisitions are likely to be limited in numbers and scope but oil field assets are very much in the crosshairs."
+Chevron,2017-1,"Oil majors are opting for joint ventures to develop specific fields in complex deals, such as share swaps or deferred payments, to lower their risk and limit the amount they need to spend upfront following two years of budget cuts."
+Chevron,2017-1,"""The international (ex-U.S.) asset market is a buyer's market, as sellers continue in balance sheet preservation mode,"" said Charles Whall, energy portfolio manager at Investec Asset Management."
+Chevron,2017-1,"""European majors, which already have large dividend commitments, are unwilling to use equity for assets without immediate cash flow ... Most of these asset deals are structured to minimise the debt impact in the near term,"" he said."
+Chevron,2017-1,"Such deals also mean the sellers can retain a stake in the assets as their value rises with oil prices, said Oza and Williams at the Guinness Trust."
+Chevron,2017-1,Analysts say for much of 2015 and 2016 there was subdued activity because buyers and sellers were too far apart on price.
+Chevron,2017-1,Buyers hunting for bargain-basement deals were frustrated by sellers holding out for better terms but as oil prices have started to stabilise there has been more convergence.
+Chevron,2017-1,"According to Martijn Rats, equity analyst at Morgan Stanley, most of the deals announced in recent months have been based on a long-term oil price of about $60 a barrel to $65 a barrel."
+Chevron,2017-1,"While that is significantly lower than before the collapse in oil prices from a 2014 peak of $115 a barrel, it is still above current long-term oil price forecasts, Rats said."
+Chevron,2017-1,"UPDATE 2-Woodside CEO sees no need for M&A, plenty of growth in pipeline - Reuters News"
+Chevron,2017-1,"{{20170119T052802.445+0000}}UPDATE 2-Woodside CEO sees no need for M&A, plenty of growth in pipeline(Recasts with CEO interview)"
+Chevron,2017-1,"SYDNEY, Jan 19 (Reuters) - Woodside Petroleum Chief Executive Peter Coleman said there's little need for more mergers and acquisitions by Australia's biggest independent oil and gas producer as it works on developing a handful of new projects at home and abroad."
+Chevron,2017-1,"The company, seen as short on growth, has had to rely on a few deals to build up reserves after being snubbed in late 2015 in an $8 billion bid for Oil Search Ltd and walking away from a $2.6 billion gas stake off Israel a year earlier."
+Chevron,2017-1,"""We're starting to get a pipeline of projects moving through,"" Coleman told Reuters after Woodside reported fourth-quarter revenue rose a better-than-expected 2 percent to $1 billion from the previous quarter thanks to higher oil prices."
+Chevron,2017-1,"The $34 billion Wheatstone liquefied natural gas (LNG) project off Western Australia, which Woodside bought into in 2015, is scheduled to start this year after six months of delays, followed by a second stage in 2018, Coleman said."
+Chevron,2017-1,"Wheatstone, operated by Chevron Corp , will contribute more than 13 million barrels of oil equivalent to Woodside's annual output, when complete."
+Chevron,2017-1,"Woodside expects 2017 production to fall to 84-90 mmboe from 94.9 mmboe last year, in line with two analysts' forecasts, with Wheatstone's ramp-up not enough to offset a long agreed drop in the company's share of domestic gas from the North West Shelf from May."
+Chevron,2017-1,"Woodside's shares fell 1 percent on Thursday, but analysts attributed that to profit taking following a run-up over the past two months on the back of rising oil prices."
+Chevron,2017-1,"From 2019, Woodside plan to start producing from its Greater Enfield oil project in Australia."
+Chevron,2017-1,"""Do we need to buy something? No,"" Coleman said. ""Woodside does not need to buy to grow."""
+Chevron,2017-1,"Coleman also said he was anxious to get started on development ""as soon as possible"" on a promising oil venture off the coast of Senegal that it acquired from ConocoPhillips last October for $440 million."
+Chevron,2017-1,"The Senegal deal gave Woodside 35 percent of the SNE and FAN oil discoveries off the West African country, setting it up to start producing oil early in the next decade."
+Chevron,2017-1,Woodside last year also bought half of BHP Billiton's stake in the undeveloped Scarborough offshore gas field assets in Western Australia.
+Chevron,2017-1,"""With their level of activity in the past several year, Woodside certainly can't be accused of inertia,"" said RBC Capital Markets analyst Ben Wilson. ""They have been positioning themselves for growth."""
+Chevron,2017-1,ANALYSIS-Trump rally makes stock options great again for some CEOs - Reuters News
+Chevron,2017-1,{{20170111T060005.137+0000}}ANALYSIS-Trump rally makes stock options great again for some CEOsBy Tim McLaughlin and Ross Kerber
+Chevron,2017-1,"BOSTON, Jan 11 (Reuters) - Donald Trump once described Jamie Dimon as ""the worst banker in the United States,"" but the president-elect has helped make the boss of JPMorgan Chase & Co $50 million richer."
+Chevron,2017-1,"Dimon is the top beneficiary among the 30 chief executives who run companies in the Dow Jones Industrial Average index from a stock rally inspired by Trump's election, according to a Reuters analysis of their option grants."
+Chevron,2017-1,"Trump's proposed policies for lower taxes, less Wall Street regulation and more infrastructure spending have energized the U.S. stock market since the real estate magnate's Nov. 8 victory."
+Chevron,2017-1,The post-election rally even resurrected the value of an option award held by Goldman Sachs Group Inc CEO Lloyd Blankfein that was worthless on the eve of the election.
+Chevron,2017-1,"Dimon, a lifelong Democrat, has seen his stock options surge in value by more than $50 million to $146 million since the Republican candidate's White House win."
+Chevron,2017-1,"Trump criticized Dimon in 2013 for reaching a $13 billion settlement with the U.S. government over the sale of toxic mortgages instead of fighting the case. Nevertheless, he appointed Dimon to the President's Strategic and Policy Forum, a group of high-profile business leaders he set up last month to advise him on economic growth and job creation."
+Chevron,2017-1,Dimon declined to comment on Trump's criticism or the rise in value of his holdings.
+Chevron,2017-1,"Stock options held by Dow 30 CEOs surged in value by 23 percent to about $1 billion in 2016, with most of the gain coming after Trump's election win."
+Chevron,2017-1,The figures reflect outstanding stock options that could be exercised at the end of 2015. Options that expired or vested in 2016 were excluded from the analysis.
+Chevron,2017-1,"In a few cases, CEOs exercised some of those options during 2016, U.S. regulatory filings show. Visa Inc CEO Charles Scharf did not need a Trump-led stock rally to hit the jackpot. About two weeks before the election, he exercised nearly 800,000 options for gross proceeds of almost $33 million, U.S. regulatory filings show. He resigned from Visa effective Dec. 1."
+Chevron,2017-1,"Trump campaigned on the slogan ""Make America Great Again,"" vowing to bolster the prospects of the American working class by preventing jobs from moving abroad, restricting immigration and renegotiating trade pacts. In 2015, Trump called high salaries paid to CEOs a ""joke"" and a ""disgrace"" and said these were often approved by company boards stacked with CEOs' friends."
+Chevron,2017-1,"To be sure, Trump's election has helped investors big and small. Hopes of a pro-business agenda have driven the Dow 30 close to 20,000 - a level it has never breached - in a boon for workers' retirement plans."
+Chevron,2017-1,"""With the recent Trump/Republican win, it appears that investors are getting more excited about potential growth and animal spirits are on the rise,"" top investment strategists at Morgan Stanley said this month in a wealth management report. ""This is likely to lead to the final euphoric stage of this cyclical bull market which could be quite powerful in 2017's first half."""
+Chevron,2017-1,"Big stock option gains for Goldman Sachs head Blankfein, American Express Co CEO Kenneth Chenault and JP Morgan's Dimon may be a surprise, given that their companies have reduced or even eliminated option grants in recent years in favor of stock awards tied to hitting financial targets."
+Chevron,2017-1,"Blankfein's 322,104 outstanding options, granted in 2007 with a $204.16 strike price, were under water by $7.3 million on the eve of the presidential election. But by the end of 2016, their value had soared to $11.4 million. That was an $18.7 million swing, thanks to the Trump-inspired stock market rally and the U.S. Federal Reserve's decision to increase interest rates, a boost for banks and credit card companies."
+Chevron,2017-1,"Alan Johnson, managing director of pay consulting firm Johnson Associates in New York, said the big gains for the leaders of American Express, Goldman Sachs and JPMorgan reflect how stock option compensation can magnify gains in a company's share price."
+Chevron,2017-1,"""When the stock goes up, with options, you get more leverage,"" he said."
+Chevron,2017-1,"Critics of stock options say the grants can produce large amounts of wealth for CEOs even with mediocre performance. One reason is that grants often are not linked to any financial performance metric, such as return on equity. And so as the United States nears the eighth year of a bull market, options can increase in value even if the CEOs are running companies whose share price has lagged broad benchmarks during their tenure."
+Chevron,2017-1,"For example, shares of Caterpillar Inc rose 54 percent during Douglas Oberhelman's tenure as CEO of the big equipment maker from mid-2010 to the end of 2016, while the Dow 30 more than doubled during that span."
+Chevron,2017-1,"But the value of Oberhelman's options rallied during his last year as CEO, climbing to $20.3 million after being under water by nearly $9 million at the start of 2016."
+Chevron,2017-1,"The options' value got a $10.6 million booster shot after Trump's victory. Caterpillar shares rose 36 percent in 2016, making it one of the best performing stocks on the Dow. Trump has said he would use Caterpillar tractors to build a wall between the United States and Mexico."
+Chevron,2017-1,"Not all CEOs have been winners, however. Coca-Cola Co CEO Muhtar Kent, who contributed $2,700 to Hillary Clinton, Trump's Democratic rival for president, saw the value of his options decline by $11.3 million to $143 million."
+Chevron,2017-1,Coca-Cola shares are off 3 percent since Trump was elected amid lingering concerns about consumers cutting their consumption of sugary drinks. A Coca-Cola spokesman declined to comment.
+Chevron,2017-1,UPDATE 1-Oil workers go on strike at crude flow station in Niger Delta - Reuters News
+Chevron,2017-1,"{{20170110T214424.050+0000}}UPDATE 1-Oil workers go on strike at crude flow station in Niger Delta(Adds youth leader, background)"
+Chevron,2017-1,"ONITSHA, Nigeria, Jan 10 (Reuters) - Nigerian oil workers have gone on strike at the Oleh crude oil flow station in the Niger Delta oil hub because they have not been paid recently, a labour union official said on Tuesday."
+Chevron,2017-1,"""The striking workers at Oleh flow station ..., besides the struggle for good pay and conditions of service, are also asking for their right to be unionised,"" said Cogent Ojobo, the Warri region chairman at oil labour union NUPENG."
+Chevron,2017-1,"Collins Edema, a youth leader in the area, said striking workers had closed several flow stations belonging to state oil firm NNPC. ""The workers shut down the flow stations and stopped crude oil production,"" he said, without giving details."
+Chevron,2017-1,No more details or a comment from NNPC were immediately available.
+Chevron,2017-1,NUPENG has threatened to stage a nationwide three-day strike at Chevron and Exxon Mobil fuel depots from Wednesday in a protest over layoffs if talks with the government fail.
+Chevron,2017-1,"OPEC member Nigeria was hit last year by a fall in crude prices and a wave of militant attacks in its southern Niger Delta oil hub, which hampered production."
+Chevron,2017-1,"Nigerian labour unions have criticized oil companies for sacking workers at a time of price pressures on the industry. Last week NUPENG members walked out at Total's fuel depots in a row over sackings, but the strike was called off after one day when an agreement was reached."
+Chevron,2017-1,UPDATE 2-Argentina clinches deal to attract investment in Vaca Muerta shale - Reuters News
+Chevron,2017-1,{{20170110T201916.302+0000}}UPDATE 2-Argentina clinches deal to attract investment in Vaca Muerta shale(Adds YPF chairman comments on investment plans)
+Chevron,2017-1,"BUENOS AIRES, Jan 10 (Reuters) - Argentina has clinched a deal with labor unions and energy companies aimed at luring investors to the Vaca Muerta formation in Patagonia, one of the largest shale reserves in the world, the government said on Tuesday."
+Chevron,2017-1,"Vaca Muerta has attracted investment from Chevron Corp and Exxon Mobil Corp . But the formation, which is about the size of Belgium, remains mostly unexplored, largely due to high production costs and a lack of labor flexibility, oil major executives have said."
+Chevron,2017-1,"As part of the pact, Argentina will offer a subsidized price of $7.50 per million British thermal units of natural gas produced at new wells through 2020. The price, which is more than double that of front-month natural gas futures on the New York Mercantile Exchange, is ""indispensable for attracting long-term investment,"" the government said in a statement."
+Chevron,2017-1,"Companies including state-owned YPF SA , Chevron, Total SA , Royal Dutch Shell Plc and BP unit Pan American Energy LLC [BPPAE.UL] will invest $5 billion to tap the formation in 2017 and double that in coming years as part of the deal, President Mauricio Macri said in a televised address."
+Chevron,2017-1,"YPF now plans to invest $2.3 billion in Vaca Muerta in 2017, 20 percent to 30 percent more than it would have without the deal, chairman Miguel Gutierrez told reporters after the announcement."
+Chevron,2017-1,The other companies either declined to comment or did not immediately respond to requests for comment on their specific plans.
+Chevron,2017-1,"YPF shares on Argentina's Merval stock index <.MERV> jumped 10.5 percent on Tuesday to 321 pesos ($20.25), their highest level since August 2015."
+Chevron,2017-1,"Argentina suffers from a substantial energy shortage, a major cause of its wide fiscal deficit. The government has calculated Vaca Muerta would need total long-term investment of $200 billion to reverse the country's sustained energy shortage."
+Chevron,2017-1,"Neuquen province, where most of the formation is located, will stabilize taxes as part of the deal and labor unions have signed on to more flexible contracts. Strikes are common in Argentina, where high inflation often strains relations between powerful unions and management. [nL1N1EI10V]"
+Chevron,2017-1,"The $7.50 per mmBtu price matches the subsidized price under Argentina's ""Gas Plan"" launched in 2013 to stimulate production at existing wells."
+Chevron,2017-1,The government also subsidizes locally produced oil to encourage domestic production. But employment in the sector had been affected by an increase in fuel imports spurred by world crude prices that are well below local prices.
+Chevron,2017-1,"Of the 19 concessions awarded in Vaca Muerta so far, just two have started producing. The government hopes the agreement will spur development in the remaining 17."
+Chevron,2017-1,"While initial additional production would likely go toward closing the domestic energy gap, last weekend Argentina allowed a 15-year-old export duty on oil and oil products to expire. [nL1N1EY0DF]"
+Chevron,2017-1,"Vaca Muerta contains 308 trillion cubic feet of shale gas and 16.2 billion barrels of shale oil, according to the U.S. Energy Information Administration."
+Chevron,2017-1,Argentina clinches labor/subsidy deal to attract energy investment  - Reuters News
+Chevron,2017-1,"{{20170110T143557.149+0000}}Argentina clinches labor/subsidy deal to attract energy investment BUENOS AIRES, Jan 10 (Reuters) - Argentina has clinched a deal with labor unions and energy companies aimed at luring investors to the Vaca Muerta shale formation in Patagonia, one of the largest unconventional reserves in the world, the government said on Tuesday."
+Chevron,2017-1,"As part of the pact, the country will offer a subsidized price of $7.50 per million British thermal units of natural gas produced at new wells through the year 2020. The government issued a statement calling the subsidized price ""indispensable for attracting long-term investment""."
+Chevron,2017-1,"Vaca Muerta has drawn investment from Chevron Corp and Exxon Mobil Corp . But the shale formation, which is about the size of Belgium, remains largely unexplored."
+Chevron,2017-1,"Neuquen province, where most of the formation is located, agreed to stabilize taxes as part of the deal and labor unions have signed onto more flexible contracts. Strikes are common in Argentina, where relations between unions and management are often strained by high inflation. [nL1N1EI10V]"
+Chevron,2017-1,"""This is a day that will open the energy future of our country,"" President Mauricio Macri said in a televised address. ""We have to give guarantees and provide certainty in order to attract investment."""
+Chevron,2017-1,The government also subsidizes locally produced oil to encourage domestic production. But employment in the sector had been affected by an increase in fuel imports spurred by world crude prices that are well below local prices.
+Chevron,2017-1,"BRIEF-Chevron reports plant upset at Richmond, Calif. refinery on Jan. 7 - Reuters News"
+Chevron,2017-1,"{{20170109T200822.793+0000}}BRIEF-Chevron reports plant upset at Richmond, Calif. refinery on Jan. 7Jan 9 (Reuters) - Chevron Corp :"
+Chevron,2017-1,"* Chevron reports plant upset resulted in flaring causing release of SO2 of greater than 500 lbs at Richmond, California refinery, on Jan. 7"
+Chevron,2017-1,"* Chevron Richmond, California refinery reports the release is no longer occurringRefinery capacity: 245,271 barrels per daySource: California Emergency Management Agency filing [nEMN1IRVPY]"
+Chevron,2017-1,"{{20170109T192345.595+0000}}BUZZ- Energy ETF advance fizzles** Energy Select Sector SPDR Fund enjoyed a strong post-election rally, with OPEC providing a boost [nL1N1DT0ZF]; however, ETF now looks vulnerable to a sharp setback on the charts"
+Chevron,2017-1,"** Energy <.SPNY> has been a roller coaster over the past several years; went from worst S&P 500 <.SPX> sector in 2015, down 24 pct, to best performing group in 2016, up 24 pct"
+Chevron,2017-1,** Action included sharp gap higher on Nov 30 as OPEC agreed to output cut [nL4N1DX154]
+Chevron,2017-1,"** However, since week of Fed's Dec rate hike, more cyclical sectors struggling, growth fighting back vs value [nL1N1EW0WC]; SPNY now off 4 pct from Dec 12 high vs SPX rise of 0.3 pct[nL4N1DX154]"
+Chevron,2017-1,"** XLE hit harder, off close to 5 pct; Exxon Mobil biggest drag on the DJI <.DJI> since Dec 14 close"
+Chevron,2017-1,"** XLE advance stalled shy of 61.8 Fibo retracement of 2014/2016 bear ($81.81), and ETF has now fallen back under 50 pct level ($75.72)"
+Chevron,2017-1,"** XLE also about to fall back inside what was a 6-month channel ($74.40); this as daily MACD is falling, while historical volatility turns up"
+Chevron,2017-1,"** Thus, XLE can accelerate to downside, threaten Nov 30 gap fill (to $71.26), or about another 5 pct, before may attempt to stabilize, resume advance"
+Chevron,2017-1,"UPDATE 2-Nigerian oil union threatens three-day strike at Exxon Mobil, Chevron - Reuters News"
+Chevron,2017-1,"{{20170109T155504.352+0000}}UPDATE 2-Nigerian oil union threatens three-day strike at Exxon Mobil, Chevron(Adds Exxon Mobil comment)"
+Chevron,2017-1,"LAGOS, Jan 9 (Reuters) - A Nigerian oil labour union will stage a three-day strike at Chevron and Exxon Mobil fuel depots from Wednesday in a protest over sackings if talks with the government fail, union officials said on Monday."
+Chevron,2017-1,"The Nigeria Union of Petroleum and Natural Gas Workers (NUPENG) said it would make a final decision after its leaders meet officials from the ministries of petroleum and labour, as well as the state oil company, on Tuesday in the capital, Abuja."
+Chevron,2017-1,OPEC member Nigeria has already been hit by low crude prices and a wave of militant attacks in its southern Niger Delta oil hub throughout 2016 which has hampered production.
+Chevron,2017-1,"Nigerian labour unions have criticised oil companies for sacking workers in recent months. Last week NUPENG held a strike at Total's fuel depots in a row over sackings, but it was suspended after one day because an agreement was reached. No details have emerged about the deal. [nL8N1CW90V][nL5N1EW1Q5]"
+Chevron,2017-1,"If the planned strike goes ahead this week, 10,000 workers could down tools, Tokunbo Korodo, who chairs NUPENG's southwestern Lagos zone, said."
+Chevron,2017-1,"""There will be a total shutdown of production terminals, distribution and filling stations. We are talking about the downstream sector,"" Korodo said."
+Chevron,2017-1,"Chika Onuegbu, a senior figure in another labour union - Petroleum and Natural Gas Senior Staff Association of Nigeria (PENGASSAN) - said his members would await the outcome of government talks before deciding whether or not to strike."
+Chevron,2017-1,"An Exxon Mobil spokesman declined to comment, while Chevron could not immediately be reached for comment."
+Chevron,2017-1,"Nigerian oil union threatens three-day strike at Exxon Mobil, Chevron - Reuters News"
+Chevron,2017-1,"{{20170109T135054.203+0000}}Nigerian oil union threatens three-day strike at Exxon Mobil, ChevronLAGOS, Jan 9 (Reuters) - A Nigerian oil labour union is set to stage a three-day strike at Chevron and Exxon Mobil fuel depots from Wednesday in a protest over sackings pending the outcome of talks with the government, union officials said on Monday."
+Chevron,2017-1,"The Nigeria Union of Petroleum and Natural Gas Workers (NUPENG) said it would make its final decision on the matter after its leaders meet officials from the ministries of petroleum and labour, as well as the state oil company, on Tuesday in the capital, Abuja."
+Chevron,2017-1,"{{20170109T092625.086+0000}}Caspian pipeline oil exports up 4 pct in 2016MOSCOW, Jan 9 (Reuters) - Oil exports via the Caspian Pipeline rose 3.6 percent to 44.3 million tonnes in 2016, data from the Caspian Pipeline Consortium (CPC) showed on Monday."
+Chevron,2017-1,Exports are expected to jump by around 40 percent this year as CPC wraps up a five-year expansion plan.
+Chevron,2017-1,"The pipeline connects the Tengiz field in Kazakhstan, and a number of other fields, to the sea terminal near Novorossiisk in Russia."
+Chevron,2017-1,"CPC's top shareholders are Russia with 24 percent, Kazakhstan with 20.75 percent and Chevron with 15 percent."
+Chevron,2017-1,"UPDATE 1-Lebanon to restart oil, gas licensing round after three-year delay - Reuters News"
+Chevron,2017-1,"{{20170105T175843.249+0000}}UPDATE 1-Lebanon to restart oil, gas licensing round after three-year delay(Adds analyst comment, background)"
+Chevron,2017-1,"BEIRUT, Jan 5 (Reuters) - Lebanon intends to restart its first oil and gas licensing round after a three-year delay, the energy minister said on Thursday, hoping to kick-start the development of a hydrocarbon industry stalled by national political paralysis."
+Chevron,2017-1,"In its first sitting since being formed in December, Lebanon's new cabinet passed two decrees on Wednesday defining the blocks and specifying conditions for production and exploration tenders and contracts. [nL5N1EU2I8]"
+Chevron,2017-1,The country's offshore resources could bring a major economic boost to a country whose financial mainstays including tourism have been hit by conflict in the region and Beirut's own political turmoil. But analysts warn of challenges ahead and that investor confidence has been shaken by the setbacks.
+Chevron,2017-1,"Lebanon will offer five offshore blocks for exploration and production and is to hold another pre-qualification round for companies interested in bidding, Minister of Energy and Water Cesar Abou Khalil told a news conference."
+Chevron,2017-1,"Lebanon, along with Cyprus, Israel and Egypt, sits on the eastern Mediterranean gas field discovered in 2009."
+Chevron,2017-1,"The Lebanese government has estimated with a probability of 50 percent it has 96 trillion cubic feet of natural gas reserves and 865 million barrels of oil offshore, but squabbling between parties has prevented the passage of vital laws needed to develop the sector."
+Chevron,2017-1,Abou Khalil said if all goes to plan exploration contracts could be signed in nine months and drilling could take place in as little as a year and a half after that because a lot of the necessary mapping and analysis has already been done.
+Chevron,2017-1,"With large debt, stagnant growth and bearing the costs of more than 1 million refugees from neighbouring Syria's conflict, Lebanon would benefit from the revenues, job creation and increased economic activity that might accompany a hydrocarbon industry."
+Chevron,2017-1,"But analysts urge caution, saying until drills actually break ground, there is no way of telling how much gas or oil there really is and potential economic impact is a complete unknown."
+Chevron,2017-1,"Sami Atallah, executive director of the Lebanese Center for Policy Studies, said it could take around seven years before revenues start to flow."
+Chevron,2017-1,"""Oil and gas are not the answer,"" he said. ""You don't want it to stall reforms ... to be a disincentive for making changes to the economy."""
+Chevron,2017-1,"Industry watchers say Lebanon needs to now produce transparent road maps and regulatory framework for the energy industry. This will boost investor confidence and avoid the accusations of corruption which surround many of Lebanon's public services and industries such as refuse disposal, telecommunications and electricity."
+Chevron,2017-1,"""The oil and gas industry can be a curse or a blessing,"" said Diana Kaissy, of the Lebanon Oil and Gas Initiative, a non-governmental organisation promoting transparency and policy development in the hydrocarbon sector."
+Chevron,2017-1,"""Lebanon is blessed with the chance of starting straight from the beginning with its oil and gas industry. It can learn from others' mistakes and best practices,"" said Kaissy, who is also part of international transparency campaign group Publish What You Pay."
+Chevron,2017-1,"In 2013, 46 companies qualified to take part in bidding for oil and gas tenders, 12 of them as operators, including Chevron , Total and Exxon Mobil ."
+Chevron,2017-1,Abou Khalil said he expects these 46 companies to be interested still and that Lebanon will hold another pre-qualification process to increase competition and secure the best deal.
+Chevron,2017-1,"Political risk consultant Mona Sukkarieh said investor enthusiasm for the 2013 tender was high, but the delays have undermined this."
+Chevron,2017-1,"""It is essential now to do things right, even if not swiftly ... A competitive fiscal regime, in addition to regulatory and fiscal stability are key to gain back investors' confidence,"" said Sukkarieh, co-founder of Beirut-based Middle East Strategic Perspectives (MESP)."
+Chevron,2017-1,"Political paralysis left Lebanon without a president for more than two years. The government was unable to tackle long-pending economic and development issues such as garbage disposal, electricity, water and stock market privatisations."
+Chevron,2017-1,The deadlock finally came to an end late last year with the election of Michel Aoun as president and the formation of a new government under Prime Minister Saad Hariri.
+Chevron,2017-1,"""At times, country risk might be high, but that does not entirely conceal Lebanon's energy potential. Oil and gas companies are used to operating in areas where political and country risks are high,"" Sukkarieh said."
+Chevron,2017-1,The government's next task is to agree a tax regime for the nascent hydrocarbon industry.
+Chevron,2017-1,"On Wednesday, the cabinet also agreed to form a ministerial committee to discuss the draft tax law. Abou Khalil said the committee would meet on Thursday."
+Chevron,2017-1,"""The committee is committed to finalise comments on the tax law (with) the shortest delay,"" he said."
+Chevron,2017-1,"""It might take a couple of weeks, and then we will go back to the council of ministers and we will transfer the (draft) law to the parliament, where it is expected to be passed in the first legislative session."""
+Chevron,2017-1,"BRIEF-Chevron reports unit upset at Pascagoula, Miss. refinery on Dec. 29 - Reuters News"
+Chevron,2017-1,"{{20170105T150155.032+0000}}BRIEF-Chevron reports unit upset at Pascagoula, Miss. refinery on Dec. 29Jan 5 (Reuters) - Chevron Corp :"
+Chevron,2017-1,"* Chevron Pascagoula, Mississippi refinery reports release of sulfur dioxide through the flare due to a unit upset on Dec. 29"
+Chevron,2017-1,"Source: U.S. National Response Center filing made public on Thursday Refinery capacity: 330,000 barrels per day"
+Chevron,2017-1,"Lebanon to restart oil, gas licensing round after three-year delay - Reuters News"
+Chevron,2017-1,"{{20170105T121943.527+0000}}Lebanon to restart oil, gas licensing round after three-year delayBEIRUT, Jan 5 (Reuters) - Lebanon intends to restart its first oil and gas licensing round after a three-year delay, the energy minister said on Thursday, hoping to kick-start the development of a hydrocarbon industry."
+Chevron,2017-1,"In its first sitting since being formed in December, Lebanon's new cabinet passed two decrees on Wednesday defining the blocks and specifying conditions for production and exploration tenders and contracts. [nL5N1EU2I8]"
+Chevron,2017-1,"Lebanon will offer five offshore blocks for exploration and production and is to hold another pre-qualification round for companies interested in bidding, Minister of Energy and Water Cesar Abou Khalil told a news conference."
+Chevron,2017-1,"Beirut estimates it has 96 trillion cubic feet of natural gas reserves and 865 million barrels of oil offshore, but squabbling between parties has prevented the passage of vital laws needed to develop the sector."
+Chevron,2017-1,"In 2013, 46 companies qualified to take part in bidding for oil and gas tenders, 12 of them as operators, including Chevron , Total and Exxon Mobil ."
+Chevron,2017-1,Abou Khalil said he expects these 46 companies to be interested still and that Lebanon will hold another pre-qualification process to increase competition and secure the best deal.
+Chevron,2017-1,The next stage is for the government to agree a tax regime for the nascent hydrocarbon industry.
+Chevron,2017-1,"On Wednesday, the cabinet also agreed to form a ministerial committee to discuss the draft tax law. Abou Khalil said the committee would meet on Thursday."
+Chevron,2017-1,"""The committee is committed to finalise comments on the tax law (with) the shortest delay,"" he said."
+Chevron,2017-1,"""It might take a couple of weeks, and then we will go back to the council of ministers and we will transfer the (draft) law to the parliament, where it is expected to be passed in the first legislative session."""
+Chevron,2017-1,CORRECTED-Oil business seen in strong position as Trump tackles tax reform - Reuters News
+Chevron,2017-1,"{{20170104T185948.770+0000}}CORRECTED-Oil business seen in strong position as Trump tackles tax reform(Corrects to remove reference in paragraph 8 to ConocoPhillips, which is not an integrated oil company)"
+Chevron,2017-1,"WASHINGTON, Jan 3 (Reuters) - Big Oil could be in a unique position to protect its interests against a Republican proposal to tax imports, given that President-elect Donald Trump's cabinet is studded with oil champions sensitive to the risk of higher gasoline prices."
+Chevron,2017-1,"Trump's emerging leadership includes Exxon Mobil Corp Chief Executive Officer Rex Tillerson as secretary of state, former Texas Governor Rick Perry as energy secretary and Oklahoma Attorney General Scott Pruitt as Environmental Protection Agency administrator."
+Chevron,2017-1,Trump himself has made no secret of his support for the energy sector.
+Chevron,2017-1,"And in Congress, both Republicans and Democrats have close industry ties, including House tax panel chairman Kevin Brady, a Texas Republican whose district takes in the northern Houston suburbs."
+Chevron,2017-1,House Republicans want to adopt a sweeping tax reform that would sharply reduce tax rates for corporations and end the taxation of U.S. corporate overseas profits.
+Chevron,2017-1,"But a provision known as border adjustability is stirring up controversy. Though intended to boost U.S. manufacturing by exempting export revenues from tax, the provision worries some industries because it would also tax imports. [nL1N1EA1I8]"
+Chevron,2017-1,"Because U.S. oil refiners import about half the crude oil they use to make gasoline, diesel and other products, analysts say the change could lead to higher gasoline prices and potentially undermine economic growth."
+Chevron,2017-1,"Integrated oil companies such as Exxon, Chevron Corp , BP Plc and Royal Dutch Shell Plc could also be hit, depending on whether they are net importers."
+Chevron,2017-1,"But the industry's allies would likely move to soften any rough edges, analysts say."
+Chevron,2017-1,"""I don't see this mix of leadership figures in the House, Senate and the White House, doing something that has the effect of raising gasoline prices,"" said Peter Cohn, an energy analyst with Height Securities, a Washington-based investment firm."
+Chevron,2017-1,"The danger is that a move to protect the oil refiners could open the door to assistance for other industries, including retailers and automakers, which would also face higher costs if no longer able to deduct the cost of imports from their taxable income."
+Chevron,2017-1,Such a knock-on effect could prevent border adjustability from raising an expected $1 trillion in revenues to help pay for lower tax rates over the next decade.
+Chevron,2017-1,"""We hope that raising these concerns early in the process will allow members of Congress to consider the issues carefully,"" Chet Thompson, president of the American Fuel and Petrochemical Manufacturers trade group, said in a statement."
+Chevron,2017-1,"Brady said earlier this month that his committee was sensitive to the impact on specific businesses and ""listening very closely to how we can make sure we smooth that out."" [nL1N1E92CK]"
+Chevron,2017-1,"Moreover, some economists dismiss industry worries about higher import costs, saying the dollar's value would rise in response to such sweeping tax changes and ultimately reduce the cost of imports. Currency markets would adjust to higher oil prices by lowering the dollar value of crude, they predict."
+Chevron,2017-1,"""This argument by the oil industry is, frankly, all wrong,"" said Douglas Holtz-Eakin, former director of the nonpartisan Congressional Budget Office, who now heads the American Action Forum think tank."
+Chevron,2017-1,"""Refiners are going to be basically held harmless. They'll have a lower dollar price of oil. Net cost is the same. And they go about their business. I'm unsympathetic,"" he added."
+Chevron,2017-1,"Height Securities' Cohn said Trump and his advisers could look for ways to soften any blow to refiners and their customers: ""Trump doesn't want to have refineries closing on his watch."""
+Chevron,2017-1,Oil already benefits from several tax code provisions in place for decades that would be eliminated under the House Republican plan. But they stand to gain more than they will lose.
+Chevron,2017-1,"For instance, an existing tax deduction for domestic production lets oil producers shave down their corporate tax rate to 32 percent from the top headline rate of 35 percent. Under the congressional Republicans' plan, the corporate rate would be cut to 20 percent; under Trump's plan, to 15 percent."
+Chevron,2017-1,"Similarly, companies that now write off intangible drilling costs or get a tax allowance for asset depletion would be able to immediately expense capital investments."
+Chevron,2017-1,"Then there is a tax credit oil companies claim for fees from foreign countries. Congressional Republicans would eliminate foreign taxes altogether, while Trump would maintain taxation at a substantially lower rate."
+Chevron,2017-1,Statoil to drill high-impact well near Russian border in summer - Reuters News
+Chevron,2017-1,"{{20170104T160334.973+0000}}Statoil to drill high-impact well near Russian border in summerOSLO, Jan 4 (Reuters) - Norway's Statoil will know by autumn whether it has made a significant oil discovery in the Barents Sea close to the Russian border, its exploration chief Tim Dodson said on Wednesday."
+Chevron,2017-1,"This year the company plans to drill six so-called high-impact wells, meaning each could hold more than 250 million barrels of oil equivalent, including three in the Barents Sea."
+Chevron,2017-1,"One of the planned wells is the Korpfjell prospect in the northernmost license awarded on the Norwegian continental shelf, close to Russia's Perseevsky block which Statoil has agreed to explore with Rosneft ."
+Chevron,2017-1,"""Korpfjell is a large structure with a very significant potential, but there are lots of uncertainties,"" Dodson told Reuters. The first well will be drilled in late summer."
+Chevron,2017-1,"""It should be a quick well...We should know some results by autumn,"" he added."
+Chevron,2017-1,"Other partners in the Statoil-operated field are Chevron , Petoro, Lundin and ConocoPhillips ."
+Chevron,2017-1,"Dodson said seismic data showed that while the structure was close to the Russian border, it was entirely located in Norwegian waters."
+Chevron,2017-1,"However, the Korpfjell drilling results could give an indication of the potential on the other side of the border, he added."
+Chevron,2017-1,"Statoil and Rosneft signed an agreement in 2012 to jointly explore offshore frontier areas in Norway and Russia, but plans were put on hold due to Western sanctions imposed on Moscow over the conflict in Ukraine."
+Chevron,2017-1,"Dodson said Statoil had no immediate plans to drill offshore Russia, although the partners in Perseevsky were required to start drilling no later than 2019."
+Chevron,2017-1,"Statoil does however plan to drill one or two onshore wells in Russia this winter, also in partnership with Rosneft, he added."
+Chevron,2017-1,"The Norwegian company said earlier on Wednesday it planned to drill some 30 wells in 11 countries this year, including Britain, Brazil, the U.S. Gulf of Mexico and Indonesia, up from 23 wells in 2016.[nFWN1EU03X]"
+Chevron,2017-1,UPDATE 2-New Lebanese govt OKs oil decrees to start stalled tender process - Reuters News
+Chevron,2017-1,"{{20170104T151645.621+0000}}UPDATE 2-New Lebanese govt OKs oil decrees to start stalled tender process(Adds detail, analyst quotes)"
+Chevron,2017-1,"BEIRUT, Jan 4 (Reuters) - Lebanon's new government on Wednesday passed two decrees concerning oil and gas exploration blocks, meaning a tender process for offshore reserves, stalled since 2013, can begin."
+Chevron,2017-1,"Beirut estimates it has 96 trillion cubic feet of natural gas reserves and 865 million barrels of oil offshore, but squabbling between parties has prevented it from kick-starting exploration and development of the sector."
+Chevron,2017-1,"""The two oil decrees have been decided in the first achievement for the government,"" Foreign Minister Gibran Bassil wrote on Twitter during the first meeting of the new cabinet under Prime Minister Saad Hariri."
+Chevron,2017-1,The decrees define the blocks and specify conditions for production and exploration tenders and contracts. Full details of these model exploration and production agreements have not yet been published.
+Chevron,2017-1,"The cabinet also agreed to form a ministerial committee to study the tax regime needed for the hydrocarbon industry, and another committee to study a draft hydrocarbon law, Information Minister Melhem Riachi said after the meeting."
+Chevron,2017-1,"In 2013, 46 companies qualified to take part in bidding for oil and gas tenders, 12 of them as operators, including Chevron , Total and Exxon Mobil ."
+Chevron,2017-1,"Jeremy Arbid of the Lebanon Oil and Gas Initiative, a non-governmental organisation promoting transparency and policy development in the hydrocarbon sector, said it appears those 46 companies will now be able to enter a bidding process."
+Chevron,2017-1,He said the situation will be clearer when the full decrees are published.
+Chevron,2017-1,"Ayham Kamel, Middle East director for the political risk group Eurasia, said delays in oil and gas licensing had undermined confidence in Lebanese policymaking."
+Chevron,2017-1,"""Lebanon had to demonstrate that it is extremely business-friendly and that political issues will not represent a real obstacle,"" he said."
+Chevron,2017-1,"""The Lebanese Petroleum Administration (regulatory body) is proving responsive to international dynamics but the body needs political support to manage the process and broaden interest in the Lebanese energy sector,"" Kamel said."
+Chevron,2017-1,"Beirut hopes exploiting the hydrocarbon reserves will help tackle its debt and power shortages, which see most homes go without electricity or rely on generators for many hours a day."
+Chevron,2017-1,"Political paralysis left Lebanon without a president for more than two years. The government was unable to tackle long-pending economic and development issues such as garbage disposal, electricity, water and stock market privatisation."
+Chevron,2017-1,The country is also bearing the costs of hosting more than 1 million refugees from neighbouring Syria's civil war.
+Chevron,2017-1,"In October, Michel Aoun was elected president in a deal that saw Hariri become prime minister."
+Chevron,2017-1,MEDIA-Oil trader Gunvor suing Cerberus over failed Chevron Africa bid - Bloomberg  - Reuters News
+Chevron,2017-1,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+Chevron,2017-1,Angola LNG plant resumes production after December shutdown - Reuters News
+Chevron,2017-1,"{{20170104T111339.590+0000}}Angola LNG plant resumes production after December shutdownJan 4 (Reuters) - The Angolan liquefied natural gas (LNG) export facility has resumed production after being taken offline in late December, a spokeswoman for the Chevron-led venture said."
+Chevron,2017-1,"""I confirm that Angola LNG's plant has restarted production,"" spokeswoman Barbara Freitas-Daniels said."
+Chevron,2017-1,"The plant was taken offline as part of a controlled shutdown on around Dec. 22 for engineers to perform a ""minor intervention"", Freitas-Daniels said at the time."
+Chevron,2017-1,"Angola LNG has been repeatedly shut for lengthy periods since it first started up in mid-2013, including a more than two-year shutdown from April 2014 to June 2016 to fix design flaws."
+Chevron,2017-1,UPDATE 1-Chevron resumes operation at Gorgon LNG train 1 after month-long outage - Reuters News
+Chevron,2017-1,{{20170104T051732.181+0000}}UPDATE 1-Chevron resumes operation at Gorgon LNG train 1 after month-long outage* Gorgon LNG train 1 resumes operation - spokesman
+Chevron,2017-1,"SINGAPORE, Jan 4 (Reuters) - Chevron Corp said on Wednesday it has resumed production of liquefied natural gas (LNG) at one of its two units at the $54 billion Gorgon project, located off Western Australia, after an outage of slightly more than a month."
+Chevron,2017-1,"""Gorgon LNG Train 1 operation resumed earlier this week,"" a spokesman for Chevron wrote in an emailed statement. ""Production was halted in late November 2016 to assess and address some performance variations,"" the statement said, without disclosing details of the ""variations""."
+Chevron,2017-1,"Output at the plant's train 2 production line was unaffected during the period, the spokesman said. The Gorgon project had continued to produce and load cargoes, he said."
+Chevron,2017-1,The massive Gorgon project has been plagued by a string of operational issues since it started up in March 2016. [nL8N1DF2E3] [nS9N1B000J]
+Chevron,2017-1,"Despite the continued production form the second train, the supply disruption led to an urgent demand for replacement cargoes to fulfil customer commitments, according to traders familiar with the matter."
+Chevron,2017-1,"That helped spot LNG prices for delivery to North Asia rise to near two-year highs of $9.50 per million British thermal units (mmBtu) last week, their highest level since early 2015, compared with spot levels around $7/mmBtu before news of the Gorgon train 1 outage broke in late November."
+Chevron,2017-1,Chevron resumes operation at Gorgon LNG train 1 after month-long outage - Reuters News
+Chevron,2017-1,"{{20170104T043041.040+0000}}Chevron resumes operation at Gorgon LNG train 1 after month-long outageSINGAPORE, Jan 4 (Reuters) - Chevron Corp said on Wednesday it has resumed production at one of its two units at the Gorgon liquefied natural gas (LNG) plant off Western Australia after an outage of slightly more than a month."
+Chevron,2017-1,"""Gorgon LNG Train 1 operation resumed earlier this week. Production was halted in late November 2016 to assess and address some performance variations,"" a spokesman for Chevron, operator of Gorgon, said in an emailed statement."

@@ -1,0 +1,1221 @@
+firm_id,date,text
+tesla,2017-5,"{{20170531T065223.256+0000}}CORRECTED-U.S. RESEARCH ROUNDUP-Autozone, Valero Energy, Whiting Petroleum (May 30)(Corrects brokerage on Genesco Inc to Susquehanna from Morgan Stanley)"
+tesla,2017-5,May 31 (Reuters) - Wall Street securities analysts revised their ratings and price targets on
+tesla,2017-5,"several U.S.-listed companies, including Biohaven Pharmaceutical Holding, PVH and Valero Energy, on"
+tesla,2017-5,* Whiting Petroleum Corp : Goldman Sachs cuts to sell from neutral
+tesla,2017-5,Following is a summary of research actions on U.S. companies reported by Reuters on Tuesday. Stock
+tesla,2017-5,entries are in alphabetical order. See bottom of the table for sector changes.
+tesla,2017-5,* Altria Group : Independent Research raises target price to $79.0 from $74.0; hold
+tesla,2017-5,* American Assets Trust Inc : Mizuho cuts target price to $42.5 from $44
+tesla,2017-5,* Antero Midstream GP LP : Baird starts with outperform; target price $28
+tesla,2017-5,* Antero Midstream GP LP : Barclays starts with overweight; target price $26
+tesla,2017-5,* Antero Midstream GP LP : D.A. Davidson starts with buy rating; $30 target price
+tesla,2017-5,* Antero Midstream GP LP : Goldman Sachs starts with buy rating; price target $29
+tesla,2017-5,* Antero Midstream GP LP : JP Morgan starts with overweight; target price $27
+tesla,2017-5,* Antero Midstream GP LP : Ladenburg Thalmann starts with buy; $27 target price
+tesla,2017-5,* Antero Midstream GP LP : Raymond James starts with strong buy rating; $26 target
+tesla,2017-5,* Antero Midstream GP LP : Stifel starts with hold rating; $24 target price
+tesla,2017-5,* Antero Midstream Partners LP : Goldman Sachs starts with buy rating
+tesla,2017-5,* Archrock Partners LP : Goldman Sachs cuts to neutral from buy
+tesla,2017-5,* Athenahealth Inc : UBS raises target price to $152 from $123; rating buy
+tesla,2017-5,* Bank of The Ozarks Inc : SunTrust Robinson cuts target price to $51 from $54
+tesla,2017-5,* Biogen Inc : Mizuho cuts price target to $274 from $290; rating neutral
+tesla,2017-5,* Brixmor Property Group Inc : Mizuho cuts target price to $19 from $25
+tesla,2017-5,* Buffalo Wild Wings Inc : Wedbush cuts price target to $115 from $150
+tesla,2017-5,* Buffalo Wild Wings Inc : Wedbush cuts to underperform from neutral
+tesla,2017-5,* Burlington Stores Inc : Cowen and Company raises target price to $110 from $103
+tesla,2017-5,* Cardconnect Corp : Cowen and Company cuts target price to $15 from $17
+tesla,2017-5,* Cardconnect Corp : Cowen and Company cuts to market perform from outperform
+tesla,2017-5,* CBL & Associates Properties Inc : Mizuho cuts target price to $8.5 from $11
+tesla,2017-5,* Check Cap Ltd : Maxim Group cuts price target to $5.00 from $6.00 ; rating buy
+tesla,2017-5,* China Rapid Finance Ltd : Jefferies starts with a buy rating; price target $10
+tesla,2017-5,* China Rapid Finance Ltd : Jefferies starts with buy; target price $10
+tesla,2017-5,* Cliffs Natural Resources Inc : JP Morgan cuts target price to $8.50 from $12.50
+tesla,2017-5,* Cooper Companies Inc : JP Morgan raises target price to $200 from $181
+tesla,2017-5,* Corporate Office Properties Trust : Barclays raises target to $36 from $32; hold
+tesla,2017-5,* Corporate Office Properties Trust : Jefferies raises target to $36 from $32; hold
+tesla,2017-5,* Deckers Outdoor Corp : Morgan Stanley raises price target by $5 to $59
+tesla,2017-5,* Dunkin' Brands Group Inc : Barclays raises target price to $65 from $62
+tesla,2017-5,* DXC Technology Co : Stifel starts with hold rating; price target $86
+tesla,2017-5,* Eaton Corporation Plc : Argus Research raises target price to $85 from $83
+tesla,2017-5,* Federal Realty Investment Trust : Mizuho cuts target price to $140 from $159
+tesla,2017-5,* First Bank : Sandler O'Neill cuts price target to $12.50; rating hold
+tesla,2017-5,* Freeport-McMoRan Inc : JP Morgan cuts target price to $12 from $14
+tesla,2017-5,* General Growth Properties Inc : Mizuho cuts target price to $24.5 from $30
+tesla,2017-5,* General Growth Properties Inc : Mizuho cuts to neutral from buy
+tesla,2017-5,* General Mills Inc : Susquehanna cuts price target to $59 from $62; rating neutral
+tesla,2017-5,* Genesco Inc : Susquehanna cuts target price to $43 from $66; rating positive
+tesla,2017-5,* Hub Group Inc : Cowen And Company raises price target to $42; market outperform
+tesla,2017-5,* Intuitive Surgical Inc : Canaccord Genuity cuts to hold from buy; target $870
+tesla,2017-5,* Keysight Technologies Inc : Citigroup starts with buy rating; $44 price target
+tesla,2017-5,* KKR Real Estate Finance Trust : JP Morgan starts with neutral; target price $23
+tesla,2017-5,* KKR Real Estate Finance Trust Inc : KBW starts with market perform
+tesla,2017-5,* LSC Communications Inc : Citigroup starts with neutral rating; $23 price target
+tesla,2017-5,* Mercury Systems : Jefferies raises price target to $43 from $39; rating hold
+tesla,2017-5,* Newfield Exploration Co : Goldman Sachs cuts price target to $45 from $52
+tesla,2017-5,* Newfield Exploration Co : Goldman Sachs raises to buy from neutral
+tesla,2017-5,* Ovid Therapeutics Inc : Cowen and Company starts with outperform rating
+tesla,2017-5,* Ovid Therapeutics Inc : JMP starts with market outperform; $26 target price
+tesla,2017-5,* Palo Alto Networks Inc : Dougherty cuts target price to $135 from $155
+tesla,2017-5,* Pentair Plc : Cowen and Company raises target price to $59 from $50
+tesla,2017-5,* Pieris Pharmaceuticals : Rodman & Renshaw starts with buy rating;$9 price target
+tesla,2017-5,* Psivida Corp : Rodman & Renshaw starts with buy rating; $8 price target
+tesla,2017-5,* PVH Corp : B.Riley raises price target to $128 from $125; rating buy
+tesla,2017-5,* Quality Systems : Leerink raises target to $16 from $14; rating market perform
+tesla,2017-5,* Rapid7 Inc : Monness Crespi Hardt starts with buy rating; $23 price target
+tesla,2017-5,* Rayonier Advanced Materials Inc : RBC raises target price to $20 from $16
+tesla,2017-5,* Simon Property Group Inc : Mizuho cuts target price to $178 from $198
+tesla,2017-5,* Simon Property Group Inc : Mizuho raises to buy from neutral
+tesla,2017-5,* Southern Copper Corp : JP Morgan cuts target price to $39 from $42
+tesla,2017-5,* Tesla Inc : Independent Research starts with hold; target price USD 350.00
+tesla,2017-5,* Thermon Group Holdings Inc : SunTrust Robinson cuts target price to $16 from $18
+tesla,2017-5,* Urogen Pharma Ltd : Jefferies starts with buy rating; $27 price target
+tesla,2017-5,* Urogen Pharma Ltd : Raymond James starts with outperform rating; $25 TP
+tesla,2017-5,* Whiting Petroleum Corp : Goldman Sachs cuts target price to $7.25 from $11.50
+tesla,2017-5,* Whiting Petroleum Corp : Goldman Sachs cuts to sell from neutral
+tesla,2017-5,* Workday Inc : Wedbush raises target price to $96 from $91; rating neutral
+tesla,2017-5,* Yum Brands : Cowen and Company raises target price to $85 from $80
+tesla,2017-5,* Zynga Inc : Piper Jaffray raises to overweight from neutral - Trader
+tesla,2017-5,* SMID E&P: Goldman Sachs cuts coverage view to neutral from attractive
+tesla,2017-5,Connecticut Retirement Plans & Trust Funds seek shareholders' nod for declassification of Tesla board - Reuters Investor Briefs
+tesla,2017-5,{{20170525T150033.235+0000}}Connecticut Retirement Plans & Trust Funds seek shareholders' nod for declassification of Tesla boardMay 25 (Reuters) - Tesla Inc <TSLA.O>:Connecticut Retirement Plans and Trust Funds urges Tesla Inc shareholders to vote for proposal related to board declassification at Tesla - SEC filing.Connecticut Retirement Plans and Trust Funds on Tesla board - believe board independence and director succession
+tesla,2017-5,{{20170525T144828.195+0000}}BRIEF-Connecticut Retirement Plans & Trust Funds seek shareholders' nod for declassification of Tesla boardMay 25 (Reuters) - Tesla Inc
+tesla,2017-5,* Connecticut Retirement Plans and Trust Funds urges Tesla Inc shareholders to vote for proposal related to board declassification at Tesla - SEC filing
+tesla,2017-5,* Connecticut Retirement Plans and Trust Funds on Tesla board - believe board independence and director succession planning not given priority they deserve
+tesla,2017-5,"* Connecticut Retirement Plans and Trust Funds owned 45,567 shares of Tesla inc's stock, according to Tesla's proxy statement dated April 20, 2017"
+tesla,2017-5,"{{20170525T000728.967+0000}}Worker advocacy group report says Tesla's injury rate higher than averageSAN FRANCISCO, May 24 (Reuters) - A California-based workers advocacy group released a report on Wednesday saying that Tesla Inc data showed its workers have been injured at a rate a third higher than the auto industry average."
+tesla,2017-5,Tesla responded to the report by saying its accident rate in the first quarter of 2017 was 32 percent better than the industry average.
+tesla,2017-5,"""We may have had some challenges in the past as we were learning how to become a car company, but what matters is the future and with the changes we've made, we now have the lowest injury rate in the industry by far,"" said Tesla in a statement."
+tesla,2017-5,"One change was adding a third shift, which Tesla said led to a 30 percent drop in recordable incidents in the first quarter of 2017 from a year earlier."
+tesla,2017-5,Worksafe said the first-quarter data was preliminary and not enough to show a trend.
+tesla,2017-5,"The UAW, which put the report on the front page of its website, declined comment."
+tesla,2017-5,"The report comes at a critical time for the Silicon Valley luxury carmaker, which is preparing to launch its Model 3 sedan, hiring and ramping up its factory for a six-fold increase in volume next year. [nL1N1HU0BC]"
+tesla,2017-5,Worksafe Executive Director Doug Parker told journalists in a briefing that the group met with Tesla factory workers after being approached by the UAW. Worksafe engages in campaigns with unions and other groups.
+tesla,2017-5,"The Worksafe analysis of Tesla injury logs sent to California health and safety regulators showed that the carmaker had 8.8 injuries per 100 workers in 2015, 31 percent higher than the U.S. automotive industry mean of 6.7."
+tesla,2017-5,"The figure, called a ""total recordable incidence rate"" (TRIR) fell to 8.1 injuries per 100 workers in 2016, for which industry-wide data is not yet available."
+tesla,2017-5,"Worksafe also calculated that the rate of serious injuries known as ""days away, restrictions and transfers"" was double the industry rate in 2015 and fell slightly the next year."
+tesla,2017-5,"{{20170524T065134.020+0000}}ANALYSIS-India's electric vehicles push likely to benefit Chinese car makers* New policy likely to favour EVs over hybrid, conventional cars"
+tesla,2017-5,* Policy uncertainty is forcing car makers to delay plans in India
+tesla,2017-5,"NEW DELHI, May 24 (Reuters) - India's ambitious plan to push electric vehicles at the expense of other technologies could benefit Chinese car makers seeking to enter the market, but is worrying established automakers in the country who have so far focused on making hybrid models."
+tesla,2017-5,"India's most influential government think-tank unveiled a policy blueprint this month aimed at electrifying all vehicles in the country by 2032, in a move that is catching the attention of car makers that are already investing in electric technology in China such as BYD <002594.SZ> <1211.HK> and SAIC <600104.SS>."
+tesla,2017-5,"The May 12 report by Niti Aayog, the planning body headed by Prime Minister Narendra Modi, recommends lower taxes and loan interest rates on electric vehicles while capping sales of petrol and diesel cars, seen as a radical shift in policy. [nL4N1I62IM] [nL4N1IE2AL]"
+tesla,2017-5,"India also plans to impose higher taxes on hybrid vehicles compared with electric, under a new unified tax regime set to come into effect from July 1, upsetting car makers like Maruti Suzuki and Toyota Motor <7203.T>. [nL4N1IO46G]"
+tesla,2017-5,"The prospect of India aggressively promoting electric vehicles was a ""big opportunity"", a source close to SAIC, China's biggest automaker, told Reuters."
+tesla,2017-5,"""For a newcomer, this is a good chance to establish a modern, innovative brand image,"" the source said, although they added the company would need more clarity on policy before deciding whether to launch electric vehicles in India."
+tesla,2017-5,Earlier this year SAIC set up a local unit called MG Motor which is finalising plans to buy a car manufacturing plant in western India. A spokesman at SAIC did not comment specifically on the company's India plans.
+tesla,2017-5,"Warren Buffett-backed BYD already builds electric buses in the country, while rival Chongqing Changan <000625.SZ> has said it may enter India by 2020. [nL3N16U43O]"
+tesla,2017-5,"BYD said in a statement the company would have ""a lot more confidence"" to engage in the Indian market if the government supported the proposed policy. The company said it would look at increasing its investment in India but did not give details on how it would expand its business and market share."
+tesla,2017-5,"While the Niti Aayog report has not yet been formally adopted, government sources have said it was likely to form the basis of a new green cars policy."
+tesla,2017-5,"If so, India would be following similar moves by China, which has been aggressively pushing clean vehicle technologies. But emulating China's success could be tough."
+tesla,2017-5,"Electric vehicles are expensive due to high battery costs, and car makers say a lack of charging stations in India could make the whole proposition unviable."
+tesla,2017-5,"The proposed policy focuses on electric vehicles, and is likely to also include plug-in hybrids. But it overlooks conventional hybrid models already sold in India, such as Toyota's Camry sedan, Honda Motor's <7267.T> Accord sedan and so-called mild hybrids built by Maruti Suzuki."
+tesla,2017-5,"Hybrids combine fossil fuel and electric power, with mild hybrids making less use of the latter."
+tesla,2017-5,"In doubling down on electric power India would be shifting away from its previous policy, announced in 2015, that supported hybrid and electric technology."
+tesla,2017-5,"That could delay investments in India, expected to be the world's third-largest passenger car market within the next decade, according to industry executives and analysts."
+tesla,2017-5,"""All these policy changes will affect future products and investments,"" said Puneet Gupta, South Asia manager at consultant IHS Markit, adding that most car makers would need to rethink product launches, especially of hybrids."
+tesla,2017-5,"Mahindra & Mahindra is the only electric car maker in India but has struggled to ramp up sales, blaming low buyer interest and insufficient infrastructure."
+tesla,2017-5,"Pawan Goenka, managing director at Mahindra said the company was working with the government and other private players to set up charging stations in India. Mahindra was also focusing on developing electric fleet cars and taxis, Goenka said."
+tesla,2017-5,"The cost of setting up a car charging station in India ranges from $500 to $25,000, depending on the charging speed, according to a 2016 report by online journal IOPscience."
+tesla,2017-5,"While the proposed policy suggests setting up battery swapping stations and using tax revenues from sales of petrol and diesel vehicles to set up charging stations, it does not specify the investment needed or whether the government would contribute."
+tesla,2017-5,"""For full electric vehicles, the economic gap remains huge and the charging infrastructure needed does not exist,"" said a spokesman at Tata Motors . The company makes electric buses and is working on developing electric and hybrid cars."
+tesla,2017-5,"Most automakers have focused on bringing in hybrid models that are seen as a stepping stone to electrification. Toyota recently launched its luxury hybrid brand Prius in India, while Hyundai Motor <005380.KS> plans to debut its Ioniq hybrid sedan next year."
+tesla,2017-5,"Maruti's parent Suzuki Motor <7269.T>, along with Toshiba <6502.T> and Denso <6902.T>, plans to invest 20 billion yen ($180 million) to set up a lithium ion battery plant in India which would support Maruti's plan to build more hybrids. [nL3N1HM1YW]"
+tesla,2017-5,"But the apparent sharp shift in policymakers' thinking in favour of electrification is forcing automakers like Toyota and Nissan Motor <7201.T> to seek more clarity before finalising future products for India, while Hyundai may delay new launches."
+tesla,2017-5,"Toyota, the world's No. 2 carmaker by sales, had planned to have a hybrid variant for all its vehicles in India, but the company's future launches would now depend on the new policy, said Shekar Viswanathan, vice chairman of its Indian subsidiary."
+tesla,2017-5,"Nissan, which plans to launch a hybrid SUV later this year, said in a statement it was waiting for more clarity before deciding whether to bring electric cars to India."
+tesla,2017-5,"A plan by Hyundai to launch at least three hybrid cars in India in 2019-2020 would likely to be delayed, said a source."
+tesla,2017-5,"""If the government will be aggressive on electric vehicles and not support other technologies, companies will need to rethink investments,"" said an executive with an Asian carmaker. ($1 = 64.5600 Indian rupees) ($1 = 111.1700 yen)"
+tesla,2017-5,{{20170523T110001.824+0000}}RPT-Investors skeptical Ford CEO change will revive stock price(Repeats story published Monday to widen distribution with no changes)
+tesla,2017-5,"NEW YORK, May 23 (Reuters) - Ford Motor Co's unexpected decision to replace its chief executive officer on Monday may not be the catalyst that revives its slumping share prices."
+tesla,2017-5,"Shares of the second-largest U.S. automaker rose 2.1 percent Monday, a relatively muted reaction given the 0.5 percent gain in the broad Standard & Poor's 500 index <.SPX>. Over the last 12 months, shares of Ford are down nearly 16 percent due to concerns of declining automobile sales and the threat of autonomous vehicles to shrink future demand. [nL4N1IO2J0]"
+tesla,2017-5,"The S&P 500 index has jumped nearly 17 percent over the same time, while shares of competitor General Motors Co are up about 8 percent and shares of electronic vehicle pioneer Tesla Inc are up nearly 41 percent."
+tesla,2017-5,"""There's just nothing out there that looks like it will get the stock moving,"" said Gary Bradshaw, an analyst at Dallas-based Hodges Capital, who said that he attended a luncheon with outgoing CEO Mark Fields about two months ago in which Fields pressed the portfolio managers sitting around him about why they were not buying shares in the company."
+tesla,2017-5,"The change in the company's leadership does not solve the structural problems facing the industry, said Bradshaw, who does not own shares in the company and does not plan on adding them."
+tesla,2017-5,"""GM is in the same boat. They don't have a car out there like a Tesla that is getting people excited and saying they need to buy it,"" he said."
+tesla,2017-5,One significant auto investor who declined to be named said the CEO change would probably not be a catalyst for the stock.
+tesla,2017-5,"""The company hasn't kept pace with innovation, and the sector faces long-term problems,"" the person said."
+tesla,2017-5,GM's buy-back spending was $2.5 billion last year and $16.8 billion over five years.
+tesla,2017-5,"Ford has a dividend yield of 5.5 percent, versus General Motors of 4.6 percent."
+tesla,2017-5,"Ford has felt less pressure from outside activists to undertake efforts to boost its share price, in large part because the Ford family, which holds nearly 40 percent of the voting power among shareholders. GM, by comparison, has fended off calls from well known hedge funds like David Einhorn's Greenlight Capital, which has pressed the company to split the company's stock. [nL1N1HX1A2]"
+tesla,2017-5,"Ford's new chief executive, James Hackett, who had been overseeing its division focused on self-driving cars, has a reputation as a turnaround artist for guiding changes at furniture maker Steelcase Inc that helped it regain its market leading position, though those reforms did not always benefit shareholders."
+tesla,2017-5,"Over the 18 years that Hackett oversaw Steelcase as a public company, the stock fell by more than 55 percent and delivered a total return, including reinvested dividends of negative 22.3 percent, or an annualized total return under his tenure of negative 1.54 percent. By contrast, the S&P 500 generated an annualized total return over the same run of 5.62 percent."
+tesla,2017-5,"Notably, on both a price and total return basis, Steelcase underperformed its main competitors like Herman Miller Inc and HNI Corp by substantial margins on a cumulative basis."
+tesla,2017-5,"Other management changes at the company could be coming as Hackett attempts to reposition the company for a new era of electric vehicles and autonomous driving, said Adam Jonas, an analyst at Morgan Stanley. That could mean that ""the earnings situation may need to get materially worse before it gets better,"" he wrote in a note Monday."
+tesla,2017-5,- Note: Reuters has not verified this story and does not vouch for its accuracy
+tesla,2017-5,{{20170522T231220.829+0000}}Investors skeptical Ford CEO change will revive stock priceBy David Randall
+tesla,2017-5,"NEW YORK, May 22 (Reuters) - Ford Motor Co's unexpected decision to replace its chief executive officer on Monday may not be the catalyst that revives its slumping share prices."
+tesla,2017-5,"Shares of the second-largest U.S. automaker rose 2.1 percent Monday, a relatively muted reaction given the 0.5 percent gain in the broad Standard & Poor's 500 index <.SPX>. Over the last 12 months, shares of Ford are down nearly 16 percent due to concerns of declining automobile sales and the threat of autonomous vehicles to shrink future demand. [nL4N1IO2J0]"
+tesla,2017-5,"The S&P 500 index has jumped nearly 17 percent over the same time, while shares of competitor General Motors Co are up about 8 percent and shares of electronic vehicle pioneer Tesla Inc are up nearly 41 percent."
+tesla,2017-5,"""There's just nothing out there that looks like it will get the stock moving,"" said Gary Bradshaw, an analyst at Dallas-based Hodges Capital, who said that he attended a luncheon with outgoing CEO Mark Fields about two months ago in which Fields pressed the portfolio managers sitting around him about why they were not buying shares in the company."
+tesla,2017-5,"The change in the company's leadership does not solve the structural problems facing the industry, said Bradshaw, who does not own shares in the company and does not plan on adding them."
+tesla,2017-5,"""GM is in the same boat. They don't have a car out there like a Tesla that is getting people excited and saying they need to buy it,"" he said."
+tesla,2017-5,One significant auto investor who declined to be named said the CEO change would probably not be a catalyst for the stock.
+tesla,2017-5,"""The company hasn't kept pace with innovation, and the sector faces long-term problems,"" the person said."
+tesla,2017-5,GM's buy-back spending was $2.5 billion last year and $16.8 billion over five years.
+tesla,2017-5,"Ford has a dividend yield of 5.5 percent, versus General Motors of 4.6 percent."
+tesla,2017-5,"Ford has felt less pressure from outside activists to undertake efforts to boost its share price, in large part because the Ford family, which holds nearly 40 percent of the voting power among shareholders. GM, by comparison, has fended off calls from well known hedge funds like David Einhorn's Greenlight Capital, which has pressed the company to split the company's stock. [nL1N1HX1A2]"
+tesla,2017-5,"Ford's new chief executive, James Hackett, who had been overseeing its division focused on self-driving cars, has a reputation as a turnaround artist for guiding changes at furniture maker Steelcase Inc that helped it regain its market leading position, though those reforms did not always benefit shareholders."
+tesla,2017-5,"Over the 18 years that Hackett oversaw Steelcase as a public company, the stock fell by more than 55 percent and delivered a total return, including reinvested dividends of negative 22.3 percent, or an annualized total return under his tenure of negative 1.54 percent. By contrast, the S&P 500 generated an annualized total return over the same run of 5.62 percent."
+tesla,2017-5,"Notably, on both a price and total return basis, Steelcase underperformed its main competitors like Herman Miller Inc and HNI Corp by substantial margins on a cumulative basis."
+tesla,2017-5,"Other management changes at the company could be coming as Hackett attempts to reposition the company for a new era of electric vehicles and autonomous driving, said Adam Jonas, an analyst at Morgan Stanley. That could mean that ""the earnings situation may need to get materially worse before it gets better,"" he wrote in a note Monday."
+tesla,2017-5,"{{20170522T203941.029+0000}}UPDATE 9-Ford names Hackett as CEO to tackle car rivals, Silicon Valley(Adds detail on possible future cost cuts, link to Breakingviews column, closing stock price)"
+tesla,2017-5,"WASHINGTON/DEARBORN, Mich., May 22 (Reuters) - Ford Motor Co abruptly named James Hackett as chief executive on Monday, responding to investors' growing unease about the U.S. automaker's slumping stock price and its ability to counter threats from longtime rivals and Silicon Valley."
+tesla,2017-5,"Ford Chairman Bill Ford Jr., whose family effectively controls the U.S. No. 2 automaker, said he wanted Hackett to speed up decision-making and cut costs, but did not offer specifics on how the new CEO should change operations."
+tesla,2017-5,"Ford, which announced plans to cut 1,400 white-collar positions last week, is expected to look at further significant cost cuts in the next three to six months, according to company officials, speaking on condition of anonymity as the plans have not been finalized."
+tesla,2017-5,"Hackett, 62, known as a turnaround expert who for the past year has led the Ford unit developing self-driving cars and related projects, replaces Mark Fields, 56, who spent less than three years as CEO."
+tesla,2017-5,"Fields' abrupt dismissal caught nearly all at Ford by surprise, but concerns about the company's direction have been brewing for some time."
+tesla,2017-5,"Ford, once the most financially secure of the 'Big Three' Detroit automakers, and the only one not to take U.S. government money in the U.S. auto industry bailout a decade ago, reported record profit in 2015, but now finds itself under pressure on all sides as overall U.S. auto sales fall."
+tesla,2017-5,"Rival General Motors Co is aggressively targeting Ford's share of the lucrative North American truck and sport utility business, the source of 90 percent of Ford's profit."
+tesla,2017-5,"Meanwhile, investors see Ford as a laggard in the shift toward electric vehicles, self-driving technology and ride-sharing. Ford's $44 billion market value is below electric car pioneer Tesla Inc's $51 billion."
+tesla,2017-5,"Bill Ford and other descendants of company founder Henry Ford effectively control the automaker through a special class of shares, but many investors share his concern that the company is running out of time."
+tesla,2017-5,"Ford shares closed up 2.1 percent at $11.10. At Friday's close, they had fallen 37 percent since Fields took over three years ago at the peak of the U.S. auto industry's recovery from the crisis last decade."
+tesla,2017-5,"The automaker has tangled with U.S. President Donald Trump, who spent more than a year criticizing the company on the campaign trail for expanding operations in Mexico and exporting U.S. jobs. A Ford spokeswoman said Trump was not a factor in Fields' departure."
+tesla,2017-5,"Overall U.S. auto sales are slipping after a long boom. But GM has moved faster than Ford to slash unprofitable operations, and Tesla has been quicker to deploy new technology."
+tesla,2017-5,"Bill Ford indicated the company would take more aggressive action to cut costs. ""We have to modernize the business"" and move ""decisively to address underperforming areas,"" he said."
+tesla,2017-5,"Hackett, who overhauled furniture maker Steelcase Inc and then turned around the ailing University of Michigan football program, becomes the latest in a line of non-family CEOs brought in with a mandate to change the management culture at one of the auto industry's oldest institutions. [nL1N1IO12C]"
+tesla,2017-5,"That task has frustrated many of his predecessors, including Bill Ford, who had been CEO before replacing himself in 2006 with Boeing Co executive Alan Mulally."
+tesla,2017-5,"The decision to replace Fields did not result from a single event, Bill Ford told Reuters."
+tesla,2017-5,"""There is no smoking gun here,"" he said. ""It's more the way we are organized, the way Jim is going to streamline the organization."""
+tesla,2017-5,"As CEO of Steelcase, based in Grand Rapids, Michigan, Hackett slashed thousands of jobs and refocused the company on innovation. [nL1N1IO0MR]"
+tesla,2017-5,"A former Ford director and interim athletic director at the University of Michigan, Hackett was tapped in March 2016 to run Ford Smart Mobility, a unit established to oversee and coordinate forays into autonomous driving, ride sharing and other ventures. [nL1N1IO12C]"
+tesla,2017-5,"In that role, he helped oversee Ford's acquisition of San Francisco ride-sharing company Chariot and its $1 billion investment in Argo AI, a self-driving startup focused on robotics and artificial intelligence."
+tesla,2017-5,The upheaval at Ford underlines pressure on all three major Detroit automakers to prove they can avoid losses as the U.S. market begins to slow from last year's record sales.
+tesla,2017-5,"GM CEO Mary Barra is fending off attacks from hedge fund Greenlight Capital, which wants to install new directors and split the company's stock. In March, GM sold its money-losing Opel division to France's PSA Group , effectively exiting Europe in a move Barra promised would free cash for share buybacks. [nL5N1GJ0LA]"
+tesla,2017-5,The shake-up at Ford may bring scrutiny to its own plans in the region. The company posted a record $1.2 billion profit in Europe last year but warned that the impact of Britain's vote to leave the European Union would put a dent in 2017 earnings. [nL5N1FH4LE]
+tesla,2017-5,"Under a broader shake-up announced on Monday, former Ford of Europe chief Jim Farley will become president of a new ""Global Markets"" group that will include Ford's regional sales and marketing operations around the world as well as its Lincoln luxury brand."
+tesla,2017-5,"The company is also putting government relations and corporate communications under Ford Jr., and Hackett said the great-grandson of Henry Ford would have a higher public profile."
+tesla,2017-5,"Fields, who earned $22.1 million in 2016 and had a 28-year-career at Ford, also faced a clamor for share repurchases at the company's annual meeting earlier this month. [nL5N1H84H1]"
+tesla,2017-5,"Ford said last week it would cut 1,400 staff positions in North America and Asia, a small fraction of the 20,000 job reductions some news outlets had reported were imminent. [nL2N1IJ0EP]"
+tesla,2017-5,"The company reported a record $10.4 billion in pretax earnings in 2016, but investors were concerned by a weak first quarter and lower profit forecast for 2017, as well as higher costs for investments in ""emerging opportunities."" [nL2N1BQ06W]"
+tesla,2017-5,Limoneira and Tesla power up to save energy costs - Reuters Investor Briefs
+tesla,2017-5,Limoneira and Tesla power up to save energy costs - Reuters Investor Briefs
+tesla,2017-5,{{20170522T124303.237+0000}}BRIEF-Limoneira and Tesla power up to save energy costsMay 22 (Reuters) - Limoneira Co
+tesla,2017-5,* Announced commissioning of a new joint project with Tesla to reduce energy costs
+tesla,2017-5,{{20170522T112656.609+0000}}BREAKINGVIEWS-CEO ejection hardly gets Ford back in the race(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+tesla,2017-5,"SHANGHAI, May 22 (Reuters Breakingviews) - Ford Motor's many flubs under Mark Fields were becoming existential for the $43 billion carmaker's founding family. Two weeks ago, a majority of those shareholders not named Ford voted to abolish the family's super-voting stock. The Fords took the hint, and the chief executive is now leaving. But naming a 62-year-old from the furniture trade to replace him hints at how unprepared the family was for a revolt."
+tesla,2017-5,"That Fields' job was in jeopardy was no secret. The 36 percent decline in Ford shares since he replaced Alan Mulally nearly three years ago was the mathematical manifestation of investors' discontent in his stewardship. Even General Motors only withstood a 10 percent slide, while Fiat Chrysler and Tesla both increased strongly."
+tesla,2017-5,"This sparked a last-ditch move by Fields a week ago to cut white-collar workers, potentially irritating jobs-obsessed President Donald Trump, with whom the company clashed over plans to move production of some small cars to Mexico. It backtracked on that decision, in part because of slack demand for those vehicles."
+tesla,2017-5,"- Ford Motor Chief Executive Mark Fields is set to leave the carmaker as part of a shake-up that includes other top executive changes as the company's shares hover near a 52-week low, several media reported on May 22."
+tesla,2017-5,"- Forbes and the New York Times reported James Hackett, head of the Ford unit that works on autonomous vehicles, would take the reins. An announcement could come as early as Monday."
+tesla,2017-5,"- Ford's board of directors and Chairman Bill Ford Jr. had been unhappy with the company's performance, and sought more reassurance that investments in self-driving cars, electric vehicles and ride services would pay off."
+tesla,2017-5,"- For previous columns by the author, Reuters customers can click on [COX/]"
+tesla,2017-5,{{20170522T053054.646+0000}}BRIEF-Tesla CEO Musk says Tesla autopilot software release rolling out in June - tweetMay 22 (Reuters) -
+tesla,2017-5,"* Tesla CEO Musk says ""excited about the Tesla autopilot software release rolling out next month"" - tweet"
+tesla,2017-5,"{{20170519T141441.644+0000}}BUZZ-VIEW FROM THE BUYSIDE-Jupiter's Clunie ""heavily"" shorting US stocks** Jupiter's James Clunie is ""heavily"" shorting US stocks, saying the country's equity market is in ""bubble"" territory"
+tesla,2017-5,"** Clunie says contrarian trade relies on picking up cheap call options, that the manager says are mispriced relative to puts, to hedge the short position"
+tesla,2017-5,"** ""Almost everyone with a good track record is long US equities,"" he says. ""They are long the US and buying expensive hedges. We are short the US and buying cheap hedges."""
+tesla,2017-5,"** Adds cheap calls protect against ""flare-ups"" seen at the end of bull markets where stocks rip higher"
+tesla,2017-5,"** Short positions in US stocks Clunie has discussed in recent investment letters include Transdigm , Tesla , Caterpillar , Campbell Soup , Nexstar and Under Armour"
+tesla,2017-5,"{{20170518T120003.252+0000}}Daimler, Vivint Solar in exclusive deal on U.S. home batteriesBy Nichola Groom"
+tesla,2017-5,"May 18 (Reuters) - German automaker Daimler AG will enter the nascent U.S. market for home batteries through a collaboration with residential rooftop solar installer Vivint Solar Inc , the two companies said on Thursday."
+tesla,2017-5,"The exclusive partnership, Vivint's first foray into energy storage, will allow the companies to compete against similar offerings from automaker Tesla Inc , solar installer Sunrun Inc , battery maker LG Chem Ltd <051910.KS> and others."
+tesla,2017-5,"The market for energy storage is small, but growing rapidly as the costs of lithium-ion batteries fall. Last year the industry generated $320 million in revenue in the United States, though residential systems made up just 4 percent of the total."
+tesla,2017-5,"Home battery systems allow customers to store solar power generated during the day for use after sunset, a time when they might charge an electric vehicle. Eventually, as utilities move to charging higher rates for power used in the evening, when demand is greatest, the batteries could bring customers significant savings. They can also provide backup power."
+tesla,2017-5,"Daimler will sell the batteries through its Mercedes-Benz Energy subsidiary established last year, bringing its aspirational car brand to the home energy market in much the same way Tesla has with its Powerwall batteries."
+tesla,2017-5,"The head of Mercedes-Benz Energy Americas, Boris von Bormann, said entering the home storage market was a natural evolution for the luxury car brand."
+tesla,2017-5,"""In the future when someone steps into a dealership and they are looking to purchase an EV, they are asking for several solutions and storage will be one of them,"" he said in an interview."
+tesla,2017-5,"Vivint Chief Executive Officer David Bywater said solar customers are increasingly demanding an energy ""ecosystem"" that includes home energy management, storage and electric vehicle charging."
+tesla,2017-5,"Mercedes-Benz ""will help us both on the home storage as well as the EV charging stations over time,"" Bywater said."
+tesla,2017-5,"The energy storage systems will be made up of 2.5 kWh modular batteries that can be combined to create a system as large as 20 kWh. The largest size would cost about $13,000 fully installed, Bywater said."
+tesla,2017-5,"By comparison, a 14 kWh Tesla Powerwall costs $6,200, not including up to $2,000 in installation costs, according to pricing information on Tesla's website."
+tesla,2017-5,"The systems are available immediately, and Vivint plans to sell them both online and through its primary door-to-door sales operation."
+tesla,2017-5,"{{20170517T193737.369+0000}}UPDATE 3-Ford to cut 1,400 white-collar jobs, shares tumble(Adds more details on Ford plans)"
+tesla,2017-5,"NEW YORK, May 17 (Reuters) - Ford Motor Co said on Wednesday it plans to cut 1,400 salaried jobs in North America and Asia through voluntary early retirement and other financial incentives as the No. 2 U.S. automaker looks to boost its sagging stock price."
+tesla,2017-5,Ford shares fell as much as 2.5 percent in heavy trading and were headed to their worst close since November 2012 as the broader markets tumbled over the political turmoil in Washington.
+tesla,2017-5,"The buyout offers were a fraction of the 20,000 job cuts that some news outlets had reported Ford could announce this week."
+tesla,2017-5,"Ford said the cuts would amount to about 10 percent of a group of 15,000 managers and other non-production workers and would reduce labor costs for that segment by 10 percent."
+tesla,2017-5,"The company said a large group of salaried workers would not be covered by the planned cuts, including those in product development and in the Ford Credit unit. The cuts will not apply to Ford's Europe or South America units."
+tesla,2017-5,About two-thirds of the buyout offers are in North America and the rest in Asia. Ford does not plan to cut hourly workers or production.
+tesla,2017-5,"The automaker will offer financial incentives, including generous early retirement offers, to encourage salaried employees to depart voluntarily by the end of September. Ford said it expects it will hit the targets through voluntary offers, spokesman Mike Moran said."
+tesla,2017-5,"""Reducing costs and becoming as lean and efficient as possible also remain part of that work,"" Moran said."
+tesla,2017-5,"The voluntary incentives offers will go to about 9,600 of 30,000 U.S. salaried workers, the company said."
+tesla,2017-5,"In 2016, Ford cut hundreds of white-collar jobs in Europe, reducing costs by $200 million annually."
+tesla,2017-5,"Ford continues to churn out strong profits, reporting a record $10.4 billion in pretax earnings in 2016, and expects to earn around $9 billion this year."
+tesla,2017-5,But investors are worried about slowing sales and an industry that could be dominated by autonomous vehicles and car sharing in the future.
+tesla,2017-5,"The Detroit automakers have been under pressure from U.S. President Donald Trump to add jobs in the United States, but declining U.S. sales and stalled share values are exerting a stronger force."
+tesla,2017-5,Ford said in January it was cancelling a planned Mexico plant and adding 700 jobs in Michigan.
+tesla,2017-5,Last month it announced plans to cut costs by $3 billion in 2017. Automakers are trimming expenditures as they brace for slowing auto sales.
+tesla,2017-5,"General Motors Co (GM.N) has cut more than 4,000 U.S. jobs since November, and moved to conserve capital by shedding its European operations and closing unprofitable operations in Asia."
+tesla,2017-5,"Ford's market capitalization has been surpassed by Tesla Inc , which has sold just a fraction of Ford vehicles."
+tesla,2017-5,Ford announced in 2015 it is investing $4.5 billion to add 13 new electric and hybrid vehicles by 2020 as it sought to position itself as a mobility company.
+tesla,2017-5,"""You have to have one foot in today... but also one foot in the future,"" Chief Executive Officer Mark Fields told reporters last month. ""I think investors understand our strategy."""
+tesla,2017-5,Ford shares are down nearly 40 percent since Fields took the helm in July 2014.
+tesla,2017-5,{{20170517T113727.637+0000}}UPDATE 1-Volvo Cars says new generation of diesel engines could be the last-CEO* No firm plan to stop development -Volvo spokesman
+tesla,2017-5,* Diesel will play crucial role in move to cut CO2 -CEO
+tesla,2017-5,"BERLIN, May 17 (Reuters) - Swedish carmaker Volvo's latest generation of diesel engines could be its last as the cost of reducing emissions of nitrogen oxide is becoming too much, Chief Executive Hakan Samuelsson was quoted as saying on Wednesday."
+tesla,2017-5,"""From today's perspective, we will not develop any more new generation diesel engines,"" Samuelsson told German's Frankfurter Allgemeine Zeitung in an interview."
+tesla,2017-5,"However, a Volvo Cars spokesman said on Wednesday Samuelsson had been discussing options rather than a firm plan to stop the further development of diesel engines."
+tesla,2017-5,"Samuelsson later said in a statement emailed to Reuters he believed diesel would still play a crucial role in the next few years in helping the company meet targets to reduce emissions of carbon dioxide, being more fuel-efficient than petrol engines."
+tesla,2017-5,"""We have just launched a brand new generation of petrol and diesel engines, highlighting our commitment to this technology. As a result, a decision on the development of a new generation of diesel engines is not required,"" he said."
+tesla,2017-5,"In the FAZ interview Samuelsson said Volvo would continue improving the current range, first introduced in 2013, to meet future emissions standards, with production likely to go on until about 2023."
+tesla,2017-5,"And until 2020 he said diesel would be needed to help meet carbon dioxide emission limits set by the European Union, but after that other regulations would come into play, with the costs of making engines compliant with ever higher anti-pollution standards meaning it would no longer be worth it."
+tesla,2017-5,"Instead, Volvo will invest in the electric and hybrid cars, with its first pure electric model due on the market in 2019."
+tesla,2017-5,"""We have to recognise that Tesla has managed to offer such a car for which people are lining up. In this area, there should also be space for us, with high quality and attractive design,"" Samuelsson said."
+tesla,2017-5,Samuelsson has previously said that tighter emissions rules will push up the price of diesel-engined cars to the point where plug-in hybrids will become an attractive alternative. [nL8N1693BM]
+tesla,2017-5,"The average carbon dioxide emissions limit for European carmakers' fleets will need to fall from 130 grammes per kilometre to 95 grammes in 2021, forcing them to invest more in exhaust emissions technology."
+tesla,2017-5,"Diesel cars account for over 50 percent of all new registrations in Europe, making the region by far the world's biggest diesel market. Volvo, owned by China's Geely <0175.HK>, sells 90 percent of its XC 90 offroaders in Europe with diesel engines."
+tesla,2017-5,"The scandal over Volkwagen's cheating of U.S. environmental tests to mask emissions of nitrogen oxides, which can cause or aggravate respiratory disease, means manufacturers are facing intense scrutiny over the true level of pollutants being emitted by their cars."
+tesla,2017-5,"Goldman Sachs believes a regulatory crackdown could add 300 euros ($325) per engine to diesel costs that are already some 1,300 euros above their petrol-powered equivalents, as carmakers race to bring real NOx emissions closer to their much lower test-bench scores. ($1 = 0.9220 euros)"
+tesla,2017-5,"{{20170517T072350.895+0000}}Volvo Cars to stop developing new diesel engines -CEOBERLIN, May 17 (Reuters) - Swedish carmaker Volvo will not develop any new diesel engines as the cost of reducing emissions of nitrogen oxide is becoming too expensive, Chief Executive Hakan Samuelsson was quoted as saying on Wednesday."
+tesla,2017-5,"""From today's perspective, we will not develop any more new- generation diesel engines,"" Samuelsson told German's Frankfurter Allgemeine Zeitung in an interview."
+tesla,2017-5,"Samuelsson said Volvo would keep developing current diesel-powered models introduced in 2013 to meet future emissions standards, but then the costs of keeping them compliant with higher anti-pollution standards would no longer be worth it, with the current generation likely to be produced until about 2023."
+tesla,2017-5,"Instead, Volvo will invest in the electric and hybrid cars, with its first pure electric model due on the market in 2019."
+tesla,2017-5,"""We have to recognise that Tesla has managed to offer such a car for which people are lining up. In this area, there should also be space for us, with high quality and attractive design,"" Samuelsson said."
+tesla,2017-5,Samuelsson has previously said that tighter emissions rules will push up the price of diesel-engined cars to the point where plug-in hybrids will become an attractive alternative. [nL8N1693BM]
+tesla,2017-5,"The average carbon dioxide emissions limit for European carmakers' fleets will need to fall from 130 grammes per kilometre to 95 grammes in 2021, forcing them to invest more in exhaust emissions technology."
+tesla,2017-5,"Diesel cars account for over 50 percent of all new registrations in Europe, making the region by far the world's biggest diesel market. Volvo, owned by China's Geely <0175.HK>, sells 90 percent of its XC 90 offroaders in Europe with diesel engines."
+tesla,2017-5,"The scandal over Volkwagen's cheating of U.S. environmental tests to mask emissions of nitrogen oxides, which can cause or aggravate respiratory disease, means manufacturers are facing intense scrutiny over the true level of pollutants being emitted by their cars."
+tesla,2017-5,"Goldman Sachs believes a regulatory crackdown could add 300 euros ($325) per engine to diesel costs that are already some 1,300 euros above their petrol-powered equivalents, as carmakers race to bring real NOx emissions closer to their much lower test-bench scores. ($1 = 0.9220 euros)"
+tesla,2017-5,{{20170515T233156.017+0000}}Former SolarCity CEO Lyndon Rive will leave TeslaBy Nichola Groom
+tesla,2017-5,"May 15 (Reuters) - SolarCity founder Lyndon Rive, who steered the dramatic growth of the biggest U.S. residential solar company before driving its sale to Tesla Inc , is leaving the electric vehicle maker in June, he said on Monday."
+tesla,2017-5,"In an interview, the former SolarCity chief executive said he wanted to start a new company next year and spend more time with his family. Rive had been serving as head of sales and services for Tesla's energy division since last year."
+tesla,2017-5,"Rive's responsibilities will be distributed among Tesla leadership, Tesla said."
+tesla,2017-5,"Tesla acquired SolarCity for $2.6 billion in August, paving the way for Tesla CEO Elon Musk's ambitious plans for a carbon-free energy and transportation company. The sale came as investors worried about the solar panel installer's debt-fueled growth. [nL3N1AI3XT]"
+tesla,2017-5,"Under Tesla, SolarCity has slowed installations and focused on the most profitable projects that generate cash upfront."
+tesla,2017-5,"Throughout his decade at the helm of the company, Rive had a populist vision of making rooftop solar energy affordable to all in an effort to curb demand for fossil fuels and combat climate change."
+tesla,2017-5,"Rive, 40, said SolarCity was ""healthier than it's ever been,"" and the time had come for him to move on."
+tesla,2017-5,"Tesla launched its innovative solar roof tiles last week, a product that generates electricity without traditional rooftop panels. [nL4N1IC4TK]"
+tesla,2017-5,Rive said he began to consider leaving a few months ago.
+tesla,2017-5,"""My skill set and what I love doing is starting and running companies,"" Rive said. ""I can hand off the baton to somebody else and give myself the opportunity to do something else that could also have another impact."""
+tesla,2017-5,"Cal Lankton, Tesla's vice president of global infrastructure operations, will take on an expanded role as head of sales and operations for energy products, the company said."
+tesla,2017-5,"Rive co-founded SolarCity with his older brother Peter in 2006 with financial backing from their cousin Musk. Peter Rive, who was SolarCity's chief technology officer, will remain to focus on the company's solar roofs."
+tesla,2017-5,"Over the next decade, SolarCity expanded rapidly with innovative no-money-down financing schemes and a vast sales and installation operation. The company in 2013 aimed to have 1 million customers by 2018, but scaled back its plans at the end of 2015 as costs for funding that growth mounted and demand began to slow. SolarCity hit 300,000 customers late last year."
+tesla,2017-5,"{{20170515T220359.093+0000}}U.S. RESEARCH ROUNDUP-Cisco, J&J, TeslaMay 15 (Reuters) - Wall Street securities analysts revised their ratings and price targets on"
+tesla,2017-5,* Tesla Inc : Morgan Stanley cuts to equal-weight from overweight
+tesla,2017-5,Following is a summary of research actions on U.S. companies reported by Reuters on Monday. Stock
+tesla,2017-5,* Advance Auto Parts Inc : UBS cuts target price to $180 from $200
+tesla,2017-5,* Amerigas Partners LP : Jefferies cuts price target to $46; rating hold
+tesla,2017-5,* Amicus Therapeutics : Baird ups price target to $12 from $10; rating outperform
+tesla,2017-5,* Applied Materials Inc : D.A. Davidson raises price target to $50 from $42; buy
+tesla,2017-5,* Ardelyx : Ladenburg Thalmann cuts price target to $18.50 from $21; rating buy
+tesla,2017-5,* Brandywine Realty Trust : Keybanc raises to sector weight from underweight
+tesla,2017-5,* Buffalo Wild Wings Inc : Deutsche Bank raises target price to $180 from $155
+tesla,2017-5,* Buffalo Wild Wings Inc : Deutsche Bank raises to buy from hold
+tesla,2017-5,* Capitala Finance Corp : Wunderlich raises price target to $15.50 from $14.50;buy
+tesla,2017-5,* Centurylink Inc : Raymond James cuts to underperform from market perform
+tesla,2017-5,* Cimarex Energy Co : KLR Group raises price target by $2 to $151; rating buy
+tesla,2017-5,* Coca-Cola Co : Morgan Stanley raises price target to $45 from $44
+tesla,2017-5,* Community Bank System : RBC Capital raises target to $56 from $41; sector perform
+tesla,2017-5,* Condor Hospitality Trust : Compass Point cuts target to $11.50 from $12; buy
+tesla,2017-5,* Ehealth Inc : Craig Hallum raises target price to $22 from $15; rating buy
+tesla,2017-5,* Eldorado Resorts Inc : JP Morgan cuts price target to $6.5 from $7.5
+tesla,2017-5,* Estee Lauder Companies Inc : Morgan Stanley raises price target to $106 from $103
+tesla,2017-5,* Federated National Holding Co : Raymond James cuts price target to $20 from $24
+tesla,2017-5,* Fifth Street Finance Corp : Deutsche Bank cuts target price to $4.75 from $5.50
+tesla,2017-5,* Fifth Street Finance Corp : Deutsche Bank cuts to hold from buy
+tesla,2017-5,* Fifth Street Senior Floating Rate : Deutsche Bank cuts target to $8.50 from $9.25
+tesla,2017-5,* Guidewire Software Inc : BofA Merrill raises to neutral from underperform
+tesla,2017-5,* Home Bancshares Inc : KBW raises to outperform from market perform
+tesla,2017-5,* Independent Bank Corp : Sandler O'Neill raises to hold from sell
+tesla,2017-5,* Invitation Homes : RBC Capital raises price target to $24 from $23; outperform
+tesla,2017-5,* J C Penney Company Inc : Deutsche Bank cuts target price to $5.50 from $9
+tesla,2017-5,* J C Penney Company Inc : Deutsche Bank cuts to hold from buy
+tesla,2017-5,* J C Penney Company Inc : Telsey Advisory Group cuts target price to $7 from $11
+tesla,2017-5,* Laredo Petroleum Inc : Stephens raises to equal weight from underweight - Trader
+tesla,2017-5,* Kimco Realty Corp : RBC Capital cuts price target to $26 from $29; outperform
+tesla,2017-5,* Level 3 Communications : Raymond James cuts to underperform from market perform
+tesla,2017-5,* Medley Capital Corp : Jefferies cuts price target to $6.50; rating hold
+tesla,2017-5,* Medley Management Inc : Credit Suisse cuts target price to $7 from $8
+tesla,2017-5,* Michael Kors Holdings Ltd : Deutsche Bank cuts target price to $40 from $47
+tesla,2017-5,* Michael Kors Holdings Ltd : Deutsche Bank cuts to hold from buy
+tesla,2017-5,* Patheon Holdings Cooperatief UA : William Blair cuts to market perform
+tesla,2017-5,* Patheon NV : Piper Jaffray raises price target to $35 from from $33
+tesla,2017-5,* Patheon NV : Raymond James raises price target to $35 from $31; outperform
+tesla,2017-5,* Principal Financial Group Inc : KBW raises price target to $66 from $65
+tesla,2017-5,* R1 Rcm : Cowen and Company raises price target to $4.70 from $3.50; outperform
+tesla,2017-5,* Ramaco Resources Inc : Jefferies cuts price target to $15 from $16; rating buy
+tesla,2017-5,* Reinsurance Group of America Inc : KBW raises price target to $128 from $125
+tesla,2017-5,* Ruth'S Hospitality Group Inc : Citigroup raises price target to $22 from $20
+tesla,2017-5,* Salesforce.com Inc : Benchmark raises target price to $110 from $100; rating buy
+tesla,2017-5,* Sanchez Energy Corp : KLR Group cuts price target by $2 to $10; rating buy
+tesla,2017-5,* Senior Housing Properties Trust : RBC cuts price target to $22 from $24
+tesla,2017-5,* Senior Housing Properties Trust : RBC cuts to sector perform from outperform
+tesla,2017-5,* Tesla Inc : Morgan Stanley cuts to equal-weight from overweight
+tesla,2017-5,* VBI Vaccines Inc : Ladenburg Thalmann cuts price target to $6 from $7; buy
+tesla,2017-5,* Vista Outdoor : Cowen and Company raises target to $26 from $18; market perform
+tesla,2017-5,* Visteon Corp : RBC starts with sector perform rating; price target $110
+tesla,2017-5,* Vitamin Shoppe Inc : JP Morgan cuts price target to $15 from $25
+tesla,2017-5,* Voxeljet AG : Cowen and Company raises price target to $5.50 from $3
+tesla,2017-5,* Voxeljet AG : Cowen and Company raises to outperform from market perform
+tesla,2017-5,* Walt Disney Co : Moffett Nathanson raises price target to $130 from $127; buy
+tesla,2017-5,* Walt Disney Co : Deutsche Bank cuts target price to $125 from $130
+tesla,2017-5,* Weingarten Realty Investors : SunTrust Robinson cuts target price to $33 from $38
+tesla,2017-5,* Wesco Aircraft Holdings Inc : Jefferies raises price target to $9.00 from $8.00
+tesla,2017-5,* Wesco Aircraft Holdings Inc : Jefferies raises to hold from underperform
+tesla,2017-5,"Jana Partners takes sole share stake in Snap, dissolves sole share stake in Time - Reuters Investor Briefs"
+tesla,2017-5,"{{20170515T220331.644+0000}}Jana Partners takes sole share stake in Snap, dissolves sole share stake in TimeMay 15 (Reuters) - Jana Partners LLC::Takes sole share stake of 550,000 class A shares of Snap Inc - SEC filing.Dissolves sole share stake in Time Inc.Jana Partners no longer holds a put option in Tesla Inc's shares that it held as of Dec."
+tesla,2017-5,"{{20170515T214128.528+0000}}BRIEF-Jana Partners takes sole share stake in Snap, dissolves sole share stake in TimeMay 15 (Reuters) - Jana Partners LLC:"
+tesla,2017-5,"* Takes sole share stake of 550,000 class A shares of Snap Inc - SEC filing"
+tesla,2017-5,"* Jana Partners no longer holds a put option in Tesla Inc's shares that it held as of Dec. 31, 2016"
+tesla,2017-5,* Jana Partners does not own any shares of Tesla Inc - SEC filing
+tesla,2017-5,"* Change in holdings are as of March 31, 2017 and compared with the previous quarter ended as of Dec. 31, 2016"
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Snap , Patheon, FireEye - Reuters News"
+tesla,2017-5,"{{20170515T172036.138+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Snap , Patheon, FireEye* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,The Nasdaq Composite and the S&P 500 were trading at record levels in early
+tesla,2017-5,afternoon trading on Monday as a rise in oil prices boosted energy stocks and
+tesla,2017-5,"At 13:09 ET, the Dow Jones Industrial Average <.DJI> was up 0.41 percent at"
+tesla,2017-5,More disruptions feared from cyber attack; Microsoft slams gov't secrecy
+tesla,2017-5,"Oil rises above $52 as Saudis, Russia back longer supply cut [nL8N1IH2DB]"
+tesla,2017-5,"BUZZ-Oil stocks: Up as Saudi, Russia back longer supply cut [nL4N1IH3FX]"
+tesla,2017-5,Thermo Fisher to buy drug ingredients maker Patheon for $5.2 bln [nL4N1IH3NC]
+tesla,2017-5,BUZZ-Patheon NV: Thermo Fisher to buy co for $5.2 bln [nL4N1IH3KX]
+tesla,2017-5,"BUZZ-SORL Auto Parts Inc: 6-yr high on raised guidance, earnings"
+tesla,2017-5,BUZZ-Ionis Pharma: Safety data from late-stage study sends stock
+tesla,2017-5,BUZZ-Hercules Capital Inc: Postpones plan to be externally managed [nL4N1IH4O8]
+tesla,2017-5,AIG lures industry veteran Duperreault as CEO with sweet package [nL4N1IH41F]
+tesla,2017-5,BUZZ-Eldorado Gold Corp: To buy Integra Gold for C$590 mln [nL4N1IH4LT]
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Patheon, FireEye, Symantec, Tesla, Sorl Auto Parts - Reuters News"
+tesla,2017-5,"{{20170515T155208.342+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Patheon, FireEye, Symantec, Tesla, Sorl Auto Parts* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,The Nasdaq Composite and the S&P 500 touched record highs in late morning
+tesla,2017-5,trading on Monday as a rise in oil prices boosted energy stocks and investors
+tesla,2017-5,"At 11:41 ET, the Dow Jones Industrial Average <.DJI> was up 0.34 percent at"
+tesla,2017-5,More disruptions feared from cyber attack; Microsoft slams gov't secrecy
+tesla,2017-5,"UPDATE 8-Oil rises above $52 as Saudis, Russia back longer supply cut"
+tesla,2017-5,"BUZZ-Oil stocks: Up as Saudi, Russia back longer supply cut[nL4N1IH3FX]"
+tesla,2017-5,UPDATE 2-Thermo Fisher to buy drug ingredients maker Patheon for $5.2
+tesla,2017-5,BUZZ-Ionis Pharma: Safety data from late-stage study sends stock
+tesla,2017-5,BRIEF-Hercules Capital to expand review of investment management structural
+tesla,2017-5,UPDATE 2-AIG names turnaround expert Duperreault as CEO to improve performance
+tesla,2017-5,BUZZ-Eldorado Gold Corp: To buy Integra Gold for C$590 mln [nL4N1IH4LT]
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Snap, Patheon, FireEye, Symantec, Tesla - Reuters News"
+tesla,2017-5,"{{20170515T143947.248+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Snap, Patheon, FireEye, Symantec, Tesla* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,U.S. stock index futures were slightly higher on Monday as a rise in oil prices
+tesla,2017-5,"offset concerns over a massive cyber attack that locked up 200,000 computers in"
+tesla,2017-5,"At 10:34 ET, the Dow Jones Industrial Average <.DJI> was up 0.35 percent at"
+tesla,2017-5,More disruptions feared from cyber attack; Microsoft slams gov't secrecy
+tesla,2017-5,"UPDATE 8-Oil rises above $52 as Saudis, Russia back longer supply cut"
+tesla,2017-5,"BUZZ-Oil stocks: Up as Saudi, Russia back longer supply cut[nL4N1IH3FX]"
+tesla,2017-5,UPDATE 2-Thermo Fisher to buy drug ingredients maker Patheon for $5.2
+tesla,2017-5,BUZZ-Patheon NV: Thermo Fisher to buy co for $5.2 bln [nL4N1IH3KX]
+tesla,2017-5,BUZZ-Ionis Pharma: Safety data from late-stage study sends stock
+tesla,2017-5,BRIEF Cellular Biomedicine adds second clinical site in the expansion of CAR-T
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Snap, Patheon, FireEye, Symantec, Tesla - Reuters News"
+tesla,2017-5,"{{20170515T131741.506+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Snap, Patheon, FireEye, Symantec, Tesla* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,"U.S. stocks looked set to open slightly higher on Monday as a rise in oil prices soothed some nerves following a massive cyber attack that locked up 200,000 computers in more than 150 countries. [.N]"
+tesla,2017-5,** Tesla Inc : down 2.8 pct at $315.75 premarket BUZZ-Morgan Stanley puts the brakes on [nL4N1IH3CW]
+tesla,2017-5,"** Noble Corp PLC : up 10.6 pct at $5.00 premarket ** Oceaneering International Inc : up 3.9 pct at $26.62 premarket ** Atwood Oceanics Inc : up 4.9 pct at $8.55 premarket ** Plains GP Holdings : up 2.7 pct at $28.50 premarket ** Whiting Petroleum : up 4.3 pct at $8.83 premarket ** Oasis Petroleum Inc : up 3.6 pct at $12.24 premarket UPDATE 8-Oil rises above $52 as Saudis, Russia back longer supply cut [nL8N1IH2DB] BUZZ-Oil stocks: Up as Saudi, Russia back longer supply cut[nL4N1IH3FX]"
+tesla,2017-5,** Patheon NV : up 33.5 pct at $34.71 premarket UPDATE 1-Thermo Fisher to buy Patheon for about $5.2 bln[nL4N1IH3NC] BUZZ-Patheon NV: Thermo Fisher to buy co for $5.2 bln [nL4N1IH3KX]
+tesla,2017-5,** Snap Inc : up 2.2 pct at $19.57 premarket BUZZ-Filings reveal high-profile stakeholders [nL4N1IH3UO]
+tesla,2017-5,** SORL Auto Parts Inc : up 19.4 pct at $5.42 premarket BRIEF-SORL Auto Parts Q1 earnings per share $0.36 [nASA09PMV]
+tesla,2017-5,** Ionis Pharmaceuticals Inc : down 6.5 pct at $44.00 premarket ** Alnylam Pharmaceuticals Inc : up 13.8 pct at $64.61 premarket BUZZ-Ionis Pharma: Safety data from late-stage study sends stock down [nL4N1IH3U2]
+tesla,2017-5,** Trivago NV : up 15.3 pct at $20.55 premarket BRIEF-Trivago NV reports first quarter 2017 results [nASA09PNK]
+tesla,2017-5,** Forward Industries Inc : down 11.5 pct at $1.15 premarket BRIEF-Forward Industries Q2 loss per share $0.03 [nASA09PIA]
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Snap, FireEye, Patheon, Tesla - Reuters News"
+tesla,2017-5,"{{20170515T122207.259+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Snap, FireEye, Patheon, Tesla* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,"U.S. stock index futures were slightly higher on Monday as a rise in oil prices offset concerns over a massive cyber attack that locked up 200,000 computers in more than 150 countries. [.N]"
+tesla,2017-5,** Patheon NV : up 33.5 pct at $34.71 premarket UPDATE 1-Thermo Fisher to buy Patheon for about $5.2 bln [nL4N1IH3NC] BUZZ-Patheon NV: Thermo Fisher to buy co for $5.2 bln [nL4N1IH3KX]
+tesla,2017-5,{{20170515T111904.282+0000}}BUZZ-Tesla Inc: Morgan Stanley puts the brakes on** Tesla Inc's shares down 2.7 pct at $315.90 premarket
+tesla,2017-5,"** Believe Tesla's most important competition will ultimately come from Alphabet, Apple and other tech firms instead of existing auto industry - MS analyst Adam Jonas"
+tesla,2017-5,"** ""We have an increasingly difficult time imagining Tesla as the dominant player and as a standalone company longer term,"" Jonas adds"
+tesla,2017-5,"** MS now expects Tesla to remain unprofitable on a GAAP basis until ""late 2019"" and widens its estimate for the company's cash burn to $3.1 bln-$2.3 bln"
+tesla,2017-5,"** 7 of 22 brokerages rate the U.S. luxury electric-car maker's stock ""buy"" or higher, 9 ""hold"" and 6 ""sell"" or lower; median PT $292.50, up 31.2 pct in last 3 months"
+tesla,2017-5,"** Through Friday's close, stock had risen more than 50 pct YTD"
+tesla,2017-5,"Tesla, Green Mountain Power working together to bundle Powerwall and Powerpack batteries - Reuters Investor Briefs"
+tesla,2017-5,"{{20170512T154123.890+0000}}Tesla, Green Mountain Power working together to bundle Powerwall and Powerpack batteriesMay 12 (Reuters) - Tesla Inc <TSLA.O>:Tesla - co, green mountain power, a utility in vermont, working together to bundle powerwall and powerpack batteries into single resource of shared energy.Tesla inc - for $15 a month or a $1,500 one-time fee, customers will receive backup power to their home for"
+tesla,2017-5,"{{20170512T151739.543+0000}}BRIEF-Tesla, Green Mountain Power working together to bundle Powerwall and Powerpack batteries May 12 (Reuters) - Tesla Inc"
+tesla,2017-5,"* Tesla - co, green mountain power, a utility in vermont, working together to bundle powerwall and powerpack batteries into single resource of shared energy"
+tesla,2017-5,"* Tesla inc - for $15 a month or a $1,500 one-time fee, customers will receive backup power to their home for next 10 years - blog"
+tesla,2017-5,"* Tesla inc - green mountain power to install powerpacks on utility land,deploy up to 2,000 powerwall batteries to homeowners within its service territory"
+tesla,2017-5,* Tesla inc - tesla will also work with green mountain power to dispatch the aggregated resource into new england's wholesale electricity markets
+tesla,2017-5,{{20170511T115546.843+0000}}BRIEF-BMW to make no changes Mexico plant plans -CEOMay 11 (Reuters) - Bmw CEO says
+tesla,2017-5,"* Expects stable U.S. market in 2017, wants to increase suv sales there"
+tesla,2017-5,* Will make no changes to our plans for mexico plant
+tesla,2017-5,"* Grohmann, recently acquired by Tesla , is fulfilling its obligations as one of our suppliers"
+tesla,2017-5,{{20170511T075957.418+0000}}UPDATE 1-Panasonic expects auto focus to boost annual profit by 21 pct* Operating profit forecast at 335 bln yen in 2017/2018
+tesla,2017-5,* Signs of profit from auto invest a boost to CEO Tsuga
+tesla,2017-5,"TOKYO, May 11 (Reuters) - Panasonic Corp <6752.T> said on Thursday it expects operating profit to rise by one-fifth year-on-year this financial year as investments in advanced automotive parts begin to pay off."
+tesla,2017-5,Panasonic forecasts operating profit to increase to 335 billion yen ($2.93 billion) in the year to March 2018 from 276.8 billion yen a year ago. The outlook is slightly lower than the 346.28 yen average estimate compiled by Thomson Reuters.
+tesla,2017-5,"Panasonic, which marks its 100th anniversary next year, is shifting its focus to corporate clients such as automakers to escape price competition in lower-margin consumer electronics."
+tesla,2017-5,"To bolster its push into the automotive field, Panasonic this year decided to take control of Spanish automotive mirror manufacturer Ficosa International and began mass production of battery cells with Tesla Motors at the electric car maker's $5 billion ""Gigafactory""."
+tesla,2017-5,"Signs of a steady profit from the automotive business would give a vote of confidence to Chief Executive Officer Kazuhiro Tsuga, who embarked on a drastic business overhaul when he took the helm of the sprawling conglomerate five years ago."
+tesla,2017-5,"Panasonic expects its automotive and industrial division to reap sales of 2.66 trillion yen in the current business year, up 10 percent from a year prior, as it begins to ship advanced infotainment systems that incorporate electronic mirrors and other safety features. ($1 = 114.1400 yen)"
+tesla,2017-5,"{{20170511T075957.036+0000}}Panasonic expects 21 pct annual profit rise as auto focus pays off TOKYO, May 11 (Reuters) - Panasonic Corp <6752.T> said on Thursday it expects operating profit to rise 21 percent in the financial year through March as investments in advanced automotive parts begin to pay off."
+tesla,2017-5,Panasonic forecasts operating profit to increase to 335 billion yen ($2.93 billion) from 276.8 billion yen a year prior.
+tesla,2017-5,The outlook compares with the 346.28 yen average estimates compiled by Thomson Reuters.
+tesla,2017-5,"Panasonic, which mark its 100th anniversary next year, is shifting its focus to corporate clients such as automakers to escape price competition in lower-margin consumer electronics."
+tesla,2017-5,"{{20170510T202831.370+0000}}UPDATE 2-Tesla starts taking orders for premium solar roofs(New throughout, adds details from Tesla conference call)"
+tesla,2017-5,"May 10 (Reuters) - Tesla Inc on Wednesday began taking orders for its solar roof tiles, a cornerstone of Elon Musk's strategy to sell a fossil-fuel-free lifestyle under the brand name of its luxury electric vehicles."
+tesla,2017-5,"Tesla said the product, which generates solar energy without the need for traditional rooftop panels, will be pricier than a conventional roof but will look better and ultimately pay for itself through reduced electricity costs."
+tesla,2017-5,"The solar roof tiles were unveiled in October as Musk sought to convince shareholders of the benefits of combining his electric vehicle maker with SolarCity, the solar installer run by his cousins."
+tesla,2017-5,"Tesla acquired SolarCity in November, and has been working to remake a money-losing company that was selling traditional solar systems into a premium energy brand. To date, other companies have had little market success with attempts to incorporate solar technology directly into roof tiles. It remains unclear whether the products will appeal to consumers as much as Tesla's electric vehicles do."
+tesla,2017-5,"To get in line for a solar roof, homeowners must put down a $1,000 deposit via Tesla's website. There, they can also calculate the estimated upfront cost of a solar roof."
+tesla,2017-5,"A 1700-square-foot roof in Southern California, with half the roof covered in ""active"" solar tiles, would cost about $34,300 after a federal tax credit, according to the calculator. Tesla estimates such a roof could generate $76,700 of electricity over 30 years."
+tesla,2017-5,The company said its solar roofs would cost between 10 and 15 percent less than an ordinary new roof plus traditional solar panels.
+tesla,2017-5,"But Jim Petersen, chief executive of PetersenDean Inc, which installs about 30,000 new roofs plus solar a year, estimated that a 1700-square-foot roof with new solar panels, including the tax credit, would cost about $22,000, well below the Tesla website's estimate. Costs vary depending on roof type."
+tesla,2017-5,"Glass tiles will be available in the United States later this year, beginning with gray smooth glass and black textured glass versions, Tesla said. Slate and Tuscan styles will be introduced in 2018. Overseas markets will receive the products next year."
+tesla,2017-5,"Tesla said it expects the product to be popular in locations beyond where its SolarCity subsidiary currently operates, and plans to expand installation crews accordingly."
+tesla,2017-5,"Tesla will manufacture the tiles at its solar factory in Buffalo, New York. Production will start ""very slowly,"" Musk told reporters on a conference call, adding he expects robust demand."
+tesla,2017-5,Tesla experienced cost increases from certain suppliers in order to meet quality targets - Reuters Investor Briefs
+tesla,2017-5,"{{20170510T110302.077+0000}}Tesla experienced cost increases from certain suppliers in order to meet quality targetsMay 10 (Reuters) - Tesla Inc <TSLA.O>: :Tesla - experienced cost increases from certain suppliers in order to meet quality targets, development timelines and due to design changes .Tesla - certain suppliers, including for model X, have sought to renegotiate the terms of the supply arrangements.Tesla"
+tesla,2017-5,{{20170510T104432.493+0000}}BRIEF-Tesla experienced cost increases from certain suppliers in order to meet quality targetsMay 10 (Reuters) - Tesla Inc :
+tesla,2017-5,"* Tesla - experienced cost increases from certain suppliers in order to meet quality targets, development timelines and due to design changes"
+tesla,2017-5,"* Tesla - certain suppliers, including for model X, have sought to renegotiate the terms of the supply arrangements"
+tesla,2017-5,"* Tesla - co is negotiating with existing suppliers for cost reductions, seeking new and less expensive suppliers for certain parts"
+tesla,2017-5,* Tesla - co is attempting to redesign certain parts to make them less expensive to produce
+tesla,2017-5,"{{20170510T081432.223+0000}}BRIEF-Tesla's Musk says solar roof deployment this year in the U.S., overseas next year - tweetMay 10 (Reuters) -"
+tesla,2017-5,"* Tesla CEO Elon Musk says solar roof can be ordered for almost any country, deployment this year in the U.S. and overseas next year - tweet"
+tesla,2017-5,{{20170510T080129.081+0000}}BRIEF-Elon Musk says Tesla Solar glass roof orders open Wednesday- tweetMay 10 (Reuters) -
+tesla,2017-5,* Tesla CEO Elon Musk says Tesla solar glass roof orders open Wednesday afternoon- tweet
+tesla,2017-5,{{20170510T070003.486+0000}}Sunlight Financial gets $500 mln for home solar loansBy Nichola Groom
+tesla,2017-5,"May 10 (Reuters) - Sunlight Financial, a startup that provides loans for home solar systems, on Wednesday said it received a $500 million commitment from Technology Credit Union that will finance about 20,000 new rooftop installations."
+tesla,2017-5,"The announcement, Sunlight's largest single funding commitment to date, comes as demand for residential solar is slowing in California, by far the industry's biggest market."
+tesla,2017-5,"Homeowners signing up for solar panels are increasingly opting to own, rather than lease their systems. Under leases and power purchase agreements, homeowners pay a monthly fee for their solar energy but their systems are owned by either the installer or an investor."
+tesla,2017-5,"Leases and PPAs were a major innovation in the solar industry, contributing to rapid growth in recent years. Recently, however, they have lost market share to loans. For the first time since 2011, ownership is expected to outpace leases this year, according to solar market research firm GTM Research."
+tesla,2017-5,"""We're seeing increased demand for our product,"" Sunlight Chief Executive Matt Potere said in an interview. ""Homeowners are increasingly shifting from power purchase agreements and leases to loans."""
+tesla,2017-5,"Sunlight provides loans for a range of U.S. installers, including Tesla Inc's SolarCity, which pioneered the solar lease but has said it is focusing on cash sales and loans as it prioritizes projects that generate cash upfront."
+tesla,2017-5,"Last week, Tesla said 31 percent of its customers chose to purchase their solar systems rather than lease in the first quarter, up from 9 percent a year ago."
+tesla,2017-5,"Sunlight offers loans with terms of 10 to 25 years, and in between. Interest rates range from 2.49 percent to 6.99 percent depending on the customer, according to Potere."
+tesla,2017-5,"Founded in 2014, Teaneck, New Jersey-based Sunlight is backed by private equity firms Hudson Clean Energy Partners and Tiger Infrastructure Partners and venture capital firm Route 66 Ventures."
+tesla,2017-5,"The company previously received a $50 million commitment from Technology Credit Union, which has 85,000 members in the San Francisco Bay Area, in 2015."
+tesla,2017-5,"{{20170508T223104.442+0000}}TABLE -Hedge fund managers' investment picks from Sohn conference(Adds picks from Gundlach, Gerstner, Resnick and Robbins)"
+tesla,2017-5,"NEW YORK, May 8 (Reuters) - Below is a table listing some of"
+tesla,2017-5,the hedge fund managers who spoke at the Sohn Investment
+tesla,2017-5,"Conference in New York, in order of appearance, and the"
+tesla,2017-5,"{{20170508T220628.861+0000}}UPDATE 1-Property, merger bets dominate bullish Sohn conference(Adds details from Gundlach and Einhorn picks)"
+tesla,2017-5,"NEW YORK, May 8 (Reuters) - With the U.S. stock market near record highs, hedge fund managers presented ideas that largely depend on rising property values and corporate mergers for growth at a high-profile investment event in New York on Monday."
+tesla,2017-5,"The bullish picks on companies ranging from electric car maker Tesla Inc to the Canadian owner of the ""Teletubbies"" children's television show marked a change from last year, when several managers expected slowing global economic growth."
+tesla,2017-5,"A late 2016 equities rally left the average hedge fund's returns lagging the broader market, and speakers this year looked eager to make up lost ground."
+tesla,2017-5,"Keith Meister, who runs $5.5 billion hedge fund Corvex, revealed the fund's stake in data communications company CenturyLink Inc , which is merging with Level 3 Communications Inc , sending CenturyLink shares up 5 percent."
+tesla,2017-5,"Shares in Toronto-listed DHX Media Ltd , which owns rights to popular children's television shows including ""Bob the Builder"" and ""Teletubbies,"" ended up almost 5 percent after Debra Fine, founder and president of Fine Capital Partners, announced her position in the company and pegged its fair value at between C$20 and C$30 per share, more than three times its current market value."
+tesla,2017-5,"And billionaire investor William Ackman, who runs $11 billion Pershing Square Capital Management, underscored his bullishness on Howard Hughes Corp , emphasizing the real estate company's attractive land holdings. His fund has owned stock in the company since 2010 and is its largest investor."
+tesla,2017-5,"Ackman, the company's board chairman, noted that Howard Hughes' story is not well known and said it will do more to help investors gain insight. Its shares ended up 3.75 percent."
+tesla,2017-5,"Some of the few bearish picks came from two noted short-sellers. Jeffrey Gundlach, head of DoubleLine Capital, said that the U.S. benchmark S&P 500 was overvalued, and recommended borrowing money to short the S&P 500 exchange-traded fund (ETF) and hold the iShares Emerging Markets ETF instead."
+tesla,2017-5,"David Einhorn, known for shorting Lehman Brothers before the 2008 financial crisis and the Wall Street firm's bankruptcy, announced a short position in oil and gas services company Core Laboratories NV , a company which he said was far more cyclical than the market realizes. Shares in the company ended down 2.4 percent."
+tesla,2017-5,"Hedge funds were caught off guard by the surprise Election Day victory of Donald Trump in November, which helped spark a more-than-12-percent rally in the S&P 500 on the prospect of lower taxes and lighter regulation."
+tesla,2017-5,"The average hedge fund returned 7.5 percent from the start of May 2016 through March 2017, according to Hedge Fund Research, approximately half the 14.4 percent gain in the benchmark S&P 500 index over the same time."
+tesla,2017-5,"While Gundlach last year predicted that Trump would be elected president, this year the presenters concentrated on the markets and steered clear of politics, barely mentioning the president or his proposed legislation, including tax cuts, which are seen to help hedge funds."
+tesla,2017-5,"The hedge fund industry had net outflows of $5.4 billion in the first quarter of 2017, according to HFR. That followed $70.1 billion in outflows in 2016, the largest calendar year loss since 2009, as public pension funds in states including New Jersey, New York, Illinois and Rhode Island pulled money from hedge funds."
+tesla,2017-5,"Some of the speakers on Monday poked fun at themselves for getting it wrong in a year of so many surprises. Last year Stanley Druckenmiller, one of the industry's best-known macro investors, had urged investors to buy gold because he felt the stock market was overvalued."
+tesla,2017-5,"""I suggested get out of equities and buy gold. That's why I'm introducing this year,"" said Druckenmiller, who used to work for George Soros and is now a private investor."
+tesla,2017-5,"For a table on picks from the Sohn Investment Conference, click here: [nL1N1IA14Y]"
+tesla,2017-5,* SINCLAIR/TRIBUNE MEDIA: Der TV-Betreiber Sinclair Broadcast steht Insidern
+tesla,2017-5,{{20170508T021859.489+0000}}RPT-Australian push may open more doors for batteries on power grids(Repeats item with no change to text)
+tesla,2017-5,"MELBOURNE, May 7 (Reuters) - Battery makers worldwide are watching to see whether Australia's most wind power-dependent state can keep the lights on by installing grid-scale batteries by December, which could help drive the growth of renewable energy across Australia and Asia."
+tesla,2017-5,A decade-long political stalemate in Australia over energy and climate policy has effectively led to power and gas shortages and soaring energy prices threatening industry and households.
+tesla,2017-5,"If batteries help solve Australia's problems by storing surplus electricity generated by wind and solar power, countries like Indonesia, the Philippines and Chile, could follow suit."
+tesla,2017-5,"""I call South Australia the 'perfect storm' opportunity for energy storage,"" said Ismario Gonzalez, global sales director for AES Energy Storage, an arm of U.S. firm AES Corp , which has installed or is working on battery projects in seven countries, including Australia."
+tesla,2017-5,"The more dependent the grid is on intermittent sources like wind and solar, the more flexible the back-up sources need to be. That's the appeal of battery storage. It can be switched on and off easily, responding faster than a gas peaking plant."
+tesla,2017-5,"The state of South Australia, where wind and rooftop solar make up 44 percent of power sources, urgently needs to install big batteries after suffering blackouts over the past year."
+tesla,2017-5,"It has little back-up as coal-fired power plants in the state have shut due to the rapid expansion of renewable energy. That has made it more dependent on power from neighbouring Victoria, its only link to Australia's national electricity market."
+tesla,2017-5,"The state government plans to spend A$150 million ($115 million) supporting the installation of 100 megawatt hours of battery capacity this year, which would be the world's second-largest battery system behind one installed by AES for California's San Diego Gas & Electric Co [SDGE.UL] in February."
+tesla,2017-5,"South Australia has yet to name a shortlist of bidders, after having received 90 expressions of interest from more than 10 countries. So by the time it signs contracts, the winner or winners will have only six months to meet a December deadline. [factbox: L4N1I51XB]"
+tesla,2017-5,"At the same time, the state of Victoria is tendering to support construction of 100 MWh of battery capacity to be delivered in two stages by 2018."
+tesla,2017-5,"AES says lessons learned in South Australia could be applied in Victoria, which is facing the loss some coal-fired power, and elsewhere, like Chile, where solar power is growing rapidly and will need to be combined with energy storage to avoid outages."
+tesla,2017-5,"Stiff competition for the two state battery projects, with all the big makers like South Korea's Samsung SDI <006400.KS> and LG Chem <051910.KS>, Elon Musk's Tesla Inc and U.S. firm Greensmith Energy in the running, will help drive down prices for energy storage, another factor that should speed the spread of batteries along with wind and utility-scale solar."
+tesla,2017-5,"""Combined renewable energy generation and storage solutions are becoming genuine competitors with fossil fuel base load generation. This will be the real game changer,"" said Josh Carmody, head of Australia for Equis Energy."
+tesla,2017-5,"Equis Energy, a fund set up by former Macquarie bankers to invest in renewable energy projects around Asia, is building a large-scale solar farm in South Australia and is seeking state funding for batteries at the project."
+tesla,2017-5,"Carmody said safety and performance problems as well as cost had limited the use of batteries in the energy supply system to date, but those challenges were being overcome rapidly."
+tesla,2017-5,"For battery providers, the money making opportunity will come not only from energy storage but crucial extra services to manage voltage and frequency on grids, several energy storage executives said."
+tesla,2017-5,"""Projects such as those in South Australia and California demonstrate that there is now significant growth to come in the grid support sector,"" said Bruce Cole, East Penn's senior vice president, industrial sales."
+tesla,2017-5,"Costs have come down 90 percent over the past 10 years, AES Energy Storage vice president Brian Perusse said. Industry officials estimated 100 MWh of battery capacity could be supplied for $700 to $1,000 per kilowatt hour."
+tesla,2017-5,"That's much higher than an offer made by Elon Musk on social media to supply batteries to South Australia for $250 per kilowatt hour. However that figure probably didn't include costs of equipment needed to hook the system up, like transformers, said AES's Gonzalez."
+tesla,2017-5,"""The analogy I like to use is: that's a Tesla car with no wheels and no battery, no interconnection,"" Gonzalez said."
+tesla,2017-5,"Asked for a response, a Tesla spokesman in Australia referred to the cost estimate tweeted by Musk and had nothing to add."
+tesla,2017-5,{{20170506T230001.642+0000}}Australian push may open more doors for batteries on power gridsBy Sonali Paul
+tesla,2017-5,"MELBOURNE, May 7 (Reuters) - Battery makers worldwide are watching to see whether Australia's most wind power-dependent state can keep the lights on by installing grid-scale batteries by December, which could help drive the growth of renewable energy across Australia and Asia."
+tesla,2017-5,A decade-long political stalemate in Australia over energy and climate policy has effectively led to power and gas shortages and soaring energy prices threatening industry and households.
+tesla,2017-5,"If batteries help solve Australia's problems by storing surplus electricity generated by wind and solar power, countries like Indonesia, the Philippines and Chile, could follow suit."
+tesla,2017-5,"""I call South Australia the 'perfect storm' opportunity for energy storage,"" said Ismario Gonzalez, global sales director for AES Energy Storage, an arm of U.S. firm AES Corp , which has installed or is working on battery projects in seven countries, including Australia."
+tesla,2017-5,"The more dependent the grid is on intermittent sources like wind and solar, the more flexible the back-up sources need to be. That's the appeal of battery storage. It can be switched on and off easily, responding faster than a gas peaking plant."
+tesla,2017-5,"The state of South Australia, where wind and rooftop solar make up 44 percent of power sources, urgently needs to install big batteries after suffering blackouts over the past year."
+tesla,2017-5,"It has little back-up as coal-fired power plants in the state have shut due to the rapid expansion of renewable energy. That has made it more dependent on power from neighbouring Victoria, its only link to Australia's national electricity market."
+tesla,2017-5,"The state government plans to spend A$150 million ($115 million) supporting the installation of 100 megawatt hours of battery capacity this year, which would be the world's second-largest battery system behind one installed by AES for California's San Diego Gas & Electric Co [SDGE.UL] in February."
+tesla,2017-5,"South Australia has yet to name a shortlist of bidders, after having received 90 expressions of interest from more than 10 countries. So by the time it signs contracts, the winner or winners will have only six months to meet a December deadline. [factbox: L4N1I51XB]"
+tesla,2017-5,"At the same time, the state of Victoria is tendering to support construction of 100 MWh of battery capacity to be delivered in two stages by 2018."
+tesla,2017-5,"AES says lessons learned in South Australia could be applied in Victoria, which is facing the loss some coal-fired power, and elsewhere, like Chile, where solar power is growing rapidly and will need to be combined with energy storage to avoid outages."
+tesla,2017-5,"Stiff competition for the two state battery projects, with all the big makers like South Korea's Samsung SDI <006400.KS> and LG Chem <051910.KS>, Elon Musk's Tesla Inc and U.S. firm Greensmith Energy in the running, will help drive down prices for energy storage, another factor that should speed the spread of batteries along with wind and utility-scale solar."
+tesla,2017-5,"""Combined renewable energy generation and storage solutions are becoming genuine competitors with fossil fuel base load generation. This will be the real game changer,"" said Josh Carmody, head of Australia for Equis Energy."
+tesla,2017-5,"Equis Energy, a fund set up by former Macquarie bankers to invest in renewable energy projects around Asia, is building a large-scale solar farm in South Australia and is seeking state funding for batteries at the project."
+tesla,2017-5,"Carmody said safety and performance problems as well as cost had limited the use of batteries in the energy supply system to date, but those challenges were being overcome rapidly."
+tesla,2017-5,"For battery providers, the money making opportunity will come not only from energy storage but crucial extra services to manage voltage and frequency on grids, several energy storage executives said."
+tesla,2017-5,"""Projects such as those in South Australia and California demonstrate that there is now significant growth to come in the grid support sector,"" said Bruce Cole, East Penn's senior vice president, industrial sales."
+tesla,2017-5,"Costs have come down 90 percent over the past 10 years, AES Energy Storage vice president Brian Perusse said. Industry officials estimated 100 MWh of battery capacity could be supplied for $700 to $1,000 per kilowatt hour."
+tesla,2017-5,"That's much higher than an offer made by Elon Musk on social media to supply batteries to South Australia for $250 per kilowatt hour. However that figure probably didn't include costs of equipment needed to hook the system up, like transformers, said AES's Gonzalez."
+tesla,2017-5,"""The analogy I like to use is: that's a Tesla car with no wheels and no battery, no interconnection,"" Gonzalez said."
+tesla,2017-5,"Asked for a response, a Tesla spokesman in Australia referred to the cost estimate tweeted by Musk and had nothing to add."
+tesla,2017-5,"{{20170506T230001.362+0000}}FACTBOX-Contenders for South Australia's battery tenderMELBOURNE, May 7 (Reuters) - Dozens of companies from 10 countries are vying with Elon Musk's Tesla Inc to install Australia's largest grid-scale battery to help keep the lights on in the country's most wind-dependent state."
+tesla,2017-5,The South Australian state government said it had received 90 expressions of interest to set up battery storage by December with about 100 megawatts of capacity for one hour.
+tesla,2017-5,"Most submissions have been by Australia-based developers in tandem with international energy storage manufacturers, but there have also been numerous other proposals that remain under the radar."
+tesla,2017-5,The state government has not yet set a date for when it will announce the results of the tender. Market leader Samsung SDI's <006400.KS> batteries could be used by more than one of the bidders. Some of the others in the running are:
+tesla,2017-5,"- Tesla Inc . Boss Elon Musk in March offered to install $25 million worth of battery storage within 100 days, and offered it for free if he missed the target. [nL3N1GN2W8]"
+tesla,2017-5,"- Carnegie Clean Energy , Lend Lease Corp with Samsung SDI batteries [nL4N1EZ4SP]"
+tesla,2017-5,"- Equis Energy, founded by bankers who worked for Macquarie Group's Korea infrastructure fund. Plans to build two solar power plants in Australia. [nL4N1FL4C0]"
+tesla,2017-5,"- redT Energy , vanadium energy storage machine maker working with an undisclosed partner"
+tesla,2017-5,"- Adelaide-based 1414 Degrees has put forward an alternative proposal for a long term grid scale project and is awaiting feedback, its executive chairman Kevin Moriarty told Reuters."
+tesla,2017-5,{{20170506T201644.107+0000}}Mexican engineers flood Tesla hiring event in MonterreyBy Anthony Esposito
+tesla,2017-5,"MONTERREY, Mexico, May 6 (Reuters) - Engineers from across Mexico streamed into a cramped hotel lobby in the industrial city of Monterrey for a chance of a job with the U.S. electric vehicle maker Tesla Inc , which is looking south of the border for talent in short supply at home."
+tesla,2017-5,"The fair was held at a delicate time for American firms hiring abroad as President Donald Trump reviews immigration rules for bringing high-skilled foreign workers to the United States, part of a ""buy American, hire American"" policy."
+tesla,2017-5,"Tesla, which prides itself on its ""Made in America"" credentials, had scheduled interviews with an unknown number of Mexican candidates on Friday and was slated to screen other prospective employees over the weekend at the closed-door event."
+tesla,2017-5,"The Silicon Valley automaker is recruiting in the United States' neighbor for work on robotics and other automated equipment at its Fremont, California factory, where it aims to build 500,000 cars a year by 2018, a six-fold increase from 2016. The factory will build Tesla's upcoming Model 3."
+tesla,2017-5,"Mexico boasts a substantial pool of experienced manufacturing engineers, with 19 automotive plants owned by global automakers including General Motors Co , Ford Motor Co , Fiat Chrysler Automobiles and Volkswagen ."
+tesla,2017-5,"A steady tide of hopefuls showed up at the event unannounced and without an appointment, some having traveled hundreds of kilometers, mistakenly thinking it was an open recruiting fair. Several dozen were turned away."
+tesla,2017-5,"Tesla gave them a brief explanation about the mix-up, said those being interviewed were often already weeks into their application processes, and directed them to email their resumes, according to more than a dozen mechanical, mechatronic, electrical and chemical engineers that Reuters spoke with outside the event."
+tesla,2017-5,Representatives from Tesla headquarters in California and recruiters in Monterrey declined to comment on the event or the company's hiring plans in Mexico. Reporters were escorted off the premises by security.
+tesla,2017-5,The call from a top U.S. company to Mexican engineers contrasts with the White House's cooler stance toward both Mexico and high-skilled immigrants.
+tesla,2017-5,"In his first days in office, Trump pressured U.S. companies to stop moving manufacturing and jobs to lower cost Mexico. He also wants to overhaul a visa system that he says replaces Americans with workers from other countries, but shortages of engineers make it hard for technology companies to hire only Americans. [nL1N1HQ029]"
+tesla,2017-5,Tesla Chief Executive Elon Musk is himself an immigrant from South Africa who sits on Trump's business advisory council.
+tesla,2017-5,"Tesla has been actively hiring in the past few months for assembly-line jobs at its Fremont plant, but has found that manufacturing engineers are in even shorter supply than software engineers in Silicon Valley.[nL2N1831NS]"
+tesla,2017-5,"Despite being turned away at the Monterrey event, most of the engineers, some with 20 years of experience under their belts, other fresh out of college, remained optimistic about their prospects. By evening the lobby of the Grand Fiesta Americana hotel in the northern city was abuzz with prospective candidates cradling beige folders holding their resumes."
+tesla,2017-5,"Word spread quickly after a recruiting poster was published on LinkedIn by Tesla's senior technical recruiter, David Johnson, listing 15 types of engineers the company would be seeking at the event in Monterrey. The post was picked up by foreign and Mexican media and also redistributed by local government on social media.[nL1N1I01YM]"
+tesla,2017-5,"One mechanical engineer, who boasted of several years of research and development work at a foreign automaker in Mexico, made the 1,000 kilometer journey from near Mexico City, one of many who traveled from afar in the hopes of securing an interview."
+tesla,2017-5,"""Tesla is an innovative company, it's offering the future of mobility,"" said the engineer, who like almost all those consulted by Reuters asked not to be named so as to not jeopardize their chances with the prospective employer."
+tesla,2017-5,"For the emerging talent, the lure of Tesla was undisputed."
+tesla,2017-5,"""It's a project that has a big future, these are the cars of the new era,"" said Nadia Marrufo, a 22-year-old chemical engineer specializing in industrial processes."
+tesla,2017-5,"{{20170505T152251.283+0000}}BUZZ-Down the road, electric autos to shift into high gear - Morgan Stanley** The global battery electric vehicle (BEV) fleet is projected to top 1 bln by 2050, accounting for nearly 70 pct of total auto sales, according to a Morgan Stanley research note"
+tesla,2017-5,** Analyst Harald C. Hendrikse believes that sharply higher costs related to internal combustion engine (ICE) emissions regulations will push OEMs to shift focus to BEVs
+tesla,2017-5,"** Says increased OEM focus on BEVs might devalue ICE models, resulting in falling profitability"
+tesla,2017-5,"** Points out cross-sector implications including changing demand for oil , electricity, infrastructure, batteries and battery materials (lithium, cobalt, nickel)"
+tesla,2017-5,"** Meanwhile, Global X Lithium & Battery Tech ETF is up 25 pct over past 1 year"
+tesla,2017-5,"** Among LIT heaviest U.S. weightings are FMC Corp , Tesla and Albemarle Corp"
+tesla,2017-5,"{{20170505T142617.419+0000}}Citi lists Netflix, Tesla as potential takeover targets for AppleMay 5 (Reuters) - Citigroup listed seven companies as potential takeover targets for Apple Inc , including Netflix , Walt Disney and Tesla Inc , as a way to put its cash hoard of more than $250 billion to work."
+tesla,2017-5,"With over 90 percent of its cash sitting overseas, a one-time 10 percent repatriation tax would give Apple $220 billion for acquisitions or buybacks, Citigroup analyst Jim Suva said in a note to clients."
+tesla,2017-5,"U.S. President Donald Trump's tax blueprint, which was unveiled last month, proposes allowing multinationals to bring in overseas profits at a tax rate of 10 percent versus 35 percent now. [nL1N1HX1RL]"
+tesla,2017-5,"""Since one of the new administration's top priorities is to allow US companies to repatriate overseas cash at a lower tax rate, Apple may have a more acute need to put this cash to use,"" Suva said."
+tesla,2017-5,"The analyst is rated three out of five stars for his recommendations on Apple, according to Thomson Reuters StarMine."
+tesla,2017-5,"The other potential acquisition targets include video game developers Activision Blizzard , Electronic Arts and Take Two Interactive Software as well as video streaming service Hulu."
+tesla,2017-5,"The analyst said the targets were screened considering five criteria - strategic fit, global scale, transaction size, few non-strategic assets and likely impact on Apple's share price."
+tesla,2017-5,"Under pressure from shareholders to hand over more of its cash hoard, Apple recently boosted its capital return program by $50 billion, increased its share buyback program by $35 billion and raised its quarterly dividend by 10.5 percent. [nL4N1I44PN]"
+tesla,2017-5,{{20170505T135225.422+0000}}BRIEF- Citigroup lists 7 potential takeover targets for AppleMay 5 (Reuters) - Apple Inc
+tesla,2017-5,* Citigroup lists netflix as top potential takeover target for co - trader
+tesla,2017-5,"* Citigroup lists tesla, take-two, activision blizzard, electronic arts, disney among other potential takeover targets for co - trader"
+tesla,2017-5,"{{20170504T221606.278+0000}}U.S. RESEARCH ROUNDUP-Bunge Ltd, Olympic Steel, Tractor SupplyMay 4 (Reuters) - Wall Street securities analysts revised their ratings and price targets on"
+tesla,2017-5,"several U.S.-listed companies, including Bunge Ltd, Olympic Steel and Tractor Supply, on"
+tesla,2017-5,* Fogo De Chao Inc : Canaccord Genuity raises to buy from hold
+tesla,2017-5,* Olympic Steel Inc : Keybanc cuts to sector weight from overweight
+tesla,2017-5,Following is a summary of research actions on U.S. companies reported by Reuters on Thursday.
+tesla,2017-5,* Abiomed Inc : Jefferies raises price target to $140.00 from $135.00; rating buy
+tesla,2017-5,* Aegion Corp : D.A. Davidson cuts target price to $24 from $26; rating neutral
+tesla,2017-5,* Aerohive Networks Inc : Wunderlich Securities raises to buy from hold
+tesla,2017-5,* Air Transport Services : Cowen and Co ups target to $25 from $19; outperform
+tesla,2017-5,* Ak Steel Holding Corp : Barclays cuts target price to $8 from $9
+tesla,2017-5,* Allied Motion Technologies Inc : Craig-Hallum raises target to $30 from $27; buy
+tesla,2017-5,* Ansys Inc : Baird raises target price to $130 from $115; rating outperform
+tesla,2017-5,* Ansys Inc : Evercore ISI raises target price to $113 from $100; rating in line
+tesla,2017-5,* Artesian Resources Corp : Hilliard Lyons cuts to neutral from long-term buy
+tesla,2017-5,* Atlas Air Worldwide Holdings : Imperial Capital raises target to $70 from $60
+tesla,2017-5,* Automatic Data Processing : Compass Point raises target to $83 from $76; sell
+tesla,2017-5,* Banc of California Inc : D.A. Davidson cuts target price to $24 from $26; buy
+tesla,2017-5,* Banc of California Inc : KBW cuts to market perform from outperform
+tesla,2017-5,* Berry Global Group Inc : Jefferies raises target price to $63 from $59; buy
+tesla,2017-5,* Berry Global Group Inc : JP Morgan raises target price to $65 from $59
+tesla,2017-5,* Berry Plastics Group Inc : Barclays raises target price to $65 from $57
+tesla,2017-5,* Bluebird Bio : Piper Jaffray raises target price to $100 from $95; overweight
+tesla,2017-5,* Bluebird Bio Inc : SunTrust Robinson raises price target to $108 from $88; buy
+tesla,2017-5,* Blueprint Medicines Corp : Jefferies raises target price to $52 from $42; buy
+tesla,2017-5,* Boyd Gaming Corp : Imperial Capital raises target price to $29 from $26
+tesla,2017-5,* Bristol-Myers Squibb Co : Credit Suisse raises target price to $56 from $52
+tesla,2017-5,* Bruker Corp : Leerink raises target price to $24 from $22; rating market perform
+tesla,2017-5,* Care.com Inc : JP Morgan raises target price to $14 from $10
+tesla,2017-5,* Carlyle Group LP : Deutsche Bank raises target price to $18 from $16
+tesla,2017-5,* Carlyle Group LP : KBW raises to outperform from market perform
+tesla,2017-5,* Carlyle Group LP : UBS raises price target to $23 from $21; rating buy
+tesla,2017-5,* Central Garden & Pet Co : SunTrust Robinson raises price target to $45 from $40
+tesla,2017-5,* Centurylink Inc : Cowen and Company cuts target price to $25 from $27
+tesla,2017-5,* China Biologic Products Inc : Jefferies raises target price to $140 from $128
+tesla,2017-5,* Church & Dwight : Wells Fargo ups Valuation Range to $47-$49; market weight
+tesla,2017-5,* Cinemark Holdings Inc : Wedbush raises target price to $48; rating neutral
+tesla,2017-5,* Cirrus Logic : Susquehanna raises target price to $75 from $67; rating positive
+tesla,2017-5,* Clovis Oncology : SunTrust Robinson raises target price to $85 from $80; buy
+tesla,2017-5,* Clovis Oncology Inc : SunTrust Robinson raises price target to $85 from $80
+tesla,2017-5,* Coca-Cola European Partners : Jefferies raises target price to $42 from $38; hold
+tesla,2017-5,* CommScope Holding Company:Wells Fargo cuts Valuation Range to $43-$47;outperform
+tesla,2017-5,* Community Health Systems : SunTrust Robinson raises price target to $11 from $10
+tesla,2017-5,* Commvault Systems Inc : Jefferies raises target price to $67 from $64; buy
+tesla,2017-5,* Compass Diversified Holdings : Jefferies cuts target price to $20 from $22; buy
+tesla,2017-5,* Compass Diversified : SunTrust Robinson cuts target price to $18 from $19; buy
+tesla,2017-5,* Concert Pharmaceuticals Inc : UBS raises price target to $22 from $18; buy
+tesla,2017-5,* Concho Resources Inc : Raymond James raises target price to $164; strong buy
+tesla,2017-5,* CPI Card Group Inc : Craig Hallum cuts target price to $8 from $10; rating buy
+tesla,2017-5,* CPI Card Group Inc : Raymond James cuts to market perform from outperform
+tesla,2017-5,* Criteo SA : JP Morgan raises target price to $62 from $51; rating overweight
+tesla,2017-5,* Dawson Geophysical Co : Raymond James cuts target price to $8; rating strong buy
+tesla,2017-5,* Delphi Automotive Plc : BofA Merrill raises price objective to $95 from $62
+tesla,2017-5,* Delphi Automotive Plc : BofA Merrill raises to neutral from underperform
+tesla,2017-5,* Delphi Automotive Plc : JP Morgan ups price target to $94 from $89; overweight
+tesla,2017-5,* Delphi Automotive Plc : RBC raises target price to $95 from $93; outperform
+tesla,2017-5,* Delphi Automotive Plc : UBS raises price target to $97 from $87; rating buy
+tesla,2017-5,* Eaton Corporation Plc : Morgan Stanley raises target price to $88 from $83
+tesla,2017-5,* Eaton Corporation Plc : UBS raises price target to $85 from $76; rating buy
+tesla,2017-5,* El Paso Electric Co : Jefferies raises target price to $52 from $48.50; hold
+tesla,2017-5,* Emerge Energy Services LP : Stifel raises target price to $16 from $14
+tesla,2017-5,* Emerge Energy Services LP : Stifel raises to buy from hold
+tesla,2017-5,* Energizer Holdings Inc : Jefferies raises target price to $62 from $60; hold
+tesla,2017-5,* Entellus Medical Inc : Canaccord Genuity cuts target price to $18 from $22
+tesla,2017-5,* Entellus Medical Inc : Canaccord Genuity cuts to hold from buy
+tesla,2017-5,* Epam Systems Inc : Susquehanna raises target price to $90 from $85; positive
+tesla,2017-5,* Era Group Inc : Evercore ISI cuts target price to $14 from $16; rating outperform
+tesla,2017-5,* Essex Property Trust Inc : Barclays raises target price to $267 from $262
+tesla,2017-5,* Estee Lauder Companies Inc : Berenberg raises target price to $103 from $95; buy
+tesla,2017-5,* Estee Lauder Companies Inc : Raymond James raises price target to $97 from $89
+tesla,2017-5,* Exterran Corp : Capital One Securities raises target to $38 from $36; overweight
+tesla,2017-5,* Ezcorp Inc : Jefferies cuts price target to $10.50 from $11.00; rating hold
+tesla,2017-5,* Facebook Inc : Barclays raises target price to $160 from $154; rating overweight
+tesla,2017-5,* Facebook Inc : Jefferies raises target price to $192 from $175; rating buy
+tesla,2017-5,* Facebook Inc : JP Morgan raises target price to $182 from $170; rating overweight
+tesla,2017-5,* Facebook Inc : Moffettnathanson raises target price to $170 from $160; rating buy
+tesla,2017-5,* Facebook Inc : Morgan Stanley raises target price to $175; rating overweight
+tesla,2017-5,* Facebook Inc : Oppenheimer raises target price to $170 from $155;rating outperform
+tesla,2017-5,* Facebook Inc : RBC raises target price to $185 from $175; rating outperform
+tesla,2017-5,* Facebook Inc : Wedbush raises target price to $185 from $175; rating outperform
+tesla,2017-5,* First of Long Island Corp : KBW raises price target to $30 from $27.5
+tesla,2017-5,* First Solar : BofA Merrill raises to buy; raises target price to $45 from $42
+tesla,2017-5,* Five9 Inc : Craig Hallum raises target price to $23 from $20; rating buy
+tesla,2017-5,* Five9 Inc : JP Morgan raises target price to $24 from $22; rating overweight
+tesla,2017-5,* FMC Corp : Piper Jaffray raises target price to $74 from $55; rating neutral
+tesla,2017-5,* Fogo De Chao Inc : Canaccord Genuity raises target price to $20 from $16
+tesla,2017-5,* Fogo De Chao Inc : Canaccord Genuity raises to buy from hold
+tesla,2017-5,* Formfactor Inc : Craig-Hallum raises price target to $18 from $15; rating buy
+tesla,2017-5,* Formfactor Inc : D.A. Davidson raises target price to $18 from $16; rating buy
+tesla,2017-5,* Fox Factory Holding Corp : Stifel raises target price to $32 from $26
+tesla,2017-5,"* Franklin Street Properties : Baird cuts to neutral, cuts target to $12 from $14"
+tesla,2017-5,* Freightcar America Inc : Stifel raises target price to $14 from $13; rating hold
+tesla,2017-5,* Global Payments Inc : Morgan Stanley raises target to $90 from $85; equal weight
+tesla,2017-5,* Globus Medical Inc : Canaccord Genuity raises price target to $37 from $30
+tesla,2017-5,* Globus Medical Inc : Canaccord Genuity raises to buy from hold
+tesla,2017-5,* Globus Medical Inc : Morgan Stanley raises target price to $30 from $28
+tesla,2017-5,* Globus Medical Inc : UBS raises price target to $35 from $33; rating buy
+tesla,2017-5,* Grifols : Morgan Stanley raises target price to $20 from $15; rating underweight
+tesla,2017-5,* Habit Restaurants Inc : Raymond James raises price target to $22 from $20
+tesla,2017-5,* Health Insurance Innovations : Raymond James ups to outperform from market perform
+tesla,2017-5,* Holly Energy Partners LP : BofA Merrill cuts target price to $36 from $39
+tesla,2017-5,* Holly Energy Partners LP : BofA Merrill cuts to underperform from buy
+tesla,2017-5,* HSN Inc : Maxim cuts target price to $46 from $54; rating buy
+tesla,2017-5,* Humana Inc : Jefferies raises target price to $230 from $221; rating hold
+tesla,2017-5,* Hyatt Hotels Corp : JP Morgan raises target price to $59 from $57; rating neutral
+tesla,2017-5,* Ii-Vi Inc : B. Riley cuts price target to $35.75 from $43.25; rating buy
+tesla,2017-5,* Insight Enterprises : Raymond James raises to market perform from underperform
+tesla,2017-5,* Intercontinental Exchange Inc : UBS raises price target to $71 from $65; buy
+tesla,2017-5,* Interxion Holding NV : Cowen and Company raises target price to $45 from $38
+tesla,2017-5,* Irhythm Technologies : Canaccord Genuity ups target price to $42 from $40; buy
+tesla,2017-5,* Irhythm Technologies Inc : Morgan Stanley raises target price to $43 from $40
+tesla,2017-5,* Keane Group Inc : Guggenheim Securities cuts price target to $27 from $30; buy
+tesla,2017-5,* Kellogg Co : Susquehanna cuts target price to $78 from $81; rating neutral
+tesla,2017-5,* Keyw Holding Corp : Maxim Group raises to buy from hold
+tesla,2017-5,* Kimco Realty Corp : Morgan Stanley cuts target price to $21 from $25.50
+tesla,2017-5,* Kraft Heinz Co : Susquehanna cuts target price to $98 from $103; rating neutral
+tesla,2017-5,* Lear Corp : Seaport Global raises to buy from neutral; target price $163
+tesla,2017-5,* Lgi Homes Inc : Wedbush cuts price target to $32 from $35; rating neutral
+tesla,2017-5,* LHC Group Inc : Benchmark raises price target to $63; rating market weight
+tesla,2017-5,* LHC Group Inc : Jefferies raises target price to $65 from $56; rating buy
+tesla,2017-5,* Liberty Global Plc : Jefferies raises target price to $43 from $42; rating buy
+tesla,2017-5,* Life Storage Inc : Evercore ISI cuts target price to $79 from $88; rating in-line
+tesla,2017-5,* Livanova Plc : Canaccord Genuity raises target price to $52 from $51; hold
+tesla,2017-5,* Lumentum Holdings Inc : Piper Jaffray raises target to $58 from $46; overweight
+tesla,2017-5,* Magellan Midstream Partners LP : Credit Suisse ups target price to $84 from $80
+tesla,2017-5,* Magellan Midstream Partners LP : Credit Suisse ups to neutral from underperform
+tesla,2017-5,* Malibu Boats Inc : Raymond James raises price target to $26 from $23
+tesla,2017-5,* Malibu Boats Inc : SunTrust Robinson raises price target to $26 from $24
+tesla,2017-5,* Matador Resources : Wunderlich raises price target to $38 from $36; rating buy
+tesla,2017-5,* Match Group Inc : JP Morgan raises target price to $21 from $19
+tesla,2017-5,* Melco Resorts & Entertainment : Union Gaming raises target to $28 from $26; buy
+tesla,2017-5,* Melco Resorts & Entertainment : JP Morgan raises target to $23 from $18; neutral
+tesla,2017-5,* Meritor Inc : JP Morgan raises target price to $18 from $16.50; rating neutral
+tesla,2017-5,* Meritor Inc : UBS raises price target to $18 from $14; rating neutral
+tesla,2017-5,* Merus NV : Jefferies cuts target price to $31 from $33; rating buy
+tesla,2017-5,* Mitel Networks : National Bank of Canada cuts to sector perform from outperform
+tesla,2017-5,* Mitel Networks : National Bank of Canada cuts target price to $7.50 from $9
+tesla,2017-5,* Molina Healthcare Inc : JP Morgan raises target price to $65 from $45
+tesla,2017-5,* Molson Coors Brewing : Susquehanna cuts price target to $114 from $140; positive
+tesla,2017-5,* Molson Coors Brewing Co : Credit Suisse cuts target to $95 from $106; neutral
+tesla,2017-5,* Molson Coors Brewing Co : SocGen cuts to hold from buy
+tesla,2017-5,* MTS : JP Morgan cuts target price to $10.5 from $11.5; rating neutral
+tesla,2017-5,* Netscout Systems : Craig-Hallum cuts price target to $30 from $35; rating hold
+tesla,2017-5,"* New Age Beverages Corp : Maxim Group starts with buy, $6 target price"
+tesla,2017-5,* NN Inc : Keybanc Capital raises target price to $36 from $30; rating overweight
+tesla,2017-5,* Now Inc : Seaport Global Securities raises price target to $22 from $20
+tesla,2017-5,* Now Inc : Seaport Global Securities raises to buy from neutral
+tesla,2017-5,* Nxstage Medical : Northland Securities cuts to market perform from outperform
+tesla,2017-5,* Olympic Steel Inc : KeyBanc cuts to sector weight from overweight
+tesla,2017-5,* Orasure Technologies : Canaccord Genuity raises target price to $15 from $12;buy
+tesla,2017-5,* Orasure Technologies Inc : Raymond James raises price target to $15.50 from $13
+tesla,2017-5,* Outfront Media Inc : Morgan Stanley cuts target price to $27 from $29
+tesla,2017-5,* Parexel International Corp : Baird raises target price to $70 from $68; neutral
+tesla,2017-5,* PGT Innovations : Craig-Hallum raises target to $12.50 from $12.00; rating buy
+tesla,2017-5,* PGT Innovations : SunTrust Robinson raises target price to $14 from $12; buy
+tesla,2017-5,* Points International : Ascendiant Capital ups target price to $12 from $10; buy
+tesla,2017-5,* Praxair Inc : HSBC raises target price to $117 from $113; rating hold
+tesla,2017-5,* Prudential Financial : Sandler O'Neill ups target to $122 from $120; rating buy
+tesla,2017-5,* Prudential Financial:Wells Fargo ups Valuation Range to $108-$111; market perform
+tesla,2017-5,* Q2 Holdings Inc : Canaccord Genuity raises price target to $43 from $41; buy
+tesla,2017-5,* Q2 Holdings Inc : Raymond James raises target price to S42 from $41; outperform
+tesla,2017-5,* Qorvo Inc : Cowen and Company raises target price to $74 from $60
+tesla,2017-5,* Qorvo Inc : Craig-Hallum raises price target to $78 from $68; rating buy
+tesla,2017-5,* Reliance Steel & Aluminum Co : KeyBanc cuts target to $85 from $92; overweight
+tesla,2017-5,* Repligen Corp : Craig-Hallum raises price target to $42 from $39; rating buy
+tesla,2017-5,* Repligen Corp : Jefferies raises price target to $33 from $30; rating hold
+tesla,2017-5,* Rexford Industrial Realty : D.A. Davidson ups target price to $30 from $28; buy
+tesla,2017-5,* Rubicon Project Inc : Craig Hallum cuts target price to $6 from $8
+tesla,2017-5,* Rubicon Project Inc : SunTrust Robinson cuts price target to $7 from $8
+tesla,2017-5,* Ryerson Holding Corp : Keybanc cuts target price to $16.50 from $18; overweight
+tesla,2017-5,* Santander Mexico Sanmexb.Mx : JP Morgan raises to overweight from neutral
+tesla,2017-5,* Sequential Brands Group : Wunderlich cuts target to $9 from $18; rating buy
+tesla,2017-5,* Southern Co : Jefferies cuts target price to $55 from $56; rating buy
+tesla,2017-5,* Spirit Aerosystems Holdings : JP Morgan cuts price target to $59 from $67;neutral
+tesla,2017-5,* Spirit Realty Capital Inc : Capital One Securities cuts to underweight
+tesla,2017-5,* Spirit Realty Capital Inc : JP Morgan cuts target price to $9 from $13
+tesla,2017-5,* Spirit Realty Capital Inc : JP Morgan cuts to neutral from overweight
+tesla,2017-5,* Spirit Realty Capital Inc : Ladenburg Thalmann cuts to neutral from buy
+tesla,2017-5,* Sprouts Farmers market : Morgan Stanley raises target to $23 from $21; overweight
+tesla,2017-5,* Square Inc : Craig Hallum raises target price to $18 from $15.50; rating hold
+tesla,2017-5,* Stamps.Com Inc : Craig-Hallum raises target price to $170 from $150; rating buy
+tesla,2017-5,* Summit Materials Inc : D.A. Davidson raises target price to $35 from $29; buy
+tesla,2017-5,* Summit Materials Inc : RBC raises target price to $33 from $29; rating outperform
+tesla,2017-5,* Sun Bancorp Inc : KBW cuts to market perform from outperform
+tesla,2017-5,* T2 Biosystems Inc : Canaccord Genuity cuts target price to $6 from $8; buy
+tesla,2017-5,* Tableau Software Inc : Baird raises target price to $60 from $57; rating neutral
+tesla,2017-5,* Tableau Software Inc : Deutsche Bank raises target price to $60 from $50
+tesla,2017-5,* Tableau Software Inc : Jefferies raises target price to $52 from $50; hold
+tesla,2017-5,* Tableau Software Inc : Mizuho raises target price to $57 from $50; neutral
+tesla,2017-5,* Tableau Software Inc : Wunderlich raises price target to $65 from $55; hold
+tesla,2017-5,* Teck Resources Ltd : Deutsche Bank cuts target price to $24 from $25
+tesla,2017-5,* Teleflex Inc : Needham raises target price to $224 from $221; rating buy
+tesla,2017-5,* Tesla Inc : JP Morgan raises target price to $190 from $185; rating underweight
+tesla,2017-5,* Textainer Group Holdings : SunTrust Robinson cuts target to $16 from $19; buy
+tesla,2017-5,* Tutor Perini Corp : D.A. Davidson raises target price to $40 from $36; buy
+tesla,2017-5,* United States Steel Corp : Barclays cuts target price to $24 from $35
+tesla,2017-5,* Unit Corp : SunTrust Robinson cuts target price to $27 from $30; rating buy
+tesla,2017-5,* Veracyte Inc : Janney cuts Fair Value to $15 from $16; rating buy
+tesla,2017-5,* Verisk Analytics Inc : Barclays cuts target price to $86 from $90; overweight
+tesla,2017-5,* Verisk Analytics Inc : SunTrust Robinson cuts price target to $85 from $93
+tesla,2017-5,* Viavi Solutions Inc : B. Riley raises price target to $8.75 from $8.25; neutral
+tesla,2017-5,* Willis Towers Watson : Credit Suisse raises target to $150 from $141; outperform
+tesla,2017-5,* Wright Medical Group NV : BMO raises target price to $34 from $31
+tesla,2017-5,* XPO Logistics Inc : Stifel raises target price to $65 from $60; rating buy
+tesla,2017-5,* Yum Brands : UBS raises price target to $76 from $72; rating buy
+tesla,2017-5,* Zoetis Inc : Morgan Stanley raises target price to $61 from $56; equal weight
+tesla,2017-5,"{{20170504T205124.043+0000}}Tesla in talks to resolve issues with legacy Grohmann clientsFRANKFURT, May 4 (Reuters) - Tesla Inc said it is seeking to resolve outstanding issues with legacy customers of its Grohmann engineering unit after a takeover by the Silicon Valley-based carmaker resulted in a shift in management priorities toward Tesla projects."
+tesla,2017-5,"Before being bought by Tesla in November, Grohmann helped clients build highly automated and efficient factories, including battery assembly lines for electric cars."
+tesla,2017-5,"Grohmann's clients included rival automakers BMW , Volkswagen AG and Mercedes owner Daimler AG , before Tesla boss Elon Musk ordered the company's main management resources to be devoted toward pushing expansion of Tesla's production facilities."
+tesla,2017-5,"""We have been in contact with every client for weeks on this issue and are on the way to finding individual solutions with each of them,"" Tesla said in a statement on Thursday."
+tesla,2017-5,"The issue of how to deal with Grohmann's existing clients resulted in the departure of Klaus Grohmann, who was ousted at the end of March, only months after selling his company to Tesla. [nL8N1HZ5KL]"
+tesla,2017-5,"The electric carmaker is counting on Grohmann Engineering's automation and engineering expertise to help it ramp up production to 500,000 cars per year by 2018 through the design of ultra efficient factories."
+tesla,2017-5,"Founder Klaus Grohmann disagreed with Musk's demands to focus management attention on Tesla projects to the detriment of Grohmann Engineering's legacy clients, which included parts maker Bosch Corp , chip maker Intel Corp , and pharmaceutical firms Abbott Laboratories and Roche Holding AG in addition to the German carmakers."
+tesla,2017-5,"""We believe that Grohmann will honour its contractual obligations toward us in future,"" BMW said in a statement on Thursday, adding that it had not been formally notified about any changes to the contractual arrangements."
+tesla,2017-5,{{20170504T184642.592+0000}}Dip in Tesla's customer deposits triggers worries over ordersMay 4 (Reuters) - A 7 percent drop in Tesla Inc's customer deposits in its latest quarter raised concerns about future sales at the U.S. luxury electric-car maker.
+tesla,2017-5,"The company's shares were down nearly 5 percent at $295.55 in afternoon trading on Thursday, on track for their third straight day of decline."
+tesla,2017-5,"Customer deposits fell to $616.4 million at the end of the first quarter, from $663.9 million in the preceding quarter."
+tesla,2017-5,"Tesla Chief Executive Officer Elon Musk repeatedly emphasized the difference between the Model 3 and the Model S, in an earnings call on Thursday."
+tesla,2017-5,"The company had seen orders of the Model S hurt by confusion among customers, who were under the impression that the $35,000 Model 3 was an upgrade from the Model S, Musk said."
+tesla,2017-5,The Model S lists at about double the starting price of the Model 3.
+tesla,2017-5,"Tesla, which has faced production challenges in the past, is banking on the mass-market Model 3, which could finally allow the company to stem its free-wheeling cash burn and turn a profit."
+tesla,2017-5,Pacific Crest Securities analyst Brad Erickson termed Tesla's communication regarding the misconception between the two cars confusing.
+tesla,2017-5,"""Either Model S demand is getting hit by a pause in front of the Model 3 (less negative) or the Model 3 reservation list is inflated with orders that will not convert when the true identity of the car is discovered (more negative),"" Erickson wrote in a note."
+tesla,2017-5,Some analysts were also worried about the prospect of Tesla hindering the sales of the higher-margin Model S.
+tesla,2017-5,"Barclays analyst Brian Johnson said the drop off in customer deposits, along with the commentary around the Model S, might indicate an Osborne Effect in Model S and Model X orders."
+tesla,2017-5,"Johnson was referring to the Osborne Computer Corp that went bankrupt in 1985, after the company damaged its own sales by announcing a new computer before it was ready."
+tesla,2017-5,"""We continue to be cautious relative to the potential for a slower-than-guided start to Model 3 assembly, and newly believe that the potential for Model 3 pre-orders cancellations may increasingly become a point of investor concern,"" J.P. Morgan Securities analyst Ryan Brinkman said."
+tesla,2017-5,"As of Wednesday's close, Tesla was the most valuable U.S. carmaker ahead of Detroit heavyweights General Motors Co and Ford Motor Co ."
+tesla,2017-5,"Through Wednesday's close, Tesla's stock had risen more than 45 percent this year."
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, insurers, energy companies, CF, Global Payments - Reuters News"
+tesla,2017-5,"{{20170504T173531.056+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, insurers, energy companies, CF, Global Payments* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,U.S. stocks were lower in early afternoon trading on Thursday as a steep fall in
+tesla,2017-5,"At 13:19 ET, the Dow Jones Industrial Average <.DJI> was down 0.18 percent"
+tesla,2017-5,UPDATE 3-Tesla plugs older Model S as new buyers turn to Model 3 [nL4N1I54GO]
+tesla,2017-5,"UPDATE 4-Facebook shares dip from high as investors fret over costs, future"
+tesla,2017-5,BUZZ-Facebook on pace to snap record-setting streak on ad load warning
+tesla,2017-5,BUZZ-Energy cos down as oil price drop wipes out OPEC-inspired gains
+tesla,2017-5,"UPDATE 1-AIG operating profit up, helped by cost cuts; shares rise [nL1N1I5238]"
+tesla,2017-5,"BUZZ-Square Inc: Hits life high on upbeat forecast, estimate beat [nL4N1I63H4]"
+tesla,2017-5,BUZZ-Tableau Software Inc: Posts smaller-than-expected Q1 adj. loss
+tesla,2017-5,BUZZ-Viacom: Deutsche Bank warns of lower fees on Charter re-tiering
+tesla,2017-5,"BUZZ-Spirit Realty cuts 2017 outlook, drags down retail REIT sector"
+tesla,2017-5,BUZZ-Health Insurance Innovations Inc: Shares up after profit beat
+tesla,2017-5,"UPDATE 4-As Eylea fears fade, focus turns to Regeneron's eczema"
+tesla,2017-5,UPDATE 2-Regional bank First Horizon to buy Capital Bank for $2.2
+tesla,2017-5,BUZZ-Capital Bank Financial: First Horizon to buy Co at a discount [nL4N1I64CA]
+tesla,2017-5,BRIEF-ContraVir Pharma to advance second-gen formulation of Tenofovir Exalidex
+tesla,2017-5,"BUZZ-Perion Network Ltd: Set for worst day in 9 years on results, CFO"
+tesla,2017-5,BUZZ-Avon Products Inc: Hits more than 9-month low on surprise Q1
+tesla,2017-5,"BUZZ-Global Payments Inc: Hits record high on strong forecast, Q1 results beat"
+tesla,2017-5,BUZZ-Inovalon Holdings: Highest in nearly 5 months on profit beat [nL4N1I64A4]
+tesla,2017-5,BUZZ-FreightCar America: Set for best day in 6 mths after surprise Q1
+tesla,2017-5,BUZZ-L Brands Inc: Comp sales fall for first time in 2 yrs [nL4N1I64BD]
+tesla,2017-5,BUZZ-Beazer Homes USA Inc: Shares rise after Q2 revenue jump [nL4N1I64DX]
+tesla,2017-5,BUZZ-FormFactor: Shares in fine form on strong beat and raise [nL1N1I6109]
+tesla,2017-5,BUZZ-Unit Corp: Sinks to 6-mth low on weak Q1 results [nL4N1I64HD]
+tesla,2017-5,"BUZZ-CenturyLink Inc: Shares down as Q1 revenue, profit miss est [nL4N1I64C0]"
+tesla,2017-5,BUZZ-CommScope set for worst ever day after poor forecast [nL4N1I64JP]
+tesla,2017-5,"BUZZ-Regis shares tumble, blames Easter for sales blow-out [nL1N1I6168]"
+tesla,2017-5,BUZZ-Insight Enterprises Inc: Hits record high after Q1 results beat
+tesla,2017-5,BUZZ-Targa exports 6.5 mln barrels per month of LPG in Q1 [nL1N1I617E]
+tesla,2017-5,BUZZ-Hercules Capital Inc: Shares drop on plans to be externally managed
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, insurers, energy companies, CF, Global Payments - Reuters News"
+tesla,2017-5,"{{20170504T173355.622+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, insurers, energy companies, CF, Global Payments* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,U.S. stocks were lower in early afternoon trading on Thursday as a steep fall in
+tesla,2017-5,"At 13:19 ET, the Dow Jones Industrial Average <.DJI> was down 0.18 percent"
+tesla,2017-5,UPDATE 3-Tesla plugs older Model S as new buyers turn to Model 3 [nL4N1I54GO]
+tesla,2017-5,"UPDATE 4-Facebook shares dip from high as investors fret over costs, future"
+tesla,2017-5,BUZZ-Facebook on pace to snap record-setting streak on ad load warning
+tesla,2017-5,BUZZ-Energy cos down as oil price drop wipes out OPEC-inspired gains
+tesla,2017-5,"UPDATE 1-AIG operating profit up, helped by cost cuts; shares rise [nL1N1I5238]"
+tesla,2017-5,"BUZZ-Square Inc: Hits life high on upbeat forecast, estimate beat [nL4N1I63H4]"
+tesla,2017-5,BUZZ-Tableau Software Inc: Posts smaller-than-expected Q1 adj. loss
+tesla,2017-5,BUZZ-Viacom: Deutsche Bank warns of lower fees on Charter re-tiering
+tesla,2017-5,"BUZZ-Spirit Realty cuts 2017 outlook, drags down retail REIT sector"
+tesla,2017-5,BUZZ-Health Insurance Innovations Inc: Shares up after profit beat
+tesla,2017-5,"UPDATE 4-As Eylea fears fade, focus turns to Regeneron's eczema"
+tesla,2017-5,UPDATE 2-Regional bank First Horizon to buy Capital Bank for $2.2
+tesla,2017-5,BUZZ-Capital Bank Financial: First Horizon to buy Co at a discount [nL4N1I64CA]
+tesla,2017-5,BRIEF-ContraVir Pharma to advance second-gen formulation of Tenofovir Exalidex
+tesla,2017-5,"BUZZ-Perion Network Ltd: Set for worst day in 9 years on results, CFO"
+tesla,2017-5,BUZZ-Avon Products Inc: Hits more than 9-month low on surprise Q1
+tesla,2017-5,"BUZZ-Global Payments Inc: Hits record high on strong forecast, Q1 results beat"
+tesla,2017-5,BUZZ-Inovalon Holdings: Highest in nearly 5 months on profit beat [nL4N1I64A4]
+tesla,2017-5,BUZZ-FreightCar America: Set for best day in 6 mths after surprise Q1
+tesla,2017-5,BUZZ-L Brands Inc: Comp sales fall for first time in 2 yrs [nL4N1I64BD]
+tesla,2017-5,BUZZ-Beazer Homes USA Inc: Shares rise after Q2 revenue jump [nL4N1I64DX]
+tesla,2017-5,BUZZ-FormFactor: Shares in fine form on strong beat and raise [nL1N1I6109]
+tesla,2017-5,BUZZ-Unit Corp: Sinks to 6-mth low on weak Q1 results [nL4N1I64HD]
+tesla,2017-5,"BUZZ-CenturyLink Inc: Shares down as Q1 revenue, profit miss est [nL4N1I64C0]"
+tesla,2017-5,BUZZ-CommScope set for worst ever day after poor forecast [nL4N1I64JP]
+tesla,2017-5,"BUZZ-Regis shares tumble, blames Easter for sales blow-out [nL1N1I6168]"
+tesla,2017-5,BUZZ-Insight Enterprises Inc: Hits record high after Q1 results beat
+tesla,2017-5,BUZZ-Targa exports 6.5 mln barrels per month of LPG in Q1 [nL1N1I617E]
+tesla,2017-5,BUZZ-Hercules Capital Inc: Shares drop on plans to be externally managed
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, CF, Chesapeake, Spirit Realty, Tuesday Morning - Reuters News"
+tesla,2017-5,"{{20170504T160245.566+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, CF, Chesapeake, Spirit Realty, Tuesday Morning* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,U.S. stocks were little changed on Thursday as a decline in energy and
+tesla,2017-5,technology stocks erased some of the early gains following the Federal Reserve's
+tesla,2017-5,"At 11:52 ET, the Dow Jones Industrial Average <.DJI> was down 0.06 percent"
+tesla,2017-5,"at 20,944.94. The S&P 500 <.SPX> was up 0.07 percent at 2,389.89 and the Nasdaq"
+tesla,2017-5,UPDATE 3-Tesla plugs older Model S as new buyers turn to Model 3 [nL4N1I54GO]
+tesla,2017-5,"UPDATE 4-Facebook shares dip from high as investors fret over costs, future"
+tesla,2017-5,BUZZ-Facebook on pace to snap record-setting streak on ad load warning
+tesla,2017-5,"UPDATE 1-AIG operating profit up, helped by cost cuts; shares rise [nL1N1I5238]"
+tesla,2017-5,"BUZZ-Square Inc: Hits life high on upbeat forecast, estimate beat [nL4N1I63H4]"
+tesla,2017-5,BUZZ-Tableau Software Inc: Posts smaller-than-expected Q1 adj. loss
+tesla,2017-5,BUZZ-Avis Budget Group Inc: Posts bigger-than-expected Q1 loss [nL4N1I54TN]
+tesla,2017-5,"BUZZ-Spirit Realty cuts 2017 outlook, drags down retail REIT sector"
+tesla,2017-5,BUZZ-Health Insurance Innovations Inc: Shares up after profit beat
+tesla,2017-5,"UPDATE 3-As Eylea fears fade, focus turns to Regeneron's allergy"
+tesla,2017-5,UPDATE 2-Regional bank First Horizon to buy Capital Bank for $2.2
+tesla,2017-5,BUZZ-Capital Bank Financial: First Horizon to buy Co at a discount [nL4N1I64CA]
+tesla,2017-5,BRIEF-ContraVir Pharma to advance second-gen formulation of Tenofovir Exalidex
+tesla,2017-5,BUZZ-Avon Products Inc: Hits more than 9-month low on surprise Q1
+tesla,2017-5,"BUZZ-Global Payments Inc: Hits record high on strong forecast, Q1 results beat"
+tesla,2017-5,BUZZ-Tailored Brands Inc: Set to open at 1-month high on raised forecast
+tesla,2017-5,Aerohive Networks Inc shares up 16.4 pct at $4.32 in premarket trade after
+tesla,2017-5,BUZZ-Inovalon Holdings: Highest in nearly 5 months on profit beat [nL4N1I64A4]
+tesla,2017-5,BUZZ-L Brands Inc: Comp sales fall for first time in 2 yrs [nL4N1I64BD]
+tesla,2017-5,BUZZ-FormFactor: Shares in fine form on strong beat and raise [nL1N1I6109]
+tesla,2017-5,BUZZ-Holly Energy Partners: Slides on BofA-ML double downgrade [nL4N1I64FK]
+tesla,2017-5,"BUZZ-CenturyLink Inc: Shares down as Q1 revenue, profit miss est [nL4N1I64C0]"
+tesla,2017-5,BRIEF-Report that 3G Capital is interested in General Mills is not true - CNBC
+tesla,2017-5,"BUZZ-Regis shares tumble, blames Easter for sales blow-out [nL1N1I6168]"
+tesla,2017-5,{{20170504T152009.105+0000}}REFILE-SolarCity performance points to rockier outlook for rooftop solar(Fixes misspelled word in third paragraph)
+tesla,2017-5,"May 4 (Reuters) - Tesla's SolarCity reported a drop of nearly 40 percent in solar installations for the first quarter on Wednesday, the latest sign of a reversal in fortunes for the once high-flying residential solar industry."
+tesla,2017-5,"In an earnings report this week, Tesla said it deployed 150 megawatts of solar generation in the first quarter of 2017 compared to 245 MW in the first quarter of last year."
+tesla,2017-5,"The company, which announced last week it was curtailing door-to-door sales, said it had prioritized higher-margin projects that generate cash up front rather than trying to sell as many installations as possible. But the dramatic drop in sales for a company that had consistently delivered double-digit growth puts it in line with a broad trend affecting the rooftop-solar industry."
+tesla,2017-5,"Across the sector, installers report more difficulty finding customers. Subsidies have dwindled or been eliminated in some states, and many of the easiest consumers to sell to - environmentally conscious homeowners with disposable income - have already purchased rooftop systems."
+tesla,2017-5,"""The trendsetters are kind of gone,"" Tammy Goad, vice president of corporate development for California-based Valley Energy said at a solar industry conference in San Diego on Tuesday."
+tesla,2017-5,"Stiff competition in the industry has pushed some companies out of the market, or forced them to scale back. One of the nation's biggest rooftop solar companies, Sungevity, filed for bankruptcy earlier this year."
+tesla,2017-5,"""Two years ago I thought I was a brilliant marketer. Today, I'm looking for answers,"" said Kathi McCalligan, director of marketing for San Diego installer Baker Electric, at the conference. The gathering focused on customer acquisition and was put on by the Solar Energy Industries Association."
+tesla,2017-5,"Rooftop solar, a novelty in many neighborhoods just a few years ago, has enjoyed dramatic growth in recent years, including a 66 percent rise in installations between 2014 and 2015, according to SEIA and research firm GTM Research."
+tesla,2017-5,"That growth rate slipped to 19 percent last year, and the trend has worsened significantly in 2017. Not only did SolarCity post its worst quarterly solar deployments in nearly two years, residential interconnection requests at California's three investor-owned utilities were down 35 percent in January and February, according to state data. California makes up about half the residential solar market."
+tesla,2017-5,"Heavy rains in those months were likely to blame for some of that decline, but industry insiders say installations have not recovered as much as expected this spring."
+tesla,2017-5,"At the same time, consumer complaints about high-pressure sales tactics are on the rise, according to government and private agencies. They say that aggressive door-to-door soliciting and telemarketing have soured some consumers on solar, as have online ads promising ""free solar."""
+tesla,2017-5,"Solar-related complaints to the Better Business Bureau, a non-profit that promotes ethical business practices, are up 29 percent nationwide so far this year, Greg Dunn, president of the Hawaii BBB, said during a presentation at the conference. Nearly a quarter of those complaints relate to sales practice issues."
+tesla,2017-5,"In California, the state's Contractors State License Board said it has received 199 complaints through early April, a level that is on track to exceed the 452 complaints received in 2016."
+tesla,2017-5,"The rise in complaints has prompted the introduction of solar consumer protection bills in Florida and California, and SEIA earlier this year launched a campaign aimed at protecting solar consumers."
+tesla,2017-5,"On Wednesday, the Wall Street Journal reported that federal regulators are probing whether large installers Sunrun Inc and SolarCity have fully disclosed their contract cancellation rates."
+tesla,2017-5,"Other big players in rooftop solar including SunPower Corp , Sunrun and Vivint Solar Inc will report quarterly results next week."
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, CF Industries, Chesapeake, Fitbit - Reuters News"
+tesla,2017-5,"{{20170504T143724.730+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Tesla, CF Industries, Chesapeake, Fitbit* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,"Wall Street edged lower on Thursday morning, weighed down by a drop in energy"
+tesla,2017-5,stocks after oil prices dropped and as Facebook led technology shares lower.
+tesla,2017-5,"At 10:24 ET, the Dow Jones Industrial Average <.DJI> was down 0.07 percent"
+tesla,2017-5,"at 20,942.45. The S&P 500 <.SPX> was up 0.06 percent at 2,389.58 and the Nasdaq"
+tesla,2017-5,UPDATE 3-Tesla plugs older Model S as new buyers turn to Model 3 [nL4N1I54GO]
+tesla,2017-5,"UPDATE 4-Facebook shares dip from high as investors fret over costs, future"
+tesla,2017-5,BUZZ-Facebook on pace to snap record-setting streak on ad load warning
+tesla,2017-5,"UPDATE 1-AIG operating profit up, helped by cost cuts; shares rise [nL1N1I5238]"
+tesla,2017-5,BUZZ-Tableau Software Inc: Posts smaller-than-expected Q1 adj. loss
+tesla,2017-5,BUZZ-Avis Budget Group Inc: Posts bigger-than-expected Q1 loss [nL4N1I54TN]
+tesla,2017-5,BUZZ-Health Insurance Innovations Inc: Shares up after profit beat
+tesla,2017-5,UPDATE 2-Regional bank First Horizon to buy Capital Bank for $2.2
+tesla,2017-5,BRIEF-ContraVir Pharma to advance second-gen formulation of Tenofovir Exalidex
+tesla,2017-5,BUZZ-Avon Products Inc: Hits more than 9-month low on surprise Q1
+tesla,2017-5,UPDATE 1-Greenlight urges GM shareholders to vote for its director nominees
+tesla,2017-5,BUZZ-Tailored Brands Inc: Set to open at 1-month high on raised forecast
+tesla,2017-5,Aerohive Networks Inc shares up 16.4 pct at $4.32 in premarket trade after
+tesla,2017-5,Inovalon Holdings shares up 12.5 pct at $13.95 in premarket trade following
+tesla,2017-5,BRIEF-MetLife will not have approvals for Brighthouse spinoff in 2017 first
+tesla,2017-5,BUZZ-L Brands Inc: Comp sales fall for first time in 2 yrs [nL4N1I64BD]
+tesla,2017-5,{{20170504T141239.544+0000}}BUZZ-Tesla Inc: Shares fall after bigger qtrly loss** Electric-car maker's shares down as much as 4.5 pct at $296.80 in morning trade on Thursday
+tesla,2017-5,"** ""We continue to be cautious relative to the potential for a slower than guided start to Model 3 assembly, and newly believe that the potential for Model 3 pre-orders cancellations may increasingly become a point of investor concern,"" analysts at JP Morgan say in a research note and raise PT to $190 from $185"
+tesla,2017-5,** Tesla reported a bigger net loss in the first-quarter largely driven by its SolarCity acquisition [nL4N1I54GO]
+tesla,2017-5,"** 7 of 21 brokerages rate the stock ""buy"" or higher, 8 ""hold"" and 6 ""sell""; their median PT is $265"
+tesla,2017-5,"** Up to Wednesday's close, stock had nearly 34 pct in the past 12 months"
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Tesla, Facebook, Square, Fitbit, Tableau, Tuesday Morning - Reuters News"
+tesla,2017-5,"{{20170504T131200.298+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Tesla, Facebook, Square, Fitbit, Tableau, Tuesday Morning* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,"Wall Street was set to open higher on Thursday, a day after the Federal Reserve left interest rates unchanged and expressed confidence in the strength of the economy. [.N]"
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Tesla, Facebook, Square, Fitbit, Ferrari, Chesapeake - Reuters News"
+tesla,2017-5,"{{20170504T120652.920+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Tesla, Facebook, Square, Fitbit, Ferrari, Chesapeake* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,"U.S. stock index futures were higher on Thursday, a day after the Federal Reserve left interest rates unchanged and expressed confidence in the strength of the economy. [.N]"
+tesla,2017-5,{{20170504T061317.838+0000}}UPDATE 1-Infineon Q2 oper profit slightly below expectations* Q2 oper profit 296 mln eur vs 299 mln avg in Reuters poll
+tesla,2017-5,"FRANKFURT, May 4 (Reuters) - German chipmaker Infineon on Thursday stuck with its full-year guidance, which it raised in March, after reporting slightly weaker-than-expected quarterly operating profit."
+tesla,2017-5,The maker of chips that enable cruise control in cars and warn drivers of potential collisions said operating profit excluding special items rose to 296 million euros ($322 million) in the fiscal second quarter.
+tesla,2017-5,"That was slightly below the average forecast for 299 million euros in a Reuters poll, in which individual estimates of 11 analysts ranged from 273 million euros to 303 million. [nL8N1I44DI]"
+tesla,2017-5,"Infineon said it still expected full-year revenue to rise by 8 to 11 percent, with an operating margin of around 17 percent."
+tesla,2017-5,"""The favourable market development we saw in the first quarter of the fiscal year has continued into the second three-month period. Current order situation gives us good reason for optimism,"" Chief Executive Reinhard Ploss said in a statement."
+tesla,2017-5,"Infineon, whose customers include premium carmakers such as Daimler and Tesla as well as automotive supplier Continental , in March raised its full-year guidance on the back of strong demand from China for its automotive chips. [nL5N1H13GL]"
+tesla,2017-5,"Since that announcement, Infineon's shares have gained more than 10 percent and hover around a 15-year high."
+tesla,2017-5,"Sales at Infineon's automotive unit grew by 11 percent to 783 million euros in the second quarter, accounting for 44 percent of group sales."
+tesla,2017-5,"""The increase was attributable to growing demand in all product areas, particularly also for components installed in driver assistance systems as well as hybrid and electric vehicles,"" the company said."
+tesla,2017-5,"Just like other chipmakers, Infineon is benefiting from a rise in automakers' spending on electric and self-driving cars as they feel the pressure from new competitors from outside the sector such as Alphabet's Google and Apple ."
+tesla,2017-5,Earlier STMicroelectronics and Texas Instruments reported a rise in profits on the back of spending on chips which enable all kinds of devices and cars to connect to the Internet.[nL8N1HZ17V] [nL4N1HX5YD]
+tesla,2017-5,"Infineon shares are indicated to open 1.3 percent lower, according to pre-market date of brokerage Lang & Schwarz, at the bottom of the German blue chip index <.GDAXI>, which is expected to open 0.2 percent higher."
+tesla,2017-5,"{{20170504T054923.092+0000}}Infineon Q2 oper profit up 30 pct on auto, industrial demandFRANKFURT, May 4 (Reuters) - German chipmaker Infineon on Thursday reported a 30 percent rise in second-quarter operating profit helped by its automotive and industrial activities."
+tesla,2017-5,The maker of chips that enable cruise control in cars and warn drivers of potential collisions said operating profit excluding special items rose to 296 million euros ($322 million).
+tesla,2017-5,"That was slightly below the average prediction of 299 million euros in a Reuters analysts' poll, with individual estimates of 11 analysts ranging from 273 million euros to 303 million. [nL8N1I44DI]"
+tesla,2017-5,"Infineon confirmed its full-year outlook for revenue to rise between 8 and 11 percent, with an operating margin of around 17 percent."
+tesla,2017-5,"Infineon, whose customers include premium carmakers such as Daimler and Tesla as well as automotive supplier Continental , in March raised its full-year outlook on the back of strong demand from China for its automotive chips. [nL5N1H13GL] ($1 = 0.9179 euros)"
+tesla,2017-5,{{20170504T051709.072+0000}}PRESS DIGEST - Wall Street Journal - May 4May 4 (Reuters) - The following are the top stories in the Wall Street Journal. Reuters has not verified these stories and does not vouch for their accuracy.
+tesla,2017-5,{{20170504T041832.791+0000}}PRESS DIGEST- New York Times business news - May 4May 4 (Reuters) - The following are the top stories on the New York Times business pages. Reuters has not verified these stories and does not vouch for their accuracy.
+tesla,2017-5,"{{20170503T235229.869+0000}}UPDATE 3-Tesla plugs older Model S as new buyers turn to Model 3 (Adds Musk quotes, details on service centers)"
+tesla,2017-5,"SAN FRANCISCO, May 3 (Reuters) - Electric-car maker Tesla Inc on Wednesday reported first-quarter revenue that more than doubled, and while saying the upcoming Model 3 was on schedule for July, it downplayed the mass-market vehicle to give a sales pitch for its more expensive Model S."
+tesla,2017-5,"Chief Executive Elon Musk's bold approach to cars, space exploration and clean energy has fueled investor enthusiasm for Tesla. But skeptics are waiting to see if Musk can fulfill his promise of producing 500,000 cars per year in 2018, or six times Tesla's 2016 production."
+tesla,2017-5,Shares were down about 2 percent in after-hours trade following the results.
+tesla,2017-5,The automaker's comments underscored the additional challenge of keeping up demand for its older models.
+tesla,2017-5,"""We have seen some impact of Model S orders as a function of people being confused"" that Model 3 is the upgrade to Model S, Musk said on a conference call."
+tesla,2017-5,Tesla said it had $4 billion of cash on hand as it headed into the second quarter and expects year-to-date capital expenditures to be slightly over $2 billion by the time it starts Model 3 production - within its previous targeted range of $2 billion to $2.5 billion.
+tesla,2017-5,"That cushion should give the company some near-term breathing room from needing to tap Wall Street for cash, said CFRA Research analyst Efraim Levy. Tesla in March raised $1.2 billion from the markets."
+tesla,2017-5,"Record deliveries helped Tesla boost its revenue to $2.7 billion in the quarter, but a net loss net widened to $330.3 million from $282.3 million a year earlier, largely driven by its SolarCity acquisition."
+tesla,2017-5,"Tesla has much riding on the Model 3, which could finally make the cash-hemorrhaging automaker profitable. But while much of the company hype has focused on the car due in July, Tesla on Wednesday made a sales pitch for its overshadowed Model S."
+tesla,2017-5,"Tesla is anxious that the $35,000 Model 3 - which will likely not be delivered in volume until 2018 - avoids cannibalizing the higher-margin Model S, which lists at about double the starting price."
+tesla,2017-5,"In its earnings release, Tesla stated that a key challenge for the company would be to eliminate misperceptions about the differences between the Model S and the Model 3."
+tesla,2017-5,"""We want to be super clear that Model 3 is not version three of our car. Model 3 is essentially a smaller, more affordable version of the Model S with fewer features,"" Musk said on a conference call, adding buyers erroneously thought the Model 3 would be more advanced."
+tesla,2017-5,"""The Model S will be better than Model 3,"" he added. ""As it should be, as it's a more expensive car."""
+tesla,2017-5,"Tesla needs to ramp up for a deluge of Model 3 customers, and the company said it would be adding nearly 100 retail, delivery and service locations worldwide, representing a 30 percent increase. Tesla also said it was also working to improve efficiency, citing vehicle repair times that have fallen by 35 percent due to the use of remote diagnostics."
+tesla,2017-5,"The company reiterated its forecast of delivering 47,000-50,000 Model S and Model X cars in the first half of 2017, a target it announced earlier this year."
+tesla,2017-5,"Still, customer deposits fell 7 percent in the quarter, which could suggest interest in Tesla's current product line, the Model S and Model X, is decreasing."
+tesla,2017-5,"On a per-share basis, Tesla's net loss narrowed to $2.04 from $2.13."
+tesla,2017-5,"Excluding items, the company lost $1.33 per share. Analysts on average had expected a loss of 81 cents per share, according to Thomson Reuters I/B/E/S."
+tesla,2017-5,"Tesla's results reflect the first full quarter that includes solar panel installer SolarCity, which it bought last year. [nL1N1DI2LO]"
+tesla,2017-5,"The Silicon Valley-based automaker last month became the most valuable U.S. carmaker by market capitalization, pulling ahead of Detroit's auto heavyweights Ford Motor Co and General Motors Co . [nL1N1HI1EI]"
+tesla,2017-5,"Up to Wednesday's close, shares of Tesla had risen 45.6 percent this year."
+tesla,2017-5,{{20170503T214457.752+0000}}BREAKINGVIEWS-Tesla demonstrates valuation staying power(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+tesla,2017-5,"NEW YORK, May 3 (Reuters Breakingviews) - Tesla is demonstrating how its electric cars can generate valuation staying power. Chief Executive Elon Musk oversaw a loss that missed Wall Street expectations by a country mile, even as the top line clocked in ahead of forecasts. More importantly, he's vowing that annual Model 3 production alone can meet the company's full target by the end of next year."
+tesla,2017-5,"Musk has made a habit of missing goals in the past. Good executives do learn from their mistakes and Tesla has taken several steps to try to bulk up its facilities, including buying automated manufacturing firm Grohmann Engineering six months ago. Deliveries of 25,000 Model S and Model X vehicles in the first three months of the year were 69 percent higher than a year ago."
+tesla,2017-5,"Growing from the 76,000 that rolled off the line last year to a run rate of half a million in 2018 would be a big shift, however. There are already signs of internal friction: Klaus Grohmann, who founded the eponymous firm Tesla acquired, was ousted last month after clashing with Musk over strategy, Reuters reported, citing an unnamed source."
+tesla,2017-5,"First, the margins on a car with a base price of $35,000 will be much lower than ones on the Models S and X, which fetch at least $80,000 apiece. Even with mass production, Tesla is unlikely to achieve pre-tax margins much better than the 10 percent to 12 percent to which the likes of Daimler and BMW typically aspire."
+tesla,2017-5,"At almost 26 times 2020 estimates, Tesla's stock is trading at a level implying Silicon Valley-style margins of 30 percent and near-perpetual vehicle-sales growth. Despite Musk's undeniable kinetic energy, that's simply unjustifiable."
+tesla,2017-5,"- Tesla on May 3 reported a first-quarter loss attributable to common shareholders of $215 million, or $1.33 a share, missing the consensus estimate of an 84-cent loss."
+tesla,2017-5,- Revenue of $2.7 billion was 135 percent higher than the same period last year and beat expectations of $2.6 billion.
+tesla,2017-5,"- For previous columns by the author, Reuters customers can click on [CURRIE/]"
+tesla,2017-5,"UPDATE 6-Investors cheer Delphi's bet on electric, connected cars - Reuters News"
+tesla,2017-5,"{{20170503T210728.931+0000}}UPDATE 6-Investors cheer Delphi's bet on electric, connected cars(Adds analyst comment, closing share price)"
+tesla,2017-5,"DETROIT, May 3 (Reuters) - Automotive supplier Delphi Automotive Plc on Wednesday said it plans to spin off operations tied to internal combustion engines and focus on technology for electrically powered and self-driving vehicles, boosting its share price and highlighting the challenges for legacy auto industry players."
+tesla,2017-5,"Vehicles driven by humans and powered with petroleum will dominate roads from Shanghai to San Francisco for years to come, but investors who supply the capital to produce such vehicles are signaling a belief that after a century-long run, internal combustion cars are a sunset industry."
+tesla,2017-5,"The most dramatic symbol of this turn is electric luxury car maker Tesla Inc's ascent this year to a higher market capitalization than either Ford Motor Co or General Motors Co . Despite a recent slump in U.S. sales, the Detroit giants are robustly profitable, while Tesla has yet to earn a full year profit. Tesla reports first-quarter results later Wednesday."
+tesla,2017-5,"Delphi shares rose as much as 12 percent on Wednesday after the company announced its plan to separate into two entities - one dedicated to internal combustion technology and the other focused on electrification and automation. The shares closed at $87.01, up nearly 11 percent, representing about $2 billion in added market value."
+tesla,2017-5,"""There's a whole element of the componentry of the car that Wall Street values at a lower level,"" Delphi Chief Executive Officer Kevin Clark told Reuters in an interview on Wednesday."
+tesla,2017-5,Other big auto suppliers are making similar calls. German auto supplier Robert Bosch GmbH [ROBG.UL] earlier this week said it had sold its starters and alternators business to a Chinese mining company. [nL4N1I42Y1]
+tesla,2017-5,"Germany's Rheinmetall also tried to float its Kolbenschmidt Pierburg unit, which is specialized in the development, manufacture and aftermarket supply of pistons, engine blocks, and plain bearings back in 2012. However, it was forced to call off the IPO due to a market slump and a lack of investor enthusiasm for a stock with heavy exposure to combustion engine technology, bankers said."
+tesla,2017-5,"Combustion engines are taking a hit from regulators, particularly those in Europe and China, who want to slash greenhouse gas and smog forming emissions on a fast timetable. That risk was exacerbated by Volkswagen's diesel emissions scandal. As a result of ""Dieselgate,"" politicians in cities like Stuttgart have discussed banning diesel vehicles from the inner city, leading customers to abandon diesel cars."
+tesla,2017-5,"On Wednesday, German car registration figures provided by Germany's KBA federal motor authority, showed that demand for diesel engine vehicles plunged by 19.3 percent in April, to a market share of 41.3 percent of overall registrations.[nL8N1I532M]"
+tesla,2017-5,Delphi's Clark said he expects diesel production to decline by about 3 percent a year for the next few years.
+tesla,2017-5,China's government has also set aggressive targets for electric vehicles that are forcing carmakers to accelerate electric vehicle plans. [nL3N1GQ4AT]
+tesla,2017-5,"U.S. auto supplier Visteon , like Delphi, has shed most of its traditional car parts making operations, and is focused on connected vehicle technology and infotainment."
+tesla,2017-5,"Clark said Delphi's powertrain business, which has about $4.5 billion in annual revenues and does not yet have a name, has room to grow. The company will have more freedom to invest in that growth as its managers no longer have to compete for capital with opportunities presented by the increasing computerization of cars, Clark said."
+tesla,2017-5,"The powertrain company, which accounted for about 27 percent of Delphi revenues last year, also could seize opportunities to consolidate other players in the legacy market, capitalizing on the continued demand for internal combustion and the regulatory pressure to make them cleaner, a person familiar with Delphi's strategy said."
+tesla,2017-5,"Analysts on Wednesday estimated Delphi's powertrain business will be valued at six to seven times earnings before interest and taxes, while the electronic and autonomous technology side of the company will likely command a higher valuation."
+tesla,2017-5,"The electronic Delphi - which also could get a new name - will compete in a potential market the company estimates at more than $100 billion a year, nearly twice the size of the internal combustion market. Delphi said its electronic systems units had about $12 billion in revenue last year."
+tesla,2017-5,"Delphi ""is best positioned to be the 'picks and shovels' supplier of big data solutions"" to automakers, Barclays analyst Brian Johnson wrote in a note on Wednesday."
+tesla,2017-5,"But the market of the future is still largely in the future. Most established car makers, for instance, have not adopted over the air software upgrades on a mass scale, and depend entirely on internal combustion engine cars and sport utilities for profits."
+tesla,2017-5,"Clark said over the next three to five years demand will accelerate for high speed in-vehicle data networking systems, autonomous driving technology and over the air software updates. Delphi has acquired a company that enables over the air software updates, as well as a company that develops high speed data networks. Clark said Delphi could make more acquisitions to expand its electronic systems capability, or forge more partnerships."
+tesla,2017-5,"Delphi has partnerships through its autonomous vehicle business with Intel Corp and Israeli autonomous vehicle technology firm Mobileye , which is being bought by Intel for $15.3 billion."
+tesla,2017-5,"""If we can do more things like that"" the Mobileye-Intel partnership, ""that would be great,"" Clark said."
+tesla,2017-5,Delphi is betting that many automakers will ultimately opt to buy a standard system rather than invest in one-of-a-kind systems of their own. Delphi said it expects to launch its turnkey autonomous driving system with a customer in 2019.
+tesla,2017-5,"The spinoff will be tax free and is expected to be completed by March 2018, Delphi said."
+tesla,2017-5,Tesla Inc reports Q1 non-GAAP loss per share of $1.33 - Reuters Investor Briefs
+tesla,2017-5,"{{20170503T210044.866+0000}}Tesla Inc reports Q1 non-GAAP loss per share of $1.33May 3 (Reuters) - Tesla Inc <TSLA.O>::Quarterly loss per share $2.04.Quarterly non-GAAP loss per share $1.33.Q1 revenue $2.70 billion versus $1.15 billion.Q1 earnings per share view $-0.81, revenue view $2.62 billion -- Thomson Reuters I/B/E/S.Q1 automotive revenue $2.29 billion versus $1.03 billion"
+tesla,2017-5,{{20170503T203809.631+0000}}BRIEF-Tesla Inc reports Q1 non-GAAP loss per share of $1.33May 3 (Reuters) - Tesla Inc :
+tesla,2017-5,* Tesla says Model 3 on track for initial production in July
+tesla,2017-5,"* Tesla says first half outlook remains unchanged at 47,000 to 50,000 deliveries"
+tesla,2017-5,* Says Model 3 vehicle development is nearly complete as co approaches the start of production
+tesla,2017-5,* Says expect Q2 GAAP and non-GAAP operating expenses to be flat to slightly up from Q1
+tesla,2017-5,"* Says this year, plan to add nearly 100 retail, delivery and service locations globally, representing an approximately 30% increase in facilities"
+tesla,2017-5,* Says expect that year-to-date capital expenditures will be slightly over $2 billion by the time co starts Model 3 production
+tesla,2017-5,"* Says preparations at production facilities on track to support the ramp of Model 3 production to 5,000 vehicles per week at some point in 2017"
+tesla,2017-5,* Says expect additional investments through the remainder of the year as co increases automation and add production capacity
+tesla,2017-5,"* Says preparations at production facilities on track to support the ramp of Model 3 production to 10,000 vehicles per week at some point in 2018"
+tesla,2017-5,* Says plan to start pilot manufacturing of solar roof tiles in Q2 at its Fremont facility
+tesla,2017-5,"* Says in 2017, expects to at least double the number of superchargers, destination charging connectors globally to more than 10,000 and 15,000, respectively"
+tesla,2017-5,"* Says working towards fully staffing more than 70 Tesla stores in U.S., abroad with dedicated Tesla Energy sales people over next two quarters"
+tesla,2017-5,"* Says solar energy generation deployments in Q1 2017 declined year-over-year, but had better financial results"
+tesla,2017-5,"* Says moving past Q2, as Model 3 becomes available, one of co's challenges will be to eliminate any misperception about differences between Model S and Model 3"
+tesla,2017-5,"* Says ""our energy generation and storage business is positioned for accelerating growth later this year"""
+tesla,2017-5,* Says expect that Model S and Model X vehicle costs should continue to decline each quarter
+tesla,2017-5,"* Says ""we continue to be confident about achieving the cost synergies and cash generation targets established when we acquired SolarCity"""
+tesla,2017-5,* Says non-GAAP automotive gross margin should decline by about 250 basis points in Q2
+tesla,2017-5,"{{20170503T201319.653+0000}}Tesla's revenue more than doubles, helped by record deliveriesMay 3 (Reuters) - Electric-car maker Tesla Inc reported quarterly revenue that more than doubled, driven by record deliveries of its Model X sports utility vehicles and Model S sedans."
+tesla,2017-5,"Tesla also backed its target of launching its highly anticipated mass market Model 3 sedan later this year, said the car was on track for initial production in July."
+tesla,2017-5,"On a per-share basis, net loss narrowed to $2.04 per share from $2.13 per share."
+tesla,2017-5,"Tesla's results reflect the first full quarter that includes solar panel installer SolarCity, which it bought last year."
+tesla,2017-5,"{{20170503T182743.962+0000}}Einhorn, nursing losses on Tesla, says investors 'hypnotized' by Musk By Jennifer Ablan"
+tesla,2017-5,"NEW YORK, May 3 (Reuters) - Hedge fund manager David Einhorn said on Wednesday that investors remain charmed by Tesla Inc Chief Executive Elon Musk, boosting the stock by 30 percent in the first quarter, even though the electric car maker's performance did not justify such gains."
+tesla,2017-5,"Einhorn's Greenlight Capital hedge fund bet against Tesla shares during the first three months of year, racking up losses on its short position. Greenlight did not disclose its current position on Tesla."
+tesla,2017-5,"The fund's basket of shorts against what it considers to be bubble stocks, including Tesla, hurt its performance during the quarter, Einhorn said on an earnings conference call for Greenlight Capital Re Ltd, the insurer where he oversees its investment portfolio."
+tesla,2017-5,"Einhorn also discussed General Motors Co , its biggest long position, but the automaker's shares rose just 1.5 percent during the first three months of this year. ""GM trades at a significant discount to its intrinsic value despite the company's strong operating performance,"" Einhorn said."
+tesla,2017-5,"In March, Greenlight announced a plan for GM to ""unlock substantial shareholder value"" by splitting its common into two classes of common equity. [nL1N1HX1A2]"
+tesla,2017-5,"Einhorn said by placing what Greenlight believes are conservative valuations on each component, ""it's easy to get a value that is 27 percent to 79 percent higher than the current share price."""
+tesla,2017-5,"""We generally avoid public activism, but in this case management has misrepresented our idea, and we think our fellow shareholders deserve an opportunity of new way the merits of our plan for themselves,"" Einhorn said."
+tesla,2017-5,"For its part, Einhorn suggested that Tesla remained a short position for Greenlight."
+tesla,2017-5,"""For the time being, investors remain hypnotized by Tesla's CEO,"" Einhorn said. ""We're skeptical that the company will be able to mass market its Model 3 at volumes and margins and justify the current valuation."""
+tesla,2017-5,"Model 3, Tesla's third-generation car, is on track for volume production by September, Musk said in February. He expects the rollout to help Telsa deliver five times its current annual sales volume, a key target in the automaker's efforts to stop burning cash. [nL4N1G75CD][nL1N1HW025]"
+tesla,2017-5,"Overall, Einhorn has had company in Tesla: Traders short-selling Tesla's soaring stock have lost $3.7 billion this year, eclipsing the combined losses of traders shorting Apple Inc , Amazon.com and Netflix . [nL1N1I4170]"
+tesla,2017-5,"{{20170503T144027.425+0000}}SpaceX president says the company has no IPO plansNEW YORK, May 3 (Reuters) - Elon Musk's rocket company SpaceX has no plans for an initial public offering, the company's president said on Wednesday."
+tesla,2017-5,"Earlier, rumors circulated that SpaceX was preparing for an IPO, but President Gwynne Shotwell said in an email that was ""not true."""
+tesla,2017-5,"BUZZ-Delphi: Stock in turbo mode, fueled by spinoff - Reuters News"
+tesla,2017-5,"{{20170503T140401.473+0000}}BUZZ-Delphi: Stock in turbo mode, fueled by spinoff** Delphi Automotive shares jump 11.9 pct to $87.78 in Weds morning trading after spinoff announcement, quarterly results"
+tesla,2017-5,** DLPH touches highest since late 2015 and is biggest pct gainer in the S&P 500 <.SPX>
+tesla,2017-5,** Automotive supplier said it would spin off its powertrain unit to focus on developing technology for autonomous driving systems and electrically powered vehicles [nL1N1I50E2]
+tesla,2017-5,** Delphi has shed most of its lower-margin automotive supplier businesses in recent years and is seen as one of the companies best placed to grow as the industry moves toward self-driving vehicles
+tesla,2017-5,"** Co's Q1 EPS of $1.59 topped estimate of $1.46, according to Thomson Reuters I/B/E/S"
+tesla,2017-5,"** YTD, Delphi shares now up nearly 30 pct vs only a 0.6 pct gain for the S&P composite 1500 automobiles and components index <.SPCOMAU>"
+tesla,2017-5,"** 18 analysts currently rate the stock ""buy"" or ""strong buy"", three rate ""hold"" and two rate ""sell"", according to Thomson Reuters data; stock is closing in on median target price among analysts of $90"
+tesla,2017-5,** U.S. automaker shares fell broadly on Tues as major automakers posted declines in U.S. new vehicle sales for April [nL1N1I40OF]
+tesla,2017-5,"{{20170502T201428.356+0000}}UPDATE 3-Wall St fears end of boom as automakers' April U.S. sales drop(Adds annualized sales rate, analyst commentary, context, background, updates stock prices)"
+tesla,2017-5,"DETROIT, May 2 (Reuters) - Major automakers on Tuesday posted declines in U.S. new vehicle sales for April in a sign the long boom cycle that lifted the American auto industry to record sales last year is losing steam, sending carmaker stocks down."
+tesla,2017-5,"The drop in sales versus April 2016 came on the heels of a disappointing March, which automakers had shrugged off as just a bad month. But two straight weak months has heightened Wall Street worries the cyclical industry is on a downward swing after a nearly uninterrupted boom since the Great Recession's end in 2010."
+tesla,2017-5,"Auto sales were a drag on U.S. first-quarter gross domestic product, with the economy growing at an annual rate of just 0.7 percent according to an advance estimate published by the Commerce Department last Friday. [nLLASFEDIC]"
+tesla,2017-5,Excluding the auto sector the GDP growth rate would have been 1.2 percent.
+tesla,2017-5,"Industry consultant Autodata put the industry's seasonally adjusted annualized rate of sales at 16.88 million units for April, below the average of 17.2 million units predicted by analysts polled by Reuters."
+tesla,2017-5,General Motors Co shares fell 2.9 percent while Ford Motor Co slid 4.3 percent and Fiat Chrysler Automobiles NV's U.S.-traded shares tumbled 4.2 percent.
+tesla,2017-5,The U.S. auto industry faces multiple challenges. Sales are slipping and vehicle inventory levels have risen even as carmakers have hiked discounts to lure customers. A flood of used vehicles from the boom cycle are increasingly competing with new cars.
+tesla,2017-5,"The question for automakers: How much and for how long to curtail production this summer, which will result in worker layoffs?"
+tesla,2017-5,"To bring down stocks of unsold vehicles, the Detroit automakers need to cut production, and offer more discounts without creating ""an incentives war,"" said Mark Wakefield, head of the North American automotive practice for AlixPartners in Southfield, Michigan."
+tesla,2017-5,"""We see multiple weeks (of production) being taken out on the car side,"" he said, ""and some softness on the truck side."""
+tesla,2017-5,"Rival automakers will be watching each other to see if one is cutting prices to gain market share from another, he said, instead of just clearing inventory."
+tesla,2017-5,"Just last week GM reported a record first-quarter profit, but that had almost zero impact on the automaker's stock. [nL1N1I00IG]"
+tesla,2017-5,"The iconic carmaker, whose own interest was once conflated with that of America's, has slipped behind luxury carmaker Tesla Inc in terms of valuation."
+tesla,2017-5,"On Tuesday, Tesla's market value was $53 billion, nearly $3 billion larger than GM's. [nL1N1I4170]"
+tesla,2017-5,"GM said April sales fell 6 percent, but crossovers and trucks continued to see strong growth."
+tesla,2017-5,"Sales at Ford, the No. 2 U.S. automaker by sales after GM, fell 7.2 percent in April, while Toyota <7203.T> recorded a drop of 4.4 percent and FCA sales were off 7 percent."
+tesla,2017-5,"U.S. consumers have increasingly shunned cars in favor of larger crossovers, SUVs and trucks. While automakers posted steep sales declines for cars in April, SUVs, crossovers and trucks were either up or off only slightly."
+tesla,2017-5,"New vehicle sales hit a record 17.55 million units in 2016. But as the consumer appetite for new cars has waned, automakers have leaned more heavily on discounts."
+tesla,2017-5,GM said its consumer discounts were equivalent to 11.7 percent of the transaction price. The automaker also said its inventory level rose to 100 days of supply at the end of April versus around 70 days at the end of 2016.
+tesla,2017-5,"Recent levels have worried analysts, and GM has promised inventories will be down by the end of 2017."
+tesla,2017-5,"On a conference call Mark LaNeve, Ford's vice president for U.S. marketing, sales and service, insisted the industry was ""relatively constrained"" in offering discounts in April."
+tesla,2017-5,"Ford car sales dropped 21 percent and trucks declined 4.2 percent, while SUV sales rose 1.2 percent."
+tesla,2017-5,"Toyota's luxury Lexus brand posted an 11.1 percent slide. U.S. car sales at the Japanese automaker were down 10.4 percent, while truck sales were up 2.1 percent."
+tesla,2017-5,"Nissan Motor Co Ltd <7201.T> said April U.S. sales were off 1.5 percent, but SUVs, crossovers and trucks jumped 11 percent."
+tesla,2017-5,"Honda Motor Co Ltd <7267.T> reported a 7 percent decline in sales in April, with cars off 7.4 percent and trucks up just 0.8 percent."
+tesla,2017-5,"{{20170502T192114.790+0000}}What to Watch in the Day Ahead - Wednesday, May 3(The Day Ahead is an email and PDF publication that includes the day's major stories and events, analyses and other features. To receive The Day Ahead, Eikon users can register at [DAY/US]. Thomson One users can register at RT/DAY/US. All times in ET/GMT)"
+tesla,2017-5,"Social media giant Facebook Inc is expected to post a jump in revenue in the first quarter. For the past few quarters, Facebook's mobile-ad sales have been soaring, boosting its overall growth. However, the company warned in November that ad growth would likely slow ""meaningfully"" due to limits on ""ad load."" Facebook Chief Executive Mark Zuckerberg said in February that the company expects a major ramp-up in hiring and other spending during 2017 as it invests in video and other priorities."
+tesla,2017-5,"Payrolls processor ADP's April jobs data is expected to show U.S. companies added 175,000 workers in April. ADP showed an addition of 263,000 workers in March, which was the most since December 2014. (0815/1215) Separately, the Institute for Supply Management (ISM) is likely to report that its non-manufacturing index increased to 55.8 in April from 55.2 in March. (1000/1400)"
+tesla,2017-5,"Health insurer Humana Inc, which has preannounced its first-quarter profit, is likely to benefit from strength in its Medicare Advantage business. Investors will watch out for comments about President Donald Trump and Republicans' plan to revamp the U.S. healthcare system. Humana has said it would exit the Obamacare business in 2018."
+tesla,2017-5,"Health insurer WellCare Health Plans Inc, which primarily focuses on government-sponsored plans, will report its first-quarter results. Investors will be keen to hear how the mid-cap health insurer would likely manage under growing uncertainties about the Medicaid program, which has largely boosted the company's profit in the last few years. Any update on the insurer's plans to bolster its Medicare Advantage business to offset any likely hit from Obamacare repeal would also interest investors."
+tesla,2017-5,"Luxury electric car maker Tesla Inc will report its results for the first quarter, following which Chief Executive Elon Musk will hold an investor call. The company said in April that first-quarter vehicle deliveries jumped 69 percent from a year ago to a quarterly record of 25,000 vehicles, bouncing back from delays in the previous quarter."
+tesla,2017-5,"Yum Brands Inc reports its first-quarter earnings. The company's Pizza Hut chain is expected to continue its string of falling same-store sales, while rival Domino's reported a better-than-expected 14 percent jump in U.S. comparable sales. However, Taco Bell is expected to have benefited from promotions while KFC is expected to have had steady growth."
+tesla,2017-5,"Kraft Heinz Foods Co, which makes Heinz ketchup, is likely to report slower first-quarter revenue growth as the company has been forced to adjust its products for shoppers who increasingly prefer fresh food over packaged food. However, Kraft has also been benefiting from lower prices of dairy products and coffee, which is likely to lift its quarterly profit. Investors will seek commentary on the company's plans, following its failed bid to take over Anglo-Dutch company Unilever Plc."
+tesla,2017-5,"Media company Time Warner Inc, which is being bought by AT&T Inc, is expected to report a rise in first-quarter revenue, helped by success of its movies 'Kong' and 'The Lego Batman Movie' and higher cable revenues. In January, AT&T said it expected to be able to bypass the U.S. FCC in its planned $85.4 billion acquisition of Time Warner because it would not seek to transfer any significant Time Warner licenses."
+tesla,2017-5,"New York Times Co reports its first-quarter earnings, which are expected to show a drop, hurt by higher operating costs. However, the newspaper and magazine publisher has been ramping up its digital business to offset its declining print sales."
+tesla,2017-5,"Sprint Corp, the No.4 wireless carrier in the United States, is expected to post a rise in fourth-quarter profit as the company benefits from its revamped plans that offer unlimited data. Investors and analysts will be looking out for any comments on a potential deal with rival T-Mobile."
+tesla,2017-5,"Exchange and clearinghouse operator Intercontinental Exchange Inc is expected to report an increase in its first-quarter earnings, helped by higher futures volumes. The New York Stock Exchange owner may give an update on the potential for cross-border mergers and acquisitions, following the recent failure of the Deutsche Boerse-LSE tie up."
+tesla,2017-5,"Aircraft parts maker Spirit AeroSystems Holdings Inc is expected to report lower revenue and profit for the first quarter due to fewer deliveries to Boeing Co, its biggest customer. Spirit has been working to diversify away from dependence on Boeing, and has been pitching for increased business from the planemaker's rival, Airbus. Investors will be looking for an update on 2017 financial forecast."
+tesla,2017-5,"Cosmetics maker Estee Lauder Co Inc, which will report its third-quarter results, has been struggling with low mall traffic in the United States as shoppers increasingly prefer to buy personal products online. Investors will look out for comments on tourist spending, both within the United States and in its major international markets."
+tesla,2017-5,Fitbit Inc is expected to post its second straight fall in revenue in the first quarter as the company grapples with waning demand for its fitness tracking bands in a maturing market. Analysts and investors will be on the lookout for a new product cycle.
+tesla,2017-5,"Denver-based brewer Molson Coors Brewing Co is expected to report a jump in sales and profit in the first quarter, helped by its $12 billion acquisition last year of the remaining 58 percent of MillerCoors from SABMiller. A strong U.S. dollar is likely to have tempered earnings. Investors will be looking for comments on currency drag hampering outlook."
+tesla,2017-5,"U.S. agricultural trader Bunge Ltd reports its first-quarter earnings as global stocks of the grain and oilseeds it trades and processes balloon to all-time highs. Investors will be watching for clues on crop marketing in Brazil and Argentina, where farmers are harvesting bumper corn and soy crops. A large share of Bunge's assets are in South America."
+tesla,2017-5,"Nitrogen fertilizer producer CF Industries Holdings Inc will report its first-quarter results. However, investors are expected to be more interested in thoughts on new U.S. production coming online this year, which could weigh on prices."
+tesla,2017-5,"Shale oil company Pioneer Natural Resources is expected to report a first-quarter profit, compared with a year-ago loss, as it received higher prices for the crude it produces. The rise in crude prices motivated Pioneer to set a $2.8 billion spending target for the year, 8 percent above last year's levels. Investors will seek details of the company's drilling plans for the year."
+tesla,2017-5,Canadian grocery and pharmacy retailer Loblaw Cos is expected to report a higher first-quarter profit as its cost-cutting efforts pay off. The company has been streamlining operations to counter intense competition from U.S. discount stores and ecommerce companies. Analysts and investors will look for comments on pricing and further cost cuts.
+tesla,2017-5,Home Capital Group Inc is due to report earnings for the first quarter as buyout companies consider bids for the embattled alternative mortgage lender. The company has drawn on a high-interest loan as savers pull funds after a securities regulator accused its top executives of hiding mortgage broker fraud from investors.
+tesla,2017-5,"Torstar Corp, the owner of one of Canada's largest circulation daily newspapers, is expected to post a smaller quarterly loss in the first quarter as a growing digital business offsets declines in its print advertising unit. Investors will seek details of the company's plans to grow its digital business."
+tesla,2017-5,"Industrial output in Brazil is likely to fall 1 percent in March, compared to a slight increase of 0.10 percent in February. Production is expected to have increased 2.10 percent from a year earlier.(0800/1200)"
+tesla,2017-5,{{20170502T185112.509+0000}}Tesla is most painful stock for short sellers in 2017By Noel Randewich
+tesla,2017-5,"SAN FRANCISCO, May 2 (Reuters) - Traders short selling Tesla's soaring stock have lost $3.7 billion this year, eclipsing the combined losses of traders shorting Apple , Amazon.com and Netflix ."
+tesla,2017-5,"The Palo Alto, California, company's stock has become a battleground between investors betting Chief Executive Elon Musk will revolutionize the automobile industry and skeptics who question his aggressive production targets."
+tesla,2017-5,"Those conflicting views of the electric-car maker have deepened in recent weeks, with short sellers increasing their exposure even as paper losses mount and Tesla's stock hits new highs."
+tesla,2017-5,"Short bets against Tesla have grown to $10.1 billion from $8.7 billion at the start of April, and during that time short sellers have racked up paper losses of $1.4 billion, according to S3 Partners, a financial analytics firm. Tesla's stock has climbed 15 percent in the same period and has surged 50 percent so far in 2017."
+tesla,2017-5,"""You have your momentum guys riding this stock up and making a fantastic return, and the fundamental guys holding onto their shorts and building them and saying 'this can't continue' and waiting for the shoe to drop,"" said Ihor Dusaniwsky, S3 Partners' head of research."
+tesla,2017-5,"""It's one of your classic yin and yangs on Wall Street."""
+tesla,2017-5,"Overall this year, short sellers betting against Tesla have lost $3.7 billion, far more than has been lost shorting any other U.S. stock, according to S3."
+tesla,2017-5,"The next three most painful stocks for short sellers this year have been Apple, Amazon.com and Netflix. Short sellers have lost $1.5 billion betting against Apple, $1.1 billion betting against Amazon.com and $776 million on Netflix, Dusaniwsky said."
+tesla,2017-5,"In Wednesday's quarterly report, investors will look for an update on Tesla's plan to launch its mass-market Model 3 sedan in the second half of 2017 and quickly increase production to a target of 500,000 cars per year in 2018. Last year it sold 76,230 cars, missing its target of at least 80,000 vehicles."
+tesla,2017-5,"""Investors will likely react strongly to any updates to Model 3 timing,"" UBS analyst Colin Langan wrote in a preview. Tesla in early April overtook General Motors as the largest U.S. automaker by market capitalization."
+tesla,2017-5,"On Tuesday, Tesla's market value was $53 billion, nearly $3 billion larger than GM's. GM's stock fell 2.8 percent after it reported a decline in U.S. new vehicle sales for April in a fresh sign a long boom cycle that lifted the American auto industry to record sales last year is losing steam. [nL1N1I40OF]"
+tesla,2017-5,"{{20170502T135532.829+0000}}Tesla executives listed as officers at materials recycling firmMay 2 (Reuters) - Two top Tesla Inc executives were listed as officers at a materials recycling company, Redwood Materials Inc, indicating possible ties between the companies."
+tesla,2017-5,"The Redwood City, California-based company has Tesla's chief technology officer, JB Straubel, and head of special projects, Andrew Stevenson, as executive officers, according to the filing."
+tesla,2017-5,"Redwood Materials, which says on its website it plans to focus on recycling, re-manufacturing and re-using materials, raised $2 million from a single undisclosed investor last month, according to the filing."
+tesla,2017-5,Tesla could not be immediately reached for comment. The phone number listed on Redwood's filing reached the voicemail of Stevenson.
+tesla,2017-5,"In a keynote in March, the electric-car maker listed ""re-thinking the materials supply chain"" as one of its focus areas."
+tesla,2017-5,Elon Musk-led Tesla has been diversifying beyond electric cars. The company bought solar panel installer SolarCity last year to increase its scale in electrical energy management systems and battery production.
+tesla,2017-5,"Tesla said in January it has started mass production of lithium-ion battery cells at its gigafactory in Nevada along with Japan's Panasonic Corp <6752.T>, ahead of the launch of its mass-market sedan Model 3."
+tesla,2017-5,"BUZZ-U.S. STOCKS ON THE MOVE-Apple, Twitter, Facebook, Neurotrope, First NBC Bank, Genworth, Ocwen - Reuters News"
+tesla,2017-5,"{{20170501T172408.096+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Apple, Twitter, Facebook, Neurotrope, First NBC Bank, Genworth, Ocwen* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,The S&P 500 was higher and the Nasdaq hit a record high on Monday as gains in
+tesla,2017-5,"technology stocks, led by Apple, more than offset weak economic data. [.N]"
+tesla,2017-5,"At 13:07 ET, the Dow Jones Industrial Average <.DJI> was down 0.04 percent"
+tesla,2017-5,"at 20,931.87. The S&P 500 <.SPX> was up 0.20 percent at 2,388.92 and the Nasdaq"
+tesla,2017-5,Wall St Weekahead-Hot earnings to keep fire under growth-stock rally
+tesla,2017-5,"In first 100 days, a reversal of fortune for Trump favorites on Wall Street"
+tesla,2017-5,BUZZ-NYSE breadth/momentum measure looks to tip the scale [nL1N1I30BW]
+tesla,2017-5,BUZZ-Buyback ETFs hit with outflows as markets punish share repurchases
+tesla,2017-5,BUZZ-Twitter Inc: Set for 3-mth high as Dorsey buys more stock [nL4N1I31ZJ]
+tesla,2017-5,BUZZ-Western Digital: Jefferies downgrades to 'hold' on market worries
+tesla,2017-5,BUZZ-Diamond Offshore Drilling: Hits 21-yr low as co says offshore yet to
+tesla,2017-5,"UPDATE 3-Dish revenue misses estimates, loses more subscribers than expected"
+tesla,2017-5,UPDATE 1-Duke Realty to sell medical office assets to HTA for $2.8
+tesla,2017-5,BUZZ-Neurotrope Inc: More than halves as Alzheimer's drug data disappoints
+tesla,2017-5,Fox in talks with Blackstone to buy Tribune-sources; Nexstar also been carrying
+tesla,2017-5,"out due diligence on Tribune, weighing a bid this week-sources; [nL1N1I300N]"
+tesla,2017-5,"Sinclair Broadcast also bidding for Tribune, Reuters reported in March"
+tesla,2017-5,BUZZ-Twenty-First Century Fox in talks to buy Tribune Media [nL4N1I32EM]
+tesla,2017-5,UPS air maintenance workers threaten strike ahead of shareholders meeting
+tesla,2017-5,U.S. regulator shuts First NBC Bank; Whitney Bank to reopen branches
+tesla,2017-5,China Oceanwide seeks more time for U.S. approval of Genworth deal [nL8N1I08Q7]
+tesla,2017-5,BUZZ-Genworth Financial Inc: China Oceanwide seeks more time for buyout deal
+tesla,2017-5,BUZZ-Intra-Cellular Therapies Inc: On track to open at record low [nL4N1I3293]
+tesla,2017-5,BUZZ-Aeterna Zentaris: Plunges after cancer drug fails late-stage
+tesla,2017-5,BRIEF-Jive Software says to be bought by Aurea family of companies [nASA09LM0]
+tesla,2017-5,Stock gains for second straight session after IPO on Friday
+tesla,2017-5,BUZZ-Affiliated Managers Group Inc: Set for worst day in 10 months
+tesla,2017-5,BRIEF-Savara says has entered into a loan agreement with silicon valley bank
+tesla,2017-5,BUZZ-Insperity Inc: Biggest pct loss in 6-months on revenue miss [nL4N1I32ML]
+tesla,2017-5,BUZZ-Altisource Portfolio: Rises as biggest customer signs MSR deal
+tesla,2017-5,"{{20170501T155800.464+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Tesla, Apple, Neurotrope, Ocwen, First NBC, Intra-Cellular, Aeterna* Eikon search string for individual stock moves: STXBZ"
+tesla,2017-5,Wall Street was higher in late morning trading on Monday as gains in technology
+tesla,2017-5,"stocks, led by Apple, more than offset weak economic data and pushed the Nasdaq"
+tesla,2017-5,"At 11:44 ET, the Dow Jones Industrial Average <.DJI> was unchanged at"
+tesla,2017-5,Wall St Weekahead-Hot earnings to keep fire under growth-stock rally
+tesla,2017-5,"In first 100 days, a reversal of fortune for Trump favorites on Wall Street"
+tesla,2017-5,BUZZ-NYSE breadth/momentum measure looks to tip the scale [nL1N1I30BW]
+tesla,2017-5,BUZZ-Buyback ETFs hit with outflows as markets punish share repurchases
+tesla,2017-5,BUZZ-Twitter Inc: Set for 3-mth high as Dorsey buys more stock [nL4N1I31ZJ]
+tesla,2017-5,BUZZ-Western Digital: Jefferies downgrades to 'hold' on market worries
+tesla,2017-5,BUZZ-Neurotrope Inc: More than halves as Alzheimer's drug data disappoints
+tesla,2017-5,Fox in talks with Blackstone to buy Tribune-sources; Nexstar also been carrying
+tesla,2017-5,"out due diligence on Tribune, weighing a bid this week-sources; [nL1N1I300N]"
+tesla,2017-5,"Sinclair Broadcast also bidding for Tribune, Reuters reported in March"
+tesla,2017-5,BUZZ- Twenty-First Century Fox in talks to buy Tribune Media [nL4N1I32EM]
+tesla,2017-5,U.S. regulator shuts First NBC Bank; Whitney Bank to reopen branches
+tesla,2017-5,China Oceanwide seeks more time for U.S. approval of Genworth deal [nL8N1I08Q7]
+tesla,2017-5,BUZZ-Genworth Financial Inc: China Oceanwide seeks more time for buyout deal
+tesla,2017-5,BUZZ-Intra-Cellular Therapies Inc: On track to open at record low [nL4N1I3293]
+tesla,2017-5,BUZZ-Aeterna Zentaris: Plunges after cancer drug fails late-stage
+tesla,2017-5,Stock gains for second straight session after IPO on Friday
+tesla,2017-5,BUZZ-Affiliated Managers Group Inc: Set for worst day in 10 months
+tesla,2017-5,BUZZ-Insperity Inc: Biggest pct loss in 6-months on revenue miss [nL4N1I32ML]
+tesla,2017-5,"{{20170501T155007.323+0000}}UPDATE 1-Trump signs executive order to modernize U.S. government info tech(Adds details on spending, background on systems, members of council)"
+tesla,2017-5,"WASHINGTON, May 1 (Reuters) - President Donald Trump announced on Monday he has signed an executive order creating a new technology council to ""transfer and modernize"" the U.S. government's information technology systems."
+tesla,2017-5,A White House official confirmed Monday that about 20 technology chief executives will attend meetings at the White House in early June to talk about improving government information technology.
+tesla,2017-5,"""Americans deserve better digital services from their Government. To effectuate this policy, the federal government must transform and modernize its information technology and how it uses and delivers digital services,"" Trump's executive order dated April 28 said."
+tesla,2017-5,"Trump has held a number of meetings with top tech chief executives since becoming president, including Apple Inc , Facebook Inc , Alphabet Inc , IBM Corp , Microsoft Inc , and Tesla Inc ."
+tesla,2017-5,"In March, Trump signed a separate order to overhaul the federal government. Trump tapped Jared Kushner in March to lead a White House Office of American Innovation to leverage business ideas and potentially privatize some government functions as the White House pushes to shrink government, cut federal employees and eliminate regulations."
+tesla,2017-5,"Officially called the American Technology Council, Chris Liddell will be its director. He is the White House director of strategic initiatives, and former Microsoft and General Motors co chief financial officer."
+tesla,2017-5,"A 2016 U.S. Government Accountability Office report publicly estimated the U.S. government spends more than $80 billion in IT annually, but said spending has fallen by $7.3 billion since 2010. In 2015, there were at least 7,000 separate IT investments by the U.S. government, the report said."
+tesla,2017-5,"The $80 billion figure does not include Defense Department classified IT systems; and 58 independent executive branch agencies, including the Central Intelligence Agency, the report said."
+tesla,2017-5,"The GAO report said U.S. government IT investments ""are becoming increasingly obsolete: many use outdated software languages and hardware parts that are unsupported."""
+tesla,2017-5,"The report found some agencies are using systems that have components that are at least 50 years old. ""The Department of Defense uses 8-inch floppy disks in a legacy system that coordinates the operational functions of the nation's nuclear forces,"" the report said."
+tesla,2017-5,The report said the Defense Department plans to update the system by the end of September.
+tesla,2017-5,"The Treasury Department's business master file of tax data pertaining to individual business income taxpayers dates back to the 1950s and using an antiquated computer language ""and operates on an IBM mainframe."""
+tesla,2017-5,"The council is chaired by Trump and includes the defense secretary, homeland security secretary, budget director and director of national intelligence."
+tesla,2017-5,{{20170501T134658.399+0000}}Trump signs executive order to modernize U.S. government info techBy David Shepardson
+tesla,2017-5,"WASHINGTON, May 1 (Reuters) - President Donald Trump announced on Monday he has signed an executive order creating a new technology council to ""transfer and modernize"" the U.S. government's information technology systems."
+tesla,2017-5,A White House official confirmed Monday that about 20 technology chief executives will attend meetings at the White House in early June to talk about improving government information technology.
+tesla,2017-5,"""Americans deserve better digital services from their Government. To effectuate this policy, the federal government must transform and modernize its information technology and how it uses and delivers digital services,"" Trump's executive order dated April 28 said."
+tesla,2017-5,"Trump has held a number of meetings with top tech chief executives since becoming president, including Apple Inc , Facebook Inc , Alphabet Inc , IBM Corp , Microsoft Inc , and Tesla Inc ."
+tesla,2017-5,"In March, Trump signed a separate order to overhaul the federal government. Trump tapped Jared Kushner in March to lead a White House Office of American Innovation to leverage business ideas and potentially privatize some government functions as the White House pushes to shrink government, cut federal employees and eliminate regulations."

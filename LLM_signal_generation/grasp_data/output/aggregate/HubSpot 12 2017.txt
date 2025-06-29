@@ -1,0 +1,753 @@
+firm_id,date,text
+HubSpot,2017-12,"23:52:51  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $699.51) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Tuesday December 31, 2024 07:12 EST -"
+HubSpot,2017-12,"23:52:35  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $699.51) Tuesday December 31, 2024 07:12 EST -"
+HubSpot,2017-12,23:48:30  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,23:07:13  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 33% in 91 days -
+HubSpot,2017-12,22:48:30  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,21:48:09  [GLOSTO] (HUBS.N) - Update: Tuesday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,21:08:08  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 33% in 91 days -
+HubSpot,2017-12,"20:13:11  [TICREP] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Director Lorrie M. Norrington Sells 572 Shares of Stock -"
+HubSpot,2017-12,"17:42:18  [NEWPEO] (HUBS.N) - Hubspot lead independent director Lorrie Norrington sells shares worth $412,755 Monday December 30, 2024 -"
+HubSpot,2017-12,"12:16:39  [MARBEA] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) Director Sells 572 Shares of Stock -- -"
+HubSpot,2017-12,"06:42:04  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $708.16) Monday December 30, 2024 07:12 EST -"
+HubSpot,2017-12,"06:41:58  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $692.80) down 4.4% in 2 days Monday December 30, 2024 11:29 EST -"
+HubSpot,2017-12,04:55:17  [GLOSTO] (HUBS.N AAPL.O) - Hubspot continues to underperform Apple by 15.9% in the past month -
+HubSpot,2017-12,04:55:04  [GLOSTO] (HUBS.N ACN.N) - Hubspot continues to underperform Accenture by 1.8% in the past month -
+HubSpot,2017-12,"04:42:34  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $708.16) Monday December 30, 2024 07:12 EST -"
+HubSpot,2017-12,"04:42:28  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $692.80) down 4.4% in 2 days Monday December 30, 2024 11:29 EST -"
+HubSpot,2017-12,03:53:12  [GLOSTO] (META.O HUBS.N) - Hubspot continues to underperform Meta Platforms by 11.2% in the past month -
+HubSpot,2017-12,"03:42:38  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $692.80) down 4.4% in 2 days Monday December 30, 2024 11:29 EST -"
+HubSpot,2017-12,01:53:23  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,01:53:23  [GLOSTO] (HUBS.N ADI.O) - Hubspot continues to underperform Analog Devices by 5.3% in the past month -
+HubSpot,2017-12,00:53:01  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-12,"00:48:28  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.5% Thursday, December 26, 2024 11:00:00 -"
+HubSpot,2017-12,"00:09:05  [GLOBEA] (HUBS.N .SPX) - Hubspot (HUBS: $708.16) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday December 30, 2024 07:12 EST -"
+HubSpot,2017-12,"00:08:51  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $708.16) Monday December 30, 2024 07:12 EST -"
+HubSpot,2017-12,"23:20:44  [INSMON] (HUBS.N) - HubSpot, Inc. (HUBS) Enhances AI Capabilities with Frame AI Acquisition; BofA Boosts Price Target to $850 on Strong Growth Outlook -- -"
+HubSpot,2017-12,"23:00:00  [RTRS] (XOM.N VOWG_p.DE) - Art of the 2025 deal will be postBidenism (RPT, BREAKINGVIEWS) -"
+HubSpot,2017-12,21:47:59  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,17:00:00  [RTRS] (XOM.N VOWG_p.DE) - Art of the 2025 deal will be postBidenism (BREAKINGVIEWS) -
+HubSpot,2017-12,"23:34:19  [STOOBS] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Director Lorrie M. Norrington Sells 572 Shares -"
+HubSpot,2017-12,"21:02:05  [TRADAJ] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) Director Sells $394,680.00 in Stock -"
+HubSpot,2017-12,"11:55:38  [YAHNEX] (HUBS.N) - AI Leader Recovers From Failed Google Deal, Nears Buy Point -- -"
+HubSpot,2017-12,"22:49:07  [CERGEM] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) Director Sells 572 Shares of Stock -"
+HubSpot,2017-12,10:07:40  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $708.16) drops 2.3% on increasing volatility; Lead Independent Director Lorrie Norrington sells; -$16.51 [2.3%] -
+HubSpot,2017-12,08:49:59  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $708.16) drops 2.3% on increasing volatility; Lead Independent Director Lorrie Norrington sells; -$16.51 [2.3%] -
+HubSpot,2017-12,07:56:54  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.5% in 87 days; -$19.04 [-2.6%] -
+HubSpot,2017-12,07:22:18  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$19.79 [-2.7%] -
+HubSpot,2017-12,07:02:36  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$19.79 [-2.7%] -
+HubSpot,2017-12,06:51:40  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$19.79 [-2.7%] -
+HubSpot,2017-12,05:57:12  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$19.67 [-2.7%] -
+HubSpot,2017-12,05:32:05  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$19.67 [-2.7%] -
+HubSpot,2017-12,05:22:12  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$19.67 [-2.7%] -
+HubSpot,2017-12,"04:52:20  [GERCOM] (HUBS.N 096.F) - German trading: HubSpot (096: EUR680.0) falls in 4 out of last 5 days, 5-day fall of 3.8%; -EUR8.80 [1.3%] -"
+HubSpot,2017-12,04:17:14  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$22.76 [-3.1%] -
+HubSpot,2017-12,03:47:19  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$22.76 [-3.1%] -
+HubSpot,2017-12,03:14:33  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$19.43 [-2.7%] -
+HubSpot,2017-12,02:52:50  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$19.43 [-2.7%] -
+HubSpot,2017-12,02:42:29  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 87 days; -$19.43 [-2.7%] -
+HubSpot,2017-12,01:52:14  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,01:13:25  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 38% in 87 days -
+HubSpot,2017-12,01:13:24  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 38% in 87 days -
+HubSpot,2017-12,00:49:15  [GLOSTO] (HUBS.N) - Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,"00:07:34  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Thursday December 26, 2024 -"
+HubSpot,2017-12,23:47:25  [GLOSTO] (HUBS.N) - ICYMI: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,23:07:35  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 38% in 87 days -
+HubSpot,2017-12,23:07:33  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 38% in 87 days -
+HubSpot,2017-12,22:48:13  [GLOSTO] (HUBS.N) - ICYMI: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,21:48:05  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,21:47:32  [GLOSTO] (HUBS.N) - Update: Friday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,21:28:11  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 38% in 87 days -
+HubSpot,2017-12,21:28:10  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 38% in 87 days -
+HubSpot,2017-12,"20:54:16  [ETFDAI] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Director Lorrie M. Norrington Sells 572 Shares of Stock -- -"
+HubSpot,2017-12,20:19:14  [INSMON] (HUBS.N) - HubSpot Inc. (HUBS): Should You Invest In This Enterprise Software Stock Right Now? -- -
+HubSpot,2017-12,"17:07:01  [NEWPEO] (HUBS.N) - Hubspot lead independent director Lorrie Norrington sells shares worth $394,680 Thursday December 26, 2024 -"
+HubSpot,2017-12,"11:32:39  [MARBEA] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Director Sells $394,680.00 in Stock -- -"
+HubSpot,2017-12,10:07:45  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 36.9% in 86 days; +$3.03 [0.4%] -
+HubSpot,2017-12,08:49:28  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 36.9% in 86 days; +$3.03 [0.4%] -
+HubSpot,2017-12,07:52:15  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 36.9% in 86 days; +$4.42 [0.6%] -
+HubSpot,2017-12,"06:42:10  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $721.36) Thursday December 26, 2024 07:12 EST -"
+HubSpot,2017-12,04:48:05  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $726.09) strengthens above moving average price; +$4.73 [0.7%] -
+HubSpot,2017-12,"04:42:34  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $721.36) Thursday December 26, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:02  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soared 37% in 86 days; +$4.73 [0.7%] -
+HubSpot,2017-12,"03:57:19  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.5% Thursday, December 26, 2024 11:00:00 -"
+HubSpot,2017-12,03:42:41  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 86 days; +$4.07 [0.6%] -
+HubSpot,2017-12,03:12:07  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 86 days; -$1.88 [-0.3%] -
+HubSpot,2017-12,02:53:25  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 86 days; -$1.88 [-0.3%] -
+HubSpot,2017-12,02:42:24  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 86 days; -$1.88 [-0.3%] -
+HubSpot,2017-12,01:56:19  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-12,01:56:07  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-12,01:13:37  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 37% in 85 days -
+HubSpot,2017-12,01:13:35  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 37% in 85 days -
+HubSpot,2017-12,00:48:57  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,"23:48:08  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $721.36) Thursday December 26, 2024 07:12 EST -"
+HubSpot,2017-12,23:47:28  [GLOSTO] (HUBS.N) - ICYMI: Traders look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,23:07:21  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 37% in 85 days -
+HubSpot,2017-12,23:07:21  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 37% in 85 days -
+HubSpot,2017-12,22:48:06  [GLOSTO] (HUBS.N) - ICYMI: Traders look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,21:48:15  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-12,21:47:31  [GLOSTO] (HUBS.N) - Update: Traders look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,20:52:05  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 37% in 85 days -
+HubSpot,2017-12,20:52:04  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 37% in 85 days -
+HubSpot,2017-12,"18:47:33  [NEWPEO] (HUBS.N) - Yamini Rangan's Hubspot top gainer in Timessquare Capital Management soars 35.7% in 84 days Tuesday December 24, 2024 16:00 EST -"
+HubSpot,2017-12,10:07:30  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 35.7% in 84 days; +$6.40 [0.9%] -
+HubSpot,2017-12,08:49:17  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 35.7% in 84 days; +$6.40 [0.9%] -
+HubSpot,2017-12,07:52:14  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 35.7% in 84 days; +$6.40 [0.9%] -
+HubSpot,2017-12,07:22:16  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$6.40 [0.9%] -
+HubSpot,2017-12,07:02:07  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$6.40 [0.9%] -
+HubSpot,2017-12,06:52:13  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$6.40 [0.9%] -
+HubSpot,2017-12,"06:42:17  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $714.96) Tuesday December 24, 2024 07:12 EST -"
+HubSpot,2017-12,05:57:14  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$6.66 [0.9%] -
+HubSpot,2017-12,05:32:37  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$6.66 [0.9%] -
+HubSpot,2017-12,05:22:09  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$6.66 [0.9%] -
+HubSpot,2017-12,"04:43:01  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $714.96) Tuesday December 24, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:06  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soared 36% in 84 days; +$7.77 [1.1%] -
+HubSpot,2017-12,04:12:06  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$7.17 [1.0%] -
+HubSpot,2017-12,04:12:02  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $722.13) climbs 1.0% strengthening above moving average price; +$7.17 [1.0%] -
+HubSpot,2017-12,03:53:55  [GLOSTO] (HUBS.N) - Hubspot continues to underperform IBM by 17.4% year to date -
+HubSpot,2017-12,03:53:23  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $722.13) climbs 1.0% strengthening above moving average price; +$7.17 [1.0%] -
+HubSpot,2017-12,03:37:12  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$7.17 [1.0%] -
+HubSpot,2017-12,03:37:07  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $722.13) climbs 1.0% strengthening above moving average price; +$7.17 [1.0%] -
+HubSpot,2017-12,03:17:30  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$8.88 [1.2%] -
+HubSpot,2017-12,02:53:09  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$8.88 [1.2%] -
+HubSpot,2017-12,02:43:01  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $723.84) lifts 1.2% strengthening above moving average price; +$8.88 [1.2%] -
+HubSpot,2017-12,02:42:16  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 36% in 84 days; +$8.88 [1.2%] -
+HubSpot,2017-12,01:53:26  [GLOSTO] (ORCL.N HUBS.N) - Hubspot continues to underperform Oracle by 39.2% year to date -
+HubSpot,2017-12,01:14:04  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 36% in 84 days -
+HubSpot,2017-12,01:14:04  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 36% in 84 days -
+HubSpot,2017-12,01:14:03  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 36% in 84 days -
+HubSpot,2017-12,"23:53:20  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $714.96) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Tuesday December 24, 2024 07:12 EST -"
+HubSpot,2017-12,"23:53:08  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $714.96) Tuesday December 24, 2024 07:12 EST -"
+HubSpot,2017-12,23:07:15  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 36% in 84 days -
+HubSpot,2017-12,23:07:13  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 36% in 84 days -
+HubSpot,2017-12,23:07:13  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 36% in 84 days -
+HubSpot,2017-12,21:22:15  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 36% in 84 days -
+HubSpot,2017-12,21:22:10  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 36% in 84 days -
+HubSpot,2017-12,21:22:10  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 36% in 84 days -
+HubSpot,2017-12,"18:34:30  [NEWPEO] (HUBS.N) - Brian Halligan Chairman of Hubspot in top 15% of NYSE stocks Tuesday December 24, 2024 -"
+HubSpot,2017-12,"10:07:58  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $714.72) falls in 4 out of last 5 days, 5-day fall of 4.3%; -$4.28 [0.6%] -"
+HubSpot,2017-12,"08:53:15  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $714.72) falls in 4 out of last 5 days, 5-day fall of 4.3%; -$4.28 [0.6%] -"
+HubSpot,2017-12,"06:42:06  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $719.0) Monday December 23, 2024 07:12 EST -"
+HubSpot,2017-12,04:54:34  [GLOSTO] (HUBS.N AAPL.O) - Hubspot continues to underperform Apple by 9.0% year to date -
+HubSpot,2017-12,04:54:34  [GLOSTO] (HUBS.N ACN.N) - Hubspot continues to outperform Accenture by 17.8% year to date -
+HubSpot,2017-12,"04:42:37  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $719.0) Monday December 23, 2024 07:12 EST -"
+HubSpot,2017-12,03:53:32  [GLOSTO] (META.O HUBS.N) - Hubspot continues to underperform Meta Platforms by 42.0% year to date -
+HubSpot,2017-12,01:53:37  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,01:53:24  [GLOSTO] (HUBS.N ADI.O) - Hubspot continues to outperform Analog Devices by 15.8% year to date -
+HubSpot,2017-12,"00:09:31  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $719.0) Monday December 23, 2024 07:12 EST -"
+HubSpot,2017-12,22:48:35  [YAHNEX] (HUBS.N) - Q3 Earnings Highs And Lows: Salesforce (NYSE:CRM) Vs The Rest Of The Sales Software Stocks -- -
+HubSpot,2017-12,21:47:47  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,"17:42:15  [NEWPEO] (HUBS.N) - Yamini Rangan CEO of Hubspot in top 11% of NYSE stocks Monday December 23, 2024 -"
+HubSpot,2017-12,"20:22:33  [TICREP] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) CTO Sells $18,497,250.00 in Stock -"
+HubSpot,2017-12,"20:19:40  [ETFDAI] (HUBS.N) - Dharmesh Shah Sells 25,000 Shares of HubSpot, Inc. (NYSE:HUBS) Stock -- -"
+HubSpot,2017-12,"17:11:47  [USOFFI] (HUBS.N) - Insider Trading: Executive Chair, Halligan Brian buys 546 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-12,"17:11:40  [USOFFI] (HUBS.N) - Insider Trading: Executive Chair, Halligan Brian sells 2,330 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-12,"17:11:36  [USOFFI] (HUBS.N) - Insider Trading: Chief Technology Officer, Shah Dharmesh sells 4,131 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-12,10:04:59  [TALKMA] (HUBS.N) - Hubspot Stock Price Slowly Forms A Bullish Pattern: What Next? -
+HubSpot,2017-12,10:03:48  [TALKMA] (HUBS.N) - Hubspot Stock Price Slowly Forms A Bullish Pattern: What Next? -
+HubSpot,2017-12,09:42:10  [TALMAR] (HUBS.N) - Hubspot Stock Price Slowly Forms A Bullish Pattern: What Next? -- -
+HubSpot,2017-12,01:17:37  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $719.0) up 2.4% after an upgrade this week; +$16.55 [2.4%] -
+HubSpot,2017-12,23:31:58  [INVEZZ] (HUBS.N) - Hubspot stock price slowly forms a bullish pattern: what next? -
+HubSpot,2017-12,"21:54:41  [WKRNEW] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by B. Riley Wealth Advisors Inc. -- -"
+HubSpot,2017-12,18:32:58  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $719.0) up 2.4% after an upgrade this week; +$16.55 [2.4%] -
+HubSpot,2017-12,"06:42:28  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $702.45) Friday December 20, 2024 07:12 EST -"
+HubSpot,2017-12,05:22:05  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soared 34% in 80 days; +$17.62 [2.5%] -
+HubSpot,2017-12,"04:43:05  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $702.45) Friday December 20, 2024 07:12 EST -"
+HubSpot,2017-12,04:17:27  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $717.50) climbs 2.1% strengthening above moving average price; +$15.05 [2.1%] -
+HubSpot,2017-12,04:02:46  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $717.50) climbs 2.1% strengthening above moving average price; +$15.05 [2.1%] -
+HubSpot,2017-12,03:48:12  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 34% in 80 days; +$15.05 [2.1%] -
+HubSpot,2017-12,03:42:21  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $717.50) climbs 2.1% strengthening above moving average price; +$15.05 [2.1%] -
+HubSpot,2017-12,03:17:30  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 34% in 80 days; +$1.98 [0.3%] -
+HubSpot,2017-12,02:53:48  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 34% in 80 days; +$1.98 [0.3%] -
+HubSpot,2017-12,02:42:22  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 34% in 80 days; +$1.98 [0.3%] -
+HubSpot,2017-12,02:22:00  [BENZIN] (HUBS.N) - $100 Invested In HubSpot 10 Years Ago Would Be Worth This Much Today -
+HubSpot,2017-12,01:52:27  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,"01:09:12  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $702.45) falls in 4 out of last 5 days, 5-day fall of 4.4%; -$4.57 [0.6%] -"
+HubSpot,2017-12,"00:06:11  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Thursday December 19, 2024 -"
+HubSpot,2017-12,"00:02:26  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Thursday December 19, 2024 -"
+HubSpot,2017-12,"23:52:34  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $702.45) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday December 20, 2024 07:12 EST -"
+HubSpot,2017-12,"23:52:31  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $702.45) Friday December 20, 2024 07:12 EST -"
+HubSpot,2017-12,21:47:47  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,"18:34:00  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $702.45) falls in 4 out of last 5 days, 5-day fall of 4.4%; -$4.57 [0.6%] -"
+HubSpot,2017-12,"17:03:00  [NEWPEO] (HUBS.N) - Hubspot chairman Brian Halligan sells shares worth $6.2 million Thursday December 19, 2024 -"
+HubSpot,2017-12,"17:02:31  [NEWPEO] (HUBS.N) - Hubspot director Dharmesh Shah sells shares worth $18.5 million Thursday December 19, 2024 -"
+HubSpot,2017-12,"16:48:50  [CERGEM] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) CTO Sells 25,000 Shares of Stock -"
+HubSpot,2017-12,"16:48:02  [TECHRB] (MSFT.O HUBS.N) - Fake DocuSign and HubSpot phishing emails target 20,000 Microsoft Azure accounts -"
+HubSpot,2017-12,"13:37:40  [MSNUKA] (HUBS.N DOCU.O) - Fake DocuSign and HubSpot phishing emails target 20,000 Microsoft Azure accounts -- -"
+HubSpot,2017-12,"12:47:26  [TECHRB] (MSFT.O HUBS.N) - Fake DocuSign and HubSpot phishing emails target 20,000 Microsoft Azure accounts -"
+HubSpot,2017-12,"12:31:39  [MARBEA] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) CTO Dharmesh Shah Sells 25,000 Shares -- -"
+HubSpot,2017-12,"12:18:09  [MARBEA] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Insider Brian Halligan Sells 8,500 Shares -- -"
+HubSpot,2017-12,"08:42:06  [WATNEW] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) CTO Dharmesh Shah Sells 25,000 Shares -"
+HubSpot,2017-12,07:22:23  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $703.82) drops to one-month low on robust volume; -$3.20 [-0.5%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,07:02:41  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $703.82) drops to one-month low on robust volume; -$3.20 [-0.5%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,06:52:17  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $703.82) drops to one-month low on robust volume; -$3.20 [-0.5%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,"06:42:32  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $702.0) keeps sliding, down 6.0% in 3 days Thursday December 19, 2024 10:32 EST -"
+HubSpot,2017-12,"06:42:32  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $702.0) keeps sliding, down 6.0% in 3 days Thursday December 19, 2024 11:50 EST -"
+HubSpot,2017-12,"06:42:24  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $707.02) Thursday December 19, 2024 07:12 EST -"
+HubSpot,2017-12,05:57:20  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $696.15) drops to one-month low on robust volume; -$10.87 [-1.5%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-12,05:54:40  [MARBEA] (HUBS.N) - HubSpot (NYSE:HUBS) Rating Increased to Strong-Buy at UBS Group -- -
+HubSpot,2017-12,"05:42:39  [GLOBUL] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.8% in 78 days Thursday December 19, 2024 07:12 EST -"
+HubSpot,2017-12,05:32:32  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $696.15) drops 1.5%; -$10.87 [-1.5%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-12,05:22:16  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $696.15) drops to one-month low on robust volume; -$10.87 [-1.5%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-12,05:12:45  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $698.33) drops to one-month low on robust volume; -$8.69 [-1.2%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,04:47:47  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $698.33) drops to one-month low on robust volume; -$8.69 [-1.2%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,04:47:07  [WATNEW] (HUBS.N) - HubSpot (NYSE:HUBS) Raised to Strong-Buy at UBS Group -
+HubSpot,2017-12,"04:42:55  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $702.0) keeps sliding, down 6.0% in 3 days Thursday December 19, 2024 11:50 EST -"
+HubSpot,2017-12,"04:42:53  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $702.0) keeps sliding, down 6.0% in 3 days Thursday December 19, 2024 10:32 EST -"
+HubSpot,2017-12,"04:42:52  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $707.02) Thursday December 19, 2024 07:12 EST -"
+HubSpot,2017-12,04:37:42  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $698.33) drops to one-month low on robust volume; -$8.69 [-1.2%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,04:12:23  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 34% in 79 days; -$13.28 [-1.9%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,04:04:45  [SCMAGB] (MSFT.O HUBS.N) - European firms subjected to HubSpot-exploiting phishing -- -
+HubSpot,2017-12,"04:02:39  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $702.0) keeps sliding, down 6.0% in 3 days Thursday December 19, 2024 11:50 EST -"
+HubSpot,2017-12,"03:53:38  [GLOBUL] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.8% in 78 days Thursday December 19, 2024 07:12 EST -"
+HubSpot,2017-12,03:53:31  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 34% in 79 days; -$13.28 [-1.9%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,03:53:13  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $693.74) drops to one-month low on firm volume; -$13.28 [-1.9%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,03:37:11  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 34% in 79 days; -$13.28 [-1.9%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,03:17:28  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $702.0) drops to one-month low on robust volume; -$5.02 [-0.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,"03:07:56  [GLOBEA] (HUBS.N .SPX) - Confirmatory Bearish Trend: Hubspot (HUBS: $702.0) keeps sliding, down 6.0% in 3 days Thursday December 19, 2024 10:32 EST -"
+HubSpot,2017-12,02:53:04  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $702.0) decreases $5.02; -$5.02 [-0.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,02:42:55  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 34% in 79 days; -$5.02 [-0.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,02:42:31  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $702.0) drops to one-month low on robust volume; -$5.02 [-0.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,02:32:56  [COMFIN] (HUBS.N) - Bank of America Forecasts Strong Price Appreciation for HubSpot (NYSE:HUBS) Stock -
+HubSpot,2017-12,01:53:19  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-12,"01:42:33  [GLOBUL] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.8% in 78 days Thursday December 19, 2024 07:12 EST -"
+HubSpot,2017-12,01:13:07  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 34% in 79 days -
+HubSpot,2017-12,01:13:07  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 34% in 79 days -
+HubSpot,2017-12,01:13:07  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 34% in 79 days -
+HubSpot,2017-12,00:49:28  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-12,"23:53:01  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $707.02) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Thursday December 19, 2024 07:12 EST -"
+HubSpot,2017-12,"23:52:51  [GLOBEA] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $707.02) Thursday December 19, 2024 07:12 EST -"
+HubSpot,2017-12,23:07:33  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 34% in 79 days -
+HubSpot,2017-12,23:07:31  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 34% in 79 days -
+HubSpot,2017-12,23:07:30  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 34% in 79 days -
+HubSpot,2017-12,21:48:55  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-12,"21:32:05  [MARBEA] (HUBS.N) - Sanctuary Advisors LLC Sells 1,855 Shares of HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-12,20:42:41  [NEWNYS] (HUBS.N) - Hubspot top gainer among Alkeon Capital Management holdings; jumps 34% in 79 days -
+HubSpot,2017-12,20:42:39  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 34% in 79 days -
+HubSpot,2017-12,20:42:38  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 34% in 79 days -
+HubSpot,2017-12,"20:32:11  [NEWPEO] (HUBS.N) - Jill Ward Director of Hubspot in top 15% of NYSE stocks Thursday December 19, 2024 -"
+HubSpot,2017-12,"19:57:15  [TRADAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Receives $689.95 Average Price Target from Brokerages -"
+HubSpot,2017-12,07:57:07  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.8% in 78 days; -$27.75 [-3.7%] -
+HubSpot,2017-12,07:22:28  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -$6.75 [-0.9%] -
+HubSpot,2017-12,07:02:52  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -$6.75 [-0.9%] -
+HubSpot,2017-12,06:52:17  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -$6.75 [-0.9%] -
+HubSpot,2017-12,"06:42:20  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $741.67) Wednesday December 18, 2024 07:12 EST -"
+HubSpot,2017-12,06:27:37  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $739.48) strengthens above moving average price; -$2.19 [-0.3%] -
+HubSpot,2017-12,05:56:42  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -$2.33 [-0.3%] -
+HubSpot,2017-12,"05:42:22  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $741.67) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday December 18, 2024 07:12 EST -"
+HubSpot,2017-12,05:32:22  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -$2.33 [-0.3%] -
+HubSpot,2017-12,05:22:18  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -$2.33 [-0.3%] -
+HubSpot,2017-12,04:47:30  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $741.70) strengthens above moving average price; +3c [0.004%] -
+HubSpot,2017-12,"04:42:32  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $741.67) Wednesday December 18, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:09  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soared 41% in 78 days; +3c [0.004%] -
+HubSpot,2017-12,"03:57:55  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $741.67) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday December 18, 2024 07:12 EST -"
+HubSpot,2017-12,"03:54:11  [LATNIG] (HUBS.N) - HubPhish Exploits HubSpot Tools to Target 20,000 European Users for Credential Theft -- -"
+HubSpot,2017-12,03:42:57  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -74c [-0.1%] -
+HubSpot,2017-12,03:17:33  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -87c [-0.1%] -
+HubSpot,2017-12,02:53:09  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -87c [-0.1%] -
+HubSpot,2017-12,02:42:21  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 41% in 78 days; -87c [-0.1%] -
+HubSpot,2017-12,01:53:28  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-12,"01:42:39  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $741.67) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday December 18, 2024 07:12 EST -"
+HubSpot,2017-12,01:13:58  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 41% in 78 days -
+HubSpot,2017-12,01:13:52  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 41% in 78 days -
+HubSpot,2017-12,01:13:50  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 41% in 78 days -
+HubSpot,2017-12,01:10:26  [PUBT] (HUBS.N) - HubSpot Inc. - AI agents and the future of small business: HubSpot Ventures... -
+HubSpot,2017-12,"23:48:34  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $741.67) Wednesday December 18, 2024 07:12 EST -"
+HubSpot,2017-12,23:08:02  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 41% in 78 days -
+HubSpot,2017-12,23:08:01  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 41% in 78 days -
+HubSpot,2017-12,23:07:59  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 41% in 78 days -
+HubSpot,2017-12,"20:42:13  [NEWPEO] (HUBS.N) - Hubspot Director Dharmesh Shah's selling decreases by 22% in 2024 Wednesday December 18, 2024 -"
+HubSpot,2017-12,20:27:32  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 41% in 78 days -
+HubSpot,2017-12,20:27:31  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 41% in 78 days -
+HubSpot,2017-12,20:27:30  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 41% in 78 days -
+HubSpot,2017-12,"13:58:00  [MARBEA] (HUBS.N) - Short Interest in HubSpot, Inc. (NYSE:HUBS) Drops By 11.4% -- -"
+HubSpot,2017-12,10:07:38  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 41.8% in 77 days; -$5.98 [0.8%] -
+HubSpot,2017-12,08:52:37  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 41.8% in 77 days; -$5.98 [0.8%] -
+HubSpot,2017-12,07:56:22  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 41.8% in 77 days; -$9.73 [-1.3%] -
+HubSpot,2017-12,07:47:13  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$6.04 [-0.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,07:27:22  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$6.04 [-0.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,07:22:18  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $744.92) drops $1.99 on firm volume; -$1.99 [-0.3%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,07:12:12  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$6.04 [-0.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,07:02:41  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $744.92) drops $1.99 on firm volume; -$1.99 [-0.3%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,06:52:11  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $744.92) drops $1.99 on firm volume; -$1.99 [-0.3%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,06:47:13  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$5.37 [-0.7%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-12,"06:42:19  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $746.91) Tuesday December 17, 2024 07:12 EST -"
+HubSpot,2017-12,06:27:37  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$5.37 [-0.7%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-12,06:12:09  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$5.37 [-0.7%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-12,05:57:10  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $735.47) drops 1.5% on firm volume; -$11.44 [-1.5%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-12,05:32:17  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $735.47) drops 1.5% on firm volume; -$11.44 [-1.5%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-12,05:22:09  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $735.47) drops 1.5% on firm volume; -$11.44 [-1.5%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-12,05:06:46  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$7.74 [-1.0%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-12,04:47:34  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$7.74 [-1.0%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-12,"04:42:50  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $746.91) Tuesday December 17, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:27  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$7.74 [-1.0%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-12,04:12:08  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $745.30) drops $1.61 on robust volume; -$1.61 [-0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,03:54:47  [GLOSTO] (HUBS.N) - Hubspot continues to outperform IBM by 44.3% in the past three months -
+HubSpot,2017-12,03:53:41  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $745.30) drops $1.61 on robust volume; -$1.61 [-0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,03:43:46  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$1.61 [-0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,03:37:06  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $745.30) drops $1.61 on robust volume; -$1.61 [-0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,03:17:35  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$6.41 [-0.9%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,02:53:09  [GLOTRA] (.SPX HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$6.41 [-0.9%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,02:43:14  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $740.50) decreases $6.41 on robust volume; -$6.41 [-0.9%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,02:42:29  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 42% in 77 days; -$6.41 [-0.9%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,01:53:38  [GLOSTO] (ORCL.N HUBS.N) - Hubspot continues to outperform Oracle by 50.0% in the past three months -
+HubSpot,2017-12,01:13:35  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 42% in 77 days -
+HubSpot,2017-12,01:13:33  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 42% in 77 days -
+HubSpot,2017-12,00:49:27  [GLOSTO] (HUBS.N) - Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,"23:52:10  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $746.91) Tuesday December 17, 2024 07:12 EST -"
+HubSpot,2017-12,23:47:37  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,23:07:37  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 42% in 77 days -
+HubSpot,2017-12,23:07:35  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 42% in 77 days -
+HubSpot,2017-12,22:48:45  [GLOSTO] (HUBS.N) - ICYMI: Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,21:47:36  [GLOSTO] (HUBS.N) - Update: Tuesday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,20:27:16  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 42% in 77 days -
+HubSpot,2017-12,20:27:15  [NEWNYS] (HUBS.N) - Hubspot top gainer among Armistice Capital holdings; jumps 42% in 77 days -
+HubSpot,2017-12,"19:02:26  [NEWPEO] (HUBS.N) - Brian Halligan Chairman of Hubspot in top 15% of NYSE stocks Tuesday December 17, 2024 -"
+HubSpot,2017-12,"18:27:01  [NEWPEO] (HUBS.N) - Hubspot CEO Yamini Rangan's selling increases by 28% in 2024 Tuesday December 17, 2024 -"
+HubSpot,2017-12,07:56:52  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $744.55) up 3.1% after an upgrade this week; +$22.69 [3.1%] -
+HubSpot,2017-12,"06:42:28  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot (HUBS: $734.84) lifts 1.8% strengthening above moving average price Monday December 16, 2024 10:31 EST -"
+HubSpot,2017-12,"06:42:25  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $721.86) Monday December 16, 2024 07:12 EST -"
+HubSpot,2017-12,"06:37:15  [FINGEV] (HUBS.N) - HubSpot To Dominate SMB CRM Space With AI-Driven Platform, Says BofA Analyst -- -"
+HubSpot,2017-12,"05:42:11  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $721.86) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday December 16, 2024 07:12 EST -"
+HubSpot,2017-12,"05:26:56  [BENZIN] (HUBS.N) - HubSpot To Dominate SMB CRM Space With AI-Driven Platform, Says BofA Analyst -"
+HubSpot,2017-12,05:12:17  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $738.48) gains 2.3% strengthening above moving average price; +$16.62 [2.3%] -
+HubSpot,2017-12,04:55:02  [GLOSTO] (HUBS.N ACN.N) - Hubspot continues to outperform Accenture by 43.9% in the past three months -
+HubSpot,2017-12,04:55:01  [GLOSTO] (HUBS.N AAPL.O) - Hubspot continues to outperform Apple by 35.5% in the past three months -
+HubSpot,2017-12,"04:42:28  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $721.86) Monday December 16, 2024 07:12 EST -"
+HubSpot,2017-12,"04:42:25  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot (HUBS: $734.84) lifts 1.8% strengthening above moving average price Monday December 16, 2024 10:31 EST -"
+HubSpot,2017-12,04:37:28  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $738.48) gains 2.3% strengthening above moving average price; +$16.62 [2.3%] -
+HubSpot,2017-12,03:53:44  [GLOSTO] (META.O HUBS.N) - Hubspot continues to outperform Meta Platforms by 26.8% in the past three months -
+HubSpot,2017-12,"03:47:12  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $721.86) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday December 16, 2024 07:12 EST -"
+HubSpot,2017-12,"03:23:03  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot (HUBS: $734.84) lifts 1.8% strengthening above moving average price Monday December 16, 2024 10:31 EST -"
+HubSpot,2017-12,03:18:42  [MARBEA] (HUBS.N) - Bank of America Issues Positive Forecast for HubSpot (NYSE:HUBS) Stock Price -- -
+HubSpot,2017-12,03:17:30  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $734.84) lifts 1.8% strengthening above moving average price; +$12.98 [1.8%] -
+HubSpot,2017-12,02:54:28  [GLOTRA] (HUBS.N .SPX) - Hubspot (HUBS: $734.84) lifts 1.8% strengthening above moving average price; +$12.98 [1.8%] -
+HubSpot,2017-12,02:42:16  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $734.84) lifts 1.8% strengthening above moving average price; +$12.98 [1.8%] -
+HubSpot,2017-12,01:53:32  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,01:52:59  [GLOSTO] (HUBS.N ADI.O) - Hubspot continues to outperform Analog Devices by 48.3% in the past three months -
+HubSpot,2017-12,"01:43:00  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $721.86) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday December 16, 2024 07:12 EST -"
+HubSpot,2017-12,01:38:08  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: BOFA GLOBAL RESEARCH RAISES PRICE OBJECTIVE TO $850 FROM $780 -
+HubSpot,2017-12,00:54:43  [GLOSTO] (HUBS.N) - Monday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,"00:47:31  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.9% Thursday, December 12, 2024 11:00:00 -"
+HubSpot,2017-12,"00:04:54  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $721.86) Monday December 16, 2024 07:12 EST -"
+HubSpot,2017-12,00:04:29  [GLOSTO] (HUBS.N) - ICYMI: Monday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,23:21:42  [YAHNEX] (HUBS.N) - Investors in HubSpot (NYSE:HUBS) have seen massive returns of 359% over the past five years -- -
+HubSpot,2017-12,23:04:31  [GLOSTO] (HUBS.N) - ICYMI: Monday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,"22:49:57  [NEWNYS] (HUBS.N) - Hubspot rises for a third consecutive day, a three-day rise of 1.9% Friday, December 13, 2024 10:00:00 -"
+HubSpot,2017-12,"22:49:56  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.0% Thursday, December 12, 2024 10:00:00 -"
+HubSpot,2017-12,"22:04:43  [AMEBAN] (HUBS.N) - National Bank of Canada FI Buys 324 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,21:48:06  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,21:47:39  [GLOSTO] (HUBS.N) - Update: Monday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,20:35:43  [WKRNEW] (HUBS.N) - Mizuho Boosts HubSpot (NYSE:HUBS) Price Target to $775.00 -- -
+HubSpot,2017-12,"18:32:18  [NEWPEO] (HUBS.N) - Hubspot Chief Legal Officer Harvey Dawson Alyssa's selling increases by 24% in 2024 Sunday December 15, 2024 -"
+HubSpot,2017-12,"08:17:08  [MARBEA] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Vestcor Inc -- -"
+HubSpot,2017-12,01:23:18  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 37% in 74 days -
+HubSpot,2017-12,01:23:18  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 37% in 74 days -
+HubSpot,2017-12,01:22:58  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 37% in 74 days -
+HubSpot,2017-12,01:22:57  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 37% in 74 days -
+HubSpot,2017-12,"21:02:10  [NEWPEO] (HUBS.N) - Yamini Rangan CEO of Hubspot in top 14% of NYSE stocks Saturday December 14, 2024 -"
+HubSpot,2017-12,"20:54:41  [MARBEA] (MTB.N HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Acquired by M&T Bank Corp -- -"
+HubSpot,2017-12,"20:33:13  [AMEBAN] (HUBS.N) - HighTower Advisors LLC Boosts Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,20:21:59  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 37% in 74 days -
+HubSpot,2017-12,20:21:58  [NEWNYS] (HUBS.N) - Hubspot top gainer among Wasatch Advisors holdings; jumps 37% in 74 days -
+HubSpot,2017-12,"20:07:22  [TICREP] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Acquired by HighTower Advisors LLC -"
+HubSpot,2017-12,"18:35:10  [MARBEA] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Given Average Rating of ""Moderate Buy"" by Analysts -- -"
+HubSpot,2017-12,10:08:13  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 39.4% in 73 days; -$12.51 [1.7%] -
+HubSpot,2017-12,08:48:24  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 39.4% in 73 days; -$12.51 [1.7%] -
+HubSpot,2017-12,"08:20:08  [MARBEA] (HUBS.N) - MML Investors Services LLC Grows Stake in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-12,07:56:52  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 39.4% in 73 days; -$8.88 [-1.2%] -
+HubSpot,2017-12,07:47:13  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$10.84 [-1.5%] -
+HubSpot,2017-12,07:27:09  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$10.84 [-1.5%] -
+HubSpot,2017-12,07:12:11  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$10.84 [-1.5%] -
+HubSpot,2017-12,06:47:10  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$10.66 [-1.5%] -
+HubSpot,2017-12,"06:42:06  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $734.49) Friday December 13, 2024 07:12 EST -"
+HubSpot,2017-12,"06:41:47  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days Friday December 13, 2024 10:... -"
+HubSpot,2017-12,06:27:19  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$10.66 [-1.5%] -
+HubSpot,2017-12,06:17:09  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$10.66 [-1.5%] -
+HubSpot,2017-12,"05:42:18  [GLOBUL] (.GDAXI HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.8% in 72 days Friday December 13, 2024 07:12 EST -"
+HubSpot,2017-12,"05:42:11  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $734.49) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday December 13, 2024 07:12 EST -"
+HubSpot,2017-12,05:07:15  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$8.25 [-1.1%] -
+HubSpot,2017-12,04:52:25  [GERCOM] (HUBS.N 096.F) - German trading: HubSpot (096: EUR700.0) lifts 1.4% strengthening above moving average price; +EUR9.40 [1.4%] -
+HubSpot,2017-12,04:48:51  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$8.25 [-1.1%] -
+HubSpot,2017-12,"04:42:36  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days Friday December 13, 2024 10:... -"
+HubSpot,2017-12,"04:42:33  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $734.49) Friday December 13, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:21  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$8.25 [-1.1%] -
+HubSpot,2017-12,04:12:14  [EINPRE] (HUBS.N) - SaaSify Introduces HubSpot Connector for AWS ACE Co-Sell Automation -
+HubSpot,2017-12,04:07:44  [GRAIND] (HUBS.N) - SaaSify Introduces HubSpot Connector for AWS ACE Co-Sell Automation -- -
+HubSpot,2017-12,"03:53:27  [GLOBUL] (.GDAXI HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.8% in 72 days Friday December 13, 2024 07:12 EST -"
+HubSpot,2017-12,"03:53:24  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $734.49) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday December 13, 2024 07:12 EST -"
+HubSpot,2017-12,03:48:15  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; -$11.26 [-1.5%] -
+HubSpot,2017-12,03:27:26  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; +4c [0.01%] -
+HubSpot,2017-12,"03:12:50  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days Friday December 13, 2024 10:... -"
+HubSpot,2017-12,"03:08:33  [NEWNYS] (HUBS.N) - Hubspot rises for a third consecutive day, a three-day rise of 1.9% Friday, December 13, 2024 10:00:00 -"
+HubSpot,2017-12,02:52:53  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; +4c [0.01%] -
+HubSpot,2017-12,02:42:12  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 39% in 73 days; +4c [0.01%] -
+HubSpot,2017-12,02:12:08  [INVESV] (HUBS.N) - HubSpot Shines as an Example in Integrating Sustainability -
+HubSpot,2017-12,01:52:11  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,"01:42:19  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $734.49) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Friday December 13, 2024 07:12 EST -"
+HubSpot,2017-12,"01:42:10  [GLOBUL] (.GDAXI HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.8% in 72 days Friday December 13, 2024 07:12 EST -"
+HubSpot,2017-12,01:09:02  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $734.49) up 1.2% after an upgrade this week; +$8.41 [1.2%] -
+HubSpot,2017-12,00:49:22  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,"00:29:47  [MARBEA] (HUBS.N) - HubSpot (NYSE:HUBS) Stock Price Expected to Rise, Mizuho Analyst Says -- -"
+HubSpot,2017-12,"00:02:47  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Thursday December 12, 2024 -"
+HubSpot,2017-12,"23:52:13  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $734.49) Friday December 13, 2024 07:12 EST -"
+HubSpot,2017-12,23:47:27  [GLOSTO] (HUBS.N) - ICYMI: Traders look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,22:53:12  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: MIZUHO RAISES TARGET PRICE TO $775  FROM $725 -
+HubSpot,2017-12,22:48:16  [GLOSTO] (HUBS.N) - ICYMI: Traders look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,"22:27:17  [WATNEW] (HUBS.N) - Orion Portfolio Solutions LLC Has $2.02 Million Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,21:48:46  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,21:48:17  [GLOSTO] (HUBS.N) - Update: Traders look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,"21:07:16  [TRADAJ] (HUBS.N) - EP Wealth Advisors LLC Buys Shares of 723 HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,"20:59:12  [MARBEA] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Sold by Orion Portfolio Solutions LLC -- -"
+HubSpot,2017-12,18:34:07  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $734.49) up 1.2% after an upgrade this week; +$8.41 [1.2%] -
+HubSpot,2017-12,"17:46:53  [NEWPEO] (HUBS.N) - Hubspot director Dharmesh Shah sells shares worth $18.2 million Thursday December 12, 2024 -"
+HubSpot,2017-12,"11:00:00  [USOFFI] (HUBS.N) - Insider Trading: Chief Technology Officer, Shah Dharmesh sells 2,408 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-12,09:23:00  [BSW] (ZI.O SQSP.N) - Comparably Announces Best Places to Work and Best CEOs of 2024 Based on Millions of Employee Ratings -
+HubSpot,2017-12,07:56:54  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.8% in 72 days; +$1.50 [0.2%] -
+HubSpot,2017-12,"06:42:34  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days Thursday December 12, 2024 1... -"
+HubSpot,2017-12,"06:42:30  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days Thursday December 12, 2024 1... -"
+HubSpot,2017-12,"06:42:19  [GLOBUL] (HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $726.08) Thursday December 12, 2024 07:12 EST -"
+HubSpot,2017-12,06:37:16  [STOCKP] (HUBS.N) - On Thursday 12th of December Hubspot trades 0.76 percent higher -
+HubSpot,2017-12,"05:42:34  [GLOBUL] (HUBS.N) - Hubspot (HUBS: $726.08) - PRE-MARKET BULLISH SIGNAL Thursday December 12, 2024 07:12 EST -"
+HubSpot,2017-12,"05:42:20  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $726.88) up 0.9% after an upgrade this week Thursday December 12, 2024 07:12 EST -"
+HubSpot,2017-12,"04:43:11  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days Thursday December 12, 2024 1... -"
+HubSpot,2017-12,"04:43:09  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days Thursday December 12, 2024 1... -"
+HubSpot,2017-12,"04:42:59  [GLOBUL] (HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $726.08) Thursday December 12, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:03  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soared 38% in 72 days; +$6.40 [0.9%] -
+HubSpot,2017-12,"04:02:13  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days Thursday December 12, 2024 1... -"
+HubSpot,2017-12,"04:02:09  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.9% Thursday, December 12, 2024 11:00:00 -"
+HubSpot,2017-12,"03:58:03  [GLOBUL] (HUBS.N) - Hubspot (HUBS: $726.08) - PRE-MARKET BULLISH SIGNAL Thursday December 12, 2024 07:12 EST -"
+HubSpot,2017-12,"03:57:43  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $726.88) up 0.9% after an upgrade this week Thursday December 12, 2024 07:12 EST -"
+HubSpot,2017-12,03:57:31  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $734.18) lifts 1.1% strengthening above moving average price; +$8.10 [1.1%] -
+HubSpot,2017-12,03:43:11  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days; +$8.10 [1.1%] -
+HubSpot,2017-12,03:12:17  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days; +$1.55 [0.2%] -
+HubSpot,2017-12,"03:07:33  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days Thursday December 12, 2024 1... -"
+HubSpot,2017-12,"03:03:08  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.0% Thursday, December 12, 2024 10:00:00 -"
+HubSpot,2017-12,02:53:34  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days; +$1.55 [0.2%] -
+HubSpot,2017-12,02:42:32  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 38% in 72 days; +$1.55 [0.2%] -
+HubSpot,2017-12,01:53:16  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-12,"01:42:42  [GLOBUL] (HUBS.N .SPX) - Hubspot (HUBS: $726.88) up 0.9% after an upgrade this week Thursday December 12, 2024 07:12 EST -"
+HubSpot,2017-12,"01:42:33  [GLOBUL] (HUBS.N) - Hubspot (HUBS: $726.08) - PRE-MARKET BULLISH SIGNAL Thursday December 12, 2024 07:12 EST -"
+HubSpot,2017-12,01:13:21  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 38% in 72 days -
+HubSpot,2017-12,"23:47:26  [GLOBUL] (HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $726.08) Thursday December 12, 2024 07:12 EST -"
+HubSpot,2017-12,23:07:51  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 38% in 72 days -
+HubSpot,2017-12,21:49:12  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-12,21:32:25  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 38% in 72 days -
+HubSpot,2017-12,"20:27:19  [NEWPEO] (HUBS.N) - Jill Ward Director of Hubspot in top 12% of NYSE stocks Thursday December 12, 2024 -"
+HubSpot,2017-12,10:07:52  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 36.8% in 71 days; +$6.26 [0.9%] -
+HubSpot,2017-12,08:48:18  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 36.8% in 71 days; +$6.26 [0.9%] -
+HubSpot,2017-12,07:52:20  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 36.8% in 71 days; +$9.03 [1.3%] -
+HubSpot,2017-12,07:22:17  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$9.49 [1.3%] -
+HubSpot,2017-12,07:02:46  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$9.49 [1.3%] -
+HubSpot,2017-12,06:52:17  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$9.49 [1.3%] -
+HubSpot,2017-12,"06:42:25  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $720.62) Wednesday December 11, 2024 07:12 EST -"
+HubSpot,2017-12,"06:42:23  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $720.58) drops 2.8% on increasing volatility Wednesday December 11, 2024 07:12 EST -"
+HubSpot,2017-12,05:57:18  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$10.85 [1.5%] -
+HubSpot,2017-12,05:32:20  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$10.85 [1.5%] -
+HubSpot,2017-12,05:22:21  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$10.85 [1.5%] -
+HubSpot,2017-12,"04:42:59  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $720.62) Wednesday December 11, 2024 07:12 EST -"
+HubSpot,2017-12,"04:42:53  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $720.58) drops 2.8% on increasing volatility Wednesday December 11, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:14  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soared 37% in 71 days; +$9.49 [1.3%] -
+HubSpot,2017-12,04:12:12  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$10.01 [1.4%] -
+HubSpot,2017-12,04:12:09  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $730.63) climbs 1.4% strengthening above moving average price; +$10.01 [1.4%] -
+HubSpot,2017-12,03:53:17  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $730.63) climbs 1.4% strengthening above moving average price; +$10.01 [1.4%] -
+HubSpot,2017-12,03:37:14  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$10.01 [1.4%] -
+HubSpot,2017-12,03:37:10  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $730.63) climbs 1.4% strengthening above moving average price; +$10.01 [1.4%] -
+HubSpot,2017-12,03:17:43  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$13.35 [1.9%] -
+HubSpot,2017-12,02:53:10  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$13.35 [1.9%] -
+HubSpot,2017-12,02:43:06  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $733.97) lifts 1.9% strengthening above moving average price; +$13.35 [1.9%] -
+HubSpot,2017-12,02:42:34  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 71 days; +$13.35 [1.9%] -
+HubSpot,2017-12,01:53:26  [GLOSTO] (HUBS.N) - How Hubspot Has Fared Since Its Recent Analyst Ratings Changes -
+HubSpot,2017-12,01:13:18  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 37% in 71 days -
+HubSpot,2017-12,00:49:21  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-12,"23:52:38  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $720.62) Wednesday December 11, 2024 07:12 EST -"
+HubSpot,2017-12,"23:52:24  [GLOBEA] (.GDAXI HUBS.N) - Hubspot (HUBS: $720.58) drops 2.8% on increasing volatility Wednesday December 11, 2024 07:12 EST -"
+HubSpot,2017-12,"23:27:09  [WATNEW] (HUBS.N) - LRI Investments LLC Cuts Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,23:07:52  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 37% in 71 days -
+HubSpot,2017-12,"23:02:31  [NEWPEO] (HUBS.N) - Yamini Rangan's Hubspot top gainer in Timessquare Capital Management soars 40.0% in 70 days Tuesday December 10, 2024 16:00 EST -"
+HubSpot,2017-12,"22:48:32  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.3% Monday, December 09, 2024 10:00:00 -"
+HubSpot,2017-12,"21:41:45  [PLUCOM] (HUBS.N) - HubSpot to Acquire Frame AI, Unlocking the Power of Conversational Data with AI -"
+HubSpot,2017-12,"21:41:33  [PLUCOM] (HUBS.N) - HUBSPOT, INC. ORDINARY SHARES (ISIN CODE US4435731009/NSD CODE 230660476): NSD CEASED TO SERVICE THIS ISSUE -"
+HubSpot,2017-12,21:27:41  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 37% in 71 days -
+HubSpot,2017-12,10:07:58  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.0% in 70 days; -$21.09 [2.8%] -
+HubSpot,2017-12,08:48:24  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.0% in 70 days; -$21.09 [2.8%] -
+HubSpot,2017-12,07:52:19  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.0% in 70 days; -$30.17 [-4.1%] -
+HubSpot,2017-12,07:47:19  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$19.59 [-2.6%] -
+HubSpot,2017-12,07:12:18  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$19.59 [-2.6%] -
+HubSpot,2017-12,06:47:13  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$12.54 [-1.7%] -
+HubSpot,2017-12,"06:42:24  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $738.26) drops Tuesday December 10, 2024 11:28 EST -"
+HubSpot,2017-12,"06:42:23  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $737.38) Tuesday December 10, 2024 07:12 EST -"
+HubSpot,2017-12,06:28:10  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$12.54 [-1.7%] -
+HubSpot,2017-12,06:17:21  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$12.54 [-1.7%] -
+HubSpot,2017-12,05:07:20  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$9.56 [-1.3%] -
+HubSpot,2017-12,"04:44:15  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $738.26) drops Tuesday December 10, 2024 11:28 EST -"
+HubSpot,2017-12,"04:44:08  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $737.38) Tuesday December 10, 2024 07:12 EST -"
+HubSpot,2017-12,04:43:57  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$9.56 [-1.3%] -
+HubSpot,2017-12,04:32:45  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$9.56 [-1.3%] -
+HubSpot,2017-12,"04:07:29  [GLOBEA] (HUBS.N) - Confirmatory Bearish Trend: Hubspot (HUBS: $738.26) drops Tuesday December 10, 2024 11:28 EST -"
+HubSpot,2017-12,03:54:35  [GLOSTO] (HUBS.N) - Hubspot continues to outperform IBM by 15.8% in the past month -
+HubSpot,2017-12,03:43:30  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$3.41 [-0.5%] -
+HubSpot,2017-12,03:17:34  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$2.22 [-0.3%] -
+HubSpot,2017-12,02:53:43  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$2.22 [-0.3%] -
+HubSpot,2017-12,02:42:31  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 70 days; -$2.22 [-0.3%] -
+HubSpot,2017-12,01:53:05  [GLOSTO] (ORCL.N HUBS.N) - Hubspot continues to outperform Oracle by 16.6% in the past month -
+HubSpot,2017-12,01:13:30  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 40% in 70 days -
+HubSpot,2017-12,"23:52:11  [GLOBEA] (HUBS.N .SPX) - Hubspot (HUBS: $737.38) - PRE-MARKET BEARISH SIGNAL Tuesday December 10, 2024 07:12 EST -"
+HubSpot,2017-12,"23:48:15  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $737.38) Tuesday December 10, 2024 07:12 EST -"
+HubSpot,2017-12,23:07:43  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 40% in 70 days -
+HubSpot,2017-12,21:37:39  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 40% in 70 days -
+HubSpot,2017-12,"20:32:33  [NEWPEO] (HUBS.N) - Brian Halligan Chairman of Hubspot in top 5% of NYSE stocks Tuesday December 10, 2024 -"
+HubSpot,2017-12,11:18:12  [LEGNEY] (HUBS.N) - HubSpot Chief Legal Officer Departs 'Upon Mutual Agreement' After Just 2 Years -- -
+HubSpot,2017-12,09:50:14  [LAWCOR] (HUBS.N) - HubSpot Chief Legal Officer Departs 'Upon Mutual Agreement' After Just 2 Years -- -
+HubSpot,2017-12,07:23:41  [YAHNEX] (HUBS.N) - HubSpot Acquires Frame AI Intelligence Platform: Stock to Gain? -- -
+HubSpot,2017-12,06:07:13  [ZACKSC] (HUBS.N) - HubSpot Acquires Frame AI Intelligence Platform: Stock to Gain? -
+HubSpot,2017-12,04:54:30  [GLOSTO] (HUBS.N ACN.N) - Hubspot continues to outperform Accenture by 25.9% in the past month -
+HubSpot,2017-12,04:54:08  [GLOSTO] (HUBS.N AAPL.O) - Hubspot continues to outperform Apple by 21.9% in the past month -
+HubSpot,2017-12,03:52:34  [GLOSTO] (META.O HUBS.N) - Hubspot continues to outperform Meta Platforms by 20.1% in the past month -
+HubSpot,2017-12,"03:43:28  [GLOWEE] (.SPX HUBS.N) - Weekly: Hubspot (HUBS: $741.66) rises for a fifth consecutive week, a five-week rise of 31%; +$20.61 [2.9%] -"
+HubSpot,2017-12,"03:17:27  [NEWNYS] (HUBS.N) - Hubspot rises for a second consecutive day, a two-day rise of 1.3% Monday, December 09, 2024 10:00:00 -"
+HubSpot,2017-12,03:11:45  [WKRNEW] (SF.N HUBS.N) - Stifel Nicolaus Forecasts Strong Price Appreciation for HubSpot (NYSE:HUBS) Stock -- -
+HubSpot,2017-12,"02:54:35  [GLOWEE] (.SPX HUBS.N) - Weekly: Hubspot (HUBS: $741.66) rises for a fifth consecutive week, a five-week rise of 31%; +$20.61 [2.9%] -"
+HubSpot,2017-12,01:53:21  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,01:53:11  [GLOSTO] (HUBS.N ADI.O) - Hubspot continues to outperform Analog Devices by 34.0% in the past month -
+HubSpot,2017-12,"01:07:33  [MARDAJ] (HUBS.N) - Stifel Financial Corp Buys 10,770 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,"01:04:45  [STOOBS] (SF.N HUBS.N) - Stifel Financial Corp Grows Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,"01:04:07  [CERGEM] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Shares Bought by Quantinno Capital Management LP -"
+HubSpot,2017-12,"00:54:54  [GLOWEE] (.SPX HUBS.N) - Weekly: Hubspot (HUBS: $741.66) rises for a fifth consecutive week, a five-week rise of 31%; +$20.61 [2.9%] -"
+HubSpot,2017-12,00:53:24  [GLOSTO] (HUBS.N) - Monday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,00:05:32  [GLOSTO] (HUBS.N) - ICYMI: Monday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,"23:54:21  [GLOWEE] (.SPX HUBS.N) - Weekly: Hubspot (HUBS: $741.66) rises for a fifth consecutive week, a five-week rise of 31%; +$20.61 [2.9%] -"
+HubSpot,2017-12,23:01:39  [RTRS] (HUBS.N) - HUBSPOT INC  HUBS.N: STIFEL RAISES TARGET PRICE TO $880 FROM $750 -
+HubSpot,2017-12,22:48:11  [GLOSTO] (HUBS.N) - ICYMI: Monday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,"22:02:17  [TICREP] (JHG.N HUBS.N) - Janus Henderson Group PLC Has $13.01 Million Stake in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,21:47:59  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,21:47:38  [GLOSTO] (HUBS.N) - Update: Monday's Preview: Can Hubspot continue its recent gains? -
+HubSpot,2017-12,07:19:07  [TELTAL] (HUBS.N) - HubSpot to Acquire Conversation Intelligence Platform Frame AI to Enhance CRM Capabilities -- -
+HubSpot,2017-12,"01:12:13  [USOFFI] (HUBS.N) - Insider Trading: Chief Executive Officer & Pres, Rangan Yamini sells 1,190 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-12,01:20:11  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 41% in 67 days -
+HubSpot,2017-12,01:19:53  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 41% in 67 days -
+HubSpot,2017-12,"23:34:32  [MARDAJ] (HUBS.N) - Two Sigma Advisers LP Purchases 47,900 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,"22:27:19  [NEWPEO] (HUBS.N) - Yamini Rangan CEO of Hubspot in top 10% of NYSE stocks Saturday December 07, 2024 -"
+HubSpot,2017-12,"21:32:28  [NEWPEO] (HUBS.N) - Yamini Rangan's Hubspot top gainer in Timessquare Capital Management soars 40.0% in 66 days Friday December 06, 2024 16:00 EST -"
+HubSpot,2017-12,21:17:07  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 41% in 67 days -
+HubSpot,2017-12,10:21:03  [STOCKP] (HUBS.N) - Hubspot is trading -2.58 percent lower with a volume of USD 425.3 mn on Friday 6th of December -
+HubSpot,2017-12,10:07:55  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.0% in 66 days; +$3.79 [0.5%] -
+HubSpot,2017-12,"09:08:41  [GLOWEE] (.SPX HUBS.N) - Weekly: Hubspot (HUBS: $741.66) rises for a fifth consecutive week, a five-week rise of 31%; +$20.61 [2.9%] -"
+HubSpot,2017-12,08:52:26  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.0% in 66 days; +$3.79 [0.5%] -
+HubSpot,2017-12,07:52:16  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 40.0% in 66 days; +$3.23 [0.4%] -
+HubSpot,2017-12,"07:47:18  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $744.46) lifts $6.59, lifts 3.2% for week; +$6.59 [0.9%] Vol Index 1.4 [1 is avg] -"
+HubSpot,2017-12,"07:27:32  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $744.46) lifts $6.59, lifts 3.2% for week; +$6.59 [0.9%] Vol Index 1.4 [1 is avg] -"
+HubSpot,2017-12,07:22:25  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $743.0) increases $5.13 on firm volume; +$5.13 [0.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,"07:12:21  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $744.46) lifts $6.59, lifts 3.2% for week; +$6.59 [0.9%] Vol Index 1.4 [1 is avg] -"
+HubSpot,2017-12,07:02:44  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $743.0) increases $5.13 on firm volume; +$5.13 [0.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,06:52:19  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $743.0) increases $5.13 on firm volume; +$5.13 [0.7%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,"06:47:24  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $745.33) lifts 1.0%, lifts 3.4% for week; +$7.46 [1.0%] Vol Index 1.4 [1 is avg] -"
+HubSpot,2017-12,"06:42:30  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $737.87) Friday December 06, 2024 07:12 EST -"
+HubSpot,2017-12,"06:27:34  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $745.33) lifts 1.0%, lifts 3.4% for week; +$7.46 [1.0%] Vol Index 1.4 [1 is avg] -"
+HubSpot,2017-12,"06:12:17  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $745.33) lifts 1.0%, lifts 3.4% for week; +$7.46 [1.0%] Vol Index 1.4 [1 is avg] -"
+HubSpot,2017-12,"05:57:31  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $746.26) climbs 1.1%, lifts 3.5% for week; +$8.39 [1.1%] Vol Index 1.3 [1 is avg] -"
+HubSpot,2017-12,05:57:21  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $746.26) climbs 1.1% on firm volume; +$8.39 [1.1%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-12,"05:42:18  [GLOBUL] (.GDAXI HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 43.8% in 65 days Friday December 06, 2024 07:12 EST -"
+HubSpot,2017-12,05:32:44  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $746.26) climbs 1.1% on firm volume; +$8.39 [1.1%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-12,"05:22:21  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $746.26) climbs 1.1%, lifts 3.5% for week; +$8.39 [1.1%] Vol Index 1.3 [1 is avg] -"
+HubSpot,2017-12,05:22:18  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $746.26) climbs 1.1% on firm volume; +$8.39 [1.1%] Vol Index 1.3 [1 is avg] -
+HubSpot,2017-12,05:06:13  [YAHNEX] (.SPX HUBS.N) - HubSpot (HUBS) Up 14.5% Since Last Earnings Report: Can It Continue? -- -
+HubSpot,2017-12,"04:44:13  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $737.87) Friday December 06, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:16  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soared 40% in 66 days; +$13.63 [1.8%] -
+HubSpot,2017-12,04:22:27  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $752.74) climbs 2.0% strengthening above moving average price; +$14.87 [2.0%] -
+HubSpot,2017-12,04:03:31  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $752.74) climbs 2.0% strengthening above moving average price; +$14.87 [2.0%] -
+HubSpot,2017-12,03:57:10  [PYMCOM] (HUBS.N) - HubSpot to Add AI-Powered Conversational Intelligence With Frame AI Acquisition -- -
+HubSpot,2017-12,"03:52:51  [GLOBUL] (.GDAXI HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 43.8% in 65 days Friday December 06, 2024 07:12 EST -"
+HubSpot,2017-12,03:48:32  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 66 days; +$14.87 [2.0%] -
+HubSpot,2017-12,03:47:32  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $752.74) climbs 2.0% strengthening above moving average price; +$14.87 [2.0%] -
+HubSpot,2017-12,03:12:24  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 66 days; +$14.52 [2.0%] -
+HubSpot,2017-12,02:54:20  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 66 days; +$14.52 [2.0%] -
+HubSpot,2017-12,02:43:08  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $752.39) lifts 2.0% strengthening above moving average price; +$14.52 [2.0%] -
+HubSpot,2017-12,02:42:37  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 40% in 66 days; +$14.52 [2.0%] -
+HubSpot,2017-12,"02:03:50  [GURCOM] (HUBS.N) - HubSpot to Acquire Frame AI, Unlocking the Power of Conversational Data with AI -"
+HubSpot,2017-12,01:53:56  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,"01:42:22  [GLOBUL] (.GDAXI HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 43.8% in 65 days Friday December 06, 2024 07:12 EST -"
+HubSpot,2017-12,"01:10:16  [RTRS] (HUBS.N) - HubSpot to Acquire Frame AI, Unlocking the Power of Conversational Data with AI (BRIEF) -"
+HubSpot,2017-12,01:08:51  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 40% in 66 days -
+HubSpot,2017-12,"01:08:39  [YAHNEX] (HUBS.N) - HubSpot to Acquire Frame AI, Unlocking the Power of Conversational Data with AI -- -"
+HubSpot,2017-12,01:05:06  [PUBT] (HUBS.N) - HubSpot Inc. - Welcoming Frame AI to the HubSpot Team -
+HubSpot,2017-12,"01:00:01  [RTRS] (HUBS.N) - HUBSPOT TO ACQUIRE FRAME AI, UNLOCKING THE POWER OF CONVERSATIONAL DATA WITH AI -"
+HubSpot,2017-12,"01:00:00  [BSW] (HUBS.N HAIA.O) - HubSpot to Acquire Frame AI, Unlocking the Power of Conversational Data with AI -"
+HubSpot,2017-12,00:49:14  [GLOSTO] (HUBS.N) - Friday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,"23:48:19  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $737.87) Friday December 06, 2024 07:12 EST -"
+HubSpot,2017-12,23:47:40  [GLOSTO] (HUBS.N) - ICYMI: Friday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,23:07:54  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 40% in 66 days -
+HubSpot,2017-12,"22:52:34  [MARDAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) CEO Yamini Rangan Sells 115 Shares -"
+HubSpot,2017-12,"22:48:55  [AMEBAN] (HUBS.N) - MetLife Investment Management LLC Sells 61 Shares of HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,22:48:50  [GLOSTO] (HUBS.N) - ICYMI: Friday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,"22:43:18  [USOFFI] (HUBS.N) - Insider Trading: Chief Executive Officer & Pres, Rangan Yamini sells 115 shares of HUBSPOT INC [ HUBS ] -"
+HubSpot,2017-12,21:48:06  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,21:47:40  [GLOSTO] (HUBS.N) - Update: Friday's Preview: Can Hubspot rebound after being down? -
+HubSpot,2017-12,21:32:43  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 40% in 66 days -
+HubSpot,2017-12,"21:07:55  [TICREP] (HUBS.N) - MetLife Investment Management LLC Decreases Stock Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,"21:06:52  [TICREP] (HUBS.N) - Townsquare Capital LLC Has $355,000 Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,07:51:50  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 43.8% in 65 days; -$17.16 [-2.3%] -
+HubSpot,2017-12,07:47:17  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$13.98 [-1.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,07:27:37  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$13.98 [-1.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,07:22:21  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $743.63) drops 1.8% on firm volume; -$13.77 [-1.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,07:12:14  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$13.98 [-1.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,07:07:29  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $743.63) drops 1.8% on firm volume; -$13.77 [-1.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,06:52:13  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $743.63) drops 1.8% on firm volume; -$13.77 [-1.8%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,06:47:25  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$10.43 [-1.4%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,06:27:22  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$10.43 [-1.4%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,06:12:15  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$10.43 [-1.4%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,05:57:22  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $748.18) drops 1.2% on robust volume; -$9.22 [-1.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,05:32:35  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $748.18) drops 1.2% on robust volume; -$9.22 [-1.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,05:22:17  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $748.18) drops 1.2% on robust volume; -$9.22 [-1.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,05:08:56  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$9.22 [-1.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,04:47:35  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$9.22 [-1.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,04:33:53  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$9.22 [-1.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,03:57:56  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $749.06) drops 1.1% on robust volume; -$8.34 [-1.1%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,03:43:18  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$8.34 [-1.1%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,03:38:44  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $749.06) drops 1.1% on robust volume; -$8.34 [-1.1%] Vol Index 1.4 [1 is avg] -
+HubSpot,2017-12,03:13:43  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$5.41 [-0.7%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-12,02:53:30  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$5.41 [-0.7%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-12,02:43:16  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $751.99) decreases $5.41 on robust volume; -$5.41 [-0.7%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-12,02:42:30  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 44% in 65 days; -$5.41 [-0.7%] Vol Index 1.7 [1 is avg] -
+HubSpot,2017-12,"02:16:37  [ZACKSC] (HUBS.N) - HubSpot, Inc. (HUBS) Hit a 52 Week High, Can the Run Continue? -"
+HubSpot,2017-12,01:53:19  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-12,01:13:16  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 44% in 65 days -
+HubSpot,2017-12,00:49:39  [GLOSTO] (HUBS.N) - Investors look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,"00:27:28  [NEWWIR] (HUBS.N) - How Hubspot's latest insider trade compares to similar recent trades Wednesday December 04, 2024 -"
+HubSpot,2017-12,"00:11:46  [TRADAJ] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) CEO Yamini Rangan Sells 115 Shares -"
+HubSpot,2017-12,23:47:44  [GLOSTO] (HUBS.N) - ICYMI: Traders look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,23:07:40  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 44% in 65 days -
+HubSpot,2017-12,22:48:12  [GLOSTO] (HUBS.N) - ICYMI: Traders look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,"21:51:14  [MARBEA] (HUBS.N) - Point72 DIFC Ltd Invests $1.41 Million in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-12,21:48:27  [GLOWEE] (HUBS.N) - What the Beneish M-score tells us about Hubspot -
+HubSpot,2017-12,21:48:06  [GLOSTO] (HUBS.N) - Update: Traders look to see if Hubspot's recent rally will continue -
+HubSpot,2017-12,21:47:47  [NEWNYS] (HUBS.N) - Hubspot top gainer among Dorsal Capital Management holdings; jumps 44% in 65 days -
+HubSpot,2017-12,"21:12:28  [NEWPEO] (HUBS.N) - Jill Ward Director of Hubspot in top 8% of NYSE stocks Thursday December 05, 2024 -"
+HubSpot,2017-12,"17:54:11  [ETFDAI] (HUBS.N) - Short Interest in HubSpot, Inc. (NYSE:HUBS) Grows By 5.8% -- -"
+HubSpot,2017-12,"17:26:46  [NEWPEO] (HUBS.N) - Hubspot CEO Yamini Rangan sells shares worth $82,086 Wednesday December 04, 2024 -"
+HubSpot,2017-12,"16:02:11  [COMFIN] (HUBS.N) - Insider Selling: HubSpot, Inc. (NYSE:HUBS) CEO Sells 115 Shares of Stock -"
+HubSpot,2017-12,10:07:22  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $756.48) hits year-high 6th time in one month; +$37.04 [5.1%] -
+HubSpot,2017-12,08:47:47  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $756.48) hits year-high 6th time in one month; +$37.04 [5.1%] -
+HubSpot,2017-12,"07:51:32  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 36.5% in 64 days, hits thirty-seven-month high; +$36.58 [5.1%] -"
+HubSpot,2017-12,07:47:16  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.91) surges 5.3% on high volume; +$38.47 [5.3%] Vol Index 2.0 [1 is avg] -
+HubSpot,2017-12,07:27:11  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $757.91) surges 5.3% on high volume; +$38.47 [5.3%] Vol Index 2.0 [1 is avg] -
+HubSpot,2017-12,07:27:05  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.0) hits three-year high on high volume; +$37.56 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,07:22:15  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.0) jumps 5.2% on high volume; +$37.56 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,07:12:22  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.91) surges 5.3% on high volume; +$38.47 [5.3%] Vol Index 2.0 [1 is avg] -
+HubSpot,2017-12,07:02:21  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $757.0) jumps 5.2% on high volume; +$37.56 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,06:52:18  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.0) hits three-year high on high volume; +$37.56 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,06:52:15  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.0) jumps 5.2% on high volume; +$37.56 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,06:47:14  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $759.01) hits three-year high on high volume; +$39.57 [5.5%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,06:47:08  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $759.01) surges 5.5% on high volume; +$39.57 [5.5%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,"06:42:19  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $719.44) Wednesday December 04, 2024 07:12 EST -"
+HubSpot,2017-12,06:22:49  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $759.01) surges 5.5% on high volume; +$39.57 [5.5%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,06:12:17  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $759.01) hits three-year high on high volume; +$39.57 [5.5%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,06:12:12  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $759.01) surges 5.5% on high volume; +$39.57 [5.5%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,05:57:19  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.95) jumps 5.4% strengthening above moving average price; +$38.51 [5.4%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,05:57:18  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.95) hits three-year high on high volume; +$38.51 [5.4%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,"05:42:13  [GLOBUL] (.GDAXI HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.3% in 63 days Wednesday December 04, 2024 07:12 EST -"
+HubSpot,2017-12,05:32:18  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $757.95) jumps 5.4% strengthening above moving average price; +$38.51 [5.4%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,05:22:17  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.95) hits three-year high on high volume; +$38.51 [5.4%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,05:22:15  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.95) jumps 5.4% strengthening above moving average price; +$38.51 [5.4%] Vol Index 1.9 [1 is avg] -
+HubSpot,2017-12,05:07:26  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.20) surges 5.2% on high volume; +$37.76 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,05:07:23  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.20) hits three-year high on high volume; +$37.76 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,04:47:16  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $757.20) hits three-year high on high volume; +$37.76 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,"04:42:43  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $719.44) Wednesday December 04, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:27  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.20) surges 5.2% on high volume; +$37.76 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,04:32:24  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $757.20) hits three-year high on high volume; +$37.76 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,04:32:11  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soared 37% in 64 days; +$37.76 [5.2%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,04:12:14  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $756.16) jumps 5.1% strengthening above moving average price; +$36.72 [5.1%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-12,04:12:05  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $756.16) hits year-high 6th time in one month; +$36.72 [5.1%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-12,"03:53:39  [GLOBUL] (.GDAXI HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.3% in 63 days Wednesday December 04, 2024 07:12 EST -"
+HubSpot,2017-12,03:53:12  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $756.16) hits year-high 6th time in one month; +$36.72 [5.1%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-12,03:52:32  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $756.16) jumps 5.1% on high volume; +$36.72 [5.1%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-12,03:43:04  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 64 days; +$36.72 [5.1%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-12,03:37:16  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $756.16) jumps 5.1% strengthening above moving average price; +$36.72 [5.1%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-12,03:37:08  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $756.16) hits year-high 6th time in one month; +$36.72 [5.1%] Vol Index 2.2 [1 is avg] -
+HubSpot,2017-12,03:17:39  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $754.22) hits three-year high on high volume; +$34.78 [4.8%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,03:17:32  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 64 days; +$34.78 [4.8%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,02:53:07  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 64 days; +$34.78 [4.8%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,02:52:39  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $754.22) gains 4.8% strengthening above moving average price; +$34.78 [4.8%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,02:42:42  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $754.22) hits year-high 6th time in one month; +$34.78 [4.8%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,02:42:27  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $754.22) hits three-year high on high volume; +$34.78 [4.8%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,02:42:21  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 64 days; +$34.78 [4.8%] Vol Index 2.1 [1 is avg] -
+HubSpot,2017-12,"01:42:09  [GLOBUL] (.GDAXI HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.3% in 63 days Wednesday December 04, 2024 07:12 EST -"
+HubSpot,2017-12,01:33:46  [INDINV] (HUBS.N) - ZINFI Partner Management Joins the HubSpot App Marketplace -
+HubSpot,2017-12,00:48:55  [GLOSTO] (HUBS.N) - Investors concerned as Hubspot down in recent days -
+HubSpot,2017-12,"23:47:46  [GLOSNI] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET STOCK SNIPPETS HUBSPOT (HUBS: $719.44) Wednesday December 04, 2024 07:12 EST -"
+HubSpot,2017-12,"21:50:01  [TRADAJ] (HUBS.N) - BRITISH COLUMBIA INVESTMENT MANAGEMENT Corp Has $4.30 Million Stock Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,"21:11:19  [MARBEA] (HUBS.N) - BRITISH COLUMBIA INVESTMENT MANAGEMENT Corp Has $4.30 Million Stock Position in HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-12,11:00:00  [FDFAIR] (HUBS.N) - Event Brief of HubSpot Inc at Wells Fargo TMT Summit - Final -
+HubSpot,2017-12,"10:07:54  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $719.38) falls in 4 out of last 5 days, 5-day fall of 1.4%; -$4.21 [0.6%] -"
+HubSpot,2017-12,"09:03:54  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $719.38) falls in 4 out of last 5 days, 5-day fall of 1.4%; -$4.21 [0.6%] -"
+HubSpot,2017-12,"08:48:57  [GLOSTP] (.SPX HUBS.N) - Monthly: Hubspot (HUBS: $721.05) rises for a fourth consecutive month, a four-month rise of 45% -"
+HubSpot,2017-12,07:52:24  [GLOSTO] (HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.3% in 63 days; -$6.34 [-0.9%] -
+HubSpot,2017-12,07:47:15  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$8.55 [-1.2%] -
+HubSpot,2017-12,07:27:08  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$8.55 [-1.2%] -
+HubSpot,2017-12,07:11:53  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$8.55 [-1.2%] -
+HubSpot,2017-12,"07:01:59  [COMFIN] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Sees Large Increase in Short Interest -"
+HubSpot,2017-12,06:47:20  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$6.89 [-1.0%] -
+HubSpot,2017-12,"06:42:29  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days Tuesday December 03, 2024 11... -"
+HubSpot,2017-12,"06:42:17  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $723.59) Tuesday December 03, 2024 07:12 EST -"
+HubSpot,2017-12,06:27:13  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$6.89 [-1.0%] -
+HubSpot,2017-12,06:12:16  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$6.89 [-1.0%] -
+HubSpot,2017-12,06:00:00  [FDFAIR] (HUBS.N) - HubSpot Inc at Wells Fargo TMT Summit - Final -
+HubSpot,2017-12,"05:42:17  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $723.59) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday December 03, 2024 07:12 EST -"
+HubSpot,2017-12,"05:42:17  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $723.57) strengthens above moving average price Tuesday December 03, 2024 07:12 EST -"
+HubSpot,2017-12,05:07:28  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$6.29 [-0.9%] -
+HubSpot,2017-12,04:55:25  [GLOSTO] (HUBS.N) - Hubspot continues to underperform IBM by 19.4% year to date -
+HubSpot,2017-12,04:47:41  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$6.29 [-0.9%] -
+HubSpot,2017-12,"04:42:34  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days Tuesday December 03, 2024 11... -"
+HubSpot,2017-12,"04:42:19  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $723.59) Tuesday December 03, 2024 07:12 EST -"
+HubSpot,2017-12,04:32:23  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$6.29 [-0.9%] -
+HubSpot,2017-12,04:12:22  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $718.94) decreases $4.65 on firm volume; -$4.65 [-0.6%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-12,"04:07:54  [GLOBUL] (HUBS.N) - Confirmatory Bullish Trend: Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days Tuesday December 03, 2024 11... -"
+HubSpot,2017-12,03:59:28  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $718.94) decreases $4.65 on firm volume; -$4.65 [-0.6%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-12,"03:58:49  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $723.59) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday December 03, 2024 07:12 EST -"
+HubSpot,2017-12,"03:58:37  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $723.57) strengthens above moving average price Tuesday December 03, 2024 07:12 EST -"
+HubSpot,2017-12,03:53:50  [GLOSTO] (ORCL.N HUBS.N) - Hubspot continues to underperform Oracle by 49.5% year to date -
+HubSpot,2017-12,03:43:14  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; -$4.65 [-0.6%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-12,03:37:10  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $718.94) decreases $4.65 on firm volume; -$4.65 [-0.6%] Vol Index 1.2 [1 is avg] -
+HubSpot,2017-12,03:17:43  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $725.31) strengthens above moving average price; +$1.72 [0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,03:17:43  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; +$1.72 [0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,02:53:15  [GLOTRA] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; +$1.72 [0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,02:52:51  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $725.31) increases $1.72 on robust volume; +$1.72 [0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,02:48:32  [GLOTRA] (HUBS.N) - Hubspot (HUBS: $725.31) in 2nd consecutive rise; +$1.72 [0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,02:47:31  [GLOSTO] (HUBS.N) - Hubspot (HUBS: $725.31) strengthens above moving average price; +$1.72 [0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,02:42:17  [GLOSTO] (HUBS.N) - Hubspot among top gainers of Timessquare Capital Management holdings; soars 37% in 63 days; +$1.72 [0.2%] Vol Index 1.5 [1 is avg] -
+HubSpot,2017-12,"01:42:24  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $723.57) strengthens above moving average price Tuesday December 03, 2024 07:12 EST -"
+HubSpot,2017-12,"01:42:23  [GLOBUL] (.GDAXI HUBS.N) - Hubspot (HUBS: $723.59) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday December 03, 2024 07:12 EST -"
+HubSpot,2017-12,01:09:38  [NEWNYS] (HUBS.N) - Hubspot top gainer among Timessquare Capital Management holdings; jumps 37% in 63 days -
+HubSpot,2017-12,"23:52:22  [GLOBUL] (.GDAXI HUBS.N) - THE NYSE PRE-MARKET BULLISH STOCK SNIPPETS HUBSPOT (HUBS: $723.59) Tuesday December 03, 2024 07:12 EST -"
+HubSpot,2017-12,23:07:40  [NEWNYS] (HUBS.N) - Hubspot top gainer among Timessquare Capital Management holdings; jumps 37% in 63 days -
+HubSpot,2017-12,"22:26:34  [NEWPEO] (HUBS.N) - Brian Halligan Chairman of Hubspot in top 5% of NYSE stocks Tuesday December 03, 2024 -"
+HubSpot,2017-12,21:57:16  [NEWNYS] (HUBS.N) - Hubspot top gainer among Timessquare Capital Management holdings; jumps 37% in 63 days -
+HubSpot,2017-12,"20:34:40  [AMEBAN] (HUBS.N) - 957 Shares in HubSpot, Inc. (NYSE:HUBS) Purchased by Healthcare of Ontario Pension Plan Trust Fund -"
+HubSpot,2017-12,"20:12:36  [TICREP] (HUBS.N) - Healthcare of Ontario Pension Plan Trust Fund Acquires Shares of 957 HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,"20:10:22  [MARBEA] (HUBS.N) - Healthcare of Ontario Pension Plan Trust Fund Acquires Shares of 957 HubSpot, Inc. (NYSE:HUBS) -- -"
+HubSpot,2017-12,"06:42:14  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $721.05) Monday December 02, 2024 07:12 EST -"
+HubSpot,2017-12,"05:42:10  [GLOBUL] (.SPX HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.2% in 59 days Monday December 02, 2024 07:12 EST -"
+HubSpot,2017-12,04:53:26  [GLOSTO] (HUBS.N) - Hubspot continues to outperform Accenture by 19.3% year to date -
+HubSpot,2017-12,"04:44:01  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $721.05) Monday December 02, 2024 07:12 EST -"
+HubSpot,2017-12,04:03:16  [GLOSTO] (HUBS.N) - Hubspot continues to underperform Meta Platforms by 38.1% year to date -
+HubSpot,2017-12,"03:59:29  [GLOSTO] (HUBS.N) - Monthly: Hubspot (HUBS: $721.05) rises for a fourth consecutive month, a four-month rise of 45% -"
+HubSpot,2017-12,"03:52:29  [GLOBUL] (.SPX HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.2% in 59 days Monday December 02, 2024 07:12 EST -"
+HubSpot,2017-12,"03:48:56  [GLOSTO] (HUBS.N) - Monthly: Hubspot (HUBS: $721.05) rises for a fourth consecutive month, a four-month rise of 45% -"
+HubSpot,2017-12,"02:36:55  [ZOLCOM] (HUBS.N) - Holocene Advisors LP Has $169.99 Million Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,01:52:43  [GLOSTO] (HUBS.N) - Hubspot continues to outperform Analog Devices by 14.4% year to date -
+HubSpot,2017-12,01:52:41  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,"01:52:10  [WKRNEW] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) Position Boosted by Holocene Advisors LP -- -"
+HubSpot,2017-12,"01:48:11  [GLOBUL] (.SPX HUBS.N) - Hubspot top gainer in Timessquare Capital Management soars 37.2% in 59 days Monday December 02, 2024 07:12 EST -"
+HubSpot,2017-12,"00:29:55  [GLOBEA] (HUBS.N .SPX) - THE NYSE PRE-MARKET BEARISH STOCK SNIPPETS HUBSPOT (HUBS: $721.05) Monday December 02, 2024 07:12 EST -"
+HubSpot,2017-12,"00:20:42  [GLOBEA] (HUBS.N .SPX) - Hubspot (HUBS: $721.05) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday December 02, 2024 07:12 EST -"
+HubSpot,2017-12,"00:14:30  [GLOSTO] (HUBS.N) - Monthly: Hubspot (HUBS: $721.05) rises for a fourth consecutive month, a four-month rise of 45% -"
+HubSpot,2017-12,"00:05:09  [GLOSTO] (HUBS.N) - Monthly: Hubspot (HUBS: $721.05) rises for a fourth consecutive month, a four-month rise of 45% -"
+HubSpot,2017-12,"23:25:50  [NEWNYS] (HUBS.N) - Hubspot in 4th consecutive fall, nears low Friday, November 29, 2024 12:00:00 -"
+HubSpot,2017-12,"23:08:47  [GLOSTO] (HUBS.N) - Monthly: Hubspot (HUBS: $721.05) rises for a fourth consecutive month, a four-month rise of 45% -"
+HubSpot,2017-12,"22:58:02  [WATNEW] (HUBS.N) - Paloma Partners Management Co Takes $3.72 Million Position in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,"22:49:17  [GLOSTO] (HUBS.N) - Monthly: Hubspot (HUBS: $721.05) rises for a fourth consecutive month, a four-month rise of 45% -"
+HubSpot,2017-12,"22:07:48  [TRADAJ] (HUBS.N) - Point72 Hong Kong Ltd Trims Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"
+HubSpot,2017-12,21:48:50  [GLOWEE] (HUBS.N) - Hubspot continues to show strength in solvency ratios -
+HubSpot,2017-12,"17:12:48  [NEWPEO] (HUBS.N) - Yamini Rangan CEO of Hubspot in top 5% of NYSE stocks Monday December 02, 2024 -"
+HubSpot,2017-12,"05:32:39  [COMFIN] (HUBS.N) - HubSpot, Inc. (NYSE:HUBS) is Abdiel Capital Advisors LP's 3rd Largest Position -"
+HubSpot,2017-12,"19:41:57  [TICREP] (HUBS.N) - Cerity Partners LLC Has $2.88 Million Stock Holdings in HubSpot, Inc. (NYSE:HUBS) -"

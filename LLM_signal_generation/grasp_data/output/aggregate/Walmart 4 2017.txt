@@ -1,0 +1,433 @@
+firm_id,date,text
+walmart,2017-4,{{20170428T201701.929+0000}}BUZZ-U.S. stocks weekly: Heavyweights pack on the pounds** S&P 500 <.SPX> posts best weekly performance since mid
+walmart,2017-4,"{{20170428T154001.696+0000}}BUZZ-Amazon closes in on top U.S. apparel retailer Wal-Mart - Morgan Stanley** Amazon.com , the 2nd largest U.S. apparel retailer in 2016, accounting for 7.4 pct of apparel sales, closing in on top-ranked WMT's 8.1 pct, according to a Morgan Stanley research note"
+walmart,2017-4,"** MS retail analyst Kimberly Greenberger writes that AMZN's apparel revenue grew 16.7 pct in 2016, taking share from department stores (down 5.5 pct) and mass merchandisers like Target and Wal-Mart (down 6.3 pct), according to Euromonitor"
+walmart,2017-4,** An MS consumer survey shows 46 pct bought clothes from the online retailer in the last year
+walmart,2017-4,"** Prime members appear to be driving the trend, and are 1.5x more likely than non-Prime members to purchase clothes on AMZN, Greenberger says"
+walmart,2017-4,"** Among brands, Nike , Adidas , Hanes and Under Armour were the most sought in 2016 according to the survey"
+walmart,2017-4,"** AMZN reported Q1 profit increase of 41 pct on Thurs, beating Wall Street estimates [nL4N1HZ6RL]"
+walmart,2017-4,"** AMZN share price has increased 51.4 pct in the last year, compared with WMT (up 8.7 pct) and S&P 500 Retail Apparel Index <.SPLRCRETA> (down 0.9 pct)"
+walmart,2017-4,{{20170425T191911.722+0000}}BREAKINGVIEWS-Wal-Mart reroutes e-commerce race to last mile(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+walmart,2017-4,"NEW YORK, April 25 (Reuters Breakingviews) - Wal-Mart is rerouting the e-commerce race to the last mile. The $220 billion retailer may soon add another online merchant to its growing collection. More significant is the company's wider efforts to discount some web items if customers pick them up in stores."
+walmart,2017-4,"Bonobo's, the New York-based men's fashion site, is set to join Wal-Mart's digital hodgepodge, according to Recode. It would go on the rack next to recently acquired women's-wear shop ModCloth and others. They in turn sit alongside Jet.com, which Wal-Mart bought last year for $3.3 billion in part to have the discount site's chief executive, Marc Lore, jumpstart its online presence."
+walmart,2017-4,"Doing so may require the Bentonville behemoth to leverage its physical advantage. Wal-Mart isn't alone trying to solve this problem. Target , for example, said it would invest $7 billion over the next three years to get more people to click and then drive to stores to retrieve their purchases."
+walmart,2017-4,"The biggest cost of getting a package to a customer's home is the end of the trip. This so-called last mile accounts for 80 percent of the shipping bill, analysts estimate. At Amazon , those expenses are rising quickly. Last year, it shelled out some $7 billion to cover shipping costs, 43 percent more than in 2015. Drones or driverless cars could be the answer someday, but not anytime soon."
+walmart,2017-4,"For now, nine out of 10 Americans live within 15 minutes of one of Wal-Mart's 4,700 stores. Delivering to those from warehouses is a cheaper proposition, and Wal-Mart is ready to pass some of the savings on to shoppers. It's also one area where Amazon is trying to play catch-up. According to media reports, it plans to open 2,000 stores over the next decade."
+walmart,2017-4,"The question is whether Wal-Mart and its bricks-and-mortar peers can convince enough customers to make the trip themselves. Pick-up savings vary, but for a $111 Coleman cooler, in one example, the discount was 4 percent. Another big challenge will be to make sure the web-to-store process is painless."
+walmart,2017-4,"Only 3 percent of Wal-Mart's $500 billion in revenue comes from online purchases. With Amazon's top line on its heels, Wal-Mart may have to pick up the pace on the final part of the supply-chain course."
+walmart,2017-4,"- Wal-Mart said that on April 19 it started offering discounts on certain products for customers who order online and pick up the items in its nearly 4,700 U.S. stores."
+walmart,2017-4,"- The company also is in advanced discussions to buy online retailer Bonobos, according to an April 14 report in Recode. The Wall Street Journal reported an April 18 that the deal is worth about $300 million."
+walmart,2017-4,- Wal-Mart's other e-commerce acquisitions include Jet.com in September 2016 for $3.3 billion; ShoeBuy for $70 million in December 2016; outdoor gear seller Moosejaw for $51 million in February; and women's-wear retailer ModCloth for an undisclosed sum in March.
+walmart,2017-4,"- For previous columns by the author, Reuters customers can click on [SABA/]"
+walmart,2017-4,Long Island Iced Tea announces new partnership with Sam's Club for Puerto Rico - Reuters Investor Briefs
+walmart,2017-4,{{20170425T121822.910+0000}}BRIEF-Long Island Iced Tea announces new partnership with Sam's Club for Puerto RicoApril 25 (Reuters) - Long Island Iced Tea Corp
+walmart,2017-4,* Long Island Iced Tea Corp. announces new partnership with Sam's Club for Puerto Rico
+walmart,2017-4,* Long Island Iced Tea Corp- Secured placement of its brand Long Island Iced Tea in 11 Sam's Club locations in Puerto Rico that will commence in April 2017
+walmart,2017-4,Source text for Eikon: [ID:nMKWLlJcca] Further company coverage: [LTEA.O]
+walmart,2017-4,"{{20170424T123952.789+0000}}Wal-Mart e-commerce investment arm names new retail startup CEOApril 24 (Reuters) - Wal-Mart Stores Inc , the world's no.1 retailer, said its recently launched startup investment arm, Store No 8, has hired Jenny Fleiss as the chief executive of its first portfolio company."
+walmart,2017-4,"Silicon Valley-based Store No 8, launched in March to expand Wal-Mart's e-commerce business, plans to work with startups that specialize in areas such as robotics, virtual and augmented reality, machine learning and artificial intelligence. [nL3N1GX4WH]"
+walmart,2017-4,{{20170421T142342.999+0000}}UPDATE 1-U.S. retailers bet on Congress over Bolivia to thwart Trump border tax issue(Adds tax details in paragraph 2)
+walmart,2017-4,"CHICAGO, April 21 (Reuters) - Target Corp , Wal-Mart Stores Inc and other retailers are shelving considerations to move supply bases closer to the United States in the face of a possible border tax, banking instead on killing support for the tax idea in Congress."
+walmart,2017-4,"President Donald Trump's push to impose a tax on imports, such as the 20 percent levy initiated by House Republicans, could raise U.S. consumer prices by as much as 25 percent, industry officials said. Last week, the President said he favored an 'import tax' that could be adjusted to reflect the country of origin's tax rate for U.S. products."
+walmart,2017-4,The decision by retailers to forestall supply chain investment in countries such as Bolivia and Romania to focus on lobbying Congress shows how Trump's ambitious agenda has instilled a new level of risk operating outside U.S. borders. But the vagueness around the tax proposals and whether they may ever be implemented means retail industry executives are still not willing to change their operating infrastructure.
+walmart,2017-4,"The Retail Industry Leaders Association, which is leading the industry lobbying effort, has conducted 140 meetings with lawmakers since December, focusing on the costs of a new tax and encouraging lawmakers who oppose the tax."
+walmart,2017-4,"Prospects for a quick passage of a tax bill took a hit last month when the Republican attempt to overhaul the national healthcare law failed to get a vote in the U.S. House of Representatives. Trump and Republican leaders have said they still intend to pass a healthcare reform law first, casting further doubt on when Congress may consider tax reform."
+walmart,2017-4,"The border tax proposal likely will be ""as messy as the healthcare bill,"" according to Brian Dodge, senior executive vice-president of public affairs for the retail lobby group."
+walmart,2017-4,"Target, for one, thinks the industry's lobbying efforts are succeeding."
+walmart,2017-4,"""We are working on educating lawmakers and President Trump hasn't embraced it yet, so we definitely think we are making progress,"" a senior company official at Target said on condition of anonymity."
+walmart,2017-4,"Best Buy Co Inc , which relies heavily on electronics imports, could see its earnings completely wiped out, RBC warned. Best Buy declined to comment."
+walmart,2017-4,"Firms with less exposure to overseas suppliers - ranging from off-price chains like TJX Cos and Ross Stores to cosmetics seller Ulta Beauty - would feel less impact than heavy importers like Wal-Mart, Target and Costco Wholesale Corp , analysts and consultants said."
+walmart,2017-4,TJX Companies and Ulta Beauty declined comment. Ross Stores and Costco did not respond to requests seeking comment.
+walmart,2017-4,"Steve Osburn, director of supply chain for retail consultancy Kurt Salmon, said it is more cost effective to spend on lobbying than on supply chain relocation at this point. Retailers also have other investment needs, especially around winning consumers who want to shop from home."
+walmart,2017-4,"""They are putting a lot of money in e-commerce initiatives to compete online so there are not a lot of funds to spare,"" he said."
+walmart,2017-4,"One outlier is luxury handbag maker Rebecca Minkoff, which sells its own products and supplies other retailers, like Nordstrom Inc and Amazon.com Inc ."
+walmart,2017-4,"The prospect of a U.S. border tax factored into its recent decision to supply U.S. customers from Europe as it mitigates logistics costs to supply to the United States, according to Uri Minkoff, the firm's founder and CEO."
+walmart,2017-4,"""The process has intensified in the past six months,"" said Minkoff."
+walmart,2017-4,"The decision to bank more on the lobby effort to kill support for the tax idea comes after retailers spent the last few months considering whether to move some of their production to supply bases like Bolivia, Brazil and other South American countries with low wage rates, as well as European countries like Hungary, Bulgaria and the Czech Republic, industry sources told Reuters."
+walmart,2017-4,"A return to the United States was also a consideration, the sources said."
+walmart,2017-4,"Shifting production from existing supply bases like China is costly, may involve intellectual property issues and disrupts long-term supply contracts, making it hard to plan and execute such moves, two industry sources said."
+walmart,2017-4,"Consultants have told retailers they could mitigate shipping costs enough to offset any border tax, while avoiding the cost of moving production into the U.S, the sources said."
+walmart,2017-4,"But so far they are not proceeding with major supply chain changes, according to retailers and industry consultants."
+walmart,2017-4,"""Wal-Mart is not ready to spend money to deal with this,"" said a supply chain consultant who works with the retailer but requested anonymity for fear of disrupting the firm's relationship with Wal-Mart."
+walmart,2017-4,"Wal-Mart has reviewed its options with supply chain consultants, but has not yet commissioned a concrete contingency plan, sources with direct knowledge of the matter said."
+walmart,2017-4,"Executives at smaller retailers and brands like Samsonite, Crate and Barrel and Steve Madden said there is little competitive impetus for action because they believe a border tax would hurt them and competitors equally."
+walmart,2017-4,"Samsonite was studying reviving its U.S. manufacturing base, but is not close to taking action."
+walmart,2017-4,"""Setting plans (based) on policy proposals that are yet to be implemented is not right,"" Samsonite Chief Executive Officer Ramesh Tainwala told Reuters."
+walmart,2017-4,"Minneapolis-based Target is limiting itself to conducting feasibility studies. ""We just don't want to get ahead of ourselves and invest capital,"" the Target official said."
+walmart,2017-4,{{20170421T110005.608+0000}}U.S. retailers bet on Congress over Bolivia to thwart Trump border tax issueBy Nandita Bose
+walmart,2017-4,The decision by retailers to forestall supply chain investment in countries such as Bolivia and Romania to focus on lobbying Congress shows how Trump's ambitious agenda has instilled a new level of risk operating outside U.S. borders. But the vagueness around Trump's proposals and whether they may ever be implemented means retail industry executives are still not willing to change their operating infrastructure.
+walmart,2017-4,"The Retail Industry Leaders Association, which is leading the industry lobbying effort, has conducted 140 meetings with lawmakers since December, focusing on the costs of a new tax and encouraging lawmakers who oppose Trump's idea."
+walmart,2017-4,"Prospects for a quick passage of a tax bill took a hit last month when the Republican attempt to overhaul the national healthcare law failed to get a vote in the U.S. House of Representatives. Trump and Republican leaders have said they still intend to pass a healthcare reform law first, casting further doubt on when Congress may consider tax reform."
+walmart,2017-4,"The border tax proposal likely will be ""as messy as the healthcare bill,"" according to Brian Dodge, senior executive vice-president of public affairs for the retail lobby group."
+walmart,2017-4,"Target, for one, thinks the industry's lobbying efforts are succeeding."
+walmart,2017-4,"""We are working on educating lawmakers and President Trump hasn't embraced it yet, so we definitely think we are making progress,"" a senior company official at Target said on condition of anonymity."
+walmart,2017-4,"Best Buy Co Inc , which relies heavily on electronics imports, could see its earnings completely wiped out, RBC warned. Best Buy declined to comment."
+walmart,2017-4,"Firms with less exposure to overseas suppliers - ranging from off-price chains like TJX Cos and Ross Stores to cosmetics seller Ulta Beauty - would feel less impact than heavy importers like Wal-Mart, Target and Costco Wholesale Corp , analysts and consultants said."
+walmart,2017-4,TJX Companies and Ulta Beauty declined comment. Ross Stores and Costco did not respond to requests seeking comment.
+walmart,2017-4,"Steve Osburn, director of supply chain for retail consultancy Kurt Salmon, said it is more cost effective to spend on lobbying than on supply chain relocation at this point. Retailers also have other investment needs, especially around winning consumers who want to shop from home."
+walmart,2017-4,"""They are putting a lot of money in e-commerce initiatives to compete online so there are not a lot of funds to spare,"" he said."
+walmart,2017-4,"One outlier is luxury handbag maker Rebecca Minkoff, which sells its own products and supplies other retailers, like Nordstrom Inc and Amazon.com Inc ."
+walmart,2017-4,"The prospect of a Trump border tax factored into its recent decision to supply U.S. customers from Europe as it mitigates logistics costs to supply to the United States, according to Uri Minkoff, the firm's founder and CEO."
+walmart,2017-4,"""The process has intensified in the past six months,"" said Minkoff."
+walmart,2017-4,"The decision to bank more on the lobby effort to kill support for the tax idea comes after retailers spent the last few months considering whether to move some of their production to supply bases like Bolivia, Brazil and other South American countries with low wage rates, as well as European countries like Hungary, Bulgaria and the Czech Republic, industry sources told Reuters."
+walmart,2017-4,"A return to the United States was also a consideration, the sources said."
+walmart,2017-4,"Shifting production from existing supply bases like China is costly, may involve intellectual property issues and disrupts long-term supply contracts, making it hard to plan and execute such moves, two industry sources said."
+walmart,2017-4,"Consultants have told retailers they could mitigate shipping costs enough to offset any border tax, while avoiding the cost of moving production into the U.S, the sources said."
+walmart,2017-4,"But so far they are not proceeding with major supply chain changes, according to retailers and industry consultants."
+walmart,2017-4,"""Wal-Mart is not ready to spend money to deal with this,"" said a supply chain consultant who works with the retailer but requested anonymity for fear of disrupting the firm's relationship with Wal-Mart."
+walmart,2017-4,"Wal-Mart has reviewed its options with supply chain consultants, but has not yet commissioned a concrete contingency plan, sources with direct knowledge of the matter said."
+walmart,2017-4,"Executives at smaller retailers and brands like Samsonite, Crate and Barrel and Steve Madden said there is little competitive impetus for action because they believe a border tax would hurt them and competitors equally."
+walmart,2017-4,"Samsonite was studying reviving its U.S. manufacturing base, but is not close to taking action."
+walmart,2017-4,"""Setting plans (based) on policy proposals that are yet to be implemented is not right,"" Samsonite Chief Executive Officer Ramesh Tainwala told Reuters."
+walmart,2017-4,"Minneapolis-based Target is limiting itself to conducting feasibility studies. ""We just don't want to get ahead of ourselves and invest capital,"" the Target official said."
+walmart,2017-4,"{{20170420T220158.960+0000}}UPDATE 1-Wal-Mart CEO's compensation rises to $22.4 million(Adds details on management compensation, company background)"
+walmart,2017-4,"CHICAGO, April 20 (Reuters) - Wal-Mart Stores Inc's chief executive officer received a 13 percent increase in total compensation to $22.4 million in the fiscal year ended Jan. 31, according to a regulatory filing on Thursday, as sales growth at the world's largest retailer remained robust."
+walmart,2017-4,"CEO Doug McMillon's compensation, which included cash and stock, compared with $19.8 million the previous year, according to the filing with the U.S. Securities and Exchange Commission."
+walmart,2017-4,McMillon took over the top job at Wal-Mart in February 2014.
+walmart,2017-4,"In the recently ended fiscal year, Wal-Mart's operating income fell 5.6 percent to $22.8 billion, compared with an 11 percent drop a year earlier, and sales rose 0.8 percent to $485.9 billion. Excluding the impact of currency Wal-Mart said sales rose 3.1 percent to $496 billion."
+walmart,2017-4,"The retailer's core U.S. operations have shown improvement, with sales at existing stores rising 1.3 percent in the last fiscal year, excluding fuel. The company has said investments in wages and training have led to better customer service at its more than 5,000 stores, including the Sam's Club warehouse chain."
+walmart,2017-4,"Wal-Mart's effort to lower prices has attracted more customers, leading to a ninth consecutive quarter of customer traffic growth at its stores during the quarter ended Jan.31. [nL1N1G60DJ]"
+walmart,2017-4,"Greg Foran, head of the U.S. business, received total compensation of $11.55 million, a slight increase from $11.54 million a year ago."
+walmart,2017-4,"U.S. e-commerce chief Marc Lore, who joined Wal-Mart in August from e-commerce startup Jet.com, received a payout of $243.9 million, including restricted stock units given when Wal-Mart acquired Jet. Excluding that, Lore earned $7.6 million."
+walmart,2017-4,"Wal-Mart CEO McMillon's 2017 total compensation $22.4 mln, Co says Carla Harris is new director nominee - Reuters Investor Briefs"
+walmart,2017-4,"{{20170420T214217.882+0000}}Wal-Mart CEO McMillon's 2017 total compensation $22.4 mln, Co says Carla Harris is new director nomineeApril 20 (Reuters) - Walmart <WMT.N>:Wal-Mart Stores CEO Douglas McMillon's 2017 total compensation, for fiscal year ended Jan. 31, $22.4 million versus $19.8 million in 2016 - SEC filing.Wal-Mart - CFO Brett Biggs's 2017 total compensation, for fiscal year ended Jan."
+walmart,2017-4,"{{20170420T210313.983+0000}}BRIEF-Wal-Mart CEO McMillon's 2017 total compensation $22.4 mln, Co says Carla Harris is new director nomineeApril 20 (Reuters) - Walmart"
+walmart,2017-4,"* Wal-Mart Stores CEO Douglas McMillon's 2017 total compensation, for fiscal year ended Jan. 31, $22.4 million versus $19.8 million in 2016 - SEC filing"
+walmart,2017-4,"* Wal-Mart - CFO Brett Biggs's 2017 total compensation, for fiscal year ended Jan. 31, $6.4 million versus $8.6 million in 2016"
+walmart,2017-4,* Wal-Mart - Linda wolf and Pam Craig are retiring from the board and will not stand for re-election
+walmart,2017-4,* Wal-Mart says this year's proxy materials seek shareholders' vote on 11 director nominees
+walmart,2017-4,* Wal-Mart - New independent nominee Carla Harris is vice chair of the wealth management business segment of Morgan Stanley
+walmart,2017-4,"{{20170420T205518.631+0000}}Wal-Mart CEO pay rises 13 pct to $22.4 million -filingCHICAGO, April 20 (Reuters) - Wal-Mart Stores Inc Chief Executive Doug McMillon's pay rose 13 percent to $22.4 million in the fiscal year ended Jan. 31, according to a regulatory filing on Thursday."
+walmart,2017-4,"The total compensation, which included cash and stock, compared with $19.8 million he made the previous year, according to the filing to the U.S. Securities and Exchange Commission."
+walmart,2017-4,"McMillon, took over the top job at Wal-Mart in February 2014."
+walmart,2017-4,"{{20170419T130003.697+0000}}Sainsbury's targets ""Athleisure"" market with Russell Athletic tie-upLONDON, April 19 (Reuters) - Sainsbury's , Britain's second largest supermarket group, is aiming to for a slice of the growing ""Athleisure"" casual sports clothing market through a partnership with U.S. brand Russell Athletic, it said on Wednesday."
+walmart,2017-4,"Sainsbury's already sells clothing under the Tu own brand, but has stepped up diversification away from its traditional base in food retailing. Last year, it purchased Argos- and Habitat-owner Home Retail for 1.1 billion pounds ($1.4 billion), securing another avenue of non-food growth while also enhancing its online logistics operations."
+walmart,2017-4,"The deal with Russell Athletic, part of Berkshire Hathaway's Fruit of the Loom Inc, will put the U.S. company's men's and women's clothing, as well as men's bags, on Sainsbury's Tu clothing website."
+walmart,2017-4,"It marks the first time Sainsbury's female customers are able to buy branded clothing alongside the supermarket's Tu range. For men, it follows the group's first branded partnership with leisurewear company Admiral in stores and online in 2015."
+walmart,2017-4,"Sales of ""Athleisure"" - sports and gym wear - have grown 42 percent over the past seven years and the UK market is worth 7 billion pounds, according to research by Morgan Stanley."
+walmart,2017-4,Sainsbury's has expanded Tu aggressively with its sales growing 15 percent over the last two years.
+walmart,2017-4,Sainsbury's is currently Britain's sixth biggest clothing retailer by volume and its tenth biggest by value.
+walmart,2017-4,"Sainsbury's main rivals - market leader Tesco , Asda and Morrisons also sell various clothing ranges. ($1 = 0.7780 pounds)"
+walmart,2017-4,{{20170417T175327.362+0000}}Wal-Mart seeks online fashion presence through acquisitionsBy Nandita Bose and Gayathree Ganesan
+walmart,2017-4,"April 17 (Reuters) - Wal-Mart Stores Inc's bid for clothing retailer Bonobos, which surfaced last week, is the latest step in the company's attempt to recover lost ground against Amazon.com Inc and others in the rapidly growing online fashion world, analysts and retail consultants said."
+walmart,2017-4,"If Wal-Mart succeeds, the move into fashion also would advance its effort to access younger, millennial customers who usually do not shop on Walmart.com."
+walmart,2017-4,A Bonobos deal would mark the company's fourth acquisition of a small online clothing-and-accessories brand since the start of 2017. The bid was first reported by Recode on Friday. [nL1N1HM0R1] Wal-Mart has declined to comment.
+walmart,2017-4,"The move is in keeping with an online strategy led by Marc Lore, the founder and former chief executive of internet retailer Jet.com, who took over Wal-Mart's e-commerce business in August, after Wal-Mart paid $3.3 billion for Jet. [nL4N1AP42N]"
+walmart,2017-4,"Wal-Mart is the world's largest brick-and-mortar clothing retailer, with 2016 sales exceeding $23 billion, according to retail think tank Fung Global Retail & Technology."
+walmart,2017-4,"But despite its traditional muscle, the Bentonville, Arkansas, company has been unable to replicate that success online. It has not only struggled to attract the type of affluent young consumers who tend to shop for clothes online but has also faced challenges in persuading well-known apparel brands to sell on its website."
+walmart,2017-4,"Wal-Mart's online sales account for only about 3 percent of total sales, the company has said. In the second half of this year, it is targeting online sales growth of 20 to 30 percent."
+walmart,2017-4,"In its push for a bigger online presence, Wal-Mart so far has bought ShoeBuy, which specializes in footwear and apparel; Moosejaw, which sells outdoor wear; and ModCloth, an online seller of women's clothing. In March, Lore said at an industry event that Wal-Mart will make more acquisitions to expand its business rapidly."
+walmart,2017-4,"Jan Rogers Kniffen, chief executive of retail consultancy J. Rogers Kniffen WWE, said the deals could begin to add up, though so far they are too small to have a material impact on Wal-Mart. ""It gives them a totally separate vehicle to grow with fashion brands and to own fashion brands,"" he said."
+walmart,2017-4,"Wal-Mart's move also aims to stem the loss of market share to Amazon in the highly competitive fashion sector. Amazon leads the U.S. online clothing and footwear market with sales of $13 billion in 2016, up $9 billion from five years ago."
+walmart,2017-4,"It is expected to triple its share of the U.S. apparel market over the next four years, according to data from Euromonitor and Forrester."
+walmart,2017-4,"Macy's Inc , Nordstrom Inc , Gap Inc , Kohl's Corp , L Brands Inc and J.C. Penney Co Inc also compete in the segment."
+walmart,2017-4,"{{20170417T110011.248+0000}}The long, rough ride ahead for ""Made in America""By Nick Carey"
+walmart,2017-4,"RUSTON, Louisiana, April 17 (Reuters) - Mini motorcycle and go-kart maker Monster Moto made a big bet on U.S. manufacturing by moving assembly to this Louisiana town in 2016 from China."
+walmart,2017-4,"But it will be a long ride before it can stamp its products ""Made in USA."""
+walmart,2017-4,"The loss of nearly one out four U.S. factories in the last two decades means parts for its bike frames and engines must be purchased in China, where the manufacturing supply chain moved years ago."
+walmart,2017-4,"""There's just no way to source parts in America right now,"" said Monster Moto Chief Executive Alex Keechle during a tour of the company's assembly plant. ""But by planting the flag here, we believe suppliers will follow."""
+walmart,2017-4,"Monster Moto's experience is an example of the obstacles American companies face as they, along with President Donald Trump, try to rebuild American manufacturing. U.S. automakers and their suppliers, for example, have already invested billions in plants abroad and would face an expensive and time-consuming transition to buy thousands of American-made parts if President Trump's proposed ""border tax"" on imported goods were to become law."
+walmart,2017-4,"For now, finding U.S.-based suppliers ""remains one of the top challenges across our supplier base,"" said Cindi Marsiglio, Wal-Mart Stores Inc's vice president for U.S. manufacturing and sourcing. Wal-Mart partnered with Monster Moto and several other U.S. companies in a drive to increase spending on American-made goods by $250 billion by 2023 in response to consumer demand for American-made goods."
+walmart,2017-4,"Their experience has shown Americans' patriotic shopping habits have limits, namely when it comes to price."
+walmart,2017-4,"Take Monster Moto's bikes, which sell for between $249 to $749. Keechle, the CEO, says he can't raise those prices for fear his price sensitive prospective customers will turn to less expensive rivals made in China."
+walmart,2017-4,"""Consumers won't give you a free pass just because you put 'Made in USA' on the box,"" Keechle says. ""You have to remain price competitive."""
+walmart,2017-4,"Keeping a sharp eye on labor costs in their factory is one thing these U.S. manufactures can control. They see replacing primarily lower-skilled workers on the assembly line with robots on American factory floors as the only way to produce here in a financially viable, cost-competitive way. It's a trend that runs against the narrative candidate Donald Trump used to win the U.S. Presidency."
+walmart,2017-4,"Since taking office, Trump has continued promises to resurrect U.S. manufacturing's bygone glory days and bring back millions of jobs. On March 31, Trump directed his administration to clamp down on countries that abuse trade rules in a bid to end to the ""theft of American prosperity."" [nW1N1GM01Z]"
+walmart,2017-4,But it's more complicated on the ground for companies like Monster Moto.
+walmart,2017-4,"""It's almost as if people think you can just unplug manufacturing in one part of the world and plug it in to the U.S. and everything's going to be fine,"" said David Abney, Chief Executive Officer of package delivery company United Parcel Service Inc , which helped Monster Moto reconfigure its supply chain to bring its Chinese-made parts to Ruston."
+walmart,2017-4,A White House official said that the Trump administration's efforts to encourage manufacturers to reshore production will be focused on cutting regulations and programs to provide new skills to manufacturing workers.
+walmart,2017-4,"""We recognize that the manufacturing jobs that come back to America might not all look like the ones that left,"" a White House official said, ""and we are taking steps to ensure that the American workforce is ready for that."""
+walmart,2017-4,"In Monster Moto's cavernous warehouse in Ruston, boxes of imported parts that are delivered at one end then become bikes on a short but industrious assembly line of a few dozen workers."
+walmart,2017-4,"A solitary, long-bearded worker by the name of Billy Mahaffey fires up the bikes to test their engine and brakes before a small group of workers puts them in boxes declaring: ""Assembled in the USA."""
+walmart,2017-4,"Helped by that label, Monster Moto has experienced a recent boom in demand from major customers that include Wal-Mart. The company expects to double production to 80,000 units and increase its assembly workers - who make $13 to $15 an hour - to 100 from around 40 in 2017."
+walmart,2017-4,"The most likely components Monster Moto could produce in America first are black, welded-metal frames for bikes and go-karts, but they would have to automate production because human welders would be too expensive."
+walmart,2017-4,"""We can't just blow up our cost structure,"" said Monster Moto President Rick Sukkar. ""The only way to make it work in America is with robotics."""
+walmart,2017-4,"The same principle applies for much larger manufacturers, such as automotive supplier Delphi Automotive PLC's . Chief Financial Officer Joe Massaro told analysts in February that 90 percent of the company's hourly workforce is in ""best-cost countries."""
+walmart,2017-4,"""We're going to see more automation in this country because it makes good sense economically for every company,"" said Hal Sirkin, a managing director at the Boston Consulting Group. ""You can spend a lot of time bemoaning it, but that's not going to change."""
+walmart,2017-4,"Manufacturers say automated production requires fewer, but more skilled workers such as robot programmers and operators. The National Association of Manufacturers (NAM) estimates because of the ""skills gap"" there are 350,000 unfilled manufacturing jobs today in a sector that employs over 12 million people."
+walmart,2017-4,"In Ruston, Mayor Ronny Walker bet on Monster Moto by guaranteeing the company's lease because he wants to diversify the city's economy, and envisions suppliers setting up alongside Monster Moto's assembly plant."
+walmart,2017-4,"""Could it take a long time to bring manufacturing back here? Sure,"" he says. ""But you have to start somewhere."""
+walmart,2017-4,"{{20170414T223925.371+0000}}UPDATE 1-Wal-Mart in advanced talks to buy Bonobos- Recode(Adds Wal-Mart declined to comment, details, background)"
+walmart,2017-4,"April 14 (Reuters) - Wal-Mart Stores Inc is in advanced discussions to buy online men's fashion retailer Bonobos Inc, Recode reported on Friday, citing sources."
+walmart,2017-4,"Wal-Mart and Bonobos have agreed on a price and the deal is in final due diligence, Recode said. Nordstrom is an investor in Bonobos."
+walmart,2017-4,The world's biggest retailer has been working aggressively to close the gap with rival Amazon.com Inc under the leadership of Chief Executive Doug McMillon and new e-commerce chief Marc Lore.
+walmart,2017-4,"The deal, if announced, would become the fourth e-commerce acquisition by the retailer in less than a year."
+walmart,2017-4,"Wal-Mart declined to comment while, Bonobos did not respond to the requests for comment."
+walmart,2017-4,"Lore has overseen the acquisition of three other online retailers, shuffled management and made two-day shipping free on all online orders over $35, without any membership fees to compete with Amazon's popular Prime shipping program. [nL4N1F356F]"
+walmart,2017-4,Walmart in advanced talks to acquire online men's retailer Bonobos - Recode - Reuters Investor Briefs
+walmart,2017-4,"{{20170414T213722.904+0000}}Wal-Mart in advance talks to acquire men's fashion retailer Bonobos- RecodeApril 14 (Reuters) - Wal-Mart Stores Inc is in advance discussions to buy online men's fashion retailer Bonobos Inc, Recode reported on Friday, citing sources."
+walmart,2017-4,"The deal, if announced, would come two months after the world's largest retailer acquired online outdoor clothing and gear retailer Moosejaw for $51 million, to boost its competitive standing in U.S. e-commerce."
+walmart,2017-4,Wal-Mart did not respond to the requests for comment. Bonobos could not be immediately reached.
+walmart,2017-4,{{20170414T212033.811+0000}}BRIEF-Walmart in advanced talks to acquire online men's retailer Bonobos - RecodeApril 14 (Reuters) -
+walmart,2017-4,"* Walmart is in advanced talks to acquire online men's retailer Bonobos - Recode, citing sources"
+walmart,2017-4,{{20170413T110032.785+0000}}RPT-Jana's call to overhaul Whole Foods supply chain has few takers(Repeats with no changes to text)
+walmart,2017-4,"April 12 (Reuters) - Activist investor Jana Partners' proposal that Whole Foods Market Inc move grocery distribution in-house to reduce its dependence on its biggest supplier, United Natural Foods Inc , is easier said than done."
+walmart,2017-4,The 18-year relationship between the two companies has meant their existing operations are deeply interwoven.
+walmart,2017-4,"Whole Foods, unlike many of the retailers that have been chipping away at its dominance in the natural and organic category, has focused on growing its retail footprint and leaned heavily on United Natural to supply frozen and dry goods."
+walmart,2017-4,"Jana disclosed on Monday that it had raised its stake in the high-end grocer and called for changes in Whole Food's grocery procurement and distribution strategy, which it called ""suboptimal and cost-disadvantaged."""
+walmart,2017-4,"However, analysts and consultants threw cold water on the idea."
+walmart,2017-4,"""I don't really give a tremendous amount of credence to (the proposal),"" Wolfe Research analyst Scott Mushkin said."
+walmart,2017-4,"United Natural's shares were hammered following Jana's proposal, closing down 8 percent at $39.47 on Monday, while Whole Foods stock closed up nearly 10 percent at $34.17."
+walmart,2017-4,"United Natural's shares have clawed back most of the losses since then, closing at $41.80 on Wednesday, as it became clear that Whole Food benefits from the scale and pricing leverage that United Natural offers, making it unlikely that the grocer would cut its dependence on the distributor."
+walmart,2017-4,Analysts and industry sources said Jana's plan to get Whole Foods to rethink its distribution strategy could set the company up for failure because it lacks cost efficiencies and relationships with distributors that United Natural offers.
+walmart,2017-4,"""I'm not saying they cant squeeze some money here, but to think that UNFI is somehow fleecing Whole Foods by hundreds of millions of dollars - it really doesn't make a lot of sense,"" Mushkin said, adding there was a cost-saving opportunity of just tens of millions of dollars."
+walmart,2017-4,"Whole Foods, which operates about 456 stores, sourced nearly a third of its supplies from United Natural last year."
+walmart,2017-4,"Whole Foods does not have sophisticated logistics and efficient distribution processes like those at Wal-Mart Stores Inc and Kroger Co , and an in-house distribution plan could actually add to the company's costs, analysts said."
+walmart,2017-4,"""It would be a mammoth undertaking to create their own supply chain,"" said Roger Davidson, a former executive at Wal-Mart, Whole Foods and Supervalu. Davidson is currently president of consultancy firm Oakton Advisory Group LLC."
+walmart,2017-4,"United Natural has an agreement to continue its supply relationship with Whole Foods through September 2025, according to their annual filings."
+walmart,2017-4,"Whole Foods operates three seafood processing and distribution facilities, a specialty coffee and tea procurement and roasting operation, 11 regional distribution centers that focus on distributing perishables and four bakehouses, the company's annual filing showed."
+walmart,2017-4,"Apart from United Natural, the company sources goods from local, regional and national producers, specialty wholesalers and direct distributors - a fragmented market where the company possibly has weaker price leverage than it does with United, analysts said."
+walmart,2017-4,"While the Austin, Texas-based natural and organic foods supermarket chain is the largest of its kind in the United States, the company will not be able to squeeze the economies of scale from farmers and smaller producers unlike United Natural."
+walmart,2017-4,"""It's not a core competency for Whole Foods, which is why they have the relationship,"" said Ajay Jain, analyst at Pivotal Research Group."
+walmart,2017-4,"""Even major self distributing chains like Kroger ... also rely on suppliers like UNFI because they can procure products more easily than the retailer."""
+walmart,2017-4,Whole Foods declined to comment beyond the statement it issued on Monday. United Natural did not respond to a request for comment.
+walmart,2017-4,{{20170412T221715.075+0000}}Jana's call to overhaul Whole Foods supply chain has few takersBy Anya George Tharakan and Lisa Baertlein
+walmart,2017-4,"April 12 (Reuters) - Activist investor Jana Partners' proposal that Whole Foods Market Inc move grocery distribution in-house to reduce its dependence on its biggest supplier, United Natural Foods Inc , is easier said than done."
+walmart,2017-4,The 18-year relationship between the two companies has meant their existing operations are deeply interwoven.
+walmart,2017-4,"Whole Foods, unlike many of the retailers that have been chipping away at its dominance in the natural and organic category, has focused on growing its retail footprint and leaned heavily on United Natural to supply frozen and dry goods."
+walmart,2017-4,"Jana disclosed on Monday that it had raised its stake in the high-end grocer and called for changes in Whole Food's grocery procurement and distribution strategy, which it called ""suboptimal and cost-disadvantaged."""
+walmart,2017-4,"However, analysts and consultants threw cold water on the idea."
+walmart,2017-4,"""I don't really give a tremendous amount of credence to (the proposal),"" Wolfe Research analyst Scott Mushkin said."
+walmart,2017-4,"United Natural's shares were hammered following Jana's proposal, closing down 8 percent at $39.47 on Monday, while Whole Foods stock closed up nearly 10 percent at $34.17."
+walmart,2017-4,"United Natural's shares have clawed back most of the losses since then, closing at $41.80 on Wednesday, as it became clear that Whole Food benefits from the scale and pricing leverage that United Natural offers, making it unlikely that the grocer would cut its dependence on the distributor."
+walmart,2017-4,Analysts and industry sources said Jana's plan to get Whole Foods to rethink its distribution strategy could set the company up for failure because it lacks cost efficiencies and relationships with distributors that United Natural offers.
+walmart,2017-4,"""I'm not saying they cant squeeze some money here, but to think that UNFI is somehow fleecing Whole Foods by hundreds of millions of dollars - it really doesn't make a lot of sense,"" Mushkin said, adding there was a cost-saving opportunity of just tens of millions of dollars."
+walmart,2017-4,"Whole Foods, which operates about 456 stores, sourced nearly a third of its supplies from United Natural last year."
+walmart,2017-4,"Whole Foods does not have sophisticated logistics and efficient distribution processes like those at Wal-Mart Stores Inc and Kroger Co , and an in-house distribution plan could actually add to the company's costs, analysts said."
+walmart,2017-4,"""It would be a mammoth undertaking to create their own supply chain,"" said Roger Davidson, a former executive at Wal-Mart, Whole Foods and Supervalu. Davidson is currently president of consultancy firm Oakton Advisory Group LLC."
+walmart,2017-4,"United Natural has an agreement to continue its supply relationship with Whole Foods through September 2025, according to their annual filings."
+walmart,2017-4,"Whole Foods operates three seafood processing and distribution facilities, a specialty coffee and tea procurement and roasting operation, 11 regional distribution centers that focus on distributing perishables and four bakehouses, the company's annual filing showed."
+walmart,2017-4,"Apart from United Natural, the company sources goods from local, regional and national producers, specialty wholesalers and direct distributors - a fragmented market where the company possibly has weaker price leverage than it does with United, analysts said."
+walmart,2017-4,"While the Austin, Texas-based natural and organic foods supermarket chain is the largest of its kind in the United States, the company will not be able to squeeze the economies of scale from farmers and smaller producers unlike United Natural."
+walmart,2017-4,"""It's not a core competency for Whole Foods, which is why they have the relationship,"" said Ajay Jain, analyst at Pivotal Research Group."
+walmart,2017-4,"""Even major self distributing chains like Kroger ... also rely on suppliers like UNFI because they can procure products more easily than the retailer."""
+walmart,2017-4,Whole Foods declined to comment beyond the statement it issued on Monday. United Natural did not respond to a request for comment.
+walmart,2017-4,{{20170412T194520.483+0000}}BREAKINGVIEWS-Breakdown: How the smart money sees Sears upside(The authors are Reuters Breakingviews columnists. The opinions expressed are their own.)
+walmart,2017-4,"NEW YORK, April 12 (Reuters Breakingviews) - Eddie Lampert has what sometimes seems an unhealthy obsession with Sears . The top shareholder, chairman and chief executive increased his stake in the struggling $1.4 billion U.S. retailer even as it warned of a risk of bankruptcy last month."
+walmart,2017-4,"Sears stands out even among a sorry group of once iconic mall-based department stores. Over the past 10 years, revenue has tumbled nearly 60 percent to $22 billion in the year to Jan. 28. Gross margins have been crushed. The purveyor of Kenmore vacuums and DieHard car batteries hasn't reported an annual profit in six years. Shares are down some 90 percent in a decade to under $14 apiece."
+walmart,2017-4,"In its letter to investors reporting on 2015 performance, Fairholme pegged Sears' potential value at an eye-popping $147 per share. The numbers have moved around a bit since then. But Fairholme's thinking still arrives at a value north of $115 a share. That views Sears through the lens of real-estate investment trusts, not retailing. And it's why Berkowitz and his firm together own some 26 percent of the company, second only to Lampert and his ESL Investments' nearly 59 percent combined interest."
+walmart,2017-4,"Fairholme is benchmarking Sears against REITs like Simon Property and GGP . Sears still owns or leases over 163 million square feet of retail space in 1,430 properties dotting all 50 U.S. states and Puerto Rico, according to figures in the company's most recent annual report."
+walmart,2017-4,The average EV per square foot for Sears and 21 REITs was $260 per square foot at the time of Fairholme's letter.
+walmart,2017-4,"One of the group, Seritage Growth Properties , was spun out of Sears in 2015. Seritage, which holds 266 stores and leases most of them back to Sears, is also somewhat tarred with the same brush. Its current enterprise value is about $3 billion. That's a little over $70 for each of its 42 million square feet. Fairholme owns shares in Seritage, too, and Warren Buffett is an investor in the REIT, unusually in a personal capacity rather than through Berkshire Hathaway ."
+walmart,2017-4,"Then there's the problem of valuing mall real estate in the first place. The appeal of an individual store depends on many factors. For example, a down-at-heel Sears outlet in Rochester, New York sold for just over $1 million, according to Morningstar, while a profitable store in Hawaii brought in $200 million after GGP bought out the lease to redevelop the mall."
+walmart,2017-4,"Moreover, there's simply too much retail space in the United States. Green Street Advisors estimates that 800 department stores would need to close to achieve the sales productivity levels last seen in 2006. Put another way, that's 20 percent of all the space occupied by mall anchor tenants across the nation."
+walmart,2017-4,"Macy's has plans to shut 100 stores while J.C. Penney has said it will close up to 142 properties. Even Wal-Mart and Target are reducing their footprints. In a different consumer bracket, Ralph Lauren is ditching its New York City flagship location on Fifth Avenue."
+walmart,2017-4,"The popularly floated alternative uses for boxy mall spaces, like laser tag arenas, intuitively can't be relied upon to fill more than a fraction of the empty space, either."
+walmart,2017-4,"DOESN'T THAT MEAN MALL OWNERS SHOULD BE IN TROUBLE, TOO?"
+walmart,2017-4,"Yes, in theory, though the market has different layers. REITs that own upscale shopping centers are less vulnerable than those in less wealthy areas. Class A malls make up less than 30 percent of malls but account for about 70 percent of sector value, according to a Cowen report."
+walmart,2017-4,"Mall specialists have returned negative 15 percent to investors in the past year, according to brokerage BTIG, against a 6 percent positive return for the REIT sector as a whole. As Breakingviews' version of Fairholme's analysis shows, though, their real-estate holdings are still valued much more highly than Sears' own."
+walmart,2017-4,Yet there is a head-scratching gap in the two valuations for essentially the same assets. Maybe the mini-surge in Sears' share price in recent days is a hint that investors are starting to find Berkowitz's logic more compelling.
+walmart,2017-4,"- Sears warned in its annual report on March 21 that substantial doubt exists in the company's ability to continue as a ""going concern,"" though the U.S. retailer also said it had initiatives under way to mitigate this doubt."
+walmart,2017-4,"- According to the company's annual proxy filing on March 31, Chairman and Chief Executive Eddie Lampert, along with related entities including his ESL Investments, owns or has warrants over 58.8 percent of Sears' common stock. Bruce Berkowitz and funds associated with Fairholme Capital Management have a 25.8 percent interest."
+walmart,2017-4,"- For previous columns by the authors, Reuters customers can click on [SABA/] and [BEALES/]"
+walmart,2017-4,{{20170412T040102.708+0000}}Wal-Mart offers discounts for online orders picked up in storeBy Nandita Bose
+walmart,2017-4,"CHICAGO, April 12 (Reuters) - Wal-Mart Stores Inc will offer 'pickup discounts' to U.S. shoppers on items they order online and pick up in-store, as it revamps its e-commerce offerings at a faster pace to close the gap with larger rival Amazon.com Inc ."
+walmart,2017-4,"Online orders picked up in store already qualify for no shipping charges since the retailer saves on shipping fees. The latest discounts come on top of that. For example, a Vizio 70-inch 4K Ultra HD television priced at $1,698 for store pick up will qualify for an additional discount of $50."
+walmart,2017-4,"Marc Lore, head of Wal-Mart's e-commerce operations, told Reuters in an interview on Tuesday he expects the move to boost transactions online and improve customer traffic in stores."
+walmart,2017-4,"""This is a very material change in the value proposition we are offering customers,"" he said. Lore said Wal-Mart is able to offer these discounts as it is able to eliminate delivery costs by leveraging its fleet of more than 6,700 trucks to deliver products from warehouses to stores."
+walmart,2017-4,"The decision to offer these discounts is the latest move by Lore to revamp an existing e-commerce offering from Wal-Mart. The change is expected to improve the retailer's competitive advantage by making its 4,700 U.S. stores more relevant to shoppers in a digital age, analysts said."
+walmart,2017-4,"Lore has been at the forefront of bold moves Wal-Mart has undertaken to challenge Amazon since he took charge of the retailer's struggling online business in August, after Wal-Mart acquired Jet.com, a company Lore founded, for over $3 billion."
+walmart,2017-4,"Since then he has acquired three online retailers, shuffled Wal-Mart's e-commerce decks and made two-day shipping free on all online orders over $35, without any membership fees, to compete with Amazon's popular Prime shipping program."
+walmart,2017-4,These moves are in line with the broader push by Wal-Mart's Chief Executive Doug McMillon to give the retailer an even more dominant position in U.S. e-commerce.
+walmart,2017-4,"Wal-Mart has been investing in e-commerce for the past 15 years, but it still lags far behind its Seattle-based rival."
+walmart,2017-4,"Starting April 19, Wal-Mart will offer pickup discounts on 10,000 items and on more than 1 million products by June."
+walmart,2017-4,"In a separate blog post, Mark Ibbotson, executive vice president of central operations, said Wal-Mart is expanding its same-day pick up service and is rolling out a pick-up tower - a giant vending machine that delivers packages ordered online when a customer enters a bar code - to more stores."
+walmart,2017-4,{{20170411T214009.524+0000}}UPDATE 1-Wal-Mart eliminates more corporate jobs (Recasts with Wal-Mart spokesman's comment)
+walmart,2017-4,"CHICAGO, April 11 (Reuters) - Wal-Mart Stores Inc said on Tuesday it is eliminating more U.S. corporate jobs this month, even as it invests in improving its e-commerce operations and in regaining its low-cost pricing advantage in the U.S. retail sector."
+walmart,2017-4,"Wal-Mart confirmed the latest round of job cuts, which will involve ""hundreds"" of positions in its international and technology businesses, along with its Sam's Club warehouse chain."
+walmart,2017-4,"""As we said in January, to fuel our growth and our investments we have to manage our costs and our capital decisions with discipline,"" Wal-Mart spokesman Randy Hargrove said. ""This means we will continue to find ways to operate more efficiently and effectively."""
+walmart,2017-4,He gave no details on the number of positions to be eliminated.
+walmart,2017-4,The Wall Street Journal first reported the move on Tuesday.
+walmart,2017-4,"Wal-Mart's job cuts started in 2016 when the retailer said it was eliminating 7,000 back-office positions and moving more of its workforce to the sales floor. [nL3N1BD4KP] [nL4N1F73X6]"
+walmart,2017-4,"Earlier this year, Wal-Mart cut more than a 1,000 corporate positions, mostly in its human resources department. [nL4N1F04GD] [nL2N1GC03L]"
+walmart,2017-4,"{{20170411T204847.765+0000}}Wal-Mart continues to eliminate corporate jobs -reportCHICAGO, April 11 (Reuters) - Wal-Mart Stores Inc is eliminating more corporate jobs this month, the Wall Street Journal reported on Tuesday, citing people familiar with the matter."
+walmart,2017-4,"The latest round of job cuts will involve ""hundreds"" of positions in Wal-Mart's international and technology businesses along with its warehouse chain, Sam's Club, according to the report."
+walmart,2017-4,"Wal-Mart's job cuts started in 2016 when the retailer said it was eliminating 7,000 back office positions and moving more of its workforce to the sales floor. [nL3N1BD4KP] [nL4N1F73X6]"
+walmart,2017-4,"Earlier this year, Wal-Mart cut 1,200 corporate jobs mostly in human resources even as it continued to invest in its e-commerce operations. [nL4N1F04GD]"
+walmart,2017-4,Wal-Mart did not immediately respond to a Reuters request seeking comment.
+walmart,2017-4,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+walmart,2017-4,{{20170410T214715.138+0000}}U.S. anti-border tax coalition to target lawmakers during Congressional recessBy Ginger Gibson
+walmart,2017-4,"WASHINGTON, April 10 (Reuters) - Opponents of a proposal to create a U.S. border tax on imported goods are targeting lawmakers in their home states for the next two weeks while Congress is in recess, according to organizers of the lobbying effort."
+walmart,2017-4,"The anti-border tax coalition, known as Americans for Affordable Products, includes large corporations that require imports like automakers and retail giants like Target , Best Buy and Walmart . The tax opponents will target 40 members of Congress in 11 states, said coalition spokesman Joshua Baca."
+walmart,2017-4,"""We're talking to businesses, local associations, having a frank conversation with them about how dumb this idea is,"" Baca said. His group argues the proposal will raise consumer prices."
+walmart,2017-4,"As part of a total overhaul of the U.S. tax code, Republican House Speaker Paul Ryan has proposed lowering the corporate income tax to 20 percent from 35 percent, imposing a 20 percent tax on imports and excluding export revenue from taxable income."
+walmart,2017-4,"The proposal has some strong corporate backers who say it will boost American jobs and not raise prices, including companies that do considerable amount of exporting, such as Boeing , Caterpillar and Pfizer ."
+walmart,2017-4,"The anti-border tax group is planning to host a town hall meeting next week in Nevada with Republican Senator Dean Heller, which will also be co-sponsored by local business groups and Americans For Prosperity, the conservative group funded by the Republican Koch brothers which also opposes the border tax."
+walmart,2017-4,"Town hall meetings have gained more attention recently as events featuring Republican lawmakers have been targeted by activists to voice their opposition to several proposals, including repealing the Affordable Care Act which widened health insurance coverage for about 20 million Americans."
+walmart,2017-4,"Additionally, the anti-tax group will hold a discussion in Ohio with Republican Representative David Joyce, where he will hear from local furniture store owners who would be affected by a border tax, Baca said."
+walmart,2017-4,"Concurrently, members of the Retail Industry Leaders Association, which is comprised of large retailers like Autozone , Walgreens Boot Alliance, Inc. and J.C. Penny Company, are using the recess to give members of Congress behind-the-scenes tours of both their headquarters and stores in an effort to persuade them against the tax, spokesman Brian Dodge said."
+walmart,2017-4,Both groups are hoping to make more voters aware of their position and are armed with an opinion poll by a pollster who also works for several Republican members of Congress.
+walmart,2017-4,"The poll, shared first with Reuters and which was conducted with funding from opponents of the tax, found 63 percent of voters are against the tax, including 70 percent of women."
+walmart,2017-4,"Additionally, the poll makes the case that 56 percent of voters say they would be less likely to vote for a member of Congress who supports the tax proposal."
+walmart,2017-4,{{20170410T195641.165+0000}}BUZZ-Whole Foods surges after activist fund announces stake** Shares of Whole Foods Market jump 9.6 pct after Activist investor Jana Partners LLC disclosed 8.3-percent stake; key supplier United Natural Foods drops 6.2 pct
+walmart,2017-4,"** Jana says in filing it had started a review of strategic options for WFM in light of co's ""apparent unwillingness to engage in discussions with third parties regarding such alternatives"""
+walmart,2017-4,"** Jana also says evaluating opportunities to internalize grocery distribution and limit the influence of UNFI, its primary wholesale distribution partner"
+walmart,2017-4,"** WFM facing growing pressure from rivals increasingly selling organic food, including Kroger Co , Albertsons Companies Inc and Wal-Mart Stores Inc"
+walmart,2017-4,"** WFM options volume jumps after Jana filing, especially active at 48k contracts, or 5x the daily avg volume, per Trade Alert data; trading sentiment bullish [nL1N1HI1CZ]"
+walmart,2017-4,"{{20170410T184500.207+0000}}UPDATE 3-Trump to meet U.S. business leaders on infrastructure, tax reform(Adds details on report)"
+walmart,2017-4,"WASHINGTON, April 10 (Reuters) - U.S. President Donald Trump will meet with about 20 chief executives on Tuesday as he works to gain support for a $1 trillion infrastructure program, tax reform and other administration priorities, said White House spokesman Sean Spicer."
+walmart,2017-4,"Trump will meet with the heads of General Motors Co , International Business Machines Corp and Wal-Mart Stores Inc , a government official briefed on the matter said."
+walmart,2017-4,"Trump has pledged to unlock $1 trillion in private and public infrastructure investments to fix bridges, improve the electrical grid and broadband internet, modernize airports and potentially rebuild hospitals for veterans. Nearly three months after his inauguration, Trump will again seek the advice and funds of the private sector for his ""national rebuilding"" program."
+walmart,2017-4,"Trump also wants to streamline the income tax system, cut federal regulations, reduce corporate income tax and add new taxes to prod companies to keep or move production to the United States. He has held numerous sessions with CEOs since taking office."
+walmart,2017-4,"The chief executives are part of Trump's ""Strategy and Policy Forum"" that was created in December and last met with the president on Feb. 3."
+walmart,2017-4,"The business leaders from a variety of sectors will also meet in small groups with Transportation Secretary Elaine Chao, Environmental Protection Agency chief Scott Pruitt, Commerce Secretary Wilbur Ross, Education Secretary Betsy DeVos and White House budget director Mick Mulvaney, Spicer said."
+walmart,2017-4,"Participants in Ross' meeting include Wal-Mart CEO Doug McMillon and Indra Nooyi, chief executive officer of PepsiCo Inc . Pruitt's meeting will include GM CEO Mary Barra and Paul Atkins, CEO of Patomak Global Partners LLC and a Republican former SEC commissioner. Chao's meeting will include Tesla Inc CEO Elon Musk."
+walmart,2017-4,"BlackRock CEO Larry Fink, who heads the world's largest investment management firm, in a letter to shareholders Monday backed calls for private investment to rebuild U.S. infrastructure. The Trump administration plans to unveil as soon as May the $1 trillion infrastructure plan over 10 years. [nL2N1HB1RM]"
+walmart,2017-4,"""Fixing crumbling roads and bridges is not enough. We need to be focused on reshaping our world, not just repairing it,"" Fink wrote."
+walmart,2017-4,"Last week, Trump pitched infrastructure projects to about 50 New York area CEOs. National Economic Council Director Gary Cohn told executives that privatizing air traffic control, which the administration proposed in its budget outline in March, could be a big boost."
+walmart,2017-4,"Other chief executives taking part Tuesday include consultant EY, Boston Consulting Group, the Cleveland Clinic and Global Infrastructure Partners, an infrastructure investment fund."
+walmart,2017-4,"{{20170410T151019.898+0000}}Trump to meet with U.S. business leaders on TuesdayWASHINGTON, April 10 (Reuters) - U.S. President Donald Trump will meet with about 20 chief executives Tuesday including the heads of General Motors Co , IBM Corp , Wal-Mart Stores Inc , Tesla Inc , BlackRock Inc and Blackstone Group LP as he works to gain support for administration priorities."
+walmart,2017-4,"The business leaders from a variety of sectors also will confer in small groups with five cabinet secretaries about administration priorities on the budget, transportation, environment, education and commerce. It would be the latest in a series of meetings Trump is holding with business leaders as he seeks to gain traction for administration plans for corporate tax reform, boosting infrastructure and cutting federal regulations."
+walmart,2017-4,"{{20170410T132356.625+0000}}BUZZ- DJI: Lack of thrust makes for tough takeoff** DJI <.DJI> in midst of choppy recovery off its late-Mar low; tepid momentum on the rise suggests strength just a counter-reaction, sell-off should have further to play out"
+walmart,2017-4,** DJI low coincided with daily RSI falling into oversold territory for first time since pre-election weakness [nL2N1HB0F1]
+walmart,2017-4,** But RSI strength off low has been uninspiring; study has failed to exceed 50.00 mid-level on bounce [nL2N1HD185]
+walmart,2017-4,"** With late-Jun and early-Nov market lows, RSI vaulted above 50.00 within 1-2 tds"
+walmart,2017-4,"** Caterpillar , Wal-Mart and Boeing responsible for about 2/3 of Dow's strength off its recent low; meanwhile, nearly half index components still in the red"
+walmart,2017-4,** Breaking 20412.80 can see pressure mount with next support in 20131/20125; risk still to 19677/19600 where potential will increase for end to correction [nL2N1HB1F5] [nL2N1H80IK]
+walmart,2017-4,"** Immediate thrust above 20887.50 Apr 5 high, however, can suggest wave 5 up from post-Brexit low likely still to complete"
+walmart,2017-4,"** In that event, can see push above 21169.11; though with next Fibo projs at 21283.30 and 21584.72, upside can be limited [nL2N1HD0GT]"
+walmart,2017-4,"{{20170407T215956.330+0000}}U.S. RESEARCH ROUNDUP-Diana Shipping, Maximus, SunocoApril 7 (Reuters) - Wall Street securities analysts revised their ratings and price targets on several"
+walmart,2017-4,"U.S.-listed companies, including Diana Shipping, Maximus and Sunoco, on Friday."
+walmart,2017-4,* Diana Shipping Inc : JP Morgan raises to overweight from neutral
+walmart,2017-4,Following is a summary of research actions on U.S. companies reported by Reuters on Friday. Stock entries
+walmart,2017-4,* Aecom : Baird cuts to neutral; cuts target price to $40 from $45
+walmart,2017-4,* Alliqua Biomedical Inc : HC Wainwright cuts target price to $1.50 from $2.50
+walmart,2017-4,* Ally Financial Inc : Deutsche Bank cuts target price to $25 from $27
+walmart,2017-4,* Burlington Stores Inc : Cowen and Company raises target price to $103 from $99
+walmart,2017-4,* Capital Bank Financial Corp : Barclays raises target price to $44 from $42
+walmart,2017-4,* Carmax Inc : RBC cuts target price to $63 from $71; rating sector perform
+walmart,2017-4,* Chefs Warehouse Inc : Canaccord Genuity starts with buy; target price $18
+walmart,2017-4,* Comcast Corp : Telsey Advisory Group raises price target to $44 from $42
+walmart,2017-4,* Constellation Brands : RBC raises target price to $205 from $183;rating outperform
+walmart,2017-4,* Constellation Brands :Cowen and Company raises target price to $205 from $195
+walmart,2017-4,* Costco Wholesale Corp : BMO raises target price to $195; rating outperform
+walmart,2017-4,* Costco Wholesale Corp : Goldman Sachs cuts target price to $190 from $193; buy
+walmart,2017-4,* Cotiviti Holdings Inc : Leerink starts with outperform rating; $48 price target
+walmart,2017-4,* Cu Bancorp : D.A. Davidson cuts to neutral; cuts target price to $42 from $43
+walmart,2017-4,* Delta Air Lines Inc : Cowen and Company cuts target price to $58 from $60
+walmart,2017-4,* Diana Shipping Inc : JP Morgan raises to overweight from neutral
+walmart,2017-4,* Diana Shipping Inc : JP Morgan raises to overweight from neutral
+walmart,2017-4,* Eli Lilly and Co : Barclays raises target price to $90 from $85
+walmart,2017-4,* Enbridge Energy Partners LP : Credit Suisse starts with neutral; target price $20
+walmart,2017-4,"* Epam Systems Inc : Credit Suisse starts with outperform, $90 target price"
+walmart,2017-4,* Ezcorp Inc : Stephens raises to equal weight from underweight - Trader
+walmart,2017-4,* Golden Ocean Group Ltd : JP Morgan raises target price to $14 from $6
+walmart,2017-4,* Golden Ocean Group Ltd : JP Morgan raises to overweight from neutral
+walmart,2017-4,* Greenbrier Companies Inc : Stifel raises target price to $48 from $43;rating hold
+walmart,2017-4,* Hewlett Packard Enterprise Co : Mizuho cuts target price to $17 from $22; neutral
+walmart,2017-4,* Insight Enterprises Inc : B. Riley starts with neutral rating; $44 price target
+walmart,2017-4,* Lamb Weston Holdings : Morgan Stanley raises target to $45 from $38; equal-weight
+walmart,2017-4,* Latam Airlines Group : Goldman Sachs raises price target to $12.50 from $8.40
+walmart,2017-4,* Latam Airlines Group : Goldman Sachs raises to neutral from sell
+walmart,2017-4,* Latam Airlines Group : Goldman Sachs removes from Americas sell list
+walmart,2017-4,* LogMeIn Inc : Cowen and Company raises target price to $115 from $100
+walmart,2017-4,* LogMeIn Inc : Cowen and Company raises to outperform from market perform
+walmart,2017-4,* Lonestar Resources US Inc : Cowen and Company cuts target price to $11 from $13
+walmart,2017-4,* Medical Properties Trust Inc : Jefferies raises target price to $15 from $13
+walmart,2017-4,* Medical Properties Trust Inc : Jefferies raises to buy from hold
+walmart,2017-4,* MSC Industrial Direct Co : Barclays raises target to $85 from $78; underweight
+walmart,2017-4,* New York Community Bancorp Inc : Barclays cuts target price to $14 from $15
+walmart,2017-4,* Nl Industries Inc : Barclays raises target price to $6 from $3; rating underweight
+walmart,2017-4,* Panera Bread Co : Wells Fargo cuts to market perform from outperform - Trader
+walmart,2017-4,* Red Robin Gourmet Burgers Inc :Raymond James raises target price to $70 from $65
+walmart,2017-4,* Santander Consumer USA Holdings Inc : Deutsche Bank cuts target to $14 from $16
+walmart,2017-4,* Scorpio Bulkers Inc : JP Morgan raises target price to $13 from $7.50
+walmart,2017-4,* Southwest Airlines : Cowen And Company raises target to $58 from $57; outperform
+walmart,2017-4,* Spectra Energy Partners LP : Credit Suisse resumes with outperform; target $52
+walmart,2017-4,* Star Bulk Carriers Corp : JP Morgan raises target price to $20 from $10
+walmart,2017-4,* TD Ameritrade Holding Corp : Jefferies cuts target price to $39; rating hold
+walmart,2017-4,* Walmart : Telsey Advisory Group raises to outperform from market perform
+walmart,2017-4,"{{20170407T164057.963+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Under Armour, Diana Shipping, Ryerson, Ruby Tuesday* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-4,U.S. stocks were little changed in choppy trading on Friday after a U.S. missile
+walmart,2017-4,"strike on Syria sent investors scurrying to safe-havens, while weak jobs data"
+walmart,2017-4,"At 12:18 ET, the Dow Jones Industrial Average <.DJI> was up 0.05 percent at"
+walmart,2017-4,PRECIOUS-Gold hits 5-month high on safe-haven demand after U.S. strikes Syria
+walmart,2017-4,BUZZ-Aurinia Pharma: Says one trial enough for kidney drug approval in 3
+walmart,2017-4,BUZZ-Seadrill Partners LLC: Secures $31 mln contract with BP Canada Energy
+walmart,2017-4,BUZZ-Shipping stocks rise as JPM says dry bulk recovery is real [nL3N1HF426]
+walmart,2017-4,BUZZ-Catalyst Biosciences Inc: Sinks on pricing of public offering [nL3N1HF43B]
+walmart,2017-4,BUZZ-Raytheon leads gains in U.S. defense firms after strikes on Syria
+walmart,2017-4,BUZZ-Ruby Tuesday Inc: Shares slump as Q3 same-restaurant sales decline
+walmart,2017-4,"BUZZ-Wal-Mart Stores Inc: ""Appears to be regaining dominance""- Telsey Advisory"
+walmart,2017-4,(Compiled by Tamara Mathias in Bengaluru; Edited by Shounak Dasgupta)
+walmart,2017-4,"{{20170407T155416.559+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Under Armour, Ryerson, Diana Shipping, Ruby Tuesday* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-4,U.S. stocks dipped in volatile trading on Friday morning as a disappointing U.S. jobs report added to investors' nervousness following a U.S. missile strike on Syria. [.N]
+walmart,2017-4,"{{20170407T142317.014+0000}}BUZZ-Wal-Mart Stores Inc: ""Appears to be regaining dominance""- Telsey Advisory ** Retailer's shares up 1.4 pct at $72.41"
+walmart,2017-4,"** Telsey Advisory raises to ""outperform"" from ""market perform"", PT to $82 from $73"
+walmart,2017-4,"** Of 36 analysts covering the stock, 12 have buy or higher ratings, 20 have hold and 4 sell or lower"
+walmart,2017-4,"** ""Walmart appears to be regaining its dominance in physical retail and exerting new prowess in digital commerce, as is visible in the better sales growth in the past few quarters,"" Telsey analyst Joseph Feldman writes in note"
+walmart,2017-4,"** Walmart actively investing to grow its marketplace business, and is upgrading stores with technology to grow its omni-channel capabilities via the rollout of pick-up in-store, which provides a competitive advantage relative to the peer group, including Amazon - Feldman"
+walmart,2017-4,"** Up to Thursday's close, stock had risen 4.7 pct in the last 12 months, compared with a 15.5 pct increase in the S&P 500 index <.SPX>"
+walmart,2017-4,{{20170406T130001.570+0000}}U.S. trade group hacked with Chinese software ahead of Xi summitBy Joseph Menn
+walmart,2017-4,"SAN FRANCISCO, April 6 (Reuters) - A sophisticated hacking group that pursues Chinese government interests broke into the website of a private U.S. trade group ahead of Thursday's summit between U.S. President Donald Trump and Chinese President Xi Jinping, according to researchers."
+walmart,2017-4,"The hackers left a malicious link on web pages where members of the National Foreign Trade Council (NFTC) register for upcoming meetings, according to researchers at Fidelis Cybersecurity and a person familiar with the trade group."
+walmart,2017-4,"The nonprofit NFTC is a prominent advocate on international trade policy, with corporate members including Wal-Mart Stores Inc , Johnson & Johnson , Amazon.com Inc , Ford Motor Co and Microsoft Corp ."
+walmart,2017-4,"The malicious link deployed a spying tool called Scanbox, which would have recorded the type and versions of software running on the computers of those exposed to it, said Fidelis researcher John Bambenek. Such reconnaissance is typically followed by new attacks using known flaws in the detected software, especially older versions."
+walmart,2017-4,"Scanbox has only been used by groups associated with the Chinese government, Fidelis said, and was recently seen on a political site aimed at Uyghurs, an ethnic minority under close government scrutiny in China."
+walmart,2017-4,"The breach was detected about five weeks ago by a NFTC director who is a customer of Fidelis, the security company said. Both the Federal Bureau of Investigation and the NFTC were notified and the malicious link removed, and Fidelis said it had no evidence of NFTC members being infected."
+walmart,2017-4,The FBI and the NFTC declined to comment. A spokesman for the Chinese foreign ministry did not respond to a request for comment.
+walmart,2017-4,"Bambenek said he believed the attack was classic espionage related to international trade talks, rather than a violation of a 2015 agreement between former U.S. President Barack Obama and Xi to end spying for commercial motives."
+walmart,2017-4,"The summit starting on Thursday is the first meeting between Xi and Trump, who blamed China on the campaign trail for the loss of many U.S. jobs and vowed to confront the country's leaders on the matters of trade and currency manipulation."
+walmart,2017-4,"""I think it's traditional espionage that happens ahead of any summit,"" said Bambenek. ""They would like to know what we, the Americans, really care about and use that for leverage."""
+walmart,2017-4,Other security firms agreed that wholesale theft of U.S. intellectual property has not returned.
+walmart,2017-4,"Instead, FireEye Inc and BAE Systems Plc said that the hacking group identified by Fidelis, called APT10, has recently attacked government and commercial targets in Europe."
+walmart,2017-4,FireEye researcher John Hultquist said heavy industries in Nordic countries have been hacked more often as Beijing switches priorities.
+walmart,2017-4,"""They are certainly taking those resources and pushing them to other places where they can still get away with this behavior,"" Hultquist said."
+walmart,2017-4,"{{20170405T214931.889+0000}}UPDATE 3-Amazon acquires right to buy stake in fuel cell maker Plug Power(Adds Breakingviews link, updates share prices)"
+walmart,2017-4,April 5 (Reuters) - Hydrogen fuel cell maker Plug Power Inc said on Wednesday Amazon.com Inc had acquired the right to buy up to 23 percent of the company and that it would supply batteries to power forklifts used by the online retailer in its warehouses.
+walmart,2017-4,Plug Power's shares closed 73 percent higher at $2.25 in heavy trading. Amazon shares rose as much as 1.9 percent to a record high of $923.72 before ending 0.3 percent higher at $909.28.
+walmart,2017-4,"Latham, New York-based Plug Power was valued at $319 million as of Tuesday's market close. Amazon must spend at least $600 million over the life of its contract with Plug Power for its warrants to fully vest."
+walmart,2017-4,"Amazon, the world's largest online retailer, will equip forklifts at 11 warehouses this year with hydrogen fuel cells so they can lift more goods before running out of juice, as well as charge faster, Plug Power's Chief Executive Andy Marsh said in an interview. Amazon will spend $70 million on the deal in 2017 and likely twice that next year, he said."
+walmart,2017-4,"""Fulfillment centers are traditionally fairly low tech,"" said Marsh, explaining that labor as well as physical space could be freed up by moving away from batteries requiring lots of attention."
+walmart,2017-4,"Amazon's deal with Plug Power could rekindle interest in makers of fuel cell companies, including Ballard Power Systems Inc and Hydrogenics Corp , whose shares were up about 6 percent."
+walmart,2017-4,Fuel cell makers had become Wall Street darlings in 2014 as their technology was expected to be widely adopted in electric vehicles and forklifts.
+walmart,2017-4,"However, the sector has lost favor with investors as the technology failed to gain traction."
+walmart,2017-4,"Plug Power itself has lost more than two-thirds of its market value since the first quarter of 2014, when it was valued at more than $1 billion."
+walmart,2017-4,Raymond James analyst Pavel Molchanov described the deal as one of the occasional bright spots that highlighted the potential for growth in the fuel cell industry.
+walmart,2017-4,"Plug Power's narrow focus of powering forklifts with fuel cells, essentially makes the company the only player in the market, Molchanov said."
+walmart,2017-4,"While only a tiny fraction of forklifts globally are powered by hydrogen fuel, Wal-Mart Stores Inc already uses the company's technology in its warehouses and is a top customer, Plug Power's Marsh said."
+walmart,2017-4,The retailer is locked in a fight with Amazon for share of U.S. shoppers' wallets.
+walmart,2017-4,{{20170405T194858.217+0000}}ABC 'Pink Slime' case headed for trial after appeal is rejectedBy P.J. Huffstutter
+walmart,2017-4,"CHICAGO, April 5 (Reuters) - ABC Broadcasting has lost a last-ditch bid before South Dakota's highest court to avoid a trial in a beef producer's $5.7 billion defamation case over reports about a product that critics call ""pink slime."""
+walmart,2017-4,The order signed on Monday by state Supreme Court Chief Justice David Gilbertson denied ABC's petition to appeal a recent ruling letting plaintiff Beef Products Inc (BPI) take its case to a jury.
+walmart,2017-4,"In February, Judge Cheryle Gering of the Union County Circuit Court in Elk Point, South Dakota, said ABC, a unit of Walt Disney Co , and its reporter Jim Avila must defend against claims that they damaged BPI by referring in a series of reports to BPI's ""lean finely textured beef"" product as ""pink slime."""
+walmart,2017-4,"Gering did not rule on the case's merits, nor did the Supreme Court."
+walmart,2017-4,ABC declined on Wednesday to comment while BPI said in a statement it looked forward to holding the defendants accountable.
+walmart,2017-4,The case is scheduled to go to trial on June 5 and could last eight weeks.
+walmart,2017-4,"Lean, finely textured beef is made from beef chunks, including trimmings and exposed to tiny bursts of ammonium hydroxide to kill bacteria."
+walmart,2017-4,"At the time of the ABC News broadcasts, few Americans realized the product was a mainstay of fast-food burgers, school lunch tacos and homemade meatloaf."
+walmart,2017-4,"BPI said ABC's reports in March and April 2012 implied that the South Dakota-based company's product was not safe, not nutritious and not even meat."
+walmart,2017-4,The network has called BPI's lawsuit an attempt to chill media coverage of the industry and inhibit free speech.
+walmart,2017-4,"BPI has claimed up to $1.9 billion of damages, which could be tripled to $5.7 billion under South Dakota's Agricultural Food Products Disparagement Act."
+walmart,2017-4,"The U.S. Department of Agriculture has called BPI's product safe. But some retailers, including Wal-Mart Stores Inc , stopped selling ground beef containing it after the ABC reports."
+walmart,2017-4,"Several other defendants were previously dismissed from the case, including a former Agriculture Department microbiologist said to have coined the term ""pink slime"" in a 2002 email."
+walmart,2017-4,"The case is Beef Products Inc et al v. American Broadcasting Cos et al, First Judicial Circuit Court of South Dakota, Union County, No. 12-292."
+walmart,2017-4,{{20170405T110001.379+0000}}Amazon acquires right to buy stake in fuel cell maker Plug PowerBy Jeffrey Dastin
+walmart,2017-4,"April 5 (Reuters) - Amazon.com Inc has acquired the right to buy up to 23 percent of hydrogen fuel cell maker Plug Power Inc , in a deal giving the retailer powerful batteries that promise to speed up work in its warehouses, Plug Power said on Wednesday."
+walmart,2017-4,"Latham, New York-based Plug Power was valued at $319 million as of Tuesday's market close. Amazon must spend at least $600 million over the life of its contract with Plug Power for its warrants to fully vest."
+walmart,2017-4,"The world's largest online retailer will equip forklifts at 11 warehouses this year with hydrogen fuel cells so they can lift more goods before running out of juice, as well as charge faster, Plug Power's Chief Executive Andy Marsh said in an interview. Amazon will spend $70 million on the deal in 2017 and likely twice that next year, he said."
+walmart,2017-4,"""Fulfillment centers are traditionally fairly low tech,"" said Marsh, explaining that labor as well as physical space could be freed up by moving away from batteries requiring lots of attention."
+walmart,2017-4,"While only a tiny fraction of forklifts globally are powered by hydrogen fuel, Wal-Mart Stores Inc already uses Plug Power's technology in its warehouses and is a top customer, according to Marsh."
+walmart,2017-4,The retailer is locked in a fight with Amazon for share of U.S. shoppers' wallets.
+walmart,2017-4,"{{20170404T204908.051+0000}}Walmex completes sale of clothing chain Suburbia to LiverpoolMEXICO CITY, April 4 (Reuters) - Wal-Mart Stores Inc's Mexican unit said on Tuesday it had completed the sale of its clothing chain Suburbia to department store and shopping mall operator El Puerto De Liverpool for 15.7 billion pesos ($834 million)."
+walmart,2017-4,The deal between the company known as Walmex and Liverpool was announced in August. [nL1N1AR26Q]
+walmart,2017-4,"{{20170404T095526.722+0000}}UPDATE 1-UK grocery prices jump 2.3 percent in 12 weeks to March 26(Adds details, quote)"
+walmart,2017-4,"2.3 percent year-on-year in the 12 weeks to March 26, as the"
+walmart,2017-4,plunge in the pound following last year's Brexit vote forced
+walmart,2017-4,"higher the cost of staples including butter, fish, tea and"
+walmart,2017-4,was up from the 1.4 percent rise recorded in the 12 weeks to
+walmart,2017-4,Food prices started to edge up in Britain in the final three
+walmart,2017-4,"months of 2016, ending more than two years of falling costs."
+walmart,2017-4,result we're likely to see consumers looking for cheaper
+walmart,2017-4,Britain's vote last June to leave the European Union caused
+walmart,2017-4,"the pound to slide, pushing up the price of imports, while"
+walmart,2017-4,showing the pressures starting to build on consumers who helped
+walmart,2017-4,"struggling in the period, as Easter falls later this year and"
+walmart,2017-4,"{{20170404T071441.044+0000}}UK grocery inflation jumps 2.3 percent in 12 weeks to March 26LONDON, April 4 (Reuters) - British grocery inflation jumped by 2.3 percent in the 12 weeks to March 26, with the price of staples including butter, fish, tea and skincare all rising, industry data showed on Tuesday."
+walmart,2017-4,Market researcher Kantar Worldpanel said the rise of 2.3 percent compared with a 1.4 percent increase recorded in the previous 12 weeks to Feb. 26 period.
+walmart,2017-4,"Kantar data also showed most of the big supermarkets struggling in the period, as Easter falls later this year and outside of 12-week timeframe."
+walmart,2017-4,"Sales in Tesco , the market leader, were down 0.4 percent, Sainsbury's fell by 0.7 percent, Asda dropped 1.8 percent and Morrisons edged 0.3 percent higher."
+walmart,2017-4,Mclane Company Inc says announced renewal of service agreement with Walmart - Reuters Investor Briefs
+walmart,2017-4,{{20170403T162204.579+0000}}Mclane Company Inc says announced renewal of service agreement with WalmartMclane Company Inc : Announced a renewal of its service agreement with Walmart .
+walmart,2017-4,{{20170403T160438.633+0000}}BRIEF-Mclane Company Inc says announced renewal of service agreement with WalmartApril 3 (Reuters) - Mclane Company Inc
+walmart,2017-4,"* As part of deal, co to continue to deliver to Walmart stores across U.S., to become sole provider of candy, tobacco products to majority of Walmart'S stores"

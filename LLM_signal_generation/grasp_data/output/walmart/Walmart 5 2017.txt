@@ -1,0 +1,984 @@
+firm_id,date,text
+walmart,2017-5,"{{20170531T083237.766+0000}}UPDATE 1-UK discount food retailers' growth accelerates as prices rise(Adds detail, table)"
+walmart,2017-5,retailers Aldi [ALDIEI.UL] and Lidl [LIDUK.UL] rose at their
+walmart,2017-5,"19.8 percent in the 12 weeks to May 21 year-on-year, while"
+walmart,2017-5,"year-on-year, up from 2.6 percent in the previous period."
+walmart,2017-5,"It said some higher prices such as for butter, fish and cola"
+walmart,2017-5,shopped in an Aldi or Lidl during the 12-week period compared
+walmart,2017-5,"""Consumers are starting to feel the pinch as prices continue"
+walmart,2017-5,"However, all the big four saw their market shares edge"
+walmart,2017-5,confidence edged up to a four-month high in May but households
+walmart,2017-5,since last year's Brexit vote feeding into higher prices in
+walmart,2017-5,"{{20170531T072427.083+0000}}UK discounters growth accelerates as food inflation risesLONDON, May 31 (Reuters) - UK sales at discounters Aldi [ALDIEI.UL] and Lidl [LIDUK.UL] together grew at their fastest rate since January 2015, while grocery inflation continued to rise, industry data showed on Wednesday."
+walmart,2017-5,"Market researcher Kantar Worldpanel said Aldi's sales rose 19.8 percent in the 12 weeks to May 21, while Lidl's increased 18.3 percent, giving a record combined market share of 12 percent."
+walmart,2017-5,"Grocery inflation was recorded at 2.9 percent year-on-year, up from 2.6 percent in the previous data set."
+walmart,2017-5,"Market leader Tesco's sales growth was 1.8 percent, Sainsbury's was 1.7 percent, Asda's was 0.9 percent and Morrisons' was 1.9 percent."
+walmart,2017-5,"{{20170530T221114.125+0000}}Mexican retailer Walmex picks new chief financial officerMEXICO CITY, May 30 (Reuters) - Mexico's biggest retailer, Wal-Mart de Mexico, said on Tuesday it has named Olga Gonzalez as its new chief financial officer."
+walmart,2017-5,"Gonzalez, who will assume her new role on July 1, replaces former CFO Pedro Farah, who was promoted to serve as executive vice president and treasurer for U.S. parent Wal-Mart Stores Inc."
+walmart,2017-5,"{{20170529T171403.963+0000}}COLUMN-In age of 'superstar firms,' index investing logic holds: James Saft(The opinions expressed here are those of the author, a columnist for Reuters)"
+walmart,2017-5,"May 29 (Reuters) - Even in the age of ""superstar firms,"" the logic of index investing holds."
+walmart,2017-5,"New research details how a small number of companies - think Google, Amazon and Apple - have come to dominate their sectors, capturing a growing share of revenues and helping to create an economy featuring high corporate profits but a lower share of the pie for workers."
+walmart,2017-5,"Commentators have concentrated on the economic, social and policy implications of superstar firms but the investment ones are also interesting, and not obvious."
+walmart,2017-5,"While you might think that the trick to investing in an economy with a few winners and many also-rans is to identify the Amazons and buy them, this, of course, is much more easily done looking backward than looking forward."
+walmart,2017-5,"One problem is that the research finds that the concentration rises in industries with faster technological change. While fast technological change seems to bring big winners and concentration - see Facebook, it also brings with it the risk that companies will be supplanted by other technology in the future."
+walmart,2017-5,"Indeed, one of the named superstar firms is Wal-Mart, which as a mostly physical retailer is now seeing its own position hollowed out by the likes of Amazon. Or consider IBM, which surely would once have been thought of as a superstar but which now is notable more for its fondness for share buybacks than its strong returns as a stock."
+walmart,2017-5,"The reality is that a winner-take-all-society is a risky society, and that applies as much to investors as it does to college graduates or mid-career workers. It simply is not as simple as just figuring out who is 'winning' and climbing on board. A concentrated bet on superstar firms is very likely highly risky, not just in theory, as are all concentrated bets, but also in practice due to the rate of technological change."
+walmart,2017-5,"Index investing, in contrast, will allow investors to be exposed to the rising, or persistently high, corporate margins which are a feature of a more highly concentrated economy. In other words, and sadly, the wise bet may not be on Amazon or Facebook, per se, but against labor."
+walmart,2017-5,"While rising concentration and falling wages are new, it has long been a fact that the vast majority of the money made on the stock market comes via a tiny number of firms which skyrocket in value."
+walmart,2017-5,"Hendrik Bessembinder of Arizona State University calculated in a recent study that just 86 stocks have, over 90 years, accounted for $16 trillion in wealth creation, or about half the total of wealth created by the entire universe of companies over that period."
+walmart,2017-5,"The other 26,000 or so stocks created the other $16 trillion of wealth, but even that is a misleading guide to how well an individual stock might do. The top 1,000 stocks, or less than 4 percent of all companies traded over 86 years, account for all wealth creation."
+walmart,2017-5,"It is notable too that superstar firms have risen, and wages fallen, during a period with rising globalization and a political and regulatory backdrop which allowed it to happen. It may well be that Google, Amazon and Facebook face new political and regulatory roadblocks to maintaining their position. This certainly is already true in China."
+walmart,2017-5,1 - Try to identify some of the 86 superstars in advance. Good luck with that.
+walmart,2017-5,2 - Buy stocks you think are among the 86 after they so prove and hope they hold their position. This strategy misses out on all of the gains these few superstar firms make before it dawns on you they've arrived. It also exposes you to huge risks that they are in turn supplanted.
+walmart,2017-5,"3 - Buy a broad stock market index, including earlier-stage companies, and slowly build wealth by collecting the equity risk premium and allowing it to compound."
+walmart,2017-5,The logic of choice 3 should hold as the balance between profits and labor evolves.
+walmart,2017-5,"UPDATE 5-Sears surges as cost cuts, asset sale help post profit - Reuters News"
+walmart,2017-5,"{{20170525T190807.047+0000}}UPDATE 5-Sears surges as cost cuts, asset sale help post profit* Reports first profit in 7 quarters"
+walmart,2017-5,"May 25 (Reuters) - Sears Holdings Corp reported its first quarterly profit in nearly two years, as the retailer slashed costs by nearly a third and benefited from the sale of its Craftsman brand, sending its shares surging as much as 32.5 percent."
+walmart,2017-5,"The company's shares, which are heavily shorted, posted their biggest intraday percentage gain in more than three months. The shares had fallen 18 percent since Sears raised going concern doubts in March. [nL3N1GY5F8]"
+walmart,2017-5,"Quarterly sales, however, continued their years-long decline, while the company's cash balance fell to $264 million as of April 29 from $286 million at Jan. 28. [nPn3Z667ha]"
+walmart,2017-5,"Sears, once the largest U.S. retailer, has been struggling to turn around its business for years amid intensifying competition from Wal-Mart Stores Inc and Amazon.com Inc ."
+walmart,2017-5,"The worsening retail environment hasn't helped either, forcing Sears and others including Macy's Inc to close stores and cut costs."
+walmart,2017-5,"Sears, which sold its Craftsman tools brand to Stanley Black & Decker in March, said it had cut up to $700 million in costs to date since February as part of a program to reduce costs by $1.25 billion."
+walmart,2017-5,"Sears CEO Eddie Lampert said on Thursday the results had ""clearly demonstrated"" the company's commitment to return to solid financial footing."
+walmart,2017-5,"However, at least two people, including a hedge fund manager, said the stock's surge was more indicative of a short squeeze than a turnaround in the business."
+walmart,2017-5,"""The stock movement does not indicate anything related to investment on the basis of fundamentals,"" David Tawil, president of hedge fund Maglan Capital, which invests in distressed companies, told Reuters. The fund said it does not have a stake in Sears."
+walmart,2017-5,"Mark Cohen, former CEO of Sears Canada, backed the view."
+walmart,2017-5,"""There's no turnaround. Anybody who suggests that that's the case... is suffering from a loss of reality,"" said Cohen, currently director of retail studies at Columbia Business School."
+walmart,2017-5,"As of May 15, short interest stood at 13.5 percent of the company's outstanding shares, according to Reuters data. Sears, which has not posted an annual profit in six years, has also struggled with a big debt pile."
+walmart,2017-5,"Total liabilities at the end of the quarter was $12.6 billion, down from $13.19 billion at the end of the fourth quarter."
+walmart,2017-5,"Sales at Sears' U.S. stores open more than a year fell 12.4 percent, while at Kmart they declined 11.2 percent. Total revenue fell by a fifth to $4.30 billion."
+walmart,2017-5,"Net income attributable to Sears' shareholders was $244 million, or $2.28 per share, within the range of the company's forecast in April. [nPn7hGZ83a]"
+walmart,2017-5,"Excluding restructuring items, the company reported a net loss of $2.15 per share."
+walmart,2017-5,The company's shares were up 11 percent at $8.31 in late-afternoon trading.
+walmart,2017-5,"{{20170525T110009.644+0000}}Wal-Mart's South African arm Massmart reports drop in like-for-like salesJOHANNESBURG, May 25 (Reuters) - South African-based retailer Massmart , majority-owned by Wal-Mart Inc , reported on Thursday a near 2 percent fall in overall same-store sales in the first five months of the current year, as outlets outside its home market underperformed."
+walmart,2017-5,"Bought into by Wal-Mart seven years ago in a $2.4 billion deal that gave the world's biggest retailer a foothold in several potentially high-growth markets in sub-Saharan Africa, Massmart has struggled with weakening economies and has therefore become more cautious in its expansion policy across the region."
+walmart,2017-5,"The company, which sells everything from food to electronic devices and building materials, said comparable store sales for the first 21 weeks of the 2017 fiscal year fell 1.9 percent, with sales in South Africa down 0.4 percent and outside South Africa down by nearly 16 percent."
+walmart,2017-5,Sales in South Africa account for 91 percent of total turnover.
+walmart,2017-5,"Shares in the Johannesburg-based company fell 3.5 percent to 114.86 rand, lagging behind a slightly lower JSE Top-40 index <.JTOPI>."
+walmart,2017-5,"Once at the heart of executives' expansion plans, sub-Saharan Africa growth prospects were dealt a blow in mid 2014 with a fall in the prices of oil and other commodities - export mainstays for many local economies - partly due to a slowdown in demand from leading consumer China."
+walmart,2017-5,Massmart's chief executive Guy Hayward told a shareholder meeting that the company's performance was also affected by consumers becoming more cautious about spending and after South Africa lost two highly prized investment grade credit ratings last month.
+walmart,2017-5,"""The unfavourable impact on sales in discretionary product categories, such as general merchandise, has been notable and appears to be as strongly linked to weak consumer confidence as it is to underlying economic issues,"" Hayward said."
+walmart,2017-5,Sears reports first quarterly profit in almost 2 years - Reuters News
+walmart,2017-5,"{{20170525T101457.732+0000}}Sears reports first quarterly profit in almost 2 yearsMay 25 (Reuters) - Sears Holdings Corp reported its first quarterly profit in almost two years, as the retailer undertakes a $1.25 billion cost-cutting plan amid concerns about its ability to continue as a going concern."
+walmart,2017-5,"Sales at Sears' U.S. stores open more than a year fell 12.4 percent, while at Kmart they fell 11.2 percent in the first quarter ended April 29."
+walmart,2017-5,"Net income attributable to Sears' shareholders was $244 million, or $2.28 per share, compared with a loss of $471 million, or $4.41 per share, a year earlier. [nPn3Z667ha]"
+walmart,2017-5,"The company said in April that it expected to report a net profit of between $185 million and $285 million for the first quarter, helped by cost cuts, including through shutting stores and reducing management jobs. [nPn7hGZ83a]"
+walmart,2017-5,"{{20170523T173016.098+0000}}UPDATE 3-CEOs of Target, ADM offer differing views on U.S. border tax at hearing(Adds hearing conclusion)"
+walmart,2017-5,"WASHINGTON, May 23 (Reuters) - The chief executive officers of two major American companies - retailer Target Corp and agribusiness Archer Daniels Midland Co - offered opposing views in a hearing before U.S. lawmakers on Tuesday on a proposed border adjustment tax."
+walmart,2017-5,"Target CEO Brian Cornell has been one of the most vocal opponents of the Republican-backed border adjustment tax and testified alongside Juan Luciano, president and CEO of ADM, who spoke in favor of the proposal."
+walmart,2017-5,"The border tax would imposes a tax on imports while providing a credit for exports and has been proposed by House Republicans as part of a larger tax code overhaul. Target is a big importer of goods, while ADM exports."
+walmart,2017-5,"House Speaker Paul Ryan argues the proposed border tax, which is estimated to garner $1 trillion, will not affect prices and will allow rate cuts for businesses while not creating deficits, but retailers warn that it could raise consumer prices as much as 15 percent."
+walmart,2017-5,Cornell and Luciano took staunchly different positions on the tax.
+walmart,2017-5,"Luciano, on the other hand, argued that the tax would make American companies more competitive."
+walmart,2017-5,"""A competitive tax code will help us continue providing American-made food and feed to our customers in the United States and abroad in the face of robust and, from a tax perspective, ever strengthening competition from abroad,"" he said."
+walmart,2017-5,"The outlook for passage of the border tax - which drew staunch opposition from retailers - remains perilous, especially as key Senate Republicans and President Donald Trump have refused to endorse it. [nL1N1IB23T] [nL2N1GBJ8W]"
+walmart,2017-5,"Several Republican members of the committee expressed concerns about the tax during the hearing that stretched more than three hours, including Republican Representative Jim Renacci who argued the proposal could hurt small businesses that rely on imports."
+walmart,2017-5,"Dimming the prospects more, lawmakers and lobbyists have begun to speculate that Congress will be unable to rally support for a sweeping tax code overhaul this year, and are beginning to look instead at cutting tax rates without broad reform."
+walmart,2017-5,"The committee heard from two additional supporters of the tax, including William Simon, the former CEO of Wal-Mart Stores Inc , who despite his past with a large retailer that opposes the tax, endorsed the measure."
+walmart,2017-5,"""We will see more good middle class jobs, a robust U.S. economy and an era of growth that will be led by a new industrial revolution,"" Simon said."
+walmart,2017-5,"Lawrence Lindsey, the former director of the National Economic Council under President George W. Bush, also supported the tax."
+walmart,2017-5,"Economist Kimberly Clausing, of Reed College, criticized the proposal, saying she disagrees with the argument by proponents that currency markets would prevent consumer prices from increasing."
+walmart,2017-5,"""This is an untested tax reform that is not ready for primetime,"" she said."
+walmart,2017-5,{{20170523T152142.073+0000}}BRIEF-Walmart announces $450 mln investments throughout Florida for 2017-2018May 23 (Reuters) - Wal-mart Stores Inc :
+walmart,2017-5,"* Announces $450 million in 2017-2018 investments throughout Florida, plans to hire more than 2,750 Floridians"
+walmart,2017-5,* Plan will expand company's more than 375 facility footprint in Florida and build on continued positive momentum in U.S. Sales
+walmart,2017-5,"{{20170522T220136.961+0000}}U.S. RESEARCH ROUNDUP- Boeing, Momenta Pharma, MylanMay 22 (Reuters) - Wall Street securities analysts revised their ratings and price targets on"
+walmart,2017-5,"several U.S.-listed companies, including Boeing, Momenta Pharmaceuticals and Mylan, on Monday."
+walmart,2017-5,* Floor & Decor Holdings : Jefferies starts with a hold rating; price target $38
+walmart,2017-5,* Momenta Pharmaceuticals Inc : Barclays cuts to equal weight from overweight
+walmart,2017-5,Following is a summary of research actions on U.S. companies reported by Reuters on Monday. Stock
+walmart,2017-5,* Alcoa Inc : Clarksons Platou Securities starts with buy rating; $43 price target
+walmart,2017-5,* American Homes 4 Rent : Raymond James raises target to $28 from $26; strong buy
+walmart,2017-5,* Amgen Inc : Morgan Stanley cuts price target to $183 from $189;rating overweight
+walmart,2017-5,* Apple Inc : RBC raises target price to $168 from $157; rating outperform
+walmart,2017-5,* Autozone Inc : RBC cuts target price to $753 from $829; rating sector perform
+walmart,2017-5,* Ball Corp : Deutsche Bank cuts target price to $44 from $88; rating buy
+walmart,2017-5,* Blackstone Group LP : Citigroup raises to buy from neutral - Thefly.com
+walmart,2017-5,* Blackstone Group LP : Credit Suisse raises target price to $45 from $42
+walmart,2017-5,* Booz Allen Hamilton Holding : Cowen raises price target to $46 from $43; outperform
+walmart,2017-5,* Carvana Co : Craig-Hallum starts with buy rating; $16 price target
+walmart,2017-5,* Centene Corp : JP Morgan cuts to neutral from overweight - Trader
+walmart,2017-5,* Chicago Bridge & Iron Company NV : Johnson Rice cuts target price to $26 from $31
+walmart,2017-5,* Childrens Place Inc : Morgan Stanley raises target price to $150 from $140
+walmart,2017-5,* Cone Midstream Partners LP : Citigroup raises to buy from neutral - Trader
+walmart,2017-5,* Deckers Outdoor : B. Riley raises target price to $61 from $49; rating neutral
+walmart,2017-5,* Deere & Co : Barclays raises price target to $90 from $82; rating underweight
+walmart,2017-5,* Deere & Co : Piper Jaffray raises target price to $113 from $106; rating neutral
+walmart,2017-5,* Delek US Holdings Inc : Raymond James raises target price to $32 from $30
+walmart,2017-5,* Eaton Vance Corp : Jefferies raises target price to $45 from $42; rating hold
+walmart,2017-5,* Endologix Inc : Leerink cuts target price to $5.50 from $8;rating market perform
+walmart,2017-5,* Finish Line Inc : Monness Crespi Hardt raises to buy from neutral
+walmart,2017-5,* Five Below Inc : Dougherty raises target price to $63 from $52; rating buy
+walmart,2017-5,* Floor & Decor Holdings : Barclays starts with an overweight rating;target $50
+walmart,2017-5,* Floor & Decor Holdings : Jefferies starts with a hold rating; price target $38
+walmart,2017-5,* Floor & Decor Holdings : Credit Suisse starts with outperform rating; $43 target
+walmart,2017-5,* Foot Locker : B. Riley cuts target price to $68 from $79; rating buy
+walmart,2017-5,* Foot Locker : Barclays cuts price target to $80 from $85; rating overweight
+walmart,2017-5,* Foot Locker : Telsey Advisory Group cuts target to $79 from $85; rating outperform
+walmart,2017-5,* Foot Locker : Wedbush cuts target price to $72 from $83; rating outperform
+walmart,2017-5,* Heartland Financial USA Inc : Sandler O'Neill cuts target price to $49 from $54
+walmart,2017-5,* Marriott Vacations Worldwide Corp : Stifel raises price target to $120 from $102
+walmart,2017-5,* McKesson Corp : Cowen and Company raises target price to $169 from $163
+walmart,2017-5,* Medtronic Plc : RBC raises target price to $90 from $85; rating outperform
+walmart,2017-5,* Mitek Systems : Northland Capital raises target price to $11; rating outperform
+walmart,2017-5,* Momenta Pharmaceuticals Inc : Barclays cuts to equal weight from overweight
+walmart,2017-5,* Motorola Solutions Inc : Raymond James raises to outperform from market perform
+walmart,2017-5,* New Age Beverages : Maxim Group raises price target to $7.50 from $6; rating buy
+walmart,2017-5,* Nutanix Inc : Goldman Sachs raises to buy from neutral - Thefly.com
+walmart,2017-5,* Penntex Midstream Partners LP : Citigroup cuts to neutral from buy - Trader
+walmart,2017-5,* Philip Morris International Inc : Jefferies raises target price to $120 from $111
+walmart,2017-5,* Plains All American Pipeline : Raymond James ups to outperform from market perform
+walmart,2017-5,* Plains GP Holdings LP : Raymond James raises to outperform from market perform
+walmart,2017-5,* Prestige Brands Holdings : Raymond James raises to outperform from market perform
+walmart,2017-5,* Qualcomm Inc : JP Morgan raises to overweight from neutral - Trader
+walmart,2017-5,* Sequans Communications SA : Benchmark raises price target to $5.70; rating buy
+walmart,2017-5,* Shoe Carnival Inc : B. Riley cuts target price to $21 from $25; rating neutral
+walmart,2017-5,* Sorrento Therapeutics Inc : Rodman & Renshaw cuts target price to $20 from $30
+walmart,2017-5,* Synchronoss Technologies: Credit Suisse cuts to underperform from neutral-Trader
+walmart,2017-5,* Toro Co : Longbow Research raises to neutral from underperform - Trader
+walmart,2017-5,* Verona Pharma Plc : Stifel starts with a buy rating; price target $22
+walmart,2017-5,* Verona Pharma Plc : Wedbush starts with an outperform rating; price target $25
+walmart,2017-5,* West Bancorporation Inc : Sandler O'Neill cuts target price by $2 to $23
+walmart,2017-5,* Western Alliance Bancorp : Jefferies cuts target price to $54 from $58;rating buy
+walmart,2017-5,* Yirendai : Morgan Stanley raises target price to $32 from $30; rating overweight
+walmart,2017-5,{{20170522T192020.832+0000}}BREAKINGVIEWS-Wal-Mart's online therapy may revive ailing retail(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+walmart,2017-5,"NEW YORK, May 22 (Reuters Breakingviews) - Wal-Mart's online therapy may help revive ailing retailers. The $242 billion giant is starting to reap the benefits of embracing e-commerce while shares in digital laggards like Macy's and J.C. Penney plummeted after poor results. Unless they follow the behemoth's lead, they're likely to hand more market share to Wal-Mart and internet megastore Amazon ."
+walmart,2017-5,"After years of fits and starts, Wal-Mart's revenue from online sales jumped by an impressive 63 percent in the first three months of the year, compared to the same period in 2016. What's more, executives attributed the rise largely to existing operations rather than to acquisitions like last year's $3.3 billion Jet.com deal."
+walmart,2017-5,"Chief Executive Doug McMillon has achieved this by playing to people's desire to save money. Customers get discounts if they buy online and pick up in a store, for example. And two-day shipping for purchases of $35 or more is free. That even forced Amazon, which rarely imitates the competition, to lower its threshold for free shipping."
+walmart,2017-5,"It's a relative bright spot in a troubled industry. Some are filing for bankruptcy, as teen fashion store Rue 21 did last week. Others missed estimates on poor sales, sending their shares into another nosedive after years of flat or falling revenue. Foot Locker , Dick's Sporting Goods , Macy's and J.C. Penney have lost between 16 percent and 24 percent in value over the past month on the back of bad earnings."
+walmart,2017-5,"Like Wal-Mart, some have made a lot of noise about buying online stores, but keep mum about how much business they're getting. Macy's would only say that it's increasing by double digits. Chief Financial Officer Karen Hoguet argues that it's ""almost impossible"" to break out digital sales because of all the ""cross-channel activity."""
+walmart,2017-5,- Wal-Mart on May 18 reported higher-than-expected quarterly sales and a 63 percent jump in online sales.
+walmart,2017-5,"- Retailers J.C. Penney, Macy's, Kohl's , Nordstrom , Foot Locker and Dick's Sporting Goods reported lower-than-expected same-store sales for the first quarter."
+walmart,2017-5,"- For previous columns by the author, Reuters customers can click on [SABA/]"
+walmart,2017-5,"{{20170522T111242.391+0000}}RPT-BUZZ-U.S. stocks weekly: D.C. drama(Repeats from Friday, no changes to text)"
+walmart,2017-5,biggest winner Deere  surges 7 pct to new high on forecast
+walmart,2017-5,"the trend in retail as sales get boost from online growth,"
+walmart,2017-5,"{{20170522T111013.336+0000}}U.S. RESEARCH ROUNDUP- Boeing, Momenta Pharmaceuticals, MylanMay 22 (Reuters) - Wall Street securities analysts revised their ratings and price targets"
+walmart,2017-5,"on several U.S.-listed companies, including Boeing, Momenta Pharmaceuticals and Mylan, on"
+walmart,2017-5,* Floor & Decor Holdings : Jefferies starts with a hold rating; price target $38
+walmart,2017-5,* Momenta Pharmaceuticals Inc : Barclays cuts to equal weight from overweight
+walmart,2017-5,Following is a summary of research actions on U.S. companies reported by Reuters on Monday.
+walmart,2017-5,* Amgen Inc : Morgan Stanley cuts price target to $183 from $189;rating overweight
+walmart,2017-5,* Apple Inc : RBC raises target price to $168 from $157; rating outperform
+walmart,2017-5,* Autozone Inc : RBC cuts target price to $753 from $829; rating sector perform
+walmart,2017-5,* Ball Corp : Deutsche Bank cuts target price to $44 from $88; rating buy
+walmart,2017-5,* Carvana Co : Craig-Hallum starts with buy rating; $16 price target
+walmart,2017-5,* Centene Corp : JP Morgan cuts to neutral from overweight - Trader
+walmart,2017-5,* Childrens Place Inc : Morgan Stanley raises target price to $150 from $140
+walmart,2017-5,* Deere & Co : Barclays raises price target to $90 from $82; rating underweight
+walmart,2017-5,* Deere & Co : Piper Jaffray raises target price to $113 from $106; rating neutral
+walmart,2017-5,* Eaton Vance Corp : Jefferies raises target price to $45 from $42; rating hold
+walmart,2017-5,* Endologix Inc : Leerink cuts target price to $5.50 from $8;rating market perform
+walmart,2017-5,* Five Below Inc : Dougherty raises target price to $63 from $52; rating buy
+walmart,2017-5,* Floor & Decor Holdings : Barclays starts with an overweight rating;target $50
+walmart,2017-5,* Floor & Decor Holdings : Jefferies starts with a hold rating; price target $38
+walmart,2017-5,* Foot Locker : Barclays cuts price target to $80 from $85; rating overweight
+walmart,2017-5,* Foot Locker : Telsey Advisory Group cuts target to $79 from $85; rating outperform
+walmart,2017-5,* Foot Locker : Wedbush cuts target price to $72 from $83; rating outperform
+walmart,2017-5,* Marriott Vacations Worldwide Corp : Stifel raises price target to $120 from $102
+walmart,2017-5,* Medtronic Plc : RBC raises target price to $90 from $85; rating outperform
+walmart,2017-5,* Momenta Pharmaceuticals Inc : Barclays cuts to equal weight from overweight
+walmart,2017-5,* Philip Morris International Inc : Jefferies raises target price to $120 from $111
+walmart,2017-5,* Qualcomm Inc : JP Morgan raises to overweight from neutral - Trader
+walmart,2017-5,* Sequans Communications SA : Benchmark raises price target to $5.70; rating buy
+walmart,2017-5,* Toro Co : Longbow Research raises to neutral from underperform - Trader
+walmart,2017-5,* Western Alliance Bancorp : Jefferies cuts target price to $54 from $58;rating buy
+walmart,2017-5,"{{20170519T215815.951+0000}}U.S. RESEARCH ROUNDUP- Alibaba, Lumber Liquidators, Palo Alto NetworksMay 19 (Reuters) - Wall Street securities analysts revised their ratings and price targets"
+walmart,2017-5,"on several U.S.-listed companies, including Alibaba Group, Lumber Liquidators and Palo Alto"
+walmart,2017-5,* Lumber Liquidators Holdings Inc : Oppenheimer raises to outperform from perform
+walmart,2017-5,* Palo Alto Networks Inc : Jefferies raises to buy from hold
+walmart,2017-5,Following is a summary of research actions on U.S. companies reported by Reuters on Friday.
+walmart,2017-5,* Alibaba Group Holding Ltd : Oppenheimer raises target price to $140 from $130
+walmart,2017-5,* Alibaba Group Holding Ltd : RBC raises price target to $140 from $120
+walmart,2017-5,* Alibaba Group Holding Ltd : RBC raises target to $140 from $120; outperform
+walmart,2017-5,* Applied Materials : Cowen and Company raises target to $50 from $45;outperform
+walmart,2017-5,* Autodesk Inc : Baird raises price target to $110 from $100; rating outperform
+walmart,2017-5,* Autodesk Inc : Cowen and Company raises target to $115 from $105;outperform
+walmart,2017-5,* Autodesk Inc : Wedbush raises price target to $125 from $120; rating outperform
+walmart,2017-5,* Axogen Inc : Wedbush raises price target to $17 from $14; rating outperform
+walmart,2017-5,* Blackhawk Network Holdings : Citigroup raises to buy; ups price target to $47
+walmart,2017-5,* Bloomin' Brands Inc : Wells Fargo cuts to market perform from outperform
+walmart,2017-5,* Buffalo Wild Wings Inc : Maxim Group raises to buy from hold
+walmart,2017-5,* Condor Hospitality Trust Inc : Keybanc starts with sector weight rating
+walmart,2017-5,* Conduent Inc : Cowen and Company starts with market perform; target price $18
+walmart,2017-5,* Continental Resources Inc : JP Morgan cuts target price to $51 from $57
+walmart,2017-5,* Cullen/Frost Bankers Inc : Wedbush raises to neutral from underperform
+walmart,2017-5,* Energen Corp : Susquehanna raises price target to $66 from to $64;rating positive
+walmart,2017-5,* Foot Locker : Canaccord Genuity cuts price target to $75.00 from $87.00;rating buy
+walmart,2017-5,* Foot Locker : Cowen and Company cuts price target to $64 from $77; market perform
+walmart,2017-5,* Foot Locker : Credit Suisse cuts price target to $66 from $77; neutral
+walmart,2017-5,* Foot Locker : Jefferies cuts price target to $80.00 from $88.00; rating buy
+walmart,2017-5,* Foot Locker : JP Morgan cuts price target to $69.00 from $82.00; overweight
+walmart,2017-5,* Foot Locker : Telsey Group cuts price target to $79.00 from $85.00; outperform
+walmart,2017-5,* Hibbett Sports Inc : SunTrust Robinson cuts price target to $27 from $34
+walmart,2017-5,* HTG Molecular Diagnostics :Canaccord Genuity cuts target to $5.50 from $6.50;buy
+walmart,2017-5,* IBERIABANK Corp : Raymond James raises to strong buy from outperform
+walmart,2017-5,* Lumber Liquidators Holdings Inc : Oppenheimer raises to outperform from perform
+walmart,2017-5,* Mckesson Corp : Baird raises price target to $155 from $138; rating neutral
+walmart,2017-5,* National General Holdings Corp : KBW cuts target price to $27 from $28
+walmart,2017-5,* Nobilis Health Corp : Benchmark starts with buy rating; $2.50 price target
+walmart,2017-5,* Palo Alto Networks Inc : Jefferies raises price target to $150 from $130
+walmart,2017-5,* Palo Alto Networks Inc : Jefferies raises to buy from hold
+walmart,2017-5,* Penntex Midstream Partners LP : Baird raises target price to $20 from $19
+walmart,2017-5,* Penntex Midstream Partners LP : RBC cuts to sector perform from outperform
+walmart,2017-5,* Penntex Midstream Partners LP : RBC raises price target to $20 from $19
+walmart,2017-5,* Ralph Lauren : Cowen and Company cuts target price to $78 from $84; market perform
+walmart,2017-5,* Retail Opportunity Investments Corp : Capital One cuts target to $24; overweight
+walmart,2017-5,* Salesforce.com Inc : Baird raises price target to $100 from $90;rating outperform
+walmart,2017-5,* Salesforce.com Inc : Canaccord Genuity raises target to $100 from $95; rating buy
+walmart,2017-5,* Salesforce.com Inc : JP Morgan raises target price to $102 from $95
+walmart,2017-5,* Salesforce.com Inc : Oppenheimer raises target to $100 from $95;rating outperform
+walmart,2017-5,* Sandy Spring Bancorp Inc : KBW raises target price to $44 from $43
+walmart,2017-5,* Synnex Corp : Raymond James raises to strong buy from market perform
+walmart,2017-5,* Take Two Interactive Software : Benchmark raises price target to $77 from $69
+walmart,2017-5,* Take Two Interactive Software : Mizuho raises target price to $75 from $60
+walmart,2017-5,* Take-Two Interactive Software : Wedbush raises target to $65 from $48; neutral
+walmart,2017-5,* Teekay Corp : Jefferies cuts price target to $7.00 from $8.50; rating hold
+walmart,2017-5,{{20170519T201831.110+0000}}BUZZ-U.S. stocks weekly: D.C. drama** S&P 500 <.SPX> falls for second straight week amid
+walmart,2017-5,biggest winner Deere  surges 7 pct to new high on forecast
+walmart,2017-5,"the trend in retail as sales get boost from online growth,"
+walmart,2017-5,"{{20170519T172829.636+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Autodesk, McKesson, Deere, Foot Locker, Ralph Lauren, Gap, Dynegy* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-5,U.S. stocks rallied on Friday as a set of strong corporate earnings lifted
+walmart,2017-5,investor spirits in a week dominated by uncertainty surrounding Donald Trump's
+walmart,2017-5,"At 13:21 ET, the Dow Jones Industrial Average <.DJI> was up 0.80 percent at"
+walmart,2017-5,ANALYSIS-Full tanks and tankers: a stubborn oil glut despite OPEC cuts
+walmart,2017-5,BUZZ-U.S. banks rise as investors pick up beaten down stocks [nL4N1IL4FS]
+walmart,2017-5,"UPDATE 2-Deere profit beats on strong farm equipment demand, shares"
+walmart,2017-5,BUZZ: Set to open at record high on strong Q2 report [nL4N1IL3O0]
+walmart,2017-5,(Compiled by Laharee Chatterjee in Bengaluru; Edited by Martina D'Couto)
+walmart,2017-5,"{{20170519T160933.755+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Autodesk, McKesson, Deere, Foot Locker, Ralph Lauren, Gap* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-5,U.S. stocks were higher late Friday morning as a set of strong corporate
+walmart,2017-5,earnings lifted investor spirits in a week dominated by uncertainty surrounding
+walmart,2017-5,"At 11:58 ET, the Dow Jones Industrial Average <.DJI> was up 0.63 percent at"
+walmart,2017-5,"UPDATE 2-Deere profit beats on strong farm equipment demand, shares"
+walmart,2017-5,BUZZ: Set to open at record high on strong Q2 report [nL4N1IL3O0]
+walmart,2017-5,"{{20170519T145048.041+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Autodesk, Foot Locker, McKesson, Dynegy, Ralph Lauren* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-5,"U.S. stocks advanced on Friday, driven by Apple, as a sense of calm prevailed"
+walmart,2017-5,over Wall Street in a week that was dominated by political uncertainty
+walmart,2017-5,"At 10:36 ET, the Dow Jones Industrial Average <.DJI> was up 0.46 percent at"
+walmart,2017-5,"Deere profit beats on strong farm equipment demand, shares jump [nL4N1IL3NU]"
+walmart,2017-5,BUZZ: Set to open at record high on strong Q2 report [nL4N1IL3O0]
+walmart,2017-5,{{20170519T135140.683+0000}}BREAKINGVIEWS-Review: Democrats' chief firebrand fumbles message(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+walmart,2017-5,"WASHINGTON, May 19 (Reuters Breakingviews) - Elizabeth Warren's latest book reads like a marker for a 2020 White House campaign. In ""This Fight is Our Fight,"" the U.S. senator from Massachusetts blasts familiar targets like lobbyists and Wall Street, plus a new foe: President Donald Trump. Tales of struggling Americans are engagingly woven into the outrage. Still, her rote views limit her appeal."
+walmart,2017-5,"In just four years in the Senate, Warren's national profile has risen quickly. Her impassioned speeches criticizing bankers made her a darling among liberals. That vitriol is on stark display in the book. She also lists the mistakes the Democratic Party made in 2016. However, her solutions are more like empty campaign slogans: demand democracy, build opportunity and fight."
+walmart,2017-5,"Towards the end of the book, Warren reveals she contemplated running for the presidency in 2016 and discussed it with her husband - a Harvard professor, as she used to be. He warned that a presidential campaign would be ""a lot worse"" than her 2012 Senate race, when she was ridiculed for claiming Native American heritage. ""Talking with Bruce and asking the question out loud had settled it,"" Warren writes. ""I wanted to stay buckled down and keep doing my job."""
+walmart,2017-5,"Trump's improbable victory and chaotic first months have added urgency to the search for a candidate capable of challenging him in 2020. The TV tycoon mused in April that Warren might be his next rival. She has what Hillary Clinton lacked: the ability to rally the Democratic base. As she writes, ""I now start every day by reminding myself that Hillary Clinton beat Donald Trump by nearly three million votes."""
+walmart,2017-5,"The main lesson Warren appears to have learned from the 2016 campaign is to double down on her anger. She doesn't present any new or unexpected ideas. Indeed, the most surprising disclosure comes on the book's first page, where Warren reveals that she and her husband spent election night watching ""Ballers,"" an HBO comedy starring Dwayne Johnson, the actor and former wrestler known as The Rock."
+walmart,2017-5,"The rest of ""This Fight is Our Fight"" is classic Warren, attacking corporations and the rich who fight for tax loopholes and less regulation at the expense of average Americans. She illustrates those struggles with tales of everyday hardship."
+walmart,2017-5,"There is Gina, a North Carolina resident who got a business degree and worked as a sales representative while her husband was a roofer. Later on, Gina is working at Wal-Mart while her husband's assignments are spotty. Their income is cut in half. ""What happened?...Nothing. No crisis. No accident. No tale of woe,"" Warren writes. ""Just the grinding wear and tear of an economy that doesn't work any more for families like Gina's."""
+walmart,2017-5,"Warren rightly points out that growing GDP and rising stocks don't necessarily mean prosperity for ordinary citizens. But to blame Gina's woes on a bubbly equity market seems disingenuous. It's the kind of zero-sum rationale that Trump has embraced. If China and other countries are doing better, it must be at the expense of the United States."
+walmart,2017-5,"Warren criticizes wealthy Republican donors like the Koch brothers, but not Democrat-supporting hedge fund billionaires such as Tom Steyer and George Soros. She also reiterates her ill-advised scorn for former Lazard banker Antonio Weiss, who withdrew from a Senate-confirmed job in President Barack Obama's administration after Warren opposed him. Though the revolving door between Wall Street and Washington has its drawbacks, financial experience is helpful in some government positions."
+walmart,2017-5,"Democrats have a chance to recapture the White House in 2020. The popular backlash to the planned repeal of Obama's healthcare reforms could cost Trump votes in many states that backed him last November. Probes into his campaign's links with Russia could delay a promised tax overhaul and infrastructure spending. The president's erratic and questionable actions, like his decision to fire FBI Director James Comey, seem certain to further undermine his approval ratings."
+walmart,2017-5,"During the 2016 campaign, Warren proved she could get under Trump's skin with tweet storms that matched the president's own. Her fans love her persistence and tough talk. But to take the White House as a Democrat she will have to win over a broader base of supporters. The broken-record rhetoric in this book will do little to entice them."
+walmart,2017-5,"- ""This Fight is Our Fight: the Battle to Save America's Middle Class"" by Elizabeth Warren was published by Metropolitan Books in April."
+walmart,2017-5,"- For previous columns by the author, Reuters customers can click on [CHON/]"
+walmart,2017-5,"{{20170519T115316.275+0000}}BUZZ-Walmart rises as earnings beat, brokerage upgrades rating** Shares of Wal-Mart Stores up 0.77 pct to $78.14 in pre-market trade on BMO upgrade"
+walmart,2017-5,"** Three-star rated analyst at BMO upgrades shares to ""market perform"" from ""underperform"" for the first time since November, 2014"
+walmart,2017-5,"** Wal-Mart Stores Inc on Thursday reported a higher-than-expected quarterly sales at established U.S. stores, as investments to bring more customers into the discount retailer paid off and a bigger push into e-commerce boosted online purchase [nL2N1IK0DA]"
+walmart,2017-5,"** Brokerage sees many challenges, including emerging competition from hard discounters and an adverse margin mix from growth in e-commerce"
+walmart,2017-5,** We believe there is a path of better relative sales and transaction growth over the next 12 months that is unlikely to cause the stock to underperform - brokerage
+walmart,2017-5,** BMO also raised PT on the stock to $80 from $63; Susquehanna to $92 from $80 and JP Morgan to $80 from $68
+walmart,2017-5,"** Up to Thursday's close, the stock had risen 12.18 pct YTD"
+walmart,2017-5,"{{20170518T174100.659+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Walmart, L Brands, Endologix, Cisco, Stein Mart* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-5,U.S. stocks edged up slightly on Thursday as investors sought bargains a day
+walmart,2017-5,after the market slumped following a scandal that cast a shadow over Donald
+walmart,2017-5,Trump's presidency and the future of his ambitious pro-growth agenda. [.N]
+walmart,2017-5,"At 13:30 ET, the Dow Jones Industrial Average <.DJI> was up 0.06 percent at"
+walmart,2017-5,ANALYSIS-Trump turmoil could lead investors to reassess risk appetite
+walmart,2017-5,"BUZZ-Big profits, losses for leveraged and inverse Brazil ETFs [nL2N1IK10O]"
+walmart,2017-5,BUZZ-'Brazil VIX' logs record jump as Brazilian markets slump [nL2N1IK15B]
+walmart,2017-5,BUZZ-Facebook marks 5-year anniversary with potential for more likes
+walmart,2017-5,BUZZ-Alibaba Group Holding Ltd: Shares dip on weak forecast [nL4N1IK4LW]
+walmart,2017-5,"BUZZ-Cisco Systems Inc: To cut 1,100 more jobs, forecasts bleak Q4 [nL4N1IK3L2]"
+walmart,2017-5,BUZZ-Sirius XM restarts talks to bid for Pandora Media-NY Post [nL4N1IK3P3]
+walmart,2017-5,BUZZ-Ralph Lauren Corp: Touches almost 8-year low on weak Q4 sales [nL4N1IK4LD]
+walmart,2017-5,"BUZZ-Wal-Mart set to open at near 2-yr high on comp sales, profit beat"
+walmart,2017-5,BUZZ-L Brands Inc: Shares rise as JP Morgan raises PT on strong Q1 [nL4N1IK3PH]
+walmart,2017-5,BUZZ-Vertex Pharmaceuticals: Up on label expansion for cystic fibrosis drug
+walmart,2017-5,BUZZ-GlycoMimetics: Record intraday pct gain on positive blood cancer drug data
+walmart,2017-5,BUZZ-Children's Place Inc: Set to open at record high on strong Q1 [nL4N1IK46T]
+walmart,2017-5,BUZZ-Stein Mart: Set for worst ever day after bleak forecast [nL4N1IK4H7]
+walmart,2017-5,BUZZ-Shake Shack shares hit over 4-month high as Wedbush upgrades to outperform
+walmart,2017-5,BUZZ-Ascena Retail: Set for worst day ever after dismal forecast [nL4N1IK4FH]
+walmart,2017-5,BUZZ-CarMax Inc: Among top pct gainers on NYSE after Wedbush upgrade
+walmart,2017-5,"{{20170518T161058.060+0000}}UPDATE 4-Wal-Mart sales get boost from online growth, customer visits (Adds details on online sales growth, food deflation and updates share price)"
+walmart,2017-5,"CHICAGO, May 18 (Reuters) - Wal-Mart Stores Inc on Thursday reported higher-than-expected quarterly sales at established U.S. stores, as investments to bring more customers into the discount retailer paid off and a bigger push into e-commerce boosted online purchases, sending its shares flirting near a 52-week high."
+walmart,2017-5,"Wal-Mart and analysts said the company is benefiting from a $2.7 billion investment to increase entry-level wages and enhance the training of its workforce, which has led to better stocked shelves and cleaner stores. It said store visits rose 1.5 percent, the tenth consecutive quarterly increase."
+walmart,2017-5,"Earlier in the day, shares of Wal-Mart rose to $77.40 - a 52-week high. They were trading at $77 in mid-day."
+walmart,2017-5,"Wal-Mart's efforts to close the gap with rival Amazon.com has started gaining momentum even as other retailers like department store chains struggle. Online sales for the Bentonville, Arkansas-based retailer rose 63 percent in the first quarter, which was higher than 29 percent growth in the fourth quarter and 20 percent in the third quarter."
+walmart,2017-5,Online sales added 0.8 percentage points to the first quarter comparable sales gain. Growth in the business has been picking up after Wal-Mart said in October it would slow down new store openings to focus on expanding its e-commerce business.
+walmart,2017-5,"U.S. e-commerce chief Marc Lore told reporters in a call that online sales growth was boosted by offering free two-day shipping without membership fees, and higher repeat orders. ""We need to scale our e-commerce business further and see some additional strength in our store comps to deliver the results we know we're capable of,"" said Chief Executive Officer Doug McMillon."
+walmart,2017-5,"The company said most of the internet sales growth was from existing online operations rather than from acquisitions. Wal-Mart, which acquired Jet.com in 2016, this year alone has snatched up online retail startups Shoebuy, Moosejaw and Modcloth, and is currently in talks with small online clothing retailer Bonobos. [nL1N1HP0VY]"
+walmart,2017-5,"""Wal-Mart's long string of investments in labor and e-commerce, including acquisitions, are enabling modest market share gains,"" John Zolidis, director equity research with the Buckingham Research Group said."
+walmart,2017-5,"Wal-Mart's performance, along with rival Target's results on Wednesday, bucked a string of weak results from retailers Macy's Inc and J.C. Penney . [nL4N1IE4G4] Target reported higher-than-expected quarterly earnings and sales. [nL4N1IJ3HF]"
+walmart,2017-5,"Wal-Mart said sales at U.S. stores open at least a year rose 1.4 percent, excluding fuel price fluctuations, and was the 11th consecutive quarterly increase. Analysts were expecting a 1.3 percent increase, according to Consensus Metrix."
+walmart,2017-5,Wal-Mart is aggressively investing in making prices more competitive compared to rivals. It has asked vendors to offer grocery prices that are 15 percent lower than competitors. [nL2N1GC03L][nL1N1ID07D]
+walmart,2017-5,"Wal-Mart's U.S. Chief Executive Greg Foran said comparable sales in food and grocery improved during the quarter on lower food deflation, without sharing details. Grocery accounts for nearly 53 percent of overall revenue for the retailer."
+walmart,2017-5,"""Wal-Mart's commitment to value pricing is driving traffic and growth in grocery and aggressive online strides are impacting comparable sales,"" Cowen & Co's senior research analyst Oliver Chen said in a note."
+walmart,2017-5,"Earnings per share was $1 for the quarter ended on April 30, exceeding the analysts' average estimate of 96 cents, according to Thomson Reuters I/B/E/S. Consolidated net income fell to $3.04 billion from $3.08 billion due to a higher tax rate."
+walmart,2017-5,"Quarterly revenue rose 1.4 percent to $117.5 billion, slightly lower than analysts expectations of $117.7 billion due to a stronger dollar, which reduces the value of overseas sales. Revenue grew 2.8 percent on a currency neutral basis."
+walmart,2017-5,"For the second quarter, Wal-Mart expects an increase of 1.5 percent to 2 percent in U.S. same-store sales. It forecast earnings per share of $1 to $1.08, against market expectations of $1.07."
+walmart,2017-5,"{{20170518T153702.119+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Walmart, Alibaba, L Brands, Whirlpool, Cisco* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-5,U.S. stocks edged up slightly on Thursday as investors sought bargains a day
+walmart,2017-5,after the market slumped following a scandal that cast a shadow over Donald
+walmart,2017-5,Trump's presidency and the future of his ambitious pro-growth agenda. [.N]
+walmart,2017-5,"At 11:32 ET, the Dow Jones Industrial Average <.DJI> was up 0.25 percent at"
+walmart,2017-5,ANALYSIS-Trump turmoil could lead investors to reassess risk appetite
+walmart,2017-5,"BUZZ-Big profits, losses for leveraged and inverse Brazil ETFs [nL2N1IK10O]"
+walmart,2017-5,BUZZ-'Brazil VIX' logs record jump as Brazilian markets slump [nL2N1IK15B]
+walmart,2017-5,BUZZ-Alibaba Group Holding Ltd: Shares dip on weak forecast [nL4N1IK4LW]
+walmart,2017-5,"BUZZ-Cisco Systems Inc: To cut 1,100 more jobs, forecasts bleak Q4 [nL4N1IK3L2]"
+walmart,2017-5,BUZZ-Sirius XM restarts talks to bid for Pandora Media-NY Post [nL4N1IK3P3]
+walmart,2017-5,BUZZ-Ralph Lauren Corp: Touches almost 8-year low on weak Q4 sales [nL4N1IK4LD]
+walmart,2017-5,"BUZZ-Wal-Mart set to open at near 2-yr high on comp sales, profit beat"
+walmart,2017-5,BUZZ-L Brands Inc: Shares rise as JP Morgan raises PT on strong Q1 [nL4N1IK3PH]
+walmart,2017-5,BUZZ-Children's Place Inc: Set to open at record high on strong Q1 [nL4N1IK46T]
+walmart,2017-5,BUZZ-Stein Mart: Set for worst ever day after bleak forecast [nL4N1IK4H7]
+walmart,2017-5,BUZZ-Shake Shack shares hit over 4-month high as Wedbush upgrades to outperform
+walmart,2017-5,BUZZ-Ascena Retail: Set for worst day ever after dismal forecast [nL4N1IK4FH]
+walmart,2017-5,BUZZ-CarMax Inc: Among top pct gainers on NYSE after Wedbush upgrade
+walmart,2017-5,"{{20170518T142613.908+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Cisco, Alibaba, Walmart, L Brands, Pandora* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-5,U.S. stocks edged up slightly on Thursday as investors sought bargains a day
+walmart,2017-5,after the market slumped following a scandal that cast a shadow over Donald
+walmart,2017-5,Trump's presidency and the future of his ambitious pro-growth agenda. [.N]
+walmart,2017-5,"At 10:18 ET, the Dow Jones Industrial Average <.DJI> was up 0.09 percent at"
+walmart,2017-5,BUZZ-Alibaba Group Holding Ltd: Shares dip on weak forecast [nL4N1IK3Q5]
+walmart,2017-5,"BUZZ-Cisco Systems Inc: To cut 1,100 more jobs, forecasts bleak Q4 [nL4N1IK3L2]"
+walmart,2017-5,BUZZ-Sirius XM restarts talks to bid for Pandora Media-NY Post [nL4N1IK3P3]
+walmart,2017-5,"BUZZ-Wal-Mart set to open at near 2-yr high on comp sales, profit beat"
+walmart,2017-5,BUZZ-L Brands Inc: Shares rise as JP Morgan raises PT on strong Q1 [nL4N1IK3PH]
+walmart,2017-5,BUZZ-Syndax Pharma: Rises on positive skin cancer combination data [nL4N1IK3ZG]
+walmart,2017-5,BUZZ-Children's Place Inc: Set to open at record high on strong Q1 [nL4N1IK46T]
+walmart,2017-5,BUZZ-Stein Mart: Set for worst ever day after bleak forecast [nL4N1IK4H7]
+walmart,2017-5,BUZZ-Shake Shack shares hit over 4-month high as Wedbush upgrades to outperform
+walmart,2017-5,BUZZ-Ascena Retail: Set for worst day ever after dismal forecast [nL4N1IK4FH]
+walmart,2017-5,"{{20170518T131257.261+0000}}BUZZ-U.S. STOCKS ON THE MOVE-Cisco, Alibaba, Walmart, L Brands, Pandora* Eikon search string for individual stock moves: STXBZ"
+walmart,2017-5,A selloff in U.S. stocks looked set to extend into its second day on Thursday as a series of scandals cast a shadow over Donald Trump's presidency and the future of his ambitious pro-growth agenda. [.N]
+walmart,2017-5,** Alibaba Group Holding Ltd : down 2.8 pct at $117.30 premarket Alibaba's quarterly revenue beats estimates [nL4N1IK3OV] BUZZ-Alibaba Group Holding Ltd: Shares dip on weak forecast [nL4N1IK3Q5]
+walmart,2017-5,"** Cisco Systems Inc : down 7.3 pct at $31.36 premarket Cisco revenue forecast disappoints; says to cut 1,100 more jobs [nL4N1IJ4TR] BUZZ-Cisco Systems Inc: To cut 1,100 more jobs, forecasts bleak Q4 [nL4N1IK3L2]"
+walmart,2017-5,** Stratasys Ltd : down 2.1 pct at $27.23 premarket BUZZ-Stratasys Ltd: Shares slip after Jefferies downgrade [nL4N1IK3TI]
+walmart,2017-5,** Pandora Media Inc : up 8.1 pct at $9.65 premarket BUZZ-Sirius XM restarts talks to bid for Pandora Media-NY Post [nL4N1IK3P3]
+walmart,2017-5,"** Wal-Mart Stores Inc : up 2.5 pct at $77.00 premarket Wal-Mart's first-quarter comparable sales beat estimates [nL4N1IK1GV] BUZZ-Wal-Mart set to open at near 2-yr high on comp sales, profit beat [nL4N1IK3Y]"
+walmart,2017-5,** L Brands Inc : up 6.2 pct at $51.40 premarket BRIEF-L Brands reports Q1 adjusted earnings per share of $0.33 [nASA09QDT]
+walmart,2017-5,** Syndax Pharmaceuticals Inc : up 8.7 pct at $14.76 premarket BUZZ-Syndax Pharma: Rises on positive skin cancer combination data [nL4N1IK3ZG]
+walmart,2017-5,** athenahealth Inc : up 16.8 pct at $124.11 premarket BUZZ-athenahealth Inc: Jumps after Elliott discloses stake [nL4N1IK4FY]
+walmart,2017-5,** Childrens Place Inc up 12.5 pct at $125.50 premarket BUZZ-Children's Place Inc: Set to open at record high on strong Q1 [nL4N1IK46T]
+walmart,2017-5,"{{20170518T122341.631+0000}}UPDATE 1-British supermarket chain Asda slows rate of sales decline(Adds detail, background)"
+walmart,2017-5,"LONDON, May 18 (Reuters) - Asda, the British supermarket arm of U.S. retail giant Wal-Mart , slowed the rate of sales decline in the first quarter, it said on Thursday, as its new management team started to make its mark on the business."
+walmart,2017-5,"The UK's third-largest supermarket chain behind market leader Tesco and Sainsbury's said that sales at stores open more than a year fell by 2.8 percent, excluding fuel, in the three months to March 31, compared with a 2.9 percent decline in the previous quarter. [nL8N1G63PS]"
+walmart,2017-5,"""We're pleased that the momentum of Q4 has continued into the new year with a third consecutive quarter of improvement,"" said Chief Executive Sean Clarke."
+walmart,2017-5,"""Despite this progress we are in no way complacent and there is still much for us to do."""
+walmart,2017-5,Monthly industry data has also indicated an improved performance from Asda in April. [nL8N1I52VA]
+walmart,2017-5,"Wal-Mart veteran Clarke, who joined Asda last July, and former Sainsbury's executive Roger Burnley, who started as chief operations officer three months later, have focused their turnaround efforts on the retail basics."
+walmart,2017-5,"They have made Asda more competitive, sharpening pricing while improving the quality and availability of product ranges and stepping up efforts to offer better customer service.[nL5N1FS4I4]"
+walmart,2017-5,"""We're delivering more consistently for our customers, particularly in fresh food, service and availability -- both in stores and online,"" Clarke said."
+walmart,2017-5,"Of Britain's big four supermarket players, which also includes Morrisons , Asda was hurt the most by the rise of German discounters Aldi [ALDIEI.UL] and Lidl [LIDUK.UL] and was also too slow in responding to that competition."
+walmart,2017-5,Separately on Thursday Wal-Mart reported higher than expected quarterly sales at established U.S. stores. [nL2N1IK0DA]
+walmart,2017-5,"Wal-Mart Q1 total U.S. comparable sales, without fuel, up 1.4 pct - Reuters Investor Briefs"
+walmart,2017-5,"{{20170518T122336.229+0000}}Wal-Mart Q1 total U.S. comparable sales, without fuel, up 1.4 pctMay 18 (Reuters) - Wal-Mart <WMT.N> ::Q1 Sam's club net sales $13,993 million versus $13,608 million.Q1 Walmart International net sales $27,097 million versus $28,083 million.Qtrly Walmart U.S. Comparable sales, without fuel up 1.4 percent.Qtrly Sam's Club comparable sales, without fuel, up 1.6 percent.Qtrly total U.S."
+walmart,2017-5,"{{20170518T115153.618+0000}}BUZZ-Wal-Mart Stores Inc: Set to open at 2-yr high on Q1 earnings beat** World's largest retailer's shares up as much as 3.27 pct at $77.58 premarket, set to open at highest level since May 2015"
+walmart,2017-5,"** Co's Q1 comparable-store sales and profit beat estimates, helped by greater traffic at Wal-Mart and Sam's Club stores and a rise in online sales [nL2N1IK0DA]"
+walmart,2017-5,** Q1 online sales at Wal-Mart U.S. up 63 pct; online gross merchandise volume grew by 69 pct
+walmart,2017-5,** Co sees Q2 adjusted profit to be $1-$1.08/shr vs. I/B/E/S est of $1.07/shr
+walmart,2017-5,"** Expects Q2 Walmart U.S. comp sales to be up 1.5 pct to 2 pct, Sam's Club to be up 1 pct to 1.5 pct"
+walmart,2017-5,** Co says beginning to see improved customer traffic and basket trend due to its focus on core U.S. strategy
+walmart,2017-5,"** Up to Wednesday's close, stock had risen 15.4 pct in the last 12 months compared with a 5 pct increase in the S&P 500 Consumer Staples index <.SPLRCS>"
+walmart,2017-5,"{{20170518T111555.851+0000}}UK's Asda says rate of sales decline eases slightlyLONDON, May 18 (Reuters) - Asda, the British supermarket arm of Wal-Mart , the world's largest retailer, said on Thursday its rate of sales decline eased slightly in its latest quarter as a new management team started to make its mark."
+walmart,2017-5,"The UK's third largest grocer after market leader Tesco and No. 2 Sainsbury's said sales at stores open over a year fell 2.8 percent, excluding fuel, in its fiscal first quarter."
+walmart,2017-5,That compared to a decline of 2.9 percent in the previous quarter. [nL8N1G63PS]
+walmart,2017-5,"""When normalizing for Leap Day last year and a later Easter, we continued to see sequential improvement in comp sales,"" Wal-Mart said."
+walmart,2017-5,It said Asda was beginning to see improved customer traffic numbers and basket sizes as strategic investments were made.
+walmart,2017-5,"{{20170518T111243.844+0000}}Wal-Mart's first-quarter comparable sales beat estimatesCHICAGO, May 18 (Reuters) - Wal-Mart Stores Inc reported higher-than-expected quarterly comparable sales on Thursday, helped by greater traffic at Wal-Mart and Sam's Club stores and a rise in online sales."
+walmart,2017-5,"Sales at U.S. stores open at least a year rose 1.4 percent in the first quarter, excluding fuel. Analysts polled by research firm Consesus Metrix had forecast a rise of 1.3 percent."
+walmart,2017-5,"Earnings per share for the world's largest retailer rose to $1 in the quarter ended April 30, from 98 cents per share in the same period a year ago. Consolidated net income fell to $3.04 billion from $3.08 billion due to an increase in the tax rate."
+walmart,2017-5,"* Excluding currency, Q1 total revenue was $118.8 billion, an increase of 2.5 percent"
+walmart,2017-5,"{{20170518T111029.252+0000}}BRIEF-Wal-Mart Q1 total U.S. comparable sales, without fuel, up 1.4 pctMay 18 (Reuters) - Wal-Mart :"
+walmart,2017-5,"{{20170517T183306.377+0000}}What to Watch in the Day Ahead - Thursday, May 18(The Day Ahead is an email and PDF publication that includes the day's major stories and events, analyses and other features. To receive The Day Ahead, Eikon users can register at [DAY/US]. Thomson One users can register at RT/DAY/US. All times in ET/GMT)"
+walmart,2017-5,"Wal-Mart Stores Inc, the world's No. 1 retailer, is likely to report its eleventh straight quarterly increase in sales when it releases its first-quarter earnings. Sales may have been lifted by an uptick in spending by low-income consumers and the company's $2.7 billion investment in wages, which has led to better stocked shelves, more staffing at checkout registers and improved customer service."
+walmart,2017-5,Chinese online retail giant Alibaba Group Holding Ltd is expected to report a jump in fourth-quarter revenue. Analysts expect strong Chinese retail data and improvements in its Taobao marketplace to boost results. Investors will also keep an eye on the progress of AliPay and the company's efforts in the online payments industry.
+walmart,2017-5,"The U.S. Labor Department is likely to announce that initial claims for state unemployment benefits have risen to 240,000 for the week ended May 13 after dropping to 236,000 the week before. Continued jobless claims are seen increasing to 1.96 million, from 1.92 million a week earlier. (0830/1230) The U.S. Philly Fed Business Index for May is also due and is expected to drop to 19.5, from 22 the month before. (0830/1230)"
+walmart,2017-5,Federal Reserve Bank of Cleveland President Loretta Mester speaks on the economic outlook and monetary policy before the Economic Club of Minnesota in Minneapolis. (1315/1715)
+walmart,2017-5,"Cloud-based software maker Salesforce.com Inc is expected to report a rise in first-quarter revenue. However, the company has said it expects the impact of deferrals on revenue to be steeper in the first quarter. Salesforce, which faces rising competition from Oracle Corp and Microsoft Corp, has been shifting focus to artificial intelligence to add to its cloud-based offerings and gain market share."
+walmart,2017-5,"Apparel retailer Gap Inc's efforts to revamp its business are paying off, with the company forecasting comparable sales to be flat to up slightly in 2017, reversing two years of declines. The company, which will report its first-quarter results, is likely to see a slight rise in net sales, helped by its Athleta brand and leaner inventory in spite of a glum retail environment."
+walmart,2017-5,"Luxury apparel maker Ralph Lauren Corp will report its fourth-quarter earnings. The company, which is amid a management transition, is expected to post a further decline in quarterly wholesale and retail revenue as the company is stuck in a tough retail climate. Investors will be looking out for any changes or new appointments to the company's management and any changes to its cost-cutting plan."
+walmart,2017-5,"Drug distributor McKesson Corp will report fourth-quarter results and investors will focus on concerns over declining generic drug prices and slowing pace of branded drug prices. The pharma supply chain, including pharmacy benefit managers and drug distributors, has come under pressure as scrutiny over soaring drug prices has increased."
+walmart,2017-5,"Bright Scholar Education, which is backed by Chinese property tycoon Yeung Kwok-keung, has filed to go public in the United States. The Chinese K-12 education company expects the initial public offering to raise about $150 million."
+walmart,2017-5,"Mexican Finance Minister Jose Antonio Meade and Foreign Minister Luis Videgaray Caso will meet with U.S. Secretary of State Rex Tillerson, Secretary of the Treasury Steven Mnuchin and Secretary of Homeland Security John Kelly in Washington in the latest round of bilateral meetings as the two sides limber up for NAFTA negotiations that could begin in late August, which has now been confirmed by the United States Trade Representative."
+walmart,2017-5,Statistics Canada releases data on foreign investment in Canadian securities and Canadians' stake in foreign securities for March. Foreigners bought a record high of C$38.84 billion of Canadian securities in February. (0830/1230)
+walmart,2017-5,{{20170517T161550.425+0000}}UPDATE 3-Target optimistic on full-year forecast after profit beat* Q1 comp sales down 1.3 pct vs. est. 3.6 pct drop
+walmart,2017-5,"May 17 (Reuters) - Target Corp reported higher-than-expected quarterly profit and sales and set an optimistic tone for the year, saying its full-year profit could come in at the higher end of its forecast."
+walmart,2017-5,Target's shares rose 3 percent on Wednesday as the outlook allayed some investor concerns following the company's warning just three months ago that its full-year targets were too high.
+walmart,2017-5,The company has been trying to turn around its business for several years and in February vowed to aggressively promote its products and keep grocery prices low to better compete with Wal-Mart Stores Inc and Amazon.com Inc .
+walmart,2017-5,Target is also focusing on opening smaller-format outlets and is investing heavily in its e-commerce business. [nL3N1GD458]
+walmart,2017-5,"The company's online sales rose 22 percent in the first quarter, with the retailer shipping more than 27 percent of those orders from its stores."
+walmart,2017-5,"Target said it invested $500 million as part of its turnaround strategy in the first quarter, and was on track to invest more than $2 billion this year on analytics, supply chain and opening 100 more small-format stores in urban neighborhoods and college markets."
+walmart,2017-5,"""Q1 does not show signs of major investments, nor does Q2 guidance,"" Morgan Stanley analyst Simeon Gutman wrote in a note."
+walmart,2017-5,"Gutman, noting a marginal decline in gross margins, said the investments do not seem meaningful for a retailer that has touted ""systemwide price investments"" and is experiencing a higher mix of online sales."
+walmart,2017-5,"On a post earnings call with analysts, Chief Executive Brian Cornell said it would take time for turnaround to take hold. ""Our results are not where we want them to be,"" he said."
+walmart,2017-5,"Sales at Target stores open at least a year fell 1.3 percent in the first quarter, rounding up a year of same-store sales declines. Analysts had expected a 3.6 percent decline, according to research firm Consensus Metrix."
+walmart,2017-5,A rise in demand for swimwear and electronic items such as the Nintendo Switch gaming console as well as the strong performance of its smaller-format stores helped the company beat Wall Street's muted profit and sales estimates.
+walmart,2017-5,"Excluding items, Target earned a profit of $1.21 per share, while revenue fell 1.1 percent to $16.02 billion. [nBw8CyRPra]"
+walmart,2017-5,"Analysts on average had expected earnings of 91 cents per share on revenue of $15.62 billion, according to Thomson Reuters I/B/E/S."
+walmart,2017-5,Target said the higher-than-expected performance in the first quarter had increased the probability that its full-year results would come above the midpoint of its prior forecast for adjusted profit of $3.80-$4.20 per share.
+walmart,2017-5,{{20170517T160000.891+0000}}Germany's Lidl to price groceries up to 50 pct below U.S. rivalsBy Nandita Bose
+walmart,2017-5,"NEW YORK, May 17 (Reuters) - German discount grocery chain Lidl, which is opening its first U.S. stores this summer, said its products would be up to 50 percent cheaper than competitors, which are already caught up in a price war."
+walmart,2017-5,"""This is the right time for us to enter the United States,"" Brendan Proctor, chief executive officer for Lidl U.S., told Reuters at a media event in New York late on Tuesday. ""We are confident in our model. We adapt quickly, so it's not about whether a market works for us but really about what we will do to make it work."""
+walmart,2017-5,"Lidl, which runs 10,000 stores in 27 countries, and German rival Aldi Inc have already upended Britain's grocery retail market, hurting incumbents like Tesco Plc and Wal-Mart Stores Inc's ASDA supermarket chain. [nL1N1IE25L]"
+walmart,2017-5,"Lidl said it would open its first 20 U.S. stores in North Carolina, South Carolina and Virginia, starting on June 15. Eighty more will follow in the United States within the first year, which Procter said would create 5,000 jobs. ."
+walmart,2017-5,Analysts estimate the company will have more than 330 U.S. stores by 2020.
+walmart,2017-5,"The stores will be 20,000 square feet in size and have only six aisles. The retailer's in-house brands will account for 90 percent of the products."
+walmart,2017-5,"The first 100 stores are newly constructed standalone retail properties that Lidl owns and developed. The company is open to leasing locations as it opens new stores, Proctor said."
+walmart,2017-5,"As Reuters first reported, Wal-Mart is running price tests in 11 U.S. states, pushing vendors to undercut rivals by 15 percent, and Aldi is aiming for prices 21 percent below its U.S. competition. [nL1N1G91ME][nL1N1ID07D]"
+walmart,2017-5,"{{20170517T143038.362+0000}}BUZZ-Plug Power: Falls after Roth Capital cuts rating, PT** Hydrogen fuel cell maker's shares fall as much as 10.3 pct to $1.83 in early trading - after Roth Capital Partners cuts rating, PT"
+walmart,2017-5,"** Brokerage cuts rating to ""sell"" from ""neutral"", citing Wal-Mart Stores Inc's decision to reduce purchases in 2017 and adds that the $70 mln revenue from Amazon.com Inc expected in 2017 is not additive to guidance"
+walmart,2017-5,"** First ""sell"" rating this year comes almost 2 weeks after it announced a weak Q1 report"
+walmart,2017-5,"** ""Other customers are likely also halting purchases due to ITC and free warrants given to Amazon"" - Roth Capital Partners"
+walmart,2017-5,"** 4 of 6 brokerages rate the stock ""buy"" or higher, 1 ""hold"" and 1 ""sell"""
+walmart,2017-5,"** On April 5, PLUG's stock rose 85 pct to a session high of $2.40 when AMZN acquired an option to buy a stake in co [nL3N1HD3PN]"
+walmart,2017-5,"** Up to Tuesday's close, stock had gained nearly 70 pct YTD"
+walmart,2017-5,"{{20170515T213457.184+0000}}BRIEF-Soros Fund Management more than triples share stake in Microsoft, takes share stake in Snap, AlibabaMay 15 (Reuters) - Soros Fund Management:"
+walmart,2017-5,"* Ups share stake in Goldman Sachs Group Inc by 39.8 percent to 86,800 shares"
+walmart,2017-5,* Takes share stake of 1.7 million class A shares in Snap Inc
+walmart,2017-5,"* Takes share stake of 4,100 shares in Wal-Mart Stores Inc"
+walmart,2017-5,"* Change in holdings are as of March 31, 2017 and compared with the previous quarter ended as of Dec. 31, 2016"
+walmart,2017-5,Workers say Wal-Mart discriminated against thousands of pregnant women - Reuters Health eLine
+walmart,2017-5,{{20170515T193059.579+0000}}Workers say Wal-Mart discriminated against thousands of pregnant womenWALMART-LAWSUIT/PREGNANCY (UPDATE 1):Workers say Wal-Mart discriminated against thousands of pregnant women
+walmart,2017-5,"(Reuters) - Two former Wal-Mart Stores Inc employees have filed a lawsuit accusing the retailer of treating thousands of pregnant workers as ""second-class citizens"" by rejecting their requests to limit heavy lifting, climbing on ladders and other potentially dangerous tasks."
+walmart,2017-5,"The proposed class action lawsuit was filed in federal court in Illinois on Friday by Talisa Borders and Otisha Woolbright, who say that until 2014, Arkansas-based Wal-Mart had a company-wide policy that denied pregnant women the same accommodations as workers with other disabilities."
+walmart,2017-5,"The class could include at least 20,000 women and possibly up to 50,000 who worked at Wal-Mart while pregnant before the policy change, according to the lawsuit."
+walmart,2017-5,"The company in a statement provided by spokesman Randy Hargrove denied the women's claims and said Wal-Mart's pregnancy policies ""have always fully met or exceeded both state and federal law."" The company said a separate anti-discrimination policy it maintains has long listed pregnancy as a protected status."
+walmart,2017-5,"""Walmart is a great place for women to work,"" the company said."
+walmart,2017-5,"Borders and Woolbright say that Wal-Mart's old policy violated a federal law requiring employers to treat pregnancy as a temporary disability and provide work accommodations to pregnant women. The U.S. Supreme Court, in a 2015 case involving United Parcel Service, said employers cannot treat pregnant workers differently from those with other disabilities or medical conditions."
+walmart,2017-5,"Wal-Mart, the largest private U.S. employer, changed its policy in 2014 to treat pregnancy as a disability. But lawyers for the plaintiffs in the lawsuit say the changes did not go far enough, and they were planning a separate lawsuit involving the new policy."
+walmart,2017-5,"Woolbright says her manager at a Florida Wal-Mart told her pregnancy was ""no excuse"" for not doing heavy lifting. She says she was fired from her job in the deli department after injuring herself lifting trays that weighed up to 50 pounds and inquiring further about the company's pregnancy policies."
+walmart,2017-5,"Borders, who worked at an Illinois Wal-Mart, says she was reprimanded for asking coworkers to climb ladders and lift heavy boxes while she was pregnant, and forced to go on unpaid leave. When she returned, she says, she was paid $2.00 less per hour."
+walmart,2017-5,{{20170515T183027.303+0000}}UPDATE 1-Workers say Wal-Mart discriminated against thousands of pregnant women(Adds comment from Wal-Mart)
+walmart,2017-5,"May 15 (Reuters) - Two former Wal-Mart Stores Inc employees have filed a lawsuit accusing the retailer of treating thousands of pregnant workers as ""second-class citizens"" by rejecting their requests to limit heavy lifting, climbing on ladders and other potentially dangerous tasks."
+walmart,2017-5,"The proposed class action lawsuit was filed in federal court in Illinois on Friday by Talisa Borders and Otisha Woolbright, who say that until 2014, Arkansas-based Wal-Mart had a company-wide policy that denied pregnant women the same accommodations as workers with other disabilities."
+walmart,2017-5,"The class could include at least 20,000 women and possibly up to 50,000 who worked at Wal-Mart while pregnant before the policy change, according to the lawsuit."
+walmart,2017-5,"The company in a statement provided by spokesman Randy Hargrove denied the women's claims and said Wal-Mart's pregnancy policies ""have always fully met or exceeded both state and federal law."" The company said a separate anti-discrimination policy it maintains has long listed pregnancy as a protected status."
+walmart,2017-5,"""Walmart is a great place for women to work,"" the company said."
+walmart,2017-5,"Borders and Woolbright say that Wal-Mart's old policy violated a federal law requiring employers to treat pregnancy as a temporary disability and provide work accommodations to pregnant women. The U.S. Supreme Court, in a 2015 case involving United Parcel Service, said employers cannot treat pregnant workers differently from those with other disabilities or medical conditions."
+walmart,2017-5,"Wal-Mart, the largest private U.S. employer, changed its policy in 2014 to treat pregnancy as a disability. But lawyers for the plaintiffs in the lawsuit say the changes did not go far enough, and they were planning a separate lawsuit involving the new policy."
+walmart,2017-5,"Woolbright says her manager at a Florida Wal-Mart told her pregnancy was ""no excuse"" for not doing heavy lifting. She says she was fired from her job in the deli department after injuring herself lifting trays that weighed up to 50 pounds and inquiring further about the company's pregnancy policies."
+walmart,2017-5,"Borders, who worked at an Illinois Wal-Mart, says she was reprimanded for asking coworkers to climb ladders and lift heavy boxes while she was pregnant, and forced to go on unpaid leave. When she returned, she says, she was paid $2.00 less per hour."
+walmart,2017-5,"The case is Borders v. Wal-Mart Stores Inc, U.S. District Court for the Southern District of Illinois, No. 3:17-cv-00506."
+walmart,2017-5,{{20170515T163730.329+0000}}Workers say Wal-Mart discriminated against thousands of pregnant womenBy Daniel Wiessner
+walmart,2017-5,"May 15, (Reuters) - - Two former Wal-Mart Stores Inc employees have filed a lawsuit accusing the retailer of treating thousands of pregnant workers as ""second-class citizens"" by rejecting their requests to limit heavy lifting, climbing on ladders and other potentially dangerous tasks."
+walmart,2017-5,"The proposed class action lawsuit was filed in federal court in Illinois on Friday by Talisa Borders and Otisha Woolbright, who say that until 2014, Arkansas-based Wal-Mart had a company-wide policy that denied pregnant women the same accommodations as workers with other disabilities."
+walmart,2017-5,"The class could include at least 20,000 women and possibly up to 50,000 who worked at Wal-Mart while pregnant before the policy change, according to the lawsuit. A Wal-Mart spokesman on Monday said the company had not seen the lawsuit and did not have any comment."
+walmart,2017-5,"Borders and Woolbright say that Wal-Mart's old policy violated a federal law requiring employers to treat pregnancy as a temporary disability and provide work accommodations to pregnant women. The U.S. Supreme Court, in a 2015 case involving United Parcel Service, said employers cannot treat pregnant workers differently from those with other disabilities or medical conditions."
+walmart,2017-5,"Wal-Mart, the largest private U.S. employer, changed its policy in 2014 to treat pregnancy as a disability. But lawyers for the plaintiffs in the lawsuit say the changes did not go far enough, and they were planning a separate lawsuit involving the new policy."
+walmart,2017-5,"Woolbright says her manager at a Florida Wal-Mart told her pregnancy was ""no excuse"" for not doing heavy lifting. She says she was fired from her job in the deli department after injuring herself lifting trays that weighed up to 50 pounds and inquiring further about the company's pregnancy policies."
+walmart,2017-5,"Borders, who worked at an Illinois Wal-Mart, says she was reprimanded for asking coworkers to climb ladders and lift heavy boxes while she was pregnant, and forced to go on unpaid leave. When she returned, she says, she was paid $2.00 less per hour."
+walmart,2017-5,"The case is Borders v. Wal-Mart Stores Inc, U.S. District Court for the Southern District of Illinois, No. 3:17-cv-00506."
+walmart,2017-5,{{20170515T100101.244+0000}}RPT-Germany's Lidl prepares to enter U.S. supermarket wars(Repeats May 12 story for wider readership)
+walmart,2017-5,"CHICAGO, May 12 (Reuters) - German discount supermarket chain Lidl is set to open its first set of U.S. stores this summer, raising the stakes for American grocery chain operators who have been caught in an intense price war."
+walmart,2017-5,"Lidl said in February it planned to open its first 20 U.S. stores in North Carolina, South Carolina and Virginia, with 80 more to follow in the United States within the first year."
+walmart,2017-5,"Lidl's entry comes at a time when Wal-Mart Stores Inc is running price tests in 11 states, pushing vendors to undercut rivals by 15 percent. The world's biggest retailer is expected to spend about $6 billion to regain its title as the low-price leader, analysts said. [nL1N1G91ME]"
+walmart,2017-5,"Another rival, German discounter Aldi Inc [ALDIEI.UL], is aiming for prices 21 percent below its U.S. competition and is aggressively expanding its presence. [nL1N1ID07D]"
+walmart,2017-5,"Lidl and Aldi have already upended Britain's grocery retail market, hurting incumbents like Tesco Plc and ASDA, the British supermarket arm of Wal-Mart."
+walmart,2017-5,"Lidl (which rhymes with ""needle"") is owned by Germany's privately held Schwarz Group. It operates more than 10,000 stores in 27 countries."
+walmart,2017-5,"The German chain's U.S. CEO, Brendan Proctor, will address Lidl's U.S. expansion plans at a New York press event on Tuesday."
+walmart,2017-5,"According to the company's website, it is hiring workers in 38 cities in the eastern U.S. states of Delaware, Georgia, Maryland, New Jersey, North Carolina, Pennsylvania, South Carolina and Virginia."
+walmart,2017-5,"Lidl is expected to post U.S. sales of roughly $1 billion in 2018, $2 billion in 2019 and $4 billion 2020, assuming it opens just under 100 stores per year, according to a recent note by retail think tank Fung Global Retail and Technology."
+walmart,2017-5,"This would put Lidl in close range of U.S. grocery chains like Ingles market, which had revenue of $3.2 billion in 2016; Sprouts Farmers Market with $4.3 billion in sales last year and SuperValu Inc , which posted sales of $4.8 billion, the report said."
+walmart,2017-5,"Analyst estimates suggest Lidl is eyeing more than 330 U.S stores by 2020. The retailer has opened three distribution centers in Maryland, North Carolina and Virginia."
+walmart,2017-5,"CHICAGO, May 12 (Reuters) - German discount supermarket chain Lidl is set to open its first set of U.S. stores this summer, raising the stakes for American grocery chain operators who have been caught in an intense price war."
+walmart,2017-5,"Lidl said in February it planned to open its first 20 U.S. stores in North Carolina, South Carolina and Virginia, with 80 more to follow in the United States within the first year."
+walmart,2017-5,"Lidl's entry comes at a time when Wal-Mart Stores Inc is running price tests in 11 states, pushing vendors to undercut rivals by 15 percent. The world's biggest retailer is expected to spend about $6 billion to regain its title as the low-price leader, analysts said. [nL1N1G91ME]"
+walmart,2017-5,"Another rival, German discounter Aldi Inc [ALDIEI.UL], is aiming for prices 21 percent below its U.S. competition and is aggressively expanding its presence. [nL1N1ID07D]"
+walmart,2017-5,"Lidl and Aldi have already upended Britain's grocery retail market, hurting incumbents like Tesco Plc and ASDA, the British supermarket arm of Wal-Mart."
+walmart,2017-5,"Lidl (which rhymes with ""needle"") is owned by Germany's privately held Schwarz Group. It operates more than 10,000 stores in 27 countries."
+walmart,2017-5,"The German chain's U.S. CEO, Brendan Proctor, will address Lidl's U.S. expansion plans at a New York press event on Tuesday."
+walmart,2017-5,"According to the company's website, it is hiring workers in 38 cities in the eastern U.S. states of Delaware, Georgia, Maryland, New Jersey, North Carolina, Pennsylvania, South Carolina and Virginia."
+walmart,2017-5,"Lidl is expected to post U.S. sales of roughly $1 billion in 2018, $2 billion in 2019 and $4 billion 2020, assuming it opens just under 100 stores per year, according to a recent note by retail think tank Fung Global Retail and Technology."
+walmart,2017-5,"This would put Lidl in close range of U.S. grocery chains like Ingles market, which had revenue of $3.2 billion in 2016; Sprouts Farmers Market with $4.3 billion in sales last year and SuperValu Inc , which posted sales of $4.8 billion, the report said."
+walmart,2017-5,"Analyst estimates suggest Lidl is eyeing more than 330 U.S stores by 2020. The retailer has opened three distribution centers in Maryland, North Carolina and Virginia."
+walmart,2017-5,"{{20170512T193918.092+0000}}What to Watch in the Week Ahead and on Monday, May 15(The Day Ahead is an email and PDF publication that includes the day's major stories and events, analyses and other features. To receive The Day Ahead, Eikon users can register at [DAY/US]. Thomson One users can register at RT/DAY/US. All times in ET/GMT)"
+walmart,2017-5,"Wal-Mart Stores Inc, the world's No. 1 retailer, will report first-quarter earnings on Thursday. Last month, the company said it would be cutting ""hundreds"" of corporate jobs in its international and technology businesses, along with its Sam's Club warehouse chain."
+walmart,2017-5,Retailer Target Corp will report first-quarter earnings on Wednesday. The company has forecast a profit below Wall Street estimates and said it would lower prices to compete with rivals such as Wal-Mart and Amazon. Target has also said many of its stores need freshening up and that it will invest in technology and small stores to win back market share.
+walmart,2017-5,"Leaders from 29 countries will attend the Belt and Road Forum in Beijing on Sunday and Monday, an event orchestrated to promote President Xi Jinping's vision of expanding links between Asia, Africa and Europe underpinned by billions of dollars in infrastructure investment. Some of China's most reliable allies and partners will attend the forum, including Russian President Vladimir Putin, Pakistani Prime Minister Nawaz Sharif, Cambodian Prime Minister Hun Sen and Kazakh President Nursultan Nazarbayev."
+walmart,2017-5,"On Tuesday, TJX Cos Inc, the operator of T.J. Maxx and Marshalls stores, will report its first-quarter earnings. The company had forecast quarterly comparable sales to grow 0-1 percent. The company has remained a bright spot in the lackluster retail environment as bargain-hungry shoppers turn away from department stores and other mall-based chains to the discounted offerings that the retailer sells."
+walmart,2017-5,"Home Depot Inc, the biggest U.S. home improvement retailer, reports first-quarter earnings on Tuesday. The company has forecast 2017 sales ahead of Wall Street estimates, remaining a bright spot in the retail sector as a firming economy, higher wages and an increase in the value of homes have spurred remodeling activity by homeowners."
+walmart,2017-5,"Apparel retailer Gap Inc's efforts on revamping its logo-centric design of clothes are paying off as the company said in the last quarter that it expected comparable sales to be flat to up slightly in 2017, reversing two straight years of declines. Gap's net sales are likely to rise slightly, helped by its Athleta brand and leaner inventory in spite of a glum retail environment. The company will report its first-quarter results on Thursday."
+walmart,2017-5,"On Wednesday, teen apparel retailer American Eagle outfitters is likely to post slow first-quarter sales growth, hurt by weak demand for its men's apparel and continued softness in mall traffic. Investors might expect a strong full-year forecast by the company, given its strong denim positioning, a cautious inventory and promotional stance and its ongoing online momentum"
+walmart,2017-5,"Federal Reserve Bank of Cleveland President Loretta Mester speaks on the economic outlook and monetary policy before the Economic Club of Minnesota on Thursday. On Friday, St. Louis Fed chief James Bullard gives a presentation on the U.S. economy and monetary policy before the Association for Corporate Growth St. Louis Chapter."
+walmart,2017-5,"On Friday, Deere & Co is expected to report a decline in revenue and profit for the second quarter as weak commodity prices and low farm income in North America, its biggest market, continue to weigh on its farm equipment sales. However, Deere's profit is expected to rise, partly helped by cost-cutting measures, including job cuts and lowered production, taken in previous years. Investors will look for an update on fiscal 2017 financial forecast."
+walmart,2017-5,"Vodafone Group Plc, the world's second-biggest mobile operator, on Tuesday publishes full-year results showing the cost of the cut-throat competition in India and challenges in its home British market that prompted it to cut its earnings guidance in February."
+walmart,2017-5,"The world's largest networking gear maker, Cisco Systems Inc, reports its third-quarter results on Wednesday. The company is expected to post its sixth straight quarterly decline in revenue, hurt by sluggish demand in its legacy network equipment business. To offset stagnant demand for its traditional lineup of switches and routers, Cisco has been doubling down on areas such as security, the internet of things and cloud computing."
+walmart,2017-5,"Cloud-based software maker Salesforce.com Inc is expected to report a rise in first-quarter revenue on Thursday. The company sees huge demand for its cloud-based sales and marketing software. However, Salesforce expects the impact of deferrals on revenue to be steeper in the first quarter. Salesforce, which faces competition from Oracle Corp and Microsoft Corp, has been shifting focus to artificial intelligence to add to its cloud-based offerings and gain market share."
+walmart,2017-5,English soccer club Manchester United Plc is expected to report a shrink in third-quarter revenue on Tuesday as absence from the lucrative Champions League is likely to impact broadcast and matchday income.
+walmart,2017-5,"Campbell Soup Co, the world's largest soupmaker, is likely to continue posting declines in sales and profit due to weak demand for its Bolthouse Farms' carrots and V8 beverages as its C-Fresh business was hit by an early harvest of its baby carrots last year. It reports third-quarter results on Friday. The company said last quarter that it does not expect its C-Fresh business to grow for the rest of the fiscal year."
+walmart,2017-5,"Drug distributor McKesson Corp will report fourth-quarter results on Thursday and investors will focus on concerns over declining generic drug prices and slowing pace of branded drug prices. The pharma supply chain, including pharmacy benefit managers and drug distributors, has come under pressure as scrutiny over soaring drug prices has increased."
+walmart,2017-5,"JPMorgan Chase & Co Chairman and Chief Executive Jamie Dimon will address shareholders at the company's annual meeting on Tuesday and likely make comments about government regulations and the U.S. economy. Dimon is also expected to prevail again against a recurring shareholder referendum calling on directors to eventually separate the posts of chairman and CEO of the company. The meeting will be held in the bank's Wilmington, Delaware technology center."
+walmart,2017-5,The Canadian Imperial Bank of Commerce on Tuesday hosts a string of Canadian technology companies and a panel on artificial intelligence at an investor conference in Toronto. The attendees include BlackBerry Ltd CFO Steven Capelli and Open Text Corp CEO and CTO Mark Barrenechea.
+walmart,2017-5,"The largest hedge fund-focused conference, the annual Skybridge Alternatives event, or SALT, kicks-off on Tuesday in Las Vegas. Major investment speakers include Bill Ackman, Jeff Gundlach, Dan Loeb, David Rubenstein, Jim Chanos, Marc Lasry and Sam Zell."
+walmart,2017-5,"On Thursday, Mexico's central bank will publish its monetary policy decision after raising it for the fifth time in a row in late-March, taking borrowing costs to an eight-year high of 6.50 percent. According to minutes of the meeting released in April, most of the bank's board members thought they had tightened borrowing costs enough to contain the risks from a slump in the peso and a hike in gasoline prices with the March rate hike."
+walmart,2017-5,The NAHB Housing Market Index for May is expected to remain unchanged at 68 from the month before. (1000/1400)
+walmart,2017-5,"LATAM Airlines Group SA, the biggest carrier in South America, is due to release its first-quarter earnings. Analysts have been upgrading the stock recently on hopes of a recovery in key market Brazil."
+walmart,2017-5,LPC: Coach's Kate Spade buy offers retail M&A blueprint - Reuters News
+walmart,2017-5,{{20170512T154341.753+0000}}LPC: Coach's Kate Spade buy offers retail M&A blueprintBy Lynn Adler and Leela Parker Deo
+walmart,2017-5,"NEW YORK, May 12 (Reuters) - Handbag maker Coach Inc's US$2.4bn purchase of designer and smaller luxury handbag and accessories maker Kate Spade & Co, backed by up to US$2.1bn in bank loans, shows that US retailers are opening their purses to buy rivals to boost profits, bankers and analysts said."
+walmart,2017-5,"More mergers and acquisitions designed to bolster competitiveness would drive up retail M&A lending, after a 66% drop in 2016 to US$18bn from US$53bn in 2015 as the sector continues to face stiff challenges from online retailers."
+walmart,2017-5,"""As more retailers feel pressured to grow revenue and profitability in a very challenging retail environment, equity markets remain robust and access to capital remains fairly cheap, M&A activity will continue and even accelerate,"" said Mickey Chadha, senior credit officer at Moody's Investors Service."
+walmart,2017-5,"Coach, which has investment-grade ratings of Baa2 by Moody's, BBB by Fitch and BBB- by S&P, was put on alert for a possible downgrade by Moody's and Fitch, based on the added debt it is taking on for the purchase."
+walmart,2017-5,Kate Spade's non-investment grade credit ratings of Ba3 by Moody's and BB- by S&P could be revised upward after the acquisition on an improved financial risk profile.
+walmart,2017-5,"Two days after the announcement of Coach's acquisition of Kate Spade, clothing retailer Abercrombie & Fitch Co said it is in preliminary talks with several companies interested in a tie-up."
+walmart,2017-5,"PetSmart Inc, operator of more than 1,500 pet stores, agreed to buy online pet retailer Chewy Inc in April, and Wal-Mart Stores Inc purchased e-commerce company Jet.com last August to boost their online business."
+walmart,2017-5,"Coach secured a commitment from Bank of America Merrill Lynch for up to US$2.1bn under a 364-day senior unsecured bridge term loan facility to finance its Kate Spade buy. Coach has US$4.5bn of global revenue, according to Moody's."
+walmart,2017-5,"Coach plans to put permanent funding in place via an US$800m six-month loan and a US$300m three-year loan as well as US$1bn of senior unsecured notes before the merger closes, which is expected in the third quarter."
+walmart,2017-5,"Mergers driven by cost savings make sense even for retailers without immediate financial pressures, amid declining traffic to brick and mortar stores, and heavy sales promotions as well as weak teen spending on apparel, according to Moody's."
+walmart,2017-5,"Competition in the sector has pulled median secondary bids for US retail loans lower since the start of the year to 99.1 on May 11 from 99.9 on January 4, according to Thomson Reuters LPC data, and could erode further if bankruptcies accelerate, several bankers said."
+walmart,2017-5,"""Payless (ShoeSource) filed for bankruptcy protection in April, J Crew's term loan is trading in the 60s, and there's a lot of concern about mid-level retail stores that are in the malls in particular,"" a senior banker said."
+walmart,2017-5,"Retail companies looking to bolster e-commerce and overcome difficult store locations and other issues make strategic corporate marriages increasingly likely, and could encourage more investment-grade retailers to snap up junk-rated rivals following Coach and Kate Spade's example, according to the banker."
+walmart,2017-5,"""We'll see a lot of M&A if there is value in the franchise, if the name carries panache and interest by customers,"" he said. ""Kate Spade is one of those."""
+walmart,2017-5,"Investors are, however, braced for further bad news from the retail sector, particularly from apparel retailers in coming months."
+walmart,2017-5,"""I don't think that we've really seen the volatility that we could if the retail sector was to start to experience a decline, and I think that's what is going to happen in the sector sometime this year,"" one investor said."
+walmart,2017-5,"** In wake of 9 pct bounce from Mar 22 low into this week's high, XRT clipped by dismal department store results [nL4N1ID4TI]"
+walmart,2017-5,** And woes continue with JC Penney flirting with record lows amid steeper-than-expected drop in same-store sales [nL4N1IE4G4]
+walmart,2017-5,"** This on heels of weak sales from Macy's and Kohl's Corp , and now Nordstrom [nL4N1ID4KH]"
+walmart,2017-5,"** As a result, XRT has flipped back into negative territory for 2017, down 2.6 pct vs SPDR S&P 500 ETF Trust 7 pct rise"
+walmart,2017-5,"** And this despite cons disc 2nd best S&P 500 <.SPX> sector YTD, 11 pct rise, while dept stores/brands dominate sector's double-digit losers"
+walmart,2017-5,"** Signet Jewelers and M the worst, down over 30 pct. Meanwhile Amazon.com keeps chugging along, up 26 pct [nL4N1HZ6RL] [nL1N1I016X]"
+walmart,2017-5,"** With this week's $44.20 high, XRT failed right in 100-WMA/200-WMA convergence zone (now $44.19/$44.22)"
+walmart,2017-5,"** Retailer trend of underperformance vs market intact, and XRT/SPY ratio break of Mar trough will see fresh 7-year lows"
+walmart,2017-5,"** Meanwhile, despite sector weakness, S&P retailing index <.SPXRT> still trading at elevated multiples to market; SPXRT PE and est PE at about 55 pct premiums to SPX (Thomson Reuters data)"
+walmart,2017-5,"** Indeed, XRT next move appears to be test of support troughs dating back to early 2016 (from $40.85 down to $37.80)"
+walmart,2017-5,{{20170511T205806.951+0000}}UPDATE 1-Wal-Mart CEO to be questioned in U.S. lawsuit over Mexican bribery(Adds Wal-Mart comment)
+walmart,2017-5,May 11 (Reuters) - A federal judge on Thursday ordered Wal-Mart Stores Inc Chief Executive Douglas McMillon to submit to questioning in a lawsuit by shareholders hoping to learn what he knows about suspected bribery by the world's largest retailer in Mexico.
+walmart,2017-5,"U.S. District Judge Susan Hickey in Fayetteville, Arkansas, said McMillon's ""direct and personal involvement"" in matters underlying a class-action lawsuit justified requiring him to sit for a deposition by the shareholders' lawyers."
+walmart,2017-5,"McMillon had been president of Wal-Mart International during a period when shareholders led by a Michigan pension fund said the retailer concealed suspected bribery by its Wal-Mart de Mexico unit to government officials, to speed up store openings."
+walmart,2017-5,"The Bentonville, Arkansas-based retailer had argued that McMillon lacked the ""unique or special knowledge"" to justify burdening him with a deposition."
+walmart,2017-5,"But the judge said McMillon, who became chief executive in February 2014, took part in several meetings, saw dozens of communications, and had certified many public statements by Wal-Mart about the alleged bribery."
+walmart,2017-5,"""It appears to the court that McMillon has unique knowledge of relevant issues in this litigation that only he can explain,"" Hickey wrote. A deposition could last four hours, she added."
+walmart,2017-5,"Wal-Mart spokesman Randy Hargrove said: ""We are reviewing the order and contemplating our next steps."""
+walmart,2017-5,"Jason Forge, a lawyer for the lead plaintiff City of Pontiac General Employees' Retirement System, said in an email: ""We're determined to try this case in court."""
+walmart,2017-5,Wal-Mart's market value slid $17 billion over three days in April 2012 after the New York Times reported the alleged bribery and said it had been first discovered internally in 2005.
+walmart,2017-5,"Shareholders accused Wal-Mart and Mike Duke, who preceded McMillon as chief executive, of downplaying the scheme even after learning about the Times' investigation."
+walmart,2017-5,"Earlier this week, Bloomberg News said Wal-Mart may pay about $300 million to settle a U.S. government probe into suspected bribery in Mexico, India and China, citing people familiar with the matter. [nL1N1IB1QB]"
+walmart,2017-5,A $300 million payment would represent about one week of profit for Wal-Mart.
+walmart,2017-5,"The case is City of Pontiac General Employees' Retirement System v. Wal-Mart Stores Inc et al, U.S. District Court, Western District of Arkansas, No. 12-05162."
+walmart,2017-5,{{20170511T202032.671+0000}}Wal-Mart CEO to be questioned in U.S. lawsuit over Mexican briberyBy Jonathan Stempel
+walmart,2017-5,May 11 (Reuters) - A federal judge on Thursday ordered Wal-Mart Stores Inc Chief Executive Douglas McMillon to submit to questioning in a lawsuit by shareholders hoping to learn what he knows about suspected bribery by the world's largest retailer in Mexico.
+walmart,2017-5,"U.S. District Judge Susan Hickey in Fayetteville, Arkansas, said McMillon's ""direct and personal involvement"" in matters underlying a class-action lawsuit justified requiring him to sit for a deposition by the shareholders' lawyers."
+walmart,2017-5,"McMillon had been president of Wal-Mart International during a period when shareholders led by a Michigan pension fund said the retailer concealed suspected bribery by its Wal-Mart de Mexico unit to government officials, to speed up store openings."
+walmart,2017-5,"The Bentonville, Arkansas-based retailer had argued that McMillon lacked the ""unique or special knowledge"" to justify burdening him with a deposition."
+walmart,2017-5,"But the judge said McMillon, who became chief executive in February 2014, took part in several meetings, saw dozens of communications, and had certified many public statements by Wal-Mart about the alleged bribery."
+walmart,2017-5,"""It appears to the court that McMillon has unique knowledge of relevant issues in this litigation that only he can explain,"" Hickey wrote. A deposition could last four hours, she added."
+walmart,2017-5,"Jason Forge, a lawyer for the lead plaintiff City of Pontiac General Employees' Retirement System, said in an email: ""We're determined to try this case in court."""
+walmart,2017-5,Wal-Mart's market value slid $17 billion over three days in April 2012 after the New York Times reported the alleged bribery and said it had been first discovered internally in 2005.
+walmart,2017-5,"Shareholders accused Wal-Mart and Mike Duke, who preceded McMillon as chief executive, of downplaying the scheme even after learning about the Times' investigation."
+walmart,2017-5,"Earlier this week, Bloomberg News said Wal-Mart may pay about $300 million to settle a U.S. government probe into suspected bribery in Mexico, India and China, citing people familiar with the matter. [nL1N1IB1QB]"
+walmart,2017-5,A $300 million payment would represent about one week of profit for Wal-Mart.
+walmart,2017-5,"The case is City of Pontiac General Employees' Retirement System v. Wal-Mart Stores Inc et al, U.S. District Court, Western District of Arkansas, No. 12-05162."
+walmart,2017-5,"{{20170511T110102.379+0000}}RPT-BUZZ-Wal-Mart: Strong stock year, but no Amazon(Repeats to additional customers with no changes to text) ** Shares of Wal-Mart Stores are topping the S&P 500 consumer staples <.SPLRCS> so far in 2017, rising 11 pct vs a 6.2 pct rise for its sector benchmark"
+walmart,2017-5,"** But the stock has been no match for Amazon.com , its low-price retailing rival, whose shares have soared 26.5 pct in 2017"
+walmart,2017-5,"** Wal-Mart shares closed at $76.70 on Wednesday; that's above $74 median price target among analysts covering the stock, according to Thomson Reuters data"
+walmart,2017-5,"** Indeed, while 11 analysts rate the stock ""buy"" or ""strong buy"", 19 rate it ""hold"", and four rate it ""sell"" or ""strong sell"", according to Thomson Reuters data"
+walmart,2017-5,"** Wal-Mart shares recently traded at 17.5 times forward earnings estimates, well above the 14.8X average over the past five years, according to Thomson Reuters Datastream"
+walmart,2017-5,{{20170511T110002.472+0000}}RPT-EXCLUSIVE-Aldi raises stakes in U.S. price war with Wal-Mart(Repeats to additional customers with no changes to text)
+walmart,2017-5,"WHEATON, Ill., May 11 (Reuters) - German grocery chain Aldi Inc is trying to beat the world's biggest retailer at its own game: low prices."
+walmart,2017-5,"Already with 1,600 U.S. stores, Aldi's internal studies show its prices are 21 percent lower than its lowest-priced rivals, including Wal-Mart Stores Inc , according to Chief Executive Jason Hart. He plans to maintain that gap going forward."
+walmart,2017-5,"His strategy, previously unreported, centers on adding more private-label goods, which are a retailer's in-house brands, to win over price-sensitive customers, and a massive expansion to further disrupt a U.S. grocery sector that has seen 18 companies go bankrupt since 2014."
+walmart,2017-5,"Hart's plan calls for spending $1.6 billion to expand and remodel 1,300 U.S. stores, and open 400 new stores mainly in Florida, Texas and on both coasts by end of 2018. He also pledged Aldi will be willing to change prices more frequently to respond to rivals if needed."
+walmart,2017-5,"""We are re-merchandising, remodeling, enhancing our product range and are focused on gaining volume so more customers start their shopping at Aldi and we are able to complete their shopping lists moreso than we have in the past,"" said Hart, who added Aldi's U.S. sales have doubled in five years."
+walmart,2017-5,"Though it only accounts for only about 1.5 percent of the U.S. grocery market, Aldi is growing at 15 percent a year, whereas Wal-Mart currently controls about 22 percent of the market and its U.S. sales are estimated to grow about 2 percent this year, according to analysts."
+walmart,2017-5,"""We have not seen anything like this in the grocery sector in the United States before,"" said Scott Mushkin, managing director of Wolfe Research and a leading pricing analyst."
+walmart,2017-5,Such heated competition risks a dangerous race to the bottom that could result in more retailers shutting their doors.
+walmart,2017-5,"""Given Aldi's expansion, Lidl's entry, Wal-Mart's response and Amazon's growing ambitions in this space, it is fair to expect a significant acceleration in the bankruptcy and liquidation cycle in this sector over the next few years,"" said Burt Flickinger, managing director at retail consultancy Strategic Resource Group. For more on Wal-Mart's stock performance vs Amazon, click [L1N1IC270]"
+walmart,2017-5,"Aldi, has a simple strategy to win more customers: everyday low pricing, according to Hart."
+walmart,2017-5,"""We don't confuse our customers with yo-yo discounts, sales, coupons and loyalty cards that require membership fees,"" he said."
+walmart,2017-5,"Four analysts and consultants contacted by Reuters confirmed Aldi now offers the lowest prices in private label consumer products in the states it operates, although they did say Wal-Mart is gaining ground in the states they are conducting price tests."
+walmart,2017-5,"Depending on the product, Aldi's prices are cheaper than most rivals' private label items and even most branded items, analysts said. Hart said the 21 percent difference in price is calculated by monitoring competition on a basket of groceries."
+walmart,2017-5,"Aldi counts on its no-frills shopping experience to help keep costs low, and limits much of its inventory to items that sell in huge volume. But its focus on offering far more private label items than branded products is central to allowing Aldi to adjust pricing whenever it chooses, Hart said."
+walmart,2017-5,"Aldi and Wal-Mart do no break out the figures, but analysts including Mushkin and Flickinger say Aldi carries about 1,200 stock keeping units (SKUs) or type of products, 90 percent of which are private label. Wal-Mart stocks about 30,000-40,000 SKU's of products similar to ones Aldi sells, and only 30 percent of that are private labels."
+walmart,2017-5,"That different product mix can potentially make it more difficult for Wal-Mart to adjust prices because it often first needs buy-in from suppliers, and many times faces push back from packaged goods makers like Procter & Gamble , Unilever and even smaller brands. Such vendors fear steep discounting can erode the value of their brands, analysts said."
+walmart,2017-5,"A Wal-Mart spokesman declined comment, saying the company would not comment on a competitor's strategy. P&G and Unilever did not respond to Reuters requests seeking comment."
+walmart,2017-5,But the explosive growth in private label products is on the radar of Wal-Mart Chief Executive Doug McMillon. Last month he told analysts that private label goods will play an even more important role as the widespread availability of branded products online will compress those products margins over time.
+walmart,2017-5,"""Aldi is disrupting the sector the way Wal-Mart did when they started,"" said Strategic Resource Group's Flickinger."
+walmart,2017-5,Aldi's aggressive push to remodel its stores will allow it to add new private label merchandise in rapidly growing categories like fresh food.
+walmart,2017-5,"""The remodels are aimed at increasing our volumes which means more purchasing power that will help us lower prices further,"" said Scott Patton, Aldi's vice president of corporate buying."
+walmart,2017-5,"At a recent visit to an Aldi store in Wheaton, Illinois Reuters found newer-looking shelves, wider aisles and brighter lighting than a typical Aldi store. There was also a bigger assortment of fresh, organic, gluten-free products and antibiotic-free meats versus what it stocked earlier - categories Aldi said is growing the most rapidly at its stores."
+walmart,2017-5,"For example, its Simply Nature range of private-label products grew 53 percent to $300 million in 2016 from a year ago."
+walmart,2017-5,"Aldi has also opened stores close to Wal-Mart's supercenters to benefit from its budget-conscious shoppers. Its total store count of 2,000 stores by the end of next year will be about 42 percent of Wal-Mart's U.S. store base."
+walmart,2017-5,{{20170511T061819.878+0000}}UPDATE 1-EXCLUSIVE-Aldi raises stakes in U.S. price war with Wal-Mart(Adds detail in paragraph 2)
+walmart,2017-5,"WHEATON, Ill., May 11 (Reuters) - German grocery chain Aldi Inc is trying to beat the world's biggest retailer at its own game: low prices."
+walmart,2017-5,"Already with 1,600 U.S. stores, Aldi's internal studies show its prices are 21 percent lower than its lowest-priced rivals, including Wal-Mart Stores Inc , according to Chief Executive Jason Hart. He plans to maintain that gap going forward."
+walmart,2017-5,"His strategy, previously unreported, centers on adding more private-label goods, which are a retailer's in-house brands, to win over price-sensitive customers, and a massive expansion to further disrupt a U.S. grocery sector that has seen 18 companies go bankrupt since 2014."
+walmart,2017-5,"Hart's plan calls for spending $1.6 billion to expand and remodel 1,300 U.S. stores, and open 400 new stores mainly in Florida, Texas and on both coasts by end of 2018. He also pledged Aldi will be willing to change prices more frequently to respond to rivals if needed."
+walmart,2017-5,"""We are re-merchandising, remodeling, enhancing our product range and are focused on gaining volume so more customers start their shopping at Aldi and we are able to complete their shopping lists moreso than we have in the past,"" said Hart, who added Aldi's U.S. sales have doubled in five years."
+walmart,2017-5,"Though it only accounts for only about 1.5 percent of the U.S. grocery market, Aldi is growing at 15 percent a year, whereas Wal-Mart currently controls about 22 percent of the market and its U.S. sales are estimated to grow about 2 percent this year, according to analysts."
+walmart,2017-5,"""We have not seen anything like this in the grocery sector in the United States before,"" said Scott Mushkin, managing director of Wolfe Research and a leading pricing analyst."
+walmart,2017-5,Such heated competition risks a dangerous race to the bottom that could result in more retailers shutting their doors.
+walmart,2017-5,"""Given Aldi's expansion, Lidl's entry, Wal-Mart's response and Amazon's growing ambitions in this space, it is fair to expect a significant acceleration in the bankruptcy and liquidation cycle in this sector over the next few years,"" said Burt Flickinger, managing director at retail consultancy Strategic Resource Group. For more on Wal-Mart's stock performance vs Amazon, click [L1N1IC270]"
+walmart,2017-5,"Aldi, has a simple strategy to win more customers: everyday low pricing, according to Hart."
+walmart,2017-5,"""We don't confuse our customers with yo-yo discounts, sales, coupons and loyalty cards that require membership fees,"" he said."
+walmart,2017-5,"Four analysts and consultants contacted by Reuters confirmed Aldi now offers the lowest prices in private label consumer products in the states it operates, although they did say Wal-Mart is gaining ground in the states they are conducting price tests."
+walmart,2017-5,"Depending on the product, Aldi's prices are cheaper than most rivals' private label items and even most branded items, analysts said. Hart said the 21 percent difference in price is calculated by monitoring competition on a basket of groceries."
+walmart,2017-5,"Aldi counts on its no-frills shopping experience to help keep costs low, and limits much of its inventory to items that sell in huge volume. But its focus on offering far more private label items than branded products is central to allowing Aldi to adjust pricing whenever it chooses, Hart said."
+walmart,2017-5,"Aldi and Wal-Mart do no break out the figures, but analysts including Mushkin and Flickinger say Aldi carries about 1,200 stock keeping units (SKUs) or type of products, 90 percent of which are private label. Wal-Mart stocks about 30,000-40,000 SKU's of products similar to ones Aldi sells, and only 30 percent of that are private labels."
+walmart,2017-5,"That different product mix can potentially make it more difficult for Wal-Mart to adjust prices because it often first needs buy-in from suppliers, and many times faces push back from packaged goods makers like Procter & Gamble , Unilever and even smaller brands. Such vendors fear steep discounting can erode the value of their brands, analysts said."
+walmart,2017-5,"A Wal-Mart spokesman declined comment, saying the company would not comment on a competitor's strategy. P&G and Unilever did not respond to Reuters requests seeking comment."
+walmart,2017-5,But the explosive growth in private label products is on the radar of Wal-Mart Chief Executive Doug McMillon. Last month he told analysts that private label goods will play an even more important role as the widespread availability of branded products online will compress those products margins over time.
+walmart,2017-5,"""Aldi is disrupting the sector the way Wal-Mart did when they started,"" said Strategic Resource Group's Flickinger."
+walmart,2017-5,Aldi's aggressive push to remodel its stores will allow it to add new private label merchandise in rapidly growing categories like fresh food.
+walmart,2017-5,"""The remodels are aimed at increasing our volumes which means more purchasing power that will help us lower prices further,"" said Scott Patton, Aldi's vice president of corporate buying."
+walmart,2017-5,"At a recent visit to an Aldi store in Wheaton, Illinois Reuters found newer-looking shelves, wider aisles and brighter lighting than a typical Aldi store. There was also a bigger assortment of fresh, organic, gluten-free products and antibiotic-free meats versus what it stocked earlier - categories Aldi said is growing the most rapidly at its stores."
+walmart,2017-5,"For example, its Simply Nature range of private-label products grew 53 percent to $300 million in 2016 from a year ago."
+walmart,2017-5,"Aldi has also opened stores close to Wal-Mart's supercenters to benefit from its budget-conscious shoppers. Its total store count of 2,000 stores by the end of next year will be about 42 percent of Wal-Mart's U.S. store base."
+walmart,2017-5,"{{20170511T050303.950+0000}}BUZZ-Wal-Mart: Strong stock year, but no Amazon** Shares of Wal-Mart Stores are topping the S&P 500 consumer staples <.SPLRCS> so far in 2017, rising 11 pct vs a 6.2 pct rise for its sector benchmark"
+walmart,2017-5,"** But the stock has been no match for Amazon.com , its low-price retailing rival, whose shares have soared 26.5 pct in 2017"
+walmart,2017-5,"** Wal-Mart shares closed at $76.70 on Wednesday; that's above $74 median price target among analysts covering the stock, according to Thomson Reuters data"
+walmart,2017-5,"** Indeed, while 11 analysts rate the stock ""buy"" or ""strong buy"", 19 rate it ""hold"", and four rate it ""sell"" or ""strong sell"", according to Thomson Reuters data"
+walmart,2017-5,"** Wal-Mart shares recently traded at 17.5 times forward earnings estimates, well above the 14.8X average over the past five years, according to Thomson Reuters Datastream"
+walmart,2017-5,{{20170511T050002.971+0000}}EXCLUSIVE-Aldi raises stakes in U.S. price war with Wal-MartBy Nandita Bose
+walmart,2017-5,"WHEATON, Ill., May 11 (Reuters) - German grocery chain Aldi Inc is trying to beat the world's biggest retailer at its own game: low prices."
+walmart,2017-5,"Already with 1,600 U.S. stores, Aldi has set a minimum target of selling groceries at a 21 percent discount to its U.S. rivals, including Wal-Mart Stores Inc , Chief Executive Jason Hart told Reuters."
+walmart,2017-5,"His strategy, previously unreported, centers on adding more private-label goods, which are a retailer's in-house brands, to win over price-sensitive customers, and a massive expansion to further disrupt a U.S. grocery sector that has seen 18 companies go bankrupt since 2014."
+walmart,2017-5,"Hart's plan calls for spending $1.6 billion to expand and remodel 1,300 U.S. stores, and open 400 new stores mainly in Florida, Texas and on both coasts by end of 2018. He also pledged Aldi will be willing to change prices more frequently to respond to rivals if needed."
+walmart,2017-5,"""We are re-merchandising, remodeling, enhancing our product range and are focused on gaining volume so more customers start their shopping at Aldi and we are able to complete their shopping lists moreso than we have in the past,"" said Hart, who added Aldi's U.S. sales have doubled in five years."
+walmart,2017-5,"Though it only accounts for only about 1.5 percent of the U.S. grocery market, Aldi is growing at 15 percent a year, whereas Wal-Mart currently controls about 22 percent of the market and its U.S. sales are estimated to grow about 2 percent this year, according to analysts."
+walmart,2017-5,"""We have not seen anything like this in the grocery sector in the United States before,"" said Scott Mushkin, managing director of Wolfe Research and a leading pricing analyst."
+walmart,2017-5,Such heated competition risks a dangerous race to the bottom that could result in more retailers shutting their doors.
+walmart,2017-5,"""Given Aldi's expansion, Lidl's entry, Wal-Mart's response and Amazon's growing ambitions in this space, it is fair to expect a significant acceleration in the bankruptcy and liquidation cycle in this sector over the next few years,"" said Burt Flickinger, managing director at retail consultancy Strategic Resource Group. For more on Wal-Mart's stock performance vs Amazon, click [L1N1IC270]"
+walmart,2017-5,"Aldi, has a simple strategy to win more customers: everyday low pricing, according to Hart."
+walmart,2017-5,"""We don't confuse our customers with yo-yo discounts, sales, coupons and loyalty cards that require membership fees,"" he said."
+walmart,2017-5,"Four analysts and consultants contacted by Reuters confirmed Aldi now offers the lowest prices in private label consumer products in the states it operates, although they did say Wal-Mart is gaining ground in the states they are conducting price tests."
+walmart,2017-5,Hart said Aldi's internal studies show its prices are 21 percent lower than its lowest-priced rivals and the discount retailer intends to keep the advantage at least that strong going forward.
+walmart,2017-5,"Depending on the product, Aldi's prices are cheaper than most rivals' private label items and even most branded items, analysts said. Hart said the 21 percent difference in price is calculated by monitoring competition on a basket of groceries."
+walmart,2017-5,"Aldi counts on its no-frills shopping experience to help keep costs low, and limits much of its inventory to items that sell in huge volume. But its focus on offering far more private label items than branded products is central to allowing Aldi to adjust pricing whenever it chooses, Hart said."
+walmart,2017-5,"Aldi and Wal-Mart do no break out the figures, but analysts including Mushkin and Flickinger say Aldi carries about 1,200 stock keeping units (SKUs) or type of products, 90 percent of which are private label. Wal-Mart stocks about 30,000-40,000 SKU's of products similar to ones Aldi sells, and only 30 percent of that are private labels."
+walmart,2017-5,"That different product mix can potentially make it more difficult for Wal-Mart to adjust prices because it often first needs buy-in from suppliers, and many times faces push back from packaged goods makers like Procter & Gamble , Unilever and even smaller brands. Such vendors fear steep discounting can erode the value of their brands, analysts said."
+walmart,2017-5,A Wal-Mart spokesman declined comment saying the company would not comment on a competitor's strategy. P&G and Unilever did not respond to Reuters requests seeking comment.
+walmart,2017-5,But the explosive growth in private label products is on the radar of Wal-Mart Chief Executive Doug McMillon. Last month he told analysts that private label goods will play an even more important role as the widespread availability of branded products online will compress those products margins over time.
+walmart,2017-5,"""Aldi is disrupting the sector the way Wal-Mart did when they started,"" said Strategic Resource Group's Flickinger."
+walmart,2017-5,Aldi's aggressive push to remodel its stores will allow it to add new private label merchandise in rapidly growing categories like fresh food.
+walmart,2017-5,"""The remodels are aimed at increasing our volumes which means more purchasing power that will help us lower prices further,"" said Scott Patton, Aldi's vice president of corporate buying."
+walmart,2017-5,"At a recent visit to an Aldi store in Wheaton, Illinois Reuters found newer-looking shelves, wider aisles and brighter lighting than a typical Aldi store. There was also a bigger assortment of fresh, organic, gluten-free products and antibiotic-free meats versus what it stocked earlier - categories Aldi said is growing the most rapidly at its stores."
+walmart,2017-5,"For example, its Simply Nature range of private-label products grew 53 percent to $300 million in 2016 from a year ago."
+walmart,2017-5,"Aldi has also opened stores close to Wal-Mart's supercenters to benefit from its budget-conscious shoppers. Its total store count of 2,000 stores by the end of next year will be about 42 percent of Wal-Mart's U.S. store base."
+walmart,2017-5,{{20170510T110007.069+0000}}RPT-INSIGHT-Amazon trounces rivals in battle of the shopping 'bots'(Repeating for additional clients without changes to text)
+walmart,2017-5,using to check Amazon.com several million times a day suddenly
+walmart,2017-5,Losing access to Amazon.com Inc's  data was no small
+walmart,2017-5,"matter. Like most big retailers, Wal-Mart relies on computer"
+walmart,2017-5,programs that scan prices on competitors' websites so it can
+walmart,2017-5,But a new tactic by Amazon to block these programs - known
+walmart,2017-5,"the blockade for weeks, forcing it to retrieve Amazon's data"
+walmart,2017-5,"Now the largest online retailer in the world, Amazon is best"
+walmart,2017-5,"known by consumers for its fast delivery, huge product catalog"
+walmart,2017-5,and ambitious moves into areas like original TV programming. But
+walmart,2017-5,"its mastery of the complex, behind-the-scenes technologies that"
+walmart,2017-5,power modern e-commerce is just as important to its success.
+walmart,2017-5,Dexterity with bots allows Amazon not only to see what its
+walmart,2017-5,"rivals are doing, but increasingly to keep them in the dark when"
+walmart,2017-5,it undercuts them on price or is quietly charging more.
+walmart,2017-5,but said the company improves its technology regularly and has
+walmart,2017-5,multiple tools for tracking items. He said the company offers
+walmart,2017-5,value not only through pricing but from discounts for in-store
+walmart,2017-5,competitors using bots to check its listings and denied any
+walmart,2017-5,"""campaign"" to stop them. ""Nothing has changed recently in how we"
+walmart,2017-5,"manage bots on our site,"" she said. Still, she said, ""we"
+walmart,2017-5,spoke only on condition of anonymity because they were not
+walmart,2017-5,Shares of the internet powerhouse have risen about 15-fold since
+walmart,2017-5,than tripled in value. Amazon hit $100 billion in annual sales
+walmart,2017-5,more than weekly because of the time and expense needed to swap
+walmart,2017-5,"To stay in the game, companies such as online wholesaler"
+walmart,2017-5,"Boxed, based in New York, depend on a variety of methods"
+walmart,2017-5,including bots to ensure they do not lag others' price moves for
+walmart,2017-5,"toilet paper and pet food. ""If we're not decently priced, we'll"
+walmart,2017-5,Using bots to view massive amounts of data on public
+walmart,2017-5,constantly crawls the Web to gather information for its search
+walmart,2017-5,"In e-commerce, though, the use of bots has developed into a"
+walmart,2017-5,cat-and-mouse game. Companies try to thwart the practice on
+walmart,2017-5,"To protect data from rivals, some retail websites use what's"
+walmart,2017-5,and numbers that humans can read but most bots can't. Amazon
+walmart,2017-5,shies away from the practice because it annoys some customers.
+walmart,2017-5,their computer programs as real shoppers is key. Some pricing
+walmart,2017-5,"through a Web page in the way a person might, instead of going"
+walmart,2017-5,directly to the prized data. Another technique is to use
+walmart,2017-5,"""It is an arms race,"" said Keith Anderson, a senior vice"
+walmart,2017-5,"Ireland. ""Every week or every month, there's some new approach"
+walmart,2017-5,Amazon's maneuver that halted Wal-Mart in January took aim
+walmart,2017-5,shoppers. Amazon put up a digital curtain to hide its listings
+walmart,2017-5,"It was unclear how the move, which was not aimed at Wal-Mart"
+walmart,2017-5,Tests conducted in recent weeks for Reuters show that among
+walmart,2017-5,"sophisticated bot detection in place, both for its home page and"
+walmart,2017-5,for two popular items selected by Reuters because they change
+walmart,2017-5,"The tests were run by San Francisco-based Distil Networks,"
+walmart,2017-5,"which sells anti-bot tools. In one of the tests, Distil"
+walmart,2017-5,Amazon's price for the De'Longhi espresso machine changed four
+walmart,2017-5,times in a single 24-hour period starting on the morning of
+walmart,2017-5,"camelcamelcamel.com. During that time, the price swung by more"
+walmart,2017-5,"on its site is staggering. At times, as many as 80 percent of"
+walmart,2017-5,"the clicks on Amazon product listings have been from bots,"
+walmart,2017-5,"people familiar with the matter say, compared with just a third"
+walmart,2017-5,"For Wal-Mart, a small group in Silicon Valley directs its"
+walmart,2017-5,"and around the world handle the code, current and former"
+walmart,2017-5,"organize rivals' data with bots as of several years ago, one of"
+walmart,2017-5,the people interviewed said. Amazon did not discuss the size or
+walmart,2017-5,"on encryption technology that would force bots, but not humans,"
+walmart,2017-5,to solve a complicated algorithm to gain access to its Web
+walmart,2017-5,"""Amazon has both the competency to detect bot traffic and"
+walmart,2017-5,"the wherewithal to do something about it,"" said Scott Jacobson,"
+walmart,2017-5,{{20170510T051238.593+0000}}INSIGHT-Amazon trounces rivals in battle of the shopping 'bots'By Jeffrey Dastin
+walmart,2017-5,using to check Amazon.com several million times a day suddenly
+walmart,2017-5,Losing access to Amazon.com Inc's  data was no small
+walmart,2017-5,"matter. Like most big retailers, Wal-Mart relies on computer"
+walmart,2017-5,programs that scan prices on competitors' websites so it can
+walmart,2017-5,But a new tactic by Amazon to block these programs - known
+walmart,2017-5,"the blockade for weeks, forcing it to retrieve Amazon's data"
+walmart,2017-5,"Now the largest online retailer in the world, Amazon is best"
+walmart,2017-5,"known by consumers for its fast delivery, huge product catalog"
+walmart,2017-5,and ambitious moves into areas like original TV programming. But
+walmart,2017-5,"its mastery of the complex, behind-the-scenes technologies that"
+walmart,2017-5,power modern e-commerce is just as important to its success.
+walmart,2017-5,Dexterity with bots allows Amazon not only to see what its
+walmart,2017-5,"rivals are doing, but increasingly to keep them in the dark when"
+walmart,2017-5,it undercuts them on price or is quietly charging more.
+walmart,2017-5,but said the company improves its technology regularly and has
+walmart,2017-5,multiple tools for tracking items. He said the company offers
+walmart,2017-5,value not only through pricing but from discounts for in-store
+walmart,2017-5,competitors using bots to check its listings and denied any
+walmart,2017-5,"""campaign"" to stop them. ""Nothing has changed recently in how we"
+walmart,2017-5,"manage bots on our site,"" she said. Still, she said, ""we"
+walmart,2017-5,spoke only on condition of anonymity because they were not
+walmart,2017-5,Shares of the internet powerhouse have risen about 15-fold since
+walmart,2017-5,than tripled in value. Amazon hit $100 billion in annual sales
+walmart,2017-5,more than weekly because of the time and expense needed to swap
+walmart,2017-5,"To stay in the game, companies such as online wholesaler"
+walmart,2017-5,"Boxed, based in New York, depend on a variety of methods"
+walmart,2017-5,including bots to ensure they do not lag others' price moves for
+walmart,2017-5,"toilet paper and pet food. ""If we're not decently priced, we'll"
+walmart,2017-5,Using bots to view massive amounts of data on public
+walmart,2017-5,constantly crawls the Web to gather information for its search
+walmart,2017-5,"In e-commerce, though, the use of bots has developed into a"
+walmart,2017-5,cat-and-mouse game. Companies try to thwart the practice on
+walmart,2017-5,"To protect data from rivals, some retail websites use what's"
+walmart,2017-5,and numbers that humans can read but most bots can't. Amazon
+walmart,2017-5,shies away from the practice because it annoys some customers.
+walmart,2017-5,their computer programs as real shoppers is key. Some pricing
+walmart,2017-5,"through a Web page in the way a person might, instead of going"
+walmart,2017-5,directly to the prized data. Another technique is to use
+walmart,2017-5,"""It is an arms race,"" said Keith Anderson, a senior vice"
+walmart,2017-5,"Ireland. ""Every week or every month, there's some new approach"
+walmart,2017-5,Amazon's maneuver that halted Wal-Mart in January took aim
+walmart,2017-5,shoppers. Amazon put up a digital curtain to hide its listings
+walmart,2017-5,"It was unclear how the move, which was not aimed at Wal-Mart"
+walmart,2017-5,Tests conducted in recent weeks for Reuters show that among
+walmart,2017-5,"sophisticated bot detection in place, both for its home page and"
+walmart,2017-5,for two popular items selected by Reuters because they change
+walmart,2017-5,"The tests were run by San Francisco-based Distil Networks,"
+walmart,2017-5,"which sells anti-bot tools. In one of the tests, Distil"
+walmart,2017-5,Amazon's price for the De'Longhi espresso machine changed four
+walmart,2017-5,times in a single 24-hour period starting on the morning of
+walmart,2017-5,"camelcamelcamel.com. During that time, the price swung by more"
+walmart,2017-5,"on its site is staggering. At times, as many as 80 percent of"
+walmart,2017-5,"the clicks on Amazon product listings have been from bots,"
+walmart,2017-5,"people familiar with the matter say, compared with just a third"
+walmart,2017-5,"For Wal-Mart, a small group in Silicon Valley directs its"
+walmart,2017-5,"and around the world handle the code, current and former"
+walmart,2017-5,"organize rivals' data with bots as of several years ago, one of"
+walmart,2017-5,the people interviewed said. Amazon did not discuss the size or
+walmart,2017-5,"on encryption technology that would force bots, but not humans,"
+walmart,2017-5,to solve a complicated algorithm to gain access to its Web
+walmart,2017-5,"""Amazon has both the competency to detect bot traffic and"
+walmart,2017-5,"the wherewithal to do something about it,"" said Scott Jacobson,"
+walmart,2017-5,{{20170510T042249.212+0000}}PRESS DIGEST - Wall Street Journal - May 10May 10 (Reuters) - The following are the top stories in the Wall Street Journal. Reuters has not verified these stories and does not vouch for their accuracy.
+walmart,2017-5,"{{20170509T205635.141+0000}}Wal-Mart close to settlement with U.S. over alleged bribery -reportCHICAGO, May 9 (Reuters) - Wal-Mart Stores Inc is preparing to pay about $300 million to settle a probe of bribery by its employees in markets including Mexico, India and China, Bloomberg reported on Tuesday, citing people familiar with the matter."
+walmart,2017-5,"The proposed resolution would require a guilty plea by at least one Wal-Mart subsidiary, but the parent company would not be charged, the report said."
+walmart,2017-5,"The U.S. Department of Justice has been conducting a long-running investigation into potential misconduct by Wal-Mart in some overseas markets, including China, Brazil, India and Mexico."
+walmart,2017-5,Wal-Mart's ethics and compliance system came into focus after the New York Times reported in 2012 that Wal-Mart had engaged in a multi-year bribery campaign to build its Wal-Mart de Mexico business.
+walmart,2017-5,So far Wal-Mart has spent more than $800 million on legal fees and an internal investigation into the alleged payments and to revamp its compliance systems around the world.
+walmart,2017-5,"Wal-Mart close to resolving bribery probe for $300 million - Bloomberg, citing sources - Reuters Investor Briefs"
+walmart,2017-5,"{{20170509T195214.520+0000}}BRIEF-Wal-Mart close to resolving bribery probe for $300 million - Bloomberg, citing sourcesMay 9 (Reuters) -"
+walmart,2017-5,"* Wal-Mart close to resolving bribery probe for $300 million - Bloomberg, citing sources"
+walmart,2017-5,"{{20170509T181849.521+0000}}Amazon cuts free shipping minimum to $25May 9 (Reuters) - Amazon.com Inc said on Tuesday it cut the threshold for free shipping to $25 from $35, upping the ante against Wal-Mart Stores Inc in a hotly contested battle for ecommerce supremacy."
+walmart,2017-5,Amazon already offers free two-day shipping under its $99 Prime membership program but the new offer is aimed at encouraging more customers to shop on its platform.
+walmart,2017-5,Amazon also hopes to convert these shoppers to Prime members down the line.
+walmart,2017-5,"The world's biggest retailer, Wal-Mart, has been building up its ecommerce business through acquisitions such as Jet.com, as it looks to narrow the massive gap with Amazon."
+walmart,2017-5,"Wal-Mart started its own membership program called ShippingPass last year, which offered free two-day shipping for $49 a year. However, the company ended the program in January, replacing it with free two-day shipping on orders of $35 or more."
+walmart,2017-5,"{{20170508T223030.929+0000}}U.S. RESEARCH ROUNDUP-Micron, National Cinemedia, VWRMay 8 (Reuters) - Wall Street securities analysts revised their ratings and price targets on"
+walmart,2017-5,"several U.S.-listed companies, including Micron Technology, National Cinemedia and Yext Inc, on"
+walmart,2017-5,* Micron Technology Inc : Goldman Sachs cuts to neutral from buy - Trader
+walmart,2017-5,* Yext Inc : Morgan Stanley starts with equal weight; target price $14
+walmart,2017-5,Following is a summary of research actions on U.S. companies reported by Reuters on Monday.
+walmart,2017-5,* Aceto Corp : Craig-Hallum cuts target price to $12 from $18; rating hold
+walmart,2017-5,* Activision Blizzard : Ascediant Capital raises target to $64 from $57;rating buy
+walmart,2017-5,* Alexandria Real Estate Equities : RBC raises target to $127 from $120; outperform
+walmart,2017-5,* AMC Networks Inc : Deutsche Bank cuts target price to $61 from $65
+walmart,2017-5,* American Axle : JP Morgan resumes with overweight rating; $23 price target
+walmart,2017-5,* Anheuser Busch Inbev : JP Morgan raises target to $119.56 from $114.17; neutral
+walmart,2017-5,* Apple Hospitality REIT : Canaccord Genuity cuts target to $20 from $21; hold
+walmart,2017-5,* Approach Resources Inc : Wunderlich raises target price to $8 from $7;rating buy
+walmart,2017-5,* Arbor Realty Trust Inc : KBW raises target price to $8.75 from $8.25
+walmart,2017-5,* Ashford Hospitality Prime : Canaccord Genuity cuts target to $11 from $12; hold
+walmart,2017-5,* Avis Budget Group : Morgan Stanley cuts target price to $19 from $23; underweight
+walmart,2017-5,* Azul SA : Deutsche Bank starts with buy rating; $31 price target
+walmart,2017-5,* Baker Hughes Inc : JP Morgan cuts target price to $57 from $62
+walmart,2017-5,* Beacon Roofing Supply Inc : JP Morgan raises target price to $55 from $51
+walmart,2017-5,* Beacon Roofing Supply Inc : RBC raises target price to $58 from $51
+walmart,2017-5,* Blackline : Raymond James raises price target to $39 from $33; rating outperform
+walmart,2017-5,* BMC stock Holdings : SunTrust Robinson raises price target to $25 from $24; buy
+walmart,2017-5,* Bright Horizons Family Solutions : BMO raises target price to $83 from $78
+walmart,2017-5,* Bright Horizons Family Solutions : JP Morgan raises target price to $81 from $74
+walmart,2017-5,* Cadence Bancorp : JP Morgan starts with overweight rating; $26 price target
+walmart,2017-5,* Cadence Bancorp : Sandler O'Neill starts with hold rating; $24 price target
+walmart,2017-5,* Carlyle Group LP : Jefferies raises price target to $18.50 from $17; rating hold
+walmart,2017-5,* Casella Waste Systems Inc : Raymond James raises target price to $17.50 from $15
+walmart,2017-5,* CF Industries Holdings Inc : Citi raises to buy from neutral
+walmart,2017-5,* Church & Dwight Co Inc : BMO raises target price to $50 from $47
+walmart,2017-5,* Cigna Corp : Barclays raises target price to $170 from $156; rating equal weight
+walmart,2017-5,* Cigna Corp : Leerink raises target price to $175 from $165; rating outperform
+walmart,2017-5,* Cigna Corp : Piper Jaffray raises target price to $175 from $170; overweight
+walmart,2017-5,* Computer Programs and Systems : Dougherty & Company ups target to $36 from $32
+walmart,2017-5,* Continental Resources Inc : KLR Group raises price target to $58 ; rating buy
+walmart,2017-5,* Copa Holdings SA : BofA Merrill raises price objective to $135 from $120
+walmart,2017-5,* Cu Bancorp : Raymond James raises to outperform from market perform
+walmart,2017-5,* Cu Bancorp : Raymond James raises to outperform from market perform
+walmart,2017-5,* CyrusOne Inc : RBC raises target price to $63 from $59; rating outperform
+walmart,2017-5,* Devry Education Group Inc : Compass Point raises target price to $33 from $29
+walmart,2017-5,* Electronic Arts Inc : BofA Merrill raises price OBJECTIVE to $104 from $94
+walmart,2017-5,* Enable Midstream Partners LP : Credit Suisse raises target price to $20 from $18
+walmart,2017-5,* Enable Midstream Partners LP : Credit Suisse raises to outperform from neutral
+walmart,2017-5,* Epam Systems Inc : Wedbush raises target price to $90 from $82;rating outperform
+walmart,2017-5,* Essex Property Trust Inc : Raymond James raises target price to $270 from $236
+walmart,2017-5,* Exxon Mobil : Independent Research cuts target price to $86.0 from $87.0; hold
+walmart,2017-5,* Ferrari : Morgan Stanley raises target price to $100 from $72; rating overweight
+walmart,2017-5,* Fidelity National Financial Inc : KBW raises target price to $41 from $38
+walmart,2017-5,* First Horizon National : SunTrust Robinson raises target price to $23 from $21
+walmart,2017-5,* First Midwest Bancorp : SunTrust Robinson cuts target to $26 from $28;rating buy
+walmart,2017-5,* Five Star Senior Living : Jefferies cuts target price to $3.75 from $4.25; buy
+walmart,2017-5,* FS Bancorp Inc : Raymond James raises target price to $49 from $43
+walmart,2017-5,* Gain Capital Holdings : Jefferies cuts target price to $9 from $10; rating buy
+walmart,2017-5,* Genesis Energy LP : Credit Suisse cuts target price to $39 from $40
+walmart,2017-5,* Genesis Energy LP : Credit Suisse raises to outperform from neutral
+walmart,2017-5,* Goodyear Tire & Rubber Co : Jefferies raises target price to $40; rating hold
+walmart,2017-5,* Grand Canyon Education Inc : BMO raises target price to $85 from $78
+walmart,2017-5,* Haemonetics Corp : Craig-Hallum raises price target to $40 from $36 ; rating hold
+walmart,2017-5,* Hilton Worldwide Holdings Inc : Bernstein raises target price to $70 from $69
+walmart,2017-5,* Horizon Pharma Plc : Cowen and Company cuts target to $20 from $42; outperform
+walmart,2017-5,* Installed Building Products : RBC raises target price to $61 from $53; outperform
+walmart,2017-5,* Invesco Mortgage Capital : Barclays raises target to $17 from $15; equal weight
+walmart,2017-5,* Johnson Outdoors Inc : Imperial Capital raises target price to $49 from $44
+walmart,2017-5,* Jones Lang LaSalle Inc : BofA Merrill raises price objective to $140 from $122
+walmart,2017-5,* Jones Lang LaSalle Inc : KBW raises target price to $120 from $107
+walmart,2017-5,* Kate Spade & Co : Wunderlich Securities cuts price target to $18.50 from $24
+walmart,2017-5,* Kate Spade & Co : Wells Fargo cuts target to $18.50 from $24.50; market perform
+walmart,2017-5,* Kate Spade & Co : Wunderlich Securities cuts to hold from buy
+walmart,2017-5,* Keryx Biopharmaceuticals Inc : Maxim Group raises target price to $9 from $7
+walmart,2017-5,* Kinsale Capital Group Inc : RBC raises target price to $38 from $33
+walmart,2017-5,* Kite Pharma Inc : Raymond James cuts to market perform from outperform
+walmart,2017-5,* Lam Research Corp : Goldman Sachs raises price target to $160 from $153; buy
+walmart,2017-5,* Lam Research Corp : Goldman Sachs removes from Americas Conviction buy list
+walmart,2017-5,* Legacytexas Financial Group Inc : SunTrust Robinson cuts target to $42 from $47
+walmart,2017-5,* Lyondellbasell Industries NV : BofA Merrill cuts price objective to $80 from $100
+walmart,2017-5,* Lyondellbasell Industries NV : BofA Merrill cuts to underperform from buy
+walmart,2017-5,* Main Street Capital Corp : SunTrust Robinson raises target price to $38 from $36
+walmart,2017-5,* MFA Financial Inc : Wells Fargo raises to market perform from underperform
+walmart,2017-5,* Micron Technology Inc : Goldman Sachs cuts to neutral from buy - Trader
+walmart,2017-5,* Mirati Therapeutics Inc : Jefferies cuts target price to $4.50 from $5.50; hold
+walmart,2017-5,* Molina Healthcare Inc : Piper Jaffray raises target to $75 from $60; overweight
+walmart,2017-5,* Motorola solutions Inc : Deutsche Bank raises target price to $73 from $70
+walmart,2017-5,* Motorola solutions Inc : Gabelli & CO raises to buy from hold
+walmart,2017-5,* MRC Global Inc : JP Morgan raises target price to $26 from $25; rating overweight
+walmart,2017-5,* Myriad Genetics Inc : Deutsche Bank raises target price to $20 from $15
+walmart,2017-5,* National Retail Properties Inc : RBC cuts target price to $48 from $50;outperform
+walmart,2017-5,* Netshoes (CAYMAN) Ltd : JP Morgan starts with overweight; target price $18
+walmart,2017-5,* Newfield Exploration Co : KLR Group raises to buy from hold
+walmart,2017-5,* NexPoint Residential Trust : Canaccord Genuity raises target to $28 from $26;buy
+walmart,2017-5,* Nordic American Tanker : Jefferies cuts price target to $5 from $7; underperform
+walmart,2017-5,* Nordic American Tanker Ltd : Maxim Group cuts target price to $5 from $6
+walmart,2017-5,* Norwegian Cruise Line Holdings : Susquehanna raises target price to $66 from $55
+walmart,2017-5,* Olin Corp : BofA Merrill starts with buy rating; $40 price objective
+walmart,2017-5,* On Deck Capital : Canaccord Genuity cuts price target to $5 from $6; hold
+walmart,2017-5,* On Deck Capital : Morgan Stanley cuts price target to $5 from $6; equal-weight
+walmart,2017-5,* Petmed Express Inc : Craig-Hallum raises price target to $31 from $23 ; rating buy
+walmart,2017-5,* Pfizer Inc : Independent Research raises target price to $36.0 from $33.0; hold
+walmart,2017-5,* Priceline Group Inc : Deutsche Bank raises target price to $2000 from $1725
+walmart,2017-5,* Priceline Group Inc : Raymond James raises target price to $2070 from $1915
+walmart,2017-5,* Qiagen NV : Deutsche Bank raises target price to $35 from $32; rating buy
+walmart,2017-5,* SiteOne Landscape Supply Inc : Johnson Rice starts with accumulate rating
+walmart,2017-5,* Stag Industrial : Cantor Fitzgerald raises price target to $26 from $25; neutral
+walmart,2017-5,* Spirit Realty Capital Inc : BofA Merrill cuts price objective to $6.50 from $10.50
+walmart,2017-5,* Spirit Realty Capital Inc : RBC cuts target price to $8 from $12
+walmart,2017-5,* Sysco Corp : Jefferies raises price target to $51.00 from $50.00; rating hold
+walmart,2017-5,* Targa Resources Corp : Raymond James raises to strong buy from outperform
+walmart,2017-5,* Terreno Realty Corp : D A Davidson raises target price to $40 from $35; buy
+walmart,2017-5,* Terreno Realty Corp : Wunderlich raises target price to $34 from $31; rating buy
+walmart,2017-5,* Texas Capital Bancshares Inc : Wedbush raises target price to $86 from $79
+walmart,2017-5,* Texas Capital Bancshares Inc : Wedbush raises to outperform from neutral
+walmart,2017-5,* Third Point Reinsurance Ltd : KBW raises to outperform from market perform
+walmart,2017-5,* Tocagen Inc : Leerink starts with market perform rating; $19 price target
+walmart,2017-5,* Total System Services Inc : Goldman Sachs raises to buy from neutral - Trader
+walmart,2017-5,* Warrior Met Coal Inc : BMO starts with outperform rating; $24 target price
+walmart,2017-5,* Warrior Met Coal Inc : Clarksons Platou Securities starts with $33 price target
+walmart,2017-5,* Warrior Met Coal Inc : Clarksons Platou Securities starts with buy rating
+walmart,2017-5,* Warrior Met Coal Inc : Credit Suisse starts with outperform rating; $26 target
+walmart,2017-5,* Warrior Met Coal Inc : Morgan Stanley starts with overweight; target price $27
+walmart,2017-5,* Warrior Met Coal Inc : RBC starts with outperform rating; $25 price target
+walmart,2017-5,* Westlake Chemical : BofA Merrill starts with neutral rating; $68 price objective
+walmart,2017-5,* Williams Companies Inc : Wells Fargo raises to outperform from market perform
+walmart,2017-5,* Willis Towers Watson Plc : KBW raises target price to $143 from $134
+walmart,2017-5,* Willis Towers Watson Plc : Raymond James raises target price to $160 from $145
+walmart,2017-5,* Yext Inc : JP Morgan starts with neutral rating; $15 price target
+walmart,2017-5,* Yext Inc : Morgan Stanley starts with equal weight; target price $14
+walmart,2017-5,* YRC Worldwide Inc : Deutsche Bank cuts target price to $11 from $18
+walmart,2017-5,{{20170505T105719.532+0000}}BREAKINGVIEWS-M&S opts for safety over real shakeup(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+walmart,2017-5,"LONDON, May 5 (Reuters Breakingviews) - It may not just be the clothing designs that need more imagination at Marks & Spencer . The British high street retailer named Archie Norman as its new chairman, days after hiring a new boss for its troubled fashion unit. His retail nous will bolster M&S' turnaround plans. Yet the appointment is the latest in a series of safe choices that underestimate the changes sweeping retail."
+walmart,2017-5,"That makes him a valuable sounding-board for Chief Executive Steve Rowe, who is trying to overhaul M&S. A stint as a conservative parliamentarian might help Norman read Brexit's political runes. And the announcement on May 3 that former Halfords Chief Executive Jill McDonald will head up the troubled clothing and homewares business frees up Rowe to tackle fundamental problems such as reducing fixed costs, possibly with further store closures."
+walmart,2017-5,"- Marks and Spencer on May 5 announced that it has appointed Archie Norman as the group's new chairman, replacing Robert Swannell who will retire on Sept. 1."
+walmart,2017-5,"- Norman was previously chairman of ITV, Lazard London and Hobbycraft and was formerly the chief executive of grocer Asda."
+walmart,2017-5,- The company's shares were up 5.4 percent to 377 pence by 1005 BST on May 5.
+walmart,2017-5,"- For previous columns by the author, Reuters customers can click on [RYAN/]"
+walmart,2017-5,"{{20170504T202155.891+0000}}Wal-Mart files patent for Amazon Dash rivalMay 4 (Reuters) - Wal-Mart Stores Inc has applied for a patent to compete with Amazon.com Inc's wifi-connected, one-button ordering device, Amazon Dash, according to data provider CB Insights."
+walmart,2017-5,"The patent, filed in October, would be the first of Wal-Mart's more than 800 patents and applications to focus on Internet of Things (IoT) and branches into shoppers' homes, CB Insights said."
+walmart,2017-5,"Wal-Mart's system would require less effort than Amazon's, a CB Insights blog post said."
+walmart,2017-5,"""While Dash buttons still require users to press a physical button separate from the product, Wal-Mart aims to integrate IoT into the products themselves for automatic re-ordering with no user input at all,"" the blog post said."
+walmart,2017-5,"{{20170503T225500.520+0000}}Wal-Mart seeks anti-corruption certification, in talks with regulators By Kevin Krolicki and Nandita Bose"
+walmart,2017-5,"NEW YORK, May 3 (Reuters) - Wal-Mart Stores Inc said on Wednesday it was considering getting certified under a new international program that could help companies defend themselves against isolated cases of corruption or poor business practices."
+walmart,2017-5,"The International Organization for Standardization (ISO) developed the so-called anti-corruption compliance program and Wal-Mart is hoping to be the first U.S. company to get certified under it, said Jay Jorgensen, Wal-Mart's executive vice president and global chief ethics and compliance officer."
+walmart,2017-5,"""We have begun looking for a company that would certify us,"" Jorgensen told the Thomson Reuters Financial and Risk Summit in New York."
+walmart,2017-5,The ISO is the world's largest developer and publisher of international standards.
+walmart,2017-5,"Jorgensen added that Wal-Mart was interested in seeing the program develop in the United States, with the government laying out its own anti-corruption compliance framework or adopting ISO standards to help protect companies that follow it and defend themselves if something goes wrong."
+walmart,2017-5,"Jorgensen also shared a recent development in which federal agencies have contacted the Bentonville, Arkansas-based retailer about compliance programs."
+walmart,2017-5,"""Over the past couple of months ... some of the federal agencies have reached out to say 'hey do you have any feedback for us, anything we are doing is unreasonable?,'"" Jorgensen said."
+walmart,2017-5,"Wal-Mart has given feedback to federal agencies and will continue doing so and the company would also be open to speaking with state regulators about compliance, he said."
+walmart,2017-5,Jorgensen cited an example of how a broken baby shampoo bottle in California is treated as hazardous waste that retailers have to dispose off through an incinerator.
+walmart,2017-5,"""We would love it if California would say 'hey we would like some feedback,"" Jorgensen said."
+walmart,2017-5,"Jorgensen, who joined Wal-Mart in 2012, has been instrumental in revamping Wal-Mart's compliance systems around the world and building a dedicated ethics and compliance team. That team has a staff of over 2,300, including over 500 in the United States and over 1,800 in international markets."
+walmart,2017-5,"Since 2013, Wal-Mart has invested more than $141 million in global ethics and compliance systems, Jorgensen said."
+walmart,2017-5,"More recently, Wal-Mart has created licensing teams that monitor the more than 56,000 licenses and permits Wal-Mart needs to operate in global markets using a centralized licensing system that reduces the error of wrongdoing and increases transparency, he said."
+walmart,2017-5,"For the last four years, the Wal-Mart board's compensation committee has conditioned a portion of its most senior executives' compensation on making adequate progress toward annual compliance goals. In its latest compliance report, Wal-Mart said it has achieved over 200 of these board-level objectives, including over 60 that relate specifically to its anti-corruption program."
+walmart,2017-5,Wal-Mart's ethics and compliance system came into focus after a New York Times report in 2012 found Wal-Mart had engaged in a multi-year bribery campaign to build its Wal-Mart de Mexico business.
+walmart,2017-5,"This was followed by an investigation by the U.S. Department of Justice into potential misconduct by Wal-Mart, including violations of the Foreign Corrupt Practices Act in some overseas markets including China, Brazil, India and Mexico. In October, Wal-Mart rebuffed a proposal by U.S. prosecutors to pay at least $600 million to settle a corruption probe into the company's practices in markets including Mexico, India and China."
+walmart,2017-5,So far Wal-Mart has spent about $800 million on legal fees and an internal investigation into the alleged payments and to revamp its compliance systems around the world.
+walmart,2017-5,-- Note: Reuters has not verified this story and does not vouch for its accuracy
+walmart,2017-5,{{20170503T104747.112+0000}}UPDATE 2-Sainsbury's warns challenging UK market means long wait for profit growth* Sainsbury's posts third straight fall in annual profit
+walmart,2017-5,"LONDON, May 3 (Reuters) - British supermarket Sainsbury's warned a challenging market meant it could take up to five years to deliver sustainable profit growth, despite a robust performance from general retailer Argos which it bought last year."
+walmart,2017-5,"Sainsbury's, which trails market leader Tesco in annual sales, reported a third straight fall in annual profit on Wednesday, hurt by price cuts and cost inflation, and confirmed analysts' forecasts for another decline in 2017-18."
+walmart,2017-5,"Last year Sainsbury's expanded in areas such as electrical goods when it bought Argos-owner Home Retail for 1.1 billion pounds ($1.42 billion), which it said has gone well so far."
+walmart,2017-5,"""Our job is to build a business for the future,"" said Chief Executive Mike Coupe, who outlined his strategy for the business two and a half years ago."
+walmart,2017-5,"Shares in Sainsbury's were down 5 percent at 265.5 pence at 1034 GMT, valuing the business at 5.8 billion pounds and taking the year on year decline to nearly 7 percent."
+walmart,2017-5,"""The UK grocery industry is one of the most challenging, if not the most challenging, in the world ... (but) we think over a three to five year period we can deliver strong and steady profit growth,"" he told reporters."
+walmart,2017-5,Sainsbury's said Argos contributed a better than expected profit of 77 million pounds in the second half and would deliver a 160 million pounds boost to earnings six months early. It also said it would speed up a plan to open 250 Argos Digital stores in its supermarkets.
+walmart,2017-5,"Sainsbury's made an underlying pretax profit of 581 million pounds in the year to March 11, down from 587 million pounds made the year before. The average forecast by analysts was 578 million pounds."
+walmart,2017-5,"The result reflected intense price competition, driven by German discounters Aldi and Lidl, as well as cost inflation, offset by cost savings of 130 million pounds and the contribution from Argos."
+walmart,2017-5,"Group sales rose 12.7 percent to 29.1 billion pounds, but Sainsbury's' own like-for-like sales fell 0.6 percent. [nL5N1GT18G]"
+walmart,2017-5,"""Unlike its domestic rivals Tesco and Morrisons , like-for-like sales at Sainsbury' have remained stubbornly negative recently. Lower prices, weaker margins and a falling market share. Not a good combination,"" said George Salmon, equity analyst at Hargreaves Lansdown."
+walmart,2017-5,Morrisons and Tesco are both in turnaround mode after going through disastrous periods while Sainsbury's market share has remained broadly stable over the last five years.
+walmart,2017-5,"Some analysts believe Sainsbury's is vulnerable to further price cuts by Tesco and a recovering Asda and the supermarket's Chief Financial Officer Kevin O'Byrne said he was comfortable with an average profit forecast of 573 million pounds for 2017-18, meaning a drop for yet another year."
+walmart,2017-5,Some analysts also say Argos increases Sainsbury's exposure to the threat of Amazon [AMZN.O] and to higher import costs at a time when pressure on discretionary purchases is building as inflation grows and wage growth is muted. ($1 = 0.7736 pounds)
+walmart,2017-5,{{20170503T100536.614+0000}}UPDATE 1-British grocery sales jump on higher inflation and Easter(Adds table)
+walmart,2017-5,"3.7 percent in the 12 weeks to April 23, the fastest rate since"
+walmart,2017-5,retailers were in growth for the first time in three-and-a-half
+walmart,2017-5,years. Grocery prices jumped 2.6 percent year-on-year in the
+walmart,2017-5,"period, up from the 2.3 percent recorded in the 12 weeks to"
+walmart,2017-5,marked the first year-on-year sales rise since October 2014.
+walmart,2017-5,"The results were boosted by the timing of Easter, which fell"
+walmart,2017-5,"{{20170503T071650.437+0000}}British grocery sales jump on higher inflation and EasterLONDON, May 3 (Reuters) - Britain's grocery market grew by 3.7 percent in the 12 weeks to April 23, the fastest rate since September 2013, driven by Britons splashing out on food at Easter and inflation edging higher, industry data showed on Wednesday."
+walmart,2017-5,"Market researcher Kantar Worldpanel said all 10 major retailers were in growth for the first time in three-and-a-half years. Grocery prices jumped 2.6 percent year-on-year in the period, up from the 2.3 percent recorded in the 12 weeks to March 26."
+walmart,2017-5,"Market leader Tesco posted growth of 1.9 percent while Sainsbury's grew by 1.7 percent, Asda grew by 0.8 percent and Morrisons grew by 2.2 percent. Asda's growth marked the first year-on-year sales rise since October 2014."
+walmart,2017-5,"The results were boosted by the timing of Easter, which fell later than normal this year."
+walmart,2017-5,"{{20170501T111433.999+0000}}RPT-BUZZ-U.S. stocks weekly: Heavyweights pack on the pounds(Repeats from Friday, no changes to text)"
