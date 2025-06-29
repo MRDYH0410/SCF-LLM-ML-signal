@@ -1,5 +1,0 @@
-Feature Group,Mean SHAP Value,Share of Total (%),Ranking
-"Digital Capabilities ($R_{i,t}$)",8.187661076131205,51.7%,1
-"Financial Fundamentals ($Z_{i,t}$)",4.0940706785638525,25.8%,2
-Macroeconomic Variables ($M_t$),3.5679370471228613,22.5%,3
-Interaction Terms,0.0,0.0%,4

@@ -19,9 +19,9 @@
     3. 与财务/宏观拼接 → 模型估值 → SHAP解释
 """
 
-from LLM_signal_generation.run_pipeline import run_pipeline
 from digital_asset_valuation.digital_state_estimator import run_state_estimation, run_state_estimation_with_trace, \
-    plot_state_traces, plot_kalman_gain_heatmap, plot_kalman_process_graph
+    plot_state_traces, plot_kalman_gain_heatmap, plot_kalman_process_graph, generate_table_state_summary, \
+    generate_table_dim_summary
 from digital_asset_valuation.valuation import compute_valuation_model_with_shap, \
     plot_feature_importance, save_model_to_disk
 
@@ -40,11 +40,11 @@ if __name__ == "__main__":
     df_R = pd.read_csv("../LLM_signal_generation/output/aggregated_result_v2.csv")
     print(df_R.head())
 
-    score_cols = ['executive', 'brand', 'patent', 'crypto', 'reputation']
+    score_cols = ['leadership', 'brand', 'patent', 'crypto', 'reputation']
     score_cols = [col for col in score_cols if col in df_R.columns]
 
     firm_cols = ['Brunswick', 'Chevron', 'Civmec', 'ConocoPhillips', 'Exxon', 'Ford Motor', 'General Electric',
-                 'General Motors', 'HubSpot', 'ServiceNow', 'Sinopec Group', 'walmart', 'tesla']
+                 'General Motors', 'HubSpot', 'ServiceNow', 'walmart', 'tesla']
 
     print("\n🔁 Step 1: 状态估计 - Kalman Filter")
     # df_theta = run_state_estimation(df_R, score_cols)
@@ -65,9 +65,15 @@ if __name__ == "__main__":
     # 可选：展示因果结构图
     plot_kalman_process_graph(score_cols)
 
+    # 表4：每公司每期 θ 的均值和标准差
+    generate_table_state_summary(df_theta, score_cols)
+
+    # 表5：跨公司，reputation维度
+    generate_table_dim_summary(trace_records, dim_name="reputation", score_cols=score_cols)
+
     print("\n📎 Step 2: 拼接经济指标（财务 + 宏观）")
-    df_econ = pd.read_csv("data_process/cleaned_input/economic_indicators.csv")
-    df_macro = pd.read_csv("data_process/cleaned_input/macro_indicators.csv")
+    df_econ = pd.read_csv("data_process/final_input/economic_indicators.csv")
+    df_macro = pd.read_csv("data_process/final_input/macro_indicators.csv")
 
     # 合并经济指标
     df_external = df_econ.merge(df_macro, on=["firm_id", "date"], how="outer")
@@ -75,6 +81,7 @@ if __name__ == "__main__":
 
     # 检查缺失
     print("\n🔍 合并后缺失值预览:")
+    # df_theta.to_csv("merged_with_missing.csv", index=False)
     print(df_theta.isnull().sum())
 
     print("\n📐 Step 3: 构造 market_value (用于训练目标变量，可替换为真实估值)")
@@ -83,7 +90,7 @@ if __name__ == "__main__":
             18 * df_theta["theta_patent"] +
             12 * df_theta["theta_crypto"] +
             14 * df_theta["theta_reputation"] +
-            16 * df_theta["theta_executive"] +
+            16 * df_theta["theta_leadership"] +
             60 * df_theta["roe"] +
             20 * df_theta["gross_margin"] -
             25 * df_theta["debt_ratio"] -
@@ -97,7 +104,7 @@ if __name__ == "__main__":
     # ✅ 选择所有维度 + 财务 + 宏观作为特征
     feature_cols = [
         "theta_brand", "theta_patent", "theta_crypto",
-        "theta_reputation", "theta_executive",
+        "theta_reputation", "theta_leadership",
         "roe", "debt_ratio", "gross_margin", "inventory_turnover",
         "current_ratio", "cash_shortterm", "total_assets",
         "interest_rate", "inflation_rate", "policy_uncertainty_index",
@@ -124,7 +131,7 @@ if __name__ == "__main__":
     generate_shap_summary_bar(shap_values, X_train)  # 图 5
 
     generate_shap_group_table(shap_values, X_train)  # 表 4
-    plot_shap_force_plot(model, X_train, sample_index=0)  # 图 6
+    plot_shap_force_plot(model, X_train, 0)  # 图 6
 
     save_model_to_disk(model)
 

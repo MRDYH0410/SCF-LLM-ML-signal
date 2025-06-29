@@ -150,51 +150,58 @@ def run_state_estimation_with_trace(df: pd.DataFrame, score_cols: list,
 def plot_state_traces(trace_records, score_cols, firm_name):
     """
     可视化 Kalman 状态估计过程（Prior vs Posterior）
+    使用点 + 误差棒方式展示 Posterior，Prior 为平滑虚线趋势
     - trace_records: run_state_estimation_with_trace 中返回的 trace 列表
     - score_cols: 所有维度名
-    - firm_id: 可选，只画某公司
+    - firm_name: 只画某公司
     """
-
-    # 👉 打印调试信息
-    # print("✅ trace_records 示例：", trace_records[:1])
-    # print("✅ 维度名 score_cols：", score_cols)
-
-    # 1. 构造 DataFrame
+    # 构造 DataFrame
     df_trace = pd.DataFrame(trace_records)
 
-    # 2. 修复日期格式
+    # 修复日期格式
     df_trace["date"] = pd.to_datetime(
         df_trace["date"].astype(str).str.strip().str.replace(r"-([1-9])$", r"-0\1", regex=True),
         format="%Y-%m",
         errors="coerce"
     )
-    df_trace = df_trace.dropna(subset=["date"])  # 避免画图失败
+    df_trace = df_trace.dropna(subset=["date"])
 
-    # 3. 过滤指定公司
+    # 过滤指定公司
     df_trace = df_trace[df_trace["firm_id"] == firm_name]
     if df_trace.empty:
         all_firms = pd.DataFrame(trace_records)["firm_id"].unique()
         print(f"⚠️ 公司 '{firm_name}' 不存在 trace 中。可选公司名包括：{list(all_firms)}")
         return
 
-    # 4. 检查 trace 是否有效
-    if df_trace.empty or not {"mu_pred", "mu_post"}.issubset(df_trace.columns):
-        print("⚠️ No valid data to plot.")
+    # 每月仅保留最后一个记录
+    df_trace = df_trace.sort_values("date")
+    df_trace = df_trace.groupby("date").tail(1).reset_index(drop=True)
+
+    # 检查必要字段
+    required_fields = {"mu_pred", "mu_post"}
+    if df_trace.empty or not required_fields.issubset(df_trace.columns):
+        print("⚠️ No valid data to plot or missing required fields (mu_pred, mu_post).")
         return
 
-    # 5. 准备画布
+    # 若无 sigma_post 则补默认值
+    if "sigma_post" not in df_trace.columns:
+        dim_len = len(df_trace["mu_post"].iloc[0]) if len(df_trace) > 0 else len(score_cols)
+        df_trace["sigma_post"] = df_trace["mu_post"].apply(lambda x: [0.01] * dim_len)
+
+    # 准备画布
     fig, axs = plt.subplots(len(score_cols), 1, figsize=(10, 3 * len(score_cols)), sharex=True)
-
     if len(score_cols) == 1:
-        axs = [axs]  # 统一处理
+        axs = [axs]
 
-    # 6. 分别绘图
+    # 绘图
     for i, dim in enumerate(score_cols):
         mu_preds = df_trace["mu_pred"].apply(lambda x: x[i] if isinstance(x, (list, np.ndarray)) and len(x) > i else np.nan)
         mu_posts = df_trace["mu_post"].apply(lambda x: x[i] if isinstance(x, (list, np.ndarray)) and len(x) > i else np.nan)
+        sigmas = df_trace["sigma_post"].apply(lambda x: x[i] if isinstance(x, (list, np.ndarray)) and len(x) > i else np.nan)
 
-        axs[i].plot(df_trace["date"], mu_preds, linestyle="--", label="Prior (μ_pred)")
-        axs[i].plot(df_trace["date"], mu_posts, linestyle="-", label="Posterior (μ_post)")
+        axs[i].plot(df_trace["date"], mu_preds, linestyle="--", color="tab:blue", label="Prior (μ_pred)")
+        axs[i].errorbar(df_trace["date"], mu_posts, yerr=sigmas, fmt='o-', color="tab:orange",
+                        label="Posterior (μ_post)", capsize=3)
 
         axs[i].set_title(f"{firm_name}'s Kalman State θ_{dim}")
         axs[i].legend()
@@ -253,7 +260,60 @@ def plot_kalman_process_graph(score_cols):
     plt.savefig(filepath)
     # plt.show()
 
+def generate_table_state_summary(state_df: pd.DataFrame, score_cols: list, output_path="output/bayesion/table4_summary.csv"):
+    """
+    生成 Table 4：每个公司在每个时间点的 θ 均值和标准差摘要
+    """
+    state_df["time_index"] = state_df.groupby("firm_id").cumcount()
+    summary_records = []
 
+    for firm_id, group in state_df.groupby("firm_id"):
+        for t, row in group.iterrows():
+            theta_values = [row[f"theta_{col}"] for col in score_cols]
+            mean_theta = np.mean(theta_values)
+            std_theta = np.std(theta_values)
+            summary_records.append({
+                "firm_id": firm_id,
+                "time_index": row["time_index"],
+                "mean_theta": round(mean_theta, 3),
+                "std_theta": round(std_theta, 3)
+            })
+
+    df_summary = pd.DataFrame(summary_records)
+    df_summary.to_csv("output/bayesion/table_statesummary.csv", index=False)
+    return df_summary
+
+def generate_table_dim_summary(trace_records: list, dim_name="reputation", score_cols=None):
+    """
+    生成 Table 5：对特定维度，跨公司、时间点汇总 μ_t 和协方差 trace
+    """
+    if score_cols is None:
+        raise ValueError("score_cols is required")
+
+    dim_index = score_cols.index(dim_name)
+    df_trace = pd.DataFrame(trace_records)
+
+    df_trace["time_index"] = df_trace.groupby("firm_id").cumcount()
+
+    # 聚合：按 time_index
+    grouped = df_trace.groupby("time_index")
+    table5_data = []
+    for t, group in grouped:
+        mus = group["mu_post"].apply(
+            lambda x: x[dim_index] if isinstance(x, (list, np.ndarray)) else np.nan).dropna()
+        sigmas = group["K_gain"].apply(
+            lambda K: K[dim_index, dim_index] if isinstance(K, np.ndarray) else np.nan).dropna()
+        # 此处 trace_Σ ≈ 对应对角线元素近似
+        table5_data.append({
+            "time_index": t,
+            "mean_mu": round(mus.mean(), 3),
+            "std_mu": round(mus.std(), 3),
+            "trace_sigma": round(sigmas.mean(), 4)  # 简化近似
+        })
+
+    df_table5 = pd.DataFrame(table5_data)
+    df_table5.to_csv("output/bayesion/table_dim_summary.csv", index=False)
+    return df_table5
 
 # ✅ 示例
 if __name__ == "__main__":
