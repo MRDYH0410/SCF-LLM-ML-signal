@@ -147,16 +147,20 @@ def run_state_estimation_with_trace(df: pd.DataFrame, score_cols: list,
 
     return pd.DataFrame(results), trace_records
 
-def plot_state_traces(trace_records, score_cols, firm_name):
+
+def plot_state_traces(trace_records, score_cols, firm_name, firm_cols):
     """
     可视化 Kalman 状态估计过程（Prior vs Posterior）
     使用点 + 误差棒方式展示 Posterior，Prior 为平滑虚线趋势
     - trace_records: run_state_estimation_with_trace 中返回的 trace 列表
     - score_cols: 所有维度名
     - firm_name: 只画某公司
+    - firm_cols: 公司集合
     """
     # 构造 DataFrame
     df_trace = pd.DataFrame(trace_records)
+
+    firm_index = firm_cols.index(firm_name)
 
     # 修复日期格式
     df_trace["date"] = pd.to_datetime(
@@ -203,7 +207,7 @@ def plot_state_traces(trace_records, score_cols, firm_name):
         axs[i].errorbar(df_trace["date"], mu_posts, yerr=sigmas, fmt='o-', color="tab:orange",
                         label="Posterior (μ_post)", capsize=3)
 
-        axs[i].set_title(f"{firm_name}'s Kalman State θ_{dim}")
+        axs[i].set_title(f"Firm {firm_index}'s Kalman State θ_{dim}")
         axs[i].legend()
         axs[i].grid(True)
 
@@ -211,7 +215,7 @@ def plot_state_traces(trace_records, score_cols, firm_name):
     os.makedirs("output/bayesion", exist_ok=True)
     filepath = f"output/bayesion/{firm_name}_Kalman_State.png"
     plt.savefig(filepath, dpi=300)
-    # plt.show()
+#     # plt.show()
 
 def plot_kalman_gain_heatmap(trace_records, score_cols, step=-1):
     K = trace_records[step]["K_gain"]

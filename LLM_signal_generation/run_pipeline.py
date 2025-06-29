@@ -48,7 +48,8 @@ def run_pipeline(records: List[Dict]) -> pd.DataFrame:
     for record in records:
         firm_id = record["firm_id"]
         raw_date = record["date"]
-        date = raw_date[:7]
+        # date = raw_date[:7]
+        date = raw_date.strip()
         text = record["text"]
 
         firm_date_key = (firm_id, date)
