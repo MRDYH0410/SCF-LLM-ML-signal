@@ -159,6 +159,21 @@ def plot_shap_force_plot(model, X_train, sample_index):
     plt.savefig(f"output/valuation/SHAP Force-like Plot.png")
     plt.close()
 
+def generate_prediction_gap_table(df_full: pd.DataFrame, model, feature_cols: list):
+    df = df_full.copy()
+    X = df[feature_cols]
+    y_true = df["market_value"]
+    y_pred = model.predict(X)
+
+    gap_df = df[["firm_id", "date"]].copy()
+    gap_df["true_value"] = y_true
+    gap_df["predicted_value"] = y_pred
+    gap_df["absolute_error"] = np.abs(y_pred - y_true)
+    gap_df["relative_error (%)"] = 100 * gap_df["absolute_error"] / (y_true.replace(0, np.nan))
+
+    gap_df = gap_df.sort_values("absolute_error", ascending=False)  # 可选排序
+    gap_df.to_csv('output/valuation/prediction_gap_table.csv', index=False)
+
 
 # ⬇️ 保存模型函数
 def save_model_to_disk(model, path="valuation_model_lgbm.pkl"):

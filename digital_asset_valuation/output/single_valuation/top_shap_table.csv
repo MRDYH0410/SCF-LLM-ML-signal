@@ -1,0 +1,16 @@
+Model,Feature,Mean(|SHAP|)
+Digital,theta_patent,23.1969
+Digital,theta_brand,11.878
+Digital,theta_leadership,8.6268
+Financial,gross_margin,23.6909
+Financial,inventory_turnover,9.0718
+Financial,total_assets,8.6323
+Macro,commodity_index,11.4785
+Macro,policy_uncertainty_index,9.6728
+Macro,interest_rate,7.0864
+Total,gross_margin,26.6197
+Total,total_assets,6.2002
+Total,inventory_turnover,5.6593
+Combined,gross_margin,23.8326
+Combined,inventory_turnover,8.7294
+Combined,total_assets,7.7167

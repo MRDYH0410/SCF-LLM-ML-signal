@@ -23,7 +23,7 @@ from digital_asset_valuation.digital_state_estimator import run_state_estimation
     plot_state_traces, plot_kalman_gain_heatmap, plot_kalman_process_graph, generate_table_state_summary, \
     generate_table_dim_summary
 from digital_asset_valuation.valuation import compute_valuation_model_with_shap, \
-    plot_feature_importance, save_model_to_disk
+    plot_feature_importance, generate_prediction_gap_table, save_model_to_disk
 
 from digital_asset_valuation.valuation import plot_prediction_vs_actual, plot_residuals_vs_actual, \
     generate_shap_dependence_plot, generate_shap_summary_bar, \
@@ -83,7 +83,7 @@ if __name__ == "__main__":
     print("\n🔍 合并后缺失值预览:")
     # df_theta.to_csv("merged_with_missing.csv", index=False)
     print(df_theta.isnull().sum())
-
+    #
     # print("\n📐 Step 3: 构造 market_value (用于训练目标变量，可替换为真实估值)")
     # df_theta["market_value"] = (
     #         40 + 22 * df_theta["theta_brand"] +
@@ -101,22 +101,25 @@ if __name__ == "__main__":
 
     print("\n📐 Step 3: 引入真实 market_value（股价收盘）")
     df_price = pd.read_csv("y_value/input/economic_indicators.csv", encoding="utf-16")
-    df_price["date"] = pd.to_datetime(
-        df_price["date"].astype(str).str.strip().str.replace(r"-([1-9])$", r"-0\1", regex=True), format="%Y-%m")
-    df_theta["date"] = pd.to_datetime(df_theta["date"])
 
-    print("\n📎 Step 4: 构建估值模型输入数据（拼接财务 + 宏观）")
+    # 👉 保持 date 字段为原始字符串（如 2017-1），避免 datetime 格式丢失匹配
+    df_price["date"] = df_price["date"].astype(str).str.strip()
 
-    # reshape price data to long format
+    # 转为 long format
     df_price_long = df_price.melt(id_vars="date", var_name="firm_id", value_name="market_value")
+    df_price_long["firm_id"] = df_price_long["firm_id"].astype(str).str.strip()
+
+    df_theta["date"] = df_theta["date"].astype(str).str.strip()
 
     # merge to df_theta
-    df_theta = df_theta.drop(columns=["market_value"], errors="ignore")
     df_theta = df_theta.merge(df_price_long, on=["firm_id", "date"], how="left")
+    print("🧪 缺失的 market_value 数量：", df_theta["market_value"].isna().sum())
+    df_theta = df_theta.dropna(subset=["market_value"])  # 可选：避免后续 MSE 报错
 
     print("\n🧪 检查真实 market_value 缺失值:")
     print(df_theta["market_value"].isnull().sum())
 
+    print("\n📎 Step 4: 构建估值模型输入数据（拼接财务 + 宏观）")
     # ✅ 选择所有维度 + 财务 + 宏观作为特征
     feature_cols = [
         "theta_brand", "theta_patent", "theta_crypto",
@@ -124,7 +127,7 @@ if __name__ == "__main__":
         "roe", "debt_ratio", "gross_margin", "inventory_turnover",
         "current_ratio", "cash_shortterm", "total_assets",
         "interest_rate", "inflation_rate", "policy_uncertainty_index",
-        "sector_sentiment_index", "commodity_index"
+        "commodity_index"
     ]
     target_col = "market_value"
 
@@ -148,6 +151,8 @@ if __name__ == "__main__":
 
     generate_shap_group_table(shap_values, X_train)  # 表 4
     plot_shap_force_plot(model, X_train, 0)  # 图 6
+
+    generate_prediction_gap_table(df_theta, model, feature_cols)
 
     save_model_to_disk(model)
 
