@@ -1,0 +1,145 @@
+firm_id,time_index,mean_theta,std_theta
+Brunswick,0,-0.065,0.515
+Brunswick,1,-0.071,0.501
+Brunswick,2,-0.101,0.518
+Brunswick,3,-0.088,0.475
+Brunswick,4,-0.082,0.518
+Brunswick,5,-0.07,0.506
+Brunswick,6,-0.059,0.524
+Brunswick,7,-0.073,0.514
+Brunswick,8,-0.1,0.52
+Brunswick,9,-0.102,0.498
+Brunswick,10,-0.135,0.518
+Brunswick,11,-0.128,0.529
+Chevron,0,-0.254,0.533
+Chevron,1,-0.197,0.565
+Chevron,2,-0.231,0.56
+Chevron,3,-0.252,0.545
+Chevron,4,-0.253,0.503
+Chevron,5,-0.246,0.507
+Chevron,6,-0.24,0.527
+Chevron,7,-0.248,0.544
+Chevron,8,-0.253,0.524
+Chevron,9,-0.283,0.533
+Chevron,10,-0.275,0.522
+Chevron,11,-0.277,0.518
+Civmec,0,0.026,0.656
+Civmec,1,-0.051,0.601
+Civmec,2,-0.009,0.596
+Civmec,3,0.011,0.609
+Civmec,4,-0.006,0.596
+Civmec,5,0.027,0.637
+Civmec,6,0.001,0.623
+Civmec,7,-0.004,0.585
+Civmec,8,0.007,0.578
+Civmec,9,0.027,0.594
+Civmec,10,0.029,0.62
+Civmec,11,0.042,0.622
+ConocoPhillips,0,-0.104,0.702
+ConocoPhillips,1,-0.111,0.708
+ConocoPhillips,2,-0.116,0.718
+ConocoPhillips,3,-0.115,0.676
+ConocoPhillips,4,-0.105,0.661
+ConocoPhillips,5,-0.116,0.69
+ConocoPhillips,6,-0.119,0.681
+ConocoPhillips,7,-0.12,0.711
+ConocoPhillips,8,-0.114,0.671
+ConocoPhillips,9,-0.12,0.667
+ConocoPhillips,10,-0.109,0.667
+ConocoPhillips,11,-0.108,0.631
+Exxon,0,-0.255,0.49
+Exxon,1,-0.256,0.477
+Exxon,2,-0.275,0.499
+Exxon,3,-0.25,0.475
+Exxon,4,-0.252,0.486
+Exxon,5,-0.264,0.509
+Exxon,6,-0.267,0.489
+Exxon,7,-0.284,0.509
+Exxon,8,-0.266,0.487
+Exxon,9,-0.282,0.5
+Exxon,10,-0.287,0.525
+Exxon,11,-0.276,0.504
+Ford Motor,0,-0.113,0.648
+Ford Motor,1,-0.102,0.644
+Ford Motor,2,-0.12,0.64
+Ford Motor,3,-0.104,0.649
+Ford Motor,4,-0.087,0.649
+Ford Motor,5,-0.06,0.626
+Ford Motor,6,-0.064,0.619
+Ford Motor,7,-0.017,0.632
+Ford Motor,8,0.001,0.608
+Ford Motor,9,-0.013,0.597
+Ford Motor,10,-0.019,0.619
+Ford Motor,11,-0.054,0.582
+General Electric,0,-0.029,0.625
+General Electric,1,-0.01,0.599
+General Electric,2,-0.032,0.592
+General Electric,3,-0.07,0.565
+General Electric,4,-0.087,0.565
+General Electric,5,-0.087,0.595
+General Electric,6,-0.075,0.596
+General Electric,7,-0.113,0.518
+General Electric,8,-0.109,0.525
+General Electric,9,-0.045,0.574
+General Electric,10,-0.055,0.595
+General Electric,11,-0.065,0.63
+General Motors,0,-0.119,0.669
+General Motors,1,-0.11,0.648
+General Motors,2,-0.096,0.62
+General Motors,3,-0.044,0.597
+General Motors,4,-0.062,0.622
+General Motors,5,-0.062,0.618
+General Motors,6,-0.062,0.629
+General Motors,7,-0.066,0.616
+General Motors,8,-0.051,0.65
+General Motors,9,-0.059,0.614
+General Motors,10,-0.04,0.63
+General Motors,11,-0.071,0.594
+HubSpot,0,-0.159,0.503
+HubSpot,1,-0.152,0.495
+HubSpot,2,-0.15,0.493
+HubSpot,3,-0.136,0.494
+HubSpot,4,-0.139,0.473
+HubSpot,5,-0.148,0.476
+HubSpot,6,-0.159,0.498
+HubSpot,7,-0.152,0.48
+HubSpot,8,-0.166,0.463
+HubSpot,9,-0.161,0.49
+HubSpot,10,-0.146,0.483
+HubSpot,11,-0.142,0.468
+ServiceNow,0,-0.166,0.591
+ServiceNow,1,-0.194,0.531
+ServiceNow,2,-0.173,0.53
+ServiceNow,3,-0.163,0.576
+ServiceNow,4,-0.185,0.56
+ServiceNow,5,-0.178,0.55
+ServiceNow,6,-0.201,0.537
+ServiceNow,7,-0.18,0.567
+ServiceNow,8,-0.172,0.537
+ServiceNow,9,-0.197,0.508
+ServiceNow,10,-0.168,0.544
+ServiceNow,11,-0.19,0.537
+tesla,0,-0.071,0.642
+tesla,1,-0.126,0.593
+tesla,2,-0.094,0.598
+tesla,3,-0.145,0.557
+tesla,4,-0.105,0.594
+tesla,5,-0.083,0.597
+tesla,6,-0.066,0.565
+tesla,7,-0.075,0.588
+tesla,8,-0.06,0.58
+tesla,9,-0.098,0.572
+tesla,10,-0.069,0.584
+tesla,11,-0.117,0.572
+walmart,0,0.034,0.629
+walmart,1,0.068,0.654
+walmart,2,0.1,0.688
+walmart,3,0.091,0.649
+walmart,4,0.005,0.566
+walmart,5,0.022,0.588
+walmart,6,0.005,0.591
+walmart,7,0.032,0.577
+walmart,8,-0.015,0.557
+walmart,9,-0.018,0.576
+walmart,10,0.034,0.586
+walmart,11,0.067,0.623

@@ -1,0 +1,557 @@
+firm_id,date,text
+Tesla,2025-5(29-30),23:56:12  [NEWYOT] (TSLA.O) - Tesla to Elon: Time to return to work -
+Tesla,2025-5(29-30),23:54:51  [NEWUSN] (TSLA.O) - How Tesla's investment commitment under Trump 2.0 compares to the other 100+ companies -
+Tesla,2025-5(29-30),23:49:13  [LIVEMI] (TSLA.O) - Donald Trump-Elon Musk press conference LIVE: US President to hold first presser with Tesla boss after exit announcement -
+Tesla,2025-5(29-30),23:47:32  [GURCOM] (TSLA.O) - Concerns Rise Over Elon Musk's Alleged Drug Use Amid Tesla (TSLA) Operations | TSLA Stock News -
+Tesla,2025-5(29-30),"23:37:53  [TRADAJ] (TSLA.O) - Sage Capital Advisors llc Raises Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"23:37:22  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Versant Capital Management Inc -"
+Tesla,2025-5(29-30),"23:37:10  [NEWBIH] (TSLA.O) - May 29, 2025: Wyatt Investment Research Elon Musk Quits DOGE Launches Robo AI Initiative -"
+Tesla,2025-5(29-30),"A decade ago, Apple was the largest company in the US with a market cap of $750 Billion."
+Tesla,2025-5(29-30),23:12:00  [INDEPE] (TSLA.O) - 'Elon is terrific': Trump holding press conference to celebrate Tesla CEO's 'last day' at the White House -
+Tesla,2025-5(29-30),"23:08:57  [RTRS] (ZS.O XYL.N) - U.S. STOCKS ON THE MOVE-Tesla, Apple, Airbnb (BUZZ) -"
+Tesla,2025-5(29-30),"23:03:26  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by First County Bank CT -"
+Tesla,2025-5(29-30),23:03:02  [GLOSTO] (TSLA.O) - ICYMI: Traders look to see if Tesla's recent rally will continue -
+Tesla,2025-5(29-30),22:59:10  [WNCOMA] (TSLA.O) - Can Tesla sales recover in Europe amid Elon Musk backlash? Yahoo Finance readers have their say -
+Tesla,2025-5(29-30),"22:57:28  [NEWPEO] (TSLA.O) - Tesla director Ira Ehrenpreis sells shares worth $170.6 million Friday May 30, 2025 -"
+Tesla,2025-5(29-30),"22:57:22  [NEWPEO] (TSLA.O) - Tesla director Kimbal Musk sells shares worth $32.7 million Friday May 30, 2025 -"
+Tesla,2025-5(29-30),22:55:13  [NEWUSN] (TSLA.O TSLA.OQ) - How Tesla Has Fared Since Its Recent Analyst Ratings Changes -
+Tesla,2025-5(29-30),"22:52:51  [GLOBUL] (TSLA.O .NDX) - TESLA - THE NASDAQ PRE-MARKET CONFIRMATORY BULLISH MOMENTUM SIGNAL Friday May 30, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),"22:52:28  [GLOBUL] (TSLA.O .NDX) - Tesla top gainer in Demars Financial Group soars 37.2% in 58 days, hits 111-day high Friday May 30, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),22:48:24  [GLOSTO] (TSLA.O) - Investors look to see if Tesla's recent rally will continue -
+Tesla,2025-5(29-30),22:35:14  [YAHSIN] (TSLA.O) - Can Tesla sales recover in Europe amid Elon Musk backlash? Yahoo Finance readers have their say -
+Tesla,2025-5(29-30),22:34:14  [WNCOMA] (TSLA.O) - SpaceX rocket fails pile on Musk's Tesla troubles -
+Tesla,2025-5(29-30),22:22:19  [YAHUKI] (TSLA.O) - Can Tesla sales recover in Europe amid Elon Musk backlash? Yahoo Finance readers have their say -
+Tesla,2025-5(29-30),22:21:10  [ASITIM] (TSLA.O) - SpaceX rocket fails pile on Musk's Tesla troubles -
+Tesla,2025-5(29-30),22:17:43  [GLOSTO] (TSLA.O) - ICYMI: Traders look to see if Tesla's recent rally will continue -
+Tesla,2025-5(29-30),22:12:17  [WNCOMA] (TSLA.O) - Trump to host Elon Musk for press conference to celebrate Tesla CEO's 'last day' in ... -
+Tesla,2025-5(29-30),"22:09:10  [MIDDAY] (TSLA.O) - Elon Musk, exits Washington, returns to business as Tesla, X, and SpaceX face growing challenges -"
+Tesla,2025-5(29-30),21:59:14  [AUTCOP] (TSLA.O) - WATCH: New Tesla Prototype Spied At Fremont Gigafactory -
+Tesla,2025-5(29-30),21:47:28  [GLOBUL] (TSLA.O .NDX) - Top Performers Monthly: Tesla (TSLA: $358.43) in top 2% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-5(29-30),21:47:26  [GLOBUL] (TSLA.O .NDX) - Top Performers Past Week: Tesla (TSLA: $358.43) in top 4% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(29-30),"21:47:14  [GLOBUL] (TSLA.O .NDX) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $358.43) Friday May 30, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),21:42:52  [WNCOMA] (TSLA.O) - Tesla registrations down 90 per cent in Quebec in 1st quarter of 2025 -
+Tesla,2025-5(29-30),"21:39:43  [INSURA] (TSLA.O) - GAMMA Investing LLC Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"21:35:08  [INVCOA] (TSLA.O) - Why Elon Musk needs Tesla more than ever? Humanoid, BYD and much more on Tesla -"
+Tesla,2025-5(29-30),"21:33:27  [YAHNEX] (TSLA.O) - Tesla shareholders beg for Elon Musk to focus on the company, asking the CEO to work at least 40 hours a week -"
+Tesla,2025-5(29-30),"21:31:49  [YAHUKI] (TSLA.O) - Why Elon Musk needs Tesla more than ever? Humanoid, BYD and much more on Tesla -"
+Tesla,2025-5(29-30),21:29:57  [GLOSTO] (TSLA.O) - Update: Traders look to see if Tesla's recent rally will continue -
+Tesla,2025-5(29-30),21:28:22  [YAHIRE] (TSLA.O) - 'Elon is terrific': Trump holding press conference to celebrate Tesla CEO's 'last day' at the White House -
+Tesla,2025-5(29-30),"21:18:22  [MARBEA] (TSLA.O) - Welch Group LLC Acquires 715 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"21:17:43  [MARBEA] (TSLA.O) - Parallel Advisors LLC Boosts Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"21:17:42  [YAHNEX] (TSLA.O) - Tesla, Inc. (TSLA) Set to Launch Robotaxi Service in Austin on June 12: Bloomberg News -"
+Tesla,2025-5(29-30),21:13:01  [NOTENG] (TSLA.O) - Musk in trouble: China goes after Starlink satellites and could end his dominance for good -
+Tesla,2025-5(29-30),21:11:38  [RTRS] (TSLA.O) - Tesla eases from 16-week high; Musk-Trump news conference on deck (BUZZ) -
+Tesla,2025-5(29-30),21:08:12  [FORONL] (TSLA.O) - Here's what Elon Musk's DOGE tenure has done for his net worth -
+Tesla,2025-5(29-30),"21:07:17  [WNCOMA] (TSLA.O) - So long, Elon: the cuts didn't go to plan, but you completely shredded your reputation ... -"
+Tesla,2025-5(29-30),"20:57:17  [INVCOM] (TSLA.O) - Why Elon Musk needs Tesla more than ever? Humanoid, BYD and much more on Tesla -"
+Tesla,2025-5(29-30),20:53:35  [PCMCOM] (TSLA.O) - Report: Tesla's Robotaxi Service Will Launch on June 12 in Austin -
+Tesla,2025-5(29-30),"20:51:45  [MARBEA] (TSLA.O) - GoalVest Advisory LLC Increases Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"20:51:11  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by GoalVest Advisory LLC -"
+Tesla,2025-5(29-30),"20:51:07  [DAILYQ] (TSLA.O) - GoalVest Advisory LLC Increases Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"20:49:14  [NEWUSN] (TSLA.O .NDX) - Tesla rises for a second consecutive day, a two-day rise of 7.0% Wednesday, May 28, 2025 10:00:00 -"
+Tesla,2025-5(29-30),"20:46:16  [DAIPOL] (TSLA.O) - GoalVest Advisory LLC Increases Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"20:07:34  [ZACKSC] (TSLA.O NVDA.O) - Zacks Investment Ideas feature highlights: NVIDIA, Meta Platforms and Tesla -"
+Tesla,2025-5(29-30),"20:00:00  [RTRS] (TSLA.O NVDA.O) - Investors see US stocks rally broadening, even as 'Magnificent Seven' rebound (ANALYSIS) -"
+Tesla,2025-5(29-30),"19:42:38  [TRADAJ] (TSLA.O) - 904 Shares in Tesla, Inc. (NASDAQ:TSLA) Acquired by Hiley Hunt Wealth Management -"
+Tesla,2025-5(29-30),"19:40:15  [MARBEA] (TSLA.O) - 904 Shares in Tesla, Inc. (NASDAQ:TSLA) Acquired by Hiley Hunt Wealth Management -"
+Tesla,2025-5(29-30),"19:28:00  [MOTFOO] (TSLA.O) - Elon Musk Thinks Tesla Will Be the World's Most Valuable Company, but This Huge Problem Could Send Its Stock Plunging by 70% Instead -"
+Tesla,2025-5(29-30),"19:08:19  [CBTNEW] (TSLA.O) - Tesla to launch ""minimum viable robotaxi"" in Austin after delays -"
+Tesla,2025-5(29-30),"19:07:25  [INVEZZ] (TSLA.O) - What awaits Musk at Tesla, SpaceX, and xAI as he steps back from DOGE to re-focus on business -"
+Tesla,2025-5(29-30),19:05:55  [GRECAS] (TSLA.O) - J.D. Power: EV app engagement reaches new highs but brands face pressure to improve speed and reliability; Tesla ranks highest overall -
+Tesla,2025-5(29-30),19:01:18  [FIRSTP] (TSLA.O) - 'Elon is terrific': Trump announces Musk's 'last day' in administration with lavish praise -
+Tesla,2025-5(29-30),18:56:10  [LIVEMI] (TSLA.O) - Musk is back at Tesla. The damage has been done. -
+Tesla,2025-5(29-30),"18:26:16  [IDNFIN] (TSLA.O) - Elon Musk exits DOGE, Tesla shares begin slow recovery -"
+Tesla,2025-5(29-30),"18:19:14  [YAHNEX] (JOBY.N TSLA.O) - These Stocks Moved the Most Today: Nvidia, Tesla, GameStop, Abercrombie & Fitch, DJT, Joby Aviation, Okta, Box, and More -"
+Tesla,2025-5(29-30),18:06:12  [STUFFA] (TSLA.O) - Think your return to the office was rough? Musk faces some big challenges President Donald Trump listens as Elon Musk speaks in the Oval Office at ... -
+Tesla,2025-5(29-30),17:00:17  [NEWSKY] (TSLA.O) - From Tesla tequila to Iron Man inspiration: 7 things you may not know about Elon Musk -
+Tesla,2025-5(29-30),16:37:55  [HANIND] (TSLA.O) - Tesla Adds iPhone Lock Screen Charging Updates and Child Detection Feature -
+Tesla,2025-5(29-30),16:37:40  [HANIND] (TSLA.O) - Tesla Adds iPhone Lock Screen Charging Updates and Child Detection Feature -
+Tesla,2025-5(29-30),16:30:00  [INDAUT] (PRTS.O TSLA.O) - U.S. Auto Recall: Tesla (Tesla) is recalls certain 2026 Model Y vehicles -
+Tesla,2025-5(29-30),"16:17:13  [ECOCOM] (TSLA.O) - Turbulence ahead: Elon Musk exits from DOGE, but now trouble awaits him at Tesla, SpaceX, and X -"
+Tesla,2025-5(29-30),16:02:05  [BENZIN] (TSLA.O) - Elon Musk's Long-Time Lieutenant Exits DOGE As Tesla CEO Steps Down From Government Work: Staffers At Agency Surprised -
+Tesla,2025-5(29-30),16:01:14  [INDTOE] (TSLA.O) - Elon Musk confirms plan to launch Starship to Mars in 2026 -
+Tesla,2025-5(29-30),15:21:17  [PATCHA] (TSLA.O) - Patch AM: Tesla vandalism caught on camera in Athens -
+Tesla,2025-5(29-30),15:12:39  [NOTENG] (TSLA.O) - Tesla to be Musk's 'daughter' beneficiary after split with Trump -
+Tesla,2025-5(29-30),15:05:42  [AUSAME] (TSLA.O) - Investors pen letter saying the Tesla a company in 'crisis' -
+Tesla,2025-5(29-30),14:41:50  [CENAFT] (TSLA.O) - Musk announces his departure from Trump administration to focus on businesses -
+Tesla,2025-5(29-30),14:41:47  [CENAFT] (TSLA.O) - Tesla rises to 2-week highs after Musk's departure from govt. -
+Tesla,2025-5(29-30),13:51:16  [ECOCOM] (TSLA.O 1810.HK) - Xiaomi's Tesla Y rival YU7 hits showrooms in Beijing -
+Tesla,2025-5(29-30),13:51:12  [GUANIG] (TSLA.O) - Musk exits from govt. role after breaking with Trump on tax bill -
+Tesla,2025-5(29-30),13:33:10  [PUSPHI] (TSLA.O) - Elon Musk's rocket-fueled ride with Trump flames out -
+Tesla,2025-5(29-30),13:32:08  [INVCOA] (TSLA.O) - Trump to hold press conference with Musk on Friday; to be Musk's 'last day' -
+Tesla,2025-5(29-30),"13:28:10  [MARBEA] (TSLA.O) - Kimbal Musk Sells 91,588 Shares of Tesla, Inc. (NASDAQ:TSLA) Stock -"
+Tesla,2025-5(29-30),"13:28:09  [MARBEA] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) Director Sells 477,572 Shares of Stock -"
+Tesla,2025-5(29-30),"13:21:27  [AAFN] (TSLA.O 9868.HK) - ResearchCMS Ratings, TPs on Auto Makers/ Parts  (Table) -"
+Tesla,2025-5(29-30),13:13:34  [NOTENG] (TSLA.O) - Tesla rises to two-week highs after Musk's departure from administration -
+Tesla,2025-5(29-30),13:12:06  [NOTENG] (TSLA.O) - Elon Musk leaves Trump administration and ends turbulent term -
+Tesla,2025-5(29-30),12:56:56  [INVCOM] (TSLA.O) - Trump to hold press conference with Musk on Friday; to be Musk's 'last day' -
+Tesla,2025-5(29-30),"12:47:41  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Raised by Franchise Capital Ltd -"
+Tesla,2025-5(29-30),"12:38:06  [ECLCTA] (TSLA.O) - Contract Awarded For Attodry1000 With 9t Magnet And Basic Insert For Sdu for The Purposes Of Our Research, We Require A System Capable Of Performing Under The Following Conditions: ? Magnetic Field: Up To 9 Tesla ? Temperature: Down To 4 Kelvin And Below -"
+Tesla,2025-5(29-30),"12:27:12  [NEWYOX] (TSLA.O) - As Elon Musk Exits Washington, Tesla Investors Demand He Work 40-Hour Weeks as CEO -"
+Tesla,2025-5(29-30),12:13:35  [NOTENG] (TSLA.O) - Musk distances himself from Trump and Tesla stock rallies 8%. -
+Tesla,2025-5(29-30),"12:13:09  [MSNUKA] (TSLA.O) - Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery -"
+Tesla,2025-5(29-30),11:06:56  [GLOSTO] (TSLA.O) - Past Week: Tesla (TSLA: $358.43) in top 4% performers of NASDAQ-100 Index in past week; +$17.39 [5.1%] -
+Tesla,2025-5(29-30),10:56:47  [RTRS] (TSLA.O) - Musk aiming to send uncrewed Starship to Mars by end of 2026 (UPDATE 1) -
+Tesla,2025-5(29-30),10:50:06  [FINSWI] (TSLA.O) - Tesla Begins Driverless Model Y Testing In Austin Ahead Of Anticipated Robotaxi Launch -
+Tesla,2025-5(29-30),10:40:07  [STUFFA] (TSLA.O) - Tesla investors ask board to make Musk work full-time -
+Tesla,2025-5(29-30),"10:38:20  [RTRS] (TSLA.O) - Trump calls Musk ""terrific"" and announces press conference with him Friday (UPDATE 1) -"
+Tesla,2025-5(29-30),"10:30:07  [WNCOMA] (TSLA.O) - Musk, Tesla Object to GOP Megabill's Repeal of Clean Energy Tax Credits -"
+Tesla,2025-5(29-30),10:25:02  [RTRS] (TSLA.O) - Musk aiming to send uncrewed Starship to Mars by end of 2026 -
+Tesla,2025-5(29-30),10:21:42  [RTRS] (TSLA.O) - Trump will have a press conference with Musk in Oval Office on Friday -
+Tesla,2025-5(29-30),10:16:07  [YAHNEX] (TSLA.O 1810.HK) - Tesla rival Xiaomi shows off its new SUV in Beijing -
+Tesla,2025-5(29-30),10:13:36  [NOTENG] (TSLA.O) - Musk announces his departure from Trump administration to focus on businesses -
+Tesla,2025-5(29-30),"10:09:16  [EPOTIM] (TSLA.O) - Musk, Tesla Object to GOP Megabill's Repeal of Clean Energy Tax Credits -"
+Tesla,2025-5(29-30),09:52:13  [STRMLS] (TSLA.O) - OpenAI argues to keep countersuit against Musk in trial over for-profit shift -
+Tesla,2025-5(29-30),09:49:15  [WNCOMA] (TSLA.O) - Tesla's board chairman sold her stocks and earned $254 million recently -
+Tesla,2025-5(29-30),"09:35:40  [PRECIT] (TSLA.O) - As Musk's time at DOGE ends, Tesla shareholders want answers -"
+Tesla,2025-5(29-30),09:32:31  [THEGRD] (TSLA.O) - Fight to stop Tesla project in South Australia to continue after council approval -
+Tesla,2025-5(29-30),09:32:31  [THEGRD] (TSLA.O) - Fight to stop Tesla project in South Australia to continue after council approval -
+Tesla,2025-5(29-30),09:14:09  [RTTNEW] (TSLA.O) - Tesla Begins Driverless Model Y Testing In Austin Ahead Of Anticipated Robotaxi Launch -
+Tesla,2025-5(29-30),"09:12:06  [NOTENG] (TSLA.O) - Tesla shares rise after Musk's exit from government, but investors don't quite believe him -"
+Tesla,2025-5(29-30),09:00:12  [NOVINI] (TSLA.O) - Elon Musk Exits Role in Trump Administration Amidst Corporate and Policy Challenges -
+Tesla,2025-5(29-30),08:58:08  [CAPBRO] (TSLA.O) - Dozens of Tesla vehicles sit in Michigan parking lot. Employees explain why. -
+Tesla,2025-5(29-30),08:46:16  [AAFN] (TSLA.O NVDA.O) - USDJIA Ends Up 117 Pts; Nasdaq Gains Shrink; NVIDIA Soars 3%+ -
+Tesla,2025-5(29-30),08:43:10  [INQNEW] (TSLA.O) - Musk leaves Trump gov't with DOGE goals unmet -
+Tesla,2025-5(29-30),08:40:08  [FINDEH] (TSLA.O) - Tesla Begins Driverless Model Y Testing In Austin Ahead Of Anticipated Robotaxi Launch -
+Tesla,2025-5(29-30),"08:33:07  [GLOSTO] (TSLA.O) - Two-bagger Tesla (TSLA: $358.43) increases $1.53 on weak volume, hits 111-day high; +$1.53 [+0.4%] -"
+Tesla,2025-5(29-30),08:17:18  [NEXBIG] (TSLA.O) - Disguised New Tesla Model at Fremont is 20 Centimeter Shorter Compact Model Y -
+Tesla,2025-5(29-30),08:13:22  [NOTENG] (TSLA.O) - Musk announces departure from Trump administration; Tesla rises to two-week highs -
+Tesla,2025-5(29-30),07:54:09  [INQNEW] (TSLA.O) - Musk leaves Trump gov't with DOGE goals unmet -
+Tesla,2025-5(29-30),06:57:20  [YAHUKI] (TSLA.O) - OpenAI argues to keep countersuit against Musk in trial over for-profit shift -
+Tesla,2025-5(29-30),06:56:13  [YAHNEX] (TSLA.O) - OpenAI argues to keep countersuit against Musk in trial over for-profit shift -
+Tesla,2025-5(29-30),"06:56:12  [CBTNEW] (TSLA.O) - Electric vehicle app engagement reaches new highs but brands face pressure to improve speed and reliability, J.D. Power finds -"
+Tesla,2025-5(29-30),06:55:25  [YAHSIN] (TSLA.O) - OpenAI argues to keep countersuit against Musk in trial over for-profit shift -
+Tesla,2025-5(29-30),06:55:07  [CHAASI] (TSLA.O) - OpenAI argues to keep countersuit against Musk in trial over for-profit shift -
+Tesla,2025-5(29-30),"06:52:29  [YAHNEX] (TSLA.O) - Jim Cramer Says ""Tesla (TSLA), the Tech Company, is Much More Powerful than Tesla the Automaker"" -"
+Tesla,2025-5(29-30),"06:52:23  [GLOSTO] (TSLA.O) - Tesla top gainer in Demars Financial Group soars 37.2% in 58 days, hits 111-day high; +$1.71 [0.5%] -"
+Tesla,2025-5(29-30),"06:50:13  [MSNUKA] (TSLA.O TSLA.OQ) - Musk's White House exit refocuses questions about Tesla, other businesses -"
+Tesla,2025-5(29-30),06:44:35  [RTRS] (TSLA.O) - OpenAI argues to keep countersuit against Musk in trial over for-profit shift -
+Tesla,2025-5(29-30),"06:43:48  [GLOSTO] (TSLA.O) - Two-bagger Tesla (TSLA: $358.43) increases $1.53 on weak volume, hits 111-day high; +$1.53 [+0.4%] -"
+Tesla,2025-5(29-30),06:38:31  [CHRMON] (TSLA.O) - Elon Musk leaves the Trump administration. He vows to spend less money on politics. -
+Tesla,2025-5(29-30),06:37:13  [FUTCOM] (TSLA.O) - The Clock Is Ticking on Elon Musk's Hail Mary to Save Tesla -
+Tesla,2025-5(29-30),06:36:57  [BENZIN] (TSLA.O) - Is Tesla Insurance Losing Money? New Report Says Business Not Sustainable -
+Tesla,2025-5(29-30),"06:30:08  [YAHUKI] (TSLA.O) - Jim Cramer Says ""Tesla (TSLA), the Tech Company, is Much More Powerful than Tesla the Automaker"" -"
+Tesla,2025-5(29-30),"06:27:15  [INSMON] (TSLA.O) - Jim Cramer Says ""Tesla (TSLA), the Tech Company, is Much More Powerful than Tesla the Automaker"" -"
+Tesla,2025-5(29-30),06:26:07  [YAHNEX] (TSLA.O UBER.N) - Why Shares of Uber Are Sinking Today (Hint: It Has to do With Tesla) -
+Tesla,2025-5(29-30),06:22:31  [MOTFOO] (TSLA.O UBER.N) - Why Shares of Uber Are Sinking Today (Hint: It Has to do With Tesla) -
+Tesla,2025-5(29-30),"06:21:51  [GLOSTO] (TSLA.O) - Tesla top gainer in Demars Financial Group soars 37.2% in 58 days, hits 111-day high; +$1.71 [0.5%] -"
+Tesla,2025-5(29-30),06:17:17  [YAHNEX] (TSLA.O) - Tesla (TSLA) Faces Pressure as Musk Ends Government Advisory Role -
+Tesla,2025-5(29-30),06:06:13  [YAHNEX] (TSLA.O) - Tesla shareholders demand CEO Elon Musk work 40 hours per week amid 'crisis' -
+Tesla,2025-5(29-30),06:01:56  [BENZIN] (TSLA.O UBER.N) - What's Going On With Uber Stock Today? -
+Tesla,2025-5(29-30),"05:47:00  [GLOSTO] (TSLA.O) - Tesla top gainer in Demars Financial Group soars 37.2% in 58 days, hits 111-day high; +$1.71 [0.5%] -"
+Tesla,2025-5(29-30),05:37:09  [WNCOMA] (TSLA.O) - Self-driving Tesla plows into dummy it identified as a pedestrian in safety test -
+Tesla,2025-5(29-30),05:36:11  [VERGEA] (TSLA.O) - We still know almost nothing about Tesla's robotaxi service -
+Tesla,2025-5(29-30),05:22:02  [BENZIN] (TSLA.O LYFT.O) - Uber and Lyft shares are trading lower after Tesla CEO Elon Musk said Tesla has been testing self-driving Model Y cars on Austin public streets wit... -
+Tesla,2025-5(29-30),05:21:12  [FUTTRA] (TSLA.O) - GreenCarNewsBreaks - Tesla Inc. (NASDAQ: TSLA) Urges Senate to Preserve Clean Energy Tax Credits Amid Legislative Threats -
+Tesla,2025-5(29-30),05:17:11  [GURCOM] (TSLA.O) - Tesla (TSLA) Announces Robotaxi Launch in Austin | TSLA Stock News -
+Tesla,2025-5(29-30),04:57:39  [GURCOM] (TSLA.O) - Tesla (TSLA) Faces Pressure as Musk Ends Government Advisory Role -
+Tesla,2025-5(29-30),"04:56:14  [EENEWS] (TSLA.O) - Musk, Tesla blast GOP plans to end clean energy tax credits -"
+Tesla,2025-5(29-30),"04:52:55  [GLOSTO] (TSLA.O) - Tesla (TSLA: $361.85) lifts 1.4%, gains 6.1% for week, ranks 7 in today's top 20 rises; +$4.95 [1.4%] -"
+Tesla,2025-5(29-30),"04:49:28  [STOOBS] (TSLA.O) - Insight Wealth Strategies LLC Boosts Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"04:49:10  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Centre Asset Management LLC -"
+Tesla,2025-5(29-30),"04:47:38  [MSNUKA] (TSLA.O) - Tesla to deliver first self-driving Model Y car in June, Musk says -"
+Tesla,2025-5(29-30),04:42:00  [MEXSPA] (TSLA.O) - Elon Musk Steps Down from US Government Role -
+Tesla,2025-5(29-30),04:41:10  [FOXNEW] (TSLA.O) - White House discloses who will lead DOGE efforts after Musk's departure -
+Tesla,2025-5(29-30),"04:37:01  [MARDAJ] (TSLA.O) - Avant Financial Advisors LLC Invests $519,000 in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"04:36:20  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Centre Asset Management LLC -"
+Tesla,2025-5(29-30),04:33:32  [TECHCR] (TSLA.O) - Tesla alum's Heron Power closes $38M Series A to transform key grid technology -
+Tesla,2025-5(29-30),04:22:26  [GLOBUL] (TSLA.O .NDX) - Top Performers Past Week: Tesla (TSLA: $356.90) in top 4% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(29-30),"04:22:23  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Demars Financial Group holdings; soars 41% in 57 days Friday May 30, 2025 00:32 AEST6 -"
+Tesla,2025-5(29-30),"04:22:19  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Demars Financial Group holdings; soars 41% in 57 days Friday May 30, 2025 01:31 AEST6 -"
+Tesla,2025-5(29-30),"04:22:17  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $356.90) Thursday May 29, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),04:22:07  [GLOBUL] (TSLA.O .NDX) - Top Performers Monthly: Tesla (TSLA: $356.90) in top 1% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-5(29-30),"04:17:18  [GLOSTO] (TSLA.O) - Tesla (TSLA: $361.85) lifts 1.4%, gains 6.1% for week, ranks 7 in today's top 20 rises; +$4.95 [1.4%] -"
+Tesla,2025-5(29-30),04:13:14  [NOTENG] (TSLA.O) - Elon Musk Steps Down from US Government Role -
+Tesla,2025-5(29-30),"04:04:55  [RTRS] (TSLA.O) - Musk's White House exit refocuses questions about Tesla, other businesses (UPDATE 3) -"
+Tesla,2025-5(29-30),"04:02:22  [GLOSTO] (TSLA.O) - Tesla (TSLA: $362.55) climbs 1.6% strengthening above moving average price, ranks 6 in today's top 20 rises; +$5.65 [1.6%] -"
+Tesla,2025-5(29-30),"04:02:20  [GLOSTO] (TSLA.O) - Tesla (TSLA: $362.55) climbs 1.6% on average volume, ranks 6 in today's top 20 rises; +$5.65 [1.6%] -"
+Tesla,2025-5(29-30),03:55:39  [YAHNEX] (TSLA.O) - 40 hours a week and a succession plan: Big Tesla investors voice concerns even as Musk steps back from politics -
+Tesla,2025-5(29-30),03:52:55  [NEWUSN] (TSLA.O F.N) - Tesla continues to outperform Ford Motor by 16.9% in the past month -
+Tesla,2025-5(29-30),"A decade ago, Apple was the largest company in the US with a market cap of $750 Billion."
+Tesla,2025-5(29-30),"03:47:08  [TRADAJ] (TSLA.O) - Hobart Private Capital LLC Takes Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"A decade ago, Apple was the largest company in the US with a market cap of $750 Billion."
+Tesla,2025-5(29-30),03:42:27  [QUANAV] (TSLA.O 1810.HK) - Tesla rival Xiaomi shows off its new SUV in Beijing -
+Tesla,2025-5(29-30),03:34:15  [YAHNEX] (TSLA.O) - TD Cowen Maintains Buy Rating on Tesla (TSLA) -
+Tesla,2025-5(29-30),03:31:54  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR319.60) falls 2.2% from 14-day high; -EUR2.05 [-0.6%] Vol Index 1.9 [1 is avg] -
+Tesla,2025-5(29-30),"03:27:20  [GLOSTO] (TSLA.O) - Tesla (TSLA: $362.55) climbs 1.6% on average volume, ranks 6 in today's top 20 rises; +$5.65 [1.6%] -"
+Tesla,2025-5(29-30),"03:27:20  [GLOSTO] (TSLA.O) - Tesla (TSLA: $362.55) climbs 1.6% strengthening above moving average price, ranks 6 in today's top 20 rises; +$5.65 [1.6%] -"
+Tesla,2025-5(29-30),"03:17:43  [TRADAJ] (TSLA.O) - Stonehearth Capital Management LLC Trims Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),03:16:43  [USADAY] (TSLA.O 7203.T) - Tesla's Model Y sales outpaced this model by an 11:1 ratio in Q1. Will Toyota's EV rebrand fare any better? -
+Tesla,2025-5(29-30),"03:12:55  [GLOSTO] (TSLA.O) - Tesla (TSLA: $360.87) lifts 1.1%, climbs 5.8% for week, ranks 6 in today's top 20 rises; +$3.97 [1.1%] -"
+Tesla,2025-5(29-30),"03:12:43  [GLOSTO] (TSLA.O) - Tesla (TSLA: $360.87) lifts 1.1% strengthening above moving average price, ranks 6 in today's top 20 rises; +$3.97 [1.1%] -"
+Tesla,2025-5(29-30),"03:08:13  [NEWBIZ] (TSLA.O) - May 29, 2025: Petrolheads Ltd.: Tesla Model 3 Long Range | High Mile Club -"
+Tesla,2025-5(29-30),02:59:17  [INQNEW] (TSLA.O) - Musk leaves Trump gov't with DOGE goals unmet -
+Tesla,2025-5(29-30),"02:55:15  [YAHNEX] (TSLA.O) - Tesla investors say company faces 'crisis,' demand Musk work 40-week at automaker -"
+Tesla,2025-5(29-30),02:55:10  [WALPIT] (TSLA.O) - Tesla Stock Pops as Robotaxi Era Kicks Off with June 12 Launch -
+Tesla,2025-5(29-30),"02:53:44  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $356.90) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 29, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),02:53:04  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Ferrari by 16.4% in the past month -
+Tesla,2025-5(29-30),02:52:59  [NEWUSN] (TSLA.O) - Tesla continues to outperform XPeng by 23.9% in the past month -
+Tesla,2025-5(29-30),02:47:28  [GURCOM] (TSLA.O) - Cathie Wood Dumps Tesla Again--$5.4 Million Exit as Robotaxi Launch Nears -
+Tesla,2025-5(29-30),02:47:21  [WNCOMA] (TSLA.O) - Tesla targets June 12 launch of robotaxi service in Texas city -
+Tesla,2025-5(29-30),"02:46:44  [AUSAME] (TSLA.O) - Tesla investors say company faces 'crisis,' demand Musk work 40-week at automaker -"
+Tesla,2025-5(29-30),"02:42:03  [TRADAJ] (TSLA.O) - Jacobs & Co. CA Sells 1,704 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"02:38:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $360.87) lifts 1.1% strengthening above moving average price, ranks 6 in today's top 20 rises; +$3.97 [1.1%] -"
+Tesla,2025-5(29-30),"02:38:00  [GLOSTO] (TSLA.O) - Tesla (TSLA: $360.87) lifts 1.1%, climbs 5.8% for week, ranks 6 in today's top 20 rises; +$3.97 [1.1%] -"
+Tesla,2025-5(29-30),"02:28:10  [DAIPOL] (TSLA.O) - Fire Capital Management LLC Takes $5.42 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"02:23:00  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Demars Financial Group holdings; soars 41% in 57 days Friday May 30, 2025 01:31 AEST6 -"
+Tesla,2025-5(29-30),"02:22:57  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Demars Financial Group holdings; soars 41% in 57 days Friday May 30, 2025 00:32 AEST6 -"
+Tesla,2025-5(29-30),"02:22:57  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $356.90) Thursday May 29, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),02:22:52  [GLOBUL] (TSLA.O .NDX) - Top Performers Past Week: Tesla (TSLA: $356.90) in top 4% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(29-30),02:22:50  [GLOBUL] (TSLA.O .NDX) - Top Performers Monthly: Tesla (TSLA: $356.90) in top 1% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-5(29-30),"02:17:30  [GLOSTO] (TSLA.O) - Tesla (TSLA: $362.80) climbs 1.7% strengthening above moving average price, ranks 5 in today's top 20 rises; +$5.90 [1.7%] -"
+Tesla,2025-5(29-30),"02:17:24  [GLOSTO] (TSLA.O) - Tesla (TSLA: $362.80) climbs 1.7%, gains 6.4% for week, ranks 5 in today's top 20 rises; +$5.90 [1.7%] -"
+Tesla,2025-5(29-30),02:12:25  [ALJAZE] (TSLA.O) - Why has Elon Musk quit Donald Trump's administration? -
+Tesla,2025-5(29-30),I agree w/ this ... why does $UBER do well w/ automation coming?  b/c of partnerships they make ?
+Tesla,2025-5(29-30),02:08:05  [GURCOM] (TSLA.O) - Tesla (TSLA) Set to Launch Robotaxi Service in June | TSLA Stock News -
+Tesla,2025-5(29-30),"02:07:51  [TICREP] (TSLA.O) - Fire Capital Management LLC Buys Shares of 13,431 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"Today, the average price of a used Tesla is less than $1k higher than the average price of all used cars."
+Tesla,2025-5(29-30),02:02:15  [YAHUKI] (TSLA.O) - Fight to stop Tesla project in South Australia to continue after council approval -
+Tesla,2025-5(29-30),"02:02:03  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Demars Financial Group holdings; soars 41% in 57 days Friday May 30, 2025 01:31 AEST6 -"
+Tesla,2025-5(29-30),02:01:15  [SHAENG] (TSLA.O) - Want to Try Tesla s Robotaxi Service? It s Supposedly Launching in Austin in June -
+Tesla,2025-5(29-30),"01:56:18  [DAIPOL] (TSLA.O) - 2,936 Shares in Tesla, Inc. (NASDAQ:TSLA) Acquired by Milestone Asset Management Group LLC -"
+Tesla,2025-5(29-30),01:53:08  [NEWUSN] (TSLA.O LCID.O) - Tesla continues to outperform Lucid Group by 20.1% in the past month -
+Tesla,2025-5(29-30),01:53:07  [NEWUSN] (GM.N TSLA.O) - Tesla continues to outperform General Motors by 16.5% in the past month -
+Tesla,2025-5(29-30),"01:48:11  [POLITI] (TSLA.O) - Musk, Tesla blast GOP plans to end clean energy tax credits in megabill -"
+Tesla,2025-5(29-30),"01:47:47  [GLOSTO] (TSLA.O) - Tesla (TSLA: $362.80) climbs 1.7% strengthening above moving average price, ranks 5 in today's top 20 rises; +$5.90 [1.7%] -"
+Tesla,2025-5(29-30),"01:47:36  [GLOSTO] (TSLA.O) - Tesla (TSLA: $362.80) climbs 1.7%, gains 6.4% for week, ranks 5 in today's top 20 rises; +$5.90 [1.7%] -"
+Tesla,2025-5(29-30),01:41:08  [YAHNEX] (TSLA.O) - Tesla Stock Is Rising. Elon Musk Confirms Washington Exit. -
+Tesla,2025-5(29-30),"01:36:12  [FINSWI] (TSLA.O MSTR.O) - Tesla, Block Ride Bitcoin Boom As MicroStrategy Goes All In -"
+Tesla,2025-5(29-30),01:34:11  [CNETAA] (TSLA.O) - Want to Try Tesla's Robotaxi Service? It's Supposedly Launching in Austin in June -
+Tesla,2025-5(29-30),"01:33:25  [DAILYQ] (TSLA.O) - Fire Capital Management LLC Takes $5.42 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"01:22:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $361.75) lifts 1.4%, gains 6.1% for week, ranks 6 in today's top 20 rises; +$4.85 [1.4%] -"
+Tesla,2025-5(29-30),"01:22:16  [GLOSTO] (TSLA.O) - Tesla (TSLA: $361.75) hits four-month high, ranks 6 in today's top 20 rises; +$4.85 [1.4%] -"
+Tesla,2025-5(29-30),01:21:13  [WNCOMA] (TSLA.O) - Fight to stop Tesla project in South Australia to continue after council approval -
+Tesla,2025-5(29-30),01:11:13  [YAHNEX] (TSLA.O) - Musk Takes a Swipe at Tesla Investors Demanding He Work Regular Hours -
+Tesla,2025-5(29-30),"01:06:14  [YAHNEX] (TSLA.O ELF.N) - These Stocks Are Moving the Most Today: Nvidia, Apple, HP Inc., Tesla, C3.ai, e.l.f. Beauty, SentinelOne, and More -"
+Tesla,2025-5(29-30),"01:03:07  [TICREP] (TSLA.O) - Milestone Asset Management Group LLC Takes $1.19 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"01:02:44  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Waller Financial Planning Group Inc. -"
+Tesla,2025-5(29-30),"01:02:25  [DAILYQ] (TSLA.O) - 2,936 Shares in Tesla, Inc. (NASDAQ:TSLA) Acquired by Milestone Asset Management Group LLC -"
+Tesla,2025-5(29-30),"01:01:36  [YAHUKI] (TSLA.O) - Tesla stock higher as robotaxi 'golden age' begins with June 12 start date, Musk officially departing D.C. -"
+Tesla,2025-5(29-30),01:01:17  [WNCOMA] (TSLA.O) - Tesla Bull Dan Ives posts 'congratulatory note' for Tesla shareholders as Elon Musk exits Trump administration: This is ... -
+Tesla,2025-5(29-30),00:59:09  [SHAENG] (TSLA.O) - Tesla shares rise as Elon Musk cuts ties with Trump administration -
+Tesla,2025-5(29-30),"00:58:52  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Demars Financial Group holdings; soars 41% in 57 days Friday May 30, 2025 00:32 AEST6 -"
+Tesla,2025-5(29-30),"00:56:18  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $356.90) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 29, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),00:53:40  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Rivian Automotive by 2.6% in the past month -
+Tesla,2025-5(29-30),00:53:30  [NEWUSN] (NVDA.O TSLA.O) - Tesla continues to outperform NVIDIA by 3.8% in the past month -
+Tesla,2025-5(29-30),00:47:14  [PROINV] (TSLA.O) - Tesla shares rise as Musk exits Trump White House -
+Tesla,2025-5(29-30),00:42:18  [GLOTRA] (TSLA.O .NDX) - Tesla among top gainers of Demars Financial Group holdings; soars 39% in 58 days; +$4.85 [1.4%] -
+Tesla,2025-5(29-30),"00:42:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $361.75) lifts 1.4%, gains 6.1% for week, ranks 6 in today's top 20 rises; +$4.85 [1.4%] -"
+Tesla,2025-5(29-30),"00:42:04  [GLOSTO] (TSLA.O) - Tesla (TSLA: $361.75) hits four-month high, ranks 6 in today's top 20 rises; +$4.85 [1.4%] -"
+Tesla,2025-5(29-30),00:39:15  [YAHUKI] (TSLA.O) - Elon Musk Stepping Down as Tesla Readies Robotaxis -
+Tesla,2025-5(29-30),"00:37:21  [GLOSTO] (TSLA.O) - Tesla among top gainers of Demars Financial Group holdings; soars 41% in 57 days, ranks 5 in today's top 20 rises; +$9.91 [2.8%] -"
+Tesla,2025-5(29-30),00:30:18  [INVUKA] (TSLA.O) - Tesla shares surge after Musk steps down from Trump administration -
+Tesla,2025-5(29-30),00:29:17  [WNCOMA] (TSLA.O) - Elon Musk's tenure working for the Trump administration is coming to an end -
+Tesla,2025-5(29-30),00:27:07  [GURCOM] (TSLA.O) - Tesla (TSLA) to Deliver First Fully Autonomous Vehicles Soon -
+Tesla,2025-5(29-30),00:26:12  [CBTNEW] (TSLA.O) - Tesla shareholders demand CEO Elon Musk commit full-time to the company -
+Tesla,2025-5(29-30),"00:23:21  [TECHSP] (TSLA.O) - Elon Musk leaves government role amid Tesla struggles, budget backlash, and DOGE drama -"
+Tesla,2025-5(29-30),"00:22:32  [TRADAJ] (TSLA.O) - Insight Wealth Strategies LLC Purchases 143 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"00:22:21  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by jvl associates llc -"
+Tesla,2025-5(29-30),"00:19:29  [CRYPTV] (TSLA.O MSTR.O) - Tesla, Block Ride Bitcoin Boom As MicroStrategy Goes All In 24min ago by feeds2.benzinga.com -"
+Tesla,2025-5(29-30),00:19:19  [TIMLIV] (TSLA.O) - Tesla shares rise as Elon Musk cuts ties with Trump administration -
+Tesla,2025-5(29-30),00:12:58  [NOTENG] (TSLA.O) - Tesla launches robotaxi service next month with autonomous Model Ys -
+Tesla,2025-5(29-30),00:11:41  [NOTENG] (TSLA.O) - Goodbye Tesla? This is what the new electric cars look like -
+Tesla,2025-5(29-30),00:08:20  [GURCOM] (NVDA.O TSLA.O) - Nvidia CEO Highlights Tesla's (TSLA) Revolutionary Robotics Potential -
+Tesla,2025-5(29-30),"00:03:16  [GLOSTO] (TSLA.O) - Tesla among top gainers of Demars Financial Group holdings; soars 41% in 57 days, ranks 5 in today's top 20 rises; +$9.91 [2.8%] -"
+Tesla,2025-5(29-30),23:59:30  [STRMLS] (TSLA.O) - Musk's Trump administration exit lifts Tesla shares on hopes of renewed focus -
+Tesla,2025-5(29-30),23:58:21  [MSNUKA] (TSLA.O 1810.HK) - Xiaomi's Tesla Y rival YU7 hits showrooms in Beijing -
+Tesla,2025-5(29-30),23:55:32  [NEWNYS] (TSLA.O F.N) - Ford Motor continues to underperform Tesla by 44.1% in the past month -
+Tesla,2025-5(29-30),23:52:29  [NEWUSN] (TSLA.O) - How Tesla's Tax Rate compares to Its Peers -
+Tesla,2025-5(29-30),23:52:27  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Alphabet Class A by 18.8% in the past month -
+Tesla,2025-5(29-30),23:52:26  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Intel by 23.7% in the past month -
+Tesla,2025-5(29-30),"23:51:58  [BENZIN] (TSLA.O BTC=) - Tesla, Block Ride Bitcoin Boom As MicroStrategy Goes All In -"
+Tesla,2025-5(29-30),"23:47:55  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Marcum Wealth LLC -"
+Tesla,2025-5(29-30),23:47:22  [YAHSIN] (TSLA.O) - Tesla says it has been testing driverless Model Ys in Austin for 'several days' -
+Tesla,2025-5(29-30),"23:44:09  [WNCOMA] (TSLA.O) - Tiger Group Auctions Large Inventory of Unused Solar Panels, Generators, Tesla Power Walls and Electrical Parts, Plus Tools and More -"
+Tesla,2025-5(29-30),23:41:07  [PJMEDI] (TSLA.O) - Chris Cillizza's Tesla Vandalized... And He's SHOCKED It Wasn't Done by Conservatives -
+Tesla,2025-5(29-30),23:39:05  [RTRS] (TSLA.O) - TESLA SHARES UP 2.4% AFTER CEO ELON MUSK LEAVES TRUMP ADMINISTRATION -
+Tesla,2025-5(29-30),"23:38:41  [PLUMED] (TSLA.O) - Japanese Procurement Notice:  Issues contract notice/solicitation for ""3.0 Tesla Magnetic Resonance Imaging (MRI) system 1 Set"" -"
+Tesla,2025-5(29-30),23:32:14  [NDTNEW] (TSLA.O) - Tesla Cybertruck Joins Police Fleet In Mexico Ahead Of 2026 FIFA World Cup -
+Tesla,2025-5(29-30),"23:31:17  [YAHNEX] (TSLA.O) - Tesla stock higher as robotaxi 'golden age' begins with June 12 start date, Musk officially departing DC -"
+Tesla,2025-5(29-30),23:21:08  [MSNUKA] (TSLA.O) - Could buying 5k of Tesla stock help someone earn a second income? -
+Tesla,2025-5(29-30),23:13:58  [NOTENG] (TSLA.O) - Tesla launches robotaxi service next month with autonomous Model Ys -
+Tesla,2025-5(29-30),23:09:12  [YAHSIN] (TSLA.O) - Musk's Trump administration exit lifts Tesla shares on hopes of renewed focus -
+Tesla,2025-5(29-30),23:06:43  [CHAASI] (TSLA.O) - Musk's Trump administration exit lifts Tesla shares on hopes of renewed focus -
+Tesla,2025-5(29-30),23:06:37  [YAHUKI] (TSLA.O) - Musk's Trump administration exit lifts Tesla shares on hopes of renewed focus -
+Tesla,2025-5(29-30),23:06:35  [YAHNEX] (TSLA.O) - Musk's Trump administration exit lifts Tesla shares on hopes of renewed focus -
+Tesla,2025-5(29-30),"23:05:50  [DAIMAV] (TSLA.O) - Elon Musk leaving Trump administration, White House official says -"
+Tesla,2025-5(29-30),23:04:42  [BENZIN] (TSLA.O) - Tesla Sees Best Rally Of 2025 As Musk's Time In Government 'Comes To An End' -
+Tesla,2025-5(29-30),"Shares rose 2% as Musk steps back from politics, easing investor concerns over brand damage."
+Tesla,2025-5(29-30),"22:56:12  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $356.90) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 29, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),22:55:11  [GURCOM] (TSLA.O NVDA.O) - Morning Brew: Nvidia's Strong Q1 and Tesla's Robotaxi Plans Boost Market -
+Tesla,2025-5(29-30),22:54:16  [NEWUSN] (TSLA.O) - How Tesla's Tax Rate compares to Its Peers -
+Tesla,2025-5(29-30),22:52:41  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Apple by 52.1% in the past month -
+Tesla,2025-5(29-30),22:52:37  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Volvo Car AB by 53.4% in the past month -
+Tesla,2025-5(29-30),22:52:08  [YAHNEX] (TSLA.O) - Target Tesla Stock Before the Rally Really Takes Off -
+Tesla,2025-5(29-30),22:51:09  [YAHNEX] (NVDA.O TSLA.O) - Cathie Wood Makes Another Tesla Move With Robotaxi Date Set; Nvidia Says The Start Of 'Next Trillion-Dollar Industry' -
+Tesla,2025-5(29-30),22:47:12  [RTRS] (TSLA.O) - Musk's Trump administration exit lifts Tesla shares on hopes of renewed focus -
+Tesla,2025-5(29-30),22:44:16  [YAHUKI] (TSLA.O) - Tesla Shares Climb After Musk Steps Away From Government Post -
+Tesla,2025-5(29-30),"22:39:15  [CBTNEW] (TSLA.O) - Courts block tariffs, Ford recalls 1M vehicles, Tesla investors pressure Musk -"
+Tesla,2025-5(29-30),22:38:15  [ENGADG] (TSLA.O) - Tesla says it has been testing driverless Model Ys in Austin for 'several days' -
+Tesla,2025-5(29-30),22:37:17  [AUTCOP] (TSLA.O) - Tesla Rolls Out Feature To Warn Parents They Left A Child In A Hot Car -
+Tesla,2025-5(29-30),22:36:12  [AUTCOP] (TSLA.O) - Chinese Buyers No Longer Consider Tesla A Technology Leader -
+Tesla,2025-5(29-30),"With a pledge to spend more time at Tesla and with a promised #Robotaxi launch next month, the stock has a chance to extend its recovery."
+Tesla,2025-5(29-30),"22:23:10  [FINSWI] (TSLA.O) - Gary Black's Future Fund Sells Remaining Tesla Stock, Reitrates $310 Price Target: 'TSLA's Valuation Has Become Disconnected...' -"
+Tesla,2025-5(29-30),"22:14:16  [YAHNEX] (TSLA.O) - Electric Vehicle App Engagement Reaches New Highs but Brands Face Pressure to Improve Speed and Reliability, J.D. Power Finds -"
+Tesla,2025-5(29-30),22:04:29  [STOCKP] (TSLA.O) - Tesla trades -0.5 percent lower on Thursday 29th of May -
+Tesla,2025-5(29-30),22:01:51  [FINEXP] (TSLA.O) - Tesla Cybertruck to patrol during Fifa World Cup in Mexico next year -
+Tesla,2025-5(29-30),"22:00:00  [BSW] (TSLA.O) - Electric Vehicle App Engagement Reaches New Highs but Brands Face Pressure to Improve Speed and Reliability, J.D. Power Finds -"
+Tesla,2025-5(29-30),"22:00:00  [RTRS] (TSLA.O NVDA.O) - Tireless Nvidia growth exhausts even its valuation (RPT, BREAKINGVIEWS) -"
+Tesla,2025-5(29-30),21:55:18  [AUTCOP] (TSLA.O) - Investors Want To Control How Much Time Elon Musk Spends At Tesla -
+Tesla,2025-5(29-30),"21:52:35  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $356.90) Thursday May 29, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),21:47:25  [GLOBUL] (TSLA.O .NDX) - Top Performers Monthly: Tesla (TSLA: $356.90) in top 1% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-5(29-30),21:47:20  [GLOBUL] (TSLA.O .NDX) - Top Performers Past Week: Tesla (TSLA: $356.90) in top 4% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(29-30),21:42:51  [GURCOM] (TSLA.O) - Tesla Shares Climb After Musk Steps Away From Government Post -
+Tesla,2025-5(29-30),21:38:19  [MSNCAN] (TSLA.O 1810.HK) - Xiaomi's Tesla Y rival YU7 hits showrooms in Beijing -
+Tesla,2025-5(29-30),21:36:23  [MINDUS] (TSLA.O) - Denmark: American Lucid luxury car coming to Denmark -
+Tesla,2025-5(29-30),21:31:07  [MSNUKA] (TSLA.O) - Tesla warned of three big issues amid falling sales - despite share price climbing 25% in a month -
+Tesla,2025-5(29-30),"21:22:24  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Marcum Wealth LLC -"
+Tesla,2025-5(29-30),"21:20:15  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Raised by Franchise Capital Ltd -"
+Tesla,2025-5(29-30),21:11:53  [INDEPE] (TSLA.O) - Tesla warned of three big issues amid falling sales - despite share price climbing 25% in a month -
+Tesla,2025-5(29-30),21:08:31  [FIRSTP] (TSLA.O) - Musk's driverless dream: Tesla announces June 12 rollout for robotaxi in Austin -
+Tesla,2025-5(29-30),"20:59:45  [DAIPOL] (TSLA.O) - MassMutual Private Wealth & Trust FSB Cuts Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"20:58:05  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Holdings Decreased by MassMutual Private Wealth & Trust FSB -"
+Tesla,2025-5(29-30),"20:57:55  [DAILYQ] (TSLA.O) - MassMutual Private Wealth & Trust FSB Cuts Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),20:52:37  [STACHI] (TSLA.O 1810.HK) - Xiaomi's Tesla Y rival YU7 hits showrooms in Beijing -
+Tesla,2025-5(29-30),"20:45:16  [MARBEA] (TSLA.O) - 1,304 Shares in Tesla, Inc. (NASDAQ:TSLA) Bought by Hobart Private Capital LLC -"
+Tesla,2025-5(29-30),"20:42:39  [NEWPEO] (TSLA.O TSLA.OQ) - Elon Musk's Tesla top gainer in Demars Financial Group soars 38.9% in 57 days, hits 98-day high Wednesday May 28, 2025 16:00 EDT -"
+Tesla,2025-5(29-30),20:41:46  [TIMLIV] (TSLA.O) - Musk says Tesla will deliver first self-driving Model Y in June -
+Tesla,2025-5(29-30),20:41:17  [SHAENG] (TSLA.O) - Musk says Tesla will deliver first self-driving Model Y in June -
+Tesla,2025-5(29-30),"20:33:16  [STOOBS] (TSLA.O) - NorthCrest Asset Manangement LLC Has $4.84 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),20:32:43  [WNCOMA] (TSLA.O) - Tesla warned of three big issues amid falling sales - despite share price climbing 25% ... -
+Tesla,2025-5(29-30),20:29:11  [YAHSIN] (TSLA.O) - Tesla warned of three big issues amid falling sales - despite share price climbing 25% in a month -
+Tesla,2025-5(29-30),20:27:19  [CRYCOM] (TSLA.O) - Tesla Shares Rise After Elon Musk Exits DOGE Role -
+Tesla,2025-5(29-30),"20:25:40  [AUTCOO] (TSLA.O) - Canadian EV buyers shun Tesla: Brand interest plunges to 13%, study finds -"
+Tesla,2025-5(29-30),"20:20:29  [MARDAJ] (TSLA.O) - NorthCrest Asset Manangement LLC Has $4.84 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"20:17:23  [MARBEA] (TSLA.O) - Avant Financial Advisors LLC Invests $519,000 in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"20:17:21  [MARBEA] (TSLA.O) - 2,936 Shares in Tesla, Inc. (NASDAQ:TSLA) Acquired by Milestone Asset Management Group LLC -"
+Tesla,2025-5(29-30),20:02:36  [GULCOM] (TSLA.O) - Why did Elon Musk quit the Trump administration? -
+Tesla,2025-5(29-30),"19:59:11  [MARBEA] (TSLA.O) - NorthCrest Asset Manangement LLC Has $4.84 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),19:52:41  [BLAZEA] (TSLA.O) - Former CNN reporter says his Tesla was defaced with inflammatory message while he attended son's soccer tournament -
+Tesla,2025-5(29-30),"19:52:03  [BENZIN] (NVDA.O TSLA.O) - Tesla's Optimus May Be The First Humanoid Robot To Achieve High Volume And Tech Scale, Says Nvidia CEO Jensen Huang: '... Likely To Be The Next Mul... -"
+Tesla,2025-5(29-30),19:39:16  [ECOCOM] (TSLA.O 1810.HK) - Xiaomi's Tesla Y rival YU7 hits showrooms in Beijing -
+Tesla,2025-5(29-30),"19:36:22  [WNCOMA] (TSLA.O) - From Tesla setbacks to Donald Trump\u0026#039;s \u0026#039;big beautiful\u0026#039; Bill, what led to Elon Musk\u0026#039;s exit ... -"
+Tesla,2025-5(29-30),19:21:23  [RTRS] (TSLA.O 1810.HK) - Xiaomi's Tesla Y rival YU7 hits showrooms in Beijing -
+Tesla,2025-5(29-30),19:14:34  [CHITHA] (TSLA.O) - A Trade Group Reported That Tesla Sales in Europe Fell By 52% in April. -
+Tesla,2025-5(29-30),"18:59:15  [EDGEMA] (TSLA.O) - Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery -"
+Tesla,2025-5(29-30),18:58:10  [WNCOMA] (TSLA.O) - Stranger videoed trying to pour water into Tesla's electric port in Athens -
+Tesla,2025-5(29-30),"18:46:49  [BENZIN] (TSLA.O) - Tesla Institutional Investors Demand Elon Musk's 40 Hours A Week Commitment Amid Company 'Crisis,' Urge Succession Plan For Top Execs -"
+Tesla,2025-5(29-30),18:42:52  [MINTNE] (TSLA.O) - Tesla share price jumps over 2% as shareholders rejoice after THIS update by Elon Musk -
+Tesla,2025-5(29-30),18:42:35  [GURCOM] (TSLA.O) - Elon Musk Resigns from Government Role to Focus on Tesla (TSLA) -
+Tesla,2025-5(29-30),"18:42:20  [DIGITI] (NVDA.O TSLA.O) - COMPUTEX 2025: Taiwan's robotics moment, yet still a step behind -"
+Tesla,2025-5(29-30),"18:30:19  [WNCOMA] (TSLA.O) - Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery -"
+Tesla,2025-5(29-30),"18:19:13  [GLOREV] (TSLA.O) - Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery -"
+Tesla,2025-5(29-30),18:17:08  [GURCOM] (TSLA.O) - Tesla (TSLA) Gears Up for Robotaxi Launch in Austin -
+Tesla,2025-5(29-30),18:16:56  [GURCOM] (TSLA.O) - Tesla (TSLA) Faces Declining Brand Appeal Amid Political Controversies -
+Tesla,2025-5(29-30),18:15:08  [LIVEMI] (TSLA.O) - Tesla share price jumps over 2% as shareholders rejoice after THIS update by Elon Musk -
+Tesla,2025-5(29-30),"18:12:19  [STACHI] (TSLA.O) - Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery -"
+Tesla,2025-5(29-30),18:00:54  [RTRS] (TSLA.O) - TESLA SHARES UP 3% PREMARKET AFTER CEO ELON MUSK LEAVES TRUMP ADMINISTRATION -
+Tesla,2025-5(29-30),"17:59:11  [HINBUS] (TSLA.O) - Elon Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery -"
+Tesla,2025-5(29-30),"17:51:13  [WNCOMA] (TSLA.O) - Elon Musk QUITS Donald Trump government amid 'big, beautiful bill' row -"
+Tesla,2025-5(29-30),17:46:33  [WASHPO] (TSLA.O) - Tesla investors ask board to make Musk work full-time -
+Tesla,2025-5(29-30),"17:42:24  [BUSLIN] (TSLA.O) - Elon Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery -"
+Tesla,2025-5(29-30),17:40:42  [MIDDAY] (TSLA.O) - Elon Musk steps down from US government role after tax bill clash with Trump -
+Tesla,2025-5(29-30),17:40:22  [ITVNEX] (TSLA.O) - Tesla and SpaceX CEO Elon Musk leaves Trump administration but vows DOGE will only 'strengthen' -
+Tesla,2025-5(29-30),17:38:43  [FINREW] (TSLA.O) - Elon Musk's Departure from DOGE: An Uphill Battle for Government Efficiency and a Boost for SpaceX and Tesla -
+Tesla,2025-5(29-30),17:38:14  [CRYCOM] (TSLA.O) - Tesla Shares Rise After Elon Musk Exits DOGE Role -
+Tesla,2025-5(29-30),17:37:21  [ECOCOM] (TSLA.O) - Elon Musk's Exit: Why Tesla chief walked away from Trump administration -
+Tesla,2025-5(29-30),"17:21:09  [WNCOMA] (TSLA.O) - Elon Musk leaving Trump administration, capping turbulent tenure -"
+Tesla,2025-5(29-30),17:19:26  [ORLSEN] (TSLA.O) - Money talks with Florida's new attorney general Editorial: Money talks with Florida's new attorney general -
+Tesla,2025-5(29-30),17:12:25  [NOTENG] (TSLA.O) - Musk announces via X his departure from the Trump administration and thanks the president for the opportunity to collaborate on cutting spending -
+Tesla,2025-5(29-30),"17:12:18  [CHAASI] (TSLA.O) - Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery -"
+Tesla,2025-5(29-30),"16:58:22  [RTRS] (TSLA.O) - Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery (UPDATE 1) -"
+Tesla,2025-5(29-30),16:52:08  [GURCOM] (TSLA.O) - Tesla to Deliver First Autonomous Model Y in June -
+Tesla,2025-5(29-30),"16:41:18  [STRMLS] (TSLA.O) - Tesla to deliver first self-driving Model Y car in June, Musk says -"
+Tesla,2025-5(29-30),"16:39:05  [YAHNEX] (TSLA.O) - Tesla to deliver first self-driving Model Y car in June, Musk says -"
+Tesla,2025-5(29-30),"16:37:54  [CHAASI] (TSLA.O) - Tesla to deliver first self-driving Model Y car in June, Musk says -"
+Tesla,2025-5(29-30),"16:25:11  [RTRS] (TSLA.O) - Tesla to deliver first self-driving Model Y car in June, Musk says -"
+Tesla,2025-5(29-30),16:24:17  [CRYPTV] (TSLA.O) - Tesla Shares Rise After Elon Musk Exits DOGE Role -
+Tesla,2025-5(29-30),16:16:01  [RTRS] (TSLA.O) - ELON MUSK: FIRST DELIVERY OF SELF-DRIVING MODEL Y CARS IN JUNE -
+Tesla,2025-5(29-30),16:12:23  [FORIND] (TSLA.O) - Why Tesla chief Elon Musk quit Trump administration -
+Tesla,2025-5(29-30),16:11:38  [RTRS] (TSLA.O) - ELON MUSK: TESLA HAS BEEN TESTING SELF-DRIVING MODEL Y CARS (NO ONE IN DRIVER'S SEAT) ON AUSTIN PUBLIC STREETS WITH NO INCIDENTS -
+Tesla,2025-5(29-30),"16:05:22  [STANEY] (TSLA.O) - Elon Musk leaving Trump administration, capping turbulent tenure -"
+Tesla,2025-5(29-30),16:02:20  [PATCHA] (TSLA.O) - Patch AM: Walpole company supplies SpaceX and Tesla -
+Tesla,2025-5(29-30),15:59:25  [HINDUT] (TSLA.O) - Where is Elon Musk from? DOGE exit raises questions on world's richest man's citizenship -
+Tesla,2025-5(29-30),15:57:10  [GURCOM] (TSLA.O) - Tesla (TSLA) Directors Sell Nearly $200 Million in Stock Ahead of Robotaxi Launch -
+Tesla,2025-5(29-30),15:50:15  [INDTOE] (TSLA.O) - Tesla investors want Elon Musk to work 40 hours a week -
+Tesla,2025-5(29-30),15:32:05  [GURCOM] (TSLA.O) - ARK Invest Sells Tesla (TSLA) Shares Amid Broader Insider Selling Trend -
+Tesla,2025-5(29-30),15:18:14  [WNCOMA] (TSLA.O) - Erik Gronwall Betrayal? Primal Fear Done? New Tesla SUCKS! (Free) -
+Tesla,2025-5(29-30),15:16:08  [BUSLIN] (TSLA.O) - Tesla begins hiring in India after Elon Musk's meeting with Modi -
+Tesla,2025-5(29-30),14:49:08  [MADIND] (TSLA.O) - Elon Musk announces stepping down as Trump advisor -
+Tesla,2025-5(29-30),14:48:12  [RTRS] (TSLA.O) - New York Times business news - May 29 (PRESS DIGEST) -
+Tesla,2025-5(29-30),14:48:07  [MSNCAN] (TSLA.O) - Tesla boss Elon Musk announces he's leaving the Trump administration -
+Tesla,2025-5(29-30),"14:46:13  [WNCOMA] (TSLA.O) - Tesla targets June 12 launch for robotaxi service in Austin, Bloomberg News reports -"
+Tesla,2025-5(29-30),14:36:55  [GURCOM] (TSLA.O) - Tesla (TSLA) Set to Launch Robotaxi Service in Austin -
+Tesla,2025-5(29-30),14:27:10  [WNCOMA] (TSLA.O) - Tesla Set to Launch Robotaxi Service on June 12 -
+Tesla,2025-5(29-30),14:26:22  [STOCKP] (TSLA.O) - Tesla is trading -0.5 percent lower with a volume of USD 28.7 bn on Thursday 29th of May -
+Tesla,2025-5(29-30),"14:24:07  [LIVEMI] (TSLA.O) - Elon Musk leaves Trump LIVE: Tesla chief exits US govt, frustrated DOGE 'gets blamed' for everything -"
+Tesla,2025-5(29-30),"14:22:12  [STACHI] (TSLA.O) - Tesla targets June 12 launch for robotaxi service in Austin, Bloomberg News reports -"
+Tesla,2025-5(29-30),14:17:01  [GURCOM] (TSLA.O) - Tesla (TSLA) Set to Launch Robotaxi Service in Austin -
+Tesla,2025-5(29-30),"14:15:03  [RTRS] (TSLA.O) - Elon Musk leaving Trump administration, capping turbulent tenure (UPDATE 4) -"
+Tesla,2025-5(29-30),"14:12:44  [MINTNE] (TSLA.O) - Elon Musk's DOGE cuts hit Tesla, 'he's alienated the wrong people,' says expert amid exit from Donald Trump admin -"
+Tesla,2025-5(29-30),14:11:27  [NOTENG] (TSLA.O) - Investors demand that Elon Musk work 40 hours a week at Tesla -
+Tesla,2025-5(29-30),"14:10:14  [KORJOO] (TSLA.O) - Tesla targets June 12 launch for robotaxi service in Austin, Bloomberg News reports -"
+Tesla,2025-5(29-30),13:59:56  [ORICOM] (TSLA.O) - Elon Musk steps down as advisor to President Trump: What the Tesla CEO actually did -
+Tesla,2025-5(29-30),"13:54:43  [LIVEMI] (TSLA.O) - Elon Musk's DOGE cuts hit Tesla, 'he's alienated the wrong people,' says expert amid exit from Donald Trump admin -"
+Tesla,2025-5(29-30),13:45:43  [CRYPTV] (TSLA.O) - Why are Tesla investors still so bearish after all of Elon Musk's efforts and the stock surging? -
+Tesla,2025-5(29-30),13:42:08  [CRYPTT] (TSLA.O) - Why are Tesla investors still so bearish after all of Elon Musk's efforts and the stock surging? -
+Tesla,2025-5(29-30),"13:36:14  [CLECON] (7267.T TSLA.O) - Despite Everything, Tesla Still Dominates EV Sales in California -"
+Tesla,2025-5(29-30),13:33:13  [TELTOD] (TSLA.O) - Elon Musk announces departure from his role as senior advisor to Trump administration -
+Tesla,2025-5(29-30),13:17:19  [GURCOM] (TSLA.O) - Tesla (TSLA) CEO Elon Musk Concludes Role as Special Government Employee | TSLA Stock News -
+Tesla,2025-5(29-30),"13:17:15  [SHACHI] (TSLA.O) - Elon Musk steps down from Trump administration ANI 29 May 2025, 08:30 GMT+10 -"
+Tesla,2025-5(29-30),13:11:20  [WNCOMA] (TSLA.O) - Elon Musk announces exit from US government role after breaking with Trump on tax bill -
+Tesla,2025-5(29-30),13:08:17  [NEWSOW] (TSLA.O) - Can Tesla solve the Cybertruck problem without dealers? -
+Tesla,2025-5(29-30),13:04:11  [NEWSAA] (TSLA.O) - Can Tesla solve the Cybertruck problem without dealers? -
+Tesla,2025-5(29-30),"12:57:15  [SHAENG] (TSLA.O) - Newsdeck: Elon Musk leaving Trump administration, White House official says -"
+Tesla,2025-5(29-30),12:57:05  [GURCOM] (TSLA.O) - Tesla (TSLA) Plans June Launch for Austin Robotaxi Service -
+Tesla,2025-5(29-30),"12:55:07  [AUTCOO] (TSLA.O) - Tesla CEO Elon Musk leaving Trump administration, White House official says -"
+Tesla,2025-5(29-30),12:48:09  [WNCOMA] (TSLA.O) - Musk asked to devote 40 hrs/week to Tesla after leaving White House: Report -
+Tesla,2025-5(29-30),12:46:13  [SKYAUS] (TSLA.O) - Billionaire Tesla CEO Elon Musk is officially leaving the Trump administration after blasting effect of $3.8 trillion spending bill on DOGE -
+Tesla,2025-5(29-30),"12:28:13  [BDNCOM] (TSLA.O) - Elon Musk leaving Trump administration, White House official confirms -"
+Tesla,2025-5(29-30),12:05:10  [LIVEMI] (TSLA.O) - Elon Musk leaves Trump administration LIVE: Tesla chief says '... time as a Special Government Employee comes to an end' -
+Tesla,2025-5(29-30),"12:00:09  [TIMINT] (TSLA.O) - DOGE row: Elon Musk officially quits Donald Trump's govt after 6 months, slams 'big beautiful bill' -"
+Tesla,2025-5(29-30),"11:58:07  [EDGEMA] (TSLA.O) - Elon Musk leaving Trump administration, White House official confirms -"
+Tesla,2025-5(29-30),11:45:28  [AAFN] (TSLA.O OKTA.O) - USDJIA Finishes Down 244 Pts; Fed Warns of Rising Inflation & Jobless Risks -
+Tesla,2025-5(29-30),"11:26:07  [INSMON] (TSLA.O) - Tesla, Inc. (TSLA) Set to Launch Robotaxi Service in Austin on June 12: Bloomberg News -"
+Tesla,2025-5(29-30),"11:25:09  [MSNCAN] (TSLA.O) - Tesla targets June 12 launch for robotaxi service in Austin, Bloomberg News reports -"
+Tesla,2025-5(29-30),11:22:05  [GURCOM] (TSLA.O) - Tesla CEO Elon Musk Ends Role as Special Government Employee -
+Tesla,2025-5(29-30),"11:11:32  [YAHCAN] (TSLA.O) - Elon Musk leaving Trump administration, White House official confirms -"
+Tesla,2025-5(29-30),11:02:04  [GLOSTO] (TSLA.O) - Past Week: Tesla (TSLA: $356.90) in top 4% performers of NASDAQ-100 Index in past week; +$22.28 [6.7%] -
+Tesla,2025-5(29-30),10:46:14  [LIVEMI] (TSLA.O) - Tesla Sales Dip By 50% In Europe | How Chinese Auto Giant BYD & Musk Himself Harmed Tesla In EU... -
+Tesla,2025-5(29-30),10:22:56  [RTRS] (TSLA.O) - Musk thanks Trump as special government employee role draws to an end -
+Tesla,2025-5(29-30),10:21:10  [WNCOMA] (TSLA.O) - Tesla investors push Elon Musk to prioritize his CEO duties -
+Tesla,2025-5(29-30),10:17:12  [YAHNEX] (TSLA.O) - 4 Ways Elon Musk's DOGE Exit Could Affect Your Retirement -
+Tesla,2025-5(29-30),10:16:40  [RTRS] (TSLA.O NOVA.N) - Trump administration cancels Sunnova's $2.92 billion government loan guarantee (UPDATE 3) -
+Tesla,2025-5(29-30),10:08:32  [RTRS] (TSLA.O) - MUSK SAYS HIS SCHEDULED TIME AS A SPECIAL GOVERNMENT EMPLOYEE IS COMING TO AN END -
+Tesla,2025-5(29-30),10:05:07  [LOCNEW] (TSLA.O) - Tesla investors push Elon Musk to prioritize his CEO duties -
+Tesla,2025-5(29-30),09:43:09  [YAHNEX] (TSLA.O) - Tesla investors push Elon Musk to prioritize his CEO duties -
+Tesla,2025-5(29-30),09:02:12  [WNCOMA] (TSLA.O) - Tesla investors push Elon Musk to prioritize his CEO duties -
+Tesla,2025-5(29-30),09:01:25  [WASHPO] (TSLA.O) - Tesla investors ask board to make Musk work full-time -
+Tesla,2025-5(29-30),09:00:00  [RTRS] (WRD.O UBER.N) - Chinese robotaxi makers head to a welcoming Gulf as overseas ambitions grow -
+Tesla,2025-5(29-30),08:56:06  [EDICNN] (TSLA.O) - Tesla investors push Elon Musk to prioritize his CEO duties -
+Tesla,2025-5(29-30),08:55:09  [WNCOMA] (TSLA.O) - Tesla investors ask board to make Musk work full-time -
+Tesla,2025-5(29-30),08:55:06  [MSNUKA] (TSLA.O) - China's BYD races ahead of Tesla for first time in Europe -
+Tesla,2025-5(29-30),08:54:06  [AUSFIO] (TSLA.O) - Investors demand Musk work a 40-hour week at Tesla -
+Tesla,2025-5(29-30),08:52:09  [ZACKSC] (TSLA.O .SPX) - Here's Why Tesla (TSLA) Fell More Than Broader Market -
+Tesla,2025-5(29-30),08:47:14  [WNCOMA] (TSLA.O) - Tesla investors demand Musk work 40-hour week at EV maker as 'crisis' builds -
+Tesla,2025-5(29-30),08:47:05  [GURCOM] (TSLA.O) - Tesla to Launch Robotaxi Service in Austin by Mid-June -
+Tesla,2025-5(29-30),"$NVTS fumble here, was heavy on it Thursday and friday but forgot to set alerts so was late buying and didnt get good size or avg"
+Tesla,2025-5(29-30),"08:37:54  [GLOSTO] (TSLA.O) - Tesla top gainer in Demars Financial Group soars 38.9% in 57 days, hits 98-day high; -$5.99 [-1.7%] -"
+Tesla,2025-5(29-30),08:17:16  [WRACOM] (TSLA.O) - Tesla investors push Elon Musk to prioritize his CEO duties -
+Tesla,2025-5(29-30),08:17:09  [EDICNN] (TSLA.O) - Tesla investors push Elon Musk to prioritize his CEO duties -
+Tesla,2025-5(29-30),08:09:12  [YAHCAN] (TSLA.O) - Elon Musk Just Got Some Horrible New Sales Data About Tesla -
+Tesla,2025-5(29-30),08:09:08  [YAHSIN] (TSLA.O) - Elon Musk Just Got Some Horrible New Sales Data About Tesla -
+Tesla,2025-5(29-30),08:06:22  [YAHIRE] (TSLA.O) - Elon Musk Just Got Some Horrible New Sales Data About Tesla -
+Tesla,2025-5(29-30),07:58:07  [RTRS] (TSLA.O NVDA.O) - Tireless Nvidia growth exhausts even its valuation (BREAKINGVIEWS) -
+Tesla,2025-5(29-30),07:47:13  [FUTCOM] (TSLA.O) - Elon Musk Just Got Some Horrible New Sales Data About Tesla -
+Tesla,2025-5(29-30),07:37:44  [GURCOM] (TSLA.O GOOGL.O) - Alphabet's Waymo Faces New Competition in Austin from Tesla | GOOG Stock News -
+Tesla,2025-5(29-30),07:34:09  [INVCOA] (TSLA.O) - Tesla stock rises on robotaxi service launch plans -
+Tesla,2025-5(29-30),07:19:12  [TRATOP] (TSLA.O) - Tesla Targets June 12 Rollout of Robotaxi Service in Austin -
+Tesla,2025-5(29-30),"07:10:14  [CHAASI] (TSLA.O) - Tesla targets June 12 launch for robotaxi service in Austin, Bloomberg News reports -"
+Tesla,2025-5(29-30),"07:08:15  [YAHSIN] (TSLA.O) - Tesla targets June 12 launch for robotaxi service in Austin, Bloomberg News reports -"
+Tesla,2025-5(29-30),Meanwhile AI laggard $TSLA trades at 185x P/E with declining sales & earnings. Or 365x free cash flow.
+Tesla,2025-5(29-30),06:58:19  [YAHNEX] (TSLA.O) - Tesla stock rises on robotaxi service launch plans -
+Tesla,2025-5(29-30),06:57:03  [INVCOM] (TSLA.O) - Tesla stock rises on robotaxi service launch plans -
+Tesla,2025-5(29-30),"06:55:15  [YAHUKI] (TSLA.O) - Tesla targets June 12 launch for robotaxi service in Austin, Bloomberg News reports -"
+Tesla,2025-5(29-30),06:52:35  [GURCOM] (TSLA.O) - Tesla (TSLA) Prepares to Launch Robotaxi Service in Austin -
+Tesla,2025-5(29-30),"06:52:22  [GLOSTO] (TSLA.O) - Tesla top gainer in Demars Financial Group soars 38.9% in 57 days, hits 98-day high; -$3.92 [-1.1%] -"
+Tesla,2025-5(29-30),"06:48:57  [GLOSTO] (TSLA.O) - Tesla top gainer in Demars Financial Group soars 38.9% in 57 days, hits 98-day high; -$5.99 [-1.7%] -"
+Tesla,2025-5(29-30),"06:45:14  [ZERHED] (TSLA.O) - UBS Survey Finds Global Tesla Enthusiasm Losing Juice, But... -"
+Tesla,2025-5(29-30),"06:43:06  [RTRS] (TSLA.O) - Tesla targets June 12 launch for robotaxi service in Austin, Bloomberg News reports -"
+Tesla,2025-5(29-30),06:36:10  [PENINW] (TSLA.O) - Pension funds implore Tesla board to get Elon Musk back to work -
+Tesla,2025-5(29-30),06:31:09  [WNCOMA] (TSLA.O) - Tesla sales topple in Europe as Musk's problems mount -
+Tesla,2025-5(29-30),"06:21:58  [GLOSTO] (TSLA.O) - Tesla top gainer in Demars Financial Group soars 38.9% in 57 days, hits 98-day high; -$3.92 [-1.1%] -"
+Tesla,2025-5(29-30),06:19:32  [SIGDEV] (TSLA.O) - Tesla Targets June 12 Launch Of Robotaxi Service In Austin - Bloomberg News -
+Tesla,2025-5(29-30),06:16:14  [SHAENG] (TSLA.O) - China s BYD races ahead of Tesla for first time in Europe -
+Tesla,2025-5(29-30),06:09:25  [RTRS] (TSLA.O) - Tesla Targets June 12 Launch Of Robotaxi Service In Austin - Bloomberg News (BRIEF) -
+Tesla,2025-5(29-30),06:07:58  [RTRS] (TSLA.O) - TESLA TARGETS JUNE 12 LAUNCH OF ROBOTAXI SERVICE IN AUSTIN - BLOOMBERG NEWS -
+Tesla,2025-5(29-30),TESLA IS SAID TO TARGET ROBOTAXI LAUNCH IN AUSTIN ON JUNE 12: CONDUCTED FIRST DRIVERLESS TEST ON PUBLIC ROADS THIS WEEK -
+Tesla,2025-5(29-30),06:00:35  [RTRS] (TSLA.O SNPS.O) - Indexes end down as Fed minutes digested; Nvidia results awaited (US STOCKS) -
+Tesla,2025-5(29-30),05:58:12  [YAHNEX] (TSLA.O) - Elon Musk's little brother and one other Tesla board director sell stock worth nearly $200 million -
+Tesla,2025-5(29-30),05:54:16  [FORCOO] (TSLA.O) - Elon Musk's Tesla Robotaxi Rollout Looks Like A Disaster Waiting To Happen -
+Tesla,2025-5(29-30),05:53:09  [AFRCON] (TSLA.O) - China's BYD races ahead of Tesla for first time in Europe -
+Tesla,2025-5(29-30),"05:47:04  [GLOSTO] (TSLA.O) - Tesla top gainer in Demars Financial Group soars 38.9% in 57 days, hits 98-day high; -$3.92 [-1.1%] -"
+Tesla,2025-5(29-30),"05:42:14  [QUANAV] (TSLA.O) - Elon Musk has to work 40 hours a week at Tesla, top investors say -"
+Tesla,2025-5(29-30),05:32:14  [ENTONL] (TSLA.O) - Here's How Elon Musk Plans to Fix the Recent Problems at X and Tesla -
+Tesla,2025-5(29-30),"05:14:10  [FOXNEW] (TSLA.O) - Chris Cillizza's Tesla vandalized, says obsession with politics is 'making us all crazy' -"
+Tesla,2025-5(29-30),05:11:41  [FORBES] (TSLA.O) - Elon Musk's Tesla Robotaxi Rollout Looks Like A Disaster Waiting To Happen.mp4 -
+Tesla,2025-5(29-30),04:58:26  [RTRS] (TSLA.O NVDA.O) - Indexes near flat following Fed minutes; Nvidia results ahead (US STOCKS) -
+Tesla,2025-5(29-30),04:38:16  [WNCOMA] (TSLA.O) - Tesla's plans to build factory in Australia prompt local backlash -
+Tesla,2025-5(29-30),04:34:10  [LIVEMI] (TSLA.O) - Telegram partners with xAI: Grok chatbot to be integrated in $300 million deal -
+Tesla,2025-5(29-30),"I see a new 760i with its clownishly oversized, overcompensating, MOAR combustion front end (MSRP $123,575) and I say:"
+Tesla,2025-5(29-30),04:28:14  [SCHCOM] (TSLA.O) - Target Tesla Stock Before the Rally Really Takes Off -
+Tesla,2025-5(29-30),"04:27:11  [YAHNEX] (TSLA.O) - Tesla, Inc. (TSLA): Jim Cramer Shares Key Catalyst That Could Make Stock Skyrocket -"
+Tesla,2025-5(29-30),04:23:13  [FORONL] (TSLA.O) - Elon Musk's little brother and one other Tesla board director sell stock worth nearly $200 million -
+Tesla,2025-5(29-30),04:22:36  [GLOBUL] (.IXIC TSLA.O) - Top Performers Past Week: Tesla (TSLA: $362.89) in top 3% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(29-30),"04:22:25  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $363.02) up 7.0% in 2 days Thursday May 29, 2025 01:31 AEST5 -"
+Tesla,2025-5(29-30),"04:22:18  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $363.02) up 7.0% in 2 days Thursday May 29, 2025 00:32 AEST5 -"
+Tesla,2025-5(29-30),"04:22:14  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $362.89) Wednesday May 28, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),04:13:17  [MSNUKA] (TSLA.O) - Pension fund investors demand Elon Musk work 40-hour week at Tesla -
+Tesla,2025-5(29-30),"04:12:26  [NOTENG] (TSLA.O) - Elon Musk says he's ""disappointed"" with Trump's tax policy -"
+Tesla,2025-5(29-30),"04:03:40  [STOOBS] (TSLA.O) - M1 Capital Management LLC Purchases New Shares in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"04:03:30  [STOOBS] (TSLA.O) - Copia Wealth Management Purchases New Shares in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"03:55:09  [INSMON] (TSLA.O LKFN.O) - Hedge Fund and Insider Trading News: Ray Dalio, David Tepper, Warren Buffett, Bill Ackman, Saba Capital Management, Impactive Capital, Lakeland Fin... -"
+Tesla,2025-5(29-30),"03:55:08  [YAHNEX] (TSLA.O) - Tesla and xAI merger possible, predicts Musk biographer Isaacson -"
+Tesla,2025-5(29-30),This is the first time since November 2021 that he has not owned the name.
+Tesla,2025-5(29-30),03:53:45  [NEWUSN] (000270.KS TSLA.O) - Tesla continues to outperform KIA Motors by 51.0% in the past month -
+Tesla,2025-5(29-30),03:53:18  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Honda Motor by 54.3% in the past month -
+Tesla,2025-5(29-30),03:52:40  [TECHCR] (TSLA.O) - Dozens of unsold Tesla Cybertrucks are piling up at Detroit parking lot -
+Tesla,2025-5(29-30),"03:52:08  [CERGEM] (TSLA.O THNK.ZA) - PKO Investment Management Joint Stock Co Takes $10.82 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"03:51:35  [CERGEM] (TSLA.O) - Thoma Capital Management LLC Invests $1.13 Million in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"03:50:44  [CERGEM] (TSLA.O) - Members Wealth LLC Takes Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"03:50:35  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Objective Capital Management LLC -"
+Tesla,2025-5(29-30),"03:50:18  [MARDAJ] (TSLA.O) - Copia Wealth Management Acquires New Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"03:48:52  [CNEVPO] (TSLA.O 9868.HK) - Xpeng launches Max variants for Mona M03, bringing Tesla FSD-like features to $18,040 model -"
+Tesla,2025-5(29-30),03:48:12  [OFFKUF] (TSLA.O) - The case against rooting for Tesla to fail -
+Tesla,2025-5(29-30),"03:44:12  [YAHUKI] (TSLA.O) - Tesla and xAI merger possible, predicts Musk biographer Isaacson -"
+Tesla,2025-5(29-30),"03:30:14  [WNCOMA] (TSLA.O) - Tesla's monthly sales in Europe fall by nearly 50%, signaling backlash against Musk -"
+Tesla,2025-5(29-30),03:27:21  [VALPUE] (TSLA.O) - Jalisco's state government has added Tesla Cybertrucks to its official patrol flee -
+Tesla,2025-5(29-30),"03:27:08  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR321.65) climbs 2.6% strengthening above moving average price, hits 93-day high; +EUR8.15 [+2.6%] Vol Index 3.... -"
+Tesla,2025-5(29-30),03:23:32  [SRILAN] (TSLA.O) - Tesla Sales Halve Across Europe Amid Growing Backlash Against Elon Musk -
+Tesla,2025-5(29-30),03:22:52  [GURCOM] (TSLA.O) - China Blinks? Rare Earth Lifeline May Be Coming for Tesla and Europe's Chipmakers -
+Tesla,2025-5(29-30),"03:16:38  [AUSAME] (TSLA.O) - Tesla's monthly sales in Europe fall by nearly 50%, signaling backlash against Musk -"
+Tesla,2025-5(29-30),03:13:14  [NOTENG] (TSLA.O 1810.HK) - World premiere of the Xiaomi YU7: the anti-Tesla Model Y electric SUV arrives with over 800 km and up to 690 hp. -
+Tesla,2025-5(29-30),03:11:35  [NOTENG] (TSLA.O) - Tesla sales fall by half in the European Union -
+Tesla,2025-5(29-30),03:11:34  [NOTENG] (TSLA.O) - Tesla sales fall 49% in April in Europe in reaction to Musk; China's SAIC grows -
+Tesla,2025-5(29-30),"03:10:14  [INSMON] (TSLA.O) - Tesla, Inc. (TSLA): Jim Cramer Shares Key Catalyst That Could Make Stock Skyrocket -"
+Tesla,2025-5(29-30),"03:06:51  [BENZIN] (TSLA.O) - Tesla Insider Sales Increase Ahead Of Robotaxi Launch: Kimbal Musk, Ira Ehrenpreis Sell $190M -"
+Tesla,2025-5(29-30),02:59:09  [CLECON] (TSLA.O) - Tesla Dropped from #2 Auto Brand to #3 Auto Brand in California in 1st Quarter -
+Tesla,2025-5(29-30),"02:56:13  [WATNEW] (TSLA.O) - 2,797 Shares in Tesla, Inc. (NASDAQ:TSLA) Bought by Thoma Capital Management LLC -"
+Tesla,2025-5(29-30),"02:55:39  [WATNEW] (TSLA.O) - Members Wealth LLC Purchases New Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"02:55:06  [GLOBUL] (.GDAXI .IXIC) - Tesla (TSLA: $362.89) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday May 28, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),"02:54:13  [GLOBUL] (.GDAXI .IXIC) - Tesla top gainer in Demars Financial Group soars 38.6% in 56 days, hits 97-day high Wednesday May 28, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),02:53:51  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Nissan Motor by 36.3% in the past month -
+Tesla,2025-5(29-30),02:53:44  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Toyota by 43.0% in the past month -
+Tesla,2025-5(29-30),02:31:12  [YAHUKI] (TSLA.O) - Tesla (TSLA) Surges on $500 Street-High Target Amid AI and Robotaxi Push -
+Tesla,2025-5(29-30),"02:22:36  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $363.02) up 7.0% in 2 days Thursday May 29, 2025 00:32 AEST5 -"
+Tesla,2025-5(29-30),"02:22:30  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $363.02) up 7.0% in 2 days Thursday May 29, 2025 01:31 AEST5 -"
+Tesla,2025-5(29-30),"02:22:27  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $362.89) Wednesday May 28, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),02:22:22  [GLOBUL] (.IXIC TSLA.O) - Top Performers Past Week: Tesla (TSLA: $362.89) in top 3% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(29-30),"02:18:13  [TRADAJ] (TSLA.O) - M1 Capital Management LLC Invests $863,000 in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),02:15:09  [RTRS] (TSLA.O) - Pension fund investors demand Musk work 40-hour week at Tesla - FT (MEDIA) -
+Tesla,2025-5(29-30),02:11:17  [FT] (TSLA.O) - Pension fund investors demand Musk work 40-hour week at Tesla -
+Tesla,2025-5(29-30),"02:01:48  [YAHNEX] (TSLA.O) - Musk, splitting with Trump, says he's ""disappointed"" by the GOP's ""massive spending bill"" -"
+Tesla,2025-5(29-30),"01:54:27  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $363.02) up 7.0% in 2 days Thursday May 29, 2025 01:31 AEST5 -"
+Tesla,2025-5(29-30),01:54:22  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Tata Motors by 35.2% in the past month -
+Tesla,2025-5(29-30),01:53:36  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla Continues to Outperform its Peers -
+Tesla,2025-5(29-30),"01:50:09  [YAHNEX] (OKTA.O NVDA.O) - Dow Jones Falls Before Nvidia Earnings; Okta, Box Move On Results; Tesla Holds Breakout -"
+Tesla,2025-5(29-30),"01:47:35  [DAIPOL] (TSLA.O) - Centaurus Financial Inc. Has $21.54 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),"01:47:29  [DAIPOL] (TSLA.O) - Lighthouse Financial LLC Acquires Shares of 6,209 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(29-30),01:45:07  [RTRS] (TSLA.O OKTA.O) - Wall St edges lower as markets await Nvidia earnings (US STOCKS) -
+Tesla,2025-5(29-30),01:44:32  [WNCOMA] (TSLA.O) - Humanoid vs robot: Tesla's Optimus stirs debate on droid utility in industries -
+Tesla,2025-5(29-30),01:44:12  [GLOTRA] (TSLA.O .NDX) - Tesla among top gainers of Demars Financial Group holdings; soars 39% in 57 days; -$2.04 [-0.6%] -
+Tesla,2025-5(29-30),"01:38:23  [SALMED] (TSLA.O) - Musk, splitting with Trump, says he's ""disappointed"" by the GOP's ""massive spending bill"" -"
+Tesla,2025-5(29-30),01:36:18  [YAHNEX] (TSLA.O) - Tesla (TSLA) Gets $355 Price Target as Robotaxi Launch Sparks Analyst Optimism -
+Tesla,2025-5(29-30),01:32:33  [QUANAV] (TSLA.O) - Chinese carmaker BYD sued over 'slave-like' labor conditions -
+Tesla,2025-5(29-30),01:29:19  [INSMON] (TSLA.O) - Tesla (TSLA) Gets $355 Price Target as Robotaxi Launch Sparks Analyst Optimism -
+Tesla,2025-5(29-30),01:27:02  [GURCOM] (TSLA.O) - Tesla (TSLA) Surges on $500 Street-High Target Amid AI and Robotaxi Push -
+Tesla,2025-5(29-30),"01:07:41  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $363.02) up 7.0% in 2 days Thursday May 29, 2025 00:32 AEST5 -"
+Tesla,2025-5(29-30),"01:04:21  [NEWUSN] (TSLA.O .NDX) - Tesla rises for a second consecutive day, a two-day rise of 7.0% Wednesday, May 28, 2025 10:00:00 -"
+Tesla,2025-5(29-30),"01:02:40  [VNEVIE] (9880.HK TSLA.O) - China's UBTech to launch $20,000 'home companion' robot rivaling Tesla Optimus -"
+Tesla,2025-5(29-30),"00:55:11  [GLOBUL] (.GDAXI .IXIC) - Tesla top gainer in Demars Financial Group soars 38.6% in 56 days, hits 97-day high Wednesday May 28, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),"00:55:08  [GLOBUL] (.GDAXI .IXIC) - Tesla (TSLA: $362.89) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday May 28, 2025 07:05 EDT -"
+Tesla,2025-5(29-30),00:54:04  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla Continues to Outperform its Peers -
+Tesla,2025-5(29-30),00:53:59  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla Continues to Outperform its Peers -
+Tesla,2025-5(29-30),00:42:43  [MEDIAI] (TSLA.O) - Chris Cillizza Reveals His Tesla Was Vandalized With 'Musk Is a Nazi' Sign at Son's Soccer Tournament -
+Tesla,2025-5(29-30),00:42:41  [GLOTRA] (TSLA.O .NDX) - Tesla among top gainers of Demars Financial Group holdings; soars 39% in 57 days; +13c [0.04%] -
+Tesla,2025-5(29-30),"00:41:18  [NEWNOW] (TSLA.O) - Tesla's monthly sales in Europe plunge by half, signaling backlash against Musk runs deep -"
+Tesla,2025-5(29-30),00:40:13  [TIMINT] (TSLA.O) - Is Elon Musk planning to distance himself from DOGE? Tesla CEO's sharp jab at Donald Trump's huge spending bill fuels rift rumours -

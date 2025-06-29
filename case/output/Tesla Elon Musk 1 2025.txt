@@ -1,0 +1,1476 @@
+firm_id,date,text
+Tesla,2025-1,"23:52:29  [GLOBEA] (.GDAXI .IXIC) - Tesla (TSLA: $403.84) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Thursday January 02, 2025 07:01 EST -"
+Tesla,2025-1,"23:52:22  [GLOBEA] (.GDAXI .IXIC) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $403.84) Thursday January 02, 2025 07:01 EST -"
+Tesla,2025-1,"23:52:18  [GLOBEA] (.GDAXI .IXIC) - Tesla (TSLA: $403.84) in bottom 2% performers of NASDAQ-100 Index Thursday January 02, 2025 07:01 EST -"
+Tesla,2025-1,23:52:14  [GLOBUL] (TSLA.O .NDX) - Top Performers Monthly: Tesla (TSLA: $403.84) in top 5% performers of NASDAQ-100 Index in December 2024 -
+Tesla,2025-1,"23:50:35  [TIMNOW] (TSLA.O) - Kekius Maximus Is Elon Musk, Again: 48 Hours After 'X' Shake Up, Tesla Boss Takes U-Turn -- -"
+Tesla,2025-1,23:47:41  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $403.84) in top 5% performers of NASDAQ-100 Index in December 2024 -
+Tesla,2025-1,"23:47:01  [BENZIN] (TSLA.O) - Tesla Shares Rise In Thursday Premarket After Cybertruck Qualifies For $7,500 EV Tax Credit (UPDATED) -"
+Tesla,2025-1,23:46:07  [HILLAB] (TSLA.O) - Las Vegas police praises Musk for help after Cybertruck explosion outside Trump hotel -- -
+Tesla,2025-1,23:42:32  [HINDUT] (TSLA.O) - Elon Musk changes his name on X again after Kekius Maximus. This time it's. -
+Tesla,2025-1,23:42:00  [GLOSTO] (TSLA.O) - ICYMI: Thursday's Preview: Can Tesla rebound after being down? -
+Tesla,2025-1,"23:38:46  [WNCOMA] (TSLA.O) - Army veterans, vehicle app: Shocking links between New Orleans attack, LA Tesla truck blast suspects -- -"
+Tesla,2025-1,"23:22:43  [EDICNN] (TSLA.O) - 5 things to know for Jan. 2: New Orleans attack, Tesla explosion, fireworks chaos, Puerto Rico power outage, debt ceiling -- -"
+Tesla,2025-1,23:22:28  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR396.55) down 5.3% in 2 days; -EUR22.20 [5.3%] Vol Index 2.5 [1 is avg] -
+Tesla,2025-1,23:18:43  [GLOSTO] (TSLA.O) - Update: Thursday's Preview: Can Tesla rebound after being down? -
+Tesla,2025-1,23:15:16  [YAHNEX] (TSLA.O) - Dow Jones Futures Rise To Start 2025; Tesla Climbs With Deliveries Due -- -
+Tesla,2025-1,23:09:00  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $403.84) in top 5% performers of NASDAQ-100 Index in December 2024 -
+Tesla,2025-1,"22:57:54  [GLOSTO] (TSLA.O) - Tesla surges 63% in 2024, leads Auto sector Tuesday December 31, 2024 -"
+Tesla,2025-1,22:55:07  [WNCOMA] (TSLA.O) - Tesla only EV in Israel to raise prices after tax hike -- -
+Tesla,2025-1,"22:55:01  [WNCOMA] (TSLA.O) - Musk defends Tesla Cybertruck's role in Las Vegas attack, explains how vehicle helped prevent more destruction -- -"
+Tesla,2025-1,"22:51:51  [LOCNEW] (TSLA.O) - 5 things to know for Jan. 2: New Orleans attack, Tesla explosion, fireworks chaos, Puerto Rico power outage, debt ceiling -- -"
+Tesla,2025-1,"22:48:06  [RTRS] (VOWG_p.DE VOLCARb.ST) - In Norway, nearly all new cars sold in 2024 were fully electric (UPDATE 3) -"
+Tesla,2025-1,"22:46:11  [EDICNN] (TSLA.O) - 5 things to know for Jan. 2: New Orleans attack, Tesla explosion, fireworks chaos, Puerto Rico power outage, debt ceiling -- -"
+Tesla,2025-1,22:40:07  [YAHNEX] (TSLA.O) - Tesla's Musk Says Cybertruck Blunted Impact of Las Vegas Explosion -- -
+Tesla,2025-1,22:37:27  [RTRS] (VOWG_p.DE VOLCARb.ST) - Chinese electric vehicles gain market share in Norway -
+Tesla,2025-1,"22:29:15  [KHAPRE] (TSLA.O) - Suspicious Tesla explosion near Trump Hotel kills one, injures seven -"
+Tesla,2025-1,"22:18:07  [YAHNEX] (TSLA.O PLTR.N) - Tesla, Palantir, and 8 Other Stocks Will Dominate 2025. The Case to Buy Big Tech. -- -"
+Tesla,2025-1,22:17:07  [YAHNEX] (TSLA.O) - Tesla Stock Caps Incredible Year With Lousy 4 Days. Now Onto 2025. -- -
+Tesla,2025-1,"22:17:06  [YAHNEX] (TSLA.O) - Tesla to Recall 77,713 China Vehicles Over Software Glitch, Airbag Fabric -- -"
+Tesla,2025-1,22:16:37  [YAHNEX] (TSLA.O) - Tesla's Delivery Results Are Coming. This Number Is Key for the Stock. -- -
+Tesla,2025-1,Tickers of interest: $ES $NQ $TSLA $META $AMZN $NVDA $AVGO $SOFI
+Tesla,2025-1,"22:12:08  [YAHNEX] (MRNA.O TSLA.O) - These Stocks Moved the Most Today: Super Micro, Moderna, Nvidia, MicroStrategy, Tesla, Palantir, Sangamo, and More -- -"
+Tesla,2025-1,"22:09:41  [YAHNEX] (NVDA.O TSLA.O) - These Stocks Are Moving the Most Today: Tesla, Palantir, Nvidia, SoFi, NIO, and More -- -"
+Tesla,2025-1,22:09:14  [YAHNEX] (TSLA.O) - Tesla Cybertruck Explodes Outside Trump Hotel. What Investors Need to Know. -- -
+Tesla,2025-1,22:07:39  [SHAENG] (TSLA.O) - Elon Musk Responds to Tesla Cybertruck Explosion: Wrong Vehicle -- -
+Tesla,2025-1,"22:06:48  [YAHNEX] (.GDAXI TSLA.O) - Biden was wrong to shun Musk, says Bill Clinton -- -"
+Tesla,2025-1,"21:58:39  [ABCNEY] (TSLA.O) - Las Vegas Cybertruck explosion investigation leads police to Colorado, sources say -- -"
+Tesla,2025-1,21:51:09  [LIVEMI] (TSLA.O) - Elon Musk endorses Sundar Pichai's New Year wish. This is what he said -- -
+Tesla,2025-1,21:47:27  [GLOWEE] (TSLA.O) - What the Beneish M-score tells us about Tesla -
+Tesla,2025-1,"21:46:49  [BENZIN] (TSLA.O) - Tesla Adds 11,000 Superchargers In 2024, Takes Total Count To Over 65,000 -"
+Tesla,2025-1,"21:42:12  [INDAFG] (TSLA.O) - Suspicious Tesla explosion near Trump Hotel kills one, injures seven -"
+Tesla,2025-1,21:37:04  [WNCOMA] (TSLA.O) - US Army Veteran Behind Tesla Truck Explosion Outside Trump Hotel: Report -- -
+Tesla,2025-1,21:36:13  [FIRSTP] (TSLA.O) - FBI calls Tesla cybertruck blast an 'isolated incident' amid New Orleans link speculation -- -
+Tesla,2025-1,21:32:06  [ITARTA] (TSLA.O) - FBI identifies driver of Cybertruck that exploded in Las Vegas -
+Tesla,2025-1,"21:26:50  [GHAAGE] (TSLA.O) - Fireworks, gas tanks and camping fuel used in Tesla Cybertruck explosion outside Las Vegas Trump Hotel -"
+Tesla,2025-1,21:12:13  [BLOCKO] (TSLA.O) - KEKIUS Memecoin Plummets 70% After Elon Musk Changes Name -
+Tesla,2025-1,"21:12:07  [NOTENG] (TSLA.O) - Elon Musk after U.S. bombing: ""They chose the wrong vehicle for a terrorist attack"". -"
+Tesla,2025-1,"21:01:20  [RTRS] (VOWG_p.DE VOLCARb.ST) - In Norway, nearly all new cars sold in 2024 were fully electric -"
+Tesla,2025-1,21:00:00  [RTRS] (TSLA.O) - Police probe motive in New Orleans truck rampage -
+Tesla,2025-1,20:59:38  [RTRS] (TSLA.O F.N) - Chinese EV makers extend buying incentives as price war enters third year -
+Tesla,2025-1,"20:51:50  [BENZIN] (TSLA.O) - Tesla's Cybertruck All-Wheel Drive Now Eligible For $7,500 EV Tax Credit -"
+Tesla,2025-1,"20:49:28  [CNNNWS] (TSLA.O) - Biden: Investigators Looking At Possible Link Between New Orleans Attack, Las Vegas Cybertruck Explosion; FBI Investigating Tesla Cybertruck Blast ... -"
+Tesla,2025-1,20:26:42  [RTRS] (TSLA.O NYT.N) - New York Times business news - Jan 2 (PRESS DIGEST) -
+Tesla,2025-1,"20:16:40  [BIZWAT] (TSLA.O) - Tesla Cybertruck Explosion Outside Trump Hotel Kills One, Sparks Terrorism Investigation -- -"
+Tesla,2025-1,20:13:15  [WNCOMA] (TSLA.O) - BYD chalks up new record as it narrows EV sales gap with Tesla -- -
+Tesla,2025-1,20:12:43  [WNCOMA] (TSLA.O) - What is Elon Musk's Tesla Cybertruck which exploded outside Trump's Las Vegas hotel? -- -
+Tesla,2025-1,19:57:12  [YAHIRE] (TSLA.O) - Matthew Livelsberger named as Cybertruck explosion suspect by local media -- -
+Tesla,2025-1,"19:56:37  [EURNEW] (TSLA.O) - Video. Tesla Cybertruck explosion near Trump hotel kills 1, injures 7 -- -"
+Tesla,2025-1,19:55:07  [WNCOMA] (TSLA.O) - Elon Musk backs Cybertruck after explosion: 'Picked the wrong vehicle for terrorist attack' -- -
+Tesla,2025-1,19:53:14  [WNCOMA] (TSLA.O) - Caught On Cam: Tesla Truck Explosion Outside Trump Hotel In Las Vegas Throws Man Several ... -- -
+Tesla,2025-1,"19:48:40  [WNCOMA] (TSLA.O) - Who was Matthew Livelsberger, 'suspect' in Tesla Cybertruck explosion outside Trump hotel in Las Vegas? -- -"
+Tesla,2025-1,19:46:17  [HINDUT] (TSLA.O) - What is Elon Musk's Tesla Cybertruck which exploded outside Trump's Las Vegas hotel? -
+Tesla,2025-1,"19:46:11  [HINDUT] (TSLA.O) - Who was Matthew Livelsberger? Driver of Cybertruck that exploded in Las Vegas identified as Colorado Springs native, 37 -"
+Tesla,2025-1,19:42:11  [MYJCOM] (TSLA.O) - Cybertruck filled with fuel and fireworks explodes at Trump's Las Vegas hotel 16 seconds -- -
+Tesla,2025-1,19:37:12  [SHICNA] (TSLA.O) - Tesla's bot figurine is selling at a premium online -- -
+Tesla,2025-1,19:36:40  [SAHREP] (TSLA.O) - US Army Veteran Matthew Livelsberger Identified As Driver In Fatal Elon Musk's Tesla Cybertruck Explosion -- -
+Tesla,2025-1,19:32:03  [MIRONL] (TSLA.O) - Trump Tower Las Vegas: Elon Musk slams 'evil knucklehead' terrorist after Tesla Cybertruck blown up -
+Tesla,2025-1,19:29:31  [RBCUKR] (TSLA.O) - Las Vegas Cybertruck explosion: Police probe ties to New Orleans terror attack -- -
+Tesla,2025-1,19:15:39  [WNCOMA] (TSLA.O) - Did U.S witness the first suicide bombing on its soil as Tesla Cybertruck explodes outside ... -- -
+Tesla,2025-1,19:12:14  [WNCOMA] (TSLA.O) - Details about the Tesla Cybertruck explosion in Los Angeles -- -
+Tesla,2025-1,"19:11:47  [MSNCAN] (TSLA.O) - Mortars, gas cannisters, fireworks found in Tesla Cybertruck that exploded near Trump's hotel -- -"
+Tesla,2025-1,"18:49:11  [GRACOM] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing driver -- -"
+Tesla,2025-1,18:28:36  [ITVNEX] (TSLA.O) - Firework-filled Tesla Cybertruck explodes at Trump's hotel -- -
+Tesla,2025-1,18:19:11  [WNCOMA] (TSLA.O) - Elon Musk suggests link between Las Vegas Cybertruck explosion and New Orleans pickup truck attack -- -
+Tesla,2025-1,"18:19:06  [DECHER] (TSLA.O) - Tesla Cybertruck erupts in flames at Trump Hotel, sparks security concerns -- -"
+Tesla,2025-1,"18:12:09  [NOTENG] (TSLA.O) - The Cybertruck that exploded at the Trump Hotel in Las Vegas was loaded with gas cylinders, fuel and pyrotechnics. -"
+Tesla,2025-1,"18:11:52  [BENZIN] (TSLA.O 002594.SZ) - Tesla Rival BYD Marks 50% Growth In December Passenger Vehicle Sales, Likely To Trump Tesla In Q4 BEV Sales Yet Again -"
+Tesla,2025-1,18:11:33  [NOTENG] (TSLA.O) - Biden discusses links in New Orleans bombings and Tesla Cybertruck at Trump's hotel -
+Tesla,2025-1,"18:05:40  [DAIJAG] (TSLA.O) - Tesla Cybertruck Explodes Outside Trump Hotel In Las Vegas, Elon Musk Says 'Bomb' Placed Inside Vehicle | Video -- -"
+Tesla,2025-1,18:03:02  [SAUENE] (TSLA.O) - Tesla's Shanghai Energy Storage Plant Begins Trial Production -- -
+Tesla,2025-1,17:54:57  [WNCOMA] (TSLA.O) - One dead after Tesla Cybertruck explodes outside Trump hotel in Las Vegas -- -
+Tesla,2025-1,17:53:38  [WNCOMA] (TSLA.O) - 1 killed in Tesla Cybertruck explosion in Las Vegas -- -
+Tesla,2025-1,"17:47:09  [NEWPEO] (TSLA.OQ TSLA.O) - Elon Musk CEO of Tesla in top 9% of price performers of NASDAQ stocks in the forth quarter of 2024 (aka Musk Elon) Thursday January 02, 2025 -"
+Tesla,2025-1,17:41:48  [CAPFMK] (TSLA.O) - Cybertruck filled with fuel and fireworks explodes at Trump's Las Vegas hotel -- -
+Tesla,2025-1,17:41:15  [INDTOE] (TSLA.O) - Las Vegas Tesla Cybertruck explosion; Pinarayi Vijayan's comment on Sanatana Dharma -- -
+Tesla,2025-1,17:36:41  [ECOCOM] (TSLA.O) - Did U.S witness the first suicide bombing on its soil as Tesla Cybertruck explodes outside Trump International Hotel in Las Vegas? Here's all you n... -
+Tesla,2025-1,17:24:01  [NDTNEW] (TSLA.O) - New Video Shows Tesla Truck Exploding Outside Trump Hotel In Las Vegas -- -
+Tesla,2025-1,17:14:28  [NOTENG] (TSLA.O) - Was Tesla Cybertruck explosion in front of Trump's hotel an attack? -
+Tesla,2025-1,17:14:16  [NOTENG] (TSLA.O) - Investigation into whether Tesla explosion is connected to New Orleans attack: Joe Biden -
+Tesla,2025-1,"17:14:10  [NOTENG] (TSLA.O) - Tesla vehicle blown up in front of Trump hotel in Las Vegas was loaded with gas cylinders, fuel and mortars -"
+Tesla,2025-1,17:12:00  [NOTENG] (TSLA.O) - VIDEO: Tesla Cybertruck explodes in Las Vegas; at least one killed -
+Tesla,2025-1,"17:10:43  [DPAENG] (TSLA.O) - 1ST LEADFBI investigating whether terrorism is behind Tesla truck explosionBy Marc Kalpidis and Miriam Widman, dpa -"
+Tesla,2025-1,"17:05:37  [AMMNEW] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing driver -- -"
+Tesla,2025-1,"16:58:40  [DECHER] (TSLA.O) - Mass shooting in outside New York night club, 10 wounded: Report -- -"
+Tesla,2025-1,16:55:10  [INDTOE] (TSLA.O) - 1 killed in Tesla Cybertruck explosion in Las Vegas -- -
+Tesla,2025-1,16:51:38  [WNCOMA] (TSLA.O) - Watch: Moment when Tesla Cybertruck burst into flames outside Trump\u2019s Las Vegas hotel -- -
+Tesla,2025-1,16:49:06  [NEWAUA] (TSLA.O) - Missing UK woman found alive and well 52 years after going missing -- -
+Tesla,2025-1,"16:46:37  [WNCOMA] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing driver -- -"
+Tesla,2025-1,16:44:05  [MSNAUS] (TSLA.O) - Evil knuckleheads: Elon Musk speaks out amid new revelations on Cybertruck blast at Trump Hotel -- -
+Tesla,2025-1,16:42:25  [BUSINT] (TSLA.O) - Las Vegas police thanked Elon Musk for investigating the Tesla Cybertruck blast outside Trump's hotel -
+Tesla,2025-1,16:42:07  [TIMINT] (TSLA.O) - 'Picked the wrong vehicle for a terrorist attack': Elon Musk reacts to Tesla Cybertruck explosion outside Trump hotel -- -
+Tesla,2025-1,16:41:40  [DIGITI] (TSLA.O) - Humanoid robots not using Dojo chips: A glimpse into Tesla's AI and computing puzzle -- -
+Tesla,2025-1,16:32:06  [MIRONL] (TSLA.O) - Shocking photo shows aftermath of Tesla Cybertruck explosion with petrol canisters and firework mortars -
+Tesla,2025-1,16:26:42  [TAITIM] (TSLA.O) - BYD chalks up new record as it narrows EV sales gap with Tesla -- -
+Tesla,2025-1,16:26:08  [MONCON] (TSLA.O) - Cybertruck blast: Tesla chief Elon Musk says 'bomb' placed inside caused explosion -- -
+Tesla,2025-1,"El Salvador hits historic low of 114 homicides in 2024, down from a staggering 6,656 in 2015."
+Tesla,2025-1,The real reason she's refusing to investigate the rape gangs is that it would obviously lead to the blaming of Keir Stamer (head of the CPS at the time). -
+Tesla,2025-1,16:22:28  [HINDUT] (TSLA.O) - Shocking connection between Tesla truck that exploded and pickup truck used in New Orleans massacre revealed -
+Tesla,2025-1,16:13:37  [WNCOMA] (TSLA.O) - Shocking connection between Tesla truck that exploded and pickup truck used in New Orleans massacre revealed -- -
+Tesla,2025-1,"16:11:44  [NOTENG] (TSLA.O) - The Tesla Cybertruck that exploded in Las Vegas was loaded with gas cylinders, fuel and mortars. -"
+Tesla,2025-1,16:00:00  [THECOM] (TSLA.O) - Suspected Las Vegas Cybertruck Bomber Was a 'Big' Trump Supporter: Source -
+Tesla,2025-1,15:46:37  [ASIAON] (TSLA.O) - Elon Musk changes his name to Kekius Maximus on X -- -
+Tesla,2025-1,"15:44:05  [YAHNEX] (BA.N TSLA.O) - Stocks to Watch Tuesday: MicroStrategy, Tesla, Boeing -- -"
+Tesla,2025-1,15:42:37  [MIDDAY] (TSLA.O) - Tesla CEO Elon Musk suspects a possible link between Cybertruck explosion and New Orleans attack -- -
+Tesla,2025-1,15:39:38  [HAREXP] (TSLA.O) - One dead in truck blast outside Trump Las Vegas hotel -- -
+Tesla,2025-1,15:31:55  [FREJOU] (TSLA.O) - Tesla Cybertruck Explodes At Entrance Of Trump International Hotel In Las Vegas; VIDEO Surfaces -
+Tesla,2025-1,15:31:54  [MIRONL] (TSLA.O) - Las Vegas rocked by hostage situation on a bus just hours after Tesla Cybertruck 'terror attack' -
+Tesla,2025-1,"15:28:06  [CAPBRO] (TSLA.O) - Las Vegas police, FBI investigate deadly Tesla Cybertruck explosion at Trump hotel -- -"
+Tesla,2025-1,15:26:39  [SKYAUS] (TSLA.O) - 'Evil knuckleheads': Elon Musk speaks out amid new revelations on Cybertruck blast at Trump Hotel -- -
+Tesla,2025-1,"15:14:07  [WNCOMA] (TSLA.O) - Tesla Cybertruck explodes outside Trump hotel in Las Vegas, killing one -- -"
+Tesla,2025-1,15:13:12  [AFRNEX] (TSLA.O) - Germany accuses Elon Musk of trying to interfere in its national elections -
+Tesla,2025-1,15:12:37  [FIRSTP] (TSLA.O) - Musk suspects Tesla Cybertruck blowing up near Trump hotel in Vegas to be an act of terrorism -- -
+Tesla,2025-1,"15:11:43  [NOTENG] (TSLA.O) - Vehicle that exploded in Las Vegas was loaded with gas cylinders, fuel and mortars -"
+Tesla,2025-1,"15:09:53  [RTRS] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing driver (UPDATE 5) -"
+Tesla,2025-1,Who was the head of the CPS when rape gangs were allowed to exploit young girls without facing justice?
+Tesla,2025-1,"14:43:37  [ASIAON] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing one -- -"
+Tesla,2025-1,14:42:30  [DIGITI] (TSLA.O) - BYD chalks up new record as it narrows EV sales gap with Tesla -- -
+Tesla,2025-1,14:29:39  [WNCOMA] (TSLA.O) - One Killed As Tesla Cybertruck Explodes Outside Trump Hotel In Las Vegas | Video -- -
+Tesla,2025-1,"14:15:36  [WNCOMA] (TSLA.O) - Firework mortars, gas cannisters stuffed inside Tesla that exploded outside Trump's Las Vegas hotel -- -"
+Tesla,2025-1,"14:13:41  [WNCOMA] (TSLA.O) - 1 dead in Las Vegas Tesla Cybertruck blast, Elon Musk hints at New Orleans link -- -"
+Tesla,2025-1,14:12:00  [NOTENG] (TSLA.O) - Elon Musk claims that a bomb or pyrotechnics are the cause of the Cybertruck explosion. -
+Tesla,2025-1,14:08:40  [NBCNEW] (TSLA.O) - Las Vegas police show video of Tesla Cybertruck explosion at Trump hotel -- -
+Tesla,2025-1,14:07:41  [SHACHI] (TSLA.O) - President Biden confirms probe into 'possible connection' between New Orleans attack and Las Vegas Cybertruck explosion -- -
+Tesla,2025-1,14:03:37  [INVAUA] (TSLA.O) - One dead in truck blast outside Trump Las Vegas hotel -- -
+Tesla,2025-1,14:02:09  [DAIONL] (TSLA.O) - Vegas is rocked by hostage situation on a bus just hours after Tesla Cybertruck 'terror attack' -
+Tesla,2025-1,14:00:39  [MACAUA] (TSLA.O) - One dead in truck blast outside Trump Las Vegas hotel -- -
+Tesla,2025-1,"13:49:43  [WHADAY] (TSLA.O) - Vegas is rocked by hostage crisis on a bus, just hours after Tesla Cybertruck 'terror attack' -- -"
+Tesla,2025-1,13:49:37  [GLONEW] (TSLA.O) - At least 1 dead after Tesla Cybertruck explodes outside Trump hotel in Las Vegas -- -
+Tesla,2025-1,13:48:09  [WNCOMA] (TSLA.O) - China EV maker BYD closes in on Tesla as sales jump -- -
+Tesla,2025-1,13:47:12  [MEDIAI] (TSLA.O) - 'Picked the Wrong Vehicle': Elon Musk Boasts Tesla Cybertruck Contained Explosion at Trump Hotel -
+Tesla,2025-1,13:46:42  [LITCOM] (TSLA.O) - One dead in truck blast outside Trump Las Vegas hotel -- -
+Tesla,2025-1,13:45:41  [SOUAUA] (TSLA.O) - One dead in truck blast outside Trump Las Vegas hotel -- -
+Tesla,2025-1,"13:42:38  [KATPOS] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing driver -- -"
+Tesla,2025-1,"Elected on lies and hated in office, Starmer is a disaster."
+Tesla,2025-1,13:34:17  [MINTNE] (TSLA.O) - WATCH: Dramatic visuals show explosives packed into Tesla Cybertruck that blew up outside Trump Las Vegas hotel -
+Tesla,2025-1,13:23:47  [XINHUN] (TSLA.O) - 2nd LD-Writethru-China Focus: Tesla's Shanghai energy storage Megafactory begins trial production -
+Tesla,2025-1,13:19:38  [LIVEMI] (TSLA.O) - WATCH: Dramatic visuals show explosives packed into Tesla Cybertruck that blew up outside Trump Las Vegas hotel -- -
+Tesla,2025-1,13:16:36  [NBCNEW] (TSLA.O) - 1 dead after Tesla Cybertruck bursts into flames outside Trump hotel in Las Vegas -- -
+Tesla,2025-1,13:12:18  [NOTENG] (TSLA.O) - Cybertruck. A Tesla car exploded in front of the Trump International Hotel in Las Vegas: one dead and seven injured. -
+Tesla,2025-1,13:12:04  [NOTENG] (TSLA.O) - At least one person dies in Tesla explosion in front of Trump Hotel in Las Vegas -
+Tesla,2025-1,13:11:57  [NOTENG] (TSLA.O) - What Elon Musk said about the Cybertruck explosion in front of a Trump hotel. -
+Tesla,2025-1,"13:07:36  [TIMNOW] (TSLA.O) - How Tesla's Cybertruck Became A Shield In Las Vegas Trump Hotel Blast, Musk Explains -- -"
+Tesla,2025-1,"13:05:38  [MONCON] (TSLA.O) - Breaking News Live: US probing New Orleans attack, Cybertruck explosion, says Biden -- -"
+Tesla,2025-1,"13:05:13  [BUSWOS] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing driver -- -"
+Tesla,2025-1,13:04:14  [SKYAUS] (TSLA.O) - 'Evil knuckleheads picked the wrong vehicle': Cybertruck contained blast at Trump Hotel -- -
+Tesla,2025-1,Return the FBI to its mission of investigating criminals and terrorists.
+Tesla,2025-1,"13:02:02  [MINTNE] (TSLA.O) - Viral Video: Tesla Cybertruck explodes outside Trump Las Vegas hotel, Musk says his team is investigating -"
+Tesla,2025-1,12:59:32  [WNCOMA] (TSLA.O) - 5 minutes to charge an EV? That's where China is winning the race against mighty ... -- -
+Tesla,2025-1,"12:59:10  [PEOSDB] (TSLA.O) - 1 dead, 7 injured after Tesla Cybertruck explodes outside Trump hotel in Las Vegas -- -"
+Tesla,2025-1,"12:59:08  [WNCOMA] (TSLA.O) - 1 dead, 7 injured after Tesla Cybertruck explodes outside Trump hotel in Las Vegas -- -"
+Tesla,2025-1,"12:44:06  [LIVEMI] (TSLA.O) - Viral Video: Tesla Cybertruck explodes outside Trump Las Vegas hotel, Musk says his team is investigating -- -"
+Tesla,2025-1,12:38:41  [YAHSIN] (TSLA.O) - Video shows smoke near Trump Vegas hotel after cybertruck explosion -- -
+Tesla,2025-1,"12:35:38  [HAREXP] (TSLA.O) - Truck explodes outside Trump Las Vegas hotel, one dead -- -"
+Tesla,2025-1,12:29:08  [SKYAUS] (TSLA.O) - Investigation underway following Tesla Cybertruck explosion outside Trump hotel in Las Vegas -- -
+Tesla,2025-1,"Nicole was raped and pimped at the age of 11 by members of a grooming gang in Telford, one of many, many cases in that area."
+Tesla,2025-1,Some of us have been trying to warn you for years. -
+Tesla,2025-1,12:12:21  [NOTENG] (TSLA.O) - Elon Musk claims that a bomb or pyrotechnics are the cause of the Cybertruck explosion. -
+Tesla,2025-1,12:12:11  [NOTENG] (TSLA.O) - Elon Musk reported on Cybertruck explosion in Las Vegas -
+Tesla,2025-1,"12:11:58  [NOTENG] (TSLA.O) - Tesla car exploded in front of Trump Tower in Las Vegas: one man killed, at least seven injured -"
+Tesla,2025-1,"12:11:43  [NOTENG] (TSLA.O) - Death confirmed in Tesla Cybertruck explosion in front of Trump Hotel and act investigated as terrorism, this much is known -"
+Tesla,2025-1,12:11:10  [NOTENG] (TSLA.O) - Elon Musk rules out Tesla Cybertruck failure after explosion in front of Trump Tower -
+Tesla,2025-1,"12:04:36  [ECOCOM] (TSLA.O) - Tesla cybertruck explodes outside Trump hotel in Las Vegas, killing one -- -"
+Tesla,2025-1,"12:03:39  [DECHER] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing one -- -"
+Tesla,2025-1,"12:02:46  [LIVEMI] (TSLA.O) - Elon Musk says Cybertruck explosion, F-150 suicide bomb in New Orleans 'linked in some way' -- -"
+Tesla,2025-1,"He tried to send a message by using a Tesla, but it ended up saving lives instead."
+Tesla,2025-1,12:02:08  [DAIONL] (TSLA.O) - Melania breaks silence on Tesla Cybertruck explosion outside Trump Las Vegas hotel -
+Tesla,2025-1,11:48:05  [WNCOMA] (TSLA.O) - BYD chalks up new record EV sales as it narrows gap with Tesla -- -
+Tesla,2025-1,11:45:37  [COITEL] (TSLA.O) - Cybertruck explosion at Trump hotel linked to bomb or fireworks: Musk -- -
+Tesla,2025-1,11:41:58  [GURCOM] (TSLA.O) - Tesla (TSLA) Q4 Delivery Data Anticipation and Market Impact -
+Tesla,2025-1,"11:38:50  [HINDUT] (TSLA.O) - Elon Musk links Tesla Cybertruck, New Orleans incidents to terrorism -"
+Tesla,2025-1,"11:37:38  [CANTIO] (TSLA.O) - Truck explodes outside Trump Las Vegas hotel, one dead -- -"
+Tesla,2025-1,"Police credited the lack of damage to the Trump Hotel to the strength of the Cybertruck, as it remained mostly intact."
+Tesla,2025-1,11:30:57  [WNCOMA] (TSLA.O) - Police Investigating Las Vegas Trump Hotel Cybertruck Explosion as 'Possible Act of Terror' -- -
+Tesla,2025-1,11:27:36  [ECOCOM] (TSLA.O) - 5 minutes to charge an EV? That's where China is winning the race against mighty U.S and Tesla -- -
+Tesla,2025-1,"11:13:15  [RTRS] (TSLA.O) - Biden says investigators looking for links between New Orleans attack, Las Vegas incident -"
+Tesla,2025-1,11:13:13  [NOTENG] (TSLA.O) - Elon Musk claims that a bomb or pyrotechnics are the cause of the Cybertruck explosion. -
+Tesla,2025-1,11:12:08  [NOTENG] (TSLA.O) - Tragedy in Las Vegas: Tesla Cybertruck van explodes outside Donald Trump's hotel -
+Tesla,2025-1,11:12:01  [NOTENG] (TSLA.O) - One dead after electric truck explosion in Las Vegas -
+Tesla,2025-1,11:11:32  [NOTENG] (TSLA.O) - Tesla Cybertruck catches fire outside Trump Hotel in Las Vegas -
+Tesla,2025-1,11:11:26  [NOTENG] (TSLA.O) - Cybertruck explosion in front of Trump Tower investigated as possible terrorist act -
+Tesla,2025-1,"11:08:40  [MSNCAN] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing one -- -"
+Tesla,2025-1,"11:06:42  [RAPPHI] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing 1 -- -"
+Tesla,2025-1,"11:05:10  [EDGEMA] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing one -- -"
+Tesla,2025-1,"2. In two cases, the fathers tracked down their daughters to save them."
+Tesla,2025-1,3. The fathers were arrested by police when called to the scene.
+Tesla,2025-1,10:47:36  [YAHNEX] (TSLA.O) - BYD Chalks Up New Record as It Narrows EV Sales Gap With Tesla -- -
+Tesla,2025-1,10:45:37  [MSNAUS] (TSLA.O) - Tesla Cybertruck Reportedly Catches Fire Outside Trump Hotel In Las Vegas -- -
+Tesla,2025-1,"10:29:37  [WNCOMA] (TSLA.O) - Tesla Cybertruck explosion at Trump hotel in Vegas investigated as a possible terrorist act, law ... -- -"
+Tesla,2025-1,10:13:28  [NOTENG] (TSLA.O) - Las Vegas police investigate Tesla Cybertruck explosion outside Trump International Hotel -
+Tesla,2025-1,10:13:19  [NOTENG] (TSLA.O) - One person dies after Tesla Cybertruck explodes in front of 'Trump Hotel' in Las Vegas -
+Tesla,2025-1,10:13:18  [NOTENG] (TSLA.O) - Tesla Cybertruck explosion in front of Trump Hotel investigated as possible terrorist act -
+Tesla,2025-1,10:12:38  [TIMNOW] (TSLA.O) - Possible Link? Vehicles In Cybertruck Explosion And New Orleans Attack Rented Via Turo -- -
+Tesla,2025-1,10:12:21  [NOTENG] (TSLA.O) - Tesla Cybertruck catches fire in front of Trump Hotel in Las Vegas (VIDEO) -
+Tesla,2025-1,Turning a blind eye to grooming and gangrape in the name of political correctness.
+Tesla,2025-1,Allowing vulnerable children to be mutilated and sterilised in the name of inclusivity.
+Tesla,2025-1,10:09:38  [WNCOMA] (TSLA.O) - One killed as Tesla cybertruck explodes outside Trump's Las Vegas hotel -- -
+Tesla,2025-1,"10:03:39  [CHAASI] (TSLA.O) - Tesla Cybertruck explodes outside Trump Las Vegas hotel, killing one -- -"
+Tesla,2025-1,09:53:43  [BUSTIM] (TSLA.O) - BYD chalks up new record as it narrows EV sales gap with Tesla -- -
+Tesla,2025-1,09:52:38  [VICCAO] (TSLA.O) - Tesla Cybertruck Explosion at Trump Hotel Under Investigation as Possible Act of Terror -- -
+Tesla,2025-1,09:49:44  [WNCOMA] (TSLA.O) - One person dead after Tesla Cybertruck explodes outside Trump's Las Vegas hotel -- -
+Tesla,2025-1,09:45:14  [SIGDEV] (TSLA.O) - Musk Says Confirmed That Explosion Was Caused By Very Large Fireworks And/Or A Bomb Carried In Bed Of Rented Cybertruck And Is Unrelated To Vehicle Itself -
+Tesla,2025-1,I urge All entrepreneurs and business owners in the UK to get behind Reform.
+Tesla,2025-1,09:37:07  [NBCNEW] (TSLA.O) - Tesla Cybertruck explosion in Las Vegas being investigated as possible terror attack -- -
+Tesla,2025-1,09:35:42  [RTRS] (TSLA.O) - Musk Says Confirmed That Explosion Was Caused By Very Large Fireworks And/Or A Bomb Carried In Bed Of Rented Cybertruck And Is Unrelated To Vehicle Itself (BRIEF) -
+Tesla,2025-1,09:31:34  [RTRS] (TSLA.O) - MUSK: ALL VEHICLE TELEMETRY WAS POSITIVE AT THE TIME OF THE EXPLOSION (RPT) -
+Tesla,2025-1,09:31:33  [RTRS] (TSLA.O) - MUSK- CONFIRMED THAT EXPLOSION WAS CAUSED BY VERY LARGE FIREWORKS AND/OR A BOMB CARRIED IN BED OF RENTED CYBERTRUCK AND IS UNRELATED TO VEHICLE ITSELF (FIXES TYPO) (REFILE) -
+Tesla,2025-1,09:31:33  [RTRS] (TSLA.O) - MUSK - CONFIRMED THAT EXPLOSION WAS CAUSED BY VERY LARGE FIREWORKS AND/OR A BOMB CARRIED IN BED OF RENTED CYBERTRUCK AND IS UNRELATED TO VEHICLE ITSELF (RPT) -
+Tesla,2025-1,"09:29:37  [WNCOMA] (TSLA.O) - Police: 1 Dead, 7 Injured in Tesla Cybertruck Explosion at Vegas Trump Hotel -- -"
+Tesla,2025-1,"09:17:09  [STRMLS] (TSLA.O) - 1 dead, 7 injured after Tesla Cybertruck explodes outside Trump hotel in Las Vegas -- -"
+Tesla,2025-1,"09:13:40  [NOTENG] (TSLA.O) - Alarm over Tesla car explosion in front of Trump Tower in Las Vegas: one killed, several injured -"
+Tesla,2025-1,"09:13:33  [NOTENG] (TSLA.O) - Tesla vehicle explodes outside Trump hotel in Las Vegas; one person dead, several injured -"
+Tesla,2025-1,09:12:59  [NOTENG] (TSLA.O) - At least one dead when Elon Musk's Tesla explodes outside Trump hotel in Las Vegas -
+Tesla,2025-1,Will post more information as soon as we learn anything.
+Tesla,2025-1,"09:10:40  [WNCOMA] (TSLA.O) - 1 dead, 7 injured after Tesla Cybertruck explodes outside Trump hotel in Las Vegas -- -"
+Tesla,2025-1,09:10:40  [WNCOMA] (TSLA.O) - FLASH: Police Treating Tesla Cybertruck Explosion Outside Trump Hotel As Possible Terror Attack -- -
+Tesla,2025-1,"09:01:39  [TIMNOW] (TSLA.O) - Trump Hotel Cybertruck Explosion Investigated As Possible Act of Terror, Elon Musk Reacts -- -"
+Tesla,2025-1,"08:51:37  [CHIUSE] (TSLA.O) - 1 dead, 7 injured after Tesla Cybertruck explodes outside Trump hotel in Las Vegas -- -"
+Tesla,2025-1,"08:48:37  [CHIORG] (TSLA.O) - 1 dead, 7 injured after Tesla Cybertruck explodes outside Trump hotel in Las Vegas -- -"
+Tesla,2025-1,08:46:39  [YAHIRE] (TSLA.O) - Tesla's Deadly Trump Tower Cybertruck Explosion in Vegas Mocked as 'Perfect Metaphor' for 2025 -- -
+Tesla,2025-1,"08:41:48  [XINHUN] (TSLA.O) - 1 dead, 7 injured after Tesla Cybertruck explodes outside Trump hotel in Las Vegas -"
+Tesla,2025-1,08:37:07  [YAHSIN] (TSLA.O) - Tesla's Deadly Trump Tower Cybertruck Explosion in Vegas Mocked as 'Perfect Metaphor' for 2025 -- -
+Tesla,2025-1,08:32:38  [WNCOMA] (TSLA.O) - Donald Trump annoyed with Elon musk as honeymoon seems to be over; insiders say the President-elect has sh -- -
+Tesla,2025-1,08:11:53  [SEECOM] (TSLA.O) - Elon Musk says Tesla is investigating a Cybertruck explosion in Las Vegas -
+Tesla,2025-1,"08:11:38  [SHAENG] (TSLA.O) - Tesla Cybertruck explodes outside Trump hotel in Las Vegas, killing driver -- -"
+Tesla,2025-1,08:10:26  [RTRS] (TSLA.O) - Musk says Tesla investigating Cybertruck fire in Las Vegas -
+Tesla,2025-1,"08:06:30  [DAIOHI] (TSLA.O) - Tesla Cybertruck explodes outside Trump hotel in Las Vegas: 1 dead, 7 injured -- -"
+Tesla,2025-1,08:05:41  [ECOCOM] (TSLA.O) - Donald Trump annoyed with Elon musk as honeymoon seems to be over; insiders say the President-elect has shown growing signs of frustration with the... -
+Tesla,2025-1,07:52:41  [DIGTRE] (TSLA.O 005380.KS) - Hyundai Ioniq 9 vs. Tesla Model Y: Does electric SUV beat the bestselling EV? -- -
+Tesla,2025-1,07:52:28  [RTRS] (TSLA.O) - ELON MUSK ON CYBERTRUCK BLAST SAYS WHOLE TESLA SENIOR TEAM IS INVESTIGATING THIS MATTER RIGHT NOW - X POST -
+Tesla,2025-1,Will post more information as soon as we learn anything.
+Tesla,2025-1,07:42:36  [FOXNEW] (TSLA.O) - Las Vegas police investigate Tesla Cybertruck fire in front of Trump Towers: Report -- -
+Tesla,2025-1,07:12:48  [NOTENG] (TSLA.O) - Tesla car exploded and caught fire outside Donald Trump's tower in Las Vegas -
+Tesla,2025-1,07:12:37  [MSNUKA] (TSLA.O UBER.N) - Uber CEO Open To Tesla Collaboration Amid Robotaxi Race Because 'Competing With Elon Musk Is No Easy Matter' -- -
+Tesla,2025-1,"07:12:14  [NOTENG] (TSLA.O) - Tesla Cybertruck was to be sold at $100,000, but the price was much cheaper than expected -"
+Tesla,2025-1,07:11:54  [BENZIN] (TSLA.O) - Tesla Cybertruck Ignites Outside Trump International Hotel In Las Vegas -
+Tesla,2025-1,06:52:38  [WALPIT] (TSLA.O) - Tesla and Nvidia Snubbed: Fund Managers Back Two New Tech Stars -- -
+Tesla,2025-1,"06:02:20  [HINDUT] (TSLA.O) - Tesla Cybertruck 'explodes' at Trump International Hotel in Las Vegas, video goes viral -"
+Tesla,2025-1,05:30:38  [WNCOMA] (TSLA.O) - First disagreement between Musk and Donald Trump? President-elect backs Speaker Mike Johnson but Elon has -- -
+Tesla,2025-1,05:19:09  [WHADAY] (TSLA.O) - Tesla Cybertruck bursts into flames outside Trump's swanky hotel in Las Vegas -- -
+Tesla,2025-1,05:02:13  [DAIONL] (TSLA.O) - Elon Musk reveals what caused huge Tesla Cybertruck explosion outside Trump hotel in Vegas hours after New Orleans 'ISIS rampage'... as insiders in... -
+Tesla,2025-1,04:57:36  [MSNSOU] (TSLA.O) - This Tesla Model 3 Rival In China Is Affordable Absurdity -- -
+Tesla,2025-1,04:54:36  [ECOCOM] (TSLA.O) - First disagreement between Musk and Donald Trump? President-elect backs Speaker Mike Johnson but Elon has second thoughts -- -
+Tesla,2025-1,"03:42:36  [AUTCOO] (TSLA.O 002594.SZ) - BYD sales hit record, inch closer to Tesla -- -"
+Tesla,2025-1,03:41:36  [YAHNEX] (TSLA.O) - Dow Jones Futures: Get Ready For 2025; Tesla Loses BEV Crown -- -
+Tesla,2025-1,"02:34:37  [PEOSDA] (TSLA.O) - Tesla's Shanghai Megapack energy storage plant begins trial production, to start mass production early next year -"
+Tesla,2025-1,as always review and reflect and make tweaks & improvements to your trading plan
+Tesla,2025-1,and if running a sub service of any kind SHOW YOUR RESULTS!
+Tesla,2025-1,01:51:45  [CNEVPO] (TSLA.O) - Tesla to start deploying V4 Superchargers in China in 2025 -
+Tesla,2025-1,01:20:07  [ECOCOM] (TSLA.O) - Elon Musk changes his name on X to Kekius Maximus; here's why he did it and what it means -- -
+Tesla,2025-1,01:00:36  [YAHNEX] (TSLA.O) - Dow Jones Futures: What To Do After Weak End To 2024; Tesla Loses BEV Crown -- -
+Tesla,2025-1,"00:44:41  [WNCOMA] (TSLA.O) - China's BYD surged to a new sales record, challenging Tesla for EV dominance -- -"
+Tesla,2025-1,"00:40:06  [YAHNEX] (TSLA.O) - China's BYD surged to a new sales record, challenging Tesla for EV dominance -- -"
+Tesla,2025-1,00:17:07  [AUSAME] (TSLA.O) - Tesla reportedly replacing some laid-off US workers with those holding H-1B visas -
+Tesla,2025-1,"00:03:39  [INSMON] (.IXIC TSLA.O) - Tesla, Inc. (TSLA): UBS Maintains Sell Rating with $226 Target Amid AI Optimism and EV Market Competition -- -"
+Tesla,2025-1,"00:02:33  [BUSINT] (TSLA.O) - China's BYD surged to a new sales record, challenging Tesla for EV dominance -"
+Tesla,2025-1,"23:22:08  [WNCOMA] (TSLA.O) - Elon Musk Reportedly Renting $2,000-A-Night Cottage At Trumps Mar-a-Lago -- -"
+Tesla,2025-1,"The lenient sentences, the attempts to stop investigations and no authorities punished"
+Tesla,2025-1,22:38:11  [THECOS] (TSLA.O) - EV car buyers may ditch Tesla for new rivals in 2025 -- -
+Tesla,2025-1,22:30:43  [KNOBYL] (TSLA.O) - Germany accuses Elon Musk of trying to interfere in its national elections -
+Tesla,2025-1,22:12:38  [EDGEMA] (TSLA.O) - BYD chalks up new record as it narrows EV sales gap with Tesla -- -
+Tesla,2025-1,That's over 20x 2nd place worldwide. That's over 500x 2nd place in the US.
+Tesla,2025-1,Because to qualify to build networks you have to *prioritize hiring people with criminal records.*
+Tesla,2025-1,The money wasn't really meant to connect rural broadband. It was meant to be funneled into left-wing NGOs in order to enrich the party faithful -
+Tesla,2025-1,"21:00:10  [WNCOMA] (TSLA.O) - Elon Musk celebrates New Year with Donald Trump, dances with son X at Mar-a-Lago, the ... -- -"
+Tesla,2025-1,20:12:37  [ECOCOM] (TSLA.O) - Tesla stock surge runs up against a potential sales drop -- -
+Tesla,2025-1,20:09:01  [LIVEMI] (TSLA.O) - 'Good feeling about 2025': Elon Musk shares upbeat prediction at Donald Trump's New Year bash -- -
+Tesla,2025-1,"20:02:40  [ETFDAI] (TSLA.O) - Bard Financial Services Inc. Reduces Stock Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"19:47:06  [YAHNEX] (BA.N NVDA.O) - Stocks to Watch Recap: Boeing, Tesla, Nvidia -- -"
+Tesla,2025-1,"19:23:09  [ECOCOM] (TSLA.O) - Elon Musk hijacking MAGA camp? Laura Loomer, one of biggest Trump's supporters, makes big charge against Tesla CEO -- -"
+Tesla,2025-1,19:14:41  [WNCOMA] (TSLA.O) - Tesla's Shanghai energy storage Megafactory begins trial production -- -
+Tesla,2025-1,"19:06:35  [FROSTA] (TSLA.O) - U.S. is going bankrupt, immediate action is needed in this regard: Elon Musk -"
+Tesla,2025-1,"18:58:40  [WNCOMA] (TSLA.O) - Elon Musk rings in the New Year with Donald Trump, dances with son X at Mar-a-Lago, the 'center of the uni -- -"
+Tesla,2025-1,18:58:37  [PEOSDB] (TSLA.O) - Tesla's Shanghai energy storage Megafactory begins trial production -- -
+Tesla,2025-1,18:51:31  [GURCOM] (TSLA.O) - Tesla Faces Challenges Meeting Delivery Targets Amid High Expectations -
+Tesla,2025-1,18:11:58  [NOTENG] (TSLA.O) - Tesla to close 2025 with bad news; could suffer first downturn in a decade -
+Tesla,2025-1,17:22:58  [GLOSTO] (TSLA.O) - End-of-Quarter Synopsis Monthly : Tesla (TSLA: $403.84) in top 5% performers of NASDAQ-100 Index in December 2024 -
+Tesla,2025-1,"17:22:18  [GURCOM] (NVDA.O .IXIC) - U.S. Markets Faltered as NASDAQ Dropped 0.88%, Led by NVIDIA and Tesla Losses -"
+Tesla,2025-1,"17:21:51  [MENREP] (TSLA.O) - Supply of Leather Gloves, Cutting Pliers, Sledge Hammer 1 KG, Gum Boot, All type Of Spanner, Nylon Rope 3 point 5 cm Die, Platform ladder, Measurin... -"
+Tesla,2025-1,16:06:15  [WEEBLI] (TSLA.O) - Elon Musk criticizes Zelensky amid debate over $2.5 billion US aid -
+Tesla,2025-1,16:04:06  [ECOCOM] (TSLA.O) - Tesla joins top H-1B employers list as Musk pushes for reforms to expand visa program -- -
+Tesla,2025-1,"14:31:48  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Tuesday December 31, 2024 22:27 EST -"
+Tesla,2025-1,14:10:09  [WESAUT] (TSLA.O) - Tesla stock surge runs up against a potential annual sales drop -- -
+Tesla,2025-1,13:33:44  [GLOSTP] (TSLA.O .NDX) - Monthly: Tesla (TSLA: $403.84) in top 5% performers of NASDAQ-100 Index in December 2024 -
+Tesla,2025-1,12:24:07  [CHIECP] (TSLA.O) - Tesla's Shanghai energy storage Megafactory begins trial production -- -
+Tesla,2025-1,11:27:03  [GLOSTO] (TSLA.O) - Past Week: Tesla (TSLA: $403.84) in bottom 1% performers of NASDAQ-100 Index in past week; -$58.44 [-12.6%] -
+Tesla,2025-1,"09:03:45  [MSNSOU] (TSLA.O) - Elon Musk Rises, Tesla Slips, China Looms: 2024's Biggest EV Stories -- -"
+Tesla,2025-1,08:33:42  [WNCOMA] (TSLA.O) - SUV lands on top of Tesla following collision on westbound QEW in Burlington -- -
+Tesla,2025-1,08:17:06  [WNCOMA] (TSLA.O) - Elon Musk' son X asks Tesla owner to save America and help Donald Trump -- -
+Tesla,2025-1,07:58:35  [SHAENG] (TSLA.O) - SUV lands on top of Tesla following collision on westbound QEW in Burlington -- -
+Tesla,2025-1,23:43:00  [INTTIM] (TSLA.O) - Tesla Brings Redesigned Model Y Juniper SUV To China: Here Is What Is New -
+Tesla,2025-1,"23:27:42  [ECOCOM] (TSLA.O) - Tesla recalls about 239,000 vehicles over rear-view camera issue -- -"
+Tesla,2025-1,"23:27:17  [GURCOM] (TSLA.O) - Tesla (TSLA) Recalls Over 239,000 Vehicles for Software Update -"
+Tesla,2025-1,"23:26:49  [BENZIN] (TSLA.O) - Tesla Recalls 239,382 Vehicles In US Over Rearview Camera Image Display Issues -"
+Tesla,2025-1,23:25:59  [RTRS] (TSLA.O) - TESLA INC  TSLA.O: DEUTSCHE BANK RAISES TARGET PRICE TO $420 FROM $370 -
+Tesla,2025-1,"23:24:51  [GLOSTP] (TSLA.O .NDX) - Tesla sheds $28.6 billion in MCap in 2025, steepest loss in Auto sector -"
+Tesla,2025-1,23:13:08  [NOTENG] (TSLA.O) - Tesla launches new version of Model Y in China to compete with local brands -
+Tesla,2025-1,23:11:48  [SEECOM] (TSLA.O) - Tesla launches a higher-priced version of the Model Y in China -
+Tesla,2025-1,"23:02:42  [WATNEW] (TSLA.O) - Hudson Valley Investment Advisors Inc. ADV Makes New $557,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,23:01:43  [INDAUT] (TSLA.O) - Mercedes-Benz BEV Drivers Gain Access to Tesla Supercharger Network from February 2025 -
+Tesla,2025-1,22:59:41  [GRECAR] (TSLA.O) - Tesla Model S and X recalled due to torn airbags -- -
+Tesla,2025-1,22:51:48  [MENREP] (TSLA.O) - Procurement And Installation Of A 1.5 Tesla Mri Machine At Sri Mayapur Community Hospital In District Of West Bengal -
+Tesla,2025-1,"22:28:14  [MARBEA] (TSLA.O) - Hudson Valley Investment Advisors Inc. ADV Makes New $557,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"22:18:48  [INSMON] (TSLA.O .SPX) - Is Tesla, Inc. (TSLA) the Best Blue Chip Stock to Buy for 2025? -- -"
+Tesla,2025-1,21:56:49  [BENZIN] (TSLA.O) - Tesla Model 3 Prices Rise In China As Refreshed Model Y Debuts -
+Tesla,2025-1,21:56:49  [SEECOM] (TSLA.O) - Tesla runs software update to address recall of 239K vehicles -
+Tesla,2025-1,"21:50:11  [INDCOO] (TSLA.O) - When Swami Vivekananda met Nikola Tesla, he introduced him Vedic concepts of...Tesla found these ideas... -- -"
+Tesla,2025-1,21:47:22  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2025-1,"21:43:10  [YAHSIN] (TSLA.O) - Tesla recalls about 239,000 vehicles over rear-view camera issue -- -"
+Tesla,2025-1,21:42:02  [NEWWIR] (UBSG.S TSLA.O) - Tesla Third Quarter 13F Filing: UBS Group decreases its shareholding by 23.6% -
+Tesla,2025-1,"21:37:12  [SIGDEV] (TSLA.O) - NHTSA Says Tesla Is Recalling 239,382 U.S. Vehicles Over Rear-View Camera Issue -"
+Tesla,2025-1,21:36:59  [GURCOM] (TSLA.O) - Tesla Launches Updated Model Y in China to Regain Market Share -
+Tesla,2025-1,21:36:51  [NEWWIR] (TSLA.O HSBA.L) - Tesla Third Quarter 13F Filing: HSBC Holdings cuts 6.0% of its shares -
+Tesla,2025-1,21:36:50  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Voya Investment Management reduces its shares by 17.4% -
+Tesla,2025-1,21:32:04  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Rhumbline Advisers trims its shareholding by 1.3% -
+Tesla,2025-1,21:32:03  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Wellington Management Group accumulates another 52.0% -
+Tesla,2025-1,21:32:03  [NEWWIR] (AMP.N TSLA.O) - Tesla Third Quarter 13F Filing: Ameriprise Financial boosts its shareholding by 22.0% -
+Tesla,2025-1,21:32:00  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: D. E. Shaw & Co. slashes 70.8% of its shareholding -
+Tesla,2025-1,21:31:59  [NEWWIR] (TSLA.O BEN.N) - Tesla Third Quarter 13F Filing: Franklin Resources adds 8.2% to its shares -
+Tesla,2025-1,21:31:58  [NEWWIR] (AWF.N TSLA.O) - Tesla Third Quarter 13F Filing: AllianceBernstein augments its shareholding by 3.3% -
+Tesla,2025-1,21:31:32  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: California State Teachers Retirement System trims its shareholding by 0.3% -
+Tesla,2025-1,21:31:30  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Royal Bank of Canada boosts its shareholding by 17.5% -
+Tesla,2025-1,21:27:05  [NEWWIR] (WFC.N TSLA.O) - Tesla Third Quarter 13F Filing: Wells Fargo & Co boosts its shareholding by 21.7% -
+Tesla,2025-1,21:27:05  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: MIRAE ASSET GLOBAL ETFS HOLDINGS reduces its shares by 10.9% -
+Tesla,2025-1,21:27:04  [NEWWIR] (PRU.N TSLA.O) - Tesla Third Quarter 13F Filing: Prudential Financial increases its holding in Tesla -
+Tesla,2025-1,"21:26:44  [RTRS] (TSLA.O) - NHTSA Says Tesla Is Recalling 239,382 U.S. Vehicles Over Rear-View Camera Issue (BRIEF) -"
+Tesla,2025-1,"21:25:03  [RTRS] (TSLA.O) - Tesla recalls about 239,000 vehicles over rear-view camera issue -"
+Tesla,2025-1,"21:22:51  [RTRS] (TSLA.O) - TESLA RELEASED AN OVER-THE-AIR SOFTWARE UPDATE, FREE OF CHARGE- NHTSA -"
+Tesla,2025-1,"21:22:00  [GURCOM] (TSLA.O) - Tesla's Optimus Robots to Enter Mass Production in 2025, Aims for 100,000 by 2026 -"
+Tesla,2025-1,Sentry Mode will record & alert you of any threats or suspicious activity around the vehicle -
+Tesla,2025-1,"21:19:57  [RTRS] (TSLA.O) - TESLA, INC. IS RECALLING SOME U.S. VEHICLES AS A REARVIEW CAMERA THAT DOES NOT DISPLAY AN IMAGE REDUCES THE DRIVER'S REAR VIEW, INCREASING THE RISK OF A CRASH.- NHTSA -"
+Tesla,2025-1,21:15:44  [SHICNA] (TSLA.O) - BYD beware as Tesla launches upgraded Model Y in China -- -
+Tesla,2025-1,21:13:03  [NOTENG] (TSLA.O) - Tesla launches the new Model Y Juniper with more autonomy and a more aerodynamic design. -
+Tesla,2025-1,20:45:50  [INDTVA] (TSLA.O) - Will Musk be able to sway Europe rightwards? Top leaders flag concern over attempts to influence politics -- -
+Tesla,2025-1,"20:38:58  [TIMLIV] (TSLA.O) - Tesla launches redesigned Model Y in China, seeking to fend off rivals -- -"
+Tesla,2025-1,"20:33:42  [WNCOMA] (TSLA.O) - Tesla unveils new Model Y Launch Series, 'Juniper is not true' -- -"
+Tesla,2025-1,"20:31:50  [BENZIN] (TSLA.O) - Analyst Ming-Chi Kuo On X Earlier Said Even With Revamped Model Y, Tesla's Production In Q125 Is Expected To Drop By 10% QoQ, 5% YoY Due To Global ... -"
+Tesla,2025-1,"20:25:44  [STRMLS] (TSLA.O) - Tesla launches redesigned Model Y in Asia, seeking to fend off rivals -- -"
+Tesla,2025-1,They nationalized all the private companies and asked for huge taxes.
+Tesla,2025-1,"The biggest success of our country was to label Adolf Hitler as a conservative or a libertarian, he was not."
+Tesla,2025-1,"Fearing his interview with AfD leader Alice Weidel, Stern, a weekly current affairs magazine published in Hamburg, Germany, dedicated its front cover to an attack on Elon."
+Tesla,2025-1,1) Are British politicians importing an alien culture and an alien people in such numbers as to effectively render the young native British an ethnic minority in the near future?
+Tesla,2025-1,19:49:13  [EDGEMA] (TSLA.O) - Tesla launches refreshed Model Y Juniper SUV in China -- -
+Tesla,2025-1,19:46:33  [HARCOU] (TSLA.O) - Man with 'ticking' packages arrested in East Windsor Captured in parking lot after referencing Cybertruck explosion in Las Vegas -
+Tesla,2025-1,"19:40:17  [RTRS] (TSLA.O 1810.HK) - Tesla launches redesigned Model Y in Asia, seeking to fend off rivals (UPDATE 3) -"
+Tesla,2025-1,"Elon Musk: ""Douglas Adams's The Hitchhiker's Guide to the Galaxy. It's a book on philosophy disguised as humor."""
+Tesla,2025-1,19:26:47  [HERSCO] (TSLA.O) - Ian McConnell: Sorry Mr Musk but numbers show Scotland is great place to invest -- -
+Tesla,2025-1,"The department had fired several white, male firefighters to ""boost inclusivity."""
+Tesla,2025-1,"19:14:09  [NDTNEW] (TSLA.O) - ""Protect America From Elon Musk"": Tesla Chief's Biographer Says He's ""Mad"" -- -"
+Tesla,2025-1,18:56:46  [BENZIN] (TSLA.O) - Tesla Launches Refreshed Model Y In China Amid Rising Competition -
+Tesla,2025-1,18:18:37  [ITVNEX] (TSLA.O) - Elon Musk is holding private talks on how to oust Keir Starmer -- -
+Tesla,2025-1,18:17:16  [GURCOM] (TSLA.O) - Tesla Launches New Model Y in China with Enhanced Features -
+Tesla,2025-1,18:16:44  [NIGTRI] (TSLA.O) - Human data pool for AI training exhausted in 2024 - Elon Musk -
+Tesla,2025-1,18:01:48  [INVEZZ] (TSLA.O) - Tesla's new Model Y debuts in China with upgraded features and higher price tag -
+Tesla,2025-1,"They will spy on Musk's online activity, but no inquiry into thousands of foreign rapists."
+Tesla,2025-1,"At 248,663 gross tonnage (GT), it is the largest cruise ship in the world. The vessel has a max carrying capacity of 7,600 guests and 2,350 crew."
+Tesla,2025-1,"17:45:07  [ECOCOM] (TSLA.O) - Tesla Model Y 2025: Price, features, specifications, and everything you need to know -- -"
+Tesla,2025-1,17:42:39  [TIMNOW] (TSLA.O) - Elon Musk Has A Drinking Problem? Tesla CEO Shares 'Proof' -- -
+Tesla,2025-1,"Per household costs are projected to be $47,000 over the lives of the regulations and will result in over 300 million paperwork hours spent on compliance."
+Tesla,2025-1,17:13:41  [NOTENG] (TSLA.O) - Musk calls for votes for AfD in Germany and defends freedom of speech during conversation with Weidel -
+Tesla,2025-1,Data shows Biden added $1.69T in regulatory costs through 992 new rules - crushing Trump's cost-cutting record of -$100B.
+Tesla,2025-1,The paperwork alone jumped from 199M hours under Trump to 312M hours.
+Tesla,2025-1,"16:53:09  [ECOCOM] (TSLA.O 9898.HK) - Tesla launches redesigned Model Y in China, seeking to fend off rivals -- -"
+Tesla,2025-1,"16:42:13  [STACHI] (TSLA.O) - Tesla launches redesigned Model Y in China, seeking to fend off rivals -- -"
+Tesla,2025-1,"16:26:38  [BUSTIM] (TSLA.O) - Tesla launches redesigned Model Y in China, seeking to fend off rivals -- -"
+Tesla,2025-1,16:05:18  [CNEVPO] (TSLA.O) - Tesla China hints 3-row Model Y could come next -
+Tesla,2025-1,"16:02:39  [FOOAUS] (TSLA.O) - Down 18% from all-time highs, is Tesla stock a buy now? -- -"
+Tesla,2025-1,15:52:38  [LATNIG] (TSLA.O) - Mercedes-Benz EVs will get access to Tesla's Supercharger network next month -- -
+Tesla,2025-1,"15:43:27  [AAFN] (TSLA.O 1810.HK) - While Tesla Boasts 'Unparalleled' New Ver. Model Y, Lei Jun Seems to Battle with 'YU7' -"
+Tesla,2025-1,15:31:58  [GURCOM] (TSLA.O) - Tesla (TSLA) Advances AI-Powered Self-Driving Cars and Robots -
+Tesla,2025-1,"Turns out the ""crazy"" guy with a chainsaw knew what he was doing."
+Tesla,2025-1,"15:01:39  [ECOCOM] (TSLA.O) - Tesla launches redesigned Model Y in China, seeking to fend off rivals -- -"
+Tesla,2025-1,"""Is it appropriate for people in your industry to create division and narratives?"
+Tesla,2025-1,14:41:31  [GURCOM] (TSLA.O F.N) - Ford Chairman Discusses Trump's Impact on Traditional Automakers -
+Tesla,2025-1,14:38:10  [WESAUT] (TSLA.O) - 2025 Tesla Model Y price and specs: New-look EV more expensive -- -
+Tesla,2025-1,"14:12:33  [RTRS] (TSLA.O 7267.T) - Hyundai launches $18,000 EV in Japan to penetrate EV-wary market (UPDATE 1) -"
+Tesla,2025-1,14:07:42  [FINSWI] (TSLA.O) - Tesla Bull Gary Black Warns Against Inflated Optimus Robot Assumptions: Get Pounded Each Time 'I Try To Right-Size Expectations' -- -
+Tesla,2025-1,13:47:42  [MSNAUS] (TSLA.O) - The best Tesla Model Y 'Juniper' leaks so far -- -
+Tesla,2025-1,13:22:13  [GURCOM] (TSLA.O) - Tesla (TSLA) Launches Enhanced Model Y in China with Extended Range -
+Tesla,2025-1,13:16:15  [HINDUT] (TSLA.O) - Elon Musk has a weird 'drinking problem' that you may not know -
+Tesla,2025-1,"13:09:13  [YAHSIN] (TSLA.O) - Tesla launches revamped Model Y in China, seeking to fend off rivals -- -"
+Tesla,2025-1,13:09:10  [AUSCAR] (TSLA.O) - 2025 Tesla Model Y revealed: Juniper update due in Australia mid-year -- -
+Tesla,2025-1,12:54:38  [FINDEH] (TSLA.O) - Tesla Stock: Bank of America Downgrade Sparks Market Turbulence -- -
+Tesla,2025-1,12:43:38  [MONCON] (TSLA.O) - Elon Musk vs the World: Is Tesla CEO leveraging his political influence to further personal interests? -- -
+Tesla,2025-1,12:32:21  [GURCOM] (TSLA.O) - Tesla (TSLA) Plans Major Increase in Optimus Robot Production by 2025 -
+Tesla,2025-1,"12:25:59  [RTRS] (TSLA.O) - Tesla announces revamped Model Y version in China, priced from $35,938 -"
+Tesla,2025-1,12:19:32  [RTRS] (TSLA.O) - TESLA OFFERS A VARIANT OF MODEL Y WITH A LONGER DRIVING RANGE OF 719 KILOMETRES PER CHARGE -
+Tesla,2025-1,"12:14:46  [RTRS] (TSLA.O) - TESLA LAUNCHES REVAMPED MODEL Y IN CHINA WITH A STARTING PRICE OF 263,500 YUAN -"
+Tesla,2025-1,"12:05:57  [RTRS] (TSLA.O) - Musk asks state AGs to auction off OpenAI stake in nonprofit restructuring, sources say -"
+Tesla,2025-1,11:31:39  [ARCUPD] (TSLA.O) - ZHA and Bureau Cube Partners Selected to Design New Nikola Tesla Museum -
+Tesla,2025-1,Use the timestamps below to easily navigate the different topics.
+Tesla,2025-1,11:00:00  [PAKLAW] (TSLA.O) - United States Courts Opinion: United States District Court for the Eastern District of California: 24-3694 - Boatman v. Tesla Inc. (24-cv-03694-CKD) -
+Tesla,2025-1,10:56:37  [ENGADG] (TSLA.O) - Mercedes-Benz EVs will get access to Tesla's Supercharger network next month -- -
+Tesla,2025-1,10:13:54  [NOTENG] (TSLA.O) - Musk's talk with German far-right leader sets off alarm bells in Europe -
+Tesla,2025-1,"10:13:36  [NOTENG] (TSLA.O) - BYD's Yangwang U9, the sports car that jumps and wants to compete with Tesla. -"
+Tesla,2025-1,He has funded NGO ships that engage in human trafficking in the Mediterranean.
+Tesla,2025-1,Why hasn't the mainstream media reported on this foreign interference? -
+Tesla,2025-1,09:31:10  [JUSAUT] (TSLA.O) - US launches probe over Tesla remote driving feature in 2.6m cars. -
+Tesla,2025-1,"09:28:19  [THANEW] (TSLA.O) - United States: Man who exploded Tesla Cybertruck in Las Vegas used generative AI, police say -"
+Tesla,2025-1,"09:12:19  [NOTENG] (TSLA.O) - Giorgia Meloni comes to Musk's defense: ""Is the problem that he is rich and influential?"" -"
+Tesla,2025-1,09:10:44  [RTRS] (USOPY.PK UBER.N) - Corporate America pledges donations for Trump's inauguration (FACTBOX) -
+Tesla,2025-1,08:28:59  [RTRS] (TSLA.O NVX.AX) - CES-Trump's tariff threat spurs auto suppliers to rethink production plans -
+Tesla,2025-1,08:17:09  [FINSWI] (TSLA.O) - Warren Buffett-Backed BYD Launches Australia's First EV Under $30K: How The Move Could Strengthen Fight Against Elon Musk's Tesla -- -
+Tesla,2025-1,"07:40:25  [RTRS] (TSLA.O) - Musk hosts German far-right leader on X, stirs angst about election meddling (UPDATE 2) -"
+Tesla,2025-1,07:21:40  [LATNIG] (TSLA.O) - Judge approves settlement in suit that Tesla's board overpaid themselves -- -
+Tesla,2025-1,07:18:10  [YAHSIN] (TSLA.O) - Mercedes-Benz EVs will get access to Tesla's Supercharger network next month -- -
+Tesla,2025-1,07:01:52  [BENZIN] (TSLA.O) - Warren Buffett-Backed BYD Launches Australia's First EV Under $30K: How The Move Could Strengthen Fight Against Elon Musk's Tesla -
+Tesla,2025-1,In 2014 California voters passed Prop 1 which directed billions of dollars for infrastructure to build water storage and reservoirs.
+Tesla,2025-1,Over 10 years later and not a single reservoir has been completed yet. -
+Tesla,2025-1,"06:22:13  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $394.94) Thursday January 09, 2025 07:01 EST -"
+Tesla,2025-1,06:20:39  [YAHIRE] (TSLA.O) - EU politicians warn against Elon Musk's incursions into European politics -- -
+Tesla,2025-1,"06:20:22  [RTRS] (TSLA.O) - Musk hosts German far-right leader on X, stirs angst about election meddling (UPDATE 1) -"
+Tesla,2025-1,"06:01:40  [INSMON] (TSLA.O) - Tesla, Inc. (TSLA) Downgraded to Neutral by Bank of America Amid Execution Risks, Price Target Raised to $490 -- -"
+Tesla,2025-1,05:51:59  [GLOSTO] (TSLA.O F.N) - Tesla continues to outperform Ford Motor by 8.8% in the past month -
+Tesla,2025-1,"05:49:42  [LAWCOR] (TSLA.O) - Tesla, Musk Appeal Chancery Compensation Case to Delaware Supreme Court -- -"
+Tesla,2025-1,05:43:08  [RTRS] (TSLA.O) - Law firms wrangle over fees from $2.7 bln Blue Cross Blue Shield settlement -
+Tesla,2025-1,05:32:42  [ABCNEY] (TSLA.O) - EU politicians warn against Elon Musk's incursions into European politics -- -
+Tesla,2025-1,05:32:10  [FUTTRA] (TSLA.O) - InvestorNewsBreaks - Tesla Inc. (NASDAQ: TSLA) Achieves Record Q4 2024 Deliveries and Annual Production Milestones -- -
+Tesla,2025-1,"04:52:31  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $394.94) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday January 09, 2025 07:01 EST -"
+Tesla,2025-1,"04:52:23  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $394.94) strengthens above moving average price Thursday January 09, 2025 07:01 EST -"
+Tesla,2025-1,04:52:15  [GLOSTO] (TSLA.O) - Tesla continues to outperform XPeng by 4.3% in the past month -
+Tesla,2025-1,04:36:59  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR381.50) price 8.0% below VWAP; -EUR1.95 [0.5%] -
+Tesla,2025-1,04:31:52  [MENREP] (TSLA.O RECM.NS) - Procurement And Installation Of A 1.5 Tesla Mri Machine At Sri Mayapur Community Hospital. -
+Tesla,2025-1,"04:22:18  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $394.94) Thursday January 09, 2025 07:01 EST -"
+Tesla,2025-1,"04:09:41  [SILICO] (TSLA.O) - US opens another Tesla probe, this one on tech that remotely returns car to driver -- -"
+Tesla,2025-1,04:06:36  [RTRS] (UBER.N TSLA.O) - Corporate America pledges donations for Trump's inauguration (FACTBOX) -
+Tesla,2025-1,03:52:44  [GLOSTO] (TSLA.O) - Tesla continues to outperform Ferrari by 6.8% in the past month -
+Tesla,2025-1,03:42:44  [WALPIT] (TSLA.O) - Elon Musk's Vision: 30 Billion Robots and a New Economic Dawn -- -
+Tesla,2025-1,03:24:42  [CBTNEW] (TSLA.O) - Tesla board members to return nearly $1 billion in settlement over excessive compensation -- -
+Tesla,2025-1,03:10:46  [AZOCLE] (TSLA.O) - Electra Revolutionizes Battery Performance with AI-Driven EVE-Ai Technology -- -
+Tesla,2025-1,02:56:12  [LATNIG] (TSLA.O) - Tesla directors to pay up to $919 million to settle claims they overpaid themselves -- -
+Tesla,2025-1,"02:52:47  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $394.94) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday January 09, 2025 07:01 EST -"
+Tesla,2025-1,"02:52:45  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $394.94) strengthens above moving average price Thursday January 09, 2025 07:01 EST -"
+Tesla,2025-1,"02:52:11  [GURCOM] (TSLA.O) - Tesla Faces 40% Profit Threat from Policy Changes, Analysts Warn -"
+Tesla,2025-1,The immense loss of homes in LA is primarily due to:
+Tesla,2025-1,1. Nonsensical overregulation that prevented creating fire breaks and doing brush clearing.
+Tesla,2025-1,02:11:51  [BENZIN] (TSLA.O) - Insights Into Tesla's Performance Versus Peers In Automobiles Sector -
+Tesla,2025-1,02:00:39  [GRECAR] (TSLA.O) - Mercedes-Benz EVs gaining Tesla Supercharger access in February -- -
+Tesla,2025-1,"01:56:54  [BENZIN] (TSLA.O) - Bitcoin And Ethereum ETFs Face $742M In Outflows, With No Supply Shock Expected In 2025; Musk Sees Tesla's FSD Surpassing Humans By Q2 2025; SpaceX... -"
+Tesla,2025-1,She has a room temperature IQ and represents the steroid age of DEI and identity politics:
+Tesla,2025-1,"- Started as a Community Organizer for the Venceremos Brigade, a pro-Cuban group, in the 1970s, and then visited Cuba eight times"
+Tesla,2025-1,01:52:27  [GLOWEE] (TSLA.O) - What the Beneish M-score tells us about Tesla -
+Tesla,2025-1,01:52:19  [GLOSTO] (GM.N TSLA.O) - Tesla continues to outperform General Motors by 6.0% in the past month -
+Tesla,2025-1,01:48:01  [RTRS] (TSLA.O) - Italy's Meloni defends Musk's political comments amid Starlink talks (UPDATE 2) -
+Tesla,2025-1,The city of Los Angeles under Karen Bass slashed the firefighting budget by about $18 million and stopped filling the hydrant reservoirs as a cost cutting measure.
+Tesla,2025-1,01:18:43  [TECHCR] (ORCL.N TSLA.O) - Tesla directors to pay up to $919 million to settle claims they overpaid themselves -- -
+Tesla,2025-1,"01:13:56  [NOTENG] (TSLA.O) - Meloni on Musk's interference in Europe: ""He is not a danger to democracy"". -"
+Tesla,2025-1,01:09:40  [VERGEA] (TSLA.O) - Mercedes-Benz EV owners can start using Tesla Superchargers in February -- -
+Tesla,2025-1,"00:51:59  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $394.94) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday January 09, 2025 07:01 EST -"
+Tesla,2025-1,"00:51:57  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $394.94) strengthens above moving average price Thursday January 09, 2025 07:01 EST -"
+Tesla,2025-1,Availability of Autopilot features (including FSD Supervised) varies by region -
+Tesla,2025-1,00:35:11  [GRECAR] (VOWG_p.DE TSLA.O) - Volkswagen EVs gaining Tesla Supercharger access in June -- -
+Tesla,2025-1,"00:27:23  [NEWWIR] (TSLA.O) - How Tesla's latest insider trade compares to similar recent trades (aka Wilsonthompson Kathleen) Wednesday January 08, 2025 -"
+Tesla,2025-1,"00:27:18  [NEWWIR] (TSLA.O) - How Tesla's latest insider trade compares to similar recent trades (aka Vaibhav Taneja) Wednesday January 08, 2025 -"
+Tesla,2025-1,00:21:14  [FORONL] (TSLA.O) - Tesla board that gave itself nearly $1 billion in excess compensation must now return money -- -
+Tesla,2025-1,00:10:38  [NAINIH] (TSLA.O) - Elon Musk says all human data for AI training exhausted in 2024 -- -
+Tesla,2025-1,00:02:41  [GRECON] (TSLA.O 300750.SZ) - Does Tesla feel the pressure from CATL's alleged military connection in China? -
+Tesla,2025-1,23:52:45  [GRECAR] (TSLA.O) - Feds investigating 2.6M Teslas over Smart Summon remote driving feature -- -
+Tesla,2025-1,23:48:04  [ABCAZA] (TSLA.O) - Tesla could make a billion dollars on new EU rules -- -
+Tesla,2025-1,"23:47:25  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $394.94) Thursday January 09, 2025 07:01 EST -"
+Tesla,2025-1,23:46:49  [BENZIN] (TSLA.O) - Elon Musk Predicts Tesla's FSD Will Surpass Human Driving Safety By Q2 2025 -
+Tesla,2025-1,"23:46:18  [INDTOE] (TSLA.O) - Fancy cars, drugs, white girls: Pattern of UK grooming gangs explained in 5 points -- -"
+Tesla,2025-1,"23:38:50  [RTRS] (TSLA.O) - Musk to host German far-right leader on X, stirs angst about election meddling -"
+Tesla,2025-1,23:38:21  [CNEVPO] (9868.HK XPEV.N) - Xpeng teases new SUV G7 to take on Tesla Model Y -
+Tesla,2025-1,23:38:11  [CNEVPO] (TSLA.O) - Facelifted Tesla Model Y seen uncamouflaged in winter testing -
+Tesla,2025-1,"23:38:00  [CNEVPO] (TSLA.O) - Tesla sells record 82,927 cars in China in Dec, exports 10,839 from Shanghai plant -"
+Tesla,2025-1,"23:36:25  [AMEBAN] (TSLA.O) - Park National Corp OH Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"23:20:38  [WESAUT] (TSLA.O) - 2025 Tesla Model Y 'Juniper' facelift leaked, and it doesn't just look like a Model 3 -- -"
+Tesla,2025-1,You can subscribe & pay monthly or purchase FSD Supervised in full for your vehicle -
+Tesla,2025-1,"23:07:35  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Director Sells $41,163,000.00 in Stock -"
+Tesla,2025-1,23:02:21  [AXIOSB] (TSLA.O) - Tesla's easy money from clean car credits at risk under Trump -
+Tesla,2025-1,23:00:00  [RTRS] (TSLA.O NVX.AX) - CES-Trump's tariff threat spurs auto suppliers to rethink production plans (RPT) -
+Tesla,2025-1,22:51:47  [BENZIN] (TSLA.O) - Tesla Directors Receives Court Approval For Settlement In Excess Pay Case -
+Tesla,2025-1,22:29:33  [RTRS] (TSLA.O) - Italy PM Meloni: not aware of any Musk role in freeing of journalist Sala in Iran -
+Tesla,2025-1,22:20:15  [RTRS] (TSLA.O) - ITALY PRIME MINISTER MELONI: I HAVE NO INFORMATION ABOUT POSSIBLE ROLE OF ELON MUSK IN LIBERATION OF JOURNALIST SALA FROM IRAN PRISON -
+Tesla,2025-1,22:10:17  [RTRS] (TSLA.O) - Meet the influencer who has Musk's ear on Germany's far-right -
+Tesla,2025-1,22:03:39  [STAINE] (TSLA.O) - Is Ozempic the correct way to tackle obesity? -- -
+Tesla,2025-1,21:53:19  [RTRS] (VOWG_p.DE TSLA.O) - China's EV exports seen stalling in 2025 (UPDATE 2) -
+Tesla,2025-1,21:47:15  [GLOWEE] (TSLA.O) - What the Beneish M-score tells us about Tesla -
+Tesla,2025-1,21:03:24  [HARCOU] (TSLA.O) - Man with 'ticking' packages arrested in East Windsor Captured in parking lot after referencing Cybertruck explosion in Las Vegas -
+Tesla,2025-1,"21:02:36  [TICREP] (PRK.A TSLA.O) - Park National Corp OH Purchases 468 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,20:32:38  [GURCOM] (TSLA.O) - Tesla (TSLA) Reaches $919 Million Settlement Over Board Compensation Dispute -
+Tesla,2025-1,"20:32:28  [NEWPEO] (TSLA.O) - Tesla director Kathleen Wilson-Thompson sells shares worth $41.2 million (aka Wilsonthompson Kathleen) Wednesday January 08, 2025 -"
+Tesla,2025-1,"20:12:42  [TICREP] (TSLA.O) - Private Client Services LLC Takes Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,20:07:25  [CLAACT] (TSLA.O) - TESLA INC: Appeal Filed in Tornetta Class Suit in Del. Sup. -
+Tesla,2025-1,20:01:13  [BUSSTA] (TSLA.O) - 'Hatred of humanity': Musk slams George Soros for funding Hamas-linked NGOs -
+Tesla,2025-1,19:46:49  [PRETVT] (TSLA.O) - Starmer: Musk spreading lies and misinformation on UK -
+Tesla,2025-1,19:33:11  [YAHNEX] (TSLA.O 0700.HK) - U.S. Adds Tencent and Tesla Supplier to Its Chinese Military List. Why 'Pandora's Box' Has Opened for Chinese Stocks. -- -
+Tesla,2025-1,19:32:10  [TICREP] (TSLA.O) - Tesla (NASDAQ:TSLA) Stock Rating Lowered by Bank of America -
+Tesla,2025-1,19:31:12  [WKRNEW] (TSLA.O SF.N) - Tesla (NASDAQ:TSLA) Price Target Raised to $492.00 -- -
+Tesla,2025-1,"19:29:46  [YAHNEX] (MRNA.O NVDA.O) - These Stocks Moved the Most Today: Nvidia, Micron, Aurora Innovation, Tesla, Carvana, Moderna, Palantir, and More -- -"
+Tesla,2025-1,19:10:01  [BIRMAI] (TSLA.O) - Tesla boss fuelling the 'crazies' with their vile threats -
+Tesla,2025-1,"19:09:27  [INDTOE] (TSLA.O) - Priyanka Chaturvedi slams 'Asian' label for UK child abusers, Elon Musk agrees -- -"
+Tesla,2025-1,"19:06:33  [RTRS] (TSLA.O) - CHINA AUTO INDUSTRY BODY CPCA:  TESLA INC EXPORTED 10,839 CHINA-MADE VEHICLES IN DEC -"
+Tesla,2025-1,18:58:37  [FINSWI] (TSLA.O) - Tesla's Inventory Now Includes Non-Foundation Series Cybertrucks -- -
+Tesla,2025-1,Whoever appoints the censors is effectively in control of information.
+Tesla,2025-1,"""X is seeing growth everywhere. 90% of advertisers have returned, driven by three pillars: safety, product innovation, and the uniqueness of X."
+Tesla,2025-1,17:51:46  [BENZIN] (TSLA.O) - Tesla's Inventory Now Includes Non-Foundation Series Cybertrucks -
+Tesla,2025-1,17:51:30  [MOTFOO] (TSLA.O) - Here's the forecast for the Tesla share price in 2025 -
+Tesla,2025-1,17:16:12  [NIGTRI] (TSLA.O) - US: Wildfires in California are easily avoidable - Elon Musk -
+Tesla,2025-1,"""I believe we need to return to a focus on merit. It shouldn't matter whether you're a man or a woman, your race, or your beliefs. What should matter is how skilled you are and how well you do your job."""
+Tesla,2025-1,17:09:14  [CLAJOU] (TSLA.O) - Judge Approves Tesla Directors' Deal to End Excess Pay Case -- -
+Tesla,2025-1,17:00:00  [RTRS] (TSLA.O NVX.AX) - CES-Trump's tariff threat spurs auto suppliers to rethink production plans -
+Tesla,2025-1,16:53:10  [DECHER] (TSLA.O) - Elon Musk looking to oust UK PM Keir Starmer? Report suggests efforts at destabilisation -- -
+Tesla,2025-1,16:38:37  [RTRS] (TSLA.O SSTK.N) - Altered states will rule in 2025: podcast (BREAKINGVIEWS) -
+Tesla,2025-1,"Find out what they had to say about markets, trade, diplomacy and business in 2025."
+Tesla,2025-1,"Democrat Governor for 13 years,  and a Democrat President for the past 4 years,"
+Tesla,2025-1,15:21:38  [KILCOM] (.IXIC TSLA.O) - Tesla and Nvidia lead stock market rebound -
+Tesla,2025-1,15:20:05  [TALKMA] (TSLA.O .SPX) - How Tesla's 2025 Trajectory Looks As Trump Frenzy Calms Down -
+Tesla,2025-1,15:19:55  [TALKMA] (TSLA.O .SPX) - How Tesla's 2025 Trajectory Looks As Trump Frenzy Calms Down -
+Tesla,2025-1,"14:32:27  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Wednesday January 08, 2025 22:25 EST -"
+Tesla,2025-1,14:23:41  [FINDEH] (TSLA.O) - Tesla Stock: Share Price Defies Delivery Decline with 61% Surge -- -
+Tesla,2025-1,"14:23:40  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) CFO Sells $2,894,920.00 in Stock Written by MarketBeat January 8, 2025 Link copied to clipboard. Get Tesla alerts: On Fri... -"
+Tesla,2025-1,14:03:40  [BUSSOU] (TSLA.O 300750.SZ) - US statement on CATL could leave Elon Musk unsettled -- -
+Tesla,2025-1,13:41:49  [GOACOM] (TSLA.O) - Elon Musk told STAGGERING offer needed to buy Liverpool from FSG as fans urged to be 'very wary' of X & Tesla mogul -
+Tesla,2025-1,"13:12:38  [NOTENG] (TSLA.O) - Tesla's competition: Sony and Honda present the Afeela 1, their first electric vehicle. -"
+Tesla,2025-1,"12:47:12  [USADAY] (TSLA.O) - Over 2.5 million Tesla vehicles under investigation over self-driving feature, NHTSA says -"
+Tesla,2025-1,"12:42:03  [NEWNYS] (.IXIC TSLA.O) - S&P 500 INDEX STOCKS: PRICE RISES ON HIGH RELATIVE STRENGTH IN THE PAST WEEK End-of-day: Wednesday January 08, 2025 16:00 EST (GMT: 21:00) -"
+Tesla,2025-1,12:27:45  [RTRS] (TSLA.O TLS.AX) - Australia's Telstra brings home satellite tech with Musk's SpaceX (UPDATE 1) -
+Tesla,2025-1,12:27:37  [CLECON] (TSLA.O) - US Focus On Domestic EV Battery Supply Chain Pushing Tesla to Move Supplies from China to US -- -
+Tesla,2025-1,12:26:47  [PIVSOU] (TSLA.O) - DIRECTORATE OF PROCUREMENT (NAVY) invites tenders for Tender for 1.5 Tesla Mri Machine -
+Tesla,2025-1,"12:12:34  [NOTENG] (TSLA.O) - Tesla fires employee and must now pay her 100,000 euros: dismissal was ""without real or serious cause"". -"
+Tesla,2025-1,"12:01:40  [MARBEA] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) Director Sells 100,000 Shares of Stock -- -"
+Tesla,2025-1,11:32:08  [LAWAAB] (TSLA.O) - Musk Appeals $56B Pay Package Rejection To Del. High Court -- -
+Tesla,2025-1,11:02:14  [NEXBIG] (TSLA.O) - Tesla FSD Unsupervised is Already Being Used By Employees -
+Tesla,2025-1,"In 2007, the Sierra Club sued the U.S. Forest Service to block Categorical Exclusions (CE) for controlled burns under NEPA, claiming the process needed a 3.5-year EIS review."
+Tesla,2025-1,10:17:09  [TALMAR] (TSLA.O .SPX) - How Tesla's 2025 Trajectory Looks As Trump Frenzy Calms Down -- -
+Tesla,2025-1,10:12:24  [NOTENG] (TSLA.O) - Tesla Cybertruck: this is the electric car that exploded in Las Vegas -
+Tesla,2025-1,10:08:00  [THANEW] (TSLA.O) - United Kingdom: British Prime Minister slams 'misinformation' in escalating row with Elon Musk -
+Tesla,2025-1,10:07:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $394.94) up 0.1% after an upgrade this week; +58c [0.1%] -
+Tesla,2025-1,"10:06:59  [TRADAJ] (TSLA.O) - 660 Shares in Tesla, Inc. (NASDAQ:TSLA) Purchased by Cumberland Advisors Inc. -"
+Tesla,2025-1,And Trump called it months ago on his interview with Joe Rogan.
+Tesla,2025-1,Thousands of common sense Canadians must self-censor for fear of losing their livelihoods with no way to feed their families.
+Tesla,2025-1,09:43:46  [EDICNN] (TSLA.O) - Judge approves Tesla directors' deal to end excess pay case -- -
+Tesla,2025-1,"""I phoned the police, a police constable told me to let it go, otherwise I'll get arrested for being racist."""
+Tesla,2025-1,"09:17:06  [COMFIN] (TSLA.O) - Hilltop Wealth Advisors LLC Buys Shares of 521 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"Unfortunately, I think the only solution is limiting replies to verified users or those you follow."
+Tesla,2025-1,08:57:00  [GLOSTO] (TSLA.O) - Past Week: Tesla (TSLA: $394.94) climbs 4.1% - outperforming 90% of stocks; +$15.66 [4.1%] -
+Tesla,2025-1,"08:55:09  [MARBEA] (TSLA.O) - First Hawaiian Bank Has $4.33 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,08:48:12  [GLOSTO] (TSLA.O) - Tesla (TSLA: $394.94) up 0.1% after an upgrade this week; +58c [0.1%] -
+Tesla,2025-1,"08:24:41  [WNCOMA] (TSLA.O) - US opens another Tesla probe, this one on tech that remotely returns car to driver -- -"
+Tesla,2025-1,08:18:36  [AUTCOO] (TSLA.O) - Judge approves Tesla directors' deal to end excess pay case -- -
+Tesla,2025-1,07:52:23  [GLOSTO] (TSLA.O) - Tesla- 7 Reasons Investors Remain Bullish (and 3 Reasons Why Bearish) -
+Tesla,2025-1,"07:45:09  [DAIBRE] (TSLA.O) - Business | US opens another Tesla probe, this one on tech that remotely returns car to driver -- -"
+Tesla,2025-1,"07:40:38  [INSMON] (TSLA.O) - Why One Analyst Believes that Tesla (TSLA) Stock Is ""Really Expensive"" -- -"
+Tesla,2025-1,07:35:06  [DATMTR] (TSLA.O) - US launches probe over Tesla remote driving feature in 2.6m cars -
+Tesla,2025-1,"07:22:07  [GLOSTO] (TSLA.O) - Tesla (TSLA: $398.58) lifts 1.1% strengthening above moving average price, ranks 19 in today's top 20 rises; +$4.22 [1.1%] -"
+Tesla,2025-1,"07:22:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $398.58) lifts 1.1%, ranks 19 in today's top 20 rises; +$4.22 [1.1%] -"
+Tesla,2025-1,07:19:41  [YAHCAN] (TSLA.O) - Judge approves Tesla directors' deal to end excess pay case -- -
+Tesla,2025-1,"07:07:18  [MARDAJ] (TSLA.O) - Fulton Bank N.A. Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"07:06:10  [CERGEM] (TSLA.O) - International Assets Investment Management LLC Cuts Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"07:05:46  [STOOBS] (TSLA.O) - Fulton Bank N.A. Has $10.45 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,07:04:55  [RTRS] (TSLA.O) - Judge approves Tesla directors' deal to end excess pay case -
+Tesla,2025-1,06:52:36  [GLOSTO] (TSLA.O) - How Tesla's Tax Rate compares to Its Peers -
+Tesla,2025-1,06:52:33  [GLOSTO] (TSLA.O) - How Tesla's Tax Rate compares to Its Peers -
+Tesla,2025-1,"06:47:12  [GLOSTO] (TSLA.O) - Tesla (TSLA: $398.58) lifts 1.1% strengthening above moving average price, ranks 19 in today's top 20 rises; +$4.22 [1.1%] -"
+Tesla,2025-1,"06:47:11  [GLOSTO] (TSLA.O) - Tesla (TSLA: $398.58) lifts 1.1%, ranks 19 in today's top 20 rises; +$4.22 [1.1%] -"
+Tesla,2025-1,"06:28:00  [MARBEA] (TSLA.O) - Tesla (NASDAQ:TSLA) Stock Price Up 0.6% - Time to Buy? Written by MarketBeat January 8, 2025 Link copied to clipboard. Get Tesla alerts: Analyst Up... -"
+Tesla,2025-1,"06:22:45  [GLOSNI] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET STOCK SNIPPETS TESLA (TSLA: $394.36) Wednesday January 08, 2025 07:01 EST -"
+Tesla,2025-1,06:22:26  [GLOBUL] (TSLA.O .NDX) - Consecutive Rises Monthly: Tesla (TSLA: $394.36) up 33% in 2 months -
+Tesla,2025-1,"06:07:11  [WKRNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Worth Asset Management LLC -- -"
+Tesla,2025-1,05:52:15  [GLOSTO] (TSLA.O RIVN.O) - Tesla continues to underperform Rivian Automotive by 14.4% in the past month -
+Tesla,2025-1,05:52:14  [GLOSTO] (TSLA.O LCID.O) - Tesla continues to underperform Lucid Group by 45.4% in the past month -
+Tesla,2025-1,05:32:16  [GLOTRA] (TSLA.O .NDX) - Tesla (TSLA: $392.51) strengthens above moving average price; -$1.85 [-0.5%] -
+Tesla,2025-1,"05:31:42  [WNCOMA] (TSLA.O) - FBI verifies Tesla Cybertruck subject emailed podcaster, says he used ChatGPT to plan Trump hotel explosion -- -"
+Tesla,2025-1,"05:29:41  [MARBEA] (TSLA.O) - Fulton Bank N.A. Has $10.45 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,05:29:12  [LAWAAB] (TSLA.O) - Chancery Awards $176M Atty Fee In Tesla Board Pay Suit -- -
+Tesla,2025-1,"05:27:41  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Boosted by Worth Asset Management LLC -- -"
+Tesla,2025-1,"05:25:39  [CBTNEW] (TSLA.O) - Another day, another probe: NHTSA investigates Tesla's remote driving feature -- -"
+Tesla,2025-1,"This is far more effective than just wetting a surface with water, which evaporates quickly. -"
+Tesla,2025-1,05:12:08  [NOTENG] (TSLA.O) - Tesla comes to motoring's aid by selling emissions credits to traditional manufacturers to avoid Brussels fines -
+Tesla,2025-1,"05:02:38  [DAIONL] (TSLA.O) - Elon Musk 'stirs up hatred' by 'openly attacking institutions', says Spanish PM Sanchez as European backlash against 'meddling' Tesla billionaire g... -"
+Tesla,2025-1,"04:55:10  [FOXNEW] (TSLA.O) - FBI verifies Tesla Cybertruck subject emailed podcaster, says he used ChatGPT to plan Trump hotel explosion -- -"
+Tesla,2025-1,04:52:45  [GLOSTO] (TSLA.O) - A Comparison of Tesla's Layoffs with that of Corporate America -
+Tesla,2025-1,04:52:39  [GLOSTO] (TSLA.O VOLCARb.ST) - Tesla continues to underperform Volvo Car AB by 1.1% in the past month -
+Tesla,2025-1,04:43:38  [CNETAA] (TSLA.O) - NHTSA Looking Into Tesla's Latest Summon Feature After Crashes -- -
+Tesla,2025-1,"04:37:15  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR383.45) increases EUR2.90, 3 days' volume in a day; +EUR2.90 [0.8%] Vol Index 3.1 [1 is avg] -"
+Tesla,2025-1,04:31:42  [QUANAV] (TSLA.O) - Tesla CEO Elon Musk has renewed the fight for his $56 billion pay package -
+Tesla,2025-1,A Republican can now win the state. But it has to be a strong candidate. -
+Tesla,2025-1,"04:22:30  [GLOSNI] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET STOCK SNIPPETS TESLA (TSLA: $394.36) Wednesday January 08, 2025 07:01 EST -"
+Tesla,2025-1,04:22:18  [GLOBUL] (TSLA.O .NDX) - Consecutive Rises Monthly: Tesla (TSLA: $394.36) up 33% in 2 months -
+Tesla,2025-1,04:06:13  [WNCOMA] (TSLA.O) - Elon Musk told STAGGERING offer needed to buy Liverpool from FSG as fans urged to be 'very wary' of X & Tesla mogul -- -
+Tesla,2025-1,He is the most dangerous prime minister this country has ever had.
+Tesla,2025-1,03:59:19  [RTRS] (VOWG_p.DE TSLA.O) - Workers at Ford joint venture plant in Kentucky file to hold union election (UPDATE 2) -
+Tesla,2025-1,03:56:37  [WNCOMA] (TSLA.O) - Tesla poised for $1 billion windfall from EU's emissions curbs -- -
+Tesla,2025-1,03:52:55  [GLOSTO] (TSLA.O) - How Tesla Has Fared Since Its Recent Analyst Ratings Changes -
+Tesla,2025-1,03:52:45  [GLOTRA] (TSLA.O .NDX) - Tesla (TSLA: $395.23) strengthens above moving average price; +87c [0.2%] -
+Tesla,2025-1,Sid Ahmed Benflici assaulted an Irish woman in October 1999 and spent just 3 months in prison.
+Tesla,2025-1,"That's more than three weeks of work,  concentrated in 4 minutes."
+Tesla,2025-1,It's fun to use the most modern tools and start again at the level of silent cinema.
+Tesla,2025-1,"23:57:23  [DAILYQ] (TSLA.O) - SeaCrest Wealth Management LLC Buys 3,093 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"23:57:14  [WATNEW] (TSLA.O) - Fiduciary Financial Group LLC Decreases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,23:56:57  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Cibc World Markets decreases its shareholding by 27.0% -
+Tesla,2025-1,23:56:56  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: National Bank of Canada adds 7.5% to its shares -
+Tesla,2025-1,23:56:55  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: First Trust Advisors reduces its shares by 19.1% -
+Tesla,2025-1,23:56:54  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Arizona State Retirement System trims its shareholding by 1.0% -
+Tesla,2025-1,23:56:53  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Metlife Investment Advisors trims its shareholding by 2.4% -
+Tesla,2025-1,23:56:52  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Caisse De Depot Et Placement Du Quebec accumulates another 44.5% -
+Tesla,2025-1,23:56:52  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Retirement Systems of Alabama reduces its shares by 11.2% -
+Tesla,2025-1,23:56:49  [SEECOM] (TSLA.O) - Tesla offers discounts on some Cybertrucks as EV competition heats up -
+Tesla,2025-1,"23:53:41  [MARBEA] (TSLA.O) - Clarus Wealth Advisors Sells 1,145 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"23:47:20  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $428.22) Thursday January 16, 2025 07:01 EST -"
+Tesla,2025-1,23:47:14  [GLOBUL] (TSLA.O .NDX) - Top Performers Past Week: Tesla (TSLA: $428.22) in top 2% performers of NASDAQ-100 Index in past week -
+Tesla,2025-1,23:42:17  [GLOSTO] (TSLA.O) - ICYMI: Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-1,23:30:00  [GNW] (TSLA.O PODC.O) - LiveOne's (NASDAQ: LVO) Tesla Partnership Hits Milestone 500K+ Users -
+Tesla,2025-1,"Tesla earnings, FOMC/Jerome Powell's press conference, Facebook earnings, Microsoft earnings and more"
+Tesla,2025-1,"23:22:25  [DAILYQ] (TSLA.O) - Acropolis Investment Management LLC Purchases 25 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"23:22:13  [TRADAJ] (TSLA.O) - Fifth Third Wealth Advisors LLC Has $17.53 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,23:06:47  [WNCOMA] (TSLA.O) - Tesla is offering Cybertruck discounts after shifting workers to Model Y production -- -
+Tesla,2025-1,22:47:26  [GLOSTO] (TSLA.O) - Update: Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-1,"22:43:44  [WKRNEW] (TSLA.O) - Tlwm Buys 86 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,21:56:52  [DAISTB] (TSLA.O) - Elon Musk comments on Tulip Siddiq's resignation on X -- -
+Tesla,2025-1,21:56:34  [BUSINT] (TSLA.O) - Tesla is offering Cybertruck discounts after shifting workers to Model Y production -
+Tesla,2025-1,21:48:16  [GLOWEE] (TSLA.O) - What the Beneish M-score tells us about Tesla -
+Tesla,2025-1,"21:42:21  [DAILYQ] (TSLA.O) - Clarus Wealth Advisors Reduces Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:11:45  [MARBEA] (TSLA.O) - Kathmere Capital Management LLC Buys 2,203 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"21:06:15  [SHACHI] (TSLA.O) - 239,000 US Tesla vehicles recalled over rear-view camera issue Robert Besser 16 Jan 2025, 19:25 GMT+10 -- -"
+Tesla,2025-1,"21:03:15  [MARBEA] (TSLA.O) - Fifth Third Wealth Advisors LLC Has $17.53 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"20:56:11  [MARBEA] (TSLA.O) - Oak Thistle LLC Makes New $3.02 Million Investment in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"20:40:17  [MARBEA] (TSLA.O) - SeaCrest Wealth Management LLC Has $8.66 Million Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"20:38:18  [WKRNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Biltmore Wealth Management LLC -- -"
+Tesla,2025-1,"20:37:25  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Oak Asset Management LLC -"
+Tesla,2025-1,20:32:19  [GURCOM] (TSLA.O) - Barclays Raises Tesla (TSLA) Price Target Despite Concerns Over Growth -
+Tesla,2025-1,20:17:20  [INVEZZ] (TSLA.O) - Tesla stock priced for perfection: analyst sees 70% slide ahead -
+Tesla,2025-1,"20:13:00  [NOTENG] (BA.N TSLA.O) - Next U.S. Transportation secretary won't interfere in Tesla, Elon Musk investigations; will follow up on Boeing case -"
+Tesla,2025-1,"20:01:49  [BENZIN] (TSLA.O) - Tesla Offers Discounts Up To $2,000 On New Inventory Cybertrucks -"
+Tesla,2025-1,"19:57:54  [TICREP] (TSLA.O) - Brokerages Set Tesla, Inc. (NASDAQ:TSLA) Price Target at $295.69 -"
+Tesla,2025-1,Literally all I had to do was replace the upstream base API url and model name. Everything else just works! This includes LangChain and other frameworks!
+Tesla,2025-1,"As wildfires destroy homes and lives, criminals are swooping in to loot what little remains."
+Tesla,2025-1,18:57:03  [TICREP] (TSLA.O) - Tesla (NASDAQ:TSLA) Trading 4.6% Higher After Analyst Upgrade -
+Tesla,2025-1,18:36:39  [GURCOM] (TSLA.O) - Tesla (TSLA) Offers Discounts on Cybertruck Amid Sluggish Sales -
+Tesla,2025-1,18:02:12  [TICREP] (TSLA.O) - Tesla (NASDAQ:TSLA) Trading 1.4% Higher on Analyst Upgrade -
+Tesla,2025-1,Brand Erosion at Dawn: Observing Musk's UK Reputational Collapse from My Norman Keep
+Tesla,2025-1,17:16:32  [GURCOM] (TSLA.O) - Tesla Shares Soars 8% on Barclays' Price Target Boost to $325 -
+Tesla,2025-1,"17:12:49  [NOTENG] (TSLA.O) - While Tesla defines its strategy to reach Nuevo Leon, there are 72 Tier 1 and 2 suppliers: Emmanuel Loo -"
+Tesla,2025-1,"16:41:45  [EINPRE] (TSLA.O) - ShearComfort Unveils Revolutionary 2025 Custom Truck Seat Covers, Featuring Tesla Cybertruck Options -"
+Tesla,2025-1,"16:40:43  [GRAIND] (TSLA.O) - ShearComfort Unveils Revolutionary 2025 Custom Truck Seat Covers, Featuring Tesla Cybertruck Options -- -"
+Tesla,2025-1,15:42:05  [LATNIG] (TSLA.O) - Tesla to split $100M award for electric truck charging corridor in Illinois -- -
+Tesla,2025-1,"15:41:26  [CENAFT] (TSLA.O) - Samuel talks about Tesla again: ""If it comes to NL, I'm sure, it's a win-win"". -"
+Tesla,2025-1,15:40:08  [ECOCOM] (TSLA.O) - Tesla's Asian rivals pull ahead in India's nascent EV market -- -
+Tesla,2025-1,15:22:08  [GURCOM] (TSLA.O MSFT.O) - Microsoft (MSFT) and Tesla (TSLA) CEOs Discuss AI and Cybersecurity with U.S. President-elect -
+Tesla,2025-1,Your kids go to an elite private day school and you sit at home all day on the Internet.
+Tesla,2025-1,15:02:33  [GURCOM] (TSLA.O) - Barclays Analyst Projects Tesla (TSLA) Growth with Key Factors for 2025 -
+Tesla,2025-1,"15:02:17  [GERCOM] (TSLA.DE TSLA.O) - Tesla Motors (TL0: EUR403.0) keeps rising, up 5.6% in 4 days -"
+Tesla,2025-1,14:31:44  [YAHNEX] (TSLA.O) - Watch These Tesla Price Levels as Stock Regains Traction After Recent Pullback -- -
+Tesla,2025-1,"14:27:16  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Wednesday January 15, 2025 22:22 EST -"
+Tesla,2025-1,14:21:09  [STRMLS] (TSLA.O) - Trump USDOT nominee says Tesla safety probe will continue -- -
+Tesla,2025-1,"14:14:31  [RTRS] (TSLA.O NVDA.O) - Biden takes aim at 'tech industrial complex,' echoing Eisenhower (UPDATE 2) -"
+Tesla,2025-1,13:35:38  [MSNUKA] (BA.N TSLA.O) - Transportation secretary pick vows to buck any pressure to help Elon Musk in agency probes of Tesla -- -
+Tesla,2025-1,13:32:21  [GURCOM] (TSLA.O) - Tesla (TSLA) Plans to Halt Shanghai Production for New Model Y -
+Tesla,2025-1,13:12:12  [WNCOMA] (MRTI.NS TSLA.O) - Tesla's Asian rivals pull ahead in India's nascent EV market -- -
+Tesla,2025-1,"12:28:42  [RTRS] (TSLA.O MSFT.NS) - Trump, Musk dine with Microsoft CEO at Mar-a-Lago, Semafor reports -"
+Tesla,2025-1,12:21:13  [WALPIT] (TSLA.O) - Tesla Stock Jumps as Barclays Sees Bigger Gains Ahead -- -
+Tesla,2025-1,11:48:38  [MARBEA] (TSLA.O) - Transportation secretary pick vows to buck any pressure to help Elon Musk in agency probes of Tesla -- -
+Tesla,2025-1,11:47:48  [CITYNE] (TSLA.O) - Transportation secretary pick vows to buck any pressure to help Elon Musk in agency probes of Tesla -- -
+Tesla,2025-1,11:34:41  [YAHNEX] (TSLA.O 0TL.F) - Tesla's Asian Rivals Pull Ahead in India's Nascent EV Market -- -
+Tesla,2025-1,11:01:10  [YAHNEX] (BA.N TSLA.O) - Transportation secretary pick vows to buck any pressure to help Elon Musk in agency probes of Tesla -- -
+Tesla,2025-1,"11:00:18  [CNBC] (TSLA.O) - Wells Fargo sticks by negative Tesla view, sees shares plunging nearly 70% -"
+Tesla,2025-1,10:59:10  [YAHSIN] (TSLA.O) - Tesla to split $100M award for electric truck charging corridor in Illinois -- -
+Tesla,2025-1,10:51:51  [AUTCOO] (TSLA.O) - Trump's nominee to lead Transportation Department says Tesla safety probe will continue -- -
+Tesla,2025-1,10:07:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $428.22) in top 1% performers of NASDAQ-100 Index; +$31.86 [8.0%] -
+Tesla,2025-1,10:00:39  [MSNUKA] (TSLA.O) - Revealed: The all-new 2025 Tesla Model Y coming to the UK very soon -- -
+Tesla,2025-1,"Tesla is offering up to $1,600 off new non-Foundation Series Cybertrucks, while Demo vehicles get discounts up to $2,630 off."
+Tesla,2025-1,09:43:14  [YAHNEX] (TSLA.O) - BYD Closing the Gap on Tesla in Global EV Market Share -- -
+Tesla,2025-1,09:29:41  [YAHNEX] (TSLA.O) - Trump USDOT nominee says Tesla safety probe will continue -- -
+Tesla,2025-1,09:11:49  [INDEPE] (TSLA.O BA.N) - Transportation secretary pick vows to buck any pressure to help Elon Musk in agency probes of Tesla -
+Tesla,2025-1,08:56:56  [GLOSTO] (TSLA.O) - Past Week: Tesla (TSLA: $428.22) in top 2% performers of NASDAQ-100 Index in past week; +$33.28 [8.4%] -
+Tesla,2025-1,08:48:00  [GLOSTO] (TSLA.O) - Tesla (TSLA: $428.22) in top 1% performers of NASDAQ-100 Index; +$31.86 [8.0%] -
+Tesla,2025-1,08:30:15  [ASSOPR] (TSLA.O BA.N) - Transportation secretary pick vows to buck any pressure to help Elon Musk in agency probes of Tesla -
+Tesla,2025-1,08:11:53  [NOTENG] (TSLA.O) - AI: Price of the Chinese humanoid robot that competes with Tesla and is inspired by 'Yo Robot'. -
+Tesla,2025-1,08:07:40  [YAHNEX] (TSLA.O) - Update: Market Chatter: Tesla CEO Elon Musk's Acquisition of TikTok US Being Evaluated as Potential Option Amid Impeding Ban -- -
+Tesla,2025-1,"07:52:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $423.88) jumps 6.9% on average volume, ranks 2 in today's top 20 rises; +$27.52 [6.9%] -"
+Tesla,2025-1,They were told by a local mayor they'd need to hire a specific environmental consultant
+Tesla,2025-1,That consultant said they'd need to pay them $20M for an EIA
+Tesla,2025-1,"07:37:39  [RTRS] (TSLA.O GM.N) - Trump nominee says Boeing needs 'tough love,' EVs should pay for road use (UPDATE 2) -"
+Tesla,2025-1,07:25:43  [YAHIRE] (BA.N TSLA.O) - Transportation secretary pick vows to buck any pressure to help Elon Musk in agency probes of Tesla -- -
+Tesla,2025-1,07:24:16  [BARCHA] (BA.N TSLA.O) - Transportation secretary pick vows to buck any pressure to help Elon Musk in agency probes of Tesla -- -
+Tesla,2025-1,07:23:44  [CANPRE] (BA.N TSLA.O) - Transportation secretary pick vows to buck any pressure to help Elon Musk in agency probes of Tesla -
+Tesla,2025-1,"07:22:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $421.55) surges 6.4% on average volume, ranks 2 in today's top 20 rises; +$25.19 [6.4%] -"
+Tesla,2025-1,"07:17:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $423.88) jumps 6.9% on average volume, ranks 2 in today's top 20 rises; +$27.52 [6.9%] -"
+Tesla,2025-1,06:56:43  [MARBEA] (TSLA.O) - Barclays Boosts Tesla (NASDAQ:TSLA) Price Target to $325.00 -- -
+Tesla,2025-1,"06:47:07  [GLOSTO] (TSLA.O) - Tesla (TSLA: $421.55) surges 6.4% on average volume, ranks 2 in today's top 20 rises; +$25.19 [6.4%] -"
+Tesla,2025-1,06:46:44  [AUSFIO] (TSLA.O) - Los Angeles on edge as fire danger persists -- -
+Tesla,2025-1,06:44:41  [TECHCR] (TSLA.O) - Tesla to split $100M award for electric truck charging corridor in Illinois -- -
+Tesla,2025-1,06:44:40  [CABLEA] (TSLA.O) - US SEC sues Elon Musk over alleged violations in Twitter acquisition -- -
+Tesla,2025-1,"06:42:07  [GLOSTO] (TSLA.O) - Tesla (TSLA: $419.81) jumps 5.9% strengthening above moving average price, ranks 3 in today's top 20 rises; +$23.45 [5.9%] -"
+Tesla,2025-1,"06:27:28  [GURCOM] (TSLA.O AEHR.O) - Why Tesla (TSLA), Rivian (RIVN), and Aehr Test Systems (AEHR) Stocks Are Moving Today -"
+Tesla,2025-1,"06:22:51  [GLOBEA] (TSLA.O .NDX) - Tesla (TSLA: $396.36) price 6.7% below VWAP Wednesday January 15, 2025 07:01 EST -"
+Tesla,2025-1,"06:22:47  [GLOBEA] (TSLA.O .NDX) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $396.36) Wednesday January 15, 2025 07:01 EST -"
+Tesla,2025-1,"06:17:55  [COMFIN] (TSLA.O) - IMZ Advisory Inc Acquires Shares of 506 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"06:11:58  [GLOSTO] (TSLA.O) - Tesla (TSLA: $419.81) jumps 5.9% strengthening above moving average price, ranks 3 in today's top 20 rises; +$23.45 [5.9%] -"
+Tesla,2025-1,"06:11:57  [NOTENG] (TSLA.O) - BYD's Yangwang U9, the sports car that jumps and wants to compete with Tesla. -"
+Tesla,2025-1,06:08:44  [YAHNEX] (TSLA.O) - Three Reasons Why Wells Fargo Predicts 70% Plunge on Tesla's Stock -- -
+Tesla,2025-1,"06:08:10  [WKRNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Breakwater Capital Group -- -"
+Tesla,2025-1,05:52:29  [GLOSTO] (TSLA.O LCID.O) - Tesla continues to outperform Lucid Group by 92.0% in the past three months -
+Tesla,2025-1,05:52:27  [GLOSTO] (TSLA.O RIVN.O) - Tesla continues to outperform Rivian Automotive by 52.0% in the past three months -
+Tesla,2025-1,"05:52:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $417.90) surges 5.4%, ranks 3 in today's top 20 rises; +$21.54 [5.4%] -"
+Tesla,2025-1,05:40:16  [VERGEA] (TSLA.O) - Trump's transportation pick says he'll let Tesla investigations proceed -- -
+Tesla,2025-1,05:36:38  [AUTCOO] (TSLA.O) - Tesla to suspend some Model Y lines in China ahead of upgrade -- -
+Tesla,2025-1,05:34:13  [CHAASI] (TSLA.O) - Trump USDOT nominee says Tesla safety probe will continue -- -
+Tesla,2025-1,05:31:13  [YAHSIN] (TSLA.O) - Trump USDOT nominee says Tesla safety probe will continue -- -
+Tesla,2025-1,05:24:57  [RTRS] (UBER.N TSLA.O) - What to expect on Trump's Inauguration Day (FACTBOX) -
+Tesla,2025-1,"05:17:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $417.90) surges 5.4%, ranks 3 in today's top 20 rises; +$21.54 [5.4%] -"
+Tesla,2025-1,"05:14:09  [WNCOMA] (TSLA.O .SPX) - Cooling CPI Drives Risk-On Rally: S&P 500 Surges, Tesla Leads; Gold Gains, Yields Fall -- -"
+Tesla,2025-1,05:13:06  [RTRS] (TSLA.O) - Trump USDOT nominee says Tesla safety probe will continue (UPDATE 1) -
+Tesla,2025-1,"05:12:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $418.74) jumps 5.6% strengthening above moving average price, ranks 2 in today's top 20 rises; +$22.38 [5.6%] -"
+Tesla,2025-1,05:11:43  [OILCOM] (TSLA.O) - BYD Closing the Gap on Tesla in Global EV Market Share -- -
+Tesla,2025-1,04:52:25  [GLOSTO] (TSLA.O VOLCARb.ST) - Tesla continues to outperform Volvo Car AB by 78.5% in the past three months -
+Tesla,2025-1,"04:49:43  [INSMON] (TSLA.O) - Jim Cramer on Tesla, Inc. (TSLA): 'When They Reported The Quarter It Was Bad' -- -"
+Tesla,2025-1,"04:37:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $418.74) jumps 5.6% strengthening above moving average price, ranks 2 in today's top 20 rises; +$22.38 [5.6%] -"
+Tesla,2025-1,"04:36:38  [FXEMPI] (USD= TSLA.O) - Cooling CPI Drives Risk-On Rally: S&P 500 Surges, Tesla Leads; Gold Gains, Yields Fall -- -"
+Tesla,2025-1,"04:32:28  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR403.0) adds EUR20 billion ($21 billion) (1.6%) in MCap, top heavyweight rise in Health care sector; +EUR6.40 ... -"
+Tesla,2025-1,"04:31:56  [TRADAJ] (TSLA.O) - McNaughton Wealth Management LLC Reduces Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,04:23:11  [YAHNEX] (TSLA.O) - Tesla Gets Orders for 50K Redesigned Model Y in a Day in China -- -
+Tesla,2025-1,"04:22:39  [GLOBEA] (TSLA.O .NDX) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $396.36) Wednesday January 15, 2025 07:01 EST -"
+Tesla,2025-1,"04:22:37  [GLOBEA] (TSLA.O .NDX) - Tesla (TSLA: $396.36) price 6.7% below VWAP Wednesday January 15, 2025 07:01 EST -"
+Tesla,2025-1,"04:17:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $415.42) gains 4.8%, ranks 4 in today's top 20 rises; +$19.06 [4.8%] -"
+Tesla,2025-1,"04:09:42  [CNEVPO] (TSLA.O) - Tesla to pause some facelifted Model Y lines in China for upgrades, report says -"
+Tesla,2025-1,"04:08:00  [EXTCON] (TSLA.O) - Musk Says Unsupervised Full Self-Driving Is Almost Here, but the Data Says Otherwise -"
+Tesla,2025-1,"04:07:59  [STOOBS] (TSLA.O) - 1,245 Shares in Tesla, Inc. (NASDAQ:TSLA) Purchased by Wallace Advisory Group LLC -"
+Tesla,2025-1,04:07:25  [STOOBS] (TSLA.O) - Tesla (NASDAQ:TSLA) Stock Price Up 4.6% After Analyst Upgrade -
+Tesla,2025-1,04:05:08  [RTRS] (TSLA.O) - Trump USDOT nominee says Tesla safety probe will continue -
+Tesla,2025-1,"""CFO: Decisive next step and conditionfor further investment in German plants is increase in cars per worker' $VWAGY $TSLA -"
+Tesla,2025-1,04:01:55  [BENZIN] (TSLA.O) - Trump Transportation Nominee Says If Confirmed Will Allow Tesla Autopilot Probe To Continue -
+Tesla,2025-1,03:54:55  [RTRS] (TSLA.O) - TRUMP TRANSPORTATION NOMINEE SAYS IF CONFIRMED WILL ALLOW TESLA AUTOPILOT PROBE TO CONTINUE -- SENATE HEARING -
+Tesla,2025-1,03:52:59  [GLOSTO] (TSLA.O) - How Tesla Has Fared Since Its Recent Analyst Ratings Changes -
+Tesla,2025-1,03:47:10  [TRADAJ] (TSLA.O) - Tesla (NASDAQ:TSLA) Trading 4.6% Higher on Analyst Upgrade -
+Tesla,2025-1,03:46:51  [MENREP] (TSLA.O) - Purchase Of Tesla Power Elements For Sale In The Network Of Petrol Stations/gas Stations Of Ooo Rn-chernozemye -
+Tesla,2025-1,03:46:41  [ECOCOM] (TSLA.O) - 'Tesla would have gone bankrupt had I not...': Elon Musk's big statement amid feud with SEC -- -
+Tesla,2025-1,03:43:43  [YAHNEX] (TSLA.O) - Tesla Stock Is Shrugging Off SEC Issue While Wall Street Weighs 'Fundamentals' -- -
+Tesla,2025-1,03:43:33  [GLOTRA] (TSLA.O .NDX) - Tesla (TSLA: $415.42) gains 4.8% strengthening above moving average price; +$19.06 [4.8%] -
+Tesla,2025-1,"03:42:11  [GLOSTO] (TSLA.O) - Tesla (TSLA: $415.42) gains 4.8%, ranks 4 in today's top 20 rises; +$19.06 [4.8%] -"
+Tesla,2025-1,03:17:35  [GURCOM] (TSLA.O) - Tesla (TSLA) Surges Over 5% Amid Plans to Pause Model Y Production in China -
+Tesla,2025-1,"03:17:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $416.93) jumps 5.2% strengthening above moving average price, ranks 3 in today's top 20 rises; +$20.57 [5.2%] -"
+Tesla,2025-1,03:16:50  [PROINX] (TSLA.O) - Elon Musk sued by SEC for buying shares in Twitter at 'artificially low prices' -
+Tesla,2025-1,03:13:12  [NOTENG] (TSLA.O) - Elon Musk's advice that affects Argentina and will shape the future of the whole country -
+Tesla,2025-1,03:10:16  [YAHNEX] (TSLA.O) - Elon Musk: A Look At The Tesla CEO's Business Empire -- -
+Tesla,2025-1,03:07:43  [WATNEW] (TSLA.O) - Tesla (NASDAQ:TSLA) Price Target Raised to $325.00 at Barclays -
+Tesla,2025-1,03:02:26  [GURCOM] (TSLA.O) - Tesla Shares Soars 5% on Barclays' Price Target Boost to $325 -
+Tesla,2025-1,03:02:14  [ZACKSC] (TSLA.O) - Tesla Gets Orders for 50K Redesigned Model Y in a Day in China -
+Tesla,2025-1,03:02:10  [GURCOM] (TSLA.O) - Three Reasons Why Wells Fargo Predicts 70% Plunge on Tesla's Stock -
+Tesla,2025-1,02:57:16  [PROINV] (TSLA.O) - Elon Musk sued by SEC for buying shares in Twitter at 'artificially low prices' -
+Tesla,2025-1,"02:51:11  [FORCOO] (TSLA.O) - Trump Backs Special Tech Work Visas, What About Nurses And Care Aides? -- -"
+Tesla,2025-1,02:46:27  [RTRS] (TSLA.O GM.N) - Trump nominee says electric vehicles should pay to use roads -
+Tesla,2025-1,"02:43:05  [NEWBIH] (TSLA.O) - January 14, 2025: Intelligize, Inc.: Court OKs Tesla Board's Deal to Repay Nearly $1 Billion -"
+Tesla,2025-1,"02:42:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $416.93) jumps 5.2% strengthening above moving average price, ranks 3 in today's top 20 rises; +$20.57 [5.2%] -"
+Tesla,2025-1,02:39:28  [RTRS] (TSLA.O GM.N) - TRUMP USDOT NOMINEE SAYS ELECTRIC VEHICLES SHOULD PAY FEES TO USE ROADS -
+Tesla,2025-1,02:37:22  [GURCOM] (TSLA.O) - Barclays Raises Tesla (TSLA) Price Target Amid Growth Potential -
+Tesla,2025-1,02:34:11  [YAHNEX] (TSLA.O) - Tesla Stock Is Soaring. Inflation Trumps the SEC. -- -
+Tesla,2025-1,"02:19:07  [YAHNEX] (NVDA.O TSLA.O) - Dow Jones Futures: JPMorgan, Goldman Beat With CPI Inflation Due; Nvidia, Tesla Edge Higher -- -"
+Tesla,2025-1,02:17:07  [GURCOM] (TSLA.O MSTR.O) - Tech Stocks Surge: MicroStrategy and Tesla Lead Gains -
+Tesla,2025-1,"02:07:50  [NEWBIH] (TSLA.O) - WEEKLY RECAP: INTELLIGIZE, INC. NEWS THIS PAST WEEK JAN 15, 2025 -"
+Tesla,2025-1,01:51:49  [GLOSTO] (000270.KS TSLA.O) - Tesla continues to outperform KIA Motors by 74.8% in the past three months -
+Tesla,2025-1,01:41:47  [BENZIN] (TSLA.O) - Tesla shares are trading higher amid recent data from automotive research company Kelley Blue Book stating that the company ranked first in the U.S... -
+Tesla,2025-1,Just tap the xAI/Grok button on the bottom of your X icon bar or download the dedicated app. -
+Tesla,2025-1,"01:13:30  [NOTENG] (TSLA.O) - Tesla Model Y Juniper receives 50,000 orders in a single day -"
+Tesla,2025-1,"00:53:40  [WKRNEW] (TSLA.O) - AAFMAA Wealth Management & Trust LLC Invests $497,000 in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,00:36:06  [WNCOMA] (TSLA.O) - Tesla issued a recall for nearly 240K vehicles. How to tell if your car's on the list -- -
+Tesla,2025-1,00:27:51  [WALLST] (TSLA.O .SPX) - Elon Musk's Net Worth Drops $5 Billion on Tesla Trouble -
+Tesla,2025-1,"""There's SpaceX and Tesla, which take about roughly half of my business time each."
+Tesla,2025-1,I think probably that comes from what they're taught in schools.
+Tesla,2025-1,"Instead of fighting real crime, under the Democrats, citizens are prosecuted, while serious criminals run free."
+Tesla,2025-1,"00:00:00  [RTRS] (WMT.N TSLA.O) - Wild TikTok dance adds clumsy Beijing shuffle-step (RPT, BREAKINGVIEWS) -"
+Tesla,2025-1,"23:58:41  [WKRNEW] (TSLA.O) - Code Waechter LLC Sells 50 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"23:52:07  [GLOBEA] (.IXIC TSLA.O) - Tesla (TSLA: $396.36) - PRE-MARKET BEARISH SIGNAL Wednesday January 15, 2025 07:01 EST -"
+Tesla,2025-1,"23:47:22  [GLOBEA] (TSLA.O .NDX) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $396.36) Wednesday January 15, 2025 07:01 EST -"
+Tesla,2025-1,"23:47:20  [GLOBEA] (TSLA.O .NDX) - Tesla (TSLA: $396.36) price 6.7% below VWAP Wednesday January 15, 2025 07:01 EST -"
+Tesla,2025-1,23:33:40  [GURCOM] (TSLA.O) - TSLA Plans Model Y Production Pause in China for Equipment Optimization -
+Tesla,2025-1,"23:33:09  [TRADAJ] (TSLA.O) - Wallace Advisory Group LLC Takes $503,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"23:31:23  [MSNCAN] (TSLA.O) - Tesla to suspend part of new Model Y lines in China for upgrades, Bloomberg News reports -- -"
+Tesla,2025-1,"23:21:30  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Rosenberg Matthew Hamilton -"
+Tesla,2025-1,23:11:50  [BENZIN] (TSLA.O) - Tesla To Suspend Parts Of Refreshed Model Y Lines In Shanghai For 3 Weeks: Report -
+Tesla,2025-1,23:09:00  [YAHNEX] (TSLA.O) - SEC Sues Tesla CEO Musk for Alleged Securities Fraud Related to Twitter Stock Purchases -- -
+Tesla,2025-1,"23:08:43  [YAHNEX] (VTYV.L META.O) - Trending tickers: Meta, Tesla, Eli Lilly, Currys and Vistry -- -"
+Tesla,2025-1,"23:08:41  [YAHNEX] (NVDA.O TSLA.O) - Dow Jones Futures: JPMorgan Beats, CPI Inflation Due After Nvidia, Tesla Slide -- -"
+Tesla,2025-1,22:42:08  [GURCOM] (TSLA.O) - Elon Musk Sued for Allegedly Manipulating Twitter Stock Prices -
+Tesla,2025-1,22:22:36  [GURCOM] (TSLA.O) - Tesla (TSLA) to Temporarily Halt Model Y Production in China for Equipment Optimization -
+Tesla,2025-1,"22:14:42  [MARBEA] (TSLA.O) - Capital CS Group LLC Purchases Shares of 1,933 Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"22:12:06  [NEWUSN] (BRKR.O TSLA.O) - NASDAQ Today's Bearish Signals: Falls in the heavyweights Tuesday January 14, 2025 16:00 EST [in desc order of decrease in MCap] -"
+Tesla,2025-1,22:06:59  [NEWWIR] (CRBG.N TSLA.O) - Tesla Third Quarter 13F Filing: Corebridge Financial trims its shareholding by 3.2% -
+Tesla,2025-1,22:02:05  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Treasurer of The State of North Carolina augments its shareholding by 1.1% -
+Tesla,2025-1,22:02:04  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Royal London Asset Management augments its shareholding by 4.4% -
+Tesla,2025-1,22:02:03  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Schroder Investment Management Group boosts its shareholding by 15.7% -
+Tesla,2025-1,22:02:02  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Canada Pension Plan Investment Board accumulates another 74.9% -
+Tesla,2025-1,22:02:01  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Mariner Wealth Advisors increases its shares by 10.2% -
+Tesla,2025-1,22:02:00  [NEWWIR] (TSLA.O) - Tesla Fourth Quarter 13F Filing: Nordea Investment Management Ab increases its holding in Tesla -
+Tesla,2025-1,22:01:36  [NEWWIR] (TSLA.O BFCEp.PA) - Tesla Third Quarter 13F Filing: Natixis slashes 43.9% of its shareholding -
+Tesla,2025-1,22:01:30  [NEWWIR] (TSLA.O TD.TO) - Tesla Third Quarter 13F Filing: Toronto Dominion Bank accumulates another 52.5% -
+Tesla,2025-1,22:00:00  [RTRS] (TSLA.O GEO.N) - Trump's US presidency return ushers in new era of volatile markets (ANALYSIS) -
+Tesla,2025-1,"21:57:05  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: State of Tennessee, Treasury Department augments its shareholding by 1.3% -"
+Tesla,2025-1,21:57:04  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Ossiam cuts 8.4% of its shares -
+Tesla,2025-1,21:57:03  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Retirement Systems of Alabama continued to decrease its shareholding -
+Tesla,2025-1,21:57:02  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Caisse De Depot Et Placement Du Quebec accumulates another 44.5% -
+Tesla,2025-1,21:57:01  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Metlife Investment Advisors trims its shareholding by 2.4% -
+Tesla,2025-1,21:34:18  [WNCOMA] (TSLA.O) - Cyclum and Tulare partner to build landmark renewable energy vehicle charging center -- -
+Tesla,2025-1,21:31:13  [WEBCOM] (KO.N TSLA.O) - Elon Musk highlights Trump's affair with Diet Coke -- -
+Tesla,2025-1,"21:23:34  [MARBEA] (TSLA.O) - Signal Advisors Wealth LLC Reduces Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"21:07:22  [TRADAJ] (TSLA.O) - Marcum Wealth LLC Acquires 213 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:07:03  [RTRS] (TSLA.O) - Tesla to suspend part of new Model Y lines in China for upgrades, Bloomberg News reports -"
+Tesla,2025-1,21:05:28  [SIGDEV] (TSLA.O) - Tesla To Suspend Part Of New Model Y Lines In China For Upgrades- Bloomberg News -
+Tesla,2025-1,"21:05:11  [ETFDAI] (TSLA.O) - Harbor Capital Advisors Inc. Sells 600 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,"21:04:45  [MARBEA] (TSLA.O) - Leibman Financial Services Inc. Sells 7,028 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2025-1,20:54:24  [RTRS] (TSLA.O) - Tesla To Suspend Part Of New Model Y Lines In China For Upgrades- Bloomberg News (BRIEF) -
+Tesla,2025-1,20:53:22  [RTRS] (TSLA.O) - TESLA MODEL 3 OUTPUT WILL ALSO BE SUSPENDED OVER LUNAR NEW YEAR - BLOOMBERG NEWS -
+Tesla,2025-1,20:52:56  [RTRS] (TSLA.O) - TESLA TO SUSPEND PART OF NEW MODEL Y LINES IN CHINA FOR UPGRADES- BLOOMBERG NEWS -
+Tesla,2025-1,"20:50:41  [YAHNEX] (NVDA.O TSLA.O) - Dow Jones Futures: CPI Inflation, JPMorgan Due After Nvidia, Tesla Reverse Lower -- -"
+Tesla,2025-1,"20:27:16  [NEWPEO] (TSLA.O TSLA.OQ) - Elon Musk's two bagger Tesla in top 10% of price performers of NASDAQ stocks (aka Musk Elon) Wednesday January 15, 2025 -"
+Tesla,2025-1,"20:17:43  [FINGEV] (TSLA.O) - Elon Musk's Tesla Leads The Pack In Top-Selling EVs In US In 2024: Ford, GM Follow -- -"
+Tesla,2025-1,19:19:38  [ETFDAI] (TSLA.O) - Morgan Stanley Forecasts Strong Price Appreciation for Tesla (NASDAQ:TSLA) Stock -- -
+Tesla,2025-1,19:13:33  [NOTENG] (TSLA.O) - U.S. Securities and Exchange Commission sues Elon Musk for fraud in buying Twitter -
+Tesla,2025-1,"19:11:54  [BENZIN] (TSLA.O) - Elon Musk's Tesla Leads The Pack In Top-Selling EVs In US In 2024: Ford, GM Follow -"
+Tesla,2025-1,19:02:01  [FORNZN] (TSLA.O) - MIL-OSI Global: What's an H-1B visa? A brief history of the controversial program for skilled foreign workers -
+Tesla,2025-1,18:57:30  [WNCOMA] (TSLA.O) - Google Loses Over $3 Trillion Due to Elon Musk -- -
+Tesla,2025-1,"18:21:57  [TICREP] (TSLA.O) - Tesla (NASDAQ:TSLA) Stock Price Expected to Rise, Morgan Stanley Analyst Says -"
+Tesla,2025-1,Article II of the Constitution vests presidents with that power
+Tesla,2025-1,18:00:41  [INDTOE] (KO.N TSLA.O) - Elon Musk reacts to Donald Trump's pic with Coca-Cola CEO James Quincey -- -
+Tesla,2025-1,"American workers are increasingly skeptical of DEI initiatives, with 42% of Republicans now calling them ""bad"" for business, up from 30% last year."
+Tesla,2025-1,"Falcon 9 just nailed its historic centennial liftoff from NASA's legendary moon pad, carrying two lunar landers bound for different corners of our cosmic neighbor."
+Tesla,2025-1,Trump advisers Elon and Vivek's plan to end federal work-from-home could trigger massive voluntary exits - exactly what they want.
+Tesla,2025-1,16:56:41  [MSNAUS] (TSLA.O) - Tesla stock vs Amazon: Billionaires are buying one and selling the other -- -
+Tesla,2025-1,"Media headline in 2020: ""Tesla's Model Y Gets Poor Marks From Owners on Build Quality"""
+Tesla,2025-1,16:20:47  [ZERHED] (TSLA.O) - China's BYD Is Only Real Contender To Tesla's Global EV Market Share Dominance -- -
+Tesla,2025-1,16:12:06  [NOTENG] (NVDA.O TSLA.O) - Why Tesla and Nvidia take different paths to train AI systems -
+Tesla,2025-1,16:01:40  [MSNCAN] (TSLA.O) - Bannon backpedals on threat to have Elon Musk 'run out' of Trumpworld over immigration fight -- -
+Tesla,2025-1,14:47:40  [FORONL] (TSLA.O) - Elon Musk's lawyer said the SEC's lawsuit against the Tesla CEO is a 'single-count ticky tack complaint' -- -
+Tesla,2025-1,"14:46:01  [FINGEV] (RGTI.O TSLA.O) - Microsoft, Applied Digital, Rigetti Computing, Eli Lilly, Tesla: Why These 5 Stocks Are On Investors' Radars Today -- -"
+Tesla,2025-1,"14:27:00  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Tuesday January 14, 2025 22:22 EST -"
+Tesla,2025-1,"14:12:05  [NEWUSN] (BRKR.O TSLA.O) - NASDAQ Today's Bearish Signals: Falls in the heavyweights Tuesday January 14, 2025 16:00 EST [in desc order of decrease in MCap] -"
+Tesla,2025-1,12:31:48  [FREJOU] (TSLA.O) - Bhopal: JP Hospital Introduces Affordable MRI Services With State-Of-The-Art 1.5 Tesla Machine; Check Full Rate List Below -
+Tesla,2025-1,12:12:06  [YAHNEX] (TSLA.O) - Tesla Stock Gave Up Its Gains. What a Robotaxi Is Worth. -- -
+Tesla,2025-1,11:44:37  [RTRS] (TSLA.O AMZN.O) - US SEC sues Elon Musk over late disclosure of Twitter stake (UPDATE 2) -
+Tesla,2025-1,11:42:38  [CANMIN] (TSLA.O FOM.TO) - Foran embarking on largest drilling effort ever at its McIlvenna Bay project -- -
+Tesla,2025-1,11:41:38  [GURCOM] (TSLA.O) - Tesla's Elon Musk Sued by SEC Over Twitter Stock Disclosure -
+Tesla,2025-1,"11:35:43  [CERGEM] (TSLA.O) - Signet Financial Management LLC Increases Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,11:31:10  [MSNCAN] (TSLA.O) - Tesla's updated Model Y rolls off assembly line at German plant -- -
+Tesla,2025-1,11:23:40  [FINDEH] (TSLA.O) - Tesla Stock: Model Y Production Boost Amid Market Challenges -- -
+Tesla,2025-1,They spend their time on s*** like this when there are so many actual crimes that go unpunished. -
+Tesla,2025-1,11:00:00  [BENZIN] (TSLA.O) - Tesla shares are trading higher amid recent data from automotive research company Kelley Blue Book stating that the company ranked first in the U.S... -
+Tesla,2025-1,11:00:00  [BENZIN] (TSLA.O) - Tesla shares are trading higher amid recent data from automotive research company Kelley Blue Book stating that the company ranked first in the U.S... -
+Tesla,2025-1,11:00:00  [BENZIN] (TSLA.O) - Tesla shares are trading higher amid recent data from automotive research company Kelley Blue Book stating that the company ranked first in the U.S... -
+Tesla,2025-1,11:00:00  [BENZIN] (TSLA.O) - Tesla shares are trading higher amid recent data from automotive research company Kelley Blue Book stating that the company ranked first in the U.S... -
+Tesla,2025-1,"23:56:09  [MARBEA] (TSLA.O) - Crossmark Global Holdings Inc. Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"23:52:10  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $412.38) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday January 24, 2025 07:01 EST -"
+Tesla,2025-1,"23:47:25  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $412.38) Friday January 24, 2025 07:01 EST -"
+Tesla,2025-1,"23:47:24  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $412.38) decreases $2.73 on weak volume Friday January 24, 2025 07:01 EST -"
+Tesla,2025-1,23:37:46  [BUSINT] (TSLA.O) - Tesla sales in Europe are sliding. That's a problem for Elon Musk. -
+Tesla,2025-1,23:34:23  [MINDUS] (TSLA.O) - Finland: Tesla Model Y Juniper Long Range Dual Motor launched -
+Tesla,2025-1,"23:31:55  [BENZIN] (TSLA.O) - Tesla's Chinese Rivals Xpeng, Li Auto, Nio Rise In Premarket Trading After Trump's 'Friendly Conversation' With Xi Jinping: '...We Have One Very Bi... -"
+Tesla,2025-1,"23:28:21  [INTTIM] (TSLA.O) - Tesla's $60K Model Y: What's New In The Premium Versions Launched In US, Canada, Europe -"
+Tesla,2025-1,"23:22:40  [DAILYQ] (TSLA.O) - Chesapeake Wealth Management Grows Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"22:53:43  [LATNIG] (TSLA.O) - Tesla plans a software update for ~1.2M cars in China, around half its fleet in the country, to address power steering and rear-view camera issues ... -"
+Tesla,2025-1,"22:47:24  [WATNEW] (TSLA.O) - Planned Solutions Inc. Sells 79 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"22:43:16  [YAHNEX] (ISRG.O BA.N) - These Stocks Are Moving the Most Today: Texas Instruments, Boeing, Tesla, Intuitive Surgical, Twilio, American Express, and More -"
+Tesla,2025-1,22:41:12  [YAHNEX] (TSLA.O) - Tesla Stock Needs New Model Y to Succeed. What to Know About the EV Revamp. -
+Tesla,2025-1,"22:32:01  [RTRS] (TSLA.O) - Tesla launches new Model Y in US, Canada, Europe weeks after China (UPDATE 2) -"
+Tesla,2025-1,"22:25:09  [TIMLIV] (TSLA.O) - Tesla launches new Model Y in US, Canada and Europe -"
+Tesla,2025-1,"22:13:37  [NOTENG] (TSLA.O) - It's here: Tesla unveils the new Model Y, and it has more range and a different body. -"
+Tesla,2025-1,22:13:05  [NOTENG] (TSLA.O) - Elon Musk's controversial greeting was projected on the front of his Tesla factory in Berlin. -
+Tesla,2025-1,22:13:01  [NOTENG] (TSLA.O) - Tesla to recall more than 1.2 million cars on China's demand -
+Tesla,2025-1,"22:09:09  [WNCOMA] (TSLA.O) - ""Heil Tesla"": Controversial Image Of Elon Musk Displayed On Tesla Factory -"
+Tesla,2025-1,22:00:00  [RTRS] (TSLA.O MSFT.O) - Wall St Week Ahead-Fed's rate-cut view set to test resurgent US stocks rally -
+Tesla,2025-1,"21:59:39  [ECOCOM] (TSLA.O) - Tesla launches new Model Y in US, Canada, Europe weeks after China -"
+Tesla,2025-1,"21:49:14  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Beaumont Financial Advisors LLC -"
+Tesla,2025-1,21:47:40  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2025-1,"21:42:25  [WATNEW] (TSLA.O) - Commons Capital LLC Acquires Shares of 817 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:42:21  [WATNEW] (TSLA.O) - Perfromance Wealth Partners LLC Has $4.58 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:41:41  [WATNEW] (TSLA.O) - Mirabaud & Cie SA Makes New Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,This is not an isolated case. We have several in Norway.
+Tesla,2025-1,How many must must meet this fate? How many girls must be raped? Before we close our borders?
+Tesla,2025-1,"21:25:38  [LIVEMI] (TSLA.O) - Amid cheating allegations, Elon Musk's former girlfriend Grimes says 'witnesses can verify' Tesla CEO's skills in THIS -"
+Tesla,2025-1,"Mass deportations will be difficult and logistically challenging, but it is necessary."
+Tesla,2025-1,21:13:36  [NOTENG] (TSLA.O) - Tesla Model Y: this is the renewed SUV proposed by Elon Musk -
+Tesla,2025-1,"Bob Iger's compensation soared 30% to $41.1 million in 2024, including $18.3M in stock awards and $7.2M in bonuses."
+Tesla,2025-1,The CEO's massive raise comes while Disney continues restructuring and staff reductions.
+Tesla,2025-1,"The term ""woke mind virus"" has been used to critique ideologies promoting radical social justice, identity politics, and what some view as excessive equity measures."
+Tesla,2025-1,21:07:13  [EDGEMA] (TSLA.O) - Tesla deploys fix to 1.2 million China EVs on safety concern -
+Tesla,2025-1,20:45:15  [RTRS] (TSLA.O 600104.SS) - Chinese EV makers file challenges to tariffs at EU court (UPDATE 2) -
+Tesla,2025-1,20:32:26  [TICREP] (TSLA.O) - Wedbush Raises Tesla (NASDAQ:TSLA) Price Target to $550.00 -
+Tesla,2025-1,"20:31:54  [BENZIN] (TSLA.O) - Tesla Recalls Over 1.2 Million Vehicles In China Over Rear View Camera Malfunction, Power Steering Failure Concerns -"
+Tesla,2025-1,And his previous version was already ten times better than a normal car.
+Tesla,2025-1,"20:28:18  [MARBEA] (TSLA.O) - Commons Capital LLC Purchases New Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:24:48  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Mogy Joel R Investment Counsel Inc. -"
+Tesla,2025-1,20:23:18  [WHADAY] (TSLA.O) - ADL turns on Elon Musk after causing a recoil to defend his controversial inauguration -
+Tesla,2025-1,20:18:40  [ENGADG] (TSLA.O) - Tesla's new Model Y arrives in the US The company has launched the refreshed vehicle in North America and Europe. -
+Tesla,2025-1,20:17:44  [GURCOM] (TSLA.O) - Tesla (TSLA) Recalls Over 1.2 Million Vehicles in China Due to Safety Concerns -
+Tesla,2025-1,"20:11:50  [MARBEA] (TSLA.O) - Atomi Financial Group Inc. Grows Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:11:47  [MARBEA] (TSLA.O) - Transform Wealth LLC Purchases 666 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,20:08:57  [CLAACT] (TSLA.O) - TESLA INC: Parties Seeks More Time to File Class Certification -
+Tesla,2025-1,20:08:25  [MSNUKA] (TSLA.O) - Hands on with the all-new 2025 Tesla Model Y how does it compare to the old Model Y? -
+Tesla,2025-1,"20:01:18  [FINGEV] (TSLA.O STLAM.MI) - The Zacks Analyst Blog Tesla, General Motors, Ford and Stellantis -"
+Tesla,2025-1,19:57:51  [GURCOM] (TSLA.O) - Tesla Recalls Over 1.2 Million Vehicles in China Due to Safety Concerns -
+Tesla,2025-1,Tickers of interest: $AAPL $TSLA $MSFT $ECB $FED $LVMUY $ASML
+Tesla,2025-1,"19:24:58  [MINTNE] (TSLA.O) - Amid cheating allegations, Elon Musk's former girlfriend Grimes says 'witnesses can verify' Tesla CEO's skills in THIS -"
+Tesla,2025-1,"19:22:09  [ZACKSC] (TSLA.O STLAM.MI) - The Zacks Analyst Blog Tesla, General Motors, Ford and Stellantis -"
+Tesla,2025-1,19:21:40  [WNCOMA] (TSLA.O) - 3 in 10 Tesla owners plan to sell their cars over Elon Musk's antics: study -
+Tesla,2025-1,"19:10:41  [WATREG] (TSLA.O) - Tesla to hike prices by as much as $9,000 -"
+Tesla,2025-1,"19:10:28  [TORSTA] (TSLA.O) - Tesla to hike prices by as much as $9,000 -"
+Tesla,2025-1,19:07:01  [GURCOM] (TSLA.O) - Tesla Recalls Over 1.2 Million Vehicles Due to Safety Concerns -
+Tesla,2025-1,"TESLA CHINA TO UPGRADE SOFTWARE FOR AFFECTED VEHICLES REMOTELY FOR FREE, SAMR SAYS -"
+Tesla,2025-1,"19:01:49  [BENZIN] (TSLA.O) - Tesla Launches Refreshed Model Y In US With 25% Price Hike, Full Self-Driving Included -"
+Tesla,2025-1,"19:00:17  [RTRS] (TSLA.O) - Tesla to fix software for over 1.2 million imported and China-made cars, says regulator -"
+Tesla,2025-1,18:47:24  [RTRS] (TSLA.O) - DONGFENG HONDA AND GAC HONDA TO RECALL TOTAL OF 1.37 MLN VEHICLES EFFECTIVE FEB 28 - CHINA MARKET REGULATOR -
+Tesla,2025-1,"18:41:51  [RTRS] (TSLA.O) - TESLA TO RECALL IMPORTED MODEL S AND X, AND CHINA-MADE MODEL 3 AND Y CARS TOTALLING OVER 1.2 MLN UNITS EFFECTIVE FRIDAY - CHINA MARKET REGULATOR -"
+Tesla,2025-1,"18:35:40  [FINLAW] (TSLA.O) - Regulatory update: California Public Utilities Commission; Tesla, Inc. , has submitted (R2401018 ) Brief submitted by Tesla, Inc. on 01/21/2025 -"
+Tesla,2025-1,"18:35:36  [FINLAW] (TSLA.O) - Regulatory update: California Public Utilities Commission; Tesla, Inc. , has submitted (R2401018 ) Brief submitted by Tesla, Inc. on 01/21/2025 (Ce... -"
+Tesla,2025-1,18:33:38  [RTRS] (TSLA.O) - Tesla says its V4 Superchargers will soon land in China -
+Tesla,2025-1,18:26:08  [RTRS] (TSLA.O) - TESLA: FIRST BATCH OF V4 SUPERCHARGERS TO LAND SOON IN CHINA -
+Tesla,2025-1,18:14:02  [NOTENG] (TSLA.O) - The Tesla Model Y Juniper is already in Spain: the new electric SUV made in Germany. -
+Tesla,2025-1,"18:10:16  [WNCOMA] (TSLA.O) - Tesla launches new Model Y in US, Canada, Europe weeks after China -"
+Tesla,2025-1,"17:44:39  [STACHI] (TSLA.O) - Tesla launches new Model Y in US, Canada, Europe weeks after China -"
+Tesla,2025-1,"17:32:42  [ECOCOM] (TSLA.O) - Tesla launches new Model Y in US, Canada, Europe weeks after China -"
+Tesla,2025-1,"17:13:25  [PETCAN] (TSLA.O) - Tesla to hike prices by as much as $9,000 -"
+Tesla,2025-1,"17:13:04  [NIAFAL] (TSLA.O) - Tesla to hike prices by as much as $9,000 -"
+Tesla,2025-1,"17:13:02  [GUETRI] (TSLA.O) - Tesla prices rising in Canada, with biggest jump coming on cheapest model: Here's what you need to know -"
+Tesla,2025-1,"17:12:10  [NOTENG] (TSLA.O) - Young Tec graduate hired by Tesla in Austin, Texas -"
+Tesla,2025-1,"17:12:08  [NIATHI] (TSLA.O) - Tesla prices rising in Canada, with biggest jump coming on cheapest model: Here's what you need to know -"
+Tesla,2025-1,"17:11:56  [MISNEW] (TSLA.O) - Tesla prices rising in Canada, with biggest jump coming on cheapest model: Here's what you need to know -"
+Tesla,2025-1,"17:11:42  [TORSTA] (TSLA.O) - Tesla prices rising in Canada, with biggest jump coming on cheapest model: Here's what you need to know -"
+Tesla,2025-1,"17:10:43  [HAMSPE] (TSLA.O) - Tesla prices rising in Canada, with biggest jump coming on cheapest model: Here's what you need to know -"
+Tesla,2025-1,"17:10:33  [BURPOS] (TSLA.O) - Tesla prices rising in Canada, with biggest jump coming on cheapest model: Here's what you need to know -"
+Tesla,2025-1,"17:09:53  [BRAGUA] (TSLA.O) - Tesla prices rising in Canada, with biggest jump coming on cheapest model: Here's what you need to know -"
+Tesla,2025-1,"17:09:42  [FORCOO] (TSLA.O) - Updated Tesla Model Y 'Juniper' Goes On Sale In UK, Europe And US -"
+Tesla,2025-1,16:51:40  [FINDEH] (TSLA.O) - Tesla Stock: Price Hikes Hit Canadian Market Amid Trade Tensions -
+Tesla,2025-1,"16:38:40  [YAHSIN] (TSLA.O) - Tesla announces revamped Model Y version in US priced at $59,990 -"
+Tesla,2025-1,16:13:50  [NOTENG] (TSLA.O) - What was Europe's best-selling car in 2024 and why its future in Argentina is uncertain -
+Tesla,2025-1,"16:13:35  [TECHCR] (TSLA.O) - Tesla's redesigned Model Y is coming to North America in March for $60,000 -"
+Tesla,2025-1,"16:13:05  [NOTENG] (TSLA.O) - Trump claims Elon Musk's criticism of Stargate doesn't bother him; reveals Tesla CEO hates ""one of the people involved"" -"
+Tesla,2025-1,"16:06:45  [GERCOM] (TSLA.DE TSLA.O) - Tesla Motors (TL0: EUR398.40) loses EUR18 billion ($18 billion) (1.4%) in MCap, steepest heavyweight fall in Health care sector -"
+Tesla,2025-1,DOGE's first peek into federal spending reveals the absurd scope of bureaucratic bloat:
+Tesla,2025-1,"15:45:40  [LATNIG] (TSLA.O) - Tesla's redesigned Model Y is coming to North America in March for $60,000 -"
+Tesla,2025-1,"15:43:09  [WNCOMA] (TSLA.O) - Here's why Vivek Ramaswamy ditched DOGE, and it has got to do something with Elon Musk -"
+Tesla,2025-1,"15:42:28  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Thursday January 23, 2025 23:37 EST -"
+Tesla,2025-1,And the objective function of self-driving is saving lives and nothing else. -
+Tesla,2025-1,15:34:14  [WNCOMA] (TSLA.O) - Tesla to significantly raise prices of all cars in Canada -
+Tesla,2025-1,15:30:21  [CITAMA] (TSLA.O 7203.T) - Tesla's brand value plummets as consumers sour on Musk -
+Tesla,2025-1,"15:27:44  [WNCOMA] (TSLA.O) - Tesla launches new Model Y in US, Canada, Europe weeks after China -"
+Tesla,2025-1,15:12:00  [NOTENG] (TSLA.O) - VIDEO: Controversial Musk greeting screened at Tesla gigafactory in Germany; police investigate the incident -
+Tesla,2025-1,"14:53:37  [YAHNEX] (TSLA.O) - Dow Jones Futures: Trump Market Rally Continues; Tesla, These AI Stocks Test Key Levels -"
+Tesla,2025-1,"14:24:12  [WNCOMA] (TSLA.O) - Is there a hidden message for Tesla CEO Elon Musk? One by one, EV makers ... -"
+Tesla,2025-1,14:16:38  [MSNAUS] (TSLA.O) - Could Elon Musks politics draw Tesla owners to Polestar? -
+Tesla,2025-1,"14:13:35  [NOTENG] (TSLA.O) - ""Heil Tesla"": Elon Musk's controversial greeting screened at German car plant -"
+Tesla,2025-1,13:57:02  [GURCOM] (TSLA.O) - Tesla Unveils High-Priced Model Y with Enhanced Features -
+Tesla,2025-1,13:56:40  [YAHNEX] (TSLA.O) - The Trump-Musk Bromance Is as Strong as Ever Despite Tesla CEO's Stargate Diss -
+Tesla,2025-1,13:50:11  [DIGTRE] (TSLA.O) - Tesla reveals U.S. rollout date for its redesigned Model Y -
+Tesla,2025-1,"They believe ""Oral justice"" is somehow tied to abortions and letting kids get s** changes."
+Tesla,2025-1,13:36:11  [MSNSOU] (TSLA.O) - This Tesla Supercharger Extension Cord Could Be A Game-Changer -
+Tesla,2025-1,"13:30:10  [FINGEV] (ORCL.N TSLA.O) - Top Research Reports for Tesla, UnitedHealth & Oracle -"
+Tesla,2025-1,12:41:08  [INVAUA] (TSLA.O) - Could Elon Musk's politics draw Tesla owners to Polestar? -
+Tesla,2025-1,"12:40:17  [RTRS] (TSLA.O RIVN.O) - Rivian to launch hands-free driving system in 2025, 'eyes-off' in 2026, CEO says (UPDATE 1) -"
+Tesla,2025-1,12:39:38  [MACAUA] (TSLA.O) - Could Elon Musk's politics draw Tesla owners to Polestar? -
+Tesla,2025-1,"12:28:13  [SIGDEV] (TSLA.O) - Tesla Launches New Model Y Long Range All Wheel Drive In U.S., Priced At $59,990- Website Shows -"
+Tesla,2025-1,"12:26:10  [RTRS] (TSLA.O) - Tesla announces revamped Model Y version in US priced at $59,990 -"
+Tesla,2025-1,12:26:09  [WESAUT] (TSLA.O) - Could Elon Musk's politics draw Tesla owners to Polestar? -
+Tesla,2025-1,"12:19:02  [RTRS] (TSLA.O) - TESLA LAUNCHES NEW MODEL Y LONG RANGE ALL WHEEL DRIVE IN U.S., PRICED AT $59,990 (NOT $46,490) - WEBSITE SHOWS (CORRECTED) -"
+Tesla,2025-1,"12:18:01  [RTRS] (TSLA.O) - Tesla Launches New Model Y Long Range All Wheel Drive In U.S., Priced At $59,990- Website Shows (BRIEF) -"
+Tesla,2025-1,"12:13:33  [YAHNEX] (TSLA.O) - Dow Jones Futures: S&P 500 Hits New High; Tesla, These AI Stocks Test Key Levels -"
+Tesla,2025-1,"12:13:16  [RTRS] (TSLA.O) - TESLA LAUNCHES NEW MODEL Y LONG RANGE ALL WHEEL DRIVE IN U.S., PRICED AT $59,990- WEBISTE SHOWS -"
+Tesla,2025-1,11:49:10  [LITCOM] (TSLA.O) - Could Elon Musk's politics draw Tesla owners to Polestar? -
+Tesla,2025-1,"11:42:41  [YAHNEX] (TSLA.O) - Dow Jones Futures: Bullish Trend Holds; Tesla, These AI Stocks Test Key Levels -"
+Tesla,2025-1,"11:37:42  [CITYNE] (TSLA.O) - Tesla raising prices for its vehicles in Canada by up to $9,000 starting Feb. 1 -"
+Tesla,2025-1,"11:35:38  [ECOCOM] (TSLA.O) - Anthony Scaramucci, once Donald Trump's trusted lieutenant, says Marco Rubio and Elon Musk won't last for a year and mocks Vivek Ramaswamy for bein... -"
+Tesla,2025-1,"11:00:00  [BENZIN] (TSLA.O) - Tesla's Chinese Rivals Xpeng, Li Auto, Nio Rise In Premarket Trading After Trump's 'Friendly Conversation' With Xi Jinping: '...We Have One Very Bi... -"
+Tesla,2025-1,"11:00:00  [BENZIN] (TSLA.O) - Tesla's Chinese Rivals Xpeng, Li Auto, Nio Rise In Premarket Trading After Trump's 'Friendly Conversation' With Xi Jinping: '...We Have One Very Bi... -"
+Tesla,2025-1,"11:00:00  [BENZIN] (TSLA.O) - Tesla's Chinese Rivals Xpeng, Li Auto, Nio Rise In Premarket Trading After Trump's 'Friendly Conversation' With Xi Jinping: '...We Have One Very Bi... -"
+Tesla,2025-1,10:49:48  [RTRS] (TSLA.O ORCL.N) - Trump waves off criticism from Elon Musk on AI announcement -
+Tesla,2025-1,10:42:39  [SHAENG] (TSLA.O) - 'Heil Tesla': Elon Musk's salute projected onto carmaker's factory in Germany -
+Tesla,2025-1,10:07:15  [IPHCAN] (TSLA.O) - Tesla to Increase Prices in Canada on Feb. 1: Here are the Changes -
+Tesla,2025-1,09:38:41  [HAREXP] (TSLA.O) - Could Elon Musk's politics draw Tesla owners to Polestar? -
+Tesla,2025-1,09:26:10  [GLONEW] (TSLA.O) - 'Heil Tesla': Musk's straight-arm salute projected onto carmaker's gigafactory -
+Tesla,2025-1,09:15:11  [YAHNEX] (TSLA.O) - Tesla Just Raised Prices in a Key Market. What It Means for the Stock. -
+Tesla,2025-1,09:13:02  [NOTENG] (TSLA.O) - Controversial Musk greeting on Tesla's gigafactory in Germany investigated for screening -
+Tesla,2025-1,"09:12:41  [YAHNEX] (TSLA.O) - Dow Jones Futures: Market Ends Strong After Trump Demands; Tesla, These AI Stocks Test Key levels -"
+Tesla,2025-1,"09:07:43  [ECOCOM] (TSLA.O) - Here's why Vivek Ramaswamy ditched DOGE, and it has got to do something with Elon Musk -"
+Tesla,2025-1,Land can now be confiscated with no compensation if it is deemed to be for the public purpose or in the public interest.
+Tesla,2025-1,"08:53:44  [WNCOMA] (TSLA.O) - Elon Musk's 'Nazi salute' row: Israeli PM defends Tesla CEO, says he is being falsely smeared -"
+Tesla,2025-1,08:51:12  [YAHNEX] (TSLA.O) - Riding Tesla Stock's Expected Trump Bump? Consider These Factors First. -
+Tesla,2025-1,"08:38:58  [RTRS] (TSLA.O RIVN.O) - Rivian to launch hands-free driving system in 2025, CEO says -"
+Tesla,2025-1,"08:12:04  [ZACKSC] (TSLA.O ORCL.N) - Top Research Reports for Tesla, UnitedHealth & Oracle -"
+Tesla,2025-1,07:53:13  [SOUAUA] (TSLA.O) - Could Elon Musk's politics draw Tesla owners to Polestar? -
+Tesla,2025-1,07:52:17  [GLOSTO] (TSLA.O F.N) - Tesla continues to outperform Ford Motor by 1.5% year to date -
+Tesla,2025-1,"07:52:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $410.70) keeps sliding, down 3.7% in 3 days, ranks 16 in today's top 20 falls; -$4.41 [-1.1%] -"
+Tesla,2025-1,"07:52:07  [GLOMAI] (TSLA.O) - Tesla raising prices by up to $9,000 for its vehicles in Canada starting Feb. 1 -"
+Tesla,2025-1,"07:51:59  [GLOSTO] (TSLA.O) - Tesla (TSLA: $410.14) loses $16 billion (1.2%) in MCap, steepest heavyweight fall in NASDAQ-100 Index; -$4.97 [-1.2%] -"
+Tesla,2025-1,07:47:40  [YAHNEX] (NVDA.O TSLA.O) - Nvidia Falls As Tesla's Musk Casts Doubts On Stargate; Is Nvidia A Buy Or Sell Now? -
+Tesla,2025-1,07:39:44  [WNCOMA] (TSLA.O) - Protest group projects Musk gesture onto German Tesla factory -
+Tesla,2025-1,"07:32:40  [MOTFOL] (TSLA.O) - Featured Article Huge News for Tesla Stock, Rivian Stock, and Lucid Stock Investors Parkev Tatevosian, CFA | Jan 23, 2025 -"
+Tesla,2025-1,"07:26:41  [ECOCOM] (TSLA.O GOEV.O) - Is there a hidden message for Tesla CEO Elon Musk? One by one, EV makers in the US are going bankrupt, the latest being Canoo -"
+Tesla,2025-1,"07:22:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $411.0) drops $4.11, ranks 18 in today's top 20 falls; -$4.11 [-1.0%] -"
+Tesla,2025-1,"07:17:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $410.70) keeps sliding, down 3.7% in 3 days, ranks 16 in today's top 20 falls; -$4.41 [-1.1%] -"
+Tesla,2025-1,07:13:41  [CANTIO] (TSLA.O) - Could Elon Musk's politics draw Tesla owners to Polestar? -
+Tesla,2025-1,07:11:57  [NOTENG] (TSLA.O) - What is Elon Musk building in Texas? Tesla's impressive technology and sustainability structure. -
+Tesla,2025-1,07:11:53  [INDEPE] (TSLA.O) - UK group projects 'Heil Tesla' and Elon Musk's hand gesture onto German factory -
+Tesla,2025-1,07:07:39  [WRAPAA] (TSLA.O) - Netanyahu Defends Elon Musk Over Salute: 'Falsely Smeared' -
+Tesla,2025-1,06:52:26  [GLOSTO] (TSLA.O) - Tesla continues to underperform XPeng by 20.1% year to date -
+Tesla,2025-1,"06:47:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $411.0) drops $4.11, ranks 18 in today's top 20 falls; -$4.11 [-1.0%] -"
+Tesla,2025-1,"06:47:04  [GLOSTO] (TSLA.O) - Tesla (TSLA: $411.62) keeps sliding, down 3.5% in 3 days, ranks 19 in today's top 20 falls; -$3.49 [-0.8%] -"
+Tesla,2025-1,"06:22:23  [BENZIN] (TSLA.O) - Tesla Lost $15 Billion In Brand Value In 2024, Report Says: Did Elon Musk's Political Push Hurt EV Giant? -"
+Tesla,2025-1,"06:22:19  [GLOBEA] (.IXIC TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $415.11) Thursday January 23, 2025 07:01 EST -"
+Tesla,2025-1,"06:22:18  [GLOBEA] (TSLA.O .NDX) - Tesla (TSLA: $415.11) in bottom 5% performers of NASDAQ-100 Index Thursday January 23, 2025 07:01 EST -"
+Tesla,2025-1,06:22:12  [GLOBEA] (TSLA.O .NDX) - Bottom Performers Past Week: Tesla (TSLA: $415.11) in bottom 6% performers of NASDAQ-100 Index in past week -
+Tesla,2025-1,"06:22:09  [GLOBEA] (TSLA.O) - Confirmatory Bearish Trend: Tesla (TSLA: $412.81) keeps sliding, down 3.2% in 3 days Thursday January 23, 2025 11:30 EST -"
+Tesla,2025-1,"06:22:08  [GLOBEA] (TSLA.O) - Confirmatory Bearish Trend: Tesla (TSLA: $412.81) keeps sliding, down 3.2% in 3 days Thursday January 23, 2025 10:32 EST -"
+Tesla,2025-1,"06:13:23  [NOTENG] (TSLA.O) - Activists project the phrase ""Heil Tesla"" at an Elon Musk factory. -"
+Tesla,2025-1,"06:12:21  [NOTENG] (TSLA.O) - ""He's a great friend of Israel"": Netanyahu defends Elon Musk as activists project image with Nazi gesture at Tesla plant in Germany -"
+Tesla,2025-1,"06:11:51  [GLOSTO] (TSLA.O) - Tesla (TSLA: $411.62) keeps sliding, down 3.5% in 3 days, ranks 19 in today's top 20 falls; -$3.49 [-0.8%] -"
+Tesla,2025-1,"06:09:40  [CITYNE] (TSLA.O) - Tesla raising prices for its vehicles in Canada by up to $9,000 starting Feb. 1 -"
+Tesla,2025-1,05:51:44  [GLOSTO] (TSLA.O) - Tesla continues to outperform Ferrari by 1.0% year to date -
+Tesla,2025-1,05:49:45  [WNCOMA] (TSLA.O) - Elon Musk's Tesla Spotlights Need for Transparency in Operating Craft in Deep Space -
+Tesla,2025-1,"05:47:26  [NEXBIG] (TSLA.O) - Will Tesla AI, FSD and Teslabot Fully Emerge in 2025? -"
+Tesla,2025-1,05:41:10  [WNCOMA] (TSLA.O) - UK group projects 'Heil Tesla' and Elon Musk's hand gesture onto German factory -
+Tesla,2025-1,"05:32:32  [CTVCAN] (TSLA.O) - Tesla raising prices for its vehicles in Canada by up to $9,000 starting Feb. 1 -"
+Tesla,2025-1,05:24:12  [ECOCOM] (TSLA.O) - Elon Musk's transgender daughter Vivian Jenna Wilson issues fiery response to his Nazi-like salute; here's what she said -
+Tesla,2025-1,05:22:15  [SCHCOM] (TSLA.O) - Long-Term Bull Trader and EV Darling Sinks on Price Updates -
+Tesla,2025-1,05:17:42  [YAHNEX] (TSLA.O) - Tesla Q4 Earnings Preview: What's at Stake for Investors? -
+Tesla,2025-1,"05:15:41  [ROCMOU] (TSLA.O) - Tesla raising prices for its vehicles in Canada by up to $9,000 starting Feb. 1 -"
+Tesla,2025-1,05:13:27  [NOTENG] (TSLA.O) - Activists screened Elon Musk's controversial Nazi gesture at a Tesla factory -
+Tesla,2025-1,05:12:08  [NOTENG] (TSLA.O) - Tesla announces price hike for vehicles sold in Canada as of February 1st -
+Tesla,2025-1,"05:07:12  [YAHNEX] (NVDA.O TSLA.O) - Stock Market Today: Indexes Mixed As Trump Focuses On These Issues; Nvidia, Tesla Slip (Live Coverage) -"
+Tesla,2025-1,"05:03:40  [ROCVIE] (TSLA.O) - Tesla raising prices for its vehicles in Canada by up to $9,000 starting Feb. 1 -"
+Tesla,2025-1,"04:54:41  [LAKTOD] (TSLA.O) - Tesla raising prices for its vehicles in Canada by up to $9,000 starting Feb. 1 -"
+Tesla,2025-1,23:52:16  [QUANAV] (TSLA.O) - Tesla earnings are today. Investors have some questions -
+Tesla,2025-1,23:47:13  [GLOBEA] (TSLA.O .NDX) - Bottom Performers Monthly: Tesla (TSLA: $398.09) in bottom 4% performers of NASDAQ-100 Index in January 2025 -
+Tesla,2025-1,23:42:08  [GLOSTO] (TSLA.O) - ICYMI: Traders look to see if Tesla's recent rally will continue -
+Tesla,2025-1,"23:13:17  [NOTENG] (TSLA.O) - Asteroid"" discovered near Earth turns out to be Elon Musk's Tesla -"
+Tesla,2025-1,"23:11:55  [TBREAK] (TSLA.O) - Zig-Zag (yes, the rolling papers) just launched a turntable right before the Grammys to say: don't you forget about Dre -"
+Tesla,2025-1,"23:02:12  [WKRNEW] (TSLA.O) - AlphaMark Advisors LLC Has $417,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"22:57:36  [WATNEW] (TSLA.O) - Smith Chas P & Associates PA Cpas Sells 186 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"22:57:13  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Patton Albertson Miller Group LLC -"
+Tesla,2025-1,"22:57:09  [DAILYQ] (TSLA.O) - Tran Capital Management L.P. Has $1.29 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"22:56:56  [WATNEW] (TSLA.O) - Jacksonville Wealth Management LLC Buys Shares of 1,757 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,22:47:27  [GLOSTO] (TSLA.O) - Update: Traders look to see if Tesla's recent rally will continue -
+Tesla,2025-1,22:44:45  [YAHNEX] (TSLA.O) - Tesla's $600 Billion Run-Up Looks Past Major Risks to EV Growth -
+Tesla,2025-1,*NORWAY SOVEREIGN WEALTH FUND CEO: I DO NOT HAVE STRONG VIEWS ON THE SHARE PRICE OF NVIDIA $NVDA -
+Tesla,2025-1,22:33:26  [MOTFOO] (TSLA.O) - Will Tesla Achieve Its Ambitious Growth Targets in 2025? -
+Tesla,2025-1,22:32:42  [YAHNEX] (TSLA.O) - Will Tesla Achieve Its Ambitious Growth Targets in 2025? -
+Tesla,2025-1,Tickers of interest: $NDX $SPX $NVDA $MSFT $META $TSLA $ASML $DXY
+Tesla,2025-1,22:16:14  [BARCHA] (TSLA.O) - Will Tesla Achieve Its Ambitious Growth Targets in 2025? -
+Tesla,2025-1,Tickers of interest: $SPX $NDX $NVDA $AAPL $MSFT $GOOGL $AMZN $META $TSLA
+Tesla,2025-1,"22:12:10  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stake Boosted by Blue Square Asset Management LLC -"
+Tesla,2025-1,"22:09:12  [STOOBS] (TSLA.O) - Regency Capital Management Inc. DE Invests $870,000 in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"22:07:37  [MARDAJ] (TSLA.O) - Avaii Wealth Management LLC Purchases 31 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"22:07:23  [NEWPEO] (TSLA.O TSLA.OQ) - Elon Musk of Tesla in top 2% of Large MCap CEO Scorecard for past quarter (aka Musk Elon) Wednesday January 29, 2025 -"
+Tesla,2025-1,"22:06:57  [CERGEM] (TSLA.O) - Park Edge Advisors LLC Takes Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,21:47:30  [MOTFOO] (TSLA.O) - 5 Monster Stocks to Hold for the Next 10 Years -
+Tesla,2025-1,"Fed decision then Meta $META, Microsoft $MSFT, and Tesla $TSLA earnings after the close. -"
+Tesla,2025-1,"21:43:13  [WKRNEW] (TSLA.O) - Jamison Private Wealth Management Inc. Buys 986 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:37:35  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Blue Square Asset Management LLC -"
+Tesla,2025-1,"21:37:30  [WATNEW] (TSLA.O) - TTP Investments Inc. Sells 2,048 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:37:27  [DAILYQ] (TSLA.O) - First Citizens Bank & Trust Co. Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:06:39  [RTRS] (TSLA.O NVDA.O) - Stock market strength won't last forever, Norway wealth fund CEO says -"
+Tesla,2025-1,20:57:40  [LATNIG] (TSLA.O) - Tesla to report results for 1st time since Trump elected president -
+Tesla,2025-1,"20:57:24  [TRADAJ] (TSLA.O) - Regency Capital Management Inc. DE Takes Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:57:21  [DAILYQ] (TSLA.O) - Cora Capital Advisors LLC Increases Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:57:18  [TRADAJ] (TSLA.O) - Clarendon Private LLC Takes $357,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:50:46  [PRETRU] (TSLA.O) - Elon Musk's Grok AI Gives 2025 Price Outlook for Dogecoin, Solana, XRP, and Rexas Finance (RXS) -"
+Tesla,2025-1,20:38:17  [INTTIM] (TSLA.O) - Tesla To Report Results For 1st Time Since Trump Elected President -
+Tesla,2025-1,"20:27:11  [MARBEA] (TSLA.O) - MKT Advisors LLC Makes New Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,20:26:48  [BENZIN] (TSLA.O) - Elon Musk's Tesla Is Over 4X More Expensive Than Industry Average Despite Weak Delivery Volumes In 2024 -
+Tesla,2025-1,"20:24:40  [MARBEA] (TSLA.O) - Jamison Private Wealth Management Inc. Buys 986 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:24:13  [MARBEA] (TSLA.O) - Embree Financial Group Takes $344,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:24:10  [MARBEA] (TSLA.O) - Alan B Lancz & Associates Inc. Makes New $302,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:23:11  [MARBEA] (TSLA.O) - Park Edge Advisors LLC Takes Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:22:44  [MARBEA] (TSLA.O) - Clarendon Private LLC Takes $357,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:22:20  [WATNEW] (TSLA.O) - Embree Financial Group Takes $344,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:22:12  [MARBEA] (TSLA.O) - Echo Wealth Management LLC Sells 1,154 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:22:07  [TRADAJ] (TSLA.O) - MKT Advisors LLC Makes New Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:21:43  [MARBEA] (TSLA.O) - TTP Investments Inc. Sells 2,048 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:19:48  [MARBEA] (TSLA.O) - Regency Capital Management Inc. DE Takes Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:19:48  [MARBEA] (TSLA.O) - First Citizens Bank & Trust Co. Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,20:02:03  [NAICOM] (TSLA.O) - Tesla to report results for 1st time since Trump elected president -
+Tesla,2025-1,19:32:15  [AFRLEA] (TSLA.O BMWG.DE) - Tesla joins challenge against EU tariff on Chinese EVs -
+Tesla,2025-1,"19:31:49  [BENZIN] (TSLA.O) - Tesla, Starbucks And 3 Stocks To Watch Heading Into Wednesday -"
+Tesla,2025-1,19:12:08  [BENZIN] (TSLA.O) - Elon Musk Says 'Unsupervised Full Self-Driving Begins' As Tesla Can Now Drive Itself From Factory To Loading Docks -
+Tesla,2025-1,"19:11:43  [SHACHI] (TSLA.O BMWG.DE) - Tesla challenges EU tariffs on China-imported EVs Robert Besser 29 Jan 2025, 17:40 GMT+10 -"
+Tesla,2025-1,19:09:44  [WNCOMA] (TSLA.O) - Tesla challenges EU tariffs on China-imported EVs -
+Tesla,2025-1,18:55:12  [BEINET] (TSLA.O BMWG.DE) - Tesla challenges EU tariffs on China-imported EVs -
+Tesla,2025-1,18:51:16  [ALLNEX] (FDM.L .HSI) - LONDON BRIEFING: Dowlais accepts GBP1.2 billion cash and shares bid -
+Tesla,2025-1,18:50:39  [SRILAN] (TSLA.O) - Tesla Challenges EU Tariffs on Chinese-Made EVs in Court -
+Tesla,2025-1,18:44:46  [BIGNET] (TSLA.O BMWG.DE) - Tesla joins court challenges to EU tariffs on Chinese EVs -
+Tesla,2025-1,18:31:42  [FORNZN] (TSLA.O) - MIL-OSI China: Tesla suing EU over tariffs on China-made EVs -
+Tesla,2025-1,18:26:47  [PIVSOU] (TSLA.O) - DIRECTORATE OF PROCUREMENT (NAVY) invites tenders for Tender for 1.5 Tesla Mri Machine -
+Tesla,2025-1,17:48:56  [EURUNI] (TSLA.O) - Tesla launches court battle against EU tariffs on Chinese-made electric vehicles -
+Tesla,2025-1,"Daily migrant encounters dropped from Biden's average of 2,087 to just 148 under Trump's new border measures, according to official data."
+Tesla,2025-1,17:33:42  [CHIORG] (TSLA.O) - Tesla suing EU over tariffs on China-made EVs -
+Tesla,2025-1,17:26:50  [WATNEW] (TSLA.O) - FY2024 Earnings Forecast for Tesla Issued By Zacks Research -
+Tesla,2025-1,"First, it is impossible to criticize return to office for government workers. Tax payers want value for their hard-earned contributions."
+Tesla,2025-1,"Now, I will look at what the group mind has determined to be the best build. -"
+Tesla,2025-1,"17:13:30  [NOTENG] (TSLA.O) - Poland declares war on Tesla: ""There is no justification for buying their cars"". -"
+Tesla,2025-1,Donald Trump deported 1 million illegals in his first term. The media brands him a racist and a N***.
+Tesla,2025-1,Tickers of interest: $NVDA $META $MSFT $TSLA $AAPL $USD $EUR
+Tesla,2025-1,"16:32:13  [CLECON] (LCID.O TSLA.O) - Lucid Comes Back From The Brink, With Tesla Supercharger Promise Fulfilled -"
+Tesla,2025-1,"This is how one of my very closest friends (at the time) responded to my article debunking the ""s** spectrum"" in 2020, including my responses."
+Tesla,2025-1,16:13:35  [NOTENG] (NVDA.O TSLA.O) - Why Tesla could drop 50% and nothing would happen -
+Tesla,2025-1,"Apple just opened iPhone doors to Starlink's satellite network, giving users an alternative to their Globalstar service for off-grid communication."
+Tesla,2025-1,"15:26:37  [WNCOMA] (TSLA.O) - Tesla investors want Elon Musk to answer questions about 'salute,' role in Trump White House -"
+Tesla,2025-1,"15:17:06  [GERCOM] (TSLA.DE TSLA.O) - Tesla Motors (TL0: EUR375.10) loses EUR33 billion ($35 billion) (2.7%) in MCap, steepest heavyweight fall in Health care sector -"
+Tesla,2025-1,"14:33:09  [WNCOMA] (TSLA.O) - Asteroid? Nope, It's Elon Musk's Tesla Roadster Cruising Through Space -"
+Tesla,2025-1,"14:27:20  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Tuesday January 28, 2025 22:20 EST -"
+Tesla,2025-1,14:16:12  [PJMEDI] (TSLA.O) - CCP Brags as Musk's Tesla Fights Tariffs on Chinese-Made Cars -
+Tesla,2025-1,14:14:41  [WNCOMA] (TSLA.O) - Tesla suing EU over tariffs on China-made EVs -
+Tesla,2025-1,"14:07:11  [FORCOO] (TSLA.O) - Asteroid? Nope, It's Elon Musk's Tesla Roadster Cruising Through Space -"
+Tesla,2025-1,13:58:55  [AUTCAR] (TSLA.O) - Lucid Gravity Supercharged with 450 mi range & 400kW Fast Charging & Access to Tesla Superchargers -
+Tesla,2025-1,13:52:42  [FINDEH] (TSLA.O) - Tesla Stock: Norwegian Fund Clashes with Musk Over Pay -
+Tesla,2025-1,"13:36:56  [BENZIN] (TSLA.O) - Cathie Wood Dumps Tesla Stock Ahead Of Q4 Earnings, Ark Invest Loads Up On Amazon -"
+Tesla,2025-1,13:27:00  [MEDIAI] (TSLA.O) - 'Musk Is Pulling Trump Down': CNN's Harry Enten Analyzes Tesla CEO's Crashing Poll Numbers -
+Tesla,2025-1,13:11:28  [NOTENG] (TSLA.O BMWG.DE) - Tesla and BMW sue EU and join China's automakers over electric vehicle tariffs -
+Tesla,2025-1,"12:58:12  [INSMON] (TSLA.O) - Tesla, Inc. (TSLA): Piper Sandler Maintains $500 Price Target, Sees DeepSeek AI Model as No Threat to Tesla's Advantage -"
+Tesla,2025-1,"12:55:37  [FINGEV] (TSLA.O) - Lucid Gravity EV to Support Tesla Superchargers, No Adapter Necessary -"
+Tesla,2025-1,12:53:43  [ECNCNC] (TSLA.O) - Tesla suing EU over tariffs on China-made EVs -
+Tesla,2025-1,"12:46:38  [EDICNN] (TSLA.O) - Sen. Warren on where she would work with Trump, Musk -"
+Tesla,2025-1,"12:43:09  [WNCOMA] (TSLA.O) - How Trump tariffs could upend car markets in Europe, the US and China -"
+Tesla,2025-1,"12:39:36  [YAHNEX] (TSLA.O) - Morgan Freeman Revealed In 2016 That He Owns Tesla Stock: Since Then, Elon Musk-Led EV Giant's Shares Have Surged 30X -"
+Tesla,2025-1,"12:32:37  [YAHNEX] (TSLA.O) - Big Tech earnings, Tesla, Fed rate decision: What to Watch -"
+Tesla,2025-1,"12:23:08  [CNETAA] (TSLA.O) - Lucid Gravity EV to Support Tesla Superchargers, No Adapter Necessary -"
+Tesla,2025-1,11:19:43  [EDICNN] (TSLA.O) - Denver mayor on congressional probe of sanctuary cities -
+Tesla,2025-1,11:00:08  [CNBC] (TSLA.O) - A hedge on Tesla in case earnings this week show Musk is more focused on DC than EV maker -
+Tesla,2025-1,11:00:00  [BENZIN] (TSLA.O) - Tesla shares are trading lower amid overall market weakness following the Fed's decision to keep rates unchanged. The company is expected to report... -
+Tesla,2025-1,"11:00:00  [PLUPAT] (TSLA.O) - Head Line: Tesla, Inc. (Texas) granted US Patent for ""Integrated Components For Vehicles"" -"
+Tesla,2025-1,11:00:00  [BENZIN] (TSLA.O) - Tesla shares are trading lower amid overall market weakness following the Fed's decision to keep rates unchanged. The company is expected to report... -
+Tesla,2025-1,10:51:06  [YAHNEX] (TSLA.O) - Tesla Snaps Its Losing Streak. How BYD Might Be Musk's DeepSeek. -
+Tesla,2025-1,10:16:11  [MSNUKA] (TSLA.O BMWG.DE) - Tesla and BMW sue EU as discontent over Chinese EV tariffs mounts -
+Tesla,2025-1,"Tesla $TSLA, Microsoft $MSFT, $META, Waste Management $WM, & $IBM report after market close -"
+Tesla,2025-1,10:09:07  [MSNUKA] (TSLA.O) - Strange new asteroid turns out to be Tesla Roadster -
+Tesla,2025-1,10:07:22  [GLOSTO] (TSLA.O) - Two-bagger Tesla (TSLA: $398.10) increases on weak volume; +95c [0.2%] -
+Tesla,2025-1,I give you White House Deputy Chief of Staff Stephen Miller vs. Jake Tapper on CNN.
+Tesla,2025-1,Tapper said we need illegals here to pick our crops.
+Tesla,2025-1,09:36:14  [MARBEA] (TSLA.O) - Tesla (NASDAQ:TSLA) Stock Price Down 1.8% - What's Next? -
+Tesla,2025-1,Terrible that the Biden administration left them there so long. -
+Tesla,2025-1,09:15:15  [WNCOMA] (TSLA.O) - Wall Street is growing more bullish on Tesla's AI push ahead of earnings -
+Tesla,2025-1,"09:13:20  [NOTENG] (TSLA.O) - It wasn't an asteroid, it was a Tesla: Elon Musk's car confounds astronomers -"
+Tesla,2025-1,09:12:32  [NOTENG] (TSLA.O) - Elon Musk clashes with Norwegian wealth fund CEO: 'Friends are like friends' -
+Tesla,2025-1,"09:11:52  [BENZIN] (TSLA.O) - Tesla Q4 Earnings Preview: 2025 Delivery Growth, FSD, Model Y Refresh, New Vehicles Among Key Topics -"
+Tesla,2025-1,09:01:52  [GLOSTO] (TSLA.O) - Past Week: Tesla (TSLA: $398.10) declines 6% on weak volume; -$25.97 [-6.1%] -
+Tesla,2025-1,Tickers of interest: $NVDA $META $TSLA $MSFT $AAPL $SPX $NDX $USD
+Tesla,2025-1,08:48:05  [GLOSTO] (TSLA.O) - Two-bagger Tesla (TSLA: $398.10) increases on weak volume; +95c [0.2%] -
+Tesla,2025-1,08:31:43  [RTRS] (WMT.N TSLA.O) - Trump paralyzes US labor board by firing Democratic member (UPDATE 3) -
+Tesla,2025-1,08:26:40  [YAHNEX] (TSLA.O) - Tesla's Shanghai Unit Takes EU to Court Over EV Import Duties -
+Tesla,2025-1,08:25:37  [OILCOM] (TSLA.O) - Tesla's Shanghai Unit Takes EU to Court Over EV Import Duties -
+Tesla,2025-1,08:16:38  [RTRS] (USD= TSLA.O) - Tech bounces to lead rebound from DeepSeek selloff (LIVE MARKETS) -
+Tesla,2025-1,08:09:42  [LATNIG] (TSLA.O) - PureCrypter Deploys Agent Tesla and New TorNet Backdoor in Ongoing Cyberattacks -
+Tesla,2025-1,07:52:36  [NEWUSN] (TSLA.O 7201.T) - Tesla continues to underperform Nissan Motor by 1.7% in the past month -
+Tesla,2025-1,07:52:34  [NEWUSN] (GOOG.O TSLA.O) - Alphabet Class C continues to outperform Tesla by 6.6% in the past month -
+Tesla,2025-1,07:52:32  [NEWUSN] (TSLA.O 7267.T) - Tesla continues to underperform Honda Motor by 24.8% in the past month -
+Tesla,2025-1,"07:23:05  [DATMTR] (TSLA.O BMWG.DE) - BMW, Tesla file lawsuits against EU import tariffs -"
+Tesla,2025-1,07:17:08  [BUSINT] (TSLA.O) - Wall Street is growing more bullish on Tesla's AI push ahead of earnings -
+Tesla,2025-1,06:54:38  [WNCOMA] (TSLA.O) - Tesla's Shanghai Unit Takes EU to Court Over EV Import Duties -
+Tesla,2025-1,06:52:46  [NEWUSN] (TSLA.O TAMO.NS) - Tesla continues to underperform Tata Motors by 6.5% in the past month -
+Tesla,2025-1,06:52:45  [NEWUSN] (TSLA.O 7203.T) - Tesla continues to underperform Toyota by 10.8% in the past month -
+Tesla,2025-1,Lowering the deficit by $1T requires saving ~$3B/day average. Saving $1.8T (current deficit) requires ~$5B/day.
+Tesla,2025-1,"Current rate of improvement is ~$1B/day, but will improve rapidly. -"
+Tesla,2025-1,"06:30:22  [RTRS] (WDC.O VFC.N) - What to Watch in the Day Ahead - Wednesday, January 29 -"
+Tesla,2025-1,"06:22:45  [GLOBEA] (.GDAXI TSLA.O) - Confirmatory Bearish Trend: Tesla (TSLA: $390.97) in 6th consecutive fall Tuesday January 28, 2025 11:30 EST -"
+Tesla,2025-1,"06:22:44  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $397.15) keeps sliding, down 6.9% in 5 days Tuesday January 28, 2025 07:01 EST -"
+Tesla,2025-1,"06:22:42  [GLOBEA] (.GDAXI TSLA.O) - Confirmatory Bearish Trend: Tesla (TSLA: $390.97) in 6th consecutive fall Tuesday January 28, 2025 10:32 EST -"
+Tesla,2025-1,06:22:41  [GLOBEA] (TSLA.O .NDX) - Weekly Falls Past Week: Tesla (TSLA: $397.15) declines 7% on weak volume -
+Tesla,2025-1,"06:22:37  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $397.15) Tuesday January 28, 2025 07:01 EST -"
+Tesla,2025-1,"06:22:32  [GLOBEA] (TSLA.O .NDX) - Falls in the heavyweights Monthly: Tesla (TSLA: $397.15) loses $111 billion in MCap in past month, biggest drop in Auto sector -"
+Tesla,2025-1,05:59:07  [FORONL] (TSLA.O) - How Elon Musk built an AI moat around Tesla impervious to DeepSeek's 'Sputnik moment' -
+Tesla,2025-1,In Depth Earnings Previews w/ Option Strategies for the Week Ahead in
+Tesla,2025-1,05:47:58  [RTRS] (TSLA.O BA.N) - US Senate votes to confirm Trump nominee to head Transportation Department (UPDATE 1) -
+Tesla,2025-1,"05:34:40  [INSMON] (TSLA.O) - Is Tesla, Inc. (TSLA) the Unstoppable Growth Stock to Buy According to Reddit? -"
+Tesla,2025-1,"05:33:34  [AMEBAN] (TSLA.O) - Accel Wealth Management Purchases 159 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,05:22:14  [QUANAV] (TSLA.O) - Tesla's fourth-quarter earnings have investors asking familiar questions -
+Tesla,2025-1,05:11:37  [MSNSOU] (TSLA.O BMWG.DE) - Tesla and BMW sue EU as discontent over Chinese EV tariffs mounts -
+Tesla,2025-1,05:10:08  [ECOCOM] (TSLA.O) - Mark Cuban on the world's richest man: 'I will throw Elon Musk under the bus when the time comes' -
+Tesla,2025-1,04:55:17  [MSNAUS] (TSLA.O) - Strange new asteroid turns out to be Tesla Roadster -
+Tesla,2025-1,04:53:25  [RTRS] (TSLA.O BA.N) - US Senate votes to confirm Trump nominee to head Transportation Department -
+Tesla,2025-1,04:53:17  [NEWUSN] (TSLA.O) - What Do Tesla's Layoffs Reveal About the State of Corporate America? -
+Tesla,2025-1,04:42:57  [RTRS] (TSLA.O BA.N) - U.S. SENATE VOTES 77-22 TO CONFIRM FORMER LAWMAKER SEAN DUFFY TO HEAD TRANSPORTATION DEPARTMENT -
+Tesla,2025-1,"04:32:31  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR375.10) accelerates decline, down 4.6% in 2 days; -EUR17.90 [4.6%] Vol Index 4.7 [1 is avg] -"
+Tesla,2025-1,"04:22:44  [GLOBEA] (.GDAXI TSLA.O) - Confirmatory Bearish Trend: Tesla (TSLA: $390.97) in 6th consecutive fall Tuesday January 28, 2025 11:30 EST -"
+Tesla,2025-1,"04:22:42  [GLOBEA] (.GDAXI TSLA.O) - Confirmatory Bearish Trend: Tesla (TSLA: $390.97) in 6th consecutive fall Tuesday January 28, 2025 10:32 EST -"
+Tesla,2025-1,"04:22:38  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $397.15) keeps sliding, down 6.9% in 5 days Tuesday January 28, 2025 07:01 EST -"
+Tesla,2025-1,"04:22:38  [YAHNEX] (TSLA.O) - Tesla Q4 preview: Earnings, guidance need to provide new stock catalyst after Trump-fueled run-up -"
+Tesla,2025-1,"04:22:37  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $397.15) Tuesday January 28, 2025 07:01 EST -"
+Tesla,2025-1,"04:22:32  [GLOBEA] (TSLA.O .NDX) - Falls in the heavyweights Monthly: Tesla (TSLA: $397.15) loses $111 billion in MCap in past month, biggest drop in Auto sector -"
+Tesla,2025-1,04:22:31  [GLOBEA] (TSLA.O .NDX) - Weekly Falls Past Week: Tesla (TSLA: $397.15) declines 7% on weak volume -
+Tesla,2025-1,"04:22:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $390.46) in 6th consecutive fall, ranks 12 in today's top 20 falls; -$6.69 [-1.7%] -"
+Tesla,2025-1,"04:22:07  [GLOSTO] (TSLA.O) - Tesla (TSLA: $390.46) falls 1.7%, ranks 12 in today's top 20 falls; -$6.69 [-1.7%] -"
+Tesla,2025-1,"04:12:32  [GLOBEA] (.GDAXI TSLA.O) - Confirmatory Bearish Trend: Tesla (TSLA: $390.97) in 6th consecutive fall Tuesday January 28, 2025 11:30 EST -"
+Tesla,2025-1,04:10:18  [RTRS] (TSLA.O BA.N) - Boeing stock rallies on plane progress despite $11.8-billion annual loss (UPDATE 6) -
+Tesla,2025-1,03:58:11  [FINSWI] (TSLA.O) - Musk clashed with Tangen over Norway oil fund's vote against Tesla pay -
+Tesla,2025-1,03:53:30  [NEWUSN] (TSLA.O) - Tesla- 4 Reasons Traders Remain Bearish (and 2 Reasons Why Bullish) -
+Tesla,2025-1,"03:47:20  [GLOSTO] (TSLA.O) - Tesla (TSLA: $390.46) in 6th consecutive fall, ranks 12 in today's top 20 falls; -$6.69 [-1.7%] -"
+Tesla,2025-1,"03:47:16  [GLOSTO] (TSLA.O) - Tesla (TSLA: $390.46) falls 1.7%, ranks 12 in today's top 20 falls; -$6.69 [-1.7%] -"
+Tesla,2025-1,03:33:10  [LATNIG] (TSLA.O) - Lucid Gravity SUV owners will gain access to Tesla Superchargers on Jan 31 -
+Tesla,2025-1,"03:17:16  [GLOSTO] (TSLA.O) - Tesla (TSLA: $390.97) keeps sliding, down 8.3% in 6 days, ranks 15 in today's top 20 falls; -$6.18 [-1.6%] -"
+Tesla,2025-1,"03:17:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $390.97) in 6th consecutive fall, ranks 15 in today's top 20 falls; -$6.18 [-1.6%] -"
+Tesla,2025-1,"03:12:45  [GLOBEA] (.GDAXI TSLA.O) - Confirmatory Bearish Trend: Tesla (TSLA: $390.97) in 6th consecutive fall Tuesday January 28, 2025 10:32 EST -"
+Tesla,2025-1,"03:12:20  [NOTENG] (TSLA.O) - Astronomers announced the discovery of an asteroid close to Earth, but it was a Tesla car that Elon Musk launched into space -"
+Tesla,2025-1,03:11:26  [NOTENG] (TSLA.O) - Unusual! SpaceX's Tesla caused alarm among scientists by being mistaken for an asteroid -
+Tesla,2025-1,03:11:07  [DECHER] (TSLA.O) - 'Friends are as friends do': Elon Musk clashes with Norway wealth fund CEO -
+Tesla,2025-1,03:05:08  [GRECAS] (TSLA.O) - Lucid Gravity gains access to Tesla Supercharger network with NACS charging port -
+Tesla,2025-1,"02:42:07  [GLOSTO] (TSLA.O) - Tesla (TSLA: $390.97) keeps sliding, down 8.3% in 6 days, ranks 15 in today's top 20 falls; -$6.18 [-1.6%] -"
+Tesla,2025-1,"02:42:04  [GLOSTO] (TSLA.O) - Tesla (TSLA: $390.97) in 6th consecutive fall, ranks 15 in today's top 20 falls; -$6.18 [-1.6%] -"
+Tesla,2025-1,02:39:11  [MSNAUS] (TSLA.O BMWG.DE) - Tesla and BMW sue EU as discontent over Chinese EV tariffs mounts -
+Tesla,2025-1,02:35:08  [TECHCR] (TSLA.O) - Lucid Gravity SUV owners will gain access to Tesla Superchargers on Jan 31 -
+Tesla,2025-1,02:30:07  [GLOREV] (TSLA.O) - Elon Musk clashes with Norway wealth fund CEO; 'friends are as friends do' -
+Tesla,2025-1,02:21:16  [YAHNEX] (TSLA.O) - Tesla Earnings: What To Look For From TSLA -
+Tesla,2025-1,02:13:40  [NOTENG] (TSLA.O) - Elon Musk's Tesla Roadster: an intergalactic ride that unleashes mayhem on Earth -
+Tesla,2025-1,"02:12:59  [PLUCOM] (TSLA.O GM.N) - Growth Trends in the Plug-in Hybrid Electric Vehicle (PHEV) Industry 2025-2033, Featuring Strategic and Financial Profiles of Tesla, BMW, BYD, Merc... -"
+Tesla,2025-1,"02:09:15  [GRECAR] (TSLA.O) - 2025 Lucid Gravity has Tesla NACS port, gets Supercharger access Jan. 31 -"
+Tesla,2025-1,02:06:53  [BENZIN] (TSLA.O) - Recent Filing Shows That Rep. Marjorie Taylor Greene Bought Over $4K Worth of Tesla Stock -
+Tesla,2025-1,02:03:07  [CHIUSE] (TSLA.O) - Tesla suing EU over tariffs on China-made EVs -
+Tesla,2025-1,01:57:12  [LATNIG] (TSLA.O) - Lucid's Gravity SUV gets native Tesla Supercharger access on January 31 -
+Tesla,2025-1,"01:51:12  [MSNSOU] (TSLA.O) - The Lucid Gravity Is A 400 kW Charging Monster, With Superchargers Coming Soon -"
+Tesla,2025-1,01:31:55  [FINEXP] (TSLA.O) - Why is Tesla Model 3 cheapest car to own in the USA? -
+Tesla,2025-1,"01:21:47  [BENZIN] (LCID.O TSLA.O) - Lucid Group Announces Details About The Lucid Gravity Powertrain And Charging Technology , Including A NACS Charging Port For Easy And Fast Chargin... -"
+Tesla,2025-1,01:16:13  [YAHSIN] (TSLA.O) - Lucid Gravity SUV owners will gain access to Tesla Superchargers on Jan 31 -
+Tesla,2025-1,01:05:40  [ENGADG] (TSLA.O) - Lucid's Gravity SUV gets native Tesla Supercharger access on January 31 -
+Tesla,2025-1,00:58:14  [CHIUSE] (TSLA.O) - Tesla suing EU over tariffs on China-made EVs -
+Tesla,2025-1,"00:55:32  [RTRS] (VST.N TSLA.O) - S&P, Nasdaq eye higher open as AI stocks recover, earnings roll in (US STOCKS) -"
+Tesla,2025-1,"00:36:11  [SHICNA] (TSLA.O BMWG.DE) - Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,00:34:01  [RTRS] (TSLA.O) - Elon Musk clashes with Norway wealth fund CEO; 'friends are as friends do' -
+Tesla,2025-1,--interested to see if buyers step up higher than ystdy Open
+Tesla,2025-1,00:20:40  [AUTCOP] (TSLA.O) - Poland Calls For Tesla Boycott Over Musk's Call To Move Past Old Guilt And Focus On The Future -
+Tesla,2025-1,00:02:13  [LOCNEW] (TSLA.O) - Tesla just had its worst sales year ever. But the stock has had a great run -
+Tesla,2025-1,"23:52:11  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $397.15) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Tuesday January 28, 2025 07:01 EST -"
+Tesla,2025-1,"23:47:17  [GLOBEA] (TSLA.O .NDX) - Falls in the heavyweights Monthly: Tesla (TSLA: $397.15) loses $111 billion in MCap in past month, biggest drop in Auto sector -"
+Tesla,2025-1,"23:47:16  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $397.15) keeps sliding, down 6.9% in 5 days Tuesday January 28, 2025 07:01 EST -"
+Tesla,2025-1,"23:47:15  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $397.15) Tuesday January 28, 2025 07:01 EST -"
+Tesla,2025-1,23:46:44  [GLOBEA] (TSLA.O .NDX) - Weekly Falls Past Week: Tesla (TSLA: $397.15) declines 7% on weak volume -
+Tesla,2025-1,23:44:40  [YAHNEX] (TSLA.O) - Tesla just had its worst sales year ever. But the stock has had a great run -
+Tesla,2025-1,"23:38:12  [WKRNEW] (TSLA.O) - Grange Capital LLC Takes $628,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"23:37:12  [RTRS] (TSLA.O NVDA.O) - Short seller Andrew Left seeks to dismiss US fraud case, filing shows -"
+Tesla,2025-1,23:36:16  [MINDUS] (TSLA.O) - Sweden: Swedish companies continue Tesla purchases amid ongoing labor conflict -
+Tesla,2025-1,"23:32:35  [COMFIN] (TSLA.O) - Arkfeld Wealth Strategies L.L.C. Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,23:00:39  [WRACOM] (TSLA.O) - Tesla just had its worst sales year ever. But the stock has had a great run -
+Tesla,2025-1,"22:47:15  [INSMON] (TSLA.O) - Tesla, Inc. (TSLA): Shaping the Future with AI-Powered Autonomous Vehicles -"
+Tesla,2025-1,22:46:59  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Straight Path Wealth Management continued to increase its shareholding -
+Tesla,2025-1,"22:46:48  [BENZIN] (TSLA.O) - Honda's Sub-$30,000 EV To Take On Tesla Model 3 In North America By 2026 -"
+Tesla,2025-1,"22:41:58  [NEWWIR] (TSLA.O) - Tesla Fourth Quarter 13F Filing: State of Alaska, Department of Revenue trims its shareholding by 1.1% -"
+Tesla,2025-1,22:41:57  [NEWWIR] (TSLA.O) - Tesla Fourth Quarter 13F Filing: IMC-Chicago slashes 77.8% of its shareholding -
+Tesla,2025-1,22:41:56  [NEWWIR] (TSLA.O) - Tesla Fourth Quarter 13F Filing: Mirae Asset Global Investments. cuts 5.6% of its shares -
+Tesla,2025-1,"22:41:55  [NEWWIR] (TSLA.O CDAF.PA) - Tesla First Quarter 13F Filing: Compagnie Lombard, Odier SCA reduces its shares by 12.2% -"
+Tesla,2025-1,22:41:54  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Commerce Bank augments its shareholding by 1.9% -
+Tesla,2025-1,22:41:53  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: SpiderRock Advisors accumulates another 31.9% -
+Tesla,2025-1,22:41:52  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Oshaughnessy Asset Management increases its holding in Tesla -
+Tesla,2025-1,22:41:51  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Brookstone Capital Management boosts its shareholding by 20.4% -
+Tesla,2025-1,"22:39:46  [ENCNEW] (TSLA.O) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,22:38:43  [EDICNN] (TSLA.O) - Tesla just had its worst sales year ever. But the stock has had a great run -
+Tesla,2025-1,"22:37:14  [YAHNEX] (TSLA.O) - Tesla to report Q4 earnings amid concerns over sales decline, robotaxi rollout, Elon Musk's time -"
+Tesla,2025-1,"22:37:12  [WATNEW] (3772.T TSLA.O) - Geneos Wealth Management Inc. Cuts Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,22:37:02  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Whittier Trust Co decreases its shareholding by 28.5% -
+Tesla,2025-1,22:37:01  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Tower Research Capital (TRC) accumulates another 166.1% -
+Tesla,2025-1,22:37:00  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: TCG Advisory Services trims its shareholding by 2.1% -
+Tesla,2025-1,22:36:59  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Crossmark Global Holdings cuts 7.2% of its shares -
+Tesla,2025-1,"22:32:19  [YAHNEX] (TSLA.O) - Tesla Stock Has DeepSeek Risk, Depending on How You Look at It. -"
+Tesla,2025-1,"22:24:43  [AUTCOO] (TSLA.O) - Tesla to report Q4 earnings amid concerns over sales decline, robotaxi rollout, Elon Musk's time -"
+Tesla,2025-1,"22:15:04  [RTRS] (VST.N USD=) - MORNING BID AMERICAS-Deep breath after AI jolt, Trump tariffs rumble -"
+Tesla,2025-1,22:12:24  [NOTENG] (TSLA.O) - New Musk clash with EU: Tesla takes Chinese electric car tariffs to court -
+Tesla,2025-1,"22:11:56  [BENZIN] (TSLA.O) - Tesla Earnings: Delivery Outlook, Model Y Ramp-Up, Optimus Bot In Focus, Say Analysts -"
+Tesla,2025-1,"22:02:46  [WATNEW] (TSLA.O) - CFS Investment Advisory Services LLC Has $2.14 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:27:11  [TICREP] (TSLA.O) - Accel Wealth Management Acquires 159 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:22:12  [AMEBAN] (TSLA.O) - McGuire Investment Group LLC Makes New $642,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:20:49  [AMEBAN] (TSLA.O) - PCG Wealth Advisors LLC Decreases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:20:44  [AMEBAN] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Eclectic Associates Inc. ADV -"
+Tesla,2025-1,"21:19:57  [AMEBAN] (TSLA.O) - Firethorn Wealth Partners LLC Purchases Shares of 904 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:19:47  [AMEBAN] (TSLA.O) - AM Investment Strategies LLC Has $10.43 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:18:26  [AMEBAN] (TSLA.O) - Carr Financial Group Corp Has $1.18 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"21:16:48  [BENZIN] (TSLA.O) - Trump's Proposed Corporate Tax Cuts Could Boost Tesla's FY25 EPS by 4%, Says Analyst -"
+Tesla,2025-1,"20:57:08  [ETFDAI] (TSLA.O) - 904 Shares in Tesla, Inc. (NASDAQ:TSLA) Bought by Firethorn Wealth Partners LLC -"
+Tesla,2025-1,"20:56:12  [ETFDAI] (TSLA.O) - Petredis Investment Advisors LLC Sells 914 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:54:10  [ETFDAI] (TSLA.O FITB.O) - Fifth Third Bancorp Boosts Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:52:35  [TICREP] (TSLA.O) - Cornerstone Wealth Advisors Inc. Sells 47 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:52:32  [TICREP] (TSLA.O FITB.O) - Fifth Third Bancorp Increases Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:52:19  [TICREP] (TSLA.O) - McGuire Investment Group LLC Buys Shares of 1,590 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:52:17  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by DGS Capital Management LLC -"
+Tesla,2025-1,"20:52:11  [TICREP] (TSLA.O) - Carr Financial Group Corp Has $1.18 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:52:10  [TICREP] (TSLA.O) - Petredis Investment Advisors LLC Has $14.19 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,20:51:50  [BENZIN] (TSLA.O) - Unsupervised FSD To Optimus Robot: Top Questions Investors Want Answers To From Elon Musk-Led Tesla Ahead Of Q4 Earnings -
+Tesla,2025-1,"20:51:42  [ETFDAI] (TSLA.O) - Eclectic Associates Inc. ADV Purchases 344 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:51:16  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by PCG Wealth Advisors LLC -"
+Tesla,2025-1,"20:51:15  [ETFDAI] (TSLA.O) - Atlas Private Wealth Advisors Cuts Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,20:46:51  [BENZIN] (TSLA.O) - Remember The Elon Musk-Inspired Kekius Maximus Token? The Memecoin Has Crashed 92% From Its Peak As Tesla CEO Abandoned His Short-Lived X Avatar -
+Tesla,2025-1,20:45:33  [ZERHED] (TSLA.O) - Tesla Hits Brussels With Lawsuit Over Tariffs On Made-In-China EVs -
+Tesla,2025-1,"20:41:51  [SEECOM] (TSLA.O BMWG.DE) - Tesla, BMW challenge EU tariffs on China-made EVs -"
+Tesla,2025-1,20:41:15  [AUTCOO] (TSLA.O) - Tesla faces call for boycott in Poland after Musk's Germany remarks -
+Tesla,2025-1,"20:25:11  [MARBEA] (TSLA.O) - AEGON ASSET MANAGEMENT UK Plc Has $88.90 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,20:22:28  [INVEZZ] (TSLA.O) - Is the TSLY ETF a better buy than TSLA stock ahead of earnings? -
+Tesla,2025-1,"20:21:16  [MARBEA] (TSLA.O) - Cyndeo Wealth Partners LLC Has $9.12 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:20:45  [MARBEA] (TSLA.O) - Tributary Capital Management LLC Takes $353,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:17:15  [TICREP] (TSLA.O) - Goelzer Investment Management Inc. Purchases 104 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"20:16:51  [BENZIN] (TSLA.O) - Tesla's New Model Y Gets Over 70,000 Orders In 5 Days Of Launch In China Despite Costing 5% More Than Its Predecessor: Report -"
+Tesla,2025-1,20:14:19  [BARCHA] (AVGO.O TSLA.O) - Prediction: 2 AI Stocks Will Be Worth More Than Tesla Stock by Year-End 2025 -
+Tesla,2025-1,20:07:33  [MOTFOO] (AVGO.O TSLA.O) - Prediction: 2 AI Stocks Will Be Worth More Than Tesla Stock by Year-End 2025 -
+Tesla,2025-1,19:38:12  [IRITIM] (TSLA.O) - How far can Musk push Tesla's rising share price? -
+Tesla,2025-1,"19:16:47  [BEIBUL] (TSLA.O BMWG.DE) - Xinhua News | Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,"19:02:13  [BIGNET] (TSLA.O BMWG.DE) - Xinhua News | Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,18:52:44  [WNCOMA] (TSLA.O) - Tesla Model 3 'least expensive common car' in US: Study -
+Tesla,2025-1,18:39:10  [HINDUT] (TSLA.O) - Tesla Model 3 'least expensive common car' in US: Study -
+Tesla,2025-1,18:32:53  [WNCOMA] (TSLA.O) - Newly discovered 'asteroid' near Earth turns out to be Elon Musk's tesla car -
+Tesla,2025-1,18:11:53  [NOTENG] (TSLA.O) - Alleged near-Earth asteroid turned out to be a Tesla car; here's the story -
+Tesla,2025-1,17:22:12  [TICREP] (TSLA.O) - FY2024 Earnings Estimate for Tesla Issued By Zacks Research -
+Tesla,2025-1,"16:22:08  [INSMON] (TSLA.O) - Goldman Sachs Maintains Neutral Rating on Tesla, Inc. (TSLA), Highlights Long-Term Growth Potential and Challenges in FSD Ramp-Up -"
+Tesla,2025-1,"16:13:39  [NOTENG] (TSLA.O) - How is the new version of Tesla's most successful model that received 70,000 reservations in just 5 days? -"
+Tesla,2025-1,"15:17:03  [GERCOM] (TSLA.DE TSLA.O) - Tesla Motors (TL0: EUR385.60) drops 1.9%, 7 days' volume in a day -"
+Tesla,2025-1,15:05:14  [BITCOI] (TSLA.O) - Did Elon Musk Just Tweet About XRP? Here's The Story -
+Tesla,2025-1,"14:37:34  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Monday January 27, 2025 22:33 EST -"
+Tesla,2025-1,"14:20:32  [RTRS] (TSLA.O LHX.N) - Predator drone maker asks Musk's DOGE to cut Pentagon red tape, letter shows -"
+Tesla,2025-1,13:47:07  [AUTCOP] (TSLA.O) - PREDICT IT! When Will The Tesla Cybertruck Have A Street Price Of $50k? And If It Goes To That Price Will You Buy One? -
+Tesla,2025-1,13:12:59  [EDICNN] (TSLA.O) - Tesla investor Ross Gerber reacts to Elon Musk's comments urging Germans to 'move beyond' their past guilt -
+Tesla,2025-1,13:04:39  [EDICNN] (TSLA.O) - Tesla investor Ross Gerber reacts to Elon Musk's comments urging Germans to 'move beyond' their past guilt -
+Tesla,2025-1,12:33:39  [KALCOM] (TSLA.O) - Tesla sues EU for tariffs on Chinese BEVs -
+Tesla,2025-1,"12:19:36  [MSNUKA] (TSLA.O) - Elon Musk is putting consumers off buying Tesla cars with his behaviour, research suggests -"
+Tesla,2025-1,12:16:40  [NEWCOW] (TSLA.O) - Tesla owners boycott over Elon Musk's controversial salute and German far-right rally appearance -
+Tesla,2025-1,11:53:42  [MSNUKA] (TSLA.O) - Tesla takes EU to court over tariffs on EVs made in China -
+Tesla,2025-1,11:53:38  [MSNUKA] (TSLA.O) - Tesla investors pin hopes on cheaper EV model to boost sales after lackluster 2024 -
+Tesla,2025-1,11:48:40  [INVAUA] (TSLA.O) - Buyer's remorse as the mud sticks to Tesla -
+Tesla,2025-1,11:47:36  [LITCOM] (TSLA.O) - Buyer's remorse as the mud sticks to Tesla -
+Tesla,2025-1,11:37:37  [CANTIO] (TSLA.O) - Buyer's remorse as the mud sticks to Tesla -
+Tesla,2025-1,11:11:37  [DIGTRE] (TSLA.O) - Tesla Model Y Juniper vs 2024 Tesla Model Y: what's actually new? -
+Tesla,2025-1,"11:11:35  [NOTENG] (TSLA.O) - Astronomers report finding a near-Earth asteroid, but it turns out to be Elon Musk's Tesla car -"
+Tesla,2025-1,"11:09:42  [CHIUSE] (TSLA.O BMWG.DE) - Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,"11:01:10  [YAHNEX] (AVGO.O NVDA.O) - These Stocks Moved the Most Today: Nvidia, Broadcom, GE Vernova, Vistra, AT&T, SoFi, Akero, Tesla, and More -"
+Tesla,2025-1,"11:00:00  [PLUPAT] (TSLA.O) - WIPO Publishes Patent of TESLA, INC. with title of ""IRON PHOSPHATE SYNTHESIS WHICH REDUCES WASTE PRODUCTS, AND COMPOSITIONS THEREOF"" -"
+Tesla,2025-1,"11:00:00  [PLUPAT] (TSLA.O) - WIPO Publishes Patent of TESLA, INC. with title of ""OPTICALLY CORRECTED CAMERA SHIELD"" -"
+Tesla,2025-1,"11:00:00  [PLUPAT] (TSLA.O) - WIPO Publishes Patent of TESLA, INC. with title of ""PLUGS, CLIPS, AND FASTENERS"" -"
+Tesla,2025-1,Tickers of interest: $NVDA $MSFT $GOOGL $AMZN $META $AAPL $TSLA
+Tesla,2025-1,10:38:42  [YAHNEX] (TSLA.O) - Tesla Stock Dropped. Why It's a Victim of DeepSeek Hysteria. -
+Tesla,2025-1,10:24:46  [DIGTRE] (TSLA.O) - Tesla Model Y Juniper vs Kia EV9: Can the new Model Y beat a large SUV? -
+Tesla,2025-1,10:12:02  [JDSUPR] (TSLA.O) - Tesla's Smart Summon Dilemma: Who Will Be Held Accountable for Tesla's Risky Push Into Autonomous Technology? -
+Tesla,2025-1,10:06:07  [LIFSCI] (TSLA.O) - High-field fMRI at 7 Tesla reveals topographic responses tuned to number in the developing human brain -
+Tesla,2025-1,"09:56:08  [LAWAAB] (TSLA.O) - Tesla Too Late To DQ Judge In Crash Suit, Court Told -"
+Tesla,2025-1,"09:47:14  [YAHNEX] (TSLA.O) - Buyers of used Tesla claim automaker, dealership committed fraud, violated consumer law -"
+Tesla,2025-1,09:13:08  [NOTENG] (TSLA.O) - How GM overtook Tesla to become one of the fastest growing EV manufacturers in the U.S. -
+Tesla,2025-1,09:13:05  [NOTENG] (TSLA.O) - Tesla investors bet on cheaper electric model after tepid 2024 -
+Tesla,2025-1,09:12:52  [NOTENG] (TSLA.O BMWG.DE) - Tesla joins legal efforts against European tariffs on Chinese electric cars -
+Tesla,2025-1,09:12:05  [NOTENG] (TSLA.O BMWG.DE) - Tesla and BMW sue EU and join China's automakers over electric vehicle tariffs -
+Tesla,2025-1,08:56:55  [GLOSTO] (TSLA.O) - Past Week: Tesla (TSLA: $397.15) declines 7% on weak volume; -$29.35 [-6.9%] -
+Tesla,2025-1,"08:41:38  [BEIBUL] (TSLA.O BMWG.DE) - Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,08:16:49  [BENZIN] (TSLA.O) - Tesla Faces Boycott Call In Poland Over Musk's WWII Comments: 'No Normal Pole Should Buy' -
+Tesla,2025-1,08:13:40  [NOTENG] (TSLA.O) - Elon Musk's ex-wife revealed what is the word that drove the tycoon to his success -
+Tesla,2025-1,"08:12:17  [NOTENG] (TSLA.O) - Mysterious ""asteroid"" near Earth turns out to be the work of Elon Musk -"
+Tesla,2025-1,"08:08:07  [WNCOMA] (TSLA.O BMWG.DE) - Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,"07:52:18  [GLOSTO] (TSLA.O) - Tesla (TSLA: $392.34) accelerates decline, down 4.9% in 2 days, ranks 14 in today's top 20 falls; -$14.24 [-3.5%] -"
+Tesla,2025-1,"07:26:41  [WNCOMA] (TSLA.O) - Chinese AI DeepSeek challenges ChatGPT and causes tech stocks to fall, including Tesla -"
+Tesla,2025-1,"07:22:04  [GLOSTO] (TSLA.O) - Tesla (TSLA: $395.24) falls 2.8%, ranks 16 in today's top 20 falls; -$11.34 [-2.8%] -"
+Tesla,2025-1,"07:17:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $392.34) accelerates decline, down 4.9% in 2 days, ranks 14 in today's top 20 falls; -$14.24 [-3.5%] -"
+Tesla,2025-1,"07:11:43  [NOTENG] (TSLA.O) - Scientists thought they discovered an asteroid approaching Earth, but it was the Tesla that Elon Musk sent into space. -"
+Tesla,2025-1,07:04:38  [WNCOMA] (TSLA.O) - Tesla faces call for boycott in Poland after Musk's Germany remarks -
+Tesla,2025-1,"07:02:42  [BEIBUL] (TSLA.O BMWG.DE) - Tesla joins BMW, Chinese producers' challenge on EU electric vehicle tariffs -"
+Tesla,2025-1,"07:01:11  [CHIUSE] (TSLA.O BMWG.DE) - Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,06:52:08  [WESAUT] (TSLA.O IMD.AX) - Tech firm Imdex hopeful review led by Tesla chair will help supercharge Australia's dated R&D settings -
+Tesla,2025-1,"06:47:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $395.24) falls 2.8%, ranks 16 in today's top 20 falls; -$11.34 [-2.8%] -"
+Tesla,2025-1,"06:47:07  [GLOSTO] (TSLA.O) - Tesla (TSLA: $396.60) accelerates decline, down 3.8% in 2 days, ranks 18 in today's top 20 falls; -$9.98 [-2.5%] -"
+Tesla,2025-1,"06:45:36  [CANMAO] (TSLA.O) - Tesla raising prices for its vehicles in Canada by up to $9,000 starting Feb. 1 -"
+Tesla,2025-1,06:44:08  [AUTCOP] (TSLA.O) - Joe Rogan Takes Delivery Of Custom Model S Plaid -
+Tesla,2025-1,"06:22:36  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $406.58) Monday January 27, 2025 07:01 EST -"
+Tesla,2025-1,"06:22:32  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $406.58) loses $19 billion (1.4%) in MCap, steepest heavyweight fall in Auto sector Monday January 27, 2025 07:01 EST -"
+Tesla,2025-1,06:22:16  [GLOBEA] (TSLA.O .NDX) - Bottom Performers Past Week: Tesla (TSLA: $406.58) in bottom 5% performers of NASDAQ-100 Index in past week -
+Tesla,2025-1,"06:21:09  [FINGEV] (TSLA.O) - Tesla, Microsoft, Meta Platforms and Apple are part of Zacks Earnings Preview -"
+Tesla,2025-1,"06:20:38  [YAHNEX] (META.O TSLA.O) - Tesla, Microsoft, Meta Platforms and Apple are part of Zacks Earnings Preview -"
+Tesla,2025-1,"06:12:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $396.60) accelerates decline, down 3.8% in 2 days, ranks 18 in today's top 20 falls; -$9.98 [-2.5%] -"
+Tesla,2025-1,"FSD expansion could be coming very soon, as it has been in the works since last year. Tesla hopes to launch it in China and Europe this year -"
+Tesla,2025-1,"06:05:40  [COUSER] (TSLA.O BMWG.DE) - Tesla joins BMW, Chinese producers' challenge on EU electric vehicle tariffs -"
+Tesla,2025-1,"06:03:37  [YAHNEX] (TSLA.O BMWG.DE) - Tesla, BMW Sue EU as Tension Mounts on Chinese EV Tariffs -"
+Tesla,2025-1,05:52:19  [NEWUSN] (2015.HK TSLA.O) - Tesla continues to outperform Li Auto by 0.4% in the past month -
+Tesla,2025-1,"05:52:07  [GLOSTO] (TSLA.O) - Tesla (TSLA: $395.42) in 5th consecutive fall, ranks 17 in today's top 20 falls; -$11.16 [-2.7%] -"
+Tesla,2025-1,"05:52:05  [GLOSTO] (TSLA.O) - Tesla (TSLA: $395.42) falls 2.7%, ranks 17 in today's top 20 falls; -$11.16 [-2.7%] -"
+Tesla,2025-1,"05:48:21  [INSMON] (TSLA.O .SPX) - Tesla, Inc. (TSLA): AI Innovations and Dojo Supercomputer Drive $500 Billion Market Opportunity -"
+Tesla,2025-1,"05:47:02  [AUSAME] (TSLA.O) - Chinese AI DeepSeek challenges ChatGPT and causes tech stocks to fall, including Tesla -"
+Tesla,2025-1,"05:34:09  [YAHNEX] (AMZN.O META.O) - Zacks Investment Ideas feature highlights: Tesla, Meta Platforms, Amazon and Alphabet -"
+Tesla,2025-1,"05:19:40  [STRMLS] (TSLA.O BMWG.DE) - Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,"05:18:42  [WNCOMA] (TSLA.O BMWG.DE) - Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,"05:17:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $395.42) falls 2.7%, ranks 17 in today's top 20 falls; -$11.16 [-2.7%] -"
+Tesla,2025-1,"05:17:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $395.42) in 5th consecutive fall, ranks 17 in today's top 20 falls; -$11.16 [-2.7%] -"
+Tesla,2025-1,"05:12:50  [NOTENG] (TSLA.O) - Elon Musk proposes to call the English Channel the ""George Washington Channel"". -"
+Tesla,2025-1,05:11:20  [NOTENG] (TSLA.O) - Tesla and BMW join European court case against tariffs on Chinese electric cars -
+Tesla,2025-1,05:10:09  [WNCOMA] (TSLA.O) - Tesla takes EU to court over tariffs on EVs made in China -
+Tesla,2025-1,"05:09:41  [CHIORG] (TSLA.O BMWG.DE) - Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,05:08:45  [YAHNEX] (TSLA.O) - Tesla Stock Is Dropping. Why It's a Victim of DeepSeek. -
+Tesla,2025-1,05:08:40  [BARCHA] (TSLA.O) - Tesla Stock Tests Key Chart Support as China's DeepSeek Sparks a Tech Panic -
+Tesla,2025-1,"05:06:41  [MSNAUS] (TSLA.O) - Elon Musk is putting consumers off buying Tesla cars with his behaviour, research suggests -"
+Tesla,2025-1,05:02:10  [QUANAV] (TSLA.O BMWG.DE) - Tesla and BMW take legal action against E.U. over EV tariffs -
+Tesla,2025-1,04:56:26  [ZMESCI] (TSLA.O) - Astronomers Thought They Had Found A Dangerous Asteroid Near Earth - It Was Elon Musk's Tesla Roadster -
+Tesla,2025-1,"04:54:46  [XINHUN] (TSLA.O BMWG.DE) - Tesla, BMW join Chinese EV makers in challenging EU tariffs -"
+Tesla,2025-1,04:53:17  [NEWNYS] (ALV.N TSLA.O) - Autoliv continues to outperform Tesla by 13.8% in the past month -
+Tesla,2025-1,04:53:02  [NEWUSN] (TSLA.O RIVN.O) - Rivian Automotive continues to underperform Tesla by 4.2% in the past month -
+Tesla,2025-1,04:52:32  [NEWUSN] (TSLA.O MBGn.DE) - Tesla continues to underperform Mercedes-Benz Group by 8.1% in the past month -
+Tesla,2025-1,"04:52:31  [AMEBAN] (TSLA.O) - Neumann Capital Management LLC Reduces Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,04:52:28  [NEWUSN] (TSLA.O BMWG.DE) - Tesla continues to underperform Bayerische Motoren Werke by 3.1% in the past month -
+Tesla,2025-1,"04:51:43  [AUTCOO] (TSLA.O) - Buyers of used Tesla claim automaker, dealership committed fraud, violated consumer law -"
+Tesla,2025-1,"04:51:41  [AMEBAN] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Motive Wealth Advisors -"
+Tesla,2025-1,"04:51:23  [AMEBAN] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Johnson Bixby & Associates LLC -"
+Tesla,2025-1,"04:51:16  [AMEBAN] (TSLA.O) - Caldwell Sutter Capital Inc. Has $44,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"04:50:58  [AMEBAN] (TSLA.O) - Private Capital Advisors Inc. Makes New $673,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"04:50:37  [AMEBAN] (TSLA.O) - McGlone Suttner Wealth Management Inc. Raises Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"04:48:50  [AMEBAN] (TSLA.O) - Greater Midwest Financial Group LLC Buys New Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,"04:48:39  [AMEBAN] (TSLA.O) - One Wealth Management Investment & Advisory Services LLC Buys 141 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-1,04:47:07  [MSNUKA] (TSLA.O) - SNL comedian uses five words to explain why Elon Musk is not a Nazi -
+Tesla,2025-1,"04:40:42  [FORONL] (TSLA.O BMWG.DE) - Tesla, BMW sue EU after China-made EVs hit by tariffs -"
+Tesla,2025-1,"04:37:18  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR385.60) loses EUR23 billion ($24 billion) (1.9%) in MCap, steepest heavyweight fall in Health care sector; -E... -"
+Tesla,2025-1,"04:27:22  [ZACKSC] (TSLA.O GOOGL.O) - Zacks Investment Ideas feature highlights: Tesla, Meta Platforms, Amazon and Alphabet -"
+Tesla,2025-1,"04:26:38  [LATNIG] (TSLA.O BMWG.DE) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,"04:22:24  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $406.58) Monday January 27, 2025 07:01 EST -"
+Tesla,2025-1,"04:22:23  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $406.58) loses $19 billion (1.4%) in MCap, steepest heavyweight fall in Auto sector Monday January 27, 2025 07:01 EST -"
+Tesla,2025-1,04:22:19  [GLOBEA] (TSLA.O .NDX) - Bottom Performers Past Week: Tesla (TSLA: $406.58) in bottom 5% performers of NASDAQ-100 Index in past week -
+Tesla,2025-1,"04:22:02  [GLOSTO] (TSLA.O) - Tesla (TSLA: $401.16) keeps sliding, down 5.9% in 5 days, ranks 20 in today's top 20 falls; -$5.42 [-1.3%] -"
+Tesla,2025-1,04:17:13  [MSNAUS] (TSLA.O) - New asteroid turns out to be Tesla car shot to space in 2018 -
+Tesla,2025-1,"04:17:04  [GLOSTO] (TSLA.O) - Tesla (TSLA: $401.16) in 5th consecutive fall, ranks 20 in today's top 20 falls; -$5.42 [-1.3%] -"
+Tesla,2025-1,04:15:09  [MSNUKA] (TSLA.O) - Tesla takes EU to court over tariffs on electric vehicles from China -
+Tesla,2025-1,04:13:57  [NOTENG] (TSLA.O) - Tesla and BMW join lawsuit against EU tariffs; adopted tariffs of up to 35%. -
+Tesla,2025-1,04:11:38  [NOTENG] (TSLA.O) - Tesla sues EU over China's electric vehicle tariffs -
+Tesla,2025-1,04:10:14  [WNCOMA] (TSLA.O) - Tesla takes EU to court over tariffs on EVs made in China -
+Tesla,2025-1,"04:09:39  [MISBUS] (TSLA.O BMWG.DE) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,"04:07:43  [GURCOM] (TSLA.O) - Tesla Could Dominate AI Space with $430 Target, Morgan Stanley Says -"
+Tesla,2025-1,"04:01:52  [ZACKSC] (TSLA.O .SPX) - Tesla, Microsoft, Meta Platforms and Apple are part of Zacks Earnings Preview -"
+Tesla,2025-1,"03:55:37  [WNCOMA] (TSLA.O BMWG.DE) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,03:54:32  [NEWNYS] (9868.HK XPEV.N) - XPeng continues to outperform Tesla by 18.2% in the past month -
+Tesla,2025-1,03:54:21  [NEWUSN] (TSLA.O LKQ.O) - LKQ continues to outperform Tesla by 7.4% in the past month -
+Tesla,2025-1,03:54:14  [NEWUSN] (TSLA.O GNTX.O) - Gentex continues to underperform Tesla by 1.0% in the past month -
+Tesla,2025-1,03:54:04  [NEWNYS] (TSLA.O MOD.N) - Modine Manufacturing continues to outperform Tesla by 13.3% in the past month -
+Tesla,2025-1,03:53:58  [NEWNYS] (TSLA.O BWA.N) - BorgWarner continues to outperform Tesla by 4.5% in the past month -
+Tesla,2025-1,03:53:54  [NEWNYS] (TSLA.O JCI.N) - Johnson Controls International continues to outperform Tesla by 3.7% in the past month -
+Tesla,2025-1,03:53:50  [NEWNYS] (GPC.N TSLA.O) - Genuine Parts continues to outperform Tesla by 3.4% in the past month -
+Tesla,2025-1,03:53:37  [NEWUSN] (TSLA.O 0TL.F) - VinFast Auto continues to underperform Tesla by 1.5% in the past month -
+Tesla,2025-1,03:50:10  [YAHNEX] (TSLA.O) - Will Record Vehicle Deliveries Help Tesla Report Q4 Earnings Beat? -
+Tesla,2025-1,"By the end of 2025, all aircraft will have Starlink high-speed internet for the entire duration of your journey."
+Tesla,2025-1,"03:47:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $401.16) keeps sliding, down 5.9% in 5 days, ranks 20 in today's top 20 falls; -$5.42 [-1.3%] -"
+Tesla,2025-1,"03:47:10  [GLOSTO] (TSLA.O) - Tesla (TSLA: $401.16) in 5th consecutive fall, ranks 20 in today's top 20 falls; -$5.42 [-1.3%] -"
+Tesla,2025-1,"03:43:48  [ECOCOM] (TSLA.O) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,03:38:18  [GLOWEE] (TSLA.O .NDX) - Weekly: Tesla (TSLA: $406.58) in bottom 5% performers of NASDAQ-100 Index in past week; -$19.92 [4.7%] -
+Tesla,2025-1,03:32:35  [THEGRD] (TSLA.O) - Tesla takes EU to court over tariffs on EVs made in China -
+Tesla,2025-1,03:23:40  [FINDEH] (TSLA.O) - Tesla Stock: Growth Hopes Hinge on Affordable EV Launch -
+Tesla,2025-1,"03:17:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $400.46) drops 1.5%, ranks 18 in today's top 20 falls; -$6.12 [-1.5%] -"
+Tesla,2025-1,"03:17:15  [GLOSTO] (TSLA.O) - Tesla (TSLA: $400.46) keeps sliding, down 6.1% in 5 days, ranks 18 in today's top 20 falls; -$6.12 [-1.5%] -"
+Tesla,2025-1,"03:15:40  [WNCOMA] (TSLA.O BMWG.DE) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,"03:15:39  [NAICOM] (TSLA.O) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,03:01:59  [ZACKSC] (TSLA.O GM.N) - Will Record Vehicle Deliveries Help Tesla Report Q4 Earnings Beat? -
+Tesla,2025-1,03:00:40  [BUSSOU] (TSLA.O BMWG.DE) - Tesla joins fight on EU tariffs for Chinese EVs -
+Tesla,2025-1,"02:55:09  [PUNCHA] (TSLA.O) - Tesla, BMW challenge EU tariffs on China-made electric cars -"
+Tesla,2025-1,02:48:02  [GLOWEE] (TSLA.O .NDX) - Weekly: Tesla (TSLA: $406.58) in bottom 5% performers of NASDAQ-100 Index in past week; -$19.92 [4.7%] -
+Tesla,2025-1,"02:45:32  [YAHNEX] (TSLA.O MSFT.O) - AI Investment Comes Into Focus for Microsoft, Meta, Tesla, and Apple -"
+Tesla,2025-1,"02:42:46  [GLOTRA] (.IXIC TSLA.O) - Tesla (TSLA: $400.46) accelerates decline, down 2.9% in 2 days; -$6.12 [-1.5%] -"
+Tesla,2025-1,"02:42:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $400.46) drops 1.5%, ranks 18 in today's top 20 falls; -$6.12 [-1.5%] -"
+Tesla,2025-1,"02:42:03  [GLOSTO] (TSLA.O) - Tesla (TSLA: $400.46) keeps sliding, down 6.1% in 5 days, ranks 18 in today's top 20 falls; -$6.12 [-1.5%] -"
+Tesla,2025-1,"02:41:45  [WNCOMA] (TSLA.O BMWG.DE) - Tesla, BMW sue EU after China-made EVs hit by tariffs -"
+Tesla,2025-1,"02:32:02  [GLOSTO] (TSLA.O) - Tesla (TSLA: $395.55) accelerates decline, down 4.1% in 2 days, ranks 10 in today's top 20 falls; -$11.03 [-2.7%] Vol Index 1.6 [1 is avg] -"
+Tesla,2025-1,"02:28:32  [SAITRI] (TSLA.O) - Tesla, BMW take EU to court over China EV tariffs AFP Jan 28, 2025 39 mins ago -"
+Tesla,2025-1,"02:22:41  [CHAASI] (TSLA.O) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,"02:18:34  [INTTIM] (TSLA.O) - Tesla, BMW Take EU To Court Over China EV Tariffs -"
+Tesla,2025-1,"02:18:21  [RTRS] (TSLA.O) - Tesla investors pin hopes on cheaper EV model to boost sales after lackluster 2024 (REFILE, PREVIEW) -"
+Tesla,2025-1,"02:17:37  [TIMLIV] (TSLA.O) - After lacklustre 2024, Tesla investors bank on low-cost model -"
+Tesla,2025-1,02:17:37  [HINDUT] (TSLA.O) - SNL comedian takes aim at Elon Musk with this sharp five 'Nazi' tagged word -
+Tesla,2025-1,02:17:26  [GURCOM] (TSLA.O) - Tesla Launches Updated Model Y in North America and Europe Ahead of Affordable Variant -
+Tesla,2025-1,02:14:40  [FORCOO] (TSLA.O UBER.N) - How Can Financial Institutions Adjust To Embedded Finance Innovation? -
+Tesla,2025-1,"02:13:32  [NOTENG] (TSLA.O) - Elon Musk breaks silence on Petro-Trump conflict, sparks controversy -"
+Tesla,2025-1,02:02:54  [WALLST] (TSLA.O) - 5 ETFs Betting Big on Tesla's Stock and Elon Musk -
+Tesla,2025-1,02:02:23  [IOWCOM] (TSLA.O) - Newly discovered asteroid turns out to be Tesla Roadster launched into space -
+Tesla,2025-1,"02:00:13  [YAHSIN] (TSLA.O) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,"01:57:10  [GLOSTO] (TSLA.O) - Tesla (TSLA: $395.55) accelerates decline, down 4.1% in 2 days, ranks 10 in today's top 20 falls; -$11.03 [-2.7%] Vol Index 1.6 [1 is avg] -"
+Tesla,2025-1,01:52:30  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2025-1,01:52:20  [NEWUSN] (VOWG_p.DE TSLA.O) - Tesla continues to underperform Volkswagen by 12.0% in the past month -
+Tesla,2025-1,"01:48:08  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by RFG Advisory LLC -"
+Tesla,2025-1,"01:46:49  [PENQAT] (TSLA.O) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,"01:38:43  [SHICNA] (TSLA.O) - Tesla, BMW take EU to court over China EV tariffs -"
+Tesla,2025-1,"01:36:41  [AUTCOO] (TSLA.O BMWG.DE) - Tesla joins BMW, others in court challenge to EU tariffs on Chinese EVs -"
+Tesla,2025-1,Tesla's $TSLA Musk suggests DeepSeek 'obviously' has more NVIDIA $NVDA GPUs than claimed
+Tesla,2025-1,01:13:06  [NOTENG] (TSLA.O) - Tesla joins legal challenges to EU tariffs on electric vehicles -
+Tesla,2025-1,01:10:11  [BUSSOU] (TSLA.O) - Tesla investors pin hopes on cheaper EV model to grow sales -
+Tesla,2025-1,01:02:48  [TIMLIV] (TSLA.O BMWG.DE) - Tesla backs court action over EU tariffs on Chinese EVs -
+Tesla,2025-1,00:57:43  [WNCOMA] (TSLA.O BMWG.DE) - Tesla joins court challenges to EU tariffs on Chinese EVs | Kuwait Times Newspaper -
+Tesla,2025-1,00:52:14  [GLOSTO] (TSLA.O) - ICYMI: Monday's Preview: Can Tesla rebound after being down? -
+Tesla,2025-1,00:52:01  [GLOSTO] (TSLA.O) - Monday's Preview: Can Tesla rebound after being down? -
+Tesla,2025-1,00:50:17  [WNCOMA] (TSLA.O) - Musk's Trump Endorsement Could Backfire as Tesla Sales Set to Stagnate -
+Tesla,2025-1,00:50:07  [RTECOM] (TSLA.O) - Tesla investors pin hopes on cheaper EV model to boost sales -

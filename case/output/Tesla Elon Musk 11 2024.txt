@@ -1,0 +1,845 @@
+firm_id,date,text
+Tesla,2024-11,"23:46:42  [WKRNEW] - Capital Advisors Inc. OK Cuts Stock Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,"532: Perplexity Buyout Talks, Meta Search Engine, Waymo vs Tesla, OpenAI Drops Foundry Dream, Anti-Natalist Policies, Samsung, and Podcasting Era $META $TSLA"
+Tesla,2024-11,23:26:55  [NEWWIR] (TSLA.O MTAV.TA) - Tesla Third Quarter 13F Filing: Meitav Dash Investments cuts 6.0% of its shares -
+Tesla,2024-11,23:26:55  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TD Asset Management trims its shareholding by 1.2% -
+Tesla,2024-11,23:26:53  [NEWWIR] (TSLA.O) - Tesla Fourth Quarter 13F Filing: Crossmark Global Holdings trims its shareholding by 1.1% -
+Tesla,2024-11,23:26:52  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services continued to decrease its shareholding -
+Tesla,2024-11,23:21:56  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Acadian Asset Management slashes 69.5% of its shareholding -
+Tesla,2024-11,23:21:55  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: SpiderRock Advisors adds 9.8% to its shares -
+Tesla,2024-11,23:21:54  [NEWWIR] (TSLA.O VLAN.AS) - Tesla Second Quarter 13F Filing: Kempen Capital Management N.V. reduces its shares by 17.2% -
+Tesla,2024-11,23:21:53  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Privium Fund Management continued to increase its shareholding -
+Tesla,2024-11,23:21:51  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: STRS Ohio continued to decrease its shareholding -
+Tesla,2024-11,23:21:51  [NEWWIR] (TSLA.O PFG.O) - Tesla Third Quarter 13F Filing: Principal Financial Group adds 5.6% to its shares -
+Tesla,2024-11,23:21:49  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: ARK Investment Management reduces its shares by 13.7% -
+Tesla,2024-11,23:02:04  [NEWWIR] (TSLA.O) - Tesla Fourth Quarter 13F Filing: WS Management LLLP boosts its shareholding by 15.7% -
+Tesla,2024-11,23:02:03  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: NEOS Investment Management accumulates another 43.4% -
+Tesla,2024-11,"22:58:10  [NDTNEW] (TSLA.O) - ""Trivial For Criminals, Hard For Talented Minds"": Elon Musk Criticises US Immigration System -- -"
+Tesla,2024-11,"21:19:29  [MARBEA] - Stephens Inc. AR Decreases Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,21:10:00  [MERCOP] (TSLA.O) - Too many overburdened Tesla workers in Germany on sick leave -- -
+Tesla,2024-11,"19:41:08  [FORCOO] (TSLA.O BTC=) - Tesla, AMD And Nvidia Show Higher Volatility Than Bitcoin In October 2024 -- -"
+Tesla,2024-11,"18:36:35  [MORCAL] (TSLA.O) - Musk-Trump tie may aid Tesla CEO wish list may not match up with former president's agenda, but access has upside -"
+Tesla,2024-11,18:21:57  [BENZIN] (7267.T) - Honda's Pickup Beats Tesla Cybertruck As Most American Made Truck -
+Tesla,2024-11,"18:19:28  [ORLSEN] (TSLA.O) - Musk-Trump tie may aid Tesla CEO wish list may not match up with former president's agenda, but access has upside -"
+Tesla,2024-11,Here are all the times the Harris/Biden administration did exactly that:
+Tesla,2024-11,"If Kamala Harris wins and implements California-style policies nationwide, where will these companies move? -"
+Tesla,2024-11,17:34:44  [ABCNEX] (TSLA.O) - Public raises concerns about Palo Alto Tesla chemical spill -- -
+Tesla,2024-11,17:12:40  [STRMLS] (TSLA.O) - BYD beats Tesla in quarterly sales for the first time as demand soars for hybrid EVs -- -
+Tesla,2024-11,"16:12:28  [NOTENG] (TSLA.O) - He is ""El Jhay Pa"", who crashed his luxury Cybertruck in CDMX and left the scene. -"
+Tesla,2024-11,"14:42:21  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Friday November 01, 2024 23:35 EDT -"
+Tesla,2024-11,14:14:07  [TIMNOW] (TSLA.O) - Ron Paul To Join Elon Musk In Trump Cabinet? Ex Texas Rep Responds -- -
+Tesla,2024-11,14:13:51  [NOTENG] (TSLA.O) - Wasn't it indestructible? Cybertruck was DESTROYED after hitting wall in Mexico -
+Tesla,2024-11,"To every Republican: not only should you vote, but get others out too"
+Tesla,2024-11,"Never made anything useful to other people in his entire, very long life. -"
+Tesla,2024-11,"Donald Trump has been persecuted, raided, impeached and miraculously survived two assassination attempts."
+Tesla,2024-11,13:13:21  [NOTENG] (TSLA.O) - VIDEO: Tesla Cybertruck crashes into house in the San Miguel Chapultepec neighborhood of CDMX -
+Tesla,2024-11,11:38:07  [YAHNEX] (TSLA.O) - BYD's Sales Hit a Record. It's Neck and Neck in EV Race With Tesla. -- -
+Tesla,2024-11,"Over the last 5 years there are 80+ businesses that have moved from CA to TX, including:"
+Tesla,2024-11,11:02:21  [FINBOL] (TSLA.O) - TSLA stock climbs as Elon Musk says 'Tesla FSD is now almost entirely AI' -
+Tesla,2024-11,"10:56:56  [NEWWIR] (TSLA.O) - Tesla has been issued 2 patents focused on ""energy storage device"" in 12 months -"
+Tesla,2024-11,10:13:16  [NOTENG] (TSLA.O) - How much does the wrecked Tesla Cyber cost? There were only 10 in Mexico -
+Tesla,2024-11,10:05:13  [BUSTIM] (TSLA.O) - Tesla sells US$499 million of debt backed by solar equipment loans -- -
+Tesla,2024-11,- End-to-end on highway has shipped to ~50k customers with v12.5.6.1
+Tesla,2024-11,09:52:22  [GURCOM] (TSLA.O) - Tesla (TSLA) Issues $499 Million Bond Backed by Solar Equipment Loans -
+Tesla,2024-11,"Donald Trump has been persecuted, raided, impeached and miraculously survived two assassination attempts."
+Tesla,2024-11,"09:13:54  [NOTENG] (TSLA.O) - Who is ""El Jhay Pa"", singer who crashed a Cybertruck in CDMX? -"
+Tesla,2024-11,09:11:53  [NOTENG] (TSLA.O) - Cybertruck crashes into house in CDMX; points fingers at singer of corridos that were knocked down -
+Tesla,2024-11,"Up until 5 minutes ago or so, Democrats unanimously agreed with this."
+Tesla,2024-11,08:31:42  [YAHNEX] (TSLA.O) - You Won't Believe What Elon Musk Just Said About Tesla -- -
+Tesla,2024-11,08:24:33  [MOTFOL] (TSLA.O) - You Won't Believe What Elon Musk Just Said About Tesla -- -
+Tesla,2024-11,08:23:39  [CBTNEW] (TSLA.O) - Ford ships out new Tesla adapters to EV customers -- -
+Tesla,2024-11,08:22:20  [MOTFOO] (TSLA.O) - You Won't Believe What Elon Musk Just Said About Tesla -
+Tesla,2024-11,08:21:56  [BENZIN] - 'Tesla Sells $499M Of Debt Backed by Solar Equipment Loans' - Bloomberg News -
+Tesla,2024-11,08:12:23  [GURCOM] (TSLA.O) - Tesla (TSLA) Sells $499 Million Solar-Backed Bonds with High Demand -
+Tesla,2024-11,08:10:09  [YAHNEX] - Tesla Sells $499 Million of Debt Backed by Solar Equipment Loans -- -
+Tesla,2024-11,"07:27:38  [WKRNEW] - Human Investing LLC Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,"07:27:15  [WATNEW] - Sitrin Capital Management LLC Purchases 450 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,07:13:51  [NOTENG] (TSLA.O) - Buying a Tesla in the US from Argentina: how much could it cost to import the most famous electric car? -
+Tesla,2024-11,07:13:50  [NOTENG] (TSLA.O) - How much does a Cybertruck like the one that crashed into a house in Miguel Hidalgo cost; it's Tesla's famous electric van -
+Tesla,2024-11,07:12:16  [NOTENG] (TSLA.O) - Luxury Tesla Cybertruck smashes into house in CDMX; worth more than 2 million pesos | VIDEO -
+Tesla,2024-11,07:02:42  [CAPBRO] (TSLA.O) - Judge rejects Elon Musk's request to move lawsuit against $1 million giveaway to federal court -- -
+Tesla,2024-11,"06:52:20  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.60) strengthens above moving average price, ranks 9 in today's top 20 falls; -$2.25 [-0.9%] -"
+Tesla,2024-11,06:47:18  [TURGOV] (TSLA.O) - Chinese BYD surpasses Tesla in sales for 1st time -
+Tesla,2024-11,"06:42:23  [TRADAJ] - Shepherd Financial Partners LLC Sells 227 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"06:30:09  [ASINIK] (TSLA.O) - Tesla rival BYD doubles overseas sales, led by Brazil surge -- -"
+Tesla,2024-11,"06:23:08  [WKRNEW] - WT Asset Management Ltd Takes $18.44 Million Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,"06:22:12  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.66) decreases $2.19, ranks 9 in today's top 20 falls; -$2.19 [-0.9%] -"
+Tesla,2024-11,"06:22:10  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.66) in 5th consecutive fall, ranks 9 in today's top 20 falls; -$2.19 [-0.9%] -"
+Tesla,2024-11,"06:17:23  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.60) strengthens above moving average price, ranks 9 in today's top 20 falls; -$2.25 [-0.9%] -"
+Tesla,2024-11,06:12:12  [NOTENG] (TSLA.O) - VIDEO: Tesla's luxury Cybertruck crashes into house in CDMX -
+Tesla,2024-11,"06:11:44  [NOTENG] (TSLA.O) - Cybertruck crashes into a house in Miguel Hidalgo; the ""indestructible"" Tesla vehicle was destroyed. -"
+Tesla,2024-11,06:08:37  [RTRS] (TSLA.O) - ELON MUSK LOSES BID TO MOVE CASE OVER $1 MILLION VOTER PRIZES TO FEDERAL COURT -
+Tesla,2024-11,06:01:12  [WNCOMA] (TSLA.O) - Allstate Power Becomes Certified Installer for Tesla EV Chargers and Powerwalls -- -
+Tesla,2024-11,"Every day until Election Day, a person who signs will be selected to earn $1M as a spokesperson for America PAC."
+Tesla,2024-11,"05:47:12  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.66) decreases $2.19, ranks 9 in today's top 20 falls; -$2.19 [-0.9%] -"
+Tesla,2024-11,"05:47:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.21) keeps sliding, down 8.2% in 5 days, ranks 8 in today's top 20 falls; -$2.64 [-1.1%] -"
+Tesla,2024-11,"05:42:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.21) in 5th consecutive fall, ranks 8 in today's top 20 falls; -$2.64 [-1.1%] -"
+Tesla,2024-11,We farmers immense gratitude for making the food on our tables! -
+Tesla,2024-11,"Over the last 5 years there are 80+ businesses that have moved from CA to TX, including:"
+Tesla,2024-11,"05:22:11  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $249.85) Friday November 01, 2024 07:11 EDT -"
+Tesla,2024-11,"05:12:08  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.21) in 5th consecutive fall, ranks 8 in today's top 20 falls; -$2.64 [-1.1%] -"
+Tesla,2024-11,"05:12:07  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.21) keeps sliding, down 8.2% in 5 days, ranks 8 in today's top 20 falls; -$2.64 [-1.1%] -"
+Tesla,2024-11,05:11:39  [NOTENG] (TSLA.O) - Tesla Cybertruck is destroyed after crashing into a house in CDMX; driver goes to the hospital (VIDEO) -
+Tesla,2024-11,"05:02:12  [WATNEW] - Interchange Capital Partners LLC Decreases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"05:02:10  [WKRNEW] - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Aspen Wealth Strategies LLC -- -"
+Tesla,2024-11,"04:58:03  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR230.85) decreases EUR1.75, 5 days' volume in a day; -EUR1.75 [0.8%] Vol Index 5.2 [1 is avg] -"
+Tesla,2024-11,"04:52:10  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.60) keeps sliding, down 8.0% in 5 days, ranks 9 in today's top 20 falls; -$2.25 [-0.9%] -"
+Tesla,2024-11,"04:52:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.60) decreases $2.25, ranks 9 in today's top 20 falls; -$2.25 [-0.9%] -"
+Tesla,2024-11,04:52:00  [GLOSTO] (TSLA.O) - Tesla continues to underperform Tata Motors by 7.0% year to date -
+Tesla,2024-11,04:39:10  [WNCOMA] (TSLA.O) - 5 reasons BYD is surging ahead after eclipsing Tesla's quarterly sales for the first time -- -
+Tesla,2024-11,"04:23:36  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.60) decreases $2.25, ranks 9 in today's top 20 falls; -$2.25 [-0.9%] -"
+Tesla,2024-11,"04:17:27  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.60) keeps sliding, down 8.0% in 5 days, ranks 9 in today's top 20 falls; -$2.25 [-0.9%] -"
+Tesla,2024-11,"04:17:20  [WATNEW] - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Pacific Sage Partners LLC -"
+Tesla,2024-11,04:12:54  [NOTENG] (TSLA.O) - Cybertruck crashes into a house in CDMX; Tesla's 'indestructible' car is totaled -
+Tesla,2024-11,04:01:33  [COMVEH] (TSLA.O) - Bulletin Around the Globe: Tesla Robotaxi Plans Face Scrutiny -
+Tesla,2024-11,03:53:15  [GLOSTO] (TSLA.O) - Tesla continues to outperform Bayerische Motoren Werke by 23.7% year to date -
+Tesla,2024-11,03:53:08  [GLOSTO] (2015.HK TSLA.O) - Tesla continues to outperform Li Auto by 27.5% year to date -
+Tesla,2024-11,"03:47:32  [WATNEW] - 1,023 Shares in Tesla, Inc. (NASDAQ:TSLA) Purchased by W Advisors LLC -"
+Tesla,2024-11,03:25:34  [STOCKP] - Tesla (TSLA) is trading -2.99 percent lower on Friday 1st of November and has a trading volume of USD 16.6 bn -
+Tesla,2024-11,"03:22:46  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $249.85) Friday November 01, 2024 07:11 EDT -"
+Tesla,2024-11,We just won our lawsuit in Bucks County for extended Early Voting through Friday at 5:00 PM.
+Tesla,2024-11,Thank you to the court for making the right decision and for finding that Bucks County violated the Pennsylvania election code and providing the requested relief. -
+Tesla,2024-11,"02:58:15  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $249.85) loses $38 billion in MCap in October, biggest drop in Auto sector -"
+Tesla,2024-11,02:34:41  [NEWZEA] (TSLA.O) - Car of the Year and People's Choice 2024 SCAN TO VOTE AND WIN -
+Tesla,2024-11,02:18:46  [SIGDEV] (TSLA.O) - Elon Musk Says Tesla FSD Is Now Almost Entirely AI - X Post -
+Tesla,2024-11,"02:11:57  [BENZIN] (TSLA.O) - Elon Musk Posts On X ""Tesla FSD is now almost entirely AI"" -"
+Tesla,2024-11,The network is deceptively editing a comment Trump made during a campaign event in Arizona about Liz Cheney.
+Tesla,2024-11,02:07:02  [RTRS] (TSLA.O) - Elon Musk Says Tesla FSD Is Now Almost Entirely AI - X Post (BRIEF) -
+Tesla,2024-11,"02:06:46  [NEWBIH] (TSLA.O) - WEEKLY RECAP: CMC MARKETS UK PLC NEWS THIS PAST WEEK NOV 01, 2024 -"
+Tesla,2024-11,01:52:37  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-11,"A recent hit piece by Wired falsely claims Elon Musk is promoting great replacement theories, suggesting he believes Democrats are attempting to replace white voters."
+Tesla,2024-11,"01:32:04  [GLOSTO] (TSLA.O) - Tesla (TSLA: $252.75) climbs 1.2%, ranks 7 in today's top 20 rises; +$2.90 [1.2%] -"
+Tesla,2024-11,Combustion rockets are the best way to get to Mars in the short to medium term.
+Tesla,2024-11,01:16:38  [FORBES] (TSLA.O) - Elon Musk Is Now Trump?s 2nd-Biggest Financial Backer: Donates Nearly $120 Million To Super PAC -
+Tesla,2024-11,01:08:39  [YAHNEX] (TSLA.O) - Mohegan Sun now Home to Most Tesla EV Chargers in Connecticut -- -
+Tesla,2024-11,01:03:30  [WNCOMA] (TSLA.O) - Mohegan Sun now Home to Most Tesla EV Chargers in Connecticut -- -
+Tesla,2024-11,01:02:28  [GURCOM] (TSLA.O) - Elon Musk Discovers Tesla Cybertruck's Biggest Enthusiast in Shaquille O'Neal -
+Tesla,2024-11,"00:57:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $252.75) climbs 1.2%, ranks 7 in today's top 20 rises; +$2.90 [1.2%] -"
+Tesla,2024-11,00:52:07  [GLOSTO] (TSLA.O) - Tesla continues to outperform Volkswagen by 21.7% year to date -
+Tesla,2024-11,"00:46:49  [GLOSTO] (TSLA.O) - Tesla (TSLA: $252.40) lifts 1.0% strengthening above moving average price, ranks 8 in today's top 20 rises; +$2.55 [1.0%] -"
+Tesla,2024-11,00:32:07  [GLOTRA] (TSLA.O) - Tesla (TSLA: $252.40) lifts 1.0% strengthening above moving average price; +$2.55 [1.0%] -
+Tesla,2024-11,00:28:37  [PRN] (TSLA.O) - Mohegan Sun now Home to Most Tesla EV Chargers in Connecticut -
+Tesla,2024-11,"00:27:16  [WATNEW] - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Oak Ridge Investments LLC -"
+Tesla,2024-11,"00:16:54  [GLOSTO] (TSLA.O) - Tesla (TSLA: $252.40) lifts 1.0% strengthening above moving average price, ranks 8 in today's top 20 rises; +$2.55 [1.0%] -"
+Tesla,2024-11,00:07:00  [TIMOMA] (TSLA.O) - Musk to virtually participate in Sovereign Wealth Forum | Times of Oman -
+Tesla,2024-11,23:54:03  [GLOSTO] (TSLA.O) - ICYMI: Friday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-11,23:52:17  [GLOSTO] (TSLA.O) - Friday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-11,"23:47:39  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $249.85) loses $38 billion in MCap in October, biggest drop in Auto sector -"
+Tesla,2024-11,23:31:32  [GHAONL] (TSLA.O) - China's BYD overtakes Tesla revenue for the first time -
+Tesla,2024-11,"23:07:25  [WATNEW] - Cigna Investments Inc. New Sells 301 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,23:00:41  [HUNOFF] (TSLA.O) - Chinese BYD surpasses Tesla in sales for 1st time -
+Tesla,2024-11,"23:00:00  [RTRS] (TSLA.O) - AI venture shapes up to be glue for the Muskiverse (RPT, BREAKINGVIEWS) -"
+Tesla,2024-11,22:56:48  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: ARK Investment Management reduces its shares by 13.7% -
+Tesla,2024-11,"22:53:40  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $249.85) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday November 01, 2024 07:11 EDT -"
+Tesla,2024-11,"22:53:30  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $249.85) Friday November 01, 2024 07:11 EDT -"
+Tesla,2024-11,22:52:11  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: National Pension Service boosts its shareholding by 15.3% -
+Tesla,2024-11,22:52:10  [NEWWIR] (TSLA.O PFG.O) - Tesla Third Quarter 13F Filing: Principal Financial Group adds 5.6% to its shares -
+Tesla,2024-11,22:52:10  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Asset Management One Co. augments its shareholding by 1.3% -
+Tesla,2024-11,22:52:08  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: MN Services Vermogensbeheer trims its shareholding by 2.3% -
+Tesla,2024-11,22:52:07  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Belvedere Trading adds 9.7% to its shares -
+Tesla,2024-11,22:52:06  [NEWWIR] (AMAL.O TSLA.O) - Tesla Third Quarter 13F Filing: Amalgamated Bank continued to decrease its shareholding -
+Tesla,2024-11,22:52:05  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Yousif Capital Management trims its shareholding by 0.9% -
+Tesla,2024-11,22:52:04  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: QRG CAPITAL MANAGEMENT adds 9.8% to its shares -
+Tesla,2024-11,22:52:04  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Gulf International Bank (uk) trims its shareholding by 3.8% -
+Tesla,2024-11,22:52:01  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Cornerstone Advisors trims its shareholding by 0.7% -
+Tesla,2024-11,22:51:33  [NEWWIR] (TSLA.O 8750.T) - Tesla First Quarter 13F Filing: Dai-Ichi Life Insurance Co cuts 8.4% of its shares -
+Tesla,2024-11,22:51:30  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Liontrust Investment Partners reduces its shares by 19.4% -
+Tesla,2024-11,"22:47:52  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $249.85) loses $38 billion in MCap in October, biggest drop in Auto sector -"
+Tesla,2024-11,22:47:02  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Jupiter Asset Management slashes 49.9% of its shareholding -
+Tesla,2024-11,22:47:01  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Mission Wealth Management cuts 6.8% of its shares -
+Tesla,2024-11,22:42:25  [GLOSTO] (TSLA.O) - ICYMI: Friday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-11,"22:12:20  [NOTENG] (TSLA.O) - Serial auctions, BYD overtakes Tesla and what matters on the market -"
+Tesla,2024-11,22:03:05  [GLOSTO] (TSLA.O) - Update: Friday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-11,"21:53:05  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $249.85) loses $38 billion in MCap in October, biggest drop in Auto sector -"
+Tesla,2024-11,21:47:37  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-11,21:37:14  [FORBES] (TSLA.O) - Elon Musk's Relentless Trolling Of Democrats Is Tarnishing Tesla -
+Tesla,2024-11,"21:17:40  [TRADAJ] - JFS Wealth Advisors LLC Has $527,000 Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"20:37:29  [NEWBIH] (TSLA.O) - WEEKLY RECAP: CMC MARKETS UK PLC NEWS THIS PAST WEEK OCT 31, 2024 -"
+Tesla,2024-11,"20:13:39  [ORLSEN] (TSLA.O) - Musk-Trump tie may aid Tesla CEO wish list may not match up with former president's agenda, but access has upside -"
+Tesla,2024-11,20:11:57  [BENZIN] (F.N) - Ford F-150 Lightning Pickup Truck Production To Be Halted Temporarily After Tesla's Cybertruck Races Ahead In Q3 (Updated) -
+Tesla,2024-11,"20:11:53  [MORCAL] (TSLA.O) - Musk-Trump tie may aid Tesla CEO wish list may not match up with former president's agenda, but access has upside -"
+Tesla,2024-11,20:10:16  [WHADAY] (TSLA.O) - As easy as reserving a Lime bike? Tesla opens 17 'self-service' test drive centers allowing customers to test drive their electric vehicles using o... -
+Tesla,2024-11,20:02:27  [DAIONL] (TSLA.O) - As easy as booking a Lime bike: Tesla opens 17 'Self-Serve' test drive centres that let customers try its EVs using only the app -
+Tesla,2024-11,19:42:08  [NEWUSN] (TSLA.O) - Auto sector Daily Newsletter: Today's Announcements End of Day (EOD) -
+Tesla,2024-11,"I am writing with regard the topic of Vehicle Safety and automated/connected vehicles. I understand this is handled by Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs."
+Tesla,2024-11,"19:02:25  [THEGRD] (TSLA.O) - One year on, we know this: Sweden's trade unions are more than a match for Elon Musk -"
+Tesla,2024-11,"18:22:05  [BENZIN] - Tesla Can Make Cybercab For The Same Money It Takes Waymo To Install Lidar Sensors On Its Robotaxi, Says Ark Analyst -"
+Tesla,2024-11,17:42:15  [DIGITI] (TSLA.O) - BYD quarterly sales top Tesla for first time in 3Q24 -- -
+Tesla,2024-11,"""I think there was a massive corporate lobby for cheap labor in the US and that is the main thing that's going on."
+Tesla,2024-11,"ROGAN: ""What drives me crazy is that somehow it's discriminatory to require ID to vote. I've tired to look at this as charitably as possible, it only makes sense if you're trying to cheat."""
+Tesla,2024-11,16:06:35  [AUSBUS] (TSLA.O) - Industrial park in Kyle that's leased by Tesla is sold -
+Tesla,2024-11,"15:46:37  [LATNIG] (TSLA.O) - Frustrated By Tesla's Inability To Repair His Cybertruck, Man Used A $12 Part. Here's How He Solved The Issue -- -"
+Tesla,2024-11,"15:27:06  [TURAGE] (TSLA.O 002594.SZ) - Chinese BYD surpassed ""Tesla"" in revenue for the first time in Q3 -"
+Tesla,2024-11,"15:07:13  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Thursday October 31, 2024 00:02 EDT -"
+Tesla,2024-11,"13:57:57  [GLOSTP] (.IXIC TSLA.O) - Monthly: Tesla (TSLA: $249.85) loses $38 billion in MCap in October, biggest drop in Auto sector -"
+Tesla,2024-11,13:53:39  [KORJOO] (TSLA.O) - Viral Olympic shooter Kim Ye-ji becomes Tesla Korea's brand ambassador after Elon Musk's fanboy moment -- -
+Tesla,2024-11,"13:43:37  [FINGEV] (AMZN.O TSLA.O) - Apple, Amazon, Intel, Peloton, And Tesla: Why These 5 Stocks Are On Investors' Radars Today -- -"
+Tesla,2024-11,"13:32:10  [BENZIN] (META.O BTC=) - Cathie Wood Bets Big On Mark Zuckerberg: Ark Pours $19M Into Meta Shares, Dumps Palantir And Tesla Stock -"
+Tesla,2024-11,13:02:02  [GURCOM] (TSLA.O) - Tesla (TSLA) $56 Billion Pay Package Faces Final Court Decision by Year-End -
+Tesla,2024-11,"11:48:39  [YAHNEX] (.SPX .IGX) - Tesla, Inc. (TSLA): Among The 10 Best S&P 500 Stocks to Buy According to Hedge Funds -- -"
+Tesla,2024-11,10:23:52  [RTRS] (TSLA.O) - Judge aims to rule on Elon Musk's $56 bln Tesla pay by year end -
+Tesla,2024-11,So the curve went from steadily trending towards Republican to suddenly heavy Democrat.
+Tesla,2024-11,09:07:16  [GLOSTO] (TSLA.O) - Tesla (TSLA: $249.85) in 4th consecutive fall; CFO Taneja Vaibhav sells; -$19.34 [7.2%] -
+Tesla,2024-11,"08:42:14  [RADNEW] (TSLA.O) - Musk's X ineffective against surge in US election misinformation, report says -- -"
+Tesla,2024-11,08:11:28  [NOTENG] (TSLA.O) - Tesla's sales fall behind BYD's for the first time -
+Tesla,2024-11,08:03:12  [GLOSTO] (TSLA.O) - Tesla (TSLA: $249.85) in 4th consecutive fall; CFO Taneja Vaibhav sells; -$19.34 [7.2%] -
+Tesla,2024-11,07:56:54  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: National Pension Service continued to increase its shareholding -
+Tesla,2024-11,07:56:53  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Asset Management One Co. augments its shareholding by 1.3% -
+Tesla,2024-11,07:56:52  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: MN Services Vermogensbeheer trims its shareholding by 2.3% -
+Tesla,2024-11,07:56:51  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Robeco Institutional Asset Management increases its shares by 12.9% -
+Tesla,2024-11,07:56:50  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Belvedere Trading increases its holding in Tesla -
+Tesla,2024-11,07:56:49  [NEWWIR] (AMAL.O TSLA.O) - Tesla Third Quarter 13F Filing: Amalgamated Bank trims its shareholding by 2.0% -
+Tesla,2024-11,07:51:54  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Yousif Capital Management continued to decrease its shareholding -
+Tesla,2024-11,07:51:53  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: QRG CAPITAL MANAGEMENT adds 9.8% to its shares -
+Tesla,2024-11,07:51:52  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Janney Montgomery Scott augments its shareholding by 4.3% -
+Tesla,2024-11,07:51:51  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Oregon Public Employees Retirement Fund trims its shareholding by 0.4% -
+Tesla,2024-11,07:51:50  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Gulf International Bank (uk) trims its shareholding by 3.8% -
+Tesla,2024-11,07:51:49  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: UG Investment Advisers slashes 57.2% of its shareholding -
+Tesla,2024-11,07:51:48  [NEWWIR] (TSLA.O 8750.T) - Tesla Second Quarter 13F Filing: Dai-Ichi Life Insurance Co cuts 6.0% of its shares -
+Tesla,2024-11,07:46:58  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: La Banque Postale Asset Management augments its shareholding by 1.0% -
+Tesla,2024-11,07:46:57  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Liontrust Investment Partners reduces its shares by 19.4% -
+Tesla,2024-11,"07:23:07  [RTRS] (USD= TSLA.O) - Stocks fall with Meta, Microsoft; dollar dips after U.S. data (GLOBAL MARKETS) -"
+Tesla,2024-11,"07:01:42  [INSMON] (.SPX .IGX) - Tesla, Inc. (TSLA): Among The 10 Best S&P 500 Stocks to Buy According to Hedge Funds -- -"
+Tesla,2024-11,06:54:38  [FCH] (TSLA.O) - Fitch Revises Tesla Electric Vehicle Trust 2023-1 Subordinate Note Outlook; Affirms All Notes -
+Tesla,2024-11,06:54:09  [LATNIG] (TSLA.O) - Ford pauses F-150 Lightning production as Tesla Cybertruck heats up -- -
+Tesla,2024-11,06:47:10  [GURCOM] (TSLA.O) - Musk Ordered to Philadelphia Hearing Over $1 Million Voter Sweepstakes -
+Tesla,2024-11,06:32:57  [POCLIN] (TSLA.O) - Ford is finally offering customers its own branded Tesla Supercharger adapter -
+Tesla,2024-11,06:22:12  [GLOSTO] (TSLA.O) - Tesla (TSLA: $249.91) slides 3.0% strengthening above moving average price; -$7.64 [-3.0%] -
+Tesla,2024-11,"06:15:40  [ACSWIR] (TSLA.O) - SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims   On Behalf of Investors of Tesla, Inc. - TSLA -"
+Tesla,2024-11,"06:13:40  [NOTENG] (TSLA.O) - Video: An automatic Tesla saved a pedestrian's life, but ended up causing a shocking accident -"
+Tesla,2024-11,06:02:49  [GLOTRA] (TSLA.O .NDX) - Tesla (TSLA: $249.91) slides 3.0% strengthening above moving average price; -$7.64 [-3.0%] -
+Tesla,2024-11,"05:57:06  [TRADAJ] (MTAV.TA) - Meitav Investment House Ltd. Has $36.38 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,05:50:16  [DIGTRE] (TSLA.O) - Elon Musk reportedly will blow $10 billion on AI this year -- -
+Tesla,2024-11,05:47:25  [GLOSTO] (TSLA.O) - Tesla (TSLA: $249.91) slides 3.0% strengthening above moving average price; -$7.64 [-3.0%] -
+Tesla,2024-11,05:34:38  [LATNIG] (TSLA.O) - Ford's free replacement for its Telsa Supercharger adapter starts shipping today -- -
+Tesla,2024-11,"05:22:43  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $259.41) strengthens above moving average price Thursday October 31, 2024 11:31 EDT -"
+Tesla,2024-11,"05:22:36  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $259.41) strengthens above moving average price Thursday October 31, 2024 10:33 EDT -"
+Tesla,2024-11,"05:22:26  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $257.55) Thursday October 31, 2024 07:10 EDT -"
+Tesla,2024-11,05:17:16  [UTODAY] (TSLA.O MSTR.O) - Prominent Tesla Short-Seller Issues Major MicroStrategy Warning -
+Tesla,2024-11,05:14:40  [TECHCR] (TSLA.O) - Ford pauses F-150 Lightning production as Tesla Cybertruck heats up -- -
+Tesla,2024-11,"05:02:17  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR232.60) loses EUR27 billion ($29 billion) (3.6%) in MCap, steepest heavyweight fall in Health care sector; -E... -"
+Tesla,2024-11,"04:32:59  [CERGEM] (0984.HK) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by E Fund Management Hong Kong Co. Ltd. -"
+Tesla,2024-11,"04:32:48  [CERGEM] - Tesla, Inc. (NASDAQ:TSLA) Holdings Cut by Solidarity Wealth LLC -"
+Tesla,2024-11,04:13:08  [NOTENG] (TSLA.O) - Chinese BYD overtakes Elon Musk's Tesla after revenue rises 24% in last quarter -
+Tesla,2024-11,"04:07:32  [MOTFOO] (TSLA.O) - Up just 3% this year, what's going on with Tesla stock? -"
+Tesla,2024-11,"04:07:19  [TRADAJ] - Sippican Capital Advisors Makes New $223,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"03:57:16  [NEWWIR] (TSLA.O) - Tesla has been issued 3 patents focused on ""vehicle seat"" in 12 months -"
+Tesla,2024-11,"03:53:19  [GLOBUL] (.GDAXI .IXIC) - Tesla (TSLA: $257.55) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday October 31, 2024 07:10 EDT -"
+Tesla,2024-11,03:53:08  [DAIMAV] (002594.SZ) - BYD Revenue Eclipses Tesla for First Time as EV Giants Go Head to Head -- -
+Tesla,2024-11,03:52:50  [GLOSTO] (TSLA.O 9868.HK) - Tesla continues to outperform XPeng by 7.7% in the past month -
+Tesla,2024-11,"03:52:39  [RTRS] (TSLA.O GM.N) - Ford to lower managers' bonuses if company performance fails to improve, sources say (UPDATE 1) -"
+Tesla,2024-11,"03:52:08  [WKRNEW] - O ROURKE & COMPANY Inc Makes New Investment in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,03:50:26  [RTRS] (TSLA.O) - AI venture shapes up to be glue for the Muskiverse (BREAKINGVIEWS) -
+Tesla,2024-11,"03:33:23  [MARDAJ] - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Cornerstone Wealth Group LLC -"
+Tesla,2024-11,"03:33:20  [MARDAJ] - Petra Financial Advisors Inc. Acquires New Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"03:22:42  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $257.55) Thursday October 31, 2024 07:10 EDT -"
+Tesla,2024-11,"03:22:41  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $259.41) strengthens above moving average price Thursday October 31, 2024 11:31 EDT -"
+Tesla,2024-11,"03:22:36  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $259.41) strengthens above moving average price Thursday October 31, 2024 10:33 EDT -"
+Tesla,2024-11,"Scoop: Tesla, LiveOne announce new subscriptions and pricing after amended deal"
+Tesla,2024-11,"03:17:28  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $259.41) strengthens above moving average price Thursday October 31, 2024 11:31 EDT -"
+Tesla,2024-11,03:01:31  [DNAIND] (TSLA.O) - Meet Indian man who secured job at Elon Musk's Tesla after sending... -
+Tesla,2024-11,03:01:31  [DAIANA] (TSLA.O) - Meet Indian man who secured job at Elon Musk's Tesla after sending... -
+Tesla,2024-11,"03:01:30  [DAIANA] (TSLA.O) - Meet Indian-origin engineer, who got dream job at Elon Musk's Tesla after sending 500 emails, he is... -"
+Tesla,2024-11,"03:01:29  [DNAIND] (TSLA.O) - Meet Indian-origin engineer, who got dream job at Elon Musk's Tesla after sending 500 emails, he is... -"
+Tesla,2024-11,"02:59:15  [WKRNEW] - 787 Shares in Tesla, Inc. (NASDAQ:TSLA) Purchased by Oldfather Financial Services LLC -- -"
+Tesla,2024-11,"02:57:31  [TRADAJ] (POLI.TA) - Tesla, Inc. (NASDAQ:TSLA) Position Increased by Bank Hapoalim BM -"
+Tesla,2024-11,02:53:17  [GLOSTO] (TSLA.O) - Tesla continues to underperform Ferrari by 4.6% in the past month -
+Tesla,2024-11,"02:53:12  [DEAHOL] (TSLA.O) - ""Illegal Lottery"" Suit Against Elon Musk Put On Hold By Philadelphia Judge -- -"
+Tesla,2024-11,"02:41:41  [RTRS] (USD= TSLA.O) - Stocks drop with Meta, Microsoft; dollar eases after U.S. data (GLOBAL MARKETS) -"
+Tesla,2024-11,"02:27:25  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $259.41) strengthens above moving average price Thursday October 31, 2024 10:33 EDT -"
+Tesla,2024-11,02:22:07  [BENZIN] (002594.SZ) - Chinese EV Behemoth BYD Tops Tesla's Revenue For First Time Since 2022 In Q3 -
+Tesla,2024-11,02:22:06  [BENZIN] - Tesla Remains California's Top EV Choice Even As Registrations Drop: Cybertruck Among 10 Best-Selling EVs In Golden State -
+Tesla,2024-11,02:08:11  [COMEXE] (TSLA.O) - Tesla To Open New Seattle-Area Office Location -- -
+Tesla,2024-11,01:52:48  [GLOWEE] (TSLA.O) - What the Beneish M-score tells us about Tesla -
+Tesla,2024-11,"01:52:47  [GLOBUL] (.GDAXI .IXIC) - Tesla (TSLA: $257.55) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday October 31, 2024 07:10 EDT -"
+Tesla,2024-11,"01:52:01  [BENZIN] - Tesla To Expand 'Actually Smart Summon' Feature Beyond US, Eyeing Europe And China Rollout -"
+Tesla,2024-11,01:50:37  [CAPBRO] (TSLA.O) - Elon Musk doesn't show at Philadelphia hearing over super PAC's $1 million lottery for voters -- -
+Tesla,2024-11,01:36:09  [RTRS] (TSLA.O) - PENNSYLVANIA JUDGE PUTS MUSK CASE ON HOLD WHILE FEDERAL COURT CONSIDERS CASE - COURT HEARING -
+Tesla,2024-11,"01:32:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $259.41) strengthens above moving average price, ranks 8 in today's top 20 rises; +$1.86 [0.7%] -"
+Tesla,2024-11,01:23:24  [GLOTRA] (TSLA.O .NDX) - Tesla (TSLA: $259.41) strengthens above moving average price; +$1.86 [0.7%] -
+Tesla,2024-11,"01:23:01  [NEWBIH] (TSLA.O) - October 24, 2024: RBC Capital Markets: Tesla surges on outlook -"
+Tesla,2024-11,01:20:38  [CAPFMK] (TSLA.O) - China's BYD overtakes Tesla revenue for first time -- -
+Tesla,2024-11,"01:12:34  [NEWBIH] (TSLA.O) - October 30, 2024: Sunday Business Post Ltd: BYD revenue eclipses Tesla for first time as EV giants go head to head -"
+Tesla,2024-11,01:09:50  [VERGEA] (TSLA.O) - Ford is offering its own Tesla Supercharger adapter to EV customers after rocky rollout -- -
+Tesla,2024-11,"The future of A.I. might look at that and say not bad for bunch of monkeys."""
+Tesla,2024-11,"00:57:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $259.41) strengthens above moving average price, ranks 8 in today's top 20 rises; +$1.86 [0.7%] -"
+Tesla,2024-11,00:56:34  [WNCOMA] (TSLA.O SHEL.L) - Energy giant Shell reports drop in third-quarter net profit -- -
+Tesla,2024-11,"00:53:01  [GLOSTO] (TSLA.O) - Tesla (TSLA: $258.22) lifts, ranks 9 in today's top 16 rises; +67c [0.3%] -"
+Tesla,2024-11,00:52:10  [GLOSTO] (TSLA.O) - Tesla continues to underperform General Motors by 12.0% in the past month -
+Tesla,2024-11,00:31:11  [BARCHA] (TSLA.O) - 1 Electric Vehicle ETF to Buy With 2025 Around the Corner -- -
+Tesla,2024-11,00:25:34  [MOTFOL] (TSLA.O) - 1 Electric Vehicle ETF to Buy With 2025 Around the Corner -- -
+Tesla,2024-11,00:24:04  [FINLAW] (TSLA.O) - Federal Energy Regulatory Commission Issues Letter to Colorado Springs Utilities providing a comment on the 08/27/2024 responses to the Dam Safety ... -
+Tesla,2024-11,00:24:03  [FINLAW] (TSLA.O) - Federal Energy Regulatory Commission Issues Letter to Colorado Springs Utilities discussing the 08/27/2024 annual review of the Owner's Dam Safety ... -
+Tesla,2024-11,00:22:04  [RTRS] (TXN.O TSLA.O) - ST targets China growth after trimming forecast again (UPDATE 3) -
+Tesla,2024-11,"00:17:00  [GLOSTO] (TSLA.O) - Tesla (TSLA: $258.22) lifts, ranks 9 in today's top 16 rises; +67c [0.3%] -"
+Tesla,2024-11,"00:14:07  [NOTENG] (TSLA.O) - Autonomous car averted a tragedy, but caused an accident and opened debate -"
+Tesla,2024-11,00:08:24  [YAHSIN] (TSLA.O) - Ford's free replacement for its Telsa Supercharger adapter starts shipping today -- -
+Tesla,2024-11,"00:07:27  [WKRNEW] - Goldstone Financial Group LLC Buys Shares of 6,597 Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,00:03:19  [ARACON] (TSLA.O) - Chinese EV-maker BYD's quarterly revenue races past Tesla for first time -
+Tesla,2024-11,14:39:13  [RTRS] (TSLA.O GM.N) - Senate Republicans seek to end EV tax credit by September 30 -
+Tesla,2024-11,23:57:30  [GLOTRA] (TSLA.O) - Tesla (TSLA: $247.26) lifts 1.8% strengthening above moving average price; +$4.42 [1.8%] -
+Tesla,2024-11,"23:52:17  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Gulf International Bank UK Ltd -"
+Tesla,2024-11,23:47:25  [GLOSTO] (TSLA.O) - Investors concerned as Tesla down in recent days -
+Tesla,2024-11,23:47:06  [RTRS] (TSLA.O PLTR.N) - Futures gain as voting to elect next U.S. president begins (US STOCKS) -
+Tesla,2024-11,"23:40:39  [RTRS] (TSLA.O) - Musk now says it's 'pointless' to build a $25,000 Tesla for human drivers -"
+Tesla,2024-11,23:37:15  [BUSINT] (TSLA.O) - Tesla criticizes Biden's plan to ban Chinese tech in cars -
+Tesla,2024-11,"23:37:04  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.26) lifts 1.8% strengthening above moving average price, ranks 3 in today's top 20 rises; +$4.42 [1.8%] -"
+Tesla,2024-11,"23:22:32  [WATNEW] (TSLA.O) - FSM Wealth Advisors LLC Has $1.34 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,23:21:59  [BENZIN] (TSLA.O) - Tesla Hikes Wages By 4% For Giga Berlin Employees: Report -
+Tesla,2024-11,23:12:01  [NOTENG] (TSLA.O) - Musk gives a million dollars to anyone who promotes Trump. Pennsylvania judge doesn't object -
+Tesla,2024-11,"23:02:53  [MARDAJ] (TSLA.O) - Intact Investment Management Inc. Sells 400 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,23:02:06  [GURCOM] (TSLA.O) - Tesla (TSLA) Boosts Employee Salaries Amid Industry Challenges -
+Tesla,2024-11,"22:52:15  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $242.84) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Tuesday November 05, 2024 06:11 EST -"
+Tesla,2024-11,"22:47:32  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $242.84) Tuesday November 05, 2024 06:11 EST -"
+Tesla,2024-11,"22:46:11  [YAHNEX] (TSLA.O) - Meet Musk's Fixer, the Powerful Executive Reshaping Tesla -- -"
+Tesla,2024-11,"22:40:13  [ECOCOM] (TSLA.O) - Elon Musk now says it's 'pointless' to build a $25,000 Tesla for human drivers -- -"
+Tesla,2024-11,"22:20:45  [YAHSIN] (TSLA.O) - Musk now says it's 'pointless' to build a $25,000 Tesla for human drivers -- -"
+Tesla,2024-11,"22:20:11  [EDGEMA] (TSLA.O) - Musk now says it's 'pointless' to build a US$25,000 Tesla for human drivers -- -"
+Tesla,2024-11,22:17:01  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: State of New Jersey Common Pension Fund D increases its holding in Tesla -
+Tesla,2024-11,22:16:59  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Los Angeles Capital Management & Equity Research accumulates another 35.8% -
+Tesla,2024-11,22:16:30  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: State Treasurer State of Michigan trims its shareholding by 0.6% -
+Tesla,2024-11,"22:14:47  [YAHNEX] (TSLA.O) - Musk now says it's 'pointless' to build a $25,000 Tesla for human drivers -- -"
+Tesla,2024-11,22:12:50  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Johnson Investment Counsel continued to decrease its shareholding -
+Tesla,2024-11,"22:12:32  [GURCOM] (TSLA.O) - Tesla Increases Pay by 4% at Berlin Gigafactory, Secures Jobs for Temporary Workers -"
+Tesla,2024-11,22:12:12  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Robecosam reduces its shares by 14.1% -
+Tesla,2024-11,22:12:10  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: IvyRock Asset Management (HK) reduces its shares by 11.7% -
+Tesla,2024-11,22:12:10  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Acadian Asset Management slashes 69.5% of its shareholding -
+Tesla,2024-11,22:12:08  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: PFG Investments reduces its shares by 15.0% -
+Tesla,2024-11,22:12:07  [NEWWIR] (TSLA.O) - Tesla Fourth Quarter 13F Filing: Lombard Odier Asset Management (Europe) slashes 40.3% of its shareholding -
+Tesla,2024-11,22:07:02  [NEWWIR] (TSLA.O) - Tesla Fourth Quarter 13F Filing: Banque Pictet & Cie SA decreases its shareholding by 21.7% -
+Tesla,2024-11,22:07:02  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Brookstone Capital Management augments its shareholding by 2.5% -
+Tesla,2024-11,22:07:01  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 0.7% -
+Tesla,2024-11,22:06:59  [NEWWIR] (TSLA.O) - Tesla Fourth Quarter 13F Filing: The Norinchukin Bank cuts 6.2% of its shares -
+Tesla,2024-11,"22:00:00  [RTRS] (TSLA.O) - Musk now says it's 'pointless' to build a $25,000 Tesla for human drivers -"
+Tesla,2024-11,Tickers of interest: $ES $NQ $YM $VIX $NVDA $GOOGL $TSLA $BA
+Tesla,2024-11,21:38:01  [HINDUT] (TSLA.O) - Elon Musk responds to viral pics of his college physics homework: 'There are some pages missing' -
+Tesla,2024-11,"21:32:41  [NEWPEO] (TSLA.O) - Tesla CFO Taneja Vaibhav sells shares worth $1 million (aka Vaibhav Taneja) Monday November 04, 2024 -"
+Tesla,2024-11,"21:21:13  [GULCOM] (GSAT.A TSLA.O) - Apple invests $1.5 billion in Globalstar to expand satellite coverage, Tesla next with 'Pi Phone'? -- -"
+Tesla,2024-11,"21:17:37  [BENZIN] (TSLA.O) - Elon Musk Rejects Rumors Of A Tesla Phone, But Says The EV Giant Will Have To Make One If This Happens -"
+Tesla,2024-11,21:16:43  [STRMLS] (TSLA.O) - Tesla increases wages for staff at German gigafactory by 4% -- -
+Tesla,2024-11,"21:12:14  [MARBEA] (TSLA.O) - Van ECK Associates Corp Trims Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,21:12:07  [INDEPE] (TSLA.O) - Azealia Banks makes dramatic endorsement switch as she lashes out at 'dirtbag' Elon Musk -
+Tesla,2024-11,21:10:44  [CHAASI] (TSLA.O) - Tesla increases wages for staff at German gigafactory by 4% -- -
+Tesla,2024-11,21:05:42  [YAHSIN] (TSLA.O) - Tesla increases wages for staff at German gigafactory by 4% -- -
+Tesla,2024-11,21:02:26  [BUSINT] (TSLA.O) - BYD's hybrid popularity catches up to Tesla in China -
+Tesla,2024-11,20:59:18  [RTRS] (VOWG_p.DE TSLA.O) - Tesla increases wages for staff at German gigafactory by 4% (UPDATE 1) -
+Tesla,2024-11,"20:41:02  [GULCOM] (GSAT.A TSLA.O) - Apple expands in satellite phone tech, Tesla next with 'Pi Phone'? -- -"
+Tesla,2024-11,20:36:36  [RTRS] (TSLA.O) - TESLA: WAGES OF ALL EMPLOYEES AT GIGAFACTORY OUTSIDE BERLIN TO INCREASE BY 4% AS OF NOV.1 2024 -
+Tesla,2024-11,"20:32:01  [BENZIN] (TSLA.O) - Tesla Makes 10,000th Megapack At California As Energy Segment Booms -"
+Tesla,2024-11,20:12:52  [NOTENG] (.IXIC TSLA.O) - Wall Street closes mixed after a session dominated by Tesla and its strong rally -
+Tesla,2024-11,"19:47:03  [BENZIN] (TSLA.O) - GM Crosses 300K EV Deliveries In US Since 2016, But It's Still Over 40% Lower Than Tesla's Sales In The First 9 Months Of 2024 -"
+Tesla,2024-11,19:37:15  [GURCOM] (TSLA.O) - Tesla (TSLA) Plans to Launch One of Its Largest Charging Stations in California -
+Tesla,2024-11,"19:20:40  [KORTIM] (TSLA.O LVMH.PA) - Shooter Kim Ye-ji wins hearts of Tesla, CU, Louis Vuitton -"
+Tesla,2024-11,"18:47:14  [FINGEV] (TSLA.O) - GM Crosses 300K EV Deliveries In US Since 2016, But It's Still Over 40% Lower Than Tesla's Sales In The First 9 Months Of 2024 -- -"
+Tesla,2024-11,17:52:03  [GURCOM] (TSLA.O) - Tesla (TSLA) CEO Elon Musk Dismisses Rumors of Tesla Smartphone Development -
+Tesla,2024-11,"Republican turnout on election day is usually much higher than Democrat, so any state currently leaning R in early voting is very likely to side with Trump."
+Tesla,2024-11,"If there was ever a better executed Republican ground game, I would like to learn from it. -"
+Tesla,2024-11,"Elon's biggest takeaway is that MEN need to vote. If Kamala wins, swing states may be lost forever, and there goes democracy."
+Tesla,2024-11,17:17:44  [TIMLIV] (TSLA.O) - Tesla's October China-made EV sales fall 5.3% year-on-year -- -
+Tesla,2024-11,"17:14:05  [NOTENG] (TSLA.O) - Filipe Ret buys Rio's first Tesla Cybertruck, valued at R$1.5 million: see the rapper's other cars -"
+Tesla,2024-11,17:02:42  [GURCOM] (TSLA.O) - Tesla (TSLA) Launches Incentive Program with Exclusive Factory Tour Prize -
+Tesla,2024-11,16:43:20  [FINGEV] (LHAG.DE DTIL.O) - Ad hoc announcement pursuant to Art. 53 LR News Release -- -
+Tesla,2024-11,"16:10:07  [LIVEMI] (TSLA.O) - Meet Musk's fixer, the powerful executive reshaping Tesla -- -"
+Tesla,2024-11,16:01:39  [GULCOM] (TSLA.O) - Musk $1 million contest survives lawsuit by Philadelphia DA -- -
+Tesla,2024-11,"15:41:22  [CENAFT] (TSLA.O) - After change in Economy, NL Government still insists on Tesla investment -"
+Tesla,2024-11,15:27:06  [TIMINT] (TSLA.O) - US Presidential election 2024: Elon Musk's lawyer admits his $1 million lottery winners are pre-selected -- -
+Tesla,2024-11,Online games are a good way to stay in touch with people around the world. -
+Tesla,2024-11,15:24:09  [CENCOM] (TSLA.O) - New Players Reshape Taiwan EV Scene as Tesla Share Falls -- -
+Tesla,2024-11,15:18:45  [UNIWIR] (TSLA.O) - Tesla third quarter earnings soar as margins rebound - The Ticker -
+Tesla,2024-11,"15:02:24  [COMFIN] (TSLA.O) - Vaibhav Taneja Sells 4,000 Shares of Tesla, Inc. (NASDAQ:TSLA) Stock -"
+Tesla,2024-11,"14:52:07  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Monday November 04, 2024 22:49 EST -"
+Tesla,2024-11,"14:52:01  [BENZIN] (META.O TSLA.O) - Cathie Wood's Latest Shake-up: Dumps Palantir And Jack Dorsey's Block Along With Tesla, Buys Amazon And Meta -"
+Tesla,2024-11,"14:32:08  [MARBEA] (TSLA.O) - Vaibhav Taneja Sells 4,000 Shares of Tesla, Inc. (NASDAQ:TSLA) Stock -- -"
+Tesla,2024-11,"""If the Dems win this election, they will legalize enough illegals to turn the swing states and everywhere will be like California."""
+Tesla,2024-11,13:53:09  [INQNEW] (TSLA.O) - US judge declines to block Musk's $1 million election giveaways -- -
+Tesla,2024-11,13:42:04  [GURCOM] (TSLA.O) - Tesla Announces Shanghai Factory Tour Prize for New Buyers -
+Tesla,2024-11,13:25:31  [SKYAUS] (TSLA.O) - Elon Musk rips Democratic party for spreading 'hoaxes' about Donald Trump -- -
+Tesla,2024-11,13:19:11  [INQNEW] (TSLA.O) - US judge declines to block Musk's $1 million election giveaways -- -
+Tesla,2024-11,"13:07:14  [BENZIN] (TSLA.O) - Jim Cramer Keeps Recommending Tesla Because He Loves 'Space Stuff,' But He's Not Keen On Ford: 'I Can't Recommend The Stock' -"
+Tesla,2024-11,Trump is outperforming vs 2016 and 2020 in every single consequential poll. Harris is performing worse than either Biden or Clinton did.
+Tesla,2024-11,12:12:25  [NOTENG] (TSLA.O) - Tesla's best-selling car in Chile: See its million-dollar price tag -
+Tesla,2024-11,Other countries should also do so. It is the fundamental breakthrough needed to make life multiplanetary. -
+Tesla,2024-11,11:31:46  [SPOPOW] (TSLA.O) - Olympic shooter Kim Ye-ji Tesla Korea's 1st brand ambassador -
+Tesla,2024-11,"11:13:10  [NOTENG] (TSLA.O) - ""What was he doing?"": Elon Musk reacts to Cybertruck crashes in Mexico -"
+Tesla,2024-11,"11:13:09  [LAWAAB] (TSLA.O) - Judge Cites Tesla Stock, Friendship In SpaceX Firing Recusal -- -"
+Tesla,2024-11,09:59:39  [RTRS] (TSLA.O) - Pennsylvania judge allows Elon Musk's $1 million voter giveaway (UPDATE 12) -
+Tesla,2024-11,09:36:09  [YAHNEX] (TSLA.O) - Elon Musk's Big Gamble: Will Tesla Stock Plunge if Kamala Harris Wins the Election? -- -
+Tesla,2024-11,"09:30:41  [WNCOMA] (TSLA.O) - Forget Tesla, Here's What's Real In Moving People Driverlessly -- -"
+Tesla,2024-11,"09:16:17  [FORCOO] (TSLA.O) - Forget Tesla, Here's What's Real In Moving People Driverlessly -- -"
+Tesla,2024-11,09:16:15  [AUSCAR] (TSLA.O) - Tesla Australia sales slump for seventh consecutive month -- -
+Tesla,2024-11,09:05:46  [FUTCOM] (TSLA.O) - Tesla Software Update Traps Owner's Car in Narrow Alleyway -- -
+Tesla,2024-11,"08:54:22  [GLOSTP] (.IXIC TSLA.O) - Monthly: Tesla (TSLA: $249.85) loses $38 billion in MCap in October, biggest drop in Auto sector -"
+Tesla,2024-11,08:52:02  [CRYPTT] (TSLA.O) - Chinese EV maker BYD's quarterly revenue outperforms Tesla for the first time -
+Tesla,2024-11,08:49:00  [RTRS] (TSLA.O) - PENNSYLVANIA STATE JUDGE ALLOWS ELON MUSK'S $1 MLN VOTER GIVEAWAY TO PROCEED - COURT RULING -
+Tesla,2024-11,"08:34:34  [RTRS] (TSLA.O) - Elon Musk's pro-Trump group hand-picks $1 million voter giveaway winners, aide testifies (REFILE-UPDATE 9) -"
+Tesla,2024-11,08:24:08  [KIPLIN] (TSLA.O) - Tesla Stock Extends Losing Streak Ahead of Election Day -- -
+Tesla,2024-11,"08:16:06  [ACSWIR] (TSLA.O) - SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Tesla, Inc. - TSLA -"
+Tesla,2024-11,"08:12:34  [NOTENG] (TSLA.O) - If Tesla's investment is confirmed, Coahuila will consolidate as a key supplier -"
+Tesla,2024-11,07:47:09  [YAHNEX] (TSLA.O) - Tesla Shares Slide In Pre-Market As Sales Of Elon Musk-Led Company's Made-In-China EVs Drop In October -- -
+Tesla,2024-11,07:41:41  [YAHNEX] (TSLA.O) - Critical court decisions loom for Elon Musk as he straddles politics and business -- -
+Tesla,2024-11,"07:34:21  [CERGEM] (TSLA.O) - Asset Management One Co. Ltd. Purchases 15,493 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"07:33:00  [CERGEM] (TSLA.O) - World Equity Group Inc. Increases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"07:32:40  [CERGEM] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Mn Services Vermogensbeheer B.V. -"
+Tesla,2024-11,07:27:02  [BENZIN] (TSLA.O) - Did Elon Musk Change His Mind On Celebrity Endorsements? Tesla Signs Deal With Viral Olympian In This Country -
+Tesla,2024-11,06:58:39  [CLECON] (TSLA.O) - Swedish Labor Unions Are Undaunted By Tesla Intrasigence -- -
+Tesla,2024-11,06:55:11  [WASEXA] (TSLA.O) - Elon Musk lawyers say million-dollar giveaway winners 'are not chosen by chance' -- -
+Tesla,2024-11,"06:52:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.81) keeps sliding, down 9.1% in 6 days, ranks 7 in today's top 20 falls; -$4.17 [-1.7%] -"
+Tesla,2024-11,"06:48:14  [COMFIN] (TSLA.O) - Roman Butler Fullerton & Co. Lowers Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,06:34:39  [LIVEMI] (TSLA.O) - US polls: Elon Musk's Political Action Committee tells Philadelphia court $1 million recipients 'not chosen by chance' -- -
+Tesla,2024-11,"06:34:11  [WNCOMA] (TSLA.O) - Tesla Cybertruck Lead Engineer: 'The 11,000lb Tow Rating Isn't Absolute' -- -"
+Tesla,2024-11,"06:33:12  [MARDAJ] (TSLA.O) - Northeast Investment Management Lowers Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"06:33:02  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by FIDELIS iM LLC -"
+Tesla,2024-11,"06:24:07  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $248.98) keeps sliding, down 7.5% in 5 days Monday November 04, 2024 06:11 EST -"
+Tesla,2024-11,"06:22:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $245.07) in 6th consecutive fall, ranks 7 in today's top 20 falls; -$3.91 [-1.6%] -"
+Tesla,2024-11,"06:17:26  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.81) keeps sliding, down 9.1% in 6 days, ranks 7 in today's top 20 falls; -$4.17 [-1.7%] -"
+Tesla,2024-11,06:13:06  [NOTENG] (TSLA.O) - Tesla soars 20% after announcing the possible launch of its robotaxi and boosting profits -
+Tesla,2024-11,06:08:37  [MARBEA] (TSLA.O) - Tesla (NASDAQ:TSLA) Stock Price Down 0.3% - Here's Why -- -
+Tesla,2024-11,05:52:22  [GLOSTO] (TSLA.O) - Tesla continues to outperform Tata Motors by 10.0% in the past month -
+Tesla,2024-11,"05:47:27  [GLOSTO] (TSLA.O) - Tesla (TSLA: $245.07) in 6th consecutive fall, ranks 7 in today's top 20 falls; -$3.91 [-1.6%] -"
+Tesla,2024-11,"05:47:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.92) in 6th consecutive fall, ranks 9 in today's top 20 falls; -$4.06 [-1.6%] -"
+Tesla,2024-11,"05:42:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.92) falls 1.6%, ranks 9 in today's top 20 falls; -$4.06 [-1.6%] -"
+Tesla,2024-11,"05:39:40  [WKRNEW] (TSLA.O) - Blue Square Asset Management LLC Raises Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,"05:37:20  [WATNEW] (TSLA.O) - Signify Wealth Has $3.70 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"05:12:18  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.92) in 6th consecutive fall, ranks 9 in today's top 20 falls; -$4.06 [-1.6%] -"
+Tesla,2024-11,"05:12:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.92) falls 1.6%, ranks 9 in today's top 20 falls; -$4.06 [-1.6%] -"
+Tesla,2024-11,"05:07:12  [TELTOD] (TSLA.O) - KTR questions CM, Ministers for making no efforts to attract Tesla to Telangana -- -"
+Tesla,2024-11,05:07:00  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR227.70) drops 1.4% on slipping relative strength; -EUR3.15 [1.4%] Vol Index 10.2 [1 is avg] -
+Tesla,2024-11,05:03:11  [FINBOL] (TSLA.O) - Wall Street analyst's Tesla stock prediction if Trump wins -
+Tesla,2024-11,"04:59:40  [WKRNEW] (TSLA.O) - Silicon Valley Capital Partners Sells 140 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,"04:57:24  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.25) keeps sliding, down 9.3% in 6 days, ranks 7 in today's top 20 falls; -$4.73 [-1.9%] -"
+Tesla,2024-11,"04:57:15  [NEWWIR] (TSLA.O) - Tesla has been issued 2 patents around ""energy storage device"" in 2024 -"
+Tesla,2024-11,04:52:46  [GLOSTO] (2015.HK TSLA.O) - Tesla continues to underperform Li Auto by 1.8% in the past month -
+Tesla,2024-11,04:52:43  [GLOSTO] (TSLA.O) - Tesla continues to outperform Bayerische Motoren Werke by 3.9% in the past month -
+Tesla,2024-11,"04:52:11  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.25) in 6th consecutive fall, ranks 7 in today's top 20 falls; -$4.73 [-1.9%] -"
+Tesla,2024-11,"04:45:40  [AUTCOO] (TSLA.O RENA.PA) - Tesla Model Y poised to win September sales race; VW, Renault in tight battle for No. 2 -- -"
+Tesla,2024-11,04:32:35  [BENZIN] (TSLA.O) - Tesla Vs. Nvidia Stock Performance Under Biden Might Reveal Truth About Elon Musk's Support For Trump -
+Tesla,2024-11,04:31:46  [AFACOM] (TSLA.O) - Olympic shooter Kim Ye-ji becomes Tesla Korea's first brand ambassador -
+Tesla,2024-11,"04:27:24  [GLOUPF] (TSLA.O) - Quarterly Report Analysis Q3 2024: Tesla EPS jumps 48% Corporate Wire Date: 04 November 2024 10:46 EST Release Date: October 24, 2024 -"
+Tesla,2024-11,"04:23:22  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $248.98) keeps sliding, down 7.5% in 5 days Monday November 04, 2024 06:11 EST -"
+Tesla,2024-11,"04:22:22  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.25) keeps sliding, down 9.3% in 6 days, ranks 7 in today's top 20 falls; -$4.73 [-1.9%] -"
+Tesla,2024-11,"04:22:22  [GLOSTO] (TSLA.O) - Tesla (TSLA: $244.25) in 6th consecutive fall, ranks 7 in today's top 20 falls; -$4.73 [-1.9%] -"
+Tesla,2024-11,"04:17:31  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.85) decreases $1.13, ranks 18 in today's top 20 falls; -$1.13 [-0.5%] -"
+Tesla,2024-11,"04:17:26  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.85) keeps sliding, down 7.9% in 6 days, ranks 18 in today's top 20 falls; -$1.13 [-0.5%] -"
+Tesla,2024-11,04:15:20  [RTRS] (USD= TSLA.O) - Wall St struggles to gain as uncertainty around U.S. election grows (US STOCKS) -
+Tesla,2024-11,04:01:34  [EXCMED] (TSLA.O) - Driving star power: Tesla shifts gears with first celeb ambassador -
+Tesla,2024-11,"03:57:21  [NEWWIR] (TSLA.O) - Tesla has been issued 3 patents around ""vehicle seat"" in 2024 -"
+Tesla,2024-11,"03:47:21  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.85) decreases $1.13, ranks 18 in today's top 20 falls; -$1.13 [-0.5%] -"
+Tesla,2024-11,"03:47:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $247.85) keeps sliding, down 7.9% in 6 days, ranks 18 in today's top 20 falls; -$1.13 [-0.5%] -"
+Tesla,2024-11,"Model 3 is the only vehicle that has passed a drill-and-crash truck test, and it's getting a lot of safety attention in China."
+Tesla,2024-11,"Watch the new video I just uploaded, and compare the vehicles."
+Tesla,2024-11,Other cars aren't even protected by the A-pillar in the first place.
+Tesla,2024-11,03:31:52  [BENZIN] (TSLA.O) - Tesla Reigns Supreme In Texas EV Market As Drivers Weigh Environment Vs. Savings -
+Tesla,2024-11,"03:23:15  [WKRNEW] (MBT.PS TSLA.O) - Quintet Private Bank Europe S.A. Grows Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,"03:17:18  [GLOSTO] (TSLA.O) - Tesla (TSLA: $243.81) in 6th consecutive fall, ranks 4 in today's top 20 falls; -$5.17 [-2.1%] -"
+Tesla,2024-11,1. The biggest issue that people face is inflation. The average working family is having a hard time making ends meet. They blame Biden / Harris.
+Tesla,2024-11,03:02:12  [GURCOM] (TSLA.O) - Tesla (TSLA) Shares Drop 2% on Lower Shanghai Deliveries -
+Tesla,2024-11,"02:57:32  [NEWWIR] (TSLA.O) - Quarterly Report Analysis Q3 2024: Tesla EPS jumps 48% Tuesday November 05, 2024 10:46 EST -"
+Tesla,2024-11,"02:47:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $243.81) in 6th consecutive fall, ranks 4 in today's top 20 falls; -$5.17 [-2.1%] -"
+Tesla,2024-11,02:29:43  [RTRS] (USD= TSLA.O) - Wall St struggles for direction as uncertainty around U.S. election grows (US STOCKS) -
+Tesla,2024-11,"02:12:13  [YAHNEX] (TSLA.O) - Tesla FSD Fails to Detect Deer in Nighttime Collision, Raising Safety Concerns -- -"
+Tesla,2024-11,02:11:20  [FORMID] (TSLA.O) - Tesla Shares Dip Over 3% As China-Made EV Sales In October Fall 5.3% -- -
+Tesla,2024-11,"01:57:12  [GURCOM] (TSLA.O) - Tesla FSD Fails to Detect Deer in Nighttime Collision, Raising Safety Concerns -"
+Tesla,2024-11,01:52:40  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-11,01:52:33  [GLOSTO] (TSLA.O) - Tesla continues to outperform Volkswagen by 4.9% in the past month -
+Tesla,2024-11,01:48:30  [FINLAW] (TSLA.O) - Federal Energy Regulatory Commission: Colorado Springs Utilities submits response to FERC's 10/29/2024 letter re the 2024 Dam Safety Inspection of ... -
+Tesla,2024-11,"01:47:26  [CNEVPO] (TSLA.O) - Tesla China sells 68,280 cars in Oct, down 22.69% from Sept -"
+Tesla,2024-11,01:45:09  [YAHNEX] (TSLA.O) - Tesla EV sales in China fall 5.3% in October -- -
+Tesla,2024-11,"01:27:55  [YAHNEX] (TSLA.O) - If Elon Musk heads up DOGE, it may unsettle Tesla stock: Analyst -- -"
+Tesla,2024-11,01:27:26  [MOTFOO] (TSLA.O) - Elon Musk's Big Gamble: Will Tesla Stock Plunge if Kamala Harris Wins the Election? -
+Tesla,2024-11,01:24:21  [MOTFOL] (TSLA.O) - Elon Musk's Big Gamble: Will Tesla Stock Plunge if Kamala Harris Wins the Election? -- -
+Tesla,2024-11,xAI will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.
+Tesla,2024-11,"01:02:25  [AUSAME] (TSLA.O) - In Kyle, five-building industrial park leased to Tesla gets new owner -"
+Tesla,2024-11,01:01:43  [WALLST] (TSLA.O GM.N) - Tesla and Ford Threat Is Quality of China EVs -
+Tesla,2024-11,00:54:50  [WNCOMA] (TSLA.O) - Bidirectional charging EV batteries could help EU save over $23 billion a year -- -
+Tesla,2024-11,"00:49:09  [AUTCOO] (TSLA.O) - Tesla, after strong Q3, sees China shipments slip in October -- -"
+Tesla,2024-11,23:22:22  [BENZIN] (TSLA.O) - Trump And Tesla: What The Future Holds For Elon Musk's EV Giant In Case Of A GOP Win -
+Tesla,2024-11,"23:21:22  [WKRNEW] (TSLA.O) - Lansing Street Advisors Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,23:17:05  [PROINX] (TSLA.O) - Tesla faces potential 'backfire' effect from Musk's support for Trump -
+Tesla,2024-11,23:12:05  [NOTENG] (TSLA.O) - Tesla sees sales in China shrink and BYD pulls away -
+Tesla,2024-11,23:02:02  [PROINV] (TSLA.O) - Tesla faces potential 'backfire' effect from Musk's support for Trump -
+Tesla,2024-11,22:54:39  [ABFJOU] (TSLA.O) - Bloomberg: Deutsche Bank Markets $499MM of Solar Equipment Loan-Backed Debt Sold by Tesla -- -
+Tesla,2024-11,22:53:47  [RTRS] (TSLA.O NVDA.O) - Market value of Nvidia and TSMC surges in October on strong AI chip demand (GRAPHIC) -
+Tesla,2024-11,22:49:57  [ZAWYA] (TSLA.O RASI.KW) - PRESSR: Markaz: Kuwait equity markets end the month positively despite ongoing geopolitical uncertainty -
+Tesla,2024-11,"22:47:31  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $248.98) keeps sliding, down 7.5% in 5 days Monday November 04, 2024 06:11 EST -"
+Tesla,2024-11,22:22:23  [GURCOM] (TSLA.O) - Tesla (TSLA) Faces Challenges in China as Deliveries Decline -
+Tesla,2024-11,22:21:59  [BENZIN] (TSLA.O) - Tesla Shares Slide In Pre-Market As Sales Of Elon Musk-Led Company's Made-In-China EVs Drop In October -
+Tesla,2024-11,"22:18:06  [MARDAJ] (TSLA.O) - Emerald Mutual Fund Advisers Trust Decreases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"22:13:29  [NOTENG] (TSLA.O) - Tesla project remains firm, NL assures; communication continues with executives -"
+Tesla,2024-11,22:00:00  [RTRS] (TSLA.O) - Judge weighs challenge to Elon Musk's $1 million voter giveaway -
+Tesla,2024-11,21:54:10  [SOUAUA] (TSLA.O) - Tesla Australia records seventh straight month of sales decline -- -
+Tesla,2024-11,21:48:06  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-11,20:38:22  [NEWUSN] (AMAL.O TSLA.O) - Auto sector Daily Newsletter: Today's Announcements End of Day (EOD) -
+Tesla,2024-11,20:38:13  [BARCHA] (TSLA.O) - Cathie Wood and Elon Musk Say Tesla Will Be Worth $7 Trillion. So Why Are Insiders Dumping the Stock? -- -
+Tesla,2024-11,20:37:26  [RTRS] (TSLA.O) - TESLA SHARES DOWN 1.5% PREMARKET; CO'S CHINA-MADE EV SALES FOR OCTOBER DOWN 5.3% YOY. -
+Tesla,2024-11,20:35:11  [MOTFOL] (TSLA.O) - Cathie Wood and Elon Musk Say Tesla Will Be Worth $7 Trillion. So Why Are Insiders Dumping the Stock? -- -
+Tesla,2024-11,20:27:35  [MOTFOO] (TSLA.O) - Cathie Wood and Elon Musk Say Tesla Will Be Worth $7 Trillion. So Why Are Insiders Dumping the Stock? -
+Tesla,2024-11,"20:20:32  [RTRS] (TSLA.O) - CHINA AUTO INDUSTRY BODY CPCA: TESLA INC SOLD 68,280 CHINA-MADE VEHICLES IN OCTOBER -"
+Tesla,2024-11,20:16:45  [AJUNEW] (TSLA.O) - PHOTOS: K-pop icon G-Dragon arrives at airport in Cybertruck -- -
+Tesla,2024-11,19:12:41  [NOTENG] (TSLA.O) - Musk reacts to Cybertruck crash in Guadalajara: 'Stronger than a bag of nails'. -
+Tesla,2024-11,19:07:02  [BENZIN] (TSLA.O 002594.SZ) - Tesla Rival BYD Hired Over 200K Employees In 3 Months To Speed Up EV Production -
+Tesla,2024-11,Many people (including at the Town Halls) want to know where Elon stands today on Christianity. Here's his response at the Town Hall on Oct 26 in Lancaster.
+Tesla,2024-11,18:37:33  [BNEINT] (TSLA.O) - BYD surges ahead: China's EV giant outpaces Tesla in revenue race -
+Tesla,2024-11,"If you live in a blue state, Vote and bring your friends with you."
+Tesla,2024-11,"18:13:12  [NOTENG] (TSLA.O) - What happened to the cybertruck in Mexico, Tesla acknowledged failures in the past? -"
+Tesla,2024-11,17:57:07  [BENZIN] (TSLA.O) - Elon Musk's Mother Slams Biden Snubbing Tesla At EV Summit 3 Years Ago As The 'Worst Thing That Happened' To EV Giant -
+Tesla,2024-11,17:52:37  [INVAUA] (TSLA.O) - Tesla Australia records seventh straight month of sales decline -- -
+Tesla,2024-11,2. You know 1+ people who voted Hillary/Biden in 2016/2020 who are voting Trump in 2024.
+Tesla,2024-11,17:50:03  [MACAUA] (TSLA.O) - Tesla Australia records seventh straight month of sales decline -- -
+Tesla,2024-11,The only reason to ban ID is to make voting fraud untraceable.
+Tesla,2024-11,17:05:17  [AUSAME] (TSLA.O) - Industrial park leased to Tesla gets new owner -
+Tesla,2024-11,16:48:07  [WESAUT] (TSLA.O) - Tesla Australia records seventh straight month of sales decline -- -
+Tesla,2024-11,16:35:40  [HAREXP] (TSLA.O) - Tesla Australia records seventh straight month of sales decline -- -
+Tesla,2024-11,16:30:07  [LITCOM] (TSLA.O) - Tesla Australia records seventh straight month of sales decline -- -
+Tesla,2024-11,15:33:07  [CANTIO] (TSLA.O) - Tesla Australia records seventh straight month of sales decline -- -
+Tesla,2024-11,"15:21:07  [FORCOO] (TSLA.O) - As Cybertruck Sales Surge And Price Drops, Is Tesla On A Roll? -- -"
+Tesla,2024-11,"15:02:56  [CERGEM] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Prosperitas Financial LLC -"
+Tesla,2024-11,"14:17:59  [COMFIN] (TSLA.O) - Private Wealth Partners LLC Cuts Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,14:07:09  [BUSTIM] (TSLA.O BABA.N) - China's DeepRoute.ai raises US$100 million as smart driving adoption speeds up -- -
+Tesla,2024-11,How many times does this happen that we never hear about? -
+Tesla,2024-11,12:54:45  [RTRS] (TSLA.O MBGn.DE) - China's DeepRoute.ai raises $100 mln as smart driving adoption speeds up -
+Tesla,2024-11,Obama is smart and this is so thoroughly debunked that the only reasonable conclusion
+Tesla,2024-11,"12:36:09  [WATODA] (TSLA.O) - 'Delete, delete, delete': Musk's political plans put millions of Americans at risk -- -"
+Tesla,2024-11,12:20:08  [CLECON] (TSLA.O) - Fido Friendliness Could Enhance The Next Tesla Model Y Refresh -- -
+Tesla,2024-11,Remember all the private jets going around the world for meetings at at various COPs & in Davos? Remember all the talks about climate pundits living very luxurious lives & emitting massive amounts of carbon?
+Tesla,2024-11,$AVXL $PLBY $DJT $LUNR $UAVS $INDO $IBRX $RDDT $FUTU $SMCI $TSLA $TLT $AAPL and more -
+Tesla,2024-11,09:27:20  [SEECOM] (TSLA.O) - U.S. election: Tesla and the EV sector are on watch for volatility this week -
+Tesla,2024-11,"Every day until Election Day, a person who signs will be selected to earn $1M as a spokesperson for America PAC."
+Tesla,2024-11,"07:42:04  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Prosperitas Financial LLC -"
+Tesla,2024-11,I just need to stay alive long enough to see my kids grow up and humanity on Mars. -
+Tesla,2024-11,Enjoy this post with my thoughts on this at the end...
+Tesla,2024-11,"07:04:07  [INSMON] (TSLA.O) - Is Tesla, Inc. (TSLA) The Best Consumer Cyclical Stocks To Buy According to Hedge Funds? -- -"
+Tesla,2024-11,"06:48:22  [CERGEM] (TSLA.O) - Prossimo Advisors LLC Grows Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,06:26:38  [STUFFA] (TSLA.O) - BYD revenue eclipses Tesla for first time as EV giants go head to head -- -
+Tesla,2024-11,06:16:56  [NEXBIG] (TSLA.O) - Tesla FSD V13 Rollout Start Means Robotaxi Domination Starts 2025 -
+Tesla,2024-11,06:11:30  [NOTENG] (TSLA.O) - Elon Musk reacts to Cybertruck accidents in Mexico; this is what he said -
+Tesla,2024-11,06:11:12  [WNCOMA] (TSLA.O) - Tesla Short Sellers Lost A Whopping $4.2 Billion Following Q3 Earnings -- -
+Tesla,2024-11,"05:48:26  [MARDAJ] (TSLA.O) - Brooklyn FI LLC Buys New Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"04:11:41  [NOTENG] (TSLA.O) - Elon Musk defends his Tesla Cybertruck despite accidents in Mexico: ""Stronger than a bag of nails,"" he says -"
+Tesla,2024-11,"04:07:14  [WATNEW] (TSLA.O) - Prossimo Advisors LLC Has $1.02 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"But Trumps rally at MAG was full of Nazis, she said!"
+Tesla,2024-11,"03:32:16  [TRADAJ] (TSLA.O) - TrueWealth Advisors LLC Increases Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"My inclination is in favor of fluoride, but I am open to hearing evidence against it too. -"
+Tesla,2024-11,"It's very important to hear the actual voice of the people, not the filtered voice of the people."
+Tesla,2024-11,"Unless something very strange happens, Ds will have a blowout loss in PA. -"
+Tesla,2024-11,"02:17:11  [TRADAJ] (TSLA.O) - Lodestone Wealth Management LLC Has $483,000 Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"00:46:11  [MARBEA] (TSLA.O) - Janney Montgomery Scott LLC Has $84.16 Million Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,"23:51:40  [INTTIM] (TSLA.O) - Trump Administration Plans To Scrap $7,500 EV Tax Credit, Tesla Supports Move: Report -"
+Tesla,2024-11,"23:47:24  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $311.18) in bottom 1% performers of NASDAQ-100 Index Friday November 15, 2024 07:11 EST -"
+Tesla,2024-11,"23:47:20  [GLOSNI] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET STOCK SNIPPETS TESLA (TSLA: $311.18) Friday November 15, 2024 07:11 EST -"
+Tesla,2024-11,23:17:31  [NEWUSN] (TSLA.O) - Tesla top gainer among International Assets Investment Management holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:17:31  [NEWUSN] (TSLA.O JPM.N) - Tesla top gainer among JP Morgan Chase & Co holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:17:31  [NEWUSN] (TSLA.O BAC.N) - Tesla top gainer among Bank of America holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:17:30  [NEWUSN] (TSLA.O) - Tesla top gainer among Price T Rowe Associates holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:17:30  [NEWUSN] (TSLA.O) - Tesla top gainer among Vanguard Group holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:17:30  [NEWUSN] (TSLA.O) - Tesla top gainer among Geode Capital Management holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:17:30  [NEWUSN] (TSLA.O) - Tesla top gainer among Morgan Stanley holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:17:30  [NEWUSN] (TSLA.O) - Tesla top gainer among FMR holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:17:29  [NEWUSN] (STT.N TSLA.O) - Tesla top gainer among State Street holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:14:00  [NEWUSN] (TSLA.O BAC.N) - Tesla top gainer among Bank of America holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:13:59  [NEWUSN] (TSLA.O) - Tesla top gainer among Geode Capital Management holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:13:58  [NEWUSN] (TSLA.O) - Tesla top gainer among Price T Rowe Associates holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:13:57  [NEWUSN] (TSLA.O) - Tesla top gainer among Vanguard Group holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:13:57  [NEWUSN] (TSLA.O) - Tesla top gainer among Morgan Stanley holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:13:54  [NEWUSN] (TSLA.O) - Tesla top gainer among International Assets Investment Management holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:13:52  [NEWUSN] (TSLA.O) - Tesla top gainer among FMR holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:13:52  [NEWUSN] (STT.N TSLA.O) - Tesla top gainer among State Street holdings; jumps 31% in 45 days -
+Tesla,2024-11,23:13:49  [NEWUSN] (TSLA.O JPM.N) - Tesla top gainer among JP Morgan Chase & Co holdings; jumps 31% in 45 days -
+Tesla,2024-11,"23:12:03  [BENZIN] (TSLA.O) - Elon Musk Backs Calls For End To EV Subsidies, But Former Tesla Exec Warns Of 'Massive Drop' In Manufacturing Investments If Trump Follows Through -"
+Tesla,2024-11,"23:08:42  [GRECAR] (TSLA.O) - Report: Nixing EV tax credit is a Trump priority, with Tesla support -- -"
+Tesla,2024-11,22:59:47  [MOTFOL] (TSLA.O) - Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Trump Assumes the White House -- -
+Tesla,2024-11,"22:55:00  [BSW] (TSLA.O) - Reconfigurable Battery Systems (RBS) Industry Research, 2024-2034 with Tesla, Panasonic, LG Chem, and QuantumScape Dominating the $34.29 Billion Market - ResearchAndMarkets.com -"
+Tesla,2024-11,"22:46:12  [FINMAG] (TSLA.O BTC=) - Trump's Moves: No Love for Dimon, Big Business Cheers, and Tesla's Up -- -"
+Tesla,2024-11,"22:44:19  [MARBEA] (TSLA.O ZION.O) - Zions Bancorporation N.A. Raises Stock Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,22:19:18  [MARBEA] (TSLA.O) - Tesla (NASDAQ:TSLA) Downgraded by Phillip Securities to Strong Sell -- -
+Tesla,2024-11,Tickers of interest: $SPY $TLT $BTC $DIS $TSLA $RIVN $CNY
+Tesla,2024-11,22:13:56  [STOCKP] (USD= TSLA.O) - Tesla trades -5.77 percent lower on Friday 15th of November -
+Tesla,2024-11,22:12:24  [NOTENG] (TSLA.O) - Trump says Musk efficiency commission to issue reports -
+Tesla,2024-11,22:11:12  [WKRNEW] (TSLA.O) - Tesla (NASDAQ:TSLA) Stock Bought Rep. Morgan McGarvey -- -
+Tesla,2024-11,21:48:04  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-11,21:41:12  [HINDUT] (TSLA.O) - Elon Musk and Vivek Ramaswamy's DOGE kickstarts mass hiring spree with a twist; Here's how you can apply -
+Tesla,2024-11,21:29:46  [INSMON] (USD= TSLA.O) - Why Jim Cramer Won't Bet Against Tesla (TSLA) and Musk's Rising Influence in Washington? -- -
+Tesla,2024-11,21:27:02  [YAHCAN] (TSLA.O 9868.HK) - Tesla's Chinese EV competitors are racing to build their own Optimus rivals -- -
+Tesla,2024-11,21:22:19  [YAHIRE] (TSLA.O) - Tesla's Chinese EV competitors are racing to build their own Optimus rivals -- -
+Tesla,2024-11,21:12:18  [NOTENG] (TSLA.O) - Electric car sales set new record and Tesla continues to lead the way -
+Tesla,2024-11,20:52:53  [NEWUSN] (TSLA.O) - Auto sector Daily Newsletter: Today's Announcements End of Day (EOD) -
+Tesla,2024-11,20:47:29  [BUSINT] (TSLA.O) - Tesla's Chinese EV competitors are racing to build their own Optimus rivals -
+Tesla,2024-11,20:41:53  [DIGITI] (TSLA.O) - Trump's return may reshape Tesla's China battery strategy for mass-market EVs -- -
+Tesla,2024-11,"20:38:52  [MONCON] (TSLA.O) - Trump's transition team aims to kill Biden EV tax credit, Tesla representatives support proposal: Report -- -"
+Tesla,2024-11,20:25:12  [WPRPRO] (TSLA.O) - Tesery Announces 2024 Black Friday Sale on Tesla Accessories -- -
+Tesla,2024-11,20:13:16  [NOTENG] (TSLA.O) - Trump's electric car rules will be a win-win for Musk -
+Tesla,2024-11,"20:07:07  [BENZIN] (TSLA.O) - Tesla Offers 3 Months Of Free Supercharging, FSD Subscription For North American Buyers Till Year-End To Boost Deliveries -"
+Tesla,2024-11,19:36:30  [MORCAL] (TSLA.O) - US: Tesla falsely implies its EVs can drive by themselves -
+Tesla,2024-11,19:28:31  [SUNSEN] (TSLA.O) - US: Tesla falsely implies its EVs can drive by themselves -
+Tesla,2024-11,19:26:35  [BALSUN] (TSLA.O) - US: Tesla falsely implies its EVs can drive by themselves -
+Tesla,2024-11,19:25:38  [TIMNOW] (TSLA.O) - How Much Elon Musk And Vivek Ramaswamy Will Get 'Paid' To Lead 'DOGE'? -- -
+Tesla,2024-11,19:19:40  [ORLSEN] (TSLA.O) - US: Tesla falsely implies its EVs can drive by themselves -
+Tesla,2024-11,19:12:18  [EINPRE] (TSLA.O) - Tesery Announces 2024 Black Friday Sale on Tesla Accessories -
+Tesla,2024-11,19:12:15  [GRAIND] (TSLA.O) - Tesery Announces 2024 Black Friday Sale on Tesla Accessories -- -
+Tesla,2024-11,19:09:15  [EDGEMA] (TSLA.O) - Trump says Musk's efficiency panel will issue reports -- -
+Tesla,2024-11,"19:07:02  [TICREP] (TSLA.O) - Rep. Morgan McGarvey Buys Tesla, Inc. (NASDAQ:TSLA) Stock -"
+Tesla,2024-11,18:18:13  [HANIND] (TSLA.O 300750.SZ) - CATL Chairman Doubts Elon Musk's 4680 Battery Will Succeed -- -
+Tesla,2024-11,Tickers of interest: $SPY $QQQ $IWM $ARKK $KRE $SMH $TSLA $VIX
+Tesla,2024-11,17:00:00  [RTRS] (TSLA.O SPY.P) - Traders chase post-election stock gains in US options market (ANALYSIS) -
+Tesla,2024-11,16:34:13  [MSNSOU] (TSLA.O) - Elon Musk's DOGE begins mass hiring spree - but there's a huge catch -- -
+Tesla,2024-11,"16:05:14  [TRATOP] (TSLA.O) - Tesla, Rivian Drop on Report Trump Wants to End EV Credit -- -"
+Tesla,2024-11,15:23:16  [BDNCOM] (TSLA.O) - Trump's transition team aims to kill Biden EV tax credit -- -
+Tesla,2024-11,15:11:32  [NOTENG] (TSLA.O RIVN.O) - Tesla and Rivian shares fall on reports that Trump plans to eliminate tax credits for electric vehicle purchases -
+Tesla,2024-11,"15:02:52  [CERGEM] (TSLA.O) - Ashton Thomas Private Wealth LLC Has $1.30 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"14:17:58  [COMFIN] (TSLA.O) - Ferguson Wellman Capital Management Inc. Has $6.93 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,13:36:01  [YAHCAN] (TSLA.O) - Trump says Musk's efficiency panel will issue reports -- -
+Tesla,2024-11,13:25:23  [RTRS] (TSLA.O) - Trump says Musk's efficiency panel will issue reports -
+Tesla,2024-11,"13:17:40  [STOOBS] (TSLA.O KBC.BR) - KBC Group NV Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"12:45:04  [FINSWI] (TSLA.O) - Third Point Hedge Fund Buys Tesla, Dumps Micron -- -"
+Tesla,2024-11,"12:28:37  [LIVEMI] (TSLA.O RIVN.O) - Tesla, Rivian shares fall on report US President-elect Donald Trump plans to end EV tax credit -- -"
+Tesla,2024-11,"12:28:05  [LIVEMI] (TSLA.O) - Stock Market News Today Live Updates on November 15, 2024 : Tesla, Rivian shares fall on report US President-elect Donald Trump plans to end EV tax... -"
+Tesla,2024-11,11:54:09  [FINDEH] (.GDAXI .IXIC) - Tesla Stock: Shares Dip Despite Tech Sector Rally -- -
+Tesla,2024-11,11:36:04  [RTRS] (TSLA.O RIVN.O) - South Korean EV battery stocks plunge as Trump's plan to kill EV tax credit weighs (BUZZ) -
+Tesla,2024-11,"10:46:22  [ACSWIR] (TSLA.O) - SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Tesla, Inc. - TSLA -"
+Tesla,2024-11,"10:36:56  [TIMNOW] (TSLA.O) - EV Tax Credit: Why Elon Musk, Tesla Are Supporting Donald Trump's $7,500 Plan -- -"
+Tesla,2024-11,"10:29:06  [RTRS] (WFC.N TSLA.O) - Tesla, financials and other 'Trump trades' drew funds in Q3, filings show (UPDATE 2) -"
+Tesla,2024-11,"10:24:13  [FINSWI] (UBER.N TSLA.O) - Tesla is new pick for Daniel Loeb's Third Point, as hedge fund ditches Uber -- -"
+Tesla,2024-11,"10:13:13  [BUSTIM] (TSLA.O) - Tesla, Rivian drop on report Trump wants to end EV credit -- -"
+Tesla,2024-11,09:51:38  [YAHNEX] (TSLA.O) - One Big Loser of Trump's Second Term: Elon Musk -- -
+Tesla,2024-11,"09:30:14  [ASINIK] (TSLA.O) - Tesla, BYD race past legacy automakers in profits on early EV embrace -- -"
+Tesla,2024-11,09:11:10  [YAHNEX] (TSLA.O) - Tesla and Other EV Stocks Drop on Reports Trump Team Plans To Kill Tax Credit -- -
+Tesla,2024-11,"09:05:38  [JUSAUT] (TSLA.O) - Tesla issues recall for 2,400 Cybertrucks over faulty drive inverter component. -"
+Tesla,2024-11,09:04:22  [SIGDEV] (TSLA.O) - Third Point LLC Reports Share Stake In Tesla - SEC Filing -
+Tesla,2024-11,08:52:43  [RTRS] (TSLA.O) - Third Point LLC Reports Share Stake In Tesla - SEC Filing (BRIEF) -
+Tesla,2024-11,08:41:12  [YAHNEX] (TSLA.O) - Trump to Sunset EV Tax Credit: Should Tesla Investors Be Worried? -- -
+Tesla,2024-11,08:36:40  [RTRS] (TSLA.O) - THIRD POINT: CHANGE IN HOLDINGS ARE AS AT QTR-ENDED SEPT 30 VS QTR-ENDED JUNE 30 -
+Tesla,2024-11,"08:36:07  [RTRS] (TSLA.O) - THIRD POINT LLC REPORTS SHARE STAKE OF 400,000 SHARES IN TESLA - SEC FILING -"
+Tesla,2024-11,08:31:08  [RTRS] (TSLA.O RTX.N) - Wall St indexes end lower after Powell erodes hopes for December rate cut (US STOCKS) -
+Tesla,2024-11,"08:28:14  [VERGEA] (TSLA.O) - Tesla reportedly supports canceling the $7,500 EV tax credit. -- -"
+Tesla,2024-11,08:27:13  [GURCOM] (TSLA.O) - Ron Baron's Strategic Moves in Q3 2024: A Closer Look at Tesla's Position Adjustment -
+Tesla,2024-11,"08:07:05  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Lifeworks Advisors LLC -"
+Tesla,2024-11,"08:01:53  [BENZIN] (TSLA.O) - Trump Plans To Erase EV Tax Credit: Tesla Analyst Says It's 'Net Bullish,' Calls Sell-Off 'Wrong Knee-Jerk Reaction' -"
+Tesla,2024-11,08:00:30  [RTRS] (TSLA.O RTX.N) - Wall St indexes end down after Powell erodes hopes for December rate cut (US STOCKS) -
+Tesla,2024-11,"07:56:58  [GLOSTO] (TSLA.O) - Tesla (TSLA: $312.78) plunges 5.3%, steepest fall in today's top 20 falls; -$17.46 [-5.3%] -"
+Tesla,2024-11,07:52:04  [GLOSTO] (TSLA.O) - Tesla (TSLA: $315.15) in bottom 2% performers of NASDAQ-100 Index; CFO Taneja Vaibhav sells; -$15.09 [-4.6%] -
+Tesla,2024-11,"07:45:24  [SIGDEV] (TSLA.O CRWD.O) - Coatue Management Raises Share Stake In Tesla, Dissolves In Crowdstrike - SEC Filing -"
+Tesla,2024-11,"07:45:24  [SIGDEV] (TSLA.O CRWD.O) - Coatue Management Raises Share Stake In Tesla, Dissolves In Crowdstrike - SEC Filing -"
+Tesla,2024-11,"07:32:56  [RTRS] (UBER.N TSLA.O) - Coatue Management Raises Share Stake In Tesla, Dissolves In Crowdstrike - SEC Filing (BRIEF) -"
+Tesla,2024-11,"07:31:40  [ENTONL] (GM.N TSLA.O) - Tesla Is Now Worth More than Toyota, Ferrari, General Motors, Porsche, and Ford Combined -- -"
+Tesla,2024-11,"07:22:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $311.20) tumbles 5.8%, steepest fall in today's top 20 falls; -$19.04 [-5.8%] -"
+Tesla,2024-11,"07:22:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $312.78) plunges 5.3%, steepest fall in today's top 20 falls; -$17.46 [-5.3%] -"
+Tesla,2024-11,07:12:40  [NOTENG] (TSLA.O) - Trump's team wants to end aid for the purchase of electric cars. Tesla supports the measure -
+Tesla,2024-11,"07:08:09  [CHICOX] (TSLA.O) - Rivian, Tesla slide on report Trump plans to nix EV tax credit -- -"
+Tesla,2024-11,07:05:04  [RTRS] (UBER.N TSLA.O) - COATUE MANAGEMENT CUTS SHARE STAKE IN TSMC BY 17.8% TO 9.4 MLN SPONSORED ADS -
+Tesla,2024-11,07:02:41  [RTRS] (UBER.N TSLA.O) - COATUE MANAGEMENT CUTS SHARE STAKE IN QUALCOMM INC BY 76.5% TO 1.2 MLN SHARES -
+Tesla,2024-11,07:01:44  [RTRS] (UBER.N TSLA.O) - COATUE MANAGEMENT CUTS SHARE STAKE IN ADVANCED MICRO DEVICES INC BY 32.3% TO 4.2 MLN SHARES -
+Tesla,2024-11,07:00:46  [RTRS] (UBER.N TSLA.O) - COATUE MANAGEMENT RAISES SHARE STAKE IN ALIBABA TO 2.7 MLN SPONSORED ADS -
+Tesla,2024-11,06:58:28  [RTRS] (UBER.N TSLA.O) - COATUE MANAGEMENT CUTS SHARE STAKE IN UBER BY 28% TO 2.9 MLN SHARES -
+Tesla,2024-11,06:57:31  [RTRS] (TSLA.O CRWD.O) - COATUE MANAGEMENT RAISES SHARE STAKE IN TESLA INC BY 36.4% TO 2.2 MLN SHARES -
+Tesla,2024-11,"06:57:13  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Ashton Thomas Private Wealth LLC -"
+Tesla,2024-11,06:55:41  [WNCOMA] (TSLA.O) - EV makers slide on report Trump wants to scrap EV tax credit -- -
+Tesla,2024-11,"That's a massive move for any stock, especially one with a $1T market cap."
+Tesla,2024-11,"A 50% retracement isn't uncommon after a breakout move, which is the 298 range."
+Tesla,2024-11,"06:52:02  [GLOSTO] (TSLA.O) - Tesla (TSLA: $311.20) tumbles 5.8%, steepest fall in today's top 20 falls; -$19.04 [-5.8%] -"
+Tesla,2024-11,"06:48:13  [DAIOHI] (TSLA.O) - Musk and Ramaswamy won't be paid to lead new Department of Government Efficiency, Musk says -- -"
+Tesla,2024-11,"06:47:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $315.04) sinks 4.6%, steepest fall in today's top 20 falls; -$15.20 [-4.6%] -"
+Tesla,2024-11,"06:46:40  [FINGEV] (TSLA.O PLTR.N) - Jim Simons' Renaissance Technologies Shifts Gears: Microsoft In, Tesla Out, Palantir On Top -- -"
+Tesla,2024-11,"06:45:10  [ARSTEC] (TSLA.O) - Trump team puts EV tax credit on the block, Tesla is on board: Report -- -"
+Tesla,2024-11,06:44:44  [ZERHED] (TSLA.O) - Trump Team To Nuke EV Tax Credit As Musk's Price-War Endgame Looms -- -
+Tesla,2024-11,"06:42:37  [DATMTR] (TSLA.O) - Tesla issues recall for 2,400 Cybertrucks over faulty drive inverter component -"
+Tesla,2024-11,06:38:08  [RTRS] (TSLA.O RTX.N) - Wall St indexes fall after latest inflation data; Powell speech awaited (US STOCKS) -
+Tesla,2024-11,"06:24:10  [YAHAUS] (RIVN.O TSLA.O) - Rivian, Tesla Slide on Report Trump Plans to Nix EV Tax Credit -- -"
+Tesla,2024-11,"06:22:46  [GLOBUL] (TSLA.O .NDX) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $330.24) Thursday November 14, 2024 07:11 EST -"
+Tesla,2024-11,"06:22:12  [QUANAV] (TSLA.O) - Rivian, Lucid, and Tesla stocks fall as Trump plans to kill the EV tax credit -"
+Tesla,2024-11,"06:22:06  [BENZIN] (TSLA.O) - If Tesla Stock Hits All-Time Highs In 2025, Will It Be Driven By Trump-Musk Relationship? Benzinga Readers Say This -"
+Tesla,2024-11,06:18:12  [YAHNEX] (TSLA.O) - Tesla issues sixth recall this year for Cybertrucks -- -
+Tesla,2024-11,06:17:05  [PROUKA] (TSLA.O) - Tesla and Trump on collision course as president-elect reportedly scrapping EV tax credits -
+Tesla,2024-11,"06:12:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $315.04) sinks 4.6%, steepest fall in today's top 20 falls; -$15.20 [-4.6%] -"
+Tesla,2024-11,"06:03:10  [COMFIN] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Wealthstream Advisors Inc. -"
+Tesla,2024-11,06:03:03  [COMFIN] (TSLA.O) - Tesla (NASDAQ:TSLA) Trading Down 3.8% on Insider Selling -
+Tesla,2024-11,05:56:32  [PROINV] (TSLA.O) - Tesla and Trump on collision course as president-elect reportedly scrapping EV tax credits -
+Tesla,2024-11,"05:52:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $317.31) slides 3.9%, steepest fall in today's top 20 falls; -$12.93 [-3.9%] -"
+Tesla,2024-11,"05:49:44  [WKRNEW] (INGA.AS TSLA.O) - ING Groep NV Takes Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,"05:49:37  [MARDAJ] (TSLA.O KBC.BR) - KBC Group NV Has $131.90 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"05:38:13  [YAHNEX] (TSLA.O) - Tesla stock falls 4% as Trump trade fades, EV tax credits come under threat -- -"
+Tesla,2024-11,"You have to figure, one of them has a better shot of staying viable without the subsidy. -"
+Tesla,2024-11,"05:22:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $317.31) slides 3.9%, steepest fall in today's top 20 falls; -$12.93 [-3.9%] -"
+Tesla,2024-11,"You have to figure, one of them has a better shot of staying viable without the subsidy. -"
+Tesla,2024-11,"05:12:42  [NOTENG] (TSLA.O) - Tesla recalls more than 2,400 Cybertrucks for this reason; sixth recall this year -"
+Tesla,2024-11,"05:12:26  [GLOSTO] (TSLA.O) - Tesla (TSLA: $322.59) falls 2.3%, ranks 7 in today's top 20 falls; -$7.65 [-2.3%] -"
+Tesla,2024-11,"05:09:11  [RTRS] (TSLA.O GM.N) - Trump's transition team aims to kill Biden EV tax credit (UPDATE 1, EXCLUSIVE) -"
+Tesla,2024-11,"05:07:20  [SEECOM] (TSLA.O) - EV shocker: Tesla, GM and Ford may all benefit if the EV tax credit is pulled -"
+Tesla,2024-11,"05:02:16  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR301.45) keeps sliding, down 7.4% in 3 days; -EUR24.25 [7.4%] Vol Index 17.1 [1 is avg] -"
+Tesla,2024-11,-They've already killed the competition in America; they're already the best IMO $TSLA. Hmmmmm -
+Tesla,2024-11,"04:52:52  [GLOBUL] (TSLA.O .NDX) - TESLA - THE NASDAQ PRE-MARKET CONFIRMATORY BULLISH MOMENTUM SIGNAL Thursday November 14, 2024 07:11 EST -"
+Tesla,2024-11,"04:52:47  [GLOBUL] (TSLA.O .NDX) - Tesla (TSLA: $330.24) up 0.5% after a second upgrade Thursday November 14, 2024 07:11 EST -"
+Tesla,2024-11,04:52:38  [GLOSTO] (9868.HK XPEV.N) - Tesla continues to underperform XPeng by 32.6% in the past three months -
+Tesla,2024-11,04:42:42  [RTRS] (TSLA.O RIVN.O) - SHARES OF AUTOMAKERS MOVE LOWER AFTER REPORT TRUMP TRANSITION TEAM PLANS TO KILL EV TAX CREDIT -
+Tesla,2024-11,"04:42:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $322.59) falls 2.3%, ranks 7 in today's top 20 falls; -$7.65 [-2.3%] -"
+Tesla,2024-11,04:32:19  [RTRS] (TSLA.O CPRI.N) - Wall St little changed after in-line monthly producer prices; Powell speech awaited (US STOCKS) -
+Tesla,2024-11,--most of Tesla's tax incentives moving forward will be from manufacturing credits.
+Tesla,2024-11,-They've already killed the competition in America; they're already the best IMO $TSLA. Hmmmmm -
+Tesla,2024-11,"04:27:02  [BENZIN] (TSLA.O) - Trump Transition Plans To Kill $7,500 Consumer Tax Credit For EVs-Sources; Tesla Representatives Support Ending EV Subsidy; EV Subsidy Viewed By Tr... -"
+Tesla,2024-11,"04:22:45  [GLOBUL] (TSLA.O .NDX) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $330.24) Thursday November 14, 2024 07:11 EST -"
+Tesla,2024-11,04:22:07  [RTRS] (TSLA.O GM.N) - Trump's transition team aims to kill Biden EV tax credit (EXCLUSIVE) -
+Tesla,2024-11,"04:21:41  [RTRS] (TSLA.O GM.N) - TRUMP TRANSITION PLANS TO KILL $7,500 CONSUMER TAX CREDIT FOR EVS-SOURCES (EXCLUSIVE) -"
+Tesla,2024-11,04:21:28  [BUSSTA] (USD= TSLA.O) - Musks call for $2 trillion spending cut bad for markets: Chris Wood -
+Tesla,2024-11,04:21:15  [YAHNEX] (TSLA.O) - Tesla's Bitcoin Bet Pays Off: Investment Surpasses $1 Billion Amid Price Surge -- -
+Tesla,2024-11,04:18:19  [YAHNEX] (TSLA.O) - Musk's new gov. role raises corporate governance concerns -- -
+Tesla,2024-11,04:17:44  [FINBOL] (TSLA.O) - Analyst revises TSLA share price as Tesla looks like Elon Musk's 'proxy' -
+Tesla,2024-11,"04:17:16  [GLOSTO] (TSLA.O) - Tesla (TSLA: $318.46) sinks 3.6%, ranks 2 in today's top 20 falls; -$11.78 [-3.6%] -"
+Tesla,2024-11,04:16:10  [YAHNEX] (TSLA.O) - Tesla stock slumps as post-election 'Trump trade' shows signs of fatigue -- -
+Tesla,2024-11,04:07:35  [GURCOM] (TSLA.O) - Tesla's Bitcoin Bet Pays Off: Investment Surpasses $1 Billion Amid Price Surge -
+Tesla,2024-11,03:52:45  [GLOSTO] (TSLA.O) - Tesla continues to outperform Ferrari by 57.0% in the past three months -
+Tesla,2024-11,"03:44:10  [YAHNEX] (TSLA.O) - Tesla issues recall for 2,400 Cybertrucks over faulty drive inverter component -- -"
+Tesla,2024-11,"03:42:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $318.46) sinks 3.6%, ranks 2 in today's top 20 falls; -$11.78 [-3.6%] -"
+Tesla,2024-11,03:26:42  [ECOCOM] (TSLA.O) - Is Donald Trump's inner circle feeling left out because of his close relationship with Elon Musk? Sources say Melania is a fan of Tesla CEO -- -
+Tesla,2024-11,"03:17:20  [GLOSTO] (TSLA.O) - Tesla (TSLA: $317.73) slides 3.8%, ranks 2 in today's top 20 falls; -$12.51 [-3.8%] -"
+Tesla,2024-11,03:07:59  [CBTNEW] (TSLA.O) - Tesla's robotaxi ambitions face hurdles despite Musk's political influence -- -
+Tesla,2024-11,"02:53:20  [GLOBUL] (TSLA.O .NDX) - Tesla (TSLA: $330.24) up 0.5% after a second upgrade Thursday November 14, 2024 07:11 EST -"
+Tesla,2024-11,"02:53:14  [GLOBUL] (TSLA.O .NDX) - TESLA - THE NASDAQ PRE-MARKET CONFIRMATORY BULLISH MOMENTUM SIGNAL Thursday November 14, 2024 07:11 EST -"
+Tesla,2024-11,"02:43:25  [IRMAGA] (TSLA.O) - As Elon Musk joins Donald Trump's cabinet, Tesla's investors should be wary -- -"
+Tesla,2024-11,02:43:12  [ECONST] (TSLA.O) - Elon Musk threatens to deepen the rift between Europe and America -
+Tesla,2024-11,"02:42:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $317.73) slides 3.8%, ranks 2 in today's top 20 falls; -$12.51 [-3.8%] -"
+Tesla,2024-11,02:22:41  [AUTCOO] (TSLA.O VRM.O) - First Shift: Trump picks Musk to lead government efficiency effort -- -
+Tesla,2024-11,"02:18:47  [YAHNEX] (TSLA.O) - Tesla Recalls 2,400 Cybertrucks Over Faulty Inverter, Increasing Crash Risk -- -"
+Tesla,2024-11,02:17:55  [RTRS] (TSLA.O MSTR.O) - Wall St struggles for direction after in-line monthly producer prices (US STOCKS) -
+Tesla,2024-11,02:12:35  [INVESV] (TSLA.O) - EV Industry Awaits Musk's Role in Influencing US EV Policy -
+Tesla,2024-11,"02:11:16  [MARBEA] (TSLA.O) - Ferguson Wellman Capital Management Inc. Has $6.93 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,02:09:39  [FOREXL] (TSLA.O) - US stocks open flat. Investor sentiment not yet at worrying levels -- -
+Tesla,2024-11,02:03:45  [HINDUT] (TSLA.O) - Elon Musk declares 'it begins' as DOGE gets govt checkmark on X despite not being an official department -
+Tesla,2024-11,01:52:33  [GLOSTO] (TSLA.O) - Tesla continues to outperform General Motors by 25.3% in the past three months -
+Tesla,2024-11,Just imagine if your family was somewhere without any internet access in an emergency?
+Tesla,2024-11,"01:22:15  [FORCOO] (USD= TSLA.O) - Elon Musk Issues Surprise Crypto Endorsement Amid $3 Trillion Bitcoin, Dogecoin And Crypto Price Boom -- -"
+Tesla,2024-11,They have poisoned our brains. History will not look kindly upon them. -
+Tesla,2024-11,"01:15:50  [WKRNEW] (TSLA.O) - Cable Hill Partners LLC Increases Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,01:14:06  [NOTENG] (TSLA.O) - Technology Hub: Llaryora inaugurated Santex Week with Silicon Valley and Tesla referents -
+Tesla,2024-11,01:12:20  [BENZIN] (RIVN.O TSLA.O) - Tesla's Profit Power Vs. Rivian's Cash Burn: Can The Gap Be Narrowed? -
+Tesla,2024-11,00:55:13  [MARBEA] (TSLA.O JEF.N) - Tesla (NASDAQ:TSLA) Price Target Raised to $300.00 -- -
+Tesla,2024-11,"00:54:12  [GLOBUL] (TSLA.O .NDX) - TESLA - THE NASDAQ PRE-MARKET CONFIRMATORY BULLISH MOMENTUM SIGNAL Thursday November 14, 2024 07:11 EST -"
+Tesla,2024-11,"00:53:13  [GLOBUL] (TSLA.O .NDX) - Tesla (TSLA: $330.24) up 0.5% after a second upgrade Thursday November 14, 2024 07:11 EST -"
+Tesla,2024-11,"00:52:28  [GLOSTO] (TSLA.O) - Tesla (TSLA: $328.14) decreases $2.10, ranks 3 in today's top 10 falls; -$2.10 [-0.6%] -"
+Tesla,2024-11,00:47:55  [GLOSTO] (TSLA.O) - ICYMI: Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2024-11,00:47:37  [GLOSTO] (TSLA.O) - Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2024-11,"Journalists are being interrogated because someone felt ""offended"" over social media posts on X. -"
+Tesla,2024-11,00:26:54  [TECHBU] (TSLA.O) - XAI19K: How Elon Musk's Vision is Integrating AI and Crypto at Tesla -
+Tesla,2024-11,"SpaceX is set to launch 24 Starlink satellites from Cape Canaveral this morning, marking the second leg of a doubleheader after launching 20 satellites from California hours earlier."
+Tesla,2024-11,00:20:43  [KORNEW] (TSLA.O) - Trump names Tesla CEO Musk to lead government efficiency department -
+Tesla,2024-11,"00:16:39  [CNBC] (TSLA.O NFLX.O) - Here are Thursday's biggest analyst calls: Nvidia, Netflix, Amazon, Microsoft, Tesla, Meta, Campbell Soup & more -"
+Tesla,2024-11,"00:12:45  [AUTCOO] (TSLA.O) - EV registrations rise 1.3% in September even as Tesla, Rivian lag market -- -"
+Tesla,2024-11,"00:06:15  [GRECAR] (TSLA.O) - Tesla Cybertruck recalled for sixth time, may lose drive power -- -"
+Tesla,2024-11,"00:03:58  [MARBEA] (MBT.PS TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Huntington National Bank -- -"
+Tesla,2024-11,00:00:45  [ASETRI] (TSLA.O) - Trump names Tesla CEO Musk to lead government efficiency department -
+Tesla,2024-11,"23:47:19  [GLOBUL] (TSLA.O .NDX) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $330.24) Thursday November 14, 2024 07:11 EST -"
+Tesla,2024-11,23:42:17  [GLOSTO] (TSLA.O) - ICYMI: Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2024-11,"23:39:14  [MARBEA] (TSLA.O) - Fortis Capital Management LLC Boosts Stake in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,And have added new attractive positions during the recent market dip
+Tesla,2024-11,"Our interest payments, at almost a quarter of national tax revenue, already exceed our military expenditures and are headed towards absorbing all tax revenue! -"
+Tesla,2024-11,23:27:24  [INTTIM] (TSLA.O) - Tesla Issues Sixth Cybertruck Recall Since Its Launch Last Year -
+Tesla,2024-11,23:27:04  [BENZIN] (TSLA.O) - Analysts Divided About Impact Of Elon Musk Co-Leading DOGE On Tesla Stock: Here's What Bulls And Bears Have To Say -
+Tesla,2024-11,23:21:58  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Vanguard Group augments its shareholding by 0.8% -
+Tesla,2024-11,"23:17:46  [FIRSTP] (TSLA.O) - Amid falling Tesla sales, Trump's victory could be blessing for Elon Musk's robotaxi dreams -- -"
+Tesla,2024-11,23:17:12  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Geode Capital Management augments its shareholding by 1.8% -
+Tesla,2024-11,23:17:11  [NEWWIR] (NTRS.O TSLA.O) - Tesla Third Quarter 13F Filing: Northern Trust trims its shareholding by 2.7% -
+Tesla,2024-11,23:17:07  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: FMR augments its shareholding by 3.5% -
+Tesla,2024-11,23:17:07  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Loomis Sayles & Co trims its shareholding by 1.3% -
+Tesla,2024-11,23:17:06  [NEWWIR] (BK.N TSLA.O) - Tesla Third Quarter 13F Filing: Bank of New York Mellon trims its shareholding by 3.0% -
+Tesla,2024-11,23:17:05  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Schwab Charles Investment Management augments its shareholding by 1.9% -
+Tesla,2024-11,23:17:03  [NEWWIR] (TSLA.O IVZ.N) - Tesla Third Quarter 13F Filing: Invesco adds 8.7% to its shares -
+Tesla,2024-11,23:12:35  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: BNP Paribas Arbitrage cuts 5.3% of its shares -
+Tesla,2024-11,23:12:22  [NEWWIR] (TSLA.O BMO.TO) - Tesla Third Quarter 13F Filing: Bank of Montreal decreases its shareholding by 29.8% -
+Tesla,2024-11,23:12:22  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: American Century Companies augments its shareholding by 1.7% -
+Tesla,2024-11,23:12:22  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: California Public Employees Retirement System slashes 47.9% of its shareholding -
+Tesla,2024-11,23:12:21  [NEWWIR] (TSLA.O AMUN.PA) - Tesla Third Quarter 13F Filing: Amundi boosts its shareholding by 20.1% -
+Tesla,2024-11,23:12:20  [NEWWIR] (TSLA.O DBKGn.DE) - Tesla Third Quarter 13F Filing: Deutsche Bank boosts its shareholding by 18.2% -
+Tesla,2024-11,22:47:27  [GLOSTO] (TSLA.O) - Update: Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2024-11,"22:34:49  [WKRNEW] (TSLA.O) - Oppenheimer Asset Management Inc. Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,"22:30:25  [MARBEA] (TSLA.O) - Oppenheimer Asset Management Inc. Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,21:48:09  [GLOWEE] (TSLA.O) - What the Beneish M-score tells us about Tesla -
+Tesla,2024-11,"21:33:34  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Director Kathleen Wilson-Thompson Sells 100,000 Shares -"
+Tesla,2024-11,21:11:03  [ORLSEN] (TSLA.O) - US: Tesla falsely implies its EVs can drive by themselves -
+Tesla,2024-11,21:08:02  [SUNSEN] (TSLA.O) - US: Tesla falsely implies its EVs can drive by themselves -
+Tesla,2024-11,"20:48:34  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Director Kathleen Wilson-Thompson Sells 100,000 Shares -"
+Tesla,2024-11,20:47:01  [TRTTUR] (TSLA.O) - What does Musk's joining of Trump administration mean for US-China ties? -
+Tesla,2024-11,20:37:24  [NEWUSN] (TSLA.O) - Auto sector Daily Newsletter: Today's Announcements End of Day (EOD) -
+Tesla,2024-11,20:35:38  [TRTWOR] (TSLA.O) - What does Musk's joining of Trump administration mean for US-China ties? -- -
+Tesla,2024-11,19:31:57  [BENZIN] (TSLA.O) - Tesla Engineer Denies Prioritizing 'Affluent' Cybertruck Owners For Lightbar Installation -
+Tesla,2024-11,19:09:22  [WNCOMA] (TSLA.O) - Italy's president scolds Elon Musk over comments regarding country's court rulings -- -
+Tesla,2024-11,18:51:59  [ALARAC] (TSLA.O) - Errol Musk discusses Elon's role in Trump's administration and cost-cutting vision -
+Tesla,2024-11,18:20:48  [WNCOMA] (TSLA.O) - Bitcoin and Tesla surge: What other assets are benefitting most from the 'Trump bump'? -- -
+Tesla,2024-11,"Popularity-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status). -"
+Tesla,2024-11,"18:02:32  [INSMON] (TSLA.O) - Deutsche Bank Reiterates Buy on Tesla, Inc. (TSLA), Highlights Potential AI Upside in Robotaxi and Robotics Initiatives -- -"
+Tesla,2024-11,17:37:12  [BEINCR] (TSLA.O) - Tesla's Bitcoin Investment Exceeds $1 Billion Value in Rising Market -
+Tesla,2024-11,"A stunning rebuke: Progressive DAs lost 13 of last week's top 25 races, even in deep-blue strongholds."
+Tesla,2024-11,17:23:09  [RTRS] (TSLA.O) - New York Times business news - Nov 14 (PRESS DIGEST) -
+Tesla,2024-11,"17:22:48  [YAHIRE] (TSLA.O 1810.HK) - The founder-CEO of Xiaomi is taking a leaf out of Elon Musk's Tesla playbook, posting a picture of himself taking a nap on the factory floor -- -"
+Tesla,2024-11,"17:22:13  [YAHCAN] (TSLA.O 1810.HK) - The founder-CEO of Xiaomi is taking a leaf out of Elon Musk's Tesla playbook, posting a picture of himself taking a nap on the factory floor -- -"
+Tesla,2024-11,17:13:34  [NOTENG] (TSLA.O) - Technology Hub: Llaryora inaugurated Santex Week with Silicon Valley and Tesla referents -
+Tesla,2024-11,"17:08:20  [CLAJOU] (TSLA.O) - Tesla Recalls 2,400 Cybertrucks, 6th Callback for The Pickups This Year -- -"
+Tesla,2024-11,That is more in improper payments than the budget of every state in America except California. -
+Tesla,2024-11,"16:52:14  [BUSINT] (TSLA.O 1810.HK) - The founder-CEO of Xiaomi is taking a leaf out of Elon Musk's Tesla playbook, posting a picture of himself taking a nap on the factory floor -"
+Tesla,2024-11,ALL government spending is taxation. This is a very important concept to appreciate.
+Tesla,2024-11,any person that lived like that would be beyond bankrupt
+Tesla,2024-11,A deep dive into federal spending reveals some truly jaw-dropping examples of waste that Trump's new DOGE team will tackle:
+Tesla,2024-11,SpaceX's innovation has dramatically transformed the economics of space flight.
+Tesla,2024-11,15:42:08  [CENAFT] (TSLA.O ROIV.O) - Trump picks Musk and Ramaswamy to design spending cut strategy -
+Tesla,2024-11,"15:32:59  [CATCOL] (TSLA.O) - Ethan Hawke is Electric in ""Tesla,"" a Film That Has His Nikola Tesla Eat Ice Cream and Sing Karaoke -"
+Tesla,2024-11,"15:21:54  [ECLTND] (TSLA.O) - Supply, Installation, Commissioning On Turnkey Basis Medical Equipment (1.5 Tesla Mri And 128 Slice Ct Scan Machine. -"
+Tesla,2024-11,"14:51:51  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Wednesday November 13, 2024 22:49 EST -"
+Tesla,2024-11,14:07:06  [NATIOP] (TSLA.O) - Which stocks and sectors are benefiting most from the 'Trump bump'? -- -
+Tesla,2024-11,"14:01:39  [WKRNEW] (TSLA.O) - Vaibhav Taneja Sells 4,000 Shares of Tesla, Inc. (NASDAQ:TSLA) Stock -- -"
+Tesla,2024-11,"13:56:29  [TRADAJ] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) CFO Sells 8,000 Shares of Stock -"
+Tesla,2024-11,13:47:42  [TIMNOW] (TSLA.O) - Watch| Donald Trump And Elon Musk Sing 'God Bless America' At Mar-a-Lago -- -
+Tesla,2024-11,"13:31:39  [MARBEA] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) CFO Sells 8,000 Shares of Stock -- -"
+Tesla,2024-11,"13:30:11  [MARBEA] (TSLA.O) - Vaibhav Taneja Sells 4,000 Shares of Tesla, Inc. (NASDAQ:TSLA) Stock -- -"
+Tesla,2024-11,"13:26:43  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Director Kathleen Wilson-Thompson Sells 100,000 Shares -- -"
+Tesla,2024-11,12:59:16  [WNCOMA] (TSLA.O) - Tesla issues sixth recall for Cybertruck over power loss issues -- -
+Tesla,2024-11,12:53:11  [STUFFA] (TSLA.O) - Electronic doors to blame for fatal Tesla crash -- -
+Tesla,2024-11,"12:51:13  [INSMON] (TSLA.O) - Tesla, Inc. (TSLA): Morgan Stanley Reaffirms 'Overweight' Amid AI Growth and Political Tailwinds from Trump Administration -- -"
+Tesla,2024-11,"12:36:39  [BUSTIM] (TSLA.O) - Tesla, Coinbase and more: Trading in Singapore surges after US election -- -"
+Tesla,2024-11,"12:32:38  [ASIAON] (TSLA.O) - Tesla recalls 2,400 Cybertrucks, 6th callback for the pickups in 2024 -- -"
+Tesla,2024-11,12:22:41  [NDTNEW] (TSLA.O) - Tesla Recalls Cybertrucks A Sixth Time In Year Since Launch -- -
+Tesla,2024-11,11:26:09  [FINDEH] (TSLA.O) - Tesla Stock: Musk's Government Role Boosts Share Price -- -
+Tesla,2024-11,11:00:37  [JOUTRB] (TSLA.O) - Hunan University Researcher Describes Findings in Automobile Safety (Exploration of the Traffic Safety of Battery Electric Vehicles: A Case Study o... -
+Tesla,2024-11,11:00:00  [MORCAL] (TSLA.O) - US: Tesla falsely implies its EVs can drive by themselves -
+Tesla,2024-11,10:59:42  [NOVINI] (TSLA.O) - Trump Taps Elon Musk and Vivek Ramaswamy to Lead New Government Efficiency Initiative -- -
+Tesla,2024-11,One person after another has told me how kind he has been to them. And that is my direct observation too. -
+Tesla,2024-11,"10:43:42  [YAHIRE] (TSLA.O) - Elon Musk Suffers 'Humiliating Demotion' With Trump's 'DOGE' Appointment, Lawrence O'Donnell Says: 'Going to Fail Miserably' -- -"
+Tesla,2024-11,"10:39:40  [YAHSIN] (TSLA.O) - Elon Musk Suffers 'Humiliating Demotion' With Trump's 'DOGE' Appointment, Lawrence O'Donnell Says: 'Going to Fail Miserably' -- -"
+Tesla,2024-11,10:19:43  [FOOAUS] (TSLA.O) - Why this high-flying investor is selling Tesla shares and buying this US tech stock instead -- -
+Tesla,2024-11,10:16:46  [YAHNEX] (TSLA.O) - Dan Ives Thinks a Trump White House Is a Big Win for This Artificial Intelligence (AI) Company -- -
+Tesla,2024-11,"10:15:13  [WRAPAA] (TSLA.O) - Elon Musk Suffers 'Humiliating Demotion' With Trump's 'DOGE' Appointment, Lawrence O'Donnell Says: 'Going to Fail Miserably' -- -"
+Tesla,2024-11,10:07:15  [GLOSTO] (TSLA.O) - Tesla (TSLA: $330.24) up 0.5% after an upgrade this week; +$1.75 [0.5%] -
+Tesla,2024-11,09:49:17  [MSNSOU] (TSLA.O) - Anti-Elon Musk Tesla Bumper Sticker Sales Booming Post-Election -- -
+Tesla,2024-11,09:34:08  [YAHNEX] (TSLA.O) - Dogecoin skyrockets as Trump announces Elon Musk's appointment to DOGE -- -
+Tesla,2024-11,"09:26:07  [WNCOMA] (TSLA.O) - Guest who does not want to go home? Reports say, post Donald Trump victory in ... -- -"
+Tesla,2024-11,09:13:13  [NOTENG] (TSLA.O) - Burned to death trapped in a Tesla because the electronic opening became blocked -
+Tesla,2024-11,08:57:40  [GLOSTO] (TSLA.O) - Tesla (TSLA: $330.24) up 0.5% after an upgrade this week; +$1.75 [0.5%] -
+Tesla,2024-11,"08:33:13  [GLOMAI] (TSLA.O) - Tesla recalls 2,400 Cybertrucks in 6th callback for the pickups this year -- -"
+Tesla,2024-11,08:17:36  [RTRS] (TSLA.O) - Peltz says Trump-election stock market rally cannot continue uninterrupted (UPDATE 1) -
+Tesla,2024-11,08:14:07  [LATNIG] (TSLA.O) - Four friends burnt to death after Tesla's electronic doors fail in fiery crash -- -
+Tesla,2024-11,08:10:19  [CHAASI] (TSLA.O) - How Musk's US government efficiency panel might work -- -
+Tesla,2024-11,"08:08:14  [INNVIL] (TSLA.O) - Elon Musk Appointed to Head New 'Department of Government Efficiency,' Announces Donald Trump -"
+Tesla,2024-11,"08:04:12  [YAHNEX] (TSLA.O) - What will Musk, Ramaswamy led 'DOGE' mean for the US economy? -- -"
+Tesla,2024-11,07:52:28  [GLOSTO] (TSLA.O F.N) - Ford Motor continues to underperform Tesla by 60.9% in the past three months -
+Tesla,2024-11,07:51:41  [YAHNEX] (TSLA.O) - What Trump's Presidency Could Mean for Tesla and Other Electric Vehicle Makers -- -
+Tesla,2024-11,07:49:12  [GLOREV] (TSLA.O 1558.TW) - Exclusive-China battery giant CATL would build US plant if Trump allows it -- -
+Tesla,2024-11,"The last time it was this lopsided towards call premium was in early July, before the stock fell about 30%."
+Tesla,2024-11,07:15:13  [CLECON] (TSLA.O) - Trump & Musk Will Quash NHTSA Investigation Of Tesla Full Self Driving System -- -
+Tesla,2024-11,"07:11:42  [RTRS] (TSLA.O ROIV.O) - How Musk's US government efficiency panel might work (REFILE, EXPLAINER) -"
+Tesla,2024-11,06:53:09  [WNCOMA] (TSLA.O) - Tesla Issues Sixth Recall For Cybertrucks This Year -- -
+Tesla,2024-11,06:52:51  [GLOSTO] (TSLA.O) - Tesla- 7 Reasons Investors Remain Bullish (and 3 Reasons Why Bearish) -
+Tesla,2024-11,06:52:47  [GLOSTO] (TSLA.O) - How Tesla's Tax Rate compares to Its Peers -
+Tesla,2024-11,"06:51:39  [ECOCOM] (TSLA.O) - Guest who does not want to go home? Reports say, post Donald Trump victory in U.S election, Elon Musk hasn't left Mar-a-Lago -- -"
+Tesla,2024-11,06:42:10  [ECOCOM] (TSLA.O) - Elon Musk and Donald Trump to fallout in the future? CNN contributor says the President elect may not be willing to share spotlight with Tesla CEO -- -
+Tesla,2024-11,"06:27:47  [WKRNEW] (TSLA.O) - Kovack Advisors Inc. Sells 1,371 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-11,06:26:08  [WNCOMA] (BA.N TSLA.O) - Space Industry News And Top Aerospace Stocks -- -
+Tesla,2024-11,"06:22:46  [GLOBEA] (TSLA.O .NDX) - Tesla (TSLA: $328.64) shares fall after 5 days of rises Wednesday November 13, 2024 07:11 EST -"
+Tesla,2024-11,"06:22:42  [GLOBEA] (TSLA.O .NDX) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $328.49) Wednesday November 13, 2024 07:11 EST -"
+Tesla,2024-11,06:13:08  [NOTENG] (TSLA.O ROIV.O) - Trump picks Musk and Ramaswamy to design spending cut strategy -
+Tesla,2024-11,06:11:46  [FORCOO] (TSLA.O) - Crypto In The Driver's Seat: Can It Stabilize Tesla's Wild Ride? -- -
+Tesla,2024-11,"06:02:57  [CERGEM] (TSLA.O) - ICICI Prudential Asset Management Co Ltd Raises Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,05:52:39  [GLOSTO] (LCID.O TSLA.O) - Tesla continues to outperform Lucid Group by 92.5% in the past three months -
+Tesla,2024-11,05:52:38  [GLOSTO] (TSLA.O) - Tesla continues to outperform Ford Motor by 52.2% in the past three months -
+Tesla,2024-11,"05:52:12  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Cornerstone Planning Group LLC -"
+Tesla,2024-11,05:43:10  [MSNSOU] (HTZ.O TSLA.O) - Hertz's Tesla Fire Sale Continues As Depreciation Costs Mount -- -
+Tesla,2024-11,"05:43:01  [RTRS] (VVX.N TSLA.O) - U.S. STOCKS ON THE MOVE-Charter Communications, BioNTech, Big US banks (BUZZ) -"
+Tesla,2024-11,"05:24:08  [CHAASI] (TSLA.O) - Tesla recalls 2,400 Cybertrucks, 6th callback for the pickups this year -- -"
+Tesla,2024-11,"05:07:21  [WATNEW] (TSLA.O) - ICICI Prudential Asset Management Co Ltd Acquires 3,909 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-11,"05:05:53  [RTRS] (TSLA.O) - Tesla recalls 2,400 Cybertrucks, 6th callback for the pickups this year (UPDATE 3) -"
+Tesla,2024-11,"05:02:01  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR309.70) loses EUR44 billion ($47 billion) (4.4%) in MCap, steepest heavyweight fall in Health care sector; -E... -"
+Tesla,2024-11,04:52:45  [GLOSTO] (TSLA.O) - A Comparison of Tesla's Layoffs with that of Corporate America -

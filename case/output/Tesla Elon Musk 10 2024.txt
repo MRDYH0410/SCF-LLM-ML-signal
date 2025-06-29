@@ -1,0 +1,1333 @@
+firm_id,date,text
+Tesla,2024-10,"23:57:11  [WNCOMA] (TSLA.O) - Tesla's global deliveries rose in the third quarter, the first increase this year for the ... -- -"
+Tesla,2024-10,23:56:14  [LOCNEW] (TSLA.O) - Tesla posts first sales gain of the year -- -
+Tesla,2024-10,23:54:13  [WRACOM] (TSLA.O) - Tesla posts first sales gain of the year -- -
+Tesla,2024-10,23:53:32  [YAHNEX] (TSLA.O) - Tesla stock dips as Q3 deliveries fall short of expectations -- -
+Tesla,2024-10,23:53:12  [YAHNEX] (TSLA.O) - Dow Jones Falls After Jobs Data; Tesla Tumbles On Q3 Deliveries -- -
+Tesla,2024-10,"23:52:39  [BUSINT] (TSLA.O) - Tesla reverses its sales slowdown, but not enough to calm investors' nerves -"
+Tesla,2024-10,23:52:23  [GLOSTO] (TSLA.O) - Tesla continues to outperform Toyota by 2.5% year to date -
+Tesla,2024-10,"23:52:16  [WARSAU] (TSLA.O) - Tesla Still Leads, but Chinese Automakers Dominate Wards Intelligence's SDV Scorecard -"
+Tesla,2024-10,23:52:14  [QUANAV] (TSLA.O) - Tesla owners are annoyed that other EV drivers can't figure out how to use Tesla Superchargers -
+Tesla,2024-10,23:52:10  [QUANAV] (TSLA.O .SPX) - The Dow slips as oil prices rise and Tesla gets a win -
+Tesla,2024-10,"23:50:10  [ASSOPR] (TSLA.O) - Tesla posts first quarterly increase in deliveries, but shares slump with investors hoping for more -"
+Tesla,2024-10,23:50:00  [YAHNEX] (TSLA.O) - Tesla's Third-Quarter Deliveries Rise 6%. The Stock Is Falling. -- -
+Tesla,2024-10,23:50:00  [RTRS] (VOWG_p.DE TSLA.O) - EU plans to hit China-based EV makers with additional tariffs (FACTBOX) -
+Tesla,2024-10,"23:47:06  [SEECOM] (TSLA.O) - 4 stocks to watch on Wednesday: TSLA, HUM and more -"
+Tesla,2024-10,"23:44:17  [FINSWI] (TSLA.O) - Tesla Sales Increase, Suggesting Electric Car Demand Is Rebounding -- -"
+Tesla,2024-10,23:43:14  [SOUCHI] (TSLA.O) - Hong Kong Tesla driver arrested for allegedly molesting woman after Lan Kwai Fong lift offer -- -
+Tesla,2024-10,"23:42:41  [ZOLCOM] (TSLA.O) - FIDELIS iM LLC Makes New $2.09 Million Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,23:37:29  [FORBES] (TSLA.O) - Tesla Stock Falters As Q3 Deliveries Report Falls Short Of Top-End Estimates -
+Tesla,2024-10,23:34:11  [YAHSIN] (TSLA.O) - Tesla misses estimates for third-quarter deliveries on stiff competition -- -
+Tesla,2024-10,23:32:45  [GURCOM] (TSLA.O) - Tesla (TSLA) Q3 Vehicle Deliveries Fall Short of Expectations Despite Incentives -
+Tesla,2024-10,"23:32:16  [WHEROC] (TSLA.O) - Tesla's global deliveries rose in Q3, first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,23:32:10  [PROINV] (TSLA.O) - Tesla skids lower as delivery figures rise less than expected -
+Tesla,2024-10,23:31:53  [RTRS] (TSLA.O) - TESLA SHARES FALL 3.2% AFTER CO MISSES QUARTERLY DELIVERY ESTIMATES -
+Tesla,2024-10,"23:29:10  [YAHIRE] (TSLA.O) - Tesla's global deliveries rose in Q3, first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,23:28:14  [SOUAUA] (TSLA.O) - Tesla managers going to employees' homes to check if they're actually sick - report -- -
+Tesla,2024-10,"23:27:35  [SOUAUA] (TSLA.O) - Elon Musk, Tesla beat lawsuit over self-driving claims -- -"
+Tesla,2024-10,23:27:12  [BENZIN] (TSLA.O) - Tesla Stock Plunges 3% Despite Q3 Deliveries Exceeding Consensus And Growing Year-Over-Year -
+Tesla,2024-10,"23:27:12  [YAHSIN] (TSLA.O) - Tesla's global deliveries rose in the third quarter, the first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,"23:26:18  [ABCNEY] (TSLA.O) - Tesla's global deliveries rose in the third quarter, the first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,"23:24:12  [ABCNEY] (TSLA.O) - Tesla's global deliveries rose in Q3, first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,"23:23:44  [WRACOM] (TSLA.O) - Tesla's global deliveries rose in Q3, first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,"23:22:12  [MARBEA] (TSLA.O) - Tesla's global deliveries rose in the third quarter, the first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,"23:22:04  [YAHNEX] (TSLA.O) - Tesla's global deliveries rose in Q3, first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,"23:20:43  [YAHNEX] (TSLA.O) - Tesla's global deliveries rose in the third quarter, the first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,"23:20:13  [MARBEA] (TSLA.O) - Tesla's global deliveries rose in Q3, first increase this year for the electric vehicle maker -- -"
+Tesla,2024-10,23:19:13  [RTRS] (TSLA.O GM.N) - GM seeks to ease shareholders' nerves at investor day (UPDATE 1) -
+Tesla,2024-10,"23:16:15  [SHAENG] (TSLA.O) - Tesla Sales Increase, Suggesting Electric Car Demand Is Rebounding -- -"
+Tesla,2024-10,"23:15:13  [ASSOPR] (TSLA.O) - Tesla's global deliveries rose in the third quarter, the first increase this year for the electric vehicle maker -"
+Tesla,2024-10,23:13:08  [NOTENG] (TSLA.O) - Executives of Tesla's Berlin factory visit homes of workers on sick leave -
+Tesla,2024-10,23:13:07  [SEECOM] (TSLA.O) - Tesla dips after a slight miss with its Q3 deliveries report -
+Tesla,2024-10,"23:13:01  [BENZIN] (TSLA.O) - Tesla Reports Q3 2024 Production Of 470,000 Vehicles And Deliveries Of 463,000; Deploys 6.9 GWh Of Energy Storage Products; Financial Results To Be... -"
+Tesla,2024-10,23:12:52  [NEWUSN] (TSLA.O) - Tesla top gainer among Global Wealth Strategies & Associates holdings; jumps 8% in 1 days -
+Tesla,2024-10,23:12:52  [NEWUSN] (TSLA.O) - Tesla top gainer among Bancfirst Trust & Investment Management holdings; jumps 8% in 1 days -
+Tesla,2024-10,23:12:51  [NEWUSN] (TSLA.O) - Tesla top gainer among Jacobs & Co holdings; jumps 8% in 1 days -
+Tesla,2024-10,23:12:50  [NEWUSN] (TSLA.O) - Tesla top gainer among Davis Capital Management holdings; jumps 8% in 1 days -
+Tesla,2024-10,23:12:50  [NEWUSN] (TSLA.O) - Tesla top gainer among Appleton Partners holdings; jumps 8% in 1 days -
+Tesla,2024-10,23:12:48  [NEWUSN] (PRK.A TSLA.O) - Tesla top gainer among Park National holdings; jumps 8% in 1 days -
+Tesla,2024-10,23:04:44  [RTRS] (TSLA.O) - TESLA SHARES FALL 2.5% PREMARKET AFTER CO MISSES QUARTERLY DELIVERY ESTIMATES -
+Tesla,2024-10,"23:02:23  [RTRS] (TSLA.O) - TESLA INC - IN Q3, DEPLOYED 6.9 GWH OF ENERGY STORAGE PRODUCTS -"
+Tesla,2024-10,22:47:46  [GLOSTO] (TSLA.O) - ICYMI: Wednesday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-10,22:47:17  [GLOSTO] (TSLA.O) - Wednesday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-10,22:43:50  [RTRS] (TSLA.O GM.N) - GM seeks to ease shareholders' nerves at investor day -
+Tesla,2024-10,"22:13:11  [RTRS] (TSLA.O 600104.SS) - France, Greece, Italy, Poland set to back Chinese EV tariffs, sources say -"
+Tesla,2024-10,"22:06:28  [BARCHA] (TSLA.O C.N) - The Zacks Analyst Blog Highlights NIO, Tesla and Citigroup -- -"
+Tesla,2024-10,22:03:21  [RTRS] (TSLA.O 600104.SS) - FOUR COUNTRIES' SUPPORT WOULD BE ENOUGH TO AVOID BLOCKING MAJORITY AGAINST TARIFFS -
+Tesla,2024-10,"21:52:10  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $258.02) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Wednesday October 02, 2024 07:10 EDT -"
+Tesla,2024-10,"21:47:59  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $258.02) loses $12 billion (1.4%) in MCap, steepest heavyweight fall in Auto sector Wednesday October 02, 2024 07:10 EDT -"
+Tesla,2024-10,"21:47:56  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $258.02) Wednesday October 02, 2024 07:10 EDT -"
+Tesla,2024-10,21:42:40  [GLOSTO] (TSLA.O) - ICYMI: Wednesday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-10,21:27:34  [NEWUSN] (TSLA.O) - Tesla top gainer among Appleton Partners holdings; jumps 8% in 1 days -
+Tesla,2024-10,21:22:48  [NEWUSN] (TSLA.O) - Tesla top gainer among Global Wealth Strategies & Associates holdings; jumps 8% in 1 days -
+Tesla,2024-10,21:15:12  [AUTCOO] (TSLA.O) - Tesla to return to Paris motor show after six years -- -
+Tesla,2024-10,"21:14:01  [MARBEA] (TSLA.O) - Clearbridge Investments LLC Buys 101,114 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,21:13:55  [NEWUSN] (TSLA.O) - Tesla top gainer among Jacobs & Co holdings; jumps 8% in 1 days -
+Tesla,2024-10,21:11:02  [WNCOMA] (TSLA.O) - Tesla crash after police pursuit highlights challenges electric cars pose for 1st responders -- -
+Tesla,2024-10,21:09:37  [NEWUSN] (TSLA.O) - Tesla top gainer among Davis Capital Management holdings; jumps 8% in 1 days -
+Tesla,2024-10,"21:09:14  [INVAUA] (TSLA.O) - Elon Musk, Tesla beat lawsuit over self-driving claims -- -"
+Tesla,2024-10,21:08:08  [NEWUSN] (TSLA.O) - Tesla top gainer among Bancfirst Trust & Investment Management holdings; jumps 8% in 1 days -
+Tesla,2024-10,21:07:43  [NEWUSN] (PRK.A TSLA.O) - Tesla top gainer among Park National holdings; jumps 8% in 1 days -
+Tesla,2024-10,"20:49:01  [NEWUSN] (USD= TSLA.O) - Tesla leads Auto sector 0.3% higher Monday, September 30, 2024 10:00:00 -"
+Tesla,2024-10,20:48:19  [GLOSTO] (TSLA.O) - Update: Wednesday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-10,"20:44:03  [MONCON] (TSLA.O) - Tech market values jump in September on Fed rate cuts, AI optimism -- -"
+Tesla,2024-10,"20:43:17  [MACAUA] (TSLA.O) - Elon Musk, Tesla beat lawsuit over self-driving claims -- -"
+Tesla,2024-10,20:43:16  [INVAUA] (TSLA.O) - Tesla managers going to employees' homes to check if they're actually sick - report -- -
+Tesla,2024-10,20:43:15  [MACAUA] (TSLA.O) - Tesla managers going to employees' homes to check if they're actually sick - report -- -
+Tesla,2024-10,"20:27:28  [TICREP] (TSLA.O) - Clearbridge Investments LLC Buys 101,114 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"20:26:39  [RTRS] (TSLA.O NVDA.O) - Tech market values jump in September on Fed rate cuts, AI optimism (GRAPHIC) -"
+Tesla,2024-10,20:20:35  [NEWUSN] (TSLA.O) - Tesla top gainer among Bancfirst Trust & Investment Management holdings; jumps 8% in 1 days -
+Tesla,2024-10,20:20:04  [NEWUSN] (TSLA.O) - Tesla top gainer among Davis Capital Management holdings; jumps 8% in 1 days -
+Tesla,2024-10,20:19:40  [NEWUSN] (TSLA.O) - Tesla top gainer among Global Wealth Strategies & Associates holdings; jumps 8% in 1 days -
+Tesla,2024-10,20:19:08  [NEWUSN] (TSLA.O) - Tesla top gainer among Appleton Partners holdings; jumps 8% in 1 days -
+Tesla,2024-10,20:19:07  [NEWUSN] (PRK.A TSLA.O) - Tesla top gainer among Park National holdings; jumps 8% in 1 days -
+Tesla,2024-10,20:18:59  [NEWUSN] (TSLA.O) - Tesla top gainer among Jacobs & Co holdings; jumps 8% in 1 days -
+Tesla,2024-10,20:15:42  [BENZIN] (TSLA.O) - Tesla's Energy Storage Segment Hits New Milestone: Installs 750K Powerwalls Worldwide -
+Tesla,2024-10,"""The guy almost gets killed twice; they don't even talk about it."
+Tesla,2024-10,18:59:29  [INDTOE] (TSLA.O) - Brazil court orders unblocking of X's finances after deal to pay fines -- -
+Tesla,2024-10,18:34:33  [BUSSRI] (TSLA.O) - Electric Rivals: Comparing Market Shares of BYD and Tesla in the Global EV Race -- -
+Tesla,2024-10,"18:27:09  [FINGEV] (NVDA.O TSLA.O) - Nasdaq Ends 1.5% Lower As Tesla, Nvidia, And Apple Fall: Investor Optimism Declines, Fear Index Remains In 'Greed' Zone -- -"
+Tesla,2024-10,18:26:12  [MONCON] (TSLA.O) - Tesla Germany faces backlash for sending managers to employees' homes during sick leave -- -
+Tesla,2024-10,18:16:32  [PROUKA] (TSLA.O) - Tesla skids lower as delivery figures rise less than expected -
+Tesla,2024-10,18:07:46  [MOTFOO] (TSLA.O) - Here's why the Tesla share price soared 25% last month -
+Tesla,2024-10,18:04:01  [PROINV] (TSLA.O) - Tesla delivery figures set to reflect EV demand rebound -
+Tesla,2024-10,18:00:22  [FINDEH] (TSLA.O) - Tesla Stock: Robotaxi Unveiling Sparks Investor Interest Amid Challenges -- -
+Tesla,2024-10,"17:47:06  [BENZIN] (TSLA.O) - Tesla Discontinues Cheapest Model 3 Variant: Entry Level Trim Now Starts At $42,490 -"
+Tesla,2024-10,17:43:11  [FINSWI] (TSLA.O) - Reliable Tesla Number Cruncher Forecasts Biggest Delivery Beat In 3 Years: Fund Manager Says This Could Change The Stock's Narrative -- -
+Tesla,2024-10,17:32:02  [UNIWIR] (TSLA.O) - Video captures Tesla vehicle bursting into flames as Hurricane Helene floods Florida garage -
+Tesla,2024-10,"17:31:52  [PROUKA] (.GDAXI USD=) - FTSE 100 rises while global stocks eye Middle East fighting, Tesla tumbles on delivery miss -"
+Tesla,2024-10,"17:03:00  [BENZIN] (TSLA.O) - China Approaches WTO On Tariffs Imposed By Canada On EVs Including Tesla, Steel And Aluminum Products -"
+Tesla,2024-10,16:57:08  [GURCOM] (TSLA.O) - Tesla Increases Market Share in Sweden Despite Prolonged Labor Dispute -
+Tesla,2024-10,"16:28:07  [SOUCHI] (TSLA.O) - EU to vote on Chinese electric vehicle tariffs, Tesla vs China: 7 EV reads you missed -- -"
+Tesla,2024-10,16:19:34  [HAREXP] (TSLA.O) - Tesla managers going to employees' homes to check if they're actually sick - report -- -
+Tesla,2024-10,"16:05:55  [WESAUT] (TSLA.O) - Elon Musk, Tesla beat lawsuit over self-driving claims -- -"
+Tesla,2024-10,15:59:02  [WESAUT] (TSLA.O) - Tesla managers going to employees' homes to check if they're actually sick - report -- -
+Tesla,2024-10,"15:37:12  [NEWPEO] (TSLA.O) - Elon Musk CEO of Tesla in top 12% of price performers of NASDAQ stocks in the third quarter of 2024 (aka Musk Elon) Wednesday October 02, 2024 -"
+Tesla,2024-10,"15:30:40  [LITCOM] (TSLA.O) - Elon Musk, Tesla beat lawsuit over self-driving claims -- -"
+Tesla,2024-10,15:16:54  [SOVINV] (TSLA.O) - Tesla's Robotaxi Reveal: What to Expect and How to Invest -
+Tesla,2024-10,"""Given the current low inventory of affordable housing, the inflow of new immigrants to some geographic areas could result in upward pressure on rents."""
+Tesla,2024-10,15:12:41  [LITCOM] (TSLA.O) - Tesla managers going to employees' homes to check if they're actually sick - report -- -
+Tesla,2024-10,"15:12:16  [CANTIO] (TSLA.O) - Elon Musk, Tesla beat lawsuit over self-driving claims -- -"
+Tesla,2024-10,15:04:03  [CANTIO] (TSLA.O) - Tesla managers going to employees' homes to check if they're actually sick - report -- -
+Tesla,2024-10,"14:47:00  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Tuesday October 01, 2024 00:42 EDT -"
+Tesla,2024-10,"14:39:10  [WCTTAL] (TSLA.O) - Family's Tesla catches fire in the garage during Helene, destroying their home -- -"
+Tesla,2024-10,Or the censorship law that California passed a month ago banning political parody!
+Tesla,2024-10,"13:16:53  [BENZIN] (.IXIC TSLA.O) - Tesla, Amazon, Nike, Walmart, Alibaba: Why These 5 Stocks Are On Investors' Radars Today -"
+Tesla,2024-10,13:13:02  [AUSCAR] (SPOT.N TSLA.O) - Tesla removes complimentary music streaming from Premium Connectivity subscription -- -
+Tesla,2024-10,12:47:33  [NEXBIG] (TSLA.O) - Tesla Energy Could Triple Tesla Share Price by 2028 -
+Tesla,2024-10,12:24:22  [GLOBEA] (TSLA.O) - Tesla (NASDAQ:TSLA $258.02) in today's trading sell signal: Bearish Candlestick chart pattern -
+Tesla,2024-10,12:22:49  [DAIONL] (WOW.AX TSLA.O) - Dramatic update after boomer was caught keying a stranger's Tesla at a Woolworths car park -
+Tesla,2024-10,2024 has the highest P/E at the start of a Fed cutting cycle in 60+ years.
+Tesla,2024-10,11:09:51  [WHADAY] (WOW.AX TSLA.O) - Dramatic update after boomer caught keying stranger's Tesla in Woolworths car park -- -
+Tesla,2024-10,11:00:15  [WNCOMA] (TSLA.O) - Tesla catches fire and burns down Florida home during Hurricane Helene floodwaters -- -
+Tesla,2024-10,10:40:33  [DIGTRE] (TSLA.O) - Ram 1500 REV vs. Tesla Cybertruck: premium trucks battle it out -- -
+Tesla,2024-10,"""We have more refugees per capita than any other state. That's not just morally a good thing, it's our economic and cultural future."
+Tesla,2024-10,"10:18:22  [GURCOM] (TSLA.O) - Tesla (TSLA) Expected to Deliver 463,900 Vehicles Globally in Q3 -"
+Tesla,2024-10,Please register to vote and ask your friends & family to do so too. This is a very important election. -
+Tesla,2024-10,10:00:00  [AFRNEX] (TSLA.O) - Tesla wins again as lawsuit challenging Autopilot claims is dismissed -
+Tesla,2024-10,10:00:00  [KNOBYL] (TSLA.O) - Tesla wins again as lawsuit challenging Autopilot claims is dismissed -
+Tesla,2024-10,09:31:10  [BUSTIM] (TSLA.O) - Tesla sales perk up after China boosts electric vehicle subsidy -- -
+Tesla,2024-10,09:26:10  [YAHAUS] (TSLA.O) - Shopper caught on camera vandalising Tesla in Westfield carpark -- -
+Tesla,2024-10,"09:06:58  [BILBIZ] (LVO.O TSLA.O) - Tesla to End LiveOne Streaming Subsidies for Customers, Sending LiveOne Stock Down 23% -- -"
+Tesla,2024-10,"09:06:45  [ETFDAI] (TSLA.O) - 3Chopt Investment Partners LLC Acquires New Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"07:44:22  [YAHNEX] (TSLA.O) - ADP data, FedSpeak, Tesla Q3 deliveries: What to watch -- -"
+Tesla,2024-10,"07:17:39  [TICREP] (TSLA.O) - Heartland Bank & Trust Co Has $1.26 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"07:17:19  [ZOLCOM] (TSLA.O) - Heartland Bank & Trust Co Acquires 69 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"06:37:17  [TICREP] (TFC.N TSLA.O) - Truist Financial Corp Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,05:54:04  [YAHNEX] (TSLA.O) - Why Tesla Stock Dropped Ahead of Quarterly Deliveries -- -
+Tesla,2024-10,05:50:18  [MOTFOL] (TSLA.O) - Why Tesla Stock Dropped Ahead of Quarterly Deliveries -- -
+Tesla,2024-10,05:34:22  [MOTFOO] (TSLA.O) - Why Tesla Stock Dropped Ahead of Quarterly Deliveries -
+Tesla,2024-10,"05:29:05  [ZOLCOM] (TSLA.O) - Ted Buchan & Co Purchases New Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"Argentina has to have free international currency exchange, equal rule of law for all, domestic and foreign, and a balanced budget. Prosperity will then follow, as it always has. -"
+Tesla,2024-10,"04:51:52  [HINDUT] (TSLA.O) - Barron Trump's pal Bo Loudon reacts to Elon Musk's viral 'The Joker' post, declares 'world needs more of' Tesla CEO -"
+Tesla,2024-10,04:32:56  [VERGEA] (TSLA.O) - Tesla wins again as lawsuit challenging Autopilot claims is dismissed -- -
+Tesla,2024-10,04:32:43  [GURCOM] (TSLA.O) - Tesla (TSLA) Projects First Quarterly Sales Growth This Year -
+Tesla,2024-10,04:30:53  [DAIBRE] (TSLA.O) - Business | All the major legal battles Elon Musk and his companies are facing -- -
+Tesla,2024-10,"04:29:56  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR228.0) loses EUR13 billion ($15 billion) (1.8%) in MCap, steepest heavyweight fall in Health care sector; -EU... -"
+Tesla,2024-10,"04:02:48  [RTRS] (VOWG_p.DE TSLA.O) - US issues $2 billion electric vehicle tax rebates since Jan 1, Treasury says (UPDATE 1) -"
+Tesla,2024-10,04:00:34  [GLOSTO] (2015.HK TSLA.O) - Tesla continues to outperform Li Auto by 31.8% year to date -
+Tesla,2024-10,03:55:31  [GLOSTO] (TSLA.O 9868.HK) - XPeng continues to underperform Tesla by 21.3% year to date -
+Tesla,2024-10,03:55:02  [GLOSTO] (TSLA.O BMWG.DE) - Tesla continues to outperform Bayerische Motoren Werke by 19.8% year to date -
+Tesla,2024-10,"03:53:20  [GLOSTO] (TSLA.O) - Tesla (TSLA: $254.30) slides 2.8% on average volume, ranks 17 in today's top 20 falls; -$7.33 [-2.8%] -"
+Tesla,2024-10,03:42:08  [BENZIN] (LVO.O TSLA.O) - Tesla Remixes The Tune: LiveOne Shares Dip After Partnership Changes And Slashed Revenue Guidance -
+Tesla,2024-10,03:36:40  [YAHNEX] (LVO.O TSLA.O) - Tesla Remixes The Tune: LiveOne Shares Dip After Partnership Changes And Slashed Revenue Guidance -- -
+Tesla,2024-10,"03:25:23  [RTRS] (VOWG_p.DE TSLA.O) - US issues $2 billion in EV tax rebates since Jan 1, Treasury says -"
+Tesla,2024-10,Looking forward to trying a new class. I know Druid way better than I know the back of my hand. -
+Tesla,2024-10,"03:22:24  [GLOSTO] (TSLA.O) - Tesla (TSLA: $254.30) slides 2.8% on average volume, ranks 17 in today's top 20 falls; -$7.33 [-2.8%] -"
+Tesla,2024-10,It's already happening but people haven't fully noticed it yet. -
+Tesla,2024-10,"03:17:13  [RTRS] (VOWG_p.DE TSLA.O) - US ISSUES $2 BILLION IN ADVANCE ELECTRIC VEHICLE TAX REBATES SINCE JAN. 1 FOR ABOUT 300,000 VEHICLES -- TREASURY -"
+Tesla,2024-10,"The rule should be that Starlink can operate at whatever power level does not disrupt other communication systems, not some arbitrarily low power limit! -"
+Tesla,2024-10,03:12:46  [NOTENG] (TSLA.O) - Tesla increases its market share by 8.5% in Sweden despite the auto union strike -
+Tesla,2024-10,"03:12:23  [GLOSTO] (TSLA.O) - Tesla (TSLA: $254.34) falls 2.8% on average volume, ranks 15 in today's top 20 falls; -$7.29 [-2.8%] -"
+Tesla,2024-10,"""The amount of indoctrination [into the woke mind virus] that's happening in schools and universities is, I think, far beyond what parents realize."
+Tesla,2024-10,We are thus again faced with the question: who is making decisions for the US Govt? -
+Tesla,2024-10,02:57:44  [FINDEH] (TSLA.O) - Tesla Stock: AI Hopes Amid Market Challenges and Growth Potential -- -
+Tesla,2024-10,"02:57:00  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $261.63) up 2.9% in 2 days, hits 77-day high Tuesday October 01, 2024 07:10 EDT -"
+Tesla,2024-10,02:56:45  [GLOSTO] (TSLA.O MOD.N) - Modine Manufacturing continues to outperform Tesla by 117.6% year to date -
+Tesla,2024-10,"02:56:44  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $261.63) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday October 01, 2024 07:10 EDT -"
+Tesla,2024-10,02:53:40  [GLOSTO] (VOWG_p.DE TSLA.O) - Tesla continues to outperform Volkswagen by 16.8% year to date -
+Tesla,2024-10,"02:49:25  [WNCOMA] (TSLA.O) - Filipinos: Get ready to tap global giants like Apple, Google, Meta, Tesla via GPDRs -- -"
+Tesla,2024-10,02:39:49  [EDGEMA] (TSLA.O) - Tesla sales perk up after China boosts electric vehicle subsidy -- -
+Tesla,2024-10,"02:37:16  [GLOSTO] (TSLA.O) - Tesla (TSLA: $254.34) falls 2.8% on average volume, ranks 15 in today's top 20 falls; -$7.29 [-2.8%] -"
+Tesla,2024-10,"02:31:22  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $262.61) in 3rd consecutive rise Tuesday October 01, 2024 11:32 EDT -"
+Tesla,2024-10,"02:26:58  [GLOSTO] (TSLA.O) - Tesla (TSLA: $251.34) sinks 3.9% on average volume, ranks 4 in today's top 20 falls; -$10.29 [-3.9%] -"
+Tesla,2024-10,"02:25:22  [GULCOM] (TSLA.O AAPL.O) - Filipinos: Get ready to tap global giants like Apple, Google, Meta, Tesla via GPDRs -- -"
+Tesla,2024-10,"02:22:40  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $261.63) Tuesday October 01, 2024 07:10 EDT -"
+Tesla,2024-10,"02:22:38  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $262.61) in 3rd consecutive rise Tuesday October 01, 2024 12:30 EDT -"
+Tesla,2024-10,"02:17:20  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $262.61) in 3rd consecutive rise Tuesday October 01, 2024 12:30 EDT -"
+Tesla,2024-10,"02:12:57  [SEECOM] (TSLA.O) - EV watch: Tesla deliveries, robotaxi musings, and soaring deliveries in China -"
+Tesla,2024-10,"02:06:32  [NEWBIH] (TSLA.O) - September 30, 2024: Tech Cocktail, LLC Tesla Execs Spring Surprising Home Visits on Sick Employees -"
+Tesla,2024-10,02:02:28  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $261.63) in top 3% performers of NASDAQ-100 Index in September 2024 -
+Tesla,2024-10,01:53:07  [GLOSTO] (TSLA.O 0TL.F) - VinFast Auto continues to underperform Tesla by 59.7% year to date -
+Tesla,2024-10,01:52:57  [GLOSTO] (TSLA.O) - Evaluating Tesla's Layoffs in the Context of Corporate America -
+Tesla,2024-10,"01:42:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $251.34) sinks 3.9% on average volume, ranks 4 in today's top 20 falls; -$10.29 [-3.9%] -"
+Tesla,2024-10,01:39:44  [YAHSIN] (TSLA.O) - Tesla Q3 deliveries could drive 'further strength' in the stock -- -
+Tesla,2024-10,"01:22:38  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $262.61) in 3rd consecutive rise Tuesday October 01, 2024 11:32 EDT -"
+Tesla,2024-10,"01:22:10  [GLOSNI] (TSLA.O) - Tesla (TSLA: $262.61) in 3rd consecutive rise Tuesday October 01, 2024 11:15 EDT -"
+Tesla,2024-10,01:18:33  [YAHNEX] (TSLA.O) - Tesla Q3 deliveries could drive 'further strength' in the stock -- -
+Tesla,2024-10,"01:17:51  [TICREP] (TSLA.O) - Teachers Retirement System of The State of Kentucky Sells 9,282 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"01:17:24  [GLOSTO] (TSLA.O) - Tesla (TSLA: $252.28) slides 3.6% on average volume, ranks 2 in today's top 20 falls; -$9.35 [-3.6%] -"
+Tesla,2024-10,01:10:28  [NEWERA] (TSLA.O) - Namibia to learn from leading industrialists such as Musk -
+Tesla,2024-10,"01:10:23  [BENZIN] (TSLA.O) - Market Clubhouse Morning Memo - October 1st, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA) -"
+Tesla,2024-10,"01:09:47  [TBREAK] (TSLA.O) - Tesla's Full Self-Driving update promises smoother lane changes and more decisive action, as it speeds towards a driverless future -"
+Tesla,2024-10,"00:58:08  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $261.63) up 2.9% in 2 days, hits 77-day high Tuesday October 01, 2024 07:10 EDT -"
+Tesla,2024-10,"00:52:31  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $261.63) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday October 01, 2024 07:10 EDT -"
+Tesla,2024-10,00:52:21  [GURCOM] (TSLA.O) - TSLA Shares Drop Nearly 5% as Delivery and Production Update Anticipated -
+Tesla,2024-10,00:47:21  [SEECOM] (LVO.O TSLA.O) - LiveOne stock falls after amended partnership with Tesla -
+Tesla,2024-10,"00:42:30  [GLOSTO] (TSLA.O) - Tesla (TSLA: $252.28) slides 3.6% on average volume, ranks 2 in today's top 20 falls; -$9.35 [-3.6%] -"
+Tesla,2024-10,"00:42:27  [ZACKSC] (TSLA.O .SPX) - Tesla Clears FSD Suit, Shares Up Ahead of Key Updates: Buy TSLA Now? -"
+Tesla,2024-10,"00:37:42  [GLOSTO] (TSLA.O) - Tesla (TSLA: $262.61) in 3rd consecutive rise, ranks 11 in today's top 20 rises; +98c [0.4%] -"
+Tesla,2024-10,00:33:01  [QUANAV] (TSLA.O) - Tesla and Elon Musk won a big Autopilot lawsuit -
+Tesla,2024-10,"00:31:58  [GLOSTO] (TSLA.O) - Tesla (TSLA: $262.39) strengthens above moving average price, ranks 14 in today's top 20 rises; +76c [0.3%] -"
+Tesla,2024-10,00:30:11  [MSNUKA] (TSLA.O) - Tesla stock: What will it take to turn Elon Musk's DREAMS into reality? -- -
+Tesla,2024-10,"00:28:26  [WNCOMA] (TSLA.O) - WETEX: From Tesla giveaways to mobile EV charging station, Dubai event in big push for electric vehicles -- -"
+Tesla,2024-10,00:13:01  [NOTENG] (TSLA.O) - Tesla comes close to the impossible sorpasso: Model 3 about to topple Spanish market leader -
+Tesla,2024-10,00:07:38  [BENZIN] (LVO.O TSLA.O) - LiveOne Renews Partnership With Tesla Through May 2026; Launches LiveOne 2.0 And Expects 3x Increase In ARPU; Adjusts FY25 Revenue Guidance To $120... -
+Tesla,2024-10,00:06:51  [RTRS] (TSLA.O LVO.O) - LiveOne Announces Renewed Partnership With Tesla Through May 2026 (BRIEF) -
+Tesla,2024-10,"23:57:26  [GLOSTO] (TSLA.O) - Tesla (TSLA: $262.39) strengthens above moving average price, ranks 14 in today's top 20 rises; +76c [0.3%] -"
+Tesla,2024-10,"23:43:27  [GLOSTO] (TSLA.O) - Tesla (TSLA: $262.61) in 3rd consecutive rise, ranks 11 in today's top 20 rises; +98c [0.4%] -"
+Tesla,2024-10,23:37:30  [NOTENG] (TSLA.O) - Car sales rebound in September thanks to strong performance of electric cars by Tesla -
+Tesla,2024-10,"23:37:03  [GLOSTO] (TSLA.O) - Tesla (TSLA: $261.63) up 0.4% after an upgrade this week, hits 77-day high; +$1.17 [0.4%] -"
+Tesla,2024-10,23:35:21  [WNCOMA] (TSLA.O) - Tesla Q3 deliveries preview: Wall Street expects a beat as Musk & Co. get their ... -- -
+Tesla,2024-10,"23:34:02  [PRN] (TSLA.O) - AMCI Testing releases its 2nd set of Tesla ""Full Self Driving"" (Supervised) evaluation videos - once again demonstrating unreliable performance and potentially dangerous inconsistencies -"
+Tesla,2024-10,"23:32:53  [BENZIN] (TSLA.O) - Tesla Stock Speeds Ahead Of Mag7 Peers, Can October's Robotaxi Reveal Keep The Momentum? -"
+Tesla,2024-10,"23:32:08  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $261.63) up 2.9% in 2 days, hits 77-day high Tuesday October 01, 2024 07:10 EDT -"
+Tesla,2024-10,"23:28:55  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $261.63) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday October 01, 2024 07:10 EDT -"
+Tesla,2024-10,"23:26:43  [GLOSTO] (TSLA.O) - Tesla (TSLA: $262.61) keeps rising, up 3.3% in 3 days, ranks 11 in today's top 20 rises; +98c [0.4%] -"
+Tesla,2024-10,23:08:38  [RTRS] (WMT.N TSLA.O) - Wall St to open subdued ahead of labor data; Powell signals modest rate cuts (US STOCKS) -
+Tesla,2024-10,22:54:52  [FINGEV] (TSLA.O) - BizzyCar Q3 Recall Report Reveals 21 Million Vehicles Recalled YTD with Tesla Leading in Recall Numbers and Ford Dropping from Second to Fifth in A... -
+Tesla,2024-10,22:48:21  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $261.63) in top 3% performers of NASDAQ-100 Index in September 2024 -
+Tesla,2024-10,"22:39:40  [CNBC] (TSLA.O PINS.N) - Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Ford, Clorox, Netflix, Pinterest, & more -"
+Tesla,2024-10,22:35:50  [PRN] (TSLA.O) - BizzyCar Q3 Recall Report Reveals 21 Million Vehicles Recalled YTD with Tesla Leading in Recall Numbers and Ford Dropping from Second to Fifth in Affected Vehicles -
+Tesla,2024-10,22:21:02  [AUTCOO] (TSLA.O) - A Tesla camera in Ohio captures heist as police discover a new crime-fighting tool -- -
+Tesla,2024-10,"22:17:01  [GLOSTO] (TSLA.O) - Tesla (TSLA: $262.61) keeps rising, up 3.3% in 3 days, ranks 11 in today's top 20 rises; +98c [0.4%] -"
+Tesla,2024-10,22:16:12  [SOUAUA] (TSLA.O) - Watch this Tesla catch fire in Hurricane Helene floodwaters -- -
+Tesla,2024-10,22:13:33  [NOTENG] (TSLA.O) - Tesla makes a splash in September and the Model 3 finishes on the best-selling podium -
+Tesla,2024-10,"22:07:07  [TICREP] (TSLA.O) - 2,368 Shares in Tesla, Inc. (NASDAQ:TSLA) Purchased by New Wave Wealth Advisors LLC -"
+Tesla,2024-10,"21:56:49  [GLOBUL] (TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $261.63) Tuesday October 01, 2024 07:10 EDT -"
+Tesla,2024-10,21:50:07  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $261.63) in top 3% performers of NASDAQ-100 Index in September 2024 -
+Tesla,2024-10,"21:49:22  [MENREP] (TSLA.O) - Aldo Mig/mma/tig-310d Inverter Semi-automatic Welding Machine (or Equivalent), Tesla Weld Mig/mag/mma 303 Semi-automatic Welding Machine (or Equiva... -"
+Tesla,2024-10,21:37:44  [MACAUA] (TSLA.O) - Watch this Tesla catch fire in Hurricane Helene floodwaters -- -
+Tesla,2024-10,21:37:39  [MINDUS] (TSLA.O) - Sweden: Vision announces sympathy measure for IF Metall -
+Tesla,2024-10,21:36:48  [BUSINT] (TSLA.O) - Tesla Q3 deliveries preview: Wall Street expects a beat as Musk & Co. get their 'mojo' back -
+Tesla,2024-10,21:34:28  [INVAUA] (TSLA.O) - Watch this Tesla catch fire in Hurricane Helene floodwaters -- -
+Tesla,2024-10,21:09:44  [YAHNEX] (TSLA.O) - Tesla stock: What will it take to turn Elon Musk's DREAMS into reality? -- -
+Tesla,2024-10,20:57:50  [GLOSTO] (TSLA.O) - Monthly: Tesla (TSLA: $261.63) in top 3% performers of NASDAQ-100 Index in September 2024 -
+Tesla,2024-10,"20:37:30  [TICREP] (TSLA.O) - Granite Bay Wealth Management LLC Makes New $9.31 Million Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"20:29:27  [MARBEA] (TFC.N TSLA.O) - Truist Financial Corp Has $119.71 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"19:07:12  [FORCOO] (TSLA.O) - Tesla Beats The Clock With Early Access To Cybertruck FSD 12.5.5, As Early Videos Show Promise -- -"
+Tesla,2024-10,"18:47:07  [BENZIN] (TSLA.O) - Tesla Bull Sees 'Breadcrumbs' From Elon Musk On EV Giant's Potential Entry Into Aviation Segment, Says It Could Boost Tesla Stock By This Much If H... -"
+Tesla,2024-10,"18:42:03  [SEECOM] (TSLA.O) - Tesla, Elon Musk score a win in legal battle over self-driving marketing -"
+Tesla,2024-10,"18:35:49  [INTTIM] (TSLA.O) - Tesla, Musk Win Shareholder Lawsuit Over Self-Driving Technology -"
+Tesla,2024-10,"18:32:51  [BENZIN] (TSLA.O) - Tesla Senior Exec Says Drivers Of Older Model S, X Vehicles Can Summon Them By Last Quarter Of 2024 -"
+Tesla,2024-10,17:57:45  [ENELIV] (TSLA.O) - Samsung partners with British Gas and Tesla for smarter home energy management -- -
+Tesla,2024-10,17:56:06  [ECOCOM] (TSLA.O) - Taking a sick leave? Think twice as company officials visit employee homes to check -- -
+Tesla,2024-10,17:48:51  [GLOSTO] (TSLA.O) - End-of-Quarter Synopsis Monthly : Tesla (TSLA: $261.63) in top 3% performers of NASDAQ-100 Index in September 2024 -
+Tesla,2024-10,Rand argued that protecting individual liberty is the key to a just society.
+Tesla,2024-10,"17:37:58  [TIMINT] (TSLA.O) - At Elon Musk's Tesla, sick leave checks go viral as company visits employees' homes, sparking Indian toxic boss stories -- -"
+Tesla,2024-10,17:33:47  [EDGEMA] (TSLA.O) - Tesla faces widening strike in Sweden as unions double down -- -
+Tesla,2024-10,17:11:08  [ECOCOM] (TSLA.O) - Tesla's quarterly deliveries set to rise as China incentives lure wary EV buyers -- -
+Tesla,2024-10,The Democrats have become the party of the rich and entitled (just look at their donor list) and the Republicans have become the party of the people. -
+Tesla,2024-10,17:07:12  [FINPOS] (TSLA.O) - Tesla Faces Widening Strike in Sweden as Unions Double Down -- -
+Tesla,2024-10,"The Babylon Bee has initiated a lawsuit against California following Governor Gavin Newsom's approval of laws targeting ""deepfake"" content, which the Bee argues stifles satire and parody."
+Tesla,2024-10,Elon confirmed that Starlink will pursue deals with other U.S. carriers and mobile operators worldwide to expand the Direct-to-Cell service.
+Tesla,2024-10,"16:34:33  [TIMLIV] (TSLA.O) - Tesla, Musk beat shareholder lawsuit over self-driving promises -- -"
+Tesla,2024-10,"16:32:44  [GLOSTO] (TSLA.O) - Tesla (TSLA: $261.63) up 0.4% after an upgrade this week, hits 77-day high; +$1.17 [0.4%] -"
+Tesla,2024-10,16:03:47  [MARBEA] (TSLA.O) - Tesla (NASDAQ:TSLA) Rating Reiterated by Cantor Fitzgerald -- -
+Tesla,2024-10,"16:00:18  [WDAHAT] (TSLA.O) - Family's Tesla catches fire in the garage during Helene, destroying their home -- -"
+Tesla,2024-10,"Also Trump in the same speech: I'm not talking about the neo-Nazis and the white nationalists, because they should be condemned totally."
+Tesla,2024-10,"15:32:16  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Monday September 30, 2024 01:23 EDT -"
+Tesla,2024-10,15:25:51  [WILNIG] (TSLA.O) - US Presidential Poll: Democracy Will Be Over If Trump Loses - Elon Musk -
+Tesla,2024-10,15:09:02  [LITCOM] (TSLA.O) - Watch this Tesla catch fire in Hurricane Helene floodwaters -- -
+Tesla,2024-10,15:02:55  [CANTIO] (TSLA.O) - Watch this Tesla catch fire in Hurricane Helene floodwaters -- -
+Tesla,2024-10,14:53:52  [HAREXP] (TSLA.O) - Watch this Tesla catch fire in Hurricane Helene floodwaters -- -
+Tesla,2024-10,You will have to click on post details to see anything in bold. My eyes are bleeding. -
+Tesla,2024-10,13:11:26  [NOTENG] (TSLA.O) - Tesla catches fire in garage flooded by Hurricane Helene; shocking video reveals disaster -
+Tesla,2024-10,12:52:36  [GLOSTP] (TSLA.O) - Monthly: Tesla (TSLA: $261.63) in top 3% performers of NASDAQ-100 Index in September 2024 -
+Tesla,2024-10,Governor Gavin Newsom signed a bill into law that bars local governments from enacting laws to require residents to show a valid form of identification in order to vote.
+Tesla,2024-10,11:19:09  [MSNSOU] (TSLA.O) - Tesla Drivers Aren't Happy With GM Owners Learning To Use Superchargers -- -
+Tesla,2024-10,"Yes, our team is registering more voters than Taylor Swift."
+Tesla,2024-10,"10:28:24  [ETFDAI] (TSLA.O) - High Falls Advisors Inc Decreases Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,09:49:11  [REGISU] (TSLA.O) - Watch your mirrors: Tesla Cybertrucks have Full Self Driving now -- -
+Tesla,2024-10,09:12:27  [NOTENG] (TSLA.O) - Tesla bursts into flames in flooded Florida garage in the aftermath of Hurricane Helene -
+Tesla,2024-10,09:09:12  [WNCOMA] (TSLA.O) - Suspect at large after road rage shooting on Ga. 400 in Sandy Springs -- -
+Tesla,2024-10,"08:47:42  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Invst LLC -- -"
+Tesla,2024-10,"08:47:06  [TICREP] (TSLA.O) - Magnolia Capital Advisors LLC Purchases 7,303 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"08:31:58  [BENZIN] (TSLA.O) - Tesla Analyst Sets The Stage For 'Game Changing' Robotaxi Event, Anticipates 'Seminal And Historical Day For Musk And Tesla' -"
+Tesla,2024-10,"08:14:15  [YAHCAN] (TSLA.O) - Tesla, Musk beat shareholder lawsuit over self-driving promises -- -"
+Tesla,2024-10,"08:07:31  [YAHNEX] (TSLA.O) - Tesla, Musk beat shareholder lawsuit over self-driving promises -- -"
+Tesla,2024-10,"08:04:42  [LIVEMI] (TSLA.O) - Tesla, Musk beat shareholder lawsuit over self-driving promises -- -"
+Tesla,2024-10,"07:59:19  [RTRS] (TSLA.O) - Tesla, Musk beat shareholder lawsuit over self-driving promises -"
+Tesla,2024-10,07:37:11  [YAHNEX] (TSLA.O) - How to finance a Tesla: In-house and third-party options -- -
+Tesla,2024-10,"07:36:14  [ETFDAI] (TSLA.O) - Brown Shipley& Co Ltd Sells 3,879 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,07:33:34  [RTRS] (TSLA.O NVDA.O) - Broadening gains in US stock market underscore optimism on economy (ANALYSIS) -
+Tesla,2024-10,"07:32:08  [ZOLCOM] (TSLA.O) - Traction Financial Partners LLC Acquires Shares of 1,003 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,07:17:10  [YAHNEX] (TSLA.O) - All the Major Legal Battles Elon Musk and His Companies Are Facing -- -
+Tesla,2024-10,"07:02:30  [BENZIN] (TSLA.O) - Elon Musk, Tesla Win Dismissal Of Full-Self Driving Claims: Judge Tosses Lawsuit -"
+Tesla,2024-10,"06:57:09  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR232.25) up 2.2% in 2 days, hits 76-day high; +EUR4.90 [2.2%] Vol Index 12.7 [1 is avg] -"
+Tesla,2024-10,"06:41:25  [YAHNEX] (TSLA.O) - German Tesla managers are visiting the homes of sick workers to 'appeal to the employees' work ethic,' factory boss says -- -"
+Tesla,2024-10,06:03:09  [ENGADG] (TSLA.O) - Tesla's Full Self-Driving is now available for some Cybertrucks -- -
+Tesla,2024-10,05:47:23  [NEXBIG] (TSLA.O) - Tesla is on the Verge of Revenue and Profits Surging -
+Tesla,2024-10,"05:41:14  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stake Increased by Northwestern Mutual Wealth Management Co. -- -"
+Tesla,2024-10,05:32:21  [WALLST] (TSLA.O) - Technology Legend Larry Ellison Has Over 95% of His Net Worth in 1 Stock -
+Tesla,2024-10,05:26:08  [TRATOP] (TSLA.O) - Tesla Clears Hurdle in Suit Over Self-Driving Tech -- -
+Tesla,2024-10,05:10:41  [SOUCHI] (TSLA.O F.N) - Threat assessment: ranking risk among US companies dealing with China -- -
+Tesla,2024-10,"05:10:26  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Gateway Wealth Partners LLC -- -"
+Tesla,2024-10,"04:28:14  [FORONL] (TSLA.O) - German Tesla managers are visiting the homes of sick workers to 'appeal to the employees' work ethic,' factory boss says -- -"
+Tesla,2024-10,04:05:14  [DIGTRE] (TSLA.O) - Dodge Ram 1500 REV vs. Tesla Cybertruck: premium trucks battle it out -- -
+Tesla,2024-10,"03:46:41  [ETFDAI] (TSLA.O) - Ascent Group LLC Acquires 2,953 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"03:33:58  [AMEBAN] (TSLA.O) - Kathmere Capital Management LLC Increases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,03:27:48  [RTRS] (TSLA.O 002594.SZ) - Tesla's quarterly deliveries set to rise as China incentives lure wary EV buyers (PREVIEW) -
+Tesla,2024-10,03:12:20  [GLOSTO] (TSLA.O MOD.N) - Modine Manufacturing continues to underperform Tesla by 5.1% in the past month -
+Tesla,2024-10,03:09:21  [RTRS] (TSLA.O) - California enacts car data privacy law to curb domestic violence -
+Tesla,2024-10,02:55:45  [GLOSTO] (TSLA.O LKQ.O) - LKQ continues to underperform Tesla by 23.5% in the past month -
+Tesla,2024-10,"02:53:02  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $260.46) adds $20 billion (2.5%) in MCap, top heavyweight rise in NASDAQ-100 Index Monday September 30, 2024 07:09 EDT -"
+Tesla,2024-10,02:52:44  [GLOSTO] (RIVN.O TSLA.O) - Rivian Automotive continues to underperform Tesla by 35.1% in the past month -
+Tesla,2024-10,"02:52:38  [GLOBUL] (.GDAXI .IXIC) - Tesla (TSLA: $260.46) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday September 30, 2024 07:09 EDT -"
+Tesla,2024-10,02:52:34  [GLOSTO] (TSLA.O BMWG.DE) - Tesla continues to outperform Bayerische Motoren Werke by 25.2% in the past month -
+Tesla,2024-10,02:52:22  [GLOSTO] (2015.HK TSLA.O) - Tesla continues to underperform Li Auto by 2.0% in the past month -
+Tesla,2024-10,"02:48:15  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Kathmere Capital Management LLC -- -"
+Tesla,2024-10,02:25:02  [MSNUKA] (TSLA.O) - Tesla investor views likely to remain entrenched after Robotaxi Day: Barclays -- -
+Tesla,2024-10,"02:23:01  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Capital World Investors holdings; soars 32% in 93 days Monday September 30, 2024 12:30 EDT -"
+Tesla,2024-10,"02:23:00  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Capital World Investors holdings; soars 32% in 93 days Monday September 30, 2024 11:32 EDT -"
+Tesla,2024-10,"02:22:57  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $260.46) Monday September 30, 2024 07:09 EDT -"
+Tesla,2024-10,"02:13:01  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Capital World Investors holdings; soars 32% in 93 days Monday September 30, 2024 12:30 EDT -"
+Tesla,2024-10,01:56:20  [GLOSTO] (TSLA.O JCI.N) - Johnson Controls International continues to underperform Tesla by 6.5% in the past month -
+Tesla,2024-10,01:54:22  [GLOSTO] (GPC.N TSLA.O) - Genuine Parts continues to underperform Tesla by 15.3% in the past month -
+Tesla,2024-10,01:54:21  [LATNIG] (TSLA.O) - Tesla factory boss defends knocking on workers' doors when they're off sick at home -- -
+Tesla,2024-10,01:54:14  [GLOSTO] (TSLA.O 9868.HK) - XPeng continues to outperform Tesla by 66.1% in the past month -
+Tesla,2024-10,01:53:58  [GLOSTO] (TSLA.O 0TL.F) - VinFast Auto continues to underperform Tesla by 11.1% in the past month -
+Tesla,2024-10,01:53:55  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-10,01:53:39  [ETFDAI] (TSLA.O) - Tesla's (TSLA) Neutral Rating Reiterated at Cantor Fitzgerald -- -
+Tesla,2024-10,01:53:36  [TICREP] (TSLA.O) - Tesla (NASDAQ:TSLA) Given Neutral Rating at Cantor Fitzgerald -
+Tesla,2024-10,01:29:58  [RTRS] (TSLA.O 600104.SS) - EU says it could continue China EV talks even after tariffs (UPDATE 1) -
+Tesla,2024-10,"01:17:51  [GLOBUL] (TSLA.O) - Confirmatory Bullish Trend: Tesla among top gainers of Capital World Investors holdings; soars 32% in 93 days Monday September 30, 2024 11:32 EDT -"
+Tesla,2024-10,"01:17:45  [NEWUSN] (USD= TSLA.O) - Tesla leads Auto sector 0.3% higher Monday, September 30, 2024 10:00:00 -"
+Tesla,2024-10,"01:17:31  [GLOSTO] (TSLA.O) - Tesla (TSLA: $261.63) hits three-month high, ranks 19 in today's top 20 rises; +$1.17 [0.4%] -"
+Tesla,2024-10,"01:17:28  [GLOSTO] (TSLA.O) - Tesla (TSLA: $261.63) up 2.9% in 2 days, ranks 19 in today's top 20 rises; +$1.17 [0.4%] -"
+Tesla,2024-10,01:09:18  [YAHNEX] (TSLA.O) - Tesla to report Q3 deliveries Wednesday: What to expect -- -
+Tesla,2024-10,01:03:10  [LATNIG] (TSLA.O) - Hurricane Helene Saltwater Sparks Tesla Fire in Florida Garage on Video -- -
+Tesla,2024-10,"00:52:55  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $260.46) adds $20 billion (2.5%) in MCap, top heavyweight rise in NASDAQ-100 Index Monday September 30, 2024 07:09 EDT -"
+Tesla,2024-10,"00:52:45  [GLOBUL] (.GDAXI .IXIC) - Tesla (TSLA: $260.46) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday September 30, 2024 07:09 EDT -"
+Tesla,2024-10,00:42:34  [QUANAV] (TSLA.O) - Tesla's 'Full Self-Driving' can't actually drive that far -
+Tesla,2024-10,"00:42:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $261.63) hits three-month high, ranks 19 in today's top 20 rises; +$1.17 [0.4%] -"
+Tesla,2024-10,"00:42:12  [GLOSTO] (TSLA.O) - Tesla (TSLA: $261.63) up 2.9% in 2 days, ranks 19 in today's top 20 rises; +$1.17 [0.4%] -"
+Tesla,2024-10,"00:41:54  [BENZIN] (TSLA.O) - Market Clubhouse Morning Memo - September 30th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA) -"
+Tesla,2024-10,"00:37:27  [ZOLCOM] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stake Lessened by EP Wealth Advisors LLC -"
+Tesla,2024-10,00:36:08  [WHADAY] (TSLA.O) - Mark Cuban gives Elon Musk a personal warning about Trump after the Tesla billionaire claims this will be the LAST election if the former president... -
+Tesla,2024-10,"00:32:15  [GLOSTO] (TSLA.O) - Tesla (TSLA: $259.07) decreases $1.39, ranks 13 in today's top 20 falls; -$1.39 [-0.5%] -"
+Tesla,2024-10,00:29:12  [VERGEA] (TSLA.O) - Tesla starts pushing Full-Self Driving access for some Cybertrucks -- -
+Tesla,2024-10,00:26:11  [YAHNEX] (TSLA.O) - Tesla's Massive October Starts This Week With Third-Quarter Deliveries -- -
+Tesla,2024-10,00:07:41  [MOTFOO] (TSLA.O) - Should You Buy or Sell Tesla Stock Before Its Biggest Event in Years? -
+Tesla,2024-10,00:07:39  [MOTFOL] (TSLA.O) - Should You Buy or Sell Tesla Stock Before Its Biggest Event in Years? -- -
+Tesla,2024-10,00:07:15  [GLOSTO] (VOWG_p.DE TSLA.O) - Tesla continues to outperform Volkswagen by 21.9% in the past month -
+Tesla,2024-10,"00:01:31  [GLOSTO] (TSLA.O) - Tesla (TSLA: $259.07) decreases $1.39, ranks 13 in today's top 20 falls; -$1.39 [-0.5%] -"
+Tesla,2024-10,23:55:35  [LATNIG] (TSLA.O) - Tesla's Full Self-Driving is now available for some Cybertrucks -- -
+Tesla,2024-10,"23:52:02  [GLOSTO] (TSLA.O) - Tesla (TSLA: $259.45) drops $1.01, ranks 18 in today's top 20 falls; -$1.01 [-0.4%] -"
+Tesla,2024-10,"23:28:39  [ZOLCOM] (TSLA.O) - Garde Capital Inc. Sells 1,778 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"23:27:19  [TICREP] (TSLA.O) - Garde Capital Inc. Has $2.06 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"23:16:50  [GLOSTO] (TSLA.O) - Tesla (TSLA: $259.45) drops $1.01, ranks 18 in today's top 20 falls; -$1.01 [-0.4%] -"
+Tesla,2024-10,"23:12:57  [NOTENG] (TSLA.O) - EsPaja | A Tesla Cybertruck crashed in Cinaruco, Apure State? -"
+Tesla,2024-10,23:11:43  [EINPRE] (TSLA.O) - Elon Musk's Vision for Sustainable Living Realized: SIDCO Homes Launches Tesla Smart Home in Palo Alto -
+Tesla,2024-10,23:11:21  [MOTFOO] (TSLA.O .SPX) - The Tesla share price rockets 24% in one month! Is this just the start? -
+Tesla,2024-10,23:06:48  [GRAIND] (TSLA.O) - Elon Musk's Vision for Sustainable Living Realized: SIDCO Homes Launches Tesla Smart Home in Palo Alto -- -
+Tesla,2024-10,23:02:13  [QUANAV] (TSLA.O) - Tesla is finally rolling out its Full Self-Driving tech to some Cybertrucks -
+Tesla,2024-10,22:59:10  [WNCOMA] (TSLA.O) - Tesla Catches Fire Inside Florida Garage Flooded From Hurricane Helene -- -
+Tesla,2024-10,"22:56:10  [WNCOMA] (NVDA.O TSLA.O) - Dow Jones Futures Fall Ahead Of Powell Speech; Nvidia, Tesla Slide -- -"
+Tesla,2024-10,"22:53:54  [ETFDAI] (TSLA.O) - Next Capital Management LLC Decreases Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"22:52:45  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $260.46) adds $20 billion (2.5%) in MCap, top heavyweight rise in NASDAQ-100 Index Monday September 30, 2024 07:09 EDT -"
+Tesla,2024-10,"22:52:44  [MONMOR] (TSLA.O HD.N) - October Stock Watch: Tesla Leads the EV Surge, Home Depot Rebounds, and More -"
+Tesla,2024-10,"22:52:21  [GLOBUL] (.GDAXI .IXIC) - Tesla (TSLA: $260.46) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Monday September 30, 2024 07:09 EDT -"
+Tesla,2024-10,22:47:47  [GLOSTO] (TSLA.O) - Monday's Preview: Can Tesla continue its recent gains? -
+Tesla,2024-10,22:28:35  [GLOTRA] (TSLA.O) - Tesla among top gainers of Capital World Investors holdings; soars 32% in 93 days; -$1.01 [-0.4%] -
+Tesla,2024-10,"22:17:01  [GLOSTO] (TSLA.O) - Tesla among top gainers of Capital World Investors holdings; soars 32% in 93 days, ranks 18 in today's top 20 falls; -$1.01 [-0.4%] -"
+Tesla,2024-10,"22:14:32  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $260.46) Monday September 30, 2024 07:09 EDT -"
+Tesla,2024-10,22:00:00  [RTRS] (TSLA.O F.N) - Ford to offer free chargers to EV buyers through year-end -
+Tesla,2024-10,21:55:43  [GLOWEE] (TSLA.O) - Weekly: Tesla (TSLA: $260.46) in top 1% performers of NASDAQ-100 Index in past week; +$22.21 [9.3%] -
+Tesla,2024-10,21:47:45  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-10,21:42:42  [GLOSTO] (TSLA.O) - ICYMI: Monday's Preview: Can Tesla continue its recent gains? -
+Tesla,2024-10,21:35:12  [WNCOMA] (TSLA.O) - Musk's Trump Card: Will Tesla Be Boosted Or Totaled? -- -
+Tesla,2024-10,"21:32:15  [ETFDAI] (TSLA.O) - B. Riley Wealth Advisors Inc. Has $14.95 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,21:10:05  [FORCOO] (TSLA.O) - Musk's Trump Card: Will Tesla Be Boosted Or Totaled? -- -
+Tesla,2024-10,20:57:25  [GLOSTO] (TSLA.O) - Update: Monday's Preview: Can Tesla continue its recent gains? -
+Tesla,2024-10,20:49:53  [GLOSTO] (TSLA.O) - Weekly: Tesla (TSLA: $260.46) in top 1% performers of NASDAQ-100 Index in past week; +$22.21 [9.3%] -
+Tesla,2024-10,20:31:50  [BUSINT] (TSLA.O) - Tesla factory boss defends knocking on workers' doors when they're off sick at home -
+Tesla,2024-10,19:31:21  [MSNSOU] (TSLA.O) - The Tesla Cybertruck Finally Gets Full-Self DrivingWith An Asterisk -- -
+Tesla,2024-10,19:27:36  [BENZIN] (TSLA.O) - Tesla Cybertruck Starts Receiving Highly Anticipated FSD Software -
+Tesla,2024-10,"18:48:01  [RTRS] (TSLA.O 600104.SS) - EU to continue China electric vehicle talks even after final vote, say sources -"
+Tesla,2024-10,"18:19:02  [HINDUT] (TSLA.O) - Elon Musk and Vinod Khosla engage in another ugly war of words in public, 'you are dumb' vs 'macho brain' -"
+Tesla,2024-10,17:29:40  [WNCOMA] (TSLA.O) - Mark Cuban warns 'loyal' Elon Musk about Donald Trump: 'The day you will need him...' -- -
+Tesla,2024-10,"16:48:46  [WKRNEW] (TSLA.O) - Tesla (NASDAQ:TSLA) Earns ""Sell"" Rating from Glj Research -- -"
+Tesla,2024-10,16:47:09  [DAILYQ] (TSLA.O) - Tesla's (TSLA) Sell Rating Reaffirmed at Glj Research -
+Tesla,2024-10,The DOJ is suing Alabama for the state trying to remove noncitizens from its voting lists.
+Tesla,2024-10,16:32:06  [DAIONL] (TSLA.O) - Mark Cuban gives Elon Musk a personal warning about Trump after Tesla billionaire claims this will be LAST election if former president doesn't pre... -
+Tesla,2024-10,"1) When you give a government a power, it will never voluntarily relinquish it"
+Tesla,2024-10,"2) If you give a government a power, it will ultimately abuse that power to the maximum extent possible"
+Tesla,2024-10,Threads is just smug hall monitors and snitches as far as the eye can see. -
+Tesla,2024-10,15:00:00  [RTRS] (TSLA.O NVDA.O) - Broadening gains in US stock market underscore optimism on economy (ANALYSIS) -
+Tesla,2024-10,14:42:10  [DIGITI] (TSLA.O) - Possible PMIC contract between DB HiTek and Tesla -- -
+Tesla,2024-10,Take a trip to San Francisco and walk down Market Street.
+Tesla,2024-10,"Now, if you want all of America to look like that, go ahead and vote for her. -"
+Tesla,2024-10,don't forget that *every* new theory was first considered disinformation and heresy until proven correct -
+Tesla,2024-10,- Interviewer: Do you have any plans to visit the border?
+Tesla,2024-10,My observation is that there is far more vicious animosity directed against the right by the left than vice versa.
+Tesla,2024-10,- Less Democrats have friends with diverse political views as they become more educated.
+Tesla,2024-10,"11:49:29  [MSNCAN] (.IXIC TSLA.O) - 1 Stock to Buy, 1 Stock to Sell This Week: Tesla, Levi Strauss -- -"
+Tesla,2024-10,11:35:25  [GURCOM] (TSLA.O) - Elon Musk Warned by Mark Cuban About Alliance with Donald Trump -
+Tesla,2024-10,Cell signal is still practically NON-EXISTENT. Our Asheville Starlink hubs are handling HUNDREDS of people connected to them simultaneously.
+Tesla,2024-10,"With a Trump administration, we can execute major government reform, remove bureaucratic paperwork that is smothering the country and unlock a new age of prosperity. -"
+Tesla,2024-10,10:38:44  [THANEW] (TSLA.O) - World: Time for the Robotaxi? Future trend in focus ahead of Tesla investor update -
+Tesla,2024-10,10:38:29  [MSNUKA] (TSLA.O) - Polestar 4 review: The futuristic all-electric SUV puts Tesla on notice -- -
+Tesla,2024-10,10:31:24  [GURCOM] (TSLA.O) - Tesla (TSLA) Poised for Major Robotaxi Event on October 10 -
+Tesla,2024-10,09:08:42  [YAHIRE] (TSLA.O) - Polestar 4 review: The futuristic all-electric SUV puts Tesla on notice -- -
+Tesla,2024-10,08:53:46  [FINBOL] (TSLA.O) - Why Tesla (TSLA) could be on the verge of a massive rally -
+Tesla,2024-10,$CNEY $DUO $UXIN $NA $LX $GEVO $FTCI $IMRX $PDD $BABA $TSLA $FCX $MSTR $COIN and more -
+Tesla,2024-10,07:53:27  [RTRS] (TSLA.O MSFT.O) - California governor vetoes contentious AI safety bill (UPDATE 1) -
+Tesla,2024-10,07:43:08  [WEBPRO] (TSLA.O) - Farzad: Autonomous Driving Isn't the Future; It's Happening Now -- -
+Tesla,2024-10,$NKE reports Tuesday otherswise looking like a semi slow week in terms of events.
+Tesla,2024-10,"05:58:06  [TICREP] (TSLA.O) - Doheny Asset Management CA Sells 510 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,05:31:21  [MSNSOU] (TSLA.O) - Here are 12 of the longest-range electric cars you can buy today -- -
+Tesla,2024-10,"Housing costs are a big barrier to having kids in the US and other countries. Where immigration exceeds the ability to add housing, young people are priced out."
+Tesla,2024-10,04:15:08  [YAHNEX] (TSLA.O) - Tesla's Delivery Numbers Are Due. Wall Street Has Taken All the Fun Out of It. -- -
+Tesla,2024-10,01:11:54  [DAIONL] (TSLA.O) - Furious Tesla Cybertruck driver is turned away from car wash for bizarre reason -
+Tesla,2024-10,"01:06:54  [BENZIN] (TSLA.O 9866.HK) - Tesla's Chinese Rival Nio Snags $1.9B Investment From Parent, Strategic Investors As It Forays Into Mass Market -"
+Tesla,2024-10,"Now that thousands of noncitizen voter files are being discovered in state after state, Democrats are trying to stop those states from removing noncitizens from their voter files"
+Tesla,2024-10,00:46:46  [WHADAY] (TSLA.O) - Furious Tesla Cybertruck driver is turned away at car wash for strange reason -- -
+Tesla,2024-10,"00:31:11  [MSNUKA] (.IXIC TSLA.O) - 1 Stock to Buy, 1 Stock to Sell This Week: Tesla, Levi Strauss -- -"
+Tesla,2024-10,"23:15:55  [TICREP] (TSLA.O) - Coastal Bridge Advisors LLC Decreases Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"21:26:51  [MARBEA] (TSLA.O) - Silver Lake Advisory LLC Acquires New Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"21:23:26  [TICREP] (TSLA.O) - Nemes Rush Group LLC Has $2.32 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"21:02:09  [NEWPEO] (TSLA.O) - Elon Musk CEO of Tesla in top 10% of NASDAQ stocks (aka Musk Elon) Sunday September 29, 2024 -"
+Tesla,2024-10,"20:45:38  [WNCOMA] (TSLA.O) - Tesla visits homes to check staff in Germany who called in sick, gets slammed doors ... -- -"
+Tesla,2024-10,20:34:09  [FREJOU] (TSLA.O) - 'FAA Smothering National Space Program': SpaceX Chief Elon Musk Lashes Out At Regulatory Agency -
+Tesla,2024-10,"20:27:55  [USOFFI] (TSLA.O) - Federal Register Notice: Tesla, Inc., Receipt of Petition for Decision of Inconsequential Noncompliance (Updated on 27-09-2024) -"
+Tesla,2024-10,20:17:01  [DAILYQ] (TSLA.O) - T-Rex 2X Long Tesla Daily Target ETF (NASDAQ:TSLT) Short Interest Up 48.1% in September -
+Tesla,2024-10,20:08:32  [WNCOMA] (TSLA.O) - How Europe's battery hope has become a symbol of the EV bust -- -
+Tesla,2024-10,17:06:10  [TIMNOW] (TSLA.O) - Tesla CEO To Secure US Government Position? Donald Trump Teases Elon Musk-Led 'Efficiency Department' -- -
+Tesla,2024-10,"16:43:03  [DAILYQ] (TSLA.O) - Tesla's (TSLA) ""Outperform"" Rating Reiterated at Royal Bank of Canada -"
+Tesla,2024-10,"""There are really two fundamental paths. History is going to bifurcate along two directions."
+Tesla,2024-10,"15:35:09  [WKRNEW] (TSLA.O) - Tesla's (TSLA) ""Outperform"" Rating Reiterated at Royal Bank of Canada -- -"
+Tesla,2024-10,12:19:13  [GLOTIM] (TSLA.O) - Tesla Shanghai plant exports 1 million made-in-China vehicles in less than 4 years -
+Tesla,2024-10,"12:14:32  [ZOLCOM] (TSLA.O) - Beaird Harris Wealth Management LLC Buys 821 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,10:10:20  [WNCOMA] (TSLA.O) - Brazil judge says will lift Musk's X ban if $1.8 million fine paid -- -
+Tesla,2024-10,09:58:20  [WNCOMA] (TSLA.O) - Are the Chechens using Elon Musk owned Tesla Cybertruck in the war against Ukraine? Video surfaces -- -
+Tesla,2024-10,07:02:54  [CANLET] (TSLA.O) - Why is the Tesla Model 3 so addicting to drive? -
+Tesla,2024-10,06:15:36  [ECOCOM] (TSLA.O) - Are the Chechens using Elon Musk owned Tesla Cybertruck in the war against Ukraine? Video surfaces -- -
+Tesla,2024-10,05:15:58  [NOTENG] (TSLA.O) - The luxury Tesla Cybertruck Berlanga bought after fighting 'Canelo' and winning US$10 million in Las Vegas -
+Tesla,2024-10,"04:42:34  [ZOLCOM] (TSLA.O) - Sepio Capital LP Purchases 9,626 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,04:33:09  [MARDAJ] (TSLA.O) - Tesla (NASDAQ:TSLA) Trading Down 1.2% After Insider Selling -
+Tesla,2024-10,03:26:05  [YAHCAN] (TSLA.O) - Cybertruck Owner Says Windshield Shattered When Wiped With a Microfiber Cloth -- -
+Tesla,2024-10,03:24:48  [NEWUSN] (STT.N TSLA.O) - Tesla top gainer among State Street holdings; jumps 32% in 89 days -
+Tesla,2024-10,03:24:11  [WNCOMA] (TSLA.O) - Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. Bayer Leverkusen From Anywhere -- -
+Tesla,2024-10,03:23:47  [NEWUSN] (TSLA.O) - Tesla top gainer among Geode Capital Management holdings; jumps 32% in 89 days -
+Tesla,2024-10,23:57:21  [BUSINT] (TSLA.O LYFT.O) - Elon Musk's Robotaxi is still miles away from overtaking Uber and Lyft in the ride-hailing race -
+Tesla,2024-10,"23:57:12  [HINBUS] (TSLA.O) - Tesla unveils game-changing Robotaxi, set to launch in 2026 -- -"
+Tesla,2024-10,23:51:41  [MARBEA] (TSLA.O) - Tesla's (TSLA) Hold Rating Reiterated at Needham & Company LLC -- -
+Tesla,2024-10,23:48:38  [GLOSTO] (TSLA.O) - ICYMI: Investors concerned as Tesla down in recent days -
+Tesla,2024-10,23:48:11  [GIZMOD] (TSLA.O) - Elon Musk's Beer-Pouring Optimus Robots Are Not Autonomous -- -
+Tesla,2024-10,23:47:50  [GLOSTO] (TSLA.O) - Investors concerned as Tesla down in recent days -
+Tesla,2024-10,"23:47:34  [WNCOMA] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,"23:47:04  [BENZIN] (TSLA.O) - Tesla, A. O. Smith And Other Big Stocks Moving Lower In Friday's Pre-Market Session -"
+Tesla,2024-10,"23:45:44  [FASCON] (TSLA.O) - Tesla stock price sinks after Elon Musk's 'We, Robot' Cybercab event fails to impress -- -"
+Tesla,2024-10,"23:45:38  [ZERHED] (TSLA.O) - ""'We, Robot' 10/10 Event"": Wall Street Reacts To Elon Musk's Big Cybercab Debut -- -"
+Tesla,2024-10,23:42:37  [QUANAV] (TSLA.O) - Tesla stock sinks over 8% after Elon Musk's robotaxi reveal disappoints investors -
+Tesla,2024-10,"23:41:38  [QUANAV] (TSLA.O) - A 'Cybercab,' a surprise 'Robovan,' and a bartending robot: 5 takeaways from Tesla's robotaxi launch -"
+Tesla,2024-10,"23:40:10  [EDMSUO] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,23:36:08  [UNIPRE] (TSLA.O) - Tesla stocks fall in premarket trading after Cybercab introduction -- -
+Tesla,2024-10,"It covers all transportation needs with fewer cars, since they won't sit idle for most of the day anymore"
+Tesla,2024-10,23:26:57  [SEECOM] (TSLA.O) - Tesla slides as analysts point to a lack of data and details to support the robotaxi vision -
+Tesla,2024-10,"23:24:04  [GLOSTP] (.IXIC TSLA.O) - Tesla sheds $28.5 billion in MCap in 2024, biggest drop in Auto sector -"
+Tesla,2024-10,"23:23:39  [TORSUN] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,"23:22:43  [GLOSTP] (TSLA.O .NDX) - NetApp soars 42% in 2024, outperforming 81% of its global peers -"
+Tesla,2024-10,"23:21:10  [OTTSUN] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,"23:18:42  [CALSUN] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,23:16:59  [BENZIN] (TSLA.O) - Tesla Stock Poised To Pullback To 1-Month Low: What's Going On? -
+Tesla,2024-10,23:14:15  [CHIORG] (TSLA.O) - 1st LD-Writethru: Tesla Shanghai factory hits milestone output of 3 mln cars -- -
+Tesla,2024-10,"23:13:47  [MARBEA] (TSLA.O) - Private Advisory Group LLC Has $12.41 Million Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,23:08:13  [BERMAL] (TSLA.O) - Elon Musk Wows Tesla Crowd With Fully Autonomous Cybercab And Other Robots -- -
+Tesla,2024-10,23:06:16  [SOUCHI] (TSLA.O) - Tesla's robotaxi event draws mixed reaction in China where Elon Musk faces tough rivals -- -
+Tesla,2024-10,23:06:14  [REGISU] (TSLA.O) - Tesla's big reveal: Steering-wheel-free Robotaxi will charge wirelessly -- -
+Tesla,2024-10,23:05:15  [YAHIRE] (TSLA.O) - Elon Musk unveils long-awaited Tesla Cybercab self-driving robotaxi -- -
+Tesla,2024-10,"23:03:19  [CTVCAN] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,"23:03:18  [DAIONL] (TSLA.O) - Elon Musk showcases army of $30,000 'Optimus' robots designed to help with household chores including 'babysitting your kids' ... drawing compariso... -"
+Tesla,2024-10,23:00:15  [YAHNEX] (TSLA.O) - Elon Musk announces launch of Tesla's self-driving robotaxi Cybercab -- -
+Tesla,2024-10,"23:00:07  [WHADAY] (TSLA.O) - Elon Musk showcases army of $30,000 'Optimus' robots designed to help with household chores including 'babysitting your kids' ... drawing compariso... -"
+Tesla,2024-10,22:57:38  [YAHIRE] (TSLA.O) - Swedish court upholds ruling against Tesla in labour dispute -- -
+Tesla,2024-10,"22:56:18  [KINWHI] (TSLA.O) - Elon Musk unveils $30,000 Tesla Cybercab with 2026 production, but details lacking -- -"
+Tesla,2024-10,22:53:12  [YAHNEX] (TSLA.O) - Swedish court upholds ruling against Tesla in labour dispute -- -
+Tesla,2024-10,"22:52:44  [THENEW] (TSLA.O) - Elon Musk promises images from...Blade Runner ""in a few years"": Driverless taxis & humanoid robots everywhere -- -"
+Tesla,2024-10,"22:52:18  [GLOBEA] (.GDAXI .IXIC) - Tesla (TSLA: $238.77) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday October 11, 2024 07:10 EDT -"
+Tesla,2024-10,"22:52:12  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $238.77) Friday October 11, 2024 07:10 EDT -"
+Tesla,2024-10,22:51:58  [XINHUN] (TSLA.O) - 1st LD-Writethru: Tesla Shanghai factory hits milestone output of 3 mln cars -
+Tesla,2024-10,"22:51:13  [ETFDAI] (TSLA.O) - Steigerwald Gordon & Koch Inc. Decreases Stock Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"22:47:26  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $238.77) drops to 21-day low Friday October 11, 2024 07:10 EDT -"
+Tesla,2024-10,"22:46:59  [BENZIN] (TSLA.O LYFT.O) - Why Uber, Lyft Shares Are Speeding Up In Friday's Premarket -"
+Tesla,2024-10,"22:45:44  [ECOCOM] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,22:44:48  [INDTOE] (TSLA.O) - Elon Musk's Tesla humanoid Optimus says hardest part of being a robot is trying to be human -- -
+Tesla,2024-10,22:42:18  [GLOSTO] (TSLA.O) - ICYMI: Investors concerned as Tesla down in recent days -
+Tesla,2024-10,22:39:42  [RTRS] (TSLA.O) - Swedish court upholds ruling against Tesla in labour dispute -
+Tesla,2024-10,"22:39:38  [GLOSTP] (.IXIC TSLA.O) - Tesla sheds $28.5 billion in MCap in 2024, biggest drop in Auto sector -"
+Tesla,2024-10,22:39:21  [WNCOMA] (TSLA.O) - Optimus robots danced on a lit-up stage and served drinks at Tesla's robotaxi event -- -
+Tesla,2024-10,22:37:06  [YAHNEX] (TSLA.O) - Why Amazon's Zoox is taking a different approach to autonomous taxis -- -
+Tesla,2024-10,22:36:44  [INTTHI] (TSLA.O) - Tesla Unveils Sub-$30k Self-Driving Taxi Set for 2026 Launch -- -
+Tesla,2024-10,"22:33:17  [GLOSTP] (TSLA.O .NDX) - NetApp soars 42% in 2024, outperforming 81% of its global peers -"
+Tesla,2024-10,22:28:04  [RTRS] (TSLA.O PDD.O) - Futures mixed as banks kick off Q3 earnings season; Tesla falls (US STOCKS) -
+Tesla,2024-10,"22:27:17  [YAHSIN] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,22:26:30  [SEECOM] (TSLA.O) - EV sector weighed down by lackluster response to Cybercab unveiling -
+Tesla,2024-10,"22:12:31  [NOTENG] (TSLA.O) - Elon Musk unveils the Tesla Cybercab, the autonomous car that will cost 27,500 euros. -"
+Tesla,2024-10,22:10:42  [COITEL] (TSLA.O) - Elon Musk says unsupervised self-driving cars would 'save lives' -- -
+Tesla,2024-10,22:10:11  [GLOMAI] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab' robotaxi as focus shifts to automation -- -
+Tesla,2024-10,22:09:59  [RTRS] (USD= TSLA.O) - Stocks trade sideways awaiting China stimulus moves (GLOBAL MARKETS) -
+Tesla,2024-10,22:09:33  [FORSTR] (TSLA.O) - Beyond EVs: Tesla's AI pivot and the future of TSLA -- -
+Tesla,2024-10,22:06:54  [TBREAK] (TSLA.O) - Tesla's new Cybercab and futuristic 20-seat Robovan show it's lost its grip on reality -
+Tesla,2024-10,"22:06:09  [GLOMAI] (TSLA.O) - Tesla robotaxi event was long on promises, but investors wanted more details -- -"
+Tesla,2024-10,22:03:14  [YAHNEX] (TSLA.O) - Tesla Stock Sinks. Why the Event Was a Let Down. -- -
+Tesla,2024-10,"22:02:36  [DAIONL] (TSLA.O) - Inside Tesla's futuristic Robotaxi: Elon Musk's long-awaited driverless cab features NO steering wheel or pedals - and could cost less than $30,000 -"
+Tesla,2024-10,21:56:19  [INDTOE] (TSLA.O) - Video: Elon Musk takes a ride in Tesla's self-driving robotaxi -- -
+Tesla,2024-10,"21:53:14  [NBCNEW] (TSLA.O) - Musk unveils $30,000 Tesla self-driving Cybercab and larger Robovan at robotaxi event -- -"
+Tesla,2024-10,21:52:42  [SHICNA] (TSLA.O) - Tesla Shanghai factory hits milestone output of 3 mln cars -- -
+Tesla,2024-10,"21:52:16  [WALLST] (TSLA.O) - Investors Reject Tesla's Driverless Dreams, but Stock Value Remains High -"
+Tesla,2024-10,21:49:09  [PITPOS] (TSLA.O AUR.O) - KINGS OF THE HIGHWAY? AURORA DISTANCES ITSELF FROM TESLA AS MUSK UNVEILS ROBOTAXI -
+Tesla,2024-10,21:48:50  [EURNEW] (TSLA.O) - Tesla's Cybercab autonomous vehicle revealed: Is this the 'ChatGPT moment for robotaxis'? -- -
+Tesla,2024-10,21:48:18  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-10,21:47:33  [GLOSTO] (TSLA.O) - Update: Investors concerned as Tesla down in recent days -
+Tesla,2024-10,"21:43:46  [GLOMAI] (TSLA.O) - Tesla robotaxi event was long on promises, but investors wanted more details -- -"
+Tesla,2024-10,"21:43:22  [DIGITI] (TSLA.O) - Musk shows Tesla Cybercab, sees sub-US$30,000 cost and 2026 production -- -"
+Tesla,2024-10,"21:39:18  [SAHREP] (TSLA.O) - Elon Musk Shares Video Of Tesla's Humanoid Robot That Can Babysit Kids, Get Groceries, Serve Drinks -- -"
+Tesla,2024-10,"21:36:56  [BENZIN] (TSLA.O) - Elon Musk's Fully Autonomous Driving Dreams Now Scheduled For 2025, But Regulatory Hurdles Stand In The Way Of Tesla's Robotaxi Rollout -"
+Tesla,2024-10,21:34:11  [YAHNEX] (TSLA.O) - Dow Jones Futures Fall; Tesla Stock Tumbles After Robotaxi Event -- -
+Tesla,2024-10,21:32:48  [WNCOMA] (TSLA.O) - Futures fall as investors brace for earnings season; Tesla dips -- -
+Tesla,2024-10,21:32:34  [DAIONL] (TSLA.O) - Elon Musk is mocked for his bizarre pronunciation of 'Robovan' - as one Tesla fan claims he 'makes it sound like a herpes medication' -
+Tesla,2024-10,"21:32:06  [WATNEW] (TSLA.O) - Cantor Fitzgerald Reiterates ""Neutral"" Rating for Tesla (NASDAQ:TSLA) -"
+Tesla,2024-10,21:32:03  [TRADAJ] (TSLA.O) - Royal Bank of Canada Raises Tesla (NASDAQ:TSLA) Price Target to $236.00 -
+Tesla,2024-10,21:31:28  [RTRS] (USD= TSLA.O) - Stocks trade sideways awaiting China stimulus moves (GLOBAL MARKETS) -
+Tesla,2024-10,21:26:42  [CHIORG] (TSLA.O) - Tesla Shanghai factory hits milestone output of 3 mln cars -- -
+Tesla,2024-10,"21:25:11  [YAHIRE] (TSLA.O) - What is the Tesla Robovan? Elon Musk unveils driverless taxis, shuttles and droids at We, Robot event -- -"
+Tesla,2024-10,21:22:14  [SHAENG] (TSLA.O) - Tesla Cybercab: Five Takeaways as Elon Musk Unveils Robotaxi -- -
+Tesla,2024-10,21:13:45  [NOTENG] (TSLA.O) - New from Tesla: robots and cars that will revolutionize the future -
+Tesla,2024-10,21:10:15  [YAHNEX] (TSLA.O UBER.N) - Uber shares gain 5% after 'toothless' Robotaxi event -- -
+Tesla,2024-10,21:05:22  [XINHUN] (TSLA.O) - Tesla Shanghai factory hits milestone output of 3 mln cars -
+Tesla,2024-10,"21:02:36  [DPAENG] (TSLA.O) - 1ST LEADTesla presents Cybercab and self-driving bus at Hollywood eventBy Andrej Sokolow, dpa -"
+Tesla,2024-10,21:02:33  [MIRONL] (TSLA.O) - Elon Musk vows 'everyone will have their own personal R2D2 or C3PO' as Tesla unveils Optimus Robot -
+Tesla,2024-10,21:01:52  [FINEXP] (TSLA.O) - Look ma no steering wheel: Tesla unveils driverless Cybercab -
+Tesla,2024-10,20:58:10  [LATNIG] (TSLA.O) - Reactions as Elon Musk's Tesla company shows off humanoid robots capable of working like humans -- -
+Tesla,2024-10,"20:58:02  [RTRS] (UBER.N TSLA.O) - Uber, Lyft rise as Tesla's 'toothless' robotaxi event eases competition fears (BUZZ) -"
+Tesla,2024-10,*TESLA SHARES DOWN 6% PREMARKET; CEO ELON MUSK UNVEILS 'CYBERCAB' ROBOTAXI
+Tesla,2024-10,20:46:13  [DECHER] (TSLA.O) - Elon Musk shows off Tesla 'Robotaxi' that drives itself -- -
+Tesla,2024-10,20:43:16  [DPAENG] (TSLA.O) - Tesla presents Cybercab and self-driving bus at Hollywood event -
+Tesla,2024-10,"20:43:13  [GULTOD] (TSLA.O) - Elon Musk unveils Tesla's first Cybercab, Robovan and futuristic robot -- -"
+Tesla,2024-10,"20:36:03  [ASIAON] (TSLA.O) - Tesla robotaxi event was long on promises, but investors wanted more details -- -"
+Tesla,2024-10,20:33:41  [TIMNOW] (TSLA.O) - Elon Musk Introduces Army Of Humanoid Robots: What Makes Tesla's Optimus So Special? -- -
+Tesla,2024-10,20:33:40  [NAICOM] (TSLA.O) - Elon Musk's Tesla displays humanoid Optimus robots that can serve drinks and do tasks on their own -- -
+Tesla,2024-10,"20:30:14  [DECHER] (TSLA.O) - 'We, Robot' Event: Elon Musk introduces robotaxi Cybercab and Optimus humanoid robot -- -"
+Tesla,2024-10,"I checked in with the team, is there anything we could do to improve the pace of progress with respect to training and inference?"
+Tesla,2024-10,"20:27:38  [MSNUKA] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab', 'Robovan' as focus shifts to automation -- -"
+Tesla,2024-10,"20:27:11  [YAHNEX] (TSLA.O) - Musk Shows Tesla Cybercab, Sees Sub-$30,000 Cost and 2026 Production -- -"
+Tesla,2024-10,"20:26:43  [ETFDAI] (TSLA.O) - Sanders Morris Harris LLC Purchases 299 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"20:25:06  [ETFDAI] (TSLA.O) - Kelly Financial Services LLC Purchases 76 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,20:22:00  [MOTFOO] (TSLA.O) - Should I buy Tesla stock for my ISA after the 10/10 robotaxi event? -
+Tesla,2024-10,"The view from the inside is one of extreme openness, with visibility in all directions, although it may appear otherwise from the outside. -"
+Tesla,2024-10,"20:13:49  [NOTENG] (TSLA.O) - Tesla Cybercab: the 'robotaxi' Elon Musk will sell for less than 27,500 euros -"
+Tesla,2024-10,20:13:41  [NOTENG] (TSLA.O) - Elon Musk unveils self-driving robotaxi and humanoid robots that promise to do household chores -
+Tesla,2024-10,20:13:19  [WHADAY] (TSLA.O) - Elon Musk presents the Tesla Cybercab autonomous robotaxi -- -
+Tesla,2024-10,20:12:56  [NOTENG] (TSLA.O) - Cybercab 'takes off': How much will Tesla's new vehicle without steering wheel or pedals cost? -
+Tesla,2024-10,"20:12:13  [QUANAV] (TSLA.O) - Tesla's robotaxi demo, GM's gas-guzzlers, and luxury car sales tank: Autos news roundup -"
+Tesla,2024-10,"20:02:09  [TIMNOW] (TSLA.O) - Tesla's New Autonomous Cybercab Is A $30,000 Two-Seater With No Steering Wheel -- -"
+Tesla,2024-10,19:57:16  [MSNUKA] (TSLA.O) - Musk Says Tesla's New Robovan Can Carry Up to 20 People -- -
+Tesla,2024-10,19:57:05  [BLOCKO] (TSLA.O) - Tesla Announces Autonomous Robotaxi and Robovan for 2025 Launch -
+Tesla,2024-10,"It covers all transportation needs with fewer cars, since they won't sit idle for most of the day anymore"
+Tesla,2024-10,"19:34:14  [SHAENG] (TSLA.O) - Elon Musk Shares Vision for Optimus Robots at We, Robot Event video -- -"
+Tesla,2024-10,"19:29:13  [YAHNEX] (TSLA.O) - Tesla robotaxi event was long on promises, but investors wanted more details -- -"
+Tesla,2024-10,03:40 What kind of world do we want to live in?
+Tesla,2024-10,"19:27:00  [BENZIN] (TSLA.O) - Tesla Analysts Rave Over Cybercab's Design, Cost Advantage, But Production Timeline Sparks Worry: 'Too Far Out For Skeptical Investors To Get On Bo... -"
+Tesla,2024-10,19:26:05  [RTRS] (USD= TSLA.O) - Stocks trade sideways awaiting China stimulus moves (GLOBAL MARKETS) -
+Tesla,2024-10,19:22:16  [GMANEW] (TSLA.O) - Tesla unveils 'Cybercab' robotaxi as focus shifts to automation -- -
+Tesla,2024-10,19:21:02  [RTRS] (TSLA.O) - TESLA SHARES EXTEND LOSSES IN PREMARKET; LAST DOWN 5.9% -
+Tesla,2024-10,"19:20:21  [RTRS] (TSLA.O) - Tesla robotaxi event was long on promises, but investors wanted more details -"
+Tesla,2024-10,"19:14:10  [NOTENG] (TSLA.O) - Elon Musk unveils the Cybercab, Tesla's long-awaited robotaxi: no steering wheel, no driver, priced under $20,000 and will start production in 2026 -"
+Tesla,2024-10,"19:13:55  [NOTENG] (TSLA.O) - Elon Musk unveils the Tesla Cybercab, the robotaxi that ""will save many lives"". -"
+Tesla,2024-10,19:02:57  [RTRS] (TSLA.O) - TESLA SHARES DOWN 3.9% PREMARKET; CEO ELON MUSK UNVEILS 'CYBERCAB' ROBOTAXI -
+Tesla,2024-10,"19:01:18  [CHIGLO] (TSLA.O) - Elon Musk unveils two-door robotaxi, no production until 2026 -- -"
+Tesla,2024-10,19:00:40  [CNETAA] (GOOGL.O TSLA.O) - Tesla Cybercab: A Robotaxi of Your Own for Under $30k -- -
+Tesla,2024-10,19:00:38  [LATNIG] (TSLA.O) - Elon Musk's Tesla unveils its robotaxi: The Cybercab -- -
+Tesla,2024-10,18:46:34  [WASHPO] (TSLA.O) - Musk has long promised a robotaxi. Will he deliver? -
+Tesla,2024-10,"18:45:09  [CNETAA] (TSLA.O GOOGL.O) - Elon Musk Shares Vision for Optimus Robots at 'We, Robot' Event -- -"
+Tesla,2024-10,"18:41:15  [WNCOMA] (TSLA.O) - Elon Musk unveils Tesla's first Cybercab, Robovan and futuristic robot -- -"
+Tesla,2024-10,18:26:53  [EURNEW] (TSLA.O) - Tesla finally unveils its long-awaited cybercab Robotaxi -- -
+Tesla,2024-10,"18:26:15  [BUSSTA] (TSLA.O) - Tesla unveils Optimus robot: 'Can do anything you think of', claims Musk -"
+Tesla,2024-10,18:22:41  [MACAUA] (TSLA.O) - Musk unveils 'Cybercab' as focus shifts to automation -- -
+Tesla,2024-10,"18:21:44  [WNCOMA] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab', plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,18:21:14  [HAREXP] (TSLA.O) - Musk unveils 'Cybercab' as focus shifts to automation -- -
+Tesla,2024-10,18:20:15  [SOUAUA] (TSLA.O) - Musk unveils 'Cybercab' as focus shifts to automation -- -
+Tesla,2024-10,18:19:19  [INVAUA] (TSLA.O) - Musk unveils 'Cybercab' as focus shifts to automation -- -
+Tesla,2024-10,18:17:53  [YAHIRE] (TSLA.O) - Elon Musk unveils Tesla's new robotaxi with no steering wheel or pedals -- -
+Tesla,2024-10,18:17:28  [RTRS] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab' robotaxi as focus shifts to automation (UPDATE 8) -
+Tesla,2024-10,"18:16:25  [WNCOMA] (TSLA.O) - Elon Musk unveils surprise 'robovan' at flashy Tesla event, says Optimus humanoid robots will cost ... -- -"
+Tesla,2024-10,18:12:18  [LITCOM] (TSLA.O) - Musk unveils 'Cybercab' as focus shifts to automation -- -
+Tesla,2024-10,"18:12:15  [NOTENG] (TSLA.O) - Tesla unveils the 'Robotaxi' and 'Robovan', the future of its transports -"
+Tesla,2024-10,18:12:09  [NOTENG] (TSLA.O) - Tesla Robotaxi: Follow LIVE the presentation of Elon Musk's new vehicle. -
+Tesla,2024-10,18:08:11  [CANTIO] (TSLA.O) - Musk unveils 'Cybercab' as focus shifts to automation -- -
+Tesla,2024-10,18:07:10  [CRYBAS] (TSLA.O) - Shiba Inu Takes a Ride in Elon Musk's Latest Driverless Cybercab -
+Tesla,2024-10,17:57:12  [GLOREV] (TSLA.O) - Tesla to give permanent jobs to 500 temporary staff at German gigafactory -- -
+Tesla,2024-10,"17:57:02  [ARAPOS] (TSLA.O) - Musk Reveals Tesla Cybercab, Aims for $30,000 Robotaxi by 2026 -"
+Tesla,2024-10,17:56:13  [WNCOMA] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab' robotaxi as focus shifts to automation -- -
+Tesla,2024-10,"17:56:08  [PRETRU] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,"17:55:13  [WNCOMA] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,17:55:12  [BER] (TSLA.O) - ELON MUSK WOWS TESLA CROWD WITH FULLY AUTONOMOUS CYBERCAB AND OTHER ROBOTS -
+Tesla,2024-10,17:41:40  [GULCOM] (TSLA.O) - Telsa CEO Elon Musk unveils robotaxi and robovan: 7 takeaways -- -
+Tesla,2024-10,17:41:37  [RTECOM] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab' robotaxi as focus shifts to automation -- -
+Tesla,2024-10,17:40:09  [CLECON] (TSLA.O) - Will Tonight's Tesla Robotaxi Event Produce Excitement Or Disappointment? -- -
+Tesla,2024-10,17:37:13  [BUSWOS] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab' robotaxi as focus shifts to automation -- -
+Tesla,2024-10,17:30:12  [TIMLIV] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab' robotaxi as focus shifts to automation -- -
+Tesla,2024-10,17:28:34  [HANIND] (TSLA.O) - Elon Musk Unveils Tesla's Optimus: A Humanoid Robot That Can Do Almost Anything -- -
+Tesla,2024-10,17:27:12  [HANIND] (TSLA.O) - Elon Musk Unveils Tesla's Optimus: A Humanoid Robot That Can Do Almost Anything Hans News Service | 11 Oct 2024 11:54 AM IST -- -
+Tesla,2024-10,"17:13:29  [NOTENG] (TSLA.O) - Details of Cybercap, Tesla's new driverless cab announced by Elon Musk -"
+Tesla,2024-10,17:13:24  [NOTENG] (TSLA.O) - Live: Tesla unveils its groundbreaking artificial intelligence vehicle -
+Tesla,2024-10,17:13:16  [AUTOCA] (TSLA.O) - Tesla Robotaxi finally revealed: self-driving coupe due by 2027 -- -
+Tesla,2024-10,17:12:59  [NOTENG] (TSLA.O) - Elon Musk says Tesla will begin production of the Cybercab autonomous cab in 2026 -
+Tesla,2024-10,17:12:26  [NOTENG] (TSLA.O) - Elon Musk unveils Cybercab: Tesla's autonomous cab that promises to transform urban mobility -
+Tesla,2024-10,"17:09:47  [WNCOMA] (TSLA.O) - Elon Musk unveils the Robovan: the biggest surprise from Tesla's We, Robot event -- -"
+Tesla,2024-10,"17:08:10  [STRMLS] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab', plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,17:01:39  [WASHPO] (TSLA.O) - 7 times Elon Musk's predictions about Tesla's self-driving cars fell short -
+Tesla,2024-10,17:00:56  [RTRS] (TSLA.O TD.TO) - New York Times business news - Oct 11 (PRESS DIGEST) -
+Tesla,2024-10,"16:58:12  [FIRSTP] (TSLA.O) - Tesla unveils new fully autonomous robotaxi, Elon Musk's 'Cybercab is a car with no steering wheel or pedals -- -"
+Tesla,2024-10,"16:55:01  [WNCOMA] (TSLA.O) - Elon Musk hypes $30,000 Tesla self-driving Cybercab and larger Robovan at robotaxi event -- -"
+Tesla,2024-10,16:52:24  [INVEZZ] (TSLA.O) - Tesla unveils Cybercab under $30K: can Elon Musk meet the 2026 deadline? -
+Tesla,2024-10,"16:48:15  [LATNIG] (TSLA.O) - Elon Musk unveils the Robovan: the biggest surprise from Tesla's We, Robot event -- -"
+Tesla,2024-10,"16:48:12  [FINGEV] (TSLA.O) - Tesla Pulls An Apple, Drops The Charging Port Before Cupertino Could Remove It From The iPhone -- -"
+Tesla,2024-10,"16:48:11  [RTRS] (USD= TSLA.O) - Asian shares set for first weekly loss in five, China stimulus eyed (GLOBAL MARKETS) -"
+Tesla,2024-10,"16:47:47  [LATNIG] (TSLA.O) - Elon Musk claims ""unsupervised"" FSD will come to TX and CA in 2025 for select models and shows a Tesla Robovan, meant to be autonomous and carry up... -"
+Tesla,2024-10,16:47:13  [SHICNA] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab'robotaxi as focus shifts to automation -- -
+Tesla,2024-10,"16:47:09  [TRTTUR] (TSLA.O) - Musk unveils Tesla's 'Cybercab', new autonomous driving tech and robots -"
+Tesla,2024-10,"16:44:14  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stake Boosted by Cwm LLC -- -"
+Tesla,2024-10,"16:44:11  [ETFDAI] (TSLA.O) - O Connor Financial Group LLC Acquires Shares of 786 Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"16:41:11  [TRTWOR] (TSLA.O) - Musk unveils Tesla's 'Cybercab', new autonomous driving tech and robots -- -"
+Tesla,2024-10,"16:38:12  [TIMNOW] (TSLA.O) - Tesla We, Robot Event: Elon Musk Brings Robovan, A Self-Driving Minibus - Everything You Need To Know -- -"
+Tesla,2024-10,"16:33:10  [INDTVA] (TSLA.O) - Elon Musk unveiled Cybercab robotaxi, Robovan alongside Optimus humanoid robot at Tesla event -- -"
+Tesla,2024-10,16:30:13  [ASINIK] (TSLA.O) - Tesla bets on robotaxis amid China tariff pressure -- -
+Tesla,2024-10,16:29:20  [EASDAI] (TSLA.O) - Sir Elton John mocks Elon Musk as he collects award -
+Tesla,2024-10,16:28:37  [EASANG] (TSLA.O) - Sir Elton John mocks Elon Musk as he collects award -
+Tesla,2024-10,16:14:10  [WNCOMA] (TSLA.O) - Tesla CEO Musk unveils Cybercab and Robovan as focus shifts to automation -- -
+Tesla,2024-10,16:13:50  [NOTENG] (TSLA.O) - Elon Musk unveils Tesla's first Robotaxi; claims it is an AI-powered breakthrough in mobility -
+Tesla,2024-10,"16:13:48  [NOTENG] (TSLA.O) - Elon Musk unveils Cybercab, Tesla's driverless robotaxi to revolutionize the industry -"
+Tesla,2024-10,16:13:41  [NOTENG] (TSLA.O) - Tesla unveils its Cybercab: Elon Musk's autonomous robotaxi redefines the future of transportation -
+Tesla,2024-10,16:11:56  [NOTENG] (TSLA.O) - Elon Musk says Tesla will begin production of the Cybercab autonomous cab in 2026 -
+Tesla,2024-10,"It covers all transportation needs with fewer cars, since they won't sit idle for most of the day anymore"
+Tesla,2024-10,16:08:15  [TRIBUO] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab' robotaxi as focus shifts to automation -- -
+Tesla,2024-10,"16:01:33  [INDASI] (TSLA.O) - Elon Musk unveils Tesla's first Cybercab, Robovan and futuristic robot -"
+Tesla,2024-10,"16:01:09  [TIMINT] (TSLA.O) - Elon Musk's Tesla unveils driverless robotaxi, 'Cybercab' at a price range of Rs 25 lakhs -- -"
+Tesla,2024-10,"15:59:09  [WNCOMA] (TSLA.O) - Elon Musk's Tesla unveils Robotaxi at AI event ""We, Robot""; Check details -- -"
+Tesla,2024-10,"15:53:39  [WNCOMA] (TSLA.O) - Musk unveils Tesla's 'Cybercab,' plans to bring autonomous tech to other models in 2025 -- -"
+Tesla,2024-10,15:52:40  [INNVIL] (TSLA.O) - Elon Musk's Tesla unveils its robotaxi: The Cybercab -
+Tesla,2024-10,"15:51:12  [TECHCR] (TSLA.O) - Elon Musk unveils the Robovan: the biggest surprise from Tesla's We, Robot event -- -"
+Tesla,2024-10,"15:51:12  [STUFFA] (TSLA.O) - Tesla's new car has no steering wheel, no pedals -- -"
+Tesla,2024-10,"15:51:12  [LATNIG] (TSLA.O) - Elon Musk Unveils Tesla Cybercab, Robovan and Updated Optimus Robot -- -"
+Tesla,2024-10,"15:50:42  [WNCOMA] (TSLA.O) - Elon Musk unveils Cybertruck-inspired Tesla Robotaxi, Robovan, to cost below $30k -- -"
+Tesla,2024-10,"15:50:07  [LATNIG] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab', 'Robovan' as focus shifts to automation -- -"
+Tesla,2024-10,15:50:01  [LIVEMI] (TSLA.O) - Musk's AI ambitions approach make-or-break moment with Tesla Robotaxi reveal -- -
+Tesla,2024-10,15:48:45  [WESAUT] (TSLA.O) - Light on details but Tesla's Elon Musk finally unveils self-drive Cybercab -- -
+Tesla,2024-10,"15:48:37  [LATNIG] (TSLA.O) - Tesla reveals 20 Cybercabs at We, Robot event, says you'll be able to buy one for less than $30,000 -- -"
+Tesla,2024-10,"15:48:07  [LATNIG] (TSLA.O) - Elon Musk reveals the Tesla Cybercab, saying ""you will be able to buy one"" for under $30,000 and that he expects the robotaxi to be in production ""... -"
+Tesla,2024-10,15:41:57  [BENZIN] (TSLA.O) - Tesla Stock Falls Nearly 3% In Overnight Trading On Robinhood After Self-Driving Cybercab Unveil -
+Tesla,2024-10,"15:40:00  [WNCOMA] (TSLA.O) - See New Optimus Video at Tesla 'We, Robot' Event video -- -"
+Tesla,2024-10,"15:39:10  [WNCOMA] (TSLA.O) - Everything Announced at Tesla's 'We, Robot' Event video -- -"
+Tesla,2024-10,15:38:12  [LATNIG] (TSLA.O) - An ex-Tesla owner shares why his experience with a Rivian R1T during Hurricane Helene made him a convert -- -
+Tesla,2024-10,15:36:59  [YERDAI] (TSLA.O) - Tesla kicks off robotaxi unveiling amid fanfare and skepticism -
+Tesla,2024-10,"15:36:12  [SHAENG] (TSLA.O) - Everything Announced at Tesla s We, Robot Event video -- -"
+Tesla,2024-10,"15:36:12  [SHAENG] (TSLA.O) - See Tesla s Musk Introduce New CyberCab, Robotaxi video -- -"
+Tesla,2024-10,"15:31:07  [FINSWI] (UBER.N TSLA.O) - Tesla Unveils 2-Seater Cybercab That Drives Itself, Price Expected To Be Under $30K: Also Shows Off 20-Seater Robovan To Rival Uber Shuttle -- -"
+Tesla,2024-10,"15:30:09  [NATIOP] (TSLA.O) - Tesla CEO Elon Musk unveils driverless robotaxi and says it will cost less than $30,000 -- -"
+Tesla,2024-10,"15:29:10  [INDTOE] (TSLA.O) - Elon Musk reveals Tesla Cybercab at We, Robot event, driverless and no steering wheel in the car -- -"
+Tesla,2024-10,15:27:45  [FORCOO] (TSLA.O) - Elon Musk Shows Off Tesla Cybercabs At Much-Hyped Event -- -
+Tesla,2024-10,15:27:38  [CANTIO] (TSLA.O) - Tesla Robovan revealed as wild 20-passenger autonomous shuttle -- -
+Tesla,2024-10,15:27:09  [FORBES] (TSLA.O) - Elon Musk Shows Off Tesla Cybercabs At Much-Hyped Event -
+Tesla,2024-10,"15:23:42  [ROCVIE] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -- -"
+Tesla,2024-10,"15:23:39  [MINTNE] (TSLA.O) - Elon Musk announces Tesla 'Cybercab': Production details, pricing and everything revealed about the robotaxi -"
+Tesla,2024-10,15:20:09  [GIZMOD] (TSLA.O) - Elon Musk Hilariously Claims Tesla Cybercab Will Be Available In 2-3 Years -- -
+Tesla,2024-10,"15:17:33  [CANPRE] (TSLA.O) - Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025 -"
+Tesla,2024-10,"15:15:45  [WNCOMA] (TSLA.O) - Tesla's driverless Robotaxi is out, cost below $30,000. Why Elon Musk is on edge -- -"
+Tesla,2024-10,"15:15:07  [CNETAA] (TSLA.O) - See New Optimus Video at Tesla 'We, Robot' Event -- -"
+Tesla,2024-10,15:11:54  [NOTENG] (TSLA.O) - Tesla bets on 'black box' AI technology for self-driving cars -
+Tesla,2024-10,"15:01:02  [MSNSOU] (TSLA.O) - Tesla Cybercab Robotaxi To Cost Under $30,000: Elon Musk -- -"
+Tesla,2024-10,15:00:00  [BERNAT] (TSLA.O) - ELON MUSK WOWS TESLA CROWD WITH FULLY AUTONOMOUS CYBERCAB AND OTHER ROBOTS -
+Tesla,2024-10,"14:59:09  [EDGEMA] (TSLA.O) - Tesla's Musk unveils two-door robotaxi, seen as key to long-term growth -- -"
+Tesla,2024-10,"14:58:37  [GLOMAI] (TSLA.O) - Tesla CEO Musk unveils two-door robotaxi, seen as key to long-term growth -- -"
+Tesla,2024-10,"14:56:56  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Thursday October 10, 2024 23:53 EDT -"
+Tesla,2024-10,"14:55:40  [RAPPHI] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab', 'Robovan' as focus shifts to automation -- -"
+Tesla,2024-10,"14:55:08  [YAHSIN] (TSLA.O) - Tesla reveals 20 Cybercabs at We, Robot event, says you'll be able to buy one for less than $30,000 -- -"
+Tesla,2024-10,"14:54:50  [HINDUT] (TSLA.O) - Tesla's driverless Robotaxi is out, cost below $30,000. Why Elon Musk is on edge -"
+Tesla,2024-10,"14:54:10  [ECOCOM] (TSLA.O) - Elon Musk's Tesla unveils Robotaxi at AI event ""We, Robot""; Check details -- -"
+Tesla,2024-10,14:46:42  [INDTOE] (TSLA.O) - Elon Musk unveils Tesla's new two-door robotaxi with no steering or pedals -- -
+Tesla,2024-10,14:45:30  [CNETAA] (TSLA.O) - Elon Musk Unveils Robotaxi and Tesla's Autonomous Future -- -
+Tesla,2024-10,"14:44:01  [BUSTIM] (TSLA.O) - Tesla CEO Musk unveils two-door robotaxi, seen as key to long-term growth -- -"
+Tesla,2024-10,1) It rallied 12 points during the presentation - trading as high as 252.
+Tesla,2024-10,"2) Started selling off as soon as he said, ""Let's party"" - meaning the presentation is over."
+Tesla,2024-10,"3) Traded down to 228 on RH, but has now bounced back to 234. -"
+Tesla,2024-10,1) It rallied 12 points during the presentation - trading as high as 252.
+Tesla,2024-10,"2) Started selling off as soon as he said, ""Let's party"" - meaning the presentation is over."
+Tesla,2024-10,"3) Traded down to 228 on RH, but now has bounced back to 234. -"
+Tesla,2024-10,"14:23:14  [ECOCOM] (TSLA.O) - Elon Musk's Tesla unveils Robotaxi at AI event ""We, Robot""; Check details -- -"
+Tesla,2024-10,14:23:04  [VERGEA] (TSLA.O) - Tesla's Optimus bot makes a scene at the robotaxi event -- -
+Tesla,2024-10,FSD is trained on billions of miles of real-world video data from our fleet of >8M vehicles
+Tesla,2024-10,14:17:45  [VERGEA] (TSLA.O) - Tesla's robovan is the surprise of the night -- -
+Tesla,2024-10,"14:16:58  [BENZIN] (TSLA.O UBER.N) - Tesla Unveils 2-Seater Cybercab That Drives Itself, Price Expected To Be Under $30K: Also Shows Off 20-Seater Robovan To Rival Uber Shuttle -"
+Tesla,2024-10,"14:13:46  [RTRS] (TSLA.O) - TESLA'S MUSK SAYS OPTIMUS TO COST $20,000-$30,000 AT SCALE -"
+Tesla,2024-10,14:13:12  [WNCOMA] (TSLA.O) - Tesla's Robotaxi unveil delayed due to medical emergency in the crowd -- -
+Tesla,2024-10,"14:13:11  [RTRS] (TSLA.O) - MUSK SAYS MADE ""A LOT OF PROGRESS WITH THE OPTIMUS"" -"
+Tesla,2024-10,"14:12:33  [FOREXL] (TSLA.O) - Elon Musk just unveiled the Robotaxi at Tesla's ""We, Robot"" event -- -"
+Tesla,2024-10,14:11:35  [RTRS] (TSLA.O) - MUSK SHOWS OFF ROBOVAN WITH CAPACITY TO CARRY 20 PEOPLE -
+Tesla,2024-10,"14:10:40  [TECHCR] (TSLA.O) - Tesla reveals 20 Cybercabs at We, Robot event, says you can buy one for less than $30,000 -- -"
+Tesla,2024-10,14:09:39  [RTRS] (TSLA.O) - MUSK SAYS ROBOTAXIS WILL COME WITH INDUCTIVE CHARGERS WITH NO PLUG -
+Tesla,2024-10,14:08:09  [RTRS] (TSLA.O) - MUSK SAYS THE TECHNOLOGY THEY USE IS ONLY AI AND VISION WITHOUT OTHER EQUIPMENT -
+Tesla,2024-10,14:06:19  [RTRS] (TSLA.O) - MUSK SAYS HE TENDS TO BE OPTIMISTIC ABOUT TIMEFRAMES -
+Tesla,2024-10,14:04:47  [RTRS] (TSLA.O) - TESLA EXPECTS TO START UNSUPERVISED FSD IN TEXAS AND CALIFORNIA NEXT YEAR -
+Tesla,2024-10,"14:03:19  [RTRS] (TSLA.O) - MUSK TAKEN TO ROBOTAXI EVENT STAGE IN TWO-DOOR 'CYBERCAB' WITH GULLWING DOORS, NO REAR WINDOW -"
+Tesla,2024-10,14:02:08  [VERGEA] (TSLA.O) - Tesla Cybercab announced: Elon Musk's robotaxi is finally here -- -
+Tesla,2024-10,14:01:10  [RTRS] (TSLA.O) - MUSK SAYS 50 TOTAL DRIVERLESS CARS AT ROBOTAXI UNVEIL -
+Tesla,2024-10,14:00:56  [RTRS] (TSLA.O) - TESLA CEO MUSK SAYS CYBERCAB HAS NO STEERING WHEELS OR PEDALS -
+Tesla,2024-10,14:00:28  [RTRS] (TSLA.O) - TESLA UNVEILS ROBOTAXI CALLED CYBERCAB AND DRIVERLESS MODEL Y -
+Tesla,2024-10,13:57:54  [RTRS] (TSLA.O) - TESLA CEO ELON MUSK SAYS ARRIVED IN ROBOTAXI - EVENT -
+Tesla,2024-10,13:57:24  [BENZIN] (TSLA.O) - Tesla To Reveal Robotaxi At Event Near Los Angeles: CEO Elon Musk Hints It Could Be A 2-Seater -
+Tesla,2024-10,13:56:36  [RTRS] (TSLA.O) - TESLA'S MUSK ARRIVES AT ROBOTAXI EVENT IN TWO DOOR VEHICLE -
+Tesla,2024-10,13:48:09  [BDNCOM] (TSLA.O) - Tesla's Musk to unveil robotaxis amid fanfare and scepticism -- -
+Tesla,2024-10,"13:47:07  [YAHNEX] (TSLA.O) - Dow Jones Futures: Tesla Robotaxi Livestream, But No Elon Musk Yet (Live Coverage) -- -"
+Tesla,2024-10,"13:38:11  [WNCOMA] (TSLA.O) - Tesla's ""We, Robot"" robotaxi event: biggest news and announcements -- -"
+Tesla,2024-10,13:29:43  [BARCHA] (TSLA.O) - Tesla's Robotaxi Gamble: High Stakes for AI-Driven Autonomy -- -
+Tesla,2024-10,13:08:34  [ASIAON] (TSLA.O) - Tesla's Elon Musk to unveil robotaxis amid fanfare and skepticism -- -
+Tesla,2024-10,"12:54:10  [FINDEH] (TSLA.O) - Tesla Stock: Musk Unveils Robotaxi, Investors Cautiously Optimistic -- -"
+Tesla,2024-10,"12:52:09  [RTRS] (USD= TSLA.O) - Asian shares set for first weekly loss in five, China stimulus eyed (GLOBAL MARKETS) -"
+Tesla,2024-10,12:38:46  [STRMLS] (TSLA.O) - Tesla's Musk to unveil robotaxis amid fanfare and skepticism -- -
+Tesla,2024-10,12:11:07  [BUSTIM] (TSLA.O) - Tesla's Musk to unveil robotaxis amid fanfare and scepticism -- -
+Tesla,2024-10,12:02:23  [DAIONL] (TSLA.O) - Elon Musk unveils self-driving 'CyberCab' at sci-fi Tesla event featuring dancing robots serving drinks -
+Tesla,2024-10,11:50:07  [DECHER] (TSLA.O) - Tesla's Elon Musk to unveil robotaxis amid fanfare and skepticism -- -
+Tesla,2024-10,11:19:31  [WNCOMA] (TSLA.O) - Tesla's Elon Musk to unveil robotaxis amid fanfare and skepticism -- -
+Tesla,2024-10,"11:17:14  [FOREXL] (TSLA.O) - ""Tesla robotaxi event comes after a decade of unfulfilled promises from Elon Musk"" -- -"
+Tesla,2024-10,11:12:57  [NOTENG] (TSLA.O) - Autonomous robotaxis on the way? Tesla and Elon Musk to unveil new plans tonight -
+Tesla,2024-10,10:25:09  [WESAUT] (TSLA.O) - Kia EV4 spied as a bold Korean rival to the Tesla Model 3 -- -
+Tesla,2024-10,10:17:12  [CHAASI] (TSLA.O) - Tesla's Musk to unveil robotaxis amid fanfare and skepticism -- -
+Tesla,2024-10,10:13:12  [YAHSIN] (TSLA.O) - Tesla's Musk to unveil robotaxis amid fanfare and skepticism -- -
+Tesla,2024-10,10:11:39  [YAHIRE] (TSLA.O) - Tesla's Musk to unveil robotaxis amid fanfare and skepticism -- -
+Tesla,2024-10,10:08:40  [YAHCAN] (TSLA.O) - Tesla's Musk to unveil robotaxis amid fanfare and skepticism -- -
+Tesla,2024-10,10:08:08  [YAHNEX] (TSLA.O) - Tesla's Musk to unveil robotaxis amid fanfare and skepticism -- -
+Tesla,2024-10,10:00:00  [RTRS] (TSLA.O) - Tesla's Musk to unveil robotaxis amid fanfare and skepticism -
+Tesla,2024-10,"09:39:12  [YAHNEX] (TSLA.O PFE.N) - Pfizer and Starboard Value, Tesla Robotaxi Day: Market Domination Overtime -- -"
+Tesla,2024-10,09:27:12  [YAHNEX] (TSLA.O) - First Tesla Police Cybertruck Won't Be Used as Patrol Car -- -
+Tesla,2024-10,09:02:13  [WNCOMA] (TSLA.O) - Tesla Is Unveiling Its Long-Awaited Robotaxi Amid Doubts About The Technology It Runs On -- -
+Tesla,2024-10,09:00:00  [CNNNWS] (TSLA.O) - Recovery Operations Underway in Florida; At Least 135 People Rescued  from Assisted Living Facility; First Responders Reach Communities on  Airboat... -
+Tesla,2024-10,Watch if this True Market Leader from 2019 to 2021 can reassert its leadership in the near future.
+Tesla,2024-10,08:46:40  [AXIOSB] (TSLA.O) - Tesla robotaxi anticipation hits fever pitch ahead of debut -
+Tesla,2024-10,08:39:11  [WNCOMA] (TSLA.O) - Tesla's Robotaxi Day Arrives With Musk's Reputation at Stake -- -
+Tesla,2024-10,08:30:10  [YAHNEX] (TSLA.O) - Why this investor is skeptical about Tesla's robotaxi event -- -
+Tesla,2024-10,Then there is a lot going on behind the scenes to compute the various line items.
+Tesla,2024-10,08:04:40  [FOREXL] (TSLA.O) - US stock futures point to a moderate decline at the open. Eyes on Tesla -- -
+Tesla,2024-10,"07:56:08  [MARBEA] (TSLA.O) - Tobam Buys New Shares in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,07:32:14  [QUANAV] (TSLA.O) - Trump calls self-driving cars 'concerning' hours before Tesla's robotaxi launch event -
+Tesla,2024-10,07:30:12  [LIVEMI] (TSLA.O) - Tesla's Robotaxi Day Arrives With Musk's Reputation at Stake -- -
+Tesla,2024-10,07:07:00  [SEECOM] (TSLA.O) - The waiting is almost over for Tesla's watershed robotaxi event -
+Tesla,2024-10,07:00:09  [DATMTR] (TSLA.O) - Tesla robotaxi event on course for later today -
+Tesla,2024-10,"06:56:12  [LATNIG] (TSLA.O) - Four of Musk's Tesla direct reports, including its CIO and global vehicle automation and safety policy lead, recently resigned, ahead of Tesla's ro... -"
+Tesla,2024-10,"06:37:08  [WNCOMA] (TSLA.O) - After 300 miles of New York City driving, AMCI Testing's latest evaluation of Tesla FSD ( Supervised) demonstrates it is clearly not capable of sel... -"
+Tesla,2024-10,"06:26:13  [LATNIG] (TSLA.O PLTR.N) - Tesla's Robotaxi reveal, Palantir owns some of Faraday Future, and the Strava for EVs -- -"
+Tesla,2024-10,"Also, as Elon Musk is the owner of this platform it gives the impression of self dealing. -"
+Tesla,2024-10,06:06:13  [TALMAR] (TSLA.O) - Tesla Bets On 'Black Box' AI For Robotaxis: What Is It And Why It Matters For Self-Driving Tech? -- -
+Tesla,2024-10,"05:59:40  [YAHNEX] (TSLA.O .SPX) - CPI weighs on market, Tesla robotaxi event in focus: Yahoo Finance -- -"
+Tesla,2024-10,05:58:07  [DIGTRE] (TSLA.O 005380.KS) - Waymo's Hyundai robotaxi deal may steal the show from Tesla -- -
+Tesla,2024-10,05:11:17  [MSNSOU] (TSLA.O) - Tesla Wants A Robotaxi Business. The 'Business' Part May Be The Hardest -- -
+Tesla,2024-10,04:54:09  [MARBEA] (TSLA.O) - 'One of the Most Important Events': Is Tesla Finally Revealing Its Robotaxi with Full Self-Driving? -- -
+Tesla,2024-10,04:52:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $240.67) drops to 21-day low on firm volume; -38c [-0.2%] Vol Index 1.2 [1 is avg] -
+Tesla,2024-10,"04:52:16  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR218.80) loses EUR12 billion ($14 billion) (1.8%) in MCap, steepest heavyweight fall in Health care sector; -E... -"
+Tesla,2024-10,"04:50:41  [YAHSIN] (TSLA.O PLTR.N) - Tesla's Robotaxi reveal, Palantir owns some of Faraday Future, and the Strava for EVs -- -"
+Tesla,2024-10,04:38:02  [GLOTRA] (.IXIC TSLA.O) - Tesla (TSLA: $240.67) drops to 21-day low on firm volume; -38c [-0.2%] Vol Index 1.2 [1 is avg] -
+Tesla,2024-10,04:22:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $240.67) drops to 21-day low on firm volume; -38c [-0.2%] Vol Index 1.2 [1 is avg] -
+Tesla,2024-10,"04:22:00  [TECHCR] (TSLA.O PLTR.N) - Tesla's Robotaxi reveal, Palantir owns some of Faraday Future, and the Strava for EVs -- -"
+Tesla,2024-10,04:21:09  [GULCOM] (TSLA.O) - Elon Musk finally unveiling his long-promised Tesla's Robotaxi -- -
+Tesla,2024-10,"04:17:14  [WNCOMA] (FSLR.O TSLA.O) - Stocks making the biggest moves midday: First Solar, Tesla, CVS, TD Bank and more -- -"
+Tesla,2024-10,04:13:13  [DAIMAV] (TSLA.O) - Tesla's 'Dream Premium' Faces Moment of Truth at Robotaxi Reveal -- -
+Tesla,2024-10,04:02:47  [RTRS] (TSLA.O DJT.O) - Trump Media shares jump 19% as rally accelerates (BUZZ) -
+Tesla,2024-10,04:02:42  [MSNSOU] (TSLA.O) - Tesla's Robotaxi Still Faces The AI 'Black Box Problem' -- -
+Tesla,2024-10,04:00:40  [MOTFOL] (TSLA.O) - Tesla's Massive Product Event: What Investors Really Need to Know -- -
+Tesla,2024-10,03:57:35  [MOTFOO] (TSLA.O) - Tesla's Massive Product Event: What Investors Really Need to Know -
+Tesla,2024-10,"03:53:39  [INDTVA] (TSLA.O) - Elon Musk calls Ratan Tata a 'Gentleman, Scholar' in resurfaced video; clip goes viral -- -"
+Tesla,2024-10,03:52:33  [GLOSTO] (TSLA.O 9868.HK) - Tesla continues to underperform XPeng by 31.4% in the past month -
+Tesla,2024-10,03:49:14  [WDAHAT] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -- -
+Tesla,2024-10,03:43:41  [COITEL] (TSLA.O) - Musk's robotaxi reveal could be make-or-break moment for Tesla -- -
+Tesla,2024-10,03:43:20  [RTRS] (VOWG_p.DE TSLA.O) - Tesla to give permanent jobs to 500 temporary staff at German gigafactory (UPDATE 1) -
+Tesla,2024-10,03:25:42  [YAHNEX] (TSLA.O) - Tesla's 'Dream Premium' Faces Moment of Truth at Robotaxi Reveal -- -
+Tesla,2024-10,03:17:16  [GLOSTO] (TSLA.O) - Tesla (TSLA: $239.48) down 2.1% in 2 days; -$1.57 [-0.7%] Vol Index 1.2 [1 is avg] -
+Tesla,2024-10,03:17:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $239.48) decreases $1.57 on firm volume; -$1.57 [-0.7%] Vol Index 1.2 [1 is avg] -
+Tesla,2024-10,03:17:02  [PROUKA] (TSLA.O RYA.I) - FIVE at FIVE: GSK settles; Tesla Robotaxi launch; Ryanair slashes German flights; Indivior plunges; FTSE 100 dips -
+Tesla,2024-10,"02:59:43  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Clarus Wealth Advisors -- -"
+Tesla,2024-10,02:59:13  [YAHNEX] (TSLA.O) - Tesla to give permanent jobs to 500 temporary staff at German gigafactory -- -
+Tesla,2024-10,02:57:55  [GLOTRA] (.IXIC TSLA.O) - Tesla (TSLA: $239.48) down 2.1% in 2 days; -$1.57 [-0.7%] Vol Index 1.2 [1 is avg] -
+Tesla,2024-10,02:57:48  [TECHBU] (TSLA.O) - How Tesla's Giga Texas is Transforming Manufacturing in the State -
+Tesla,2024-10,02:53:26  [GLOSTO] (TSLA.O) - Tesla continues to outperform Ferrari by 17.4% in the past month -
+Tesla,2024-10,"02:52:03  [SEECOM] (TSLA.O) - Tesla tops list of most heavily shorted securities in September, Hazeltree says -"
+Tesla,2024-10,02:50:11  [WNCOMA] (TSLA.O) - Is Tesla becoming driverless? 4 top executives depart in less than 10 days; a third ... -- -
+Tesla,2024-10,02:43:23  [GLOTRA] (.IXIC TSLA.O) - Tesla (TSLA: $239.48) drops to 21-day low on firm volume; -$1.57 [-0.7%] Vol Index 1.2 [1 is avg] -
+Tesla,2024-10,02:42:31  [RTRS] (TSLA.O) - Tesla to give permanent jobs to 500 temporary staff at German gigafactory -
+Tesla,2024-10,02:42:15  [GLOSTO] (TSLA.O) - Tesla (TSLA: $239.48) down 2.1% in 2 days; -$1.57 [-0.7%] Vol Index 1.2 [1 is avg] -
+Tesla,2024-10,02:42:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $239.48) decreases $1.57 on firm volume; -$1.57 [-0.7%] Vol Index 1.2 [1 is avg] -
+Tesla,2024-10,"02:42:12  [PLUPAT] (TSLA.O) - Tesla, Inc. (Texas)'s US Patent application for ""VEHICLE NETWORK AND METHOD OF COMMUNICATION"" is in published phase now -"
+Tesla,2024-10,TESLA: DECISION IS RESULT OF OPTIMISTIC ASSESSMENT OF FURTHER DEVELOPMENT OF E-CAR PRODUCTION IN GRUENHEIDE -
+Tesla,2024-10,TESLA: DECISION IS RESULT OF OPTIMISTIC ASSESSMENT OF FURTHER DEVELOPMENT OF E-CAR PRODUCTION IN GRUENHEIDE -
+Tesla,2024-10,TESLA: DECISION IS RESULT OF OPTIMISTIC ASSESSMENT OF FURTHER DEVELOPMENT OF E-CAR PRODUCTION IN GRUENHEIDE -
+Tesla,2024-10,02:35:35  [RTRS] (TSLA.O) - TESLA  TSLA.O: TO GIVE 500 TEMPORARY WORKERS PERMAMENT JOBS AT GERMAN GIGAFACTORY IN GRUENHEIDE FROM NOV. 1 -
+Tesla,2024-10,02:35:35  [RTRS] (TSLA.O) - TESLA: DECISION IS RESULT OF OPTIMISTIC ASSESSMENT OF FURTHER DEVELOPMENT OF E-CAR PRODUCTION IN GRUENHEIDE -
+Tesla,2024-10,"02:22:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $236.88) drops to 21-day low on firm volume, ranks 5 in today's top 20 falls; -$4.17 [-1.7%] Vol Index 1.4 [1 is avg] -"
+Tesla,2024-10,"02:11:33  [NOTENG] (TSLA.O) - He was in his Tesla with Autopilot on, looked down and hit a barrier. -"
+Tesla,2024-10,02:07:15  [YAHNEX] (TSLA.O) - Tesla's soon-to-be-unveiled robotaxi may already be behind its Chinese competition -- -
+Tesla,2024-10,02:02:27  [GLOTRA] (.IXIC TSLA.O) - Tesla (TSLA: $236.88) drops 1.7% on firm volume; -$4.17 [-1.7%] Vol Index 1.4 [1 is avg] -
+Tesla,2024-10,02:02:20  [LONFRE] (TSLA.O) - Experts skeptical Tesla's self-driving taxis will be a safe way to travel -- -
+Tesla,2024-10,01:55:11  [YAHSIN] (TSLA.O) - Tesla gambles on 'black box' AI tech for robotaxis -- -
+Tesla,2024-10,01:53:09  [GLOWEE] (TSLA.O) - What the Beneish M-score tells us about Tesla -
+Tesla,2024-10,01:48:06  [GLOTRA] (.IXIC TSLA.O) - Tesla (TSLA: $236.88) down 3.1% in 2 days; -$4.17 [-1.7%] Vol Index 1.4 [1 is avg] -
+Tesla,2024-10,01:47:50  [MEDPOS] (TSLA.O) - Stellantis Launches Social Effort Comparing Fiat To Tesla -- -
+Tesla,2024-10,"01:47:18  [GLOSTO] (TSLA.O) - Tesla (TSLA: $236.88) drops to 21-day low on firm volume, ranks 5 in today's top 20 falls; -$4.17 [-1.7%] Vol Index 1.4 [1 is avg] -"
+Tesla,2024-10,01:44:49  [ZERHED] (TSLA.O) - Cybercab Arrives: Everything To Expect From Tonight's Tesla Robotaxi Event -- -
+Tesla,2024-10,01:44:39  [THECOM] (TSLA.O) - Elon Musk Made Surprise Call to Gov. Josh Shapiro at Steelers Game -
+Tesla,2024-10,"01:41:49  [AUTCOO] (TSLA.O) - Tesla is about to unveil a robotaxi, but timeline shows Elon Musk has long overpromised -- -"
+Tesla,2024-10,01:38:46  [TORSUN] (TSLA.O) - Tesla unveiling its long-awaited robotaxi amid doubts in tech -- -
+Tesla,2024-10,"01:37:40  [TICREP] (TSLA.O) - Hyperion Partners LLC Purchases 676 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"01:32:03  [BENZIN] (TSLA.O) - Market Clubhouse Morning Memo - October 10th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA) -"
+Tesla,2024-10,01:30:15  [BARCHA] (TSLA.O HOOD.O) - This Cathie Wood Stock Is Outperforming Tesla by a Wide Margin. Is It Too Late to Buy? -- -
+Tesla,2024-10,01:29:09  [YAHNEX] (TSLA.O) - Tesla's robotaxi event to kick off tonight: What investors can expect -- -
+Tesla,2024-10,01:21:38  [ECOCOM] (TSLA.O) - Is Tesla becoming driverless? 4 top executives depart in less than 10 days; a third of staff who directly report to Elon Musk has left -- -
+Tesla,2024-10,01:17:41  [OTTSUN] (TSLA.O) - Tesla unveiling its long-awaited robotaxi amid doubts in tech -- -
+Tesla,2024-10,01:16:11  [EDMSUO] (TSLA.O) - Tesla unveiling its long-awaited robotaxi amid doubts in tech -- -
+Tesla,2024-10,01:15:13  [TIMLIV] (TSLA.O) - Tesla gambles on 'black box' AI tech for robotaxis -- -
+Tesla,2024-10,01:14:09  [MEDIAD] (TSLA.O) - Stellantis Launches Social Effort Comparing Fiat To Tesla -- -
+Tesla,2024-10,01:14:03  [NOTENG] (TSLA.O) - Elon Musk to unveil Tesla vehicle that will change the future of passenger transportation -
+Tesla,2024-10,01:13:13  [CALSUN] (TSLA.O) - Tesla unveiling its long-awaited robotaxi amid doubts in tech -- -
+Tesla,2024-10,01:12:48  [MOTFOO] (TSLA.O) - This Cathie Wood Stock Is Outperforming Tesla by a Wide Margin. Is It Too Late to Buy? -
+Tesla,2024-10,"WSJ: ""The FCC withdrew a grant for Starlink to cover rural counties, but the satellite service is now saving the day in those counties."
+Tesla,2024-10,"01:03:31  [HINDUT] (TSLA.O) - Elon Musk to unveil Tesla's new fully autonomous Robotaxi: Timings, expectations -"
+Tesla,2024-10,00:52:17  [GLOSTO] (TSLA.O) - Tesla continues to outperform General Motors by 13.2% in the past month -
+Tesla,2024-10,00:47:23  [INVEZZ] (TSLA.O) - Tesla bets on 'black box' AI for robotaxis: What is it and why it matters for self-driving tech? -
+Tesla,2024-10,"00:32:08  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Sovereign Financial Group Inc. -"
+Tesla,2024-10,"00:23:11  [YAHNEX] (DAL.N TSLA.O) - September CPI, Delta earnings, Tesla Robotaxi Day: 3 Things -- -"
+Tesla,2024-10,00:13:47  [NOTENG] (TSLA.O) - Tesla's robotaxi arrives: a revival of its stock or a business with many storm clouds? -
+Tesla,2024-10,00:07:36  [WNCOMA] (TSLA.O) - Redwood Materials' New Specialty: Recycling EV Batteries Damaged By Fire And Hurricanes -- -
+Tesla,2024-10,00:00:00  [RTRS] (TSLA.O MS.N) - GM offering new home energy storage options for US EV owners -
+Tesla,2024-10,"23:56:51  [WALLST] (TSLA.O .IXIC) - Nasdaq Composite Today: Inflation Data Weighs on NVIDIA (NVDA), Tesla (TSLA), And Other Major Stocks -"
+Tesla,2024-10,23:48:15  [FORONL] (TSLA.O) - Tesla's soon-to-be-unveiled robotaxi may already be behind its Chinese competition -- -
+Tesla,2024-10,"23:18:15  [WNCOMA] (TSLA.O) - What to expect at Tesla's 'We, Robot' event -- -"
+Tesla,2024-10,23:09:12  [FORCOO] (TSLA.O) - Elon Musk Sees Tesla's Future In Self-Driving Robotaxis But He's Far Behind Waymo -- -
+Tesla,2024-10,23:06:19  [FORCOO] (TSLA.O) - Forbes Daily: How America's Wholesale Jewelry King Became A Billionaire -- -
+Tesla,2024-10,23:05:16  [RTECOM] (TSLA.O) - Elton John mocks Elon Musk as he collects award in London -- -
+Tesla,2024-10,23:02:10  [MONCON] (TSLA.O) - Elon Musk readies the Robotaxi he is betting Tesla's future on -- -
+Tesla,2024-10,23:02:00  [BUSINT] (TSLA.O LYFT.O) - Tesla's Robotaxi is set to bring new competition to Uber and Lyft -
+Tesla,2024-10,"23:00:00  [BSW] (TSLA.O) - Tesla Regains Position as Most Crowded Shorted Security in the Americas in September, Finds Hazeltree Report -"
+Tesla,2024-10,22:44:12  [WNCOMA] (TSLA.O) - Tesla gambles on 'black box' AI tech for robotaxis -- -
+Tesla,2024-10,22:35:21  [CTVCAN] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -- -
+Tesla,2024-10,22:25:09  [WNCOMA] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -- -
+Tesla,2024-10,22:10:07  [FORONL] (TSLA.O) - Tesla set to unveil 'Cybercab' robotaxi after long wait amid doubts about its self-driving technology -- -
+Tesla,2024-10,"21:57:00  [BENZIN] (.IXIC TSLA.O) - Nasdaq, S&P 500 Futures Slip As September CPI Data Looms, Tesla On Radar Ahead Of Robotaxi Event: Strategist Offers Stock Tips Aligned With Pre... -"
+Tesla,2024-10,21:48:18  [GLOWEE] (TSLA.O) - What the Beneish M-score tells us about Tesla -
+Tesla,2024-10,"21:42:02  [BENZIN] (TSLA.O UBER.N) - As Elon Musk Gears Up For Highly Anticipated Robotaxi Unveil, This Ridesharing Network's Autonomous Driving Plans Could Put Pressure On Tesla's Ami... -"
+Tesla,2024-10,21:38:39  [YAHNEX] (TSLA.O) - Tesla gambles on 'black box' AI tech for robotaxis -- -
+Tesla,2024-10,21:36:45  [FORBES] (TSLA.O) - Elon Musk Sees Tesla's Future In Self-Driving Robotaxis But He's Far Behind Waymo -
+Tesla,2024-10,21:33:42  [ROCVIE] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -- -
+Tesla,2024-10,21:30:42  [WNCOMA] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -- -
+Tesla,2024-10,21:27:17  [YAHCAN] (TSLA.O) - Tesla gambles on 'black box' AI tech for robotaxis -- -
+Tesla,2024-10,21:25:18  [ECOCOM] (TSLA.O) - Tesla gambles on 'black box' AI tech for robotaxis -- -
+Tesla,2024-10,21:23:42  [YAHNEX] (TSLA.O) - Tesla's 'Dream Premium' Faces Moment of Truth at Robotaxi Reveal -- -
+Tesla,2024-10,21:23:16  [YAHIRE] (TSLA.O) - Tesla gambles on 'black box' AI tech for robotaxis -- -
+Tesla,2024-10,"21:20:41  [FINGEV] (TSLA.O) - After 300 miles of New York City driving, AMCI Testing's latest evaluation of Tesla FSD ( Supervised) demonstrates it is clearly not capable of sel... -"
+Tesla,2024-10,21:17:22  [YAHAUS] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -- -
+Tesla,2024-10,21:17:17  [WINSUO] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -- -
+Tesla,2024-10,"21:17:02  [NEWUSN] (.IXIC TSLA.O) - NASDAQ Today's Bearish Signals: Falls in the heavyweights Wednesday October 09, 2024 16:00 EDT [in desc order of decrease in MCap] -"
+Tesla,2024-10,21:15:46  [YAHNEX] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -- -
+Tesla,2024-10,21:13:42  [YAHNEX] (TSLA.O) - Elon Musk is promising to unveil the future of Tesla tonight -- -
+Tesla,2024-10,"21:13:35  [NOTENG] (TSLA.O) - Powerdot already has 8,400 chargers in Europe and overtakes Tesla in France -"
+Tesla,2024-10,21:08:13  [CANPRE] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -
+Tesla,2024-10,21:06:44  [WNCOMA] (TSLA.O) - Tesla cybertaxi: How to watch in the UK as the robotaxi is launched -- -
+Tesla,2024-10,21:06:15  [MARBEA] (TSLA.O) - Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on -- -
+Tesla,2024-10,"21:00:06  [PRN] (TSLA.O) - After 300 miles of New York City driving, AMCI Testing's latest evaluation of Tesla FSD ( Supervised) demonstrates it is clearly not capable of self-driven taxi duty -"
+Tesla,2024-10,20:51:50  [QUANAV] (TSLA.O) - Elon Musk's Tesla robotaxi event is today. Here's what to know -
+Tesla,2024-10,20:42:40  [STRMLS] (TSLA.O) - Elon Musk readies the robotaxi he is betting Tesla's future on -- -
+Tesla,2024-10,20:41:57  [BENZIN] (TSLA.O) - Tesla's Robotaxi To Take Flight With Doors That Open Like Butterfly Wings: Report -
+Tesla,2024-10,"20:37:11  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Receives Consensus Rating of ""Hold"" from Analysts -"
+Tesla,2024-10,20:21:13  [YAHIRE] (TSLA.O) - Tesla cybertaxi: How to watch in the UK as the robotaxi is launched -- -
+Tesla,2024-10,"18:11:59  [BENZIN] (TSLA.O) - Tesla's Future Valuation: Analyst Pierre Ferragu Unveils Scenarios Ranging From $1.4 To $4.7 Trillion Based On FSD, Robotaxi Success -"
+Tesla,2024-10,18:11:37  [FIRSTP] (TSLA.O) - Tesla to reveal Robotaxi today; Here's what to expect from EV-maker's most hyped launch in years -- -
+Tesla,2024-10,18:07:03  [BENZIN] (TSLA.O UBER.N) - Uber Announces Measures To Ramp Up Electrification Of Its Fleet Ahead Of Tesla's Robotaxi Unveil -
+Tesla,2024-10,17:46:52  [TICREP] (TSLA.O) - Tesla (NASDAQ:TSLA) Shares Up 0.3% After Analyst Upgrade -
+Tesla,2024-10,"They deleted the last four words, giving my statement the opposite meaning. -"
+Tesla,2024-10,17:15:41  [STOCKP] (TSLA.O) - On Thursday 10th of October Tesla trades 1.52 percent higher -
+Tesla,2024-10,17:08:17  [YAHIRE] (TSLA.O) - Sir Elton John mocks Elon Musk in crude on-stage jab in London -- -
+Tesla,2024-10,"16:55:38  [LATNIG] (TSLA.O) - Tesla robotaxi set to have two seats, Musk to discuss FSD for Semi, Bloomberg News reports -- -"
+Tesla,2024-10,"16:36:13  [BUSSTA] (TSLA.O) - Tesla's China-made EV sales grow 19.2% in Sept, sells over 72K vehicles -"
+Tesla,2024-10,16:28:48  [ETFDAI] (TSLA.O) - Tesla (NASDAQ:TSLA) Trading 1.1% Higher Following Analyst Upgrade -- -
+Tesla,2024-10,16:24:19  [ECOCOM] (TSLA.O) - Tesla's China-made EV sales grow 19.2% y/y in Sept -- -
+Tesla,2024-10,"16:16:48  [BENZIN] (TSLA.O) - Tesla's Latest FSD Update Smooths Out Jittery Car Visualizations, Fixing 4-Year Bug -"
+Tesla,2024-10,"15:37:14  [LATNIG] (TSLA.O) - Tesla to unveil Cybercab, its big bet on self-driving cars -- -"
+Tesla,2024-10,"14:46:50  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Wednesday October 09, 2024 23:42 EDT -"
+Tesla,2024-10,14:42:13  [RTRS] (TSLA.O 9868.HK) - Tesla's China-made EV sales grow 19.2% y/y in Sept (UPDATE 2) -
+Tesla,2024-10,14:00:43  [EDGEMA] (TSLA.O) - Musk readies the robotaxi he is betting Tesla's future on -- -
+Tesla,2024-10,"13:38:13  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Howard Financial Services LTD. -- -"
+Tesla,2024-10,"13:11:59  [NEWUSN] (.IXIC TSLA.O) - NASDAQ Today's Bearish Signals: Falls in the heavyweights Wednesday October 09, 2024 16:00 EDT [in desc order of decrease in MCap] -"
+Tesla,2024-10,12:45:40  [WNCOMA] (TSLA.O) - Elton John mocks Elon Musk as he collects award in London -- -
+Tesla,2024-10,12:37:18  [GURCOM] (TSLA.O) - Tesla (TSLA) Raises $783 Million Through Auto Lease-Backed Bonds -
+Tesla,2024-10,"12:33:34  [ETFDAI] (TSLA.O) - True North Advisors LLC Has $874,000 Position in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"12:10:38  [FIRSTP] (TSLA.O) - FirstUp: PM Modi to attend ASEAN Summit in Laos, Tesla to launch Robotaxi... Big headlines today -- -"
+Tesla,2024-10,11:53:04  [YAHNEX] (TSLA.O) - Tesla's big robotaxi reveal: will it be more style or substance? -- -
+Tesla,2024-10,11:53:00  [FINDEH] (TSLA.O) - Tesla Stock: China Sales Surge Amid German Water Woes -- -
+Tesla,2024-10,"11:27:35  [TICREP] (TSLA.O) - Artemis Investment Management LLP Acquires New Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"11:24:31  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by ACT Wealth Management LLC -- -"
+Tesla,2024-10,11:04:17  [WPRPRO] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,"10:52:05  [TICREP] (TSLA.O) - Callan Family Office LLC Takes $314,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"10:25:11  [YAHSIN] (TSLA.O) - Tesla to unveil Cybercab, its big bet on self-driving cars -- -"
+Tesla,2024-10,"10:24:10  [YAHCAN] (TSLA.O) - Tesla to unveil Cybercab, its big bet on self-driving cars -- -"
+Tesla,2024-10,"10:19:40  [BBCBRI] (TSLA.O) - Tesla to unveil Cybercab, its big bet on self-driving cars -- -"
+Tesla,2024-10,"10:14:45  [FUTCOM] (TSLA.O) - Wall Street Not Buying Elon Musk's Big Promises Ahead of Tesla's ""Most Hyped"" Event in Years -- -"
+Tesla,2024-10,Big 2 days coming with $TSLA $AMD events + CPI + PPI + $JPM earnings
+Tesla,2024-10,10:02:16  [THEGRD] (TSLA.O) - California police department debuts 'first police Cybertruck in the nation' to impress kids -
+Tesla,2024-10,10:00:36  [YAHNEX] (TSLA.O) - Will the Robotaxi Event Rocket Tesla Stock over $300? -- -
+Tesla,2024-10,09:44:11  [YAHNEX] (TSLA.O) - Tesla Sells $783 Million of Prime Auto Lease-Backed Debt -- -
+Tesla,2024-10,"09:40:15  [ETFDAI] (TSLA.O) - Mather Group LLC. Sells 30,174 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"09:37:01  [TICREP] (MBT.PS TSLA.O) - Cape ANN Savings Bank Takes $444,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,09:32:04  [IFR] (TSLA.O STLAM.MI) - IFR SF CLOSE - Five ABS deals raise over US$3bn on Wednesday -
+Tesla,2024-10,09:30:40  [FORONL] (TSLA.O) - Tesla's big robotaxi reveal: will it be more style or substance? -- -
+Tesla,2024-10,09:17:02  [ZACKSC] (TSLA.O) - Will the Robotaxi Event Rocket Tesla Stock over $300? -
+Tesla,2024-10,"09:07:12  [GLOSTO] (TSLA.O) - Tesla (TSLA: $241.05) loses $11 billion (1.4%) in MCap, steepest heavyweight fall in Auto sector; -$3.45 [1.4%] -"
+Tesla,2024-10,"09:01:34  [TICREP] (TSLA.O) - Sage Capital Advisors llc Takes Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"09:01:11  [ETFDAI] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Raised by St. Louis Financial Planners Asset Management LLC -- -"
+Tesla,2024-10,I sure hope this hurricane is not as bad as predicted! -
+Tesla,2024-10,"08:40:08  [YAHNEX] (TSLA.O) - Tesla robotaxi, September CPI, mortgage rates: What to Watch -- -"
+Tesla,2024-10,"08:27:26  [TICREP] (TSLA.O) - Great Oak Capital Partners LLC Takes $224,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,08:01:35  [WASHPO] (TSLA.O) - Feel guilty about your Tesla? Go (a little) easy on yourself. -
+Tesla,2024-10,07:59:12  [MSNSOU] (TSLA.O) - More Tesla Executives Exit Ahead Of Robotaxi Debut -- -
+Tesla,2024-10,"07:57:30  [GLOSTO] (TSLA.O) - Tesla (TSLA: $241.05) loses $11 billion (1.4%) in MCap, steepest heavyweight fall in Auto sector; -$3.45 [1.4%] -"
+Tesla,2024-10,"07:52:09  [QUANAV] (TSLA.O) - Elon Musk's 'We, Robot' event is on the horizon. Here's what you need to know -"
+Tesla,2024-10,Watch to see if China brings the bazooka on Saturday.
+Tesla,2024-10,07:06:23  [YAHNEX] (TSLA.O GOOGL.O) - Alphabet's Waymo Strikes Major Deal Ahead of Tesla Robotaxi Event. Which Stock Will Be the Real Robotaxi Winner? -- -
+Tesla,2024-10,06:57:47  [MOTFOO] (TSLA.O GOOGL.O) - Alphabet's Waymo Strikes Major Deal Ahead of Tesla Robotaxi Event. Which Stock Will Be the Real Robotaxi Winner? -
+Tesla,2024-10,06:57:11  [BARCHA] (TSLA.O GOOGL.O) - Alphabet's Waymo Strikes Major Deal Ahead of Tesla Robotaxi Event. Which Stock Will Be the Real Robotaxi Winner? -- -
+Tesla,2024-10,06:52:32  [GLOSTO] (TSLA.O F.N) - Ford Motor continues to underperform Tesla by 15.2% in the past month -
+Tesla,2024-10,"06:52:22  [GLOSTO] (TSLA.O) - Tesla (TSLA: $241.75) falls 1.1%, ranks 6 in today's top 20 falls; -$2.75 [-1.1%] -"
+Tesla,2024-10,06:52:12  [MOTFOL] (TSLA.O 005380.KS) - Alphabet's Waymo Strikes Major Deal Ahead of Tesla Robotaxi Event. Which Stock Will Be the Real Robotaxi Winner? -- -
+Tesla,2024-10,06:19:00  [WNCOMA] (TSLA.O) - Tesla is approaching its 'most hyped' event in a decade. Here's what Wall Street is ... -- -
+Tesla,2024-10,06:18:25  [CNBC] (TSLA.O) - Wells Fargo's trade ideas for the fourth quarter - including shorting Tesla -
+Tesla,2024-10,06:12:36  [CHACAN] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,06:08:08  [SIMREF] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,06:00:39  [LATNIG] (TSLA.O) - Tesla designer Franz von Holzhausen says he's been designing a robotaxi in his mind for years -- -
+Tesla,2024-10,"05:42:03  [BENZIN] (TSLA.O UBER.N) - Uber 'Well Positioned' Despite Tesla Robotaxi Threat, Analyst Says -"
+Tesla,2024-10,"05:37:32  [TICREP] (TSLA.O FXNC.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by First National Corp MA ADV -"
+Tesla,2024-10,05:32:58  [YAHSIN] (TSLA.O) - Tesla designer Franz von Holzhausen says he's been designing a robotaxi in his mind for years -- -
+Tesla,2024-10,"05:29:54  [RTRS] (TSLA.O DPZ.N) - What to Watch in the Day Ahead - Thursday, October 10 -"
+Tesla,2024-10,05:26:50  [SEECOM] (TSLA.O UBER.N) - Uber is sized up by analysts ahead of Tesla's robotaxi event -
+Tesla,2024-10,05:26:40  [GULCOM] (TSLA.O) - Robotaxi Day: What to expect from Tesla October 10 event -- -
+Tesla,2024-10,05:23:28  [DECHER] (TSLA.O) - Tesla's China-made Electric Vehicle sales grow 19.2% y/y in September -- -
+Tesla,2024-10,05:22:27  [FORMCM] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,05:11:31  [TODSFA] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,05:10:46  [KINWHI] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,05:09:15  [CHATHI] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,05:06:38  [TIMDAI] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:56:56  [BENZIN] (TSLA.O) - Tesla's Robotaxi Event: Could Investor Hopes Be Premature? Analyst Predicts Mass Production Not Until 2027 -
+Tesla,2024-10,04:55:38  [TORSUN] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:54:37  [MELJOV] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:54:11  [NIPJOU] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:54:10  [LONFRE] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:54:08  [SUDSTA] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:53:11  [BEAHER] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:53:09  [GRALEA] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:52:40  [EDMSUO] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:52:14  [FINDEH] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:51:42  [OWESUN] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:51:42  [DAIHES] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:51:40  [WINSUO] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:51:14  [FORSAS] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:51:13  [WOOSEN] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:51:13  [GRACAN] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:51:10  [PEMOBS] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:50:39  [STTIME] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:50:37  [WETTIM] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:50:12  [TIMTIM] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:50:11  [SAUSTA] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:50:11  [NUGCAA] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:50:11  [COMPRE] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:50:08  [FINPOS] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:49:16  [DRAVAL] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:49:15  [NORNEZ] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:49:13  [STAFRE] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:47:39  [CALSUN] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:47:29  [TILNEW] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:47:12  [BELINT] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:47:10  [BRAEXP] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:47:10  [OTTSUN] (TSLA.O) - UP.FIT Deploys Nation's First Tesla Cybertruck for Irvine Police Department -- -
+Tesla,2024-10,04:33:09  [TECHCR] (TSLA.O) - Tesla designer Franz von Holzhausen says he's been designing a robotaxi in his mind for years -- -
+Tesla,2024-10,"04:32:44  [TICREP] (TSLA.O) - Daymark Wealth Partners LLC Lowers Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,04:22:41  [MARBEA] (TSLA.O) - Tesla (NASDAQ:TSLA) Trading Up 0.3% on Analyst Upgrade -- -
+Tesla,2024-10,"04:12:23  [GLOSTO] (TSLA.O) - Tesla (TSLA: $243.67) decreases, ranks 11 in today's top 19 falls; -83c [-0.3%] -"
+Tesla,2024-10,04:07:31  [BUSINT] (TSLA.O) - Tesla is approaching its 'most hyped' event in a decade. Here's what Wall Street is expecting from Robotaxi Day. -
+Tesla,2024-10,"03:57:36  [TICREP] (TSLA.O) - Legacy Private Trust Co. Sells 1,435 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,03:52:53  [GLOSTO] (TSLA.O RIVN.O) - Tesla continues to outperform Rivian Automotive by 38.5% in the past month -
+Tesla,2024-10,03:51:40  [FASCON] (TSLA.O) - The big question mark at the center of Tesla's self-driving Robotaxi -- -
+Tesla,2024-10,"03:42:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $243.67) decreases, ranks 11 in today's top 19 falls; -83c [-0.3%] -"
+Tesla,2024-10,03:42:04  [YERDAI] (TSLA.O) - Will Tesla's robotaxi reveal live up to hype? -
+Tesla,2024-10,"03:22:45  [GLOSNI] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET STOCK SNIPPETS TESLA (TSLA: $244.50) Wednesday October 09, 2024 07:10 EDT -"
+Tesla,2024-10,03:13:14  [WNCOMA] (TSLA.O) - Cyberstruck: 7 Celebs with the keys to Tesla's hot new pickup -- -
+Tesla,2024-10,*TESLA CEO ELON MUSK EXPECTED TO DISCUSS FSD FOR SEMI TRUCK
+Tesla,2024-10,03:04:42  [WNCOMA] (TSLA.O) - Elon Musk readies Robotaxi he is betting Tesla's future on; Here's what to expect from ... -- -
+Tesla,2024-10,03:02:52  [DAIONL] (TSLA.O) - Why Elon Musk's Tesla Cybertruck will NEVER be available to buy in the UK: Premier League footballers' favourite car salesman reveals the truth -
+Tesla,2024-10,- Marc Van Impe: global vehicle automation and safety policy lead
+Tesla,2024-10,02:52:34  [GLOSTO] (TSLA.O) - How Tesla Has Fared Since Its Recent Analyst Ratings Changes -
+Tesla,2024-10,02:45:10  [RTRS] (TSLA.O) - Battery maker Northvolt says head of main plant to step down (UPDATE 3) -
+Tesla,2024-10,02:43:30  [RTRS] (TSLA.O) - Musk's X back online to some Brazil users after suspension lifted -
+Tesla,2024-10,02:37:12  [GURCOM] (TSLA.O) - Tesla (TSLA) Achieves Record Quarterly Deliveries in China -
+Tesla,2024-10,"02:33:36  [STRMLS] (TSLA.O) - Tesla robotaxi set to have two seats, Musk to discuss FSD for Semi, Bloomberg News reports -- -"
+Tesla,2024-10,02:23:24  [WHADAY] (TSLA.O) - Why Elon Musk's Tesla Cybertruck will NEVER be available to buy in the UK: Premier League footballers' favorite car dealer reveals the truth -- -
+Tesla,2024-10,02:22:17  [AUTCOO] (TSLA.O VOLVb.ST) - Stellantis holds off on megacasting championed by Tesla and Volvo -- -
+Tesla,2024-10,02:17:11  [GRECAR] (TSLA.O) - Tesla Cybertruck reports for police duty in California -- -
+Tesla,2024-10,"02:12:06  [SEECOM] (TSLA.O) - Robotaxi buzz: Tesla is expected to talk up robovans, autonomous trucks, and next-gen humanoid robots -"
+Tesla,2024-10,"02:11:19  [YAHSIN] (TSLA.O) - Tesla robotaxi set to have two seats, Musk to discuss FSD for Semi, Bloomberg News reports -- -"
+Tesla,2024-10,02:09:12  [AUTCOO] (TSLA.O) - Tesla to unveil robotaxi after years of CEO Elon Musk's unfulfilled promises -- -
+Tesla,2024-10,"02:05:49  [RTRS] (TSLA.O) - Tesla robotaxi set to have two seats, Musk to discuss FSD for Semi, Bloomberg News reports (UPDATE 2) -"
+Tesla,2024-10,02:02:50  [DAIONL] (TSLA.O) - There's a Tesla on our roads that's covered 700k MILES and is still going -
+Tesla,2024-10,"02:02:30  [ZACKSC] (TSLA.O) - Tesla ETFs in Focus Ahead of ""Robotaxi"" Event -"
+Tesla,2024-10,01:51:16  [YAHNEX] (TSLA.O) - Tesla Sees Record Quarterly China Shipments on EV Subsidy Boost -- -
+Tesla,2024-10,"01:47:42  [CHAASI] (TSLA.O) - Tesla robotaxi set to have two seats, Musk to discuss FSD for Semi, Bloomberg News reports -- -"
+Tesla,2024-10,01:46:18  [VERGEA] (TSLA.O) - The bill finally comes due for Elon Musk -- -
+Tesla,2024-10,"01:45:16  [YAHNEX] (TSLA.O) - Tesla robotaxi set to have two seats, Musk to discuss FSD for Semi, Bloomberg News reports -- -"
+Tesla,2024-10,"01:43:59  [LATNIG] (TSLA.O) - Tesla Is Ready to Roll Out the Cybercab, Its Answer to Robotaxis -- -"
+Tesla,2024-10,01:43:09  [YAHNEX] (TSLA.O) - Elon Musk Readies the Robotaxi He Is Betting Tesla's Future On -- -
+Tesla,2024-10,"01:41:56  [BENZIN] (TSLA.O) - Market Clubhouse Morning Memo - October 9th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA) -"
+Tesla,2024-10,01:38:14  [WNCOMA] (TSLA.O) - Edmunds electric truck face-off: Ford F-150 Lightning vs. Tesla Cybertruck -- -
+Tesla,2024-10,01:35:19  [SIGDEV] (TSLA.O) - Tesla Plans $783 Mln Debt Sale Backed By Prime Leases - Bloomberg News -
+Tesla,2024-10,01:35:18  [SIGDEV] (TSLA.O 6561.TWO) - Tesla Chief Information Officer Nagesh Saldi Is Leaving Company- Bloomberg News -
+Tesla,2024-10,"01:35:00  [SIGDEV] (TSLA.O) - Tesla Plans 4 New Batteries In 2026, Including For A Robotaxi- The Information -"
+Tesla,2024-10,"01:32:30  [DAIONL] (VOWG_p.DE TSLA.O) - Jeep, Ram, Nissan, Tesla, Volkswagen among 359k vehicles recalled -"
+Tesla,2024-10,"01:32:04  [GLOSTO] (TSLA.O) - Tesla (TSLA: $243.24) decreases $1.26, ranks 7 in today's top 20 falls; -$1.26 [-0.5%] -"
+Tesla,2024-10,"01:29:02  [RTRS] (TSLA.O) - Tesla robotaxi set to have two seats, Musk to discuss FSD for Semi, Bloomberg News reports -"
+Tesla,2024-10,"01:26:56  [SIGDEV] (TSLA.O) - GM To Open Up Access To More Than 17,800 Tesla Superchargers For Its Customers -"
+Tesla,2024-10,01:24:38  [EDGEMA] (TSLA.O) - Tesla sees record quarterly China shipments on EV subsidy boost -- -
+Tesla,2024-10,01:21:10  [YAHNEX] (TSLA.O) - Thinking of Buying TSLA Stock Ahead of Robotaxi Day? Think Again -- -
+Tesla,2024-10,"""my latest supply chain survey indicates that Tesla's $TSLA robotaxi (aka Cybercab) may enter mass production in 1Q27"" -"
+Tesla,2024-10,"01:14:25  [SIGDEV] (TSLA.O) - EU To Lower Proposed Tariffs On Tesla, Other EVs From China - ET Now Citing Agencies -"
+Tesla,2024-10,01:08:08  [SIGDEV] (TSLA.O AERS.L) - Aquila European Renewables Sells 25.9% Interest In Tesla For About EUR 27.1 Million -
+Tesla,2024-10,"00:57:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $243.24) decreases $1.26, ranks 7 in today's top 20 falls; -$1.26 [-0.5%] -"
+Tesla,2024-10,00:52:09  [GLOSTO] (TSLA.O) - Tesla continues to outperform Volvo Car AB by 19.9% in the past month -
+Tesla,2024-10,"00:52:00  [BENZIN] (TSLA.O) - Analyst Ming-Chi Kuo Posts On X ""1. Some market participants are optimistic about Tesla's robotaxi event on October 10. However, my latest supply c... -"
+Tesla,2024-10,"00:37:34  [TICREP] (TSLA.O) - Future Financial Wealth Managment LLC Makes New $117,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"Treasury yields and the $USD rose, while small caps lagged."
+Tesla,2024-10,"Dollar extends its winning streak, and Milton approaches Florida as a Cat 5 storm."
+Tesla,2024-10,This is one of four reports our friends at Hammerstone send out each day.
+Tesla,2024-10,"00:27:09  [BENZIN] (BA.N TSLA.O) - Harris Leads Trump In 2024 Poll, Independent Voters A Concern; Baidu Eyes Global Robotaxi Expansion, Threatening Tesla; Boeing Ends Talks With Stri... -"
+Tesla,2024-10,00:08:49  [YAHSIN] (TSLA.O) - Tesla's China-made EV sales grow 19.2% y/y in Sept -- -
+Tesla,2024-10,00:08:40  [CITYNE] (TSLA.O) - Edmunds electric truck face-off: Ford F-150 Lightning vs. Tesla Cybertruck -- -
+Tesla,2024-10,00:00:07  [AFRNEX] (TSLA.O) - Geico insists it 'has coverage' for the Cybertruck after owners complain of dropped policies -
+Tesla,2024-10,"23:52:12  [GLOBUL] (TSLA.O .NDX) - Tesla (TSLA: $219.16) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday October 15, 2024 07:10 EDT -"
+Tesla,2024-10,"23:51:59  [GLOSTO] (TSLA.O) - Tesla (TSLA: $219.59) in 2nd consecutive rise, ranks 19 in today's top 20 rises; +43c [0.2%] -"
+Tesla,2024-10,23:47:37  [GLOSTO] (TSLA.O) - ICYMI: Investors look to see if Tesla's recent rally will continue -
+Tesla,2024-10,23:47:29  [GLOSTO] (TSLA.O) - Investors look to see if Tesla's recent rally will continue -
+Tesla,2024-10,23:39:11  [FINGEV] (TSLA.O) - Wall Street Ausblick 15.10.2024   Tesla und Trump Media & Technology Group (DJT) -- -
+Tesla,2024-10,"23:17:03  [GLOSTO] (TSLA.O) - Tesla (TSLA: $219.59) in 2nd consecutive rise, ranks 19 in today's top 20 rises; +43c [0.2%] -"
+Tesla,2024-10,"22:47:30  [GLOBUL] (TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $219.16) Tuesday October 15, 2024 07:10 EDT -"
+Tesla,2024-10,22:41:30  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Hightower Advisors reduces its shares by 10.2% -
+Tesla,2024-10,22:35:14  [WNCOMA] (TSLA.O) - Only Tesla Cybertruck in Australia heading to SA car rally -- -
+Tesla,2024-10,22:30:20  [KNOBYL] (TSLA.O) - The Optimus robots at Tesla's Cybercab event were humans in disguise -
+Tesla,2024-10,22:26:58  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Prime Capital Management Co boosts its shareholding by 22.1% -
+Tesla,2024-10,"22:24:43  [WKRNEW] (TSLA.O) - Carnegie Investment Counsel Acquires 1,515 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"22:22:04  [BENZIN] (TSLA.O UBER.N) - As Elon Musk Unveils Cybercab, Uber CEO Weighs In On Robotaxi Competiton From Waymo, Tesla: 'Don't Think This Is Going To Be A Winner-Take-All Mark... -"
+Tesla,2024-10,"22:15:17  [MARBEA] (MBT.PS TSLA.O) - Wesbanco Bank Inc. Boosts Stake in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,22:13:12  [FINGEV] (TSLA.O) - Tesla Exec Mocks Stellantis' Fiat For New Commercial Comparing Fiat 500e With Cybertruck: '...Really Nailed This...' -- -
+Tesla,2024-10,22:01:47  [QUANAV] (TSLA.O) - Elon Musk's net worth fell $15 billion after his Tesla Cybercab reveal -
+Tesla,2024-10,21:47:32  [GLOSTO] (TSLA.O) - Update: Investors look to see if Tesla's recent rally will continue -
+Tesla,2024-10,21:41:59  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Contrarius Investment Management trims its shareholding by 2.9% -
+Tesla,2024-10,21:32:05  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Creative Planning adds 5.3% to its shares -
+Tesla,2024-10,21:32:03  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Capstone Investment Advisors slashes 32.8% of its shareholding -
+Tesla,2024-10,21:32:02  [NEWWIR] (BNS.TO TSLA.O) - Tesla Second Quarter 13F Filing: Bank of Nova Scotia slashes 52.4% of its shareholding -
+Tesla,2024-10,21:31:31  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Creative Planning boosts its shareholding by 19.2% -
+Tesla,2024-10,21:27:03  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Metlife Investment Advisors increases its shares by 14.0% -
+Tesla,2024-10,21:27:02  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Advisor Group Holdings reduces its shares by 10.6% -
+Tesla,2024-10,"21:23:08  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Empirical Asset Management LLC -"
+Tesla,2024-10,21:22:02  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: FIS Group continued to increase its shareholding -
+Tesla,2024-10,21:22:00  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Walleye Trading decreases its shareholding by 26.7% -
+Tesla,2024-10,21:22:00  [NEWWIR] (SEBa.ST TSLA.O) - Tesla Second Quarter 13F Filing: Skandinaviska Enskilda Banken AB (publ) increases its holding in Tesla -
+Tesla,2024-10,21:21:58  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: CI Private Wealth increases its holding in Tesla -
+Tesla,2024-10,21:21:28  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: First Trust Advisors boosts its shareholding by 16.8% -
+Tesla,2024-10,"21:16:31  [FINGEV] (TSLA.O) - Tesla Cybertruck Leads The Pack As Most Popular EV Truck In US In Q3, Outselling Rivals From Ford, GM And Rivian Combined -- -"
+Tesla,2024-10,21:11:57  [NOTENG] (TSLA.O) - Tesla Model Y can also be available with 7 seats -
+Tesla,2024-10,21:01:53  [BENZIN] (TSLA.O) - Tech YouTuber MKBHD Says 'I'll Shave My Head On Camera' If Elon Musk's Tesla Delivers Cybercab Before 2027 As Robotaxi Timeline Faces Skepticism -
+Tesla,2024-10,"21:01:13  [DAISTB] (TSLA.O) - Tesla's new robots promises a cyber age, but not just yet -- -"
+Tesla,2024-10,20:52:06  [BUSINT] (TSLA.O) - This Chinese EV maker is up for a battle with Elon Musk in China -
+Tesla,2024-10,"20:47:08  [BENZIN] (TSLA.O) - Tesla Cybertruck Leads The Pack As Most Popular EV Truck In US In Q3, Outselling Rivals From Ford, GM And Rivian Combined -"
+Tesla,2024-10,"20:38:48  [FINSWI] (TSLA.O .SPX) - Tesla Is the Most Undervalued Artificial Intelligence (AI) Stock Right Now, According to a Top Wall Street Analyst. I'm Not Sure I Agree. -- -"
+Tesla,2024-10,20:32:33  [DAIONL] (TSLA.O) - Tesla Model Y now comes with seven seats in major boost for eco-conscious large families -
+Tesla,2024-10,"20:27:22  [MOTFOO] (TSLA.O .SPX) - Tesla Is the Most Undervalued Artificial Intelligence (AI) Stock Right Now, According to a Top Wall Street Analyst. I'm Not Sure I Agree. -"
+Tesla,2024-10,"20:25:13  [MOTFOL] (TSLA.O .SPX) - Tesla Is the Most Undervalued Artificial Intelligence (AI) Stock Right Now, According to a Top Wall Street Analyst. I'm Not Sure I Agree. -- -"
+Tesla,2024-10,20:14:10  [AGEAAA] (TSLA.O) - Only Tesla Cybertruck in Australia heading to SA car rally -- -
+Tesla,2024-10,20:13:22  [NOTENG] (TSLA.O) - Four killed in France when Tesla car in which they were riding crashed into a sign and burst into flames -
+Tesla,2024-10,20:13:09  [GURCOM] (TSLA.O) - Tesla's (TSLA) Model Y Sets New Record in China's September Deliveries -
+Tesla,2024-10,20:10:40  [BRITIN] (TSLA.O) - Only Tesla Cybertruck in Australia heading to SA car rally -- -
+Tesla,2024-10,20:08:41  [SYDHER] (TSLA.O) - Only Tesla Cybertruck in Australia heading to SA car rally -- -
+Tesla,2024-10,19:52:04  [BENZIN] (TSLA.O) - Tesla Adds 7-Seat Option For Model Y In Netherlands Amid EV Sales Slowdown In Europe -
+Tesla,2024-10,19:48:43  [EDGEMA] (TSLA.O) - German union slams 'aggressive' Tesla for firing works council rep -- -
+Tesla,2024-10,19:43:12  [DIGITI] (TSLA.O) - Tesla faces challenges in China's evolving autonomous vehicle market -- -
+Tesla,2024-10,"19:43:09  [DIGITI] (TSLA.O) - Tesla doubles down on autonomous driving, reveals inefficiencies of Europe and US compared to China -- -"
+Tesla,2024-10,19:42:37  [STOCKP] (TSLA.O) - On Tuesday 15th of October Tesla trades 0.62 percent higher -
+Tesla,2024-10,"19:15:17  [DECCHR] (TSLA.O) - Tesla car crashes and catches fire in France, killing 4 -- -"
+Tesla,2024-10,"19:12:03  [NOTENG] (TSLA.O) - Director of 'I, Robot' accuses Elon Musk of copying his ideas at Tesla -"
+Tesla,2024-10,"19:11:53  [NOTENG] (TSLA.O) - How much will Olinia, the Mexican electric car that will compete with Tesla, cost? -"
+Tesla,2024-10,"18:42:39  [RTRS] (TSLA.O RELI.NS) - Musk reacts to Ambani lobbying, calls any India move to auction satellite spectrum 'unprecedented' -"
+Tesla,2024-10,18:18:12  [FORCOO] (TSLA.O) - Tesla Cybertruck Sales Surge In Q3 As Used Price Crashes -- -
+Tesla,2024-10,"18:03:07  [TIMINT] (TSLA.O) - 'Hey Elon, can I have my designs back?': Director accuses Musk of stealing ideas for new Tesla products from his movie -- -"
+Tesla,2024-10,17:59:38  [AUTOCA] (TSLA.O) - Tesla Model Y gets option of seven seats for 2025 -- -
+Tesla,2024-10,"17:44:11  [GLOREV] (TSLA.O) - Tesla's sporty, two-seater robotaxi design puzzles experts -- -"
+Tesla,2024-10,17:33:06  [TRAINE] (TSLA.O) - Elon Musk Launches Optimus Robot As 'Greatest Product Ever' -
+Tesla,2024-10,"17:14:08  [INQNEW] (TSLA.O) - Robovan is a pleasant surprise in Tesla's 'We, Robot' event -- -"
+Tesla,2024-10,17:13:18  [WKRNEW] (TSLA.O) - Tesla's (TSLA) Neutral Rating Reiterated at Roth Mkm -- -
+Tesla,2024-10,"17:09:09  [INQNEW] (TSLA.O) - Optimus bots take the stage in Tesla's 'We, Robot' event -- -"
+Tesla,2024-10,16:53:24  [WESAUT] (TSLA.O) - Tesla Cybertruck enlisted to boost Fiat's EV sales -- -
+Tesla,2024-10,16:26:19  [AUSCAR] (TSLA.O) - 2025 BYD Sealion 7 electric SUV gets battery upgrade before arrival in Australia -- -
+Tesla,2024-10,15:59:13  [EDGEMA] (TSLA.O) - Tesla Optimus bots were remotely operated at Cybercab event -- -
+Tesla,2024-10,"15:57:17  [LATNIG] (TSLA.O) - Elon Musk accused of copying designs by I, Robot director -- -"
+Tesla,2024-10,"15:55:16  [LATNIG] (TSLA.O) - Tesla Optimus bots were controlled by humans during the 'We, Robot' event -- -"
+Tesla,2024-10,15:54:12  [YAHNEX] (TSLA.O) - Why Elon Musk's Cybercab robotaxi vision is likely still several years away -- -
+Tesla,2024-10,"15:50:40  [SOUCHI] (TSLA.O 9868.HK) - Xpeng's AI-powered P7+ to challenge Tesla, eyes China's autonomous driving market -- -"
+Tesla,2024-10,15:45:21  [SOUCHI] (TSLA.O) - Tesla Optimus robots at Cybercab showcase were remotely controlled by humans -- -
+Tesla,2024-10,15:43:21  [FORCOO] (TSLA.O) - Incentives Drive Up EV Sales In Third Quarter 2024 As Tesla Rebounds -- -
+Tesla,2024-10,"14:47:10  [GLOSNI] (TSLA.O) - Tesla (NASDAQ:TSLA) largest contributor to unrealized profit of Utilities in Institutional holdings Monday October 14, 2024 23:41 EDT -"
+Tesla,2024-10,"14:12:10  [NOTENG] (TSLA.O) - Tesla's humanoid robot, was remotely controlled at its unveiling -"
+Tesla,2024-10,Getting the cost per ton to the surface of Mars low enough that humanity has the resources to make life multiplanetary requires a roughly 1000X improvement in rocket & spacecraft technology.
+Tesla,2024-10,12:31:08  [FORONL] (TSLA.O) - Why Elon Musk's Cybercab robotaxi vision is likely still several years away -- -
+Tesla,2024-10,12:27:17  [MOTFOO] (TSLA.O) - Tesla Stock Slides as Its Robotaxi Event Disappoints. Time to Buy or Bail? -
+Tesla,2024-10,12:26:59  [BENZIN] (TSLA.O) - Tesla's Chinese Rivals Move To Calm Fears Of An European 'Invasion' That Threatens Legacy Players: 'Not Going To Overthrow Anybody Who's Developed ... -
+Tesla,2024-10,12:25:59  [YAHNEX] (TSLA.O) - Tesla Stock Slides as Its Robotaxi Event Disappoints. Time to Buy or Bail? -- -
+Tesla,2024-10,11:37:35  [WNCOMA] (TSLA.O) - 'My Robots': Sci-fi director looks at Elon Musk's Cybercab and Optimus and detects a copy cat -- -
+Tesla,2024-10,11:36:06  [YAHNEX] (TSLA.O) - Tesla's Optimus Robots Were Remotely Controlled at Company Event -- -
+Tesla,2024-10,11:28:29  [YAHCAN] (TSLA.O) - 'My Robots': Sci-fi director looks at Elon Musk's Cybercab and Optimus and detects a copy cat -- -
+Tesla,2024-10,"11:23:10  [FINDEH] (TSLA.O) - Tesla Stock: Protests Challenge Expansion Plans, Stock Remains Stable -- -"
+Tesla,2024-10,"11:12:06  [NOTENG] (TSLA.O) - Elon Musk accused of copying designs from ""I, Robot"" movie at Tesla event -"
+Tesla,2024-10,11:11:52  [GURCOM] (TSLA.O) - Tesla's Humanoid Robot Prototype Sparks Investor Interest with Remote Assistance -
+Tesla,2024-10,11:03:08  [WNCOMA] (TSLA.O) - Fast depreciation: Used EVs are seeing dramatic price drops and it is putting consumers underwater -- -
+Tesla,2024-10,"11:00:00  [PLUPAT] - Head Line: Tesla, Inc. (Texas) granted US Patent for ""Adjustable Suspension For A Vehicle"" -"
+Tesla,2024-10,10:13:05  [NOTENG] (TSLA.O) - Tesla in China: from oasis to hostile terrain for Elon Musk -
+Tesla,2024-10,10:12:01  [NOTENG] (TSLA.O) - Tesla Optimus robots unveiled at tech event were remotely operated by humans -
+Tesla,2024-10,"10:11:36  [NOTENG] (TSLA.O) - I, Robot' director lashes out at Elon Musk: did he steal his designs? -"
+Tesla,2024-10,"09:47:37  [WHADAY] (TSLA.O) - I live full time in my Tesla with two pets, despite having a condo -- -"
+Tesla,2024-10,"09:17:01  [BENZIN] (TSLA.O) - Tesla's Optimus Robots Were Remotely Assisted By Humans At 'We, Robot' Event -"
+Tesla,2024-10,"08:59:08  [TECHCR] (TSLA.O) - Tesla Optimus bots were controlled by humans during the 'We, Robot' event -- -"
+Tesla,2024-10,"08:29:08  [JAPTOD] (TSLA.O) - Tesla car crashes and catches fire in France, killing 4 -- -"
+Tesla,2024-10,08:22:09  [WATODA] (TSLA.O) - Tesla's 'remarkably human' Optimus bots were remotely operated -- -
+Tesla,2024-10,08:19:09  [SYDHER] (TSLA.O) - Tesla's 'remarkably human' Optimus bots were remotely operated -- -
+Tesla,2024-10,08:18:12  [AGEAAA] (TSLA.O) - Tesla 'remarkably human' Optimus bots were remotely operated -- -
+Tesla,2024-10,08:18:12  [BRITIN] (TSLA.O) - Tesla's 'remarkably human' Optimus bots were remotely operated -- -
+Tesla,2024-10,"08:00:07  [STUFFA] (TSLA.O) - Road test: Tesla Model 3 Performance, finally a proper driver's car? -- -"
+Tesla,2024-10,"07:40:43  [WKRNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Stablepoint Partners LLC -- -"
+Tesla,2024-10,07:37:03  [BENZIN] (TSLA.O) - Tesla Crash Kills 4 After EV Erupts In Flames -
+Tesla,2024-10,07:02:33  [DAIONL] (TSLA.O) - I live full-time in my Tesla with two pets - despite owning a condo -
+Tesla,2024-10,"06:27:16  [TRADAJ] (TSLA.O) - High Net Worth Advisory Group LLC Sells 357 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"06:27:10  [TRADAJ] (TSLA.O) - Procyon Advisors LLC Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,06:24:38  [MARBEA] (TSLA.O) - Tesla (NASDAQ:TSLA) Shares Down 1.1% - Should You Sell? -- -
+Tesla,2024-10,06:15:07  [WNCOMA] (TSLA.O) - California-based AI tech company ABBYY moves headquarters to Austin -- -
+Tesla,2024-10,"05:47:11  [YAHCAN] (TSLA.O) - Yes, there were humans controlling Tesla's bartending robots behind the scenes -- -"
+Tesla,2024-10,"05:46:00  [YAHIRE] (TSLA.O) - Yes, there were humans controlling Tesla's bartending robots behind the scenes -- -"
+Tesla,2024-10,"05:45:57  [ACSWIR] (TSLA.O) - SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims  On Behalf of Investors of Tesla, Inc. - TSLA -"
+Tesla,2024-10,"05:41:42  [HOLREQ] (TSLA.O) - 'I, Robot' Director Calls Out Elon Musk for Tesla Robot Design | THR News Video -- -"
+Tesla,2024-10,"05:22:18  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $217.80) loses $67 billion (8.8%) in MCap, steepest heavyweight fall in NASDAQ-100 Index Monday October 14, 2024 07:10 EDT -"
+Tesla,2024-10,"05:22:18  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $217.80) Monday October 14, 2024 07:10 EDT -"
+Tesla,2024-10,05:21:42  [YAHSIN] (TSLA.O) - Elon Musk Faces Copycat Accusation Over Latest Tesla Venture -- -
+Tesla,2024-10,05:17:17  [YAHCAN] (TSLA.O) - Elon Musk Faces Copycat Accusation Over Latest Tesla Venture -- -
+Tesla,2024-10,"05:16:36  [TRADAJ] (TSLA.O) - Sivia Capital Partners LLC Increases Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,05:14:49  [YAHIRE] (TSLA.O) - Elon Musk Faces Copycat Accusation Over Latest Tesla Venture -- -
+Tesla,2024-10,"05:14:00  [RTRS] (WYNN.O WDC.O) - U.S. STOCKS ON THE MOVE-Bausch + Lomb, SpartanNash, Hologic (BUZZ) -"
+Tesla,2024-10,05:12:14  [NOTENG] (TSLA.O) - Four killed in France when Tesla car in which they were riding crashed into a sign and burst into flames -
+Tesla,2024-10,"05:07:15  [BUSINT] (TSLA.O) - Yes, there were humans controlling Tesla's bartending robots behind the scenes -"
+Tesla,2024-10,"05:06:30  [FOXNEW] (TSLA.O JPM.N) - Business Rundown: Bank Earnings, Tesla's Robotaxi Skeptics, & DOJ Plans To Break Up Google -- -"
+Tesla,2024-10,05:03:37  [LATNIG] (TSLA.O) - Not Yet Fully Autonomous': Tesla's Optimus Robots Stole the Show ' But Were They Actually Controlled By Humans -- -
+Tesla,2024-10,Future terminals will be able to achieve >1Gps in a single unit. -
+Tesla,2024-10,04:52:21  [GLOSTO] (TSLA.O) - Tesla continues to underperform Tata Motors by 0.8% in the past three months -
+Tesla,2024-10,04:30:10  [ASINIK] (TSLA.O) - Tesla teases Cybercab as it seeks game changer against China's BYD -- -
+Tesla,2024-10,04:12:51  [NOTENG] (TSLA.O) - Design of Tesla's two-seater sports robotaxi baffles experts; this we know. -
+Tesla,2024-10,"04:02:47  [DAIONL] (TSLA.O) - 'I, Robot' director claims Elon Musk is STEALING his ideas - as he posts incredibly similar photos of his sci-fi creations and Tesla's -"
+Tesla,2024-10,04:02:47  [DAIONL] (TSLA.O) - Why Tesla's secondhand prices have plummeted far below those of rivals -
+Tesla,2024-10,"03:57:28  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Position Lessened by Elmwood Wealth Management Inc. -"
+Tesla,2024-10,03:53:12  [GLOSTO] (TSLA.O MOD.N) - Modine Manufacturing continues to outperform Tesla by 33.0% in the past three months -
+Tesla,2024-10,03:53:10  [GLOSTO] (ALV.N TSLA.O) - Autoliv continues to underperform Tesla by 2.7% in the past three months -
+Tesla,2024-10,03:53:02  [GLOSTO] (TSLA.O LEA.N) - Lear continues to outperform Tesla by 0.9% in the past three months -
+Tesla,2024-10,03:52:58  [GLOSTO] (RIVN.O TSLA.O) - Rivian Automotive continues to underperform Tesla by 27.7% in the past three months -
+Tesla,2024-10,03:52:50  [GLOSTO] (TSLA.O LKQ.O) - LKQ continues to outperform Tesla by 1.9% in the past three months -
+Tesla,2024-10,03:52:49  [GLOSTO] (2015.HK TSLA.O) - Tesla continues to underperform Li Auto by 48.4% in the past three months -
+Tesla,2024-10,03:52:49  [GLOSTO] (TSLA.O) - Tesla continues to outperform Bayerische Motoren Werke by 4.7% in the past three months -
+Tesla,2024-10,"03:42:38  [YAHIRE] (TSLA.O) - ""I, Robot ""director Alex Proyas calls out Elon Musk for Tesla Bot, Robovan: 'Can I have my designs back please?' -- -"
+Tesla,2024-10,"03:35:32  [YAHCAN] (TSLA.O) - ""I, Robot ""director Alex Proyas calls out Elon Musk for Tesla Bot, Robovan: 'Can I have my designs back please?' -- -"
+Tesla,2024-10,"03:31:16  [YAHSIN] (TSLA.O) - ""I, Robot ""director Alex Proyas calls out Elon Musk for Tesla Bot, Robovan: 'Can I have my designs back please?' -- -"
+Tesla,2024-10,"03:22:50  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $217.80) loses $67 billion (8.8%) in MCap, steepest heavyweight fall in NASDAQ-100 Index Monday October 14, 2024 07:10 EDT -"
+Tesla,2024-10,"03:22:40  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $217.80) Monday October 14, 2024 07:10 EDT -"
+Tesla,2024-10,03:21:11  [YAHNEX] (TSLA.O BTC=) - Tesla automation will be a stablecoin catalyst: Anthony Pompliano -- -
+Tesla,2024-10,"03:19:15  [WKRNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Sapient Capital LLC -- -"
+Tesla,2024-10,"03:19:01  [WNCOMA] (TSLA.O) - Elon Musk accused of copying designs by I, Robot director -- -"
+Tesla,2024-10,"03:10:53  [RTRS] (XOM.N WYNN.O) - U.S. STOCKS ON THE MOVE-Adobe, BigBear.ai, PG&E (BUZZ) -"
+Tesla,2024-10,"03:07:36  [RTRS] (TSLA.O 600104.SS) - Hard to see Chinese EV price deal by end of October, says EU official (UPDATE 2) -"
+Tesla,2024-10,02:53:57  [GLOSTO] (TSLA.O JCI.N) - Johnson Controls International continues to outperform Tesla by 21.2% in the past three months -
+Tesla,2024-10,02:53:50  [GLOSTO] (GPC.N TSLA.O) - Genuine Parts continues to outperform Tesla by 10.6% in the past three months -
+Tesla,2024-10,02:53:47  [GLOSTO] (TSLA.O 9868.HK) - XPeng continues to outperform Tesla by 57.7% in the past three months -
+Tesla,2024-10,02:53:31  [GLOSTO] (TSLA.O 0TL.F) - VinFast Auto continues to underperform Tesla by 14.2% in the past three months -
+Tesla,2024-10,"02:47:34  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by ORG Partners LLC -"
+Tesla,2024-10,02:47:18  [WALLST] (TSLA.O SSTK.N) - Here's What to Make of the Recent Elon Musk and Mark Cuban Rivalry -
+Tesla,2024-10,"02:17:27  [GLOSTO] (TSLA.O) - Tesla (TSLA: $213.87) in 4th consecutive fall, ranks 2 in today's top 20 falls; -$3.93 [-1.8%] -"
+Tesla,2024-10,02:16:02  [INVESV] (TSLA.O) - Five Innovations That Could Boost Convenience of EV Ownership -
+Tesla,2024-10,"02:15:14  [YAHCAN] (TSLA.O) - Tesla is making a mistake as it tries to 'shun' EV sales in its pivot to robots and robotaxis, long-time investor Ross Gerber says -- -"
+Tesla,2024-10,"02:14:15  [YAHIRE] (TSLA.O) - Tesla is making a mistake as it tries to 'shun' EV sales in its pivot to robots and robotaxis, long-time investor Ross Gerber says -- -"
+Tesla,2024-10,"02:13:53  [NOTENG] (TSLA.O) - The director of ""I, Robot"" criticized Elon Musk for copying robot designs from sci-fi movies. -"
+Tesla,2024-10,02:09:13  [GLOTRA] (TSLA.O .NDX) - Tesla (TSLA: $213.87) drops to two-month low on firm volume; -$3.93 [-1.8%] -
+Tesla,2024-10,02:06:57  [BENZIN] (TSLA.O) - Market Analysis: Tesla And Competitors In Automobiles Industry -
+Tesla,2024-10,02:03:51  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-10,"02:02:04  [BENZIN] (TSLA.O) - Elon Musk, Tesla Accused Of Stealing Ideas From 'I, Robot' Movie For Cybercab, Robovan: 'Can I Have My Designs Back Please?' -"
+Tesla,2024-10,"01:58:00  [BENZIN] (TSLA.O) - Market Clubhouse Morning Memo - October 14th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA) -"
+Tesla,2024-10,01:57:14  [GURCOM] (TSLA.O) - Tesla (TSLA) Shares Plunge Amid Disappointment from Robotaxi Day -
+Tesla,2024-10,"01:42:21  [GLOSTO] (TSLA.O) - Tesla (TSLA: $213.87) in 4th consecutive fall, ranks 2 in today's top 20 falls; -$3.93 [-1.8%] -"
+Tesla,2024-10,"01:42:05  [BUSINT] (TSLA.O) - Tesla is making a mistake as it tries to 'shun' EV sales in its pivot to robots and robotaxis, long-time investor Ross Gerber says -"
+Tesla,2024-10,01:41:14  [YAHNEX] (TSLA.O) - German union slams 'aggressive' Tesla for firing works council rep -- -
+Tesla,2024-10,01:38:08  [PEOSDA] (TSLA.O) - Tesla Shanghai factory hits milestone output of 3 mln cars -
+Tesla,2024-10,"01:36:51  [GLOSTO] (TSLA.O) - Tesla (TSLA: $220.74) lifts 1.3% on average volume, ranks 8 in today's top 20 rises; +$2.94 [1.3%] -"
+Tesla,2024-10,01:17:39  [RTRS] (TSLA.O) - German union slams 'aggressive' Tesla for firing works council rep -
+Tesla,2024-10,"01:17:23  [NEWBIH] (TSLA.O) - October 11, 2024: Tech Cocktail, LLC Musks Tesla Cybercab Could Hit the Roads By 2027 -"
+Tesla,2024-10,"01:02:07  [BENZIN] (TSLA.O) - Bitcoin, Ethereum, Dogecoin Drop Amid US Government Sell-Off Fears; Tesla Price Cuts Slash Used EV Prices by 25%, Hurting Dealer - Top Headlines To... -"
+Tesla,2024-10,"00:57:18  [GLOSTO] (TSLA.O) - Tesla (TSLA: $220.74) lifts 1.3% on average volume, ranks 8 in today's top 20 rises; +$2.94 [1.3%] -"
+Tesla,2024-10,00:52:06  [GLOSTO] (TSLA.O) - Tesla continues to outperform Volkswagen by 4.2% in the past three months -
+Tesla,2024-10,"That would be unprecedented, as this spectrum was long designated by the ITU as shared spectrum for satellites. -"
+Tesla,2024-10,00:48:01  [GLOSTO] (TSLA.O) - Weekly: Tesla (TSLA: $217.80) in bottom 1% performers of NASDAQ-100 Index in past week; -$32.28 [12.9%] -
+Tesla,2024-10,"00:42:47  [HINDUT] (TSLA.O) - Elon Musk, 'return my designs': Director mocks Robotaxi and Optimus for copying designs from Will Smith starrer -"
+Tesla,2024-10,"00:35:44  [WNCOMA] (TSLA.O) - 4 dead after Tesla car crashes, catches fire in France -- -"
+Tesla,2024-10,00:33:09  [RTRS] (TSLA.O) - TESLA SHARES UP 1.3% AFTER EVERCORE ISI HIKES PRICE TARGET -
+Tesla,2024-10,"00:28:31  [BARCHA] (TSLA.O) - Tesla's Robotaxi Event Sends the Stock Sliding, But Is It Time to Sell? -- -"
+Tesla,2024-10,"00:27:16  [WKRNEW] (TSLA.O) - Redhawk Wealth Advisors Inc. Sells 489 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"00:26:49  [MARBEA] (TSLA.O) - Procyon Advisors LLC Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,00:20:39  [BARCHA] (TSLA.O UBER.N) - Was Uber Really the Winner From Tesla's Robotaxi Event? -- -
+Tesla,2024-10,00:08:26  [RTRS] (TSLA.O STLAM.MI) - BYD tells EU to 'stay away' from tariffs as it expands European supply chain (UPDATE 2) -
+Tesla,2024-10,00:07:23  [MOTFOO] (TSLA.O UBER.N) - Was Uber Really the Winner From Tesla's Robotaxi Event? -
+Tesla,2024-10,00:05:46  [MOTFOL] (TSLA.O UBER.N) - Was Uber Really the Winner From Tesla's Robotaxi Event? -- -
+Tesla,2024-10,"23:57:40  [TORSUN] (TSLA.O) - 4 dead after Tesla car crashes, catches fire in France -- -"
+Tesla,2024-10,"23:56:43  [OTTSUN] (TSLA.O) - 4 dead after Tesla car crashes, catches fire in France -- -"
+Tesla,2024-10,"23:55:45  [CALSUN] (TSLA.O) - 4 dead after Tesla car crashes, catches fire in France -- -"
+Tesla,2024-10,"23:55:11  [EDMSUO] (TSLA.O) - 4 dead after Tesla car crashes, catches fire in France -- -"
+Tesla,2024-10,"23:51:44  [YAHNEX] (TSLA.O) - According to Hedge Funds, Tesla, Inc. (TSLA) Is Set to Capitalize on the Emerging Robotaxi Market -- -"
+Tesla,2024-10,23:47:53  [GLOSTO] (TSLA.O) - ICYMI: Monday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-10,23:47:45  [GLOSTO] (TSLA.O) - Monday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-10,"23:43:42  [INSMON] (TSLA.O) - According to Hedge Funds, Tesla, Inc. (TSLA) Is Set to Capitalize on the Emerging Robotaxi Market -- -"
+Tesla,2024-10,23:42:38  [GRESTA] (TSLA.O) - Edmunds electric truck face-off: Ford F-150 Lightning vs. Tesla Cybertruck -- -
+Tesla,2024-10,"23:32:44  [ENENOW] (TSLA.O) - Elon Musk Unveils $30,000 Tesla Cybercab with 2026 Production, but Details Lacking -- -"
+Tesla,2024-10,"23:29:40  [FINGEV] (TSLA.O LCID.O) - The Zacks Analyst Blog Highlights Tesla, Canoo, Workhorse, Rivian and Lucid -- -"
+Tesla,2024-10,"23:27:59  [INSMON] (TSLA.O) - Is Tesla, Inc. (TSLA) the Ultimate Electric Vehicle Stock to Buy and Hold Long-Term? -- -"
+Tesla,2024-10,"23:25:29  [RTRS] (WYNN.O WW.O) - U.S. STOCKS ON THE MOVE-B. Riley, crypto stocks, Longboard Pharmaceuticals (BUZZ) -"
+Tesla,2024-10,"23:20:13  [WKRNEW] (TSLA.O) - CHICAGO TRUST Co NA Buys 600 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"23:19:51  [CNBC] (TSLA.O AAPL.O) - Here are Monday's biggest analyst calls: Nvidia, Broadcom, Apple, Tesla, Flutter, Caterpillar, Alphabet & more -"
+Tesla,2024-10,"23:17:12  [BENZIN] (TSLA.O) - Tesla's Aggressive Price Cuts Trigger 25% Drop In Used EV Prices, Leaving Dealers Struggling -"
+Tesla,2024-10,"23:13:41  [WNCOMA] (TSLA.O) - Elon Musk Criticized by I, Robot Director for Tesla Design Similarities -- -"
+Tesla,2024-10,23:06:13  [CNETAA] (TSLA.O) - Google Lens vs. Apple Visual Intelligence: Has Google Already Won? -- -
+Tesla,2024-10,"23:02:40  [WKRNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Boosted by Retirement Planning Group LLC -- -"
+Tesla,2024-10,"22:52:08  [GLOBEA] (.GDAXI .IXIC) - Tesla (TSLA: $217.80) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Monday October 14, 2024 07:10 EDT -"
+Tesla,2024-10,"22:47:22  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $217.80) Monday October 14, 2024 07:10 EDT -"
+Tesla,2024-10,"22:47:22  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $217.80) loses $67 billion (8.8%) in MCap, steepest heavyweight fall in NASDAQ-100 Index Monday October 14, 2024 07:10 EDT -"
+Tesla,2024-10,22:42:04  [GLOSTO] (TSLA.O) - ICYMI: Monday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-10,22:41:57  [BENZIN] (TSLA.O) - Tesla Stock Climbs Higher In Monday Premarket: What's Fueling The Surge? -
+Tesla,2024-10,22:40:43  [YAHNEX] (TSLA.O) - Tesla's deliveries likely in focus after robotaxi event - Piper Sandler -- -
+Tesla,2024-10,"22:22:39  [WKRNEW] (TSLA.O) - Douglas Lane & Associates LLC Acquires New Shares in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"22:06:59  [CYPMAI] (TSLA.O) - Tesla's sporty, two-seater robotaxi design puzzles experts -"
+Tesla,2024-10,22:02:37  [GLOSTO] (TSLA.O) - Update: Monday's Preview: Can Tesla rebound after being down? -
+Tesla,2024-10,22:00:00  [CBSNEW] (TSLA.O) - Trump Rally Weapons Arrest; Dangerous Campaign Rhetoric; Florida  Cleanup Continues; FEMA Crews Threatened; American Troops Heading to  Israel; Hez... -
+Tesla,2024-10,21:48:48  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2024-10,"21:34:58  [RTRS] (WFC.N US10YT=RR) - U.S. stocks weekly: Birthday bull (REFILE, RPT, BUZZ) -"
+Tesla,2024-10,21:28:34  [RTRS] (TSLA.O EVR.N) - Tesla gains after Evercore ISI hikes price target (BUZZ) -
+Tesla,2024-10,21:17:10  [STOCKP] (TSLA.O) - With a trading volume of USD 31 bn TSLA trades -8.78 percent lower today -
+Tesla,2024-10,"21:14:40  [WNCOMA] (TSLA.O) - Tesla braces to reveal self-driving taxi ""Cybercab"" -- -"
+Tesla,2024-10,"21:00:00  [RTRS] (TSLA.O) - Tesla's sporty, two-seater robotaxi design puzzles experts (RPT, ANALYSIS) -"
+Tesla,2024-10,"20:57:33  [YAHIRE] (TSLA.O) - I, Robot Director Slams Elon Musk As Tesla Unveils Latest Designs -- -"
+Tesla,2024-10,"20:57:18  [SHAENG] (TSLA.O) - I, Robot Director Slams Elon Musk As Tesla Unveils Latest Designs -- -"
+Tesla,2024-10,"20:57:12  [YAHSIN] (TSLA.O) - I, Robot Director Slams Elon Musk As Tesla Unveils Latest Designs -- -"
+Tesla,2024-10,20:50:38  [TIMNOW] (TSLA.O) - Four Die As Their Tesla EV Catches Fire After A Freak Accident -- -
+Tesla,2024-10,"20:47:05  [TRTTUR] (TSLA.O) - Did Elon Musk steal director Alex Proyas' designs from I, Robot? -"
+Tesla,2024-10,"20:29:14  [TRTWOR] (TSLA.O) - Did Elon Musk steal director Alex Proyas' designs from I, Robot? -- -"
+Tesla,2024-10,20:07:21  [WNCOMA] (TSLA.O) - Elon Musk accused of stealing designs for new robots by Hollywood director -- -
+Tesla,2024-10,20:02:31  [BENZIN] (TSLA.O) - Tesla Superchargers Increase On The Road To SpaceX's Starbase Despite Global Slowdown In Deployment -
+Tesla,2024-10,"19:52:15  [BARCHA] (TSLA.O) - The Ultimate Electric Vehicle Stock to Buy With $1,000 Right Now -- -"
+Tesla,2024-10,"19:37:12  [MOTFOO] (TSLA.O) - The Ultimate Electric Vehicle Stock to Buy With $1,000 Right Now -"
+Tesla,2024-10,"19:35:40  [MONCON] (TSLA.O) - Videos: Tesla's Optimus loses 3-0 at rock, paper, scissors, admits hardest part of being a robot is... -- -"
+Tesla,2024-10,"19:16:12  [BUSSTA] (TSLA.O) - How Tesla's robots delivered drinks and smiles, but were 'not machines' -"
+Tesla,2024-10,19:12:07  [NOTENG] (TSLA.O) - Tesla: Cybercab leads to loss of 68 billion in a single day -
+Tesla,2024-10,19:11:16  [IRINEX] (TSLA.O) - Tech Secretary 'absolutely ready' to engage with Elon Musk -- -
+Tesla,2024-10,19:07:50  [YAHIRE] (TSLA.O) - Tech Secretary 'absolutely ready' to engage with Elon Musk -- -
+Tesla,2024-10,"18:47:18  [WNCOMA] (TSLA.O) - 'I, Robot' director Alex Proyas mocks Elon Musk's 'We, Robot' Tesla event -- -"
+Tesla,2024-10,18:30:11  [NORIND] (TSLA.O) - Tesla CEO Musk unveils 'Cybercab' robotaxi as focus shifts to automation -
+Tesla,2024-10,That's why we took legs off the booster and just have the tower catch it.
+Tesla,2024-10,"And if the big government machine behind the Kamala puppet wins, they will make all of America like California. -"
+Tesla,2024-10,"""That's why I think they're really terrified about Trump. He's not going to play the game."""
+Tesla,2024-10,"17:50:09  [STAINE] (TSLA.O) - Alex Proyas accuses Elon Musk of copying 'I, Robot' designs for Tesla vehicles -- -"
+Tesla,2024-10,"17:48:32  [ETFDAI] (TSLA.O) - Needham & Company LLC Reaffirms ""Hold"" Rating for Tesla (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"17:47:44  [ETFDAI] (TSLA.O) - Tesla (NASDAQ:TSLA) Earns ""Neutral"" Rating from Roth Mkm -- -"
+Tesla,2024-10,17:47:44  [ETFDAI] (TSLA.O) - Tesla (NASDAQ:TSLA) Earns Neutral Rating from The Goldman Sachs Group -- -
+Tesla,2024-10,"17:47:32  [WNCOMA] (TSLA.O) - 'I, Robot' director slams Elon Musk for ripping off his designs with new line of ... -- -"
+Tesla,2024-10,17:47:09  [TICREP] (TSLA.O) - Tesla's (TSLA) Neutral Rating Reiterated at The Goldman Sachs Group -
+Tesla,2024-10,"17:23:12  [TIMLIV] (TSLA.O) - Why Tesla's sporty, two-seater robotaxi has experts confused -- -"
+Tesla,2024-10,"17:00:00  [RTRS] (VOWG_p.DE TSLA.O) - Rectangular steering wheels, floating cars and deluxe EVs debut at Paris auto show (FACTBOX) -"
+Tesla,2024-10,"16:28:13  [WEBCOM] (TSLA.O) - Alex Proyas slams Elon Musk for ripping off 'I, Robot' movie designs -- -"
+Tesla,2024-10,16:13:13  [NOTENG] (TSLA.O) - Tesla shares may fall further due to robotaxi -
+Tesla,2024-10,"16:12:51  [NOTENG] (TSLA.O) - Invisible hand and steering wheel, by Josep Maria Ganyet -"
+Tesla,2024-10,"16:06:58  [ASNEWS] (TSLA.O) - Alex Proyas slams Elon Musk for ripping off 'I, Robot' movie designs -"
+Tesla,2024-10,"16:03:42  [RTRS] (TSLA.O RELI.NS) - Ambani's Reliance lobbies India on satellite spectrum in new face-off with Musk (RPT, UPDATE 2) -"
+Tesla,2024-10,15:51:31  [WNCOMA] (TSLA.O) - How Tesla robots that served drinks and sang Happy Birthday were not machines -- -
+Tesla,2024-10,15:00:00  [RTRS] (VOWG_p.DE VOLVb.ST) - Low-cost hybrid tech gives Renault breathing space in tough EV transition (FOCUS) -
+Tesla,2024-10,"14:59:38  [HOLREQ] (TSLA.O) - 'I, Robot' Director Mocks Elon Musk for Tesla Ripping Off Film for Optimus, Robotaxi: ""Can I Have My Designs Back Please?"" -- -"
+Tesla,2024-10,"""When you think of a cab, you think of something that's going to carry more than two people,"" said Jonathan Elfalan. ""Making this a two-seat-only car is very perplexing."""
+Tesla,2024-10,14:40:40  [NDTNEW] (TSLA.O) - Four Dead After Tesla's Electric Car Catches Fire In France -- -
+Tesla,2024-10,"""When you think of a cab, you think of something that's going to carry more than two people,"" said Jonathan Elfalan. ""Making this a two-seat-only car is very perplexing."""
+Tesla,2024-10,"13:57:03  [BENZIN] (TSLA.O UBER.N) - Tesla Cybercab Vs Uber: Can Elon Musk's Robotaxi Fleet Really Make A Dent, Gary Black Says Not So Fast -"
+Tesla,2024-10,13:46:36  [WNCOMA] (TSLA.O) - The Optimus robots at Tesla's Cybercab event were humans in disguise -- -
+Tesla,2024-10,13:32:15  [GURCOM] (TSLA.O) - Tesla (TSLA) Faces Skepticism Over Two-Seater Cybercab Design -
+Tesla,2024-10,13:22:08  [WNCOMA] (TSLA.O) - Elon Musk's vision of robotaxis and humanoid robots triggers a $99.6 billion sell-off -- -
+Tesla,2024-10,13:12:00  [GURCOM] (TSLA.O) - Tesla (TSLA) Stock Plummets Amid Robotaxi Event Concerns -
+Tesla,2024-10,"12:58:06  [YAHCAN] (TSLA.O) - 'i,Robot' Director Accuses Elon Musk Of Taking His Ideas For New Tesla Robot, Van and More: 'Hey Elon, Can I Have My Designs Back Please?' -- -"
+Tesla,2024-10,"A few outer engine nozzles are warped from heating & some other minor issues, but these are easily addressed."
+Tesla,2024-10,11:24:36  [FINDEH] (TSLA.O) - Tesla Stock: Shares Tumble Amid Skepticism and Environmental Protests -- -
+Tesla,2024-10,11:00:00  [AFRNEX] (TSLA.O) - The Optimus robots at Tesla's Cybercab event were humans in disguise -
+Tesla,2024-10,11:00:00  [KNOBYL] (TSLA.O) - The Optimus robots at Tesla's Cybercab event were humans in disguise -
+Tesla,2024-10,10:49:07  [TECREP] (TSLA.O) - Elon Musk Unveils Tesla's Robotaxi Cybercab With Shiba Inu On A Ride -- -
+Tesla,2024-10,"10:42:06  [DEAHOL] (TSLA.O) - 'I, Robot' Director Slams Elon Musk For Ripping Off Sci-Fi Film's Designs -- -"
+Tesla,2024-10,"08:32:02  [WATNEW] (TSLA.O) - Stonekeep Investments LLC Has $3.31 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"08:31:07  [WKRNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Westend Capital Management LLC -- -"
+Tesla,2024-10,"On Sunday morning, Space X successfully caught a 20+ story tall rocket booster."
+Tesla,2024-10,"07:49:08  [WKRNEW] (TSLA.O) - Compagnie Lombard Odier SCmA Trims Stake in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"07:35:36  [FORCOO] (TSLA.O) - At Robotaxi Event, Tesla Offers Hints Of Future Sub-$30,000 'Model 2' -- -"
+Tesla,2024-10,"07:08:09  [AUSCAR] (TSLA.O) - Tesla 'Full Self-Driving' tech to go fully autonomous in 2025 without human supervision, Musk claims -- -"
+Tesla,2024-10,"06:47:01  [WATNEW] (TSLA.O) - Sound Income Strategies LLC Has $3.79 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"05:47:23  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Ameliora Wealth Management Ltd. -"
+Tesla,2024-10,"04:57:07  [TRADAJ] (TSLA.O) - Sunflower Bank N.A. Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2024-10,"04:26:10  [WKRNEW] (TSLA.O) - JBR Co Financial Management Inc Sells 485 Shares of Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,"03:52:13  [WKRNEW] (TSLA.O) - InTrack Investment Management Inc Cuts Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,03:47:02  [TRTTUR] (TSLA.O) - Why are experts puzzled by Tesla's robotaxi design? -
+Tesla,2024-10,03:28:41  [TRTWOR] (TSLA.O) - Why are experts puzzled by Tesla's robotaxi design? -- -
+Tesla,2024-10,"Tesla, AI's Nobel Prize, Wisdom on Multiple Timeframes, Hedge Fund Math and More"
+Tesla,2024-10,"03:01:09  [YAHNEX] (TSLA.O) - Tesla stock selloff after robotaxi event could be just the beginning, pros warn -- -"
+Tesla,2024-10,02:35:48  [RTRS] (TSLA.O RELI.NS) - Ambani's Reliance lobbies India on satellite spectrum in new face-off with Musk (UPDATE 2) -
+Tesla,2024-10,"02:22:06  [FINGEV] (TSLA.O) - Consumer Tech News (Oct 7-Oct 11): Apple TV+ To Be Available Through Prime Video, Tesla Robotaxi To Disrupt Autonomous Driving Market & More -- -"
+Tesla,2024-10,01:56:59  [DAILEB] (TSLA.O) - Watch: Elon Musk Unveils Dancing Optimus Gen 2 Humanoid Robots at Tesla Event -
+Tesla,2024-10,01:45:11  [MSNSOU] (TSLA.O) - U.S. EV Sales Hit Another Record In Q3 2024: '10% Share Within Reach' -- -
+Tesla,2024-10,"And, in El Salvador, we are building Bitcoin Country, not Digital Assets Country."
+Tesla,2024-10,"And, in El Salvador, are building Bitcoin Country, not Digital Assets Country."
+Tesla,2024-10,"01:12:37  [FINSWI] (TSLA.O) - Elon Musk's New Cybercab Does Not Have Stainless Steel Exterior Panels Like Cybertruck Despite Other Resemblances, Says Tesla Engineer: 'Mass And C... -"
+Tesla,2024-10,"If the Kamala regime wins, they will stifle progress. It is in their nature and they cannot help but do what is in their nature."
+Tesla,2024-10,"00:55:14  [WKRNEW] (TSLA.O) - Shira Ridge Wealth Management Buys Shares of 855 Tesla, Inc. (NASDAQ:TSLA) -- -"
+Tesla,2024-10,Looking forward to serving NASA in returning humanity to the Moon. -
+Tesla,2024-10,"00:07:19  [WATNEW] (TSLA.O) - Matrix Asset Advisors Inc. NY Buys Shares of 833 Tesla, Inc. (NASDAQ:TSLA) -"

@@ -1,0 +1,561 @@
+firm_id,date,text
+Tesla,2025-5(w3),23:57:47  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),23:57:46  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),23:57:32  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),"23:57:32  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by LRI Investments LLC -"
+Tesla,2025-5(w3),23:57:31  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),23:57:20  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),"23:57:17  [WATNEW] (JHG.N TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Janus Henderson Group PLC -"
+Tesla,2025-5(w3),23:57:15  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),23:55:30  [NEWUSN] (TSLA.O VFS.O) - VinFast Auto continues to outperform Tesla by 13.1% in the past three months -
+Tesla,2025-5(w3),23:55:11  [NEWUSN] (TSLA.O GNTX.O) - Gentex continues to outperform Tesla by 5.0% in the past three months -
+Tesla,2025-5(w3),23:55:09  [NEWNYS] (ZK.N TSLA.O) - ZEEKR Intelligent Technology Holding continues to outperform Tesla by 24.1% in the past three months -
+Tesla,2025-5(w3),23:52:41  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),23:52:35  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),23:52:20  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),23:52:18  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),23:52:14  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),23:52:06  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),23:52:05  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Blackrock continued to increase its shareholding -
+Tesla,2025-5(w3),23:47:30  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Blackrock continued to increase its shareholding -
+Tesla,2025-5(w3),23:47:22  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),23:47:19  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),23:47:11  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Blackrock continued to increase its shareholding -
+Tesla,2025-5(w3),23:47:08  [GURCOM] (TSLA.O) - Tesla Gains Confidence as Analysts Call Autonomy Its Biggest Catalyst -
+Tesla,2025-5(w3),23:47:06  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),23:47:05  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),23:37:08  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Harvest Fund Management accumulates another 49.0% -
+Tesla,2025-5(w3),23:37:01  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Advantus Capital Management trims its shareholding by 1.2% -
+Tesla,2025-5(w3),23:32:28  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Advantus Capital Management trims its shareholding by 1.2% -
+Tesla,2025-5(w3),23:32:27  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Harvest Fund Management accumulates another 49.0% -
+Tesla,2025-5(w3),23:32:16  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Harvest Fund Management accumulates another 49.0% -
+Tesla,2025-5(w3),23:32:16  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Massachusetts Financial Services decreases its shareholding by 27.9% -
+Tesla,2025-5(w3),23:32:15  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Advantus Capital Management trims its shareholding by 1.2% -
+Tesla,2025-5(w3),23:27:48  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: New York State Common Retirement Fund continued to decrease its shareholding -
+Tesla,2025-5(w3),23:27:46  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Massachusetts Financial Services decreases its shareholding by 27.9% -
+Tesla,2025-5(w3),23:27:46  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Massachusetts Financial Services decreases its shareholding by 27.9% -
+Tesla,2025-5(w3),"23:17:27  [WATNEW] (TSLA.O) - Laird Norton Wetherby Wealth Management LLC Sells 2,236 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),23:16:58  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),"23:13:14  [YAHNEX] (NVDA.O TSLA.O) - Dow Jones Futures Surge 1,100 Points On Trump-China Tariff Deal; Apple, Nvidia, Tesla Rally -"
+Tesla,2025-5(w3),23:09:44  [NEWNYS] (TSLA.O BWA.N) - BorgWarner continues to outperform Tesla by 22.7% in the past three months -
+Tesla,2025-5(w3),"23:09:21  [YAHUKI] (TSLA.O) - Tesla, Amazon stocks lead 'Magnificent Seven' surge after US-China temporary trade truce -"
+Tesla,2025-5(w3),23:09:07  [NEWUSN] (TSLA.O VOWG.DE) - Tesla continues to underperform Volkswagen by 18.5% in the past three months -
+Tesla,2025-5(w3),23:08:09  [GLOSTO] (TSLA.O) - ICYMI: Monday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-5(w3),23:07:27  [GLOSTO] (TSLA.O) - Monday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-5(w3),22:50:48  [AFRNEX] (TSLA.O) - Tesla doxxing attacks wrongly target nonowners across America -
+Tesla,2025-5(w3),"22:50:25  [WATNEW] (TSLA.O) - 1,488,554 Shares in Tesla, Inc. (NASDAQ:TSLA) Purchased by Leigh Baldwin & CO. LLC -"
+Tesla,2025-5(w3),"22:50:19  [TRADAJ] (TSLA.O) - Tesla (NASDAQ:TSLA) Shares Acquired Rep. Robert Bresnahan, Jr. -"
+Tesla,2025-5(w3),"22:50:11  [GLOWEE] (TSLA.O .NDX) - Weekly: Tesla (TSLA: $298.26) rises for a third consecutive week, a three-week rise of 24%; +$11.05 [3.8%] -"
+Tesla,2025-5(w3),22:45:39  [YAHUKI] (TSLA.O) - Tesla Leads 'Magnificent Seven' Rally After U.S.-China Tariff Breakthrough -
+Tesla,2025-5(w3),"22:44:01  [GLOWEE] (TSLA.O .NDX) - Weekly: Tesla (TSLA: $298.26) rises for a third consecutive week, a three-week rise of 24%; +$11.05 [3.8%] -"
+Tesla,2025-5(w3),"22:26:10  [AUTCOP] (TSLA.O) - If Tesla Released A New Roadster Today, What Would You Be Willing To Pay For It? -"
+Tesla,2025-5(w3),22:22:20  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Teachers' Retirement System Kentucky trims its shareholding by 0.2% -
+Tesla,2025-5(w3),22:22:03  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: SHARIAPORTFOLIO reduces its shares by 15.2% -
+Tesla,2025-5(w3),22:22:02  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Mezzasalma Advisors decreases its shareholding by 24.3% -
+Tesla,2025-5(w3),22:19:02  [GLOSTO] (TSLA.O) - ICYMI: Monday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-5(w3),22:17:34  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Jump Financial continued to increase its shareholding -
+Tesla,2025-5(w3),"22:17:33  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Compagnie Lombard, Odier SCA trims its shareholding by 1.1% -"
+Tesla,2025-5(w3),22:17:26  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: SHARIAPORTFOLIO reduces its shares by 15.2% -
+Tesla,2025-5(w3),"22:17:25  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Compagnie Lombard, Odier SCA trims its shareholding by 1.1% -"
+Tesla,2025-5(w3),22:17:19  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Jump Financial continued to increase its shareholding -
+Tesla,2025-5(w3),22:17:18  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Mezzasalma Advisors decreases its shareholding by 24.3% -
+Tesla,2025-5(w3),"22:12:47  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Holdings Lifted by MJP Associates Inc. ADV -"
+Tesla,2025-5(w3),"22:12:31  [DAILYQ] (TSLA.O) - MJP Associates Inc. ADV Has $2.23 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:06:29  [MARBEA] (TSLA.O) - KKM Financial LLC Sells 1,040 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:06:12  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Kaizen Financial Strategies -"
+Tesla,2025-5(w3),22:01:02  [KNOBYL] (TSLA.O) - Tesla doxxing attacks wrongly target nonowners across America -
+Tesla,2025-5(w3),21:57:04  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:57:03  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:52:04  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),"21:48:41  [MARBEA] (TSLA.O) - Hyperion Asset Management Ltd Has $472.66 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"21:47:47  [GLOBUL] (TSLA.O .NDX) - Consecutive Rises Past Week: Tesla (TSLA: $298.26) rises for a third consecutive week, a three-week rise of 24% -"
+Tesla,2025-5(w3),"21:47:42  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $298.26) Monday May 12, 2025 07:05 EDT -"
+Tesla,2025-5(w3),21:47:06  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:47:05  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:42:20  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:42:07  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:42:03  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:37:47  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:37:47  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),"21:37:43  [MINDUS] (TSLA.O) - US: U.S. pension fund stops Tesla investments, Swedish fund may follow -"
+Tesla,2025-5(w3),21:37:32  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:37:30  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:37:21  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:37:19  [MINDUS] (TSLA.O TSLA.OQ) - Sweden: Retired union activists protest Tesla strikebreaking with march music and Nazi references -
+Tesla,2025-5(w3),21:37:17  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),"21:37:01  [RTRS] (XOM.N WFC.N) - U.S. STOCKS ON THE MOVE-Oil firms, Apple, US big banks (BUZZ) -"
+Tesla,2025-5(w3),Apple $AAPL is back over a $3 Trillion market cap in pre market trading -
+Tesla,2025-5(w3),21:34:42  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:34:36  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:34:17  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:34:15  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:34:12  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:34:08  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:34:07  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Blackrock continued to increase its shareholding -
+Tesla,2025-5(w3),21:31:59  [FINEXP] (TSLA.O) - Tank vs Tesla: WWII veteran crushes Model 3 to fight fascism -
+Tesla,2025-5(w3),"Netflix $NFLX down a bit as it had been a ""tariff resistant"" play."
+Tesla,2025-5(w3),21:29:21  [GLOSTO] (TSLA.O) - Update: Monday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-5(w3),21:27:31  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Blackrock continued to increase its shareholding -
+Tesla,2025-5(w3),21:27:23  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:27:19  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:27:12  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Blackrock continued to increase its shareholding -
+Tesla,2025-5(w3),21:27:06  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Massachusetts Financial Services slashes 91.3% of its shareholding -
+Tesla,2025-5(w3),21:27:04  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Victory Capital Management cuts 7.7% of its shares -
+Tesla,2025-5(w3),21:17:09  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Harvest Fund Management accumulates another 49.0% -
+Tesla,2025-5(w3),21:17:03  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Advantus Capital Management trims its shareholding by 1.2% -
+Tesla,2025-5(w3),21:12:18  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Advantus Capital Management trims its shareholding by 1.2% -
+Tesla,2025-5(w3),21:12:17  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Harvest Fund Management accumulates another 49.0% -
+Tesla,2025-5(w3),21:12:12  [GURCOM] (TSLA.O) - Tesla Leads 'Magnificent Seven' Rally After U.S.-China Tariff Breakthrough -
+Tesla,2025-5(w3),21:12:07  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Harvest Fund Management accumulates another 49.0% -
+Tesla,2025-5(w3),21:12:06  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Massachusetts Financial Services decreases its shareholding by 27.9% -
+Tesla,2025-5(w3),21:12:05  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Advantus Capital Management trims its shareholding by 1.2% -
+Tesla,2025-5(w3),21:07:27  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Massachusetts Financial Services decreases its shareholding by 27.9% -
+Tesla,2025-5(w3),"21:07:22  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by LRI Investments LLC -"
+Tesla,2025-5(w3),21:07:07  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Massachusetts Financial Services decreases its shareholding by 27.9% -
+Tesla,2025-5(w3),21:07:05  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: New York State Common Retirement Fund continued to decrease its shareholding -
+Tesla,2025-5(w3),21:01:44  [INDIAE] (TSLA.O) - Tesla under threat? 5 Chinese EV brands giving sleepless nights to Elon Musk -
+Tesla,2025-5(w3),"20:47:02  [NEWUSN] (TSLA.O .NDX) - Tesla up 7.4%; leads market higher Friday, May 09, 2025 10:00:00 -"
+Tesla,2025-5(w3),"20:28:09  [TICREP] (TSLA.O) - 4,116 Shares in Tesla, Inc. (NASDAQ:TSLA) Purchased by Lionshead Wealth Management LLC -"
+Tesla,2025-5(w3),"20:27:44  [WATNEW] (TSLA.O) - Lionshead Wealth Management LLC Buys New Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"19:59:11  [MARBEA] (JHG.N TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Janus Henderson Group PLC -"
+Tesla,2025-5(w3),That is roughly equivalent to all electrical power produced in America today. -
+Tesla,2025-5(w3),19:47:31  [YAHNEX] (TSLA.O) - Here's who could replace Elon Musk if he ever steps down as Tesla CEO -
+Tesla,2025-5(w3),Fire and animal labor expanded our power supply to a few hundred watts per person.
+Tesla,2025-5(w3),23:54:14  [NEWUSN] (TSLA.O) - Evaluating Tesla's Layoffs in the Context of Corporate America -
+Tesla,2025-5(w3),23:52:20  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Pictet Asset Management Holding SA reduces its shares by 15.2% -
+Tesla,2025-5(w3),23:52:06  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Pictet Asset Management Holding SA reduces its shares by 15.2% -
+Tesla,2025-5(w3),23:47:48  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Allianz Asset Management increases its holding in Tesla -
+Tesla,2025-5(w3),23:47:09  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Los Angeles Capital Management & Equity Research continued to increase its shareholding -
+Tesla,2025-5(w3),"""A more cooperative and open trading relationship between the US and China can help -"
+Tesla,2025-5(w3),"23:45:00  [RTRS] (TSLA.O 9988.HK) - China's AI-powered humanoid robots aim to transform manufacturing (RPT, INSIGHT) -"
+Tesla,2025-5(w3),23:42:28  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),"23:38:08  [EQUCOM] (TSLA.O 6301.T) - Komatsu, Dimaag Unveil 4WD Mobile Megawatt Charger for Electric Construction Equipment -"
+Tesla,2025-5(w3),23:37:03  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Allianz Asset Management increases its holding in Tesla -
+Tesla,2025-5(w3),"23:32:13  [WALLST] (TSLA.O) - Tesla (NASDAQ: TSLA) Futures Point to Higher Open on May 13, 2025 -"
+Tesla,2025-5(w3),23:22:50  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:22:48  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),23:22:20  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),23:22:17  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:22:14  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:22:05  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),23:18:02  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:17:59  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),23:17:47  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:17:35  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),23:17:31  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:17:20  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:15:14  [RTRS] (TSLA.O) - Tesla's robotaxi service hasn't started testing its cars without a human safety driver - The Information (MEDIA) -
+Tesla,2025-5(w3),23:13:05  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:12:53  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),23:12:52  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:12:33  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:12:12  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),23:12:10  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),23:01:07  [AUTCOP] (TSLA.O) - Thousands Of Tesla Fans Gush Over Prototype Only To Find Out It Isn't What They Thought -
+Tesla,2025-5(w3),"22:57:57  [TRADAJ] (TSLA.O) - Miura Global Management LLC Invests $2.02 Million in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:57:31  [WATNEW] (TSLA.O) - Napa Wealth Management Trims Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:57:15  [TICREP] (TSLA.O) - Napa Wealth Management Has $2.85 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:54:17  [GURCOM] (TSLA.O UNH.N) - Morning Brew: UnitedHealth CEO Resigns, Tesla's China Relations, and More -"
+Tesla,2025-5(w3),"22:54:16  [GURCOM] (TSLA.O) - Tesla Faces U.S. Probe Over Robotaxi Safety, FSD System in Spotlight -"
+Tesla,2025-5(w3),"22:53:31  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $318.38) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Tuesday May 13, 2025 07:05 EDT -"
+Tesla,2025-5(w3),22:53:07  [NEWUSN] (9888.HK BIDU.O) - Tesla continues to underperform Baidu by 8.5% in the past three months -
+Tesla,2025-5(w3),"22:53:00  [GLOBUL] (.GDAXI TSLA.O) - Tesla top gainer in Demars Financial Group jumps 21.5% in 41 days, hits 76-day high Tuesday May 13, 2025 07:05 EDT -"
+Tesla,2025-5(w3),22:52:31  [NEWUSN] (TSLA.O NBIS.O) - Nebius Group continues to underperform Tesla by 9.4% in the past three months -
+Tesla,2025-5(w3),22:49:12  [AUTCOP] (TSLA.O) - Chinese Trade Deal May Take Tesla Over $1 Trillion Valuation Again -
+Tesla,2025-5(w3),22:47:24  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Pictet Asset Management Holding SA reduces its shares by 15.2% -
+Tesla,2025-5(w3),22:27:11  [AUTCOP] (TSLA.O) - Tesla Tells Model Y Workers To Take A Week Off -
+Tesla,2025-5(w3),22:26:57  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Allianz Asset Management increases its holding in Tesla -
+Tesla,2025-5(w3),22:26:06  [WEBPRO] (TSLA.O) - Tesla's Robotaxi Dreams Hit Regulatory Roadblock as NHTSA Intensifies Safety Scrutiny -
+Tesla,2025-5(w3),"22:18:07  [TRADAJ] (TSLA.O) - Occudo Quantitative Strategies LP Buys 3,010 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:17:36  [NEWPEO] (TSLA.OQ TSLA.O) - Elon Musk's two bagger Tesla in top 7% of price performers of NASDAQ stocks Tuesday May 13, 2025 -"
+Tesla,2025-5(w3),22:09:56  [STOCKP] (TSLA.O) - With a trading volume of USD 39.5 bn TSLA trades 4.72 percent higher today -
+Tesla,2025-5(w3),"22:04:09  [MARBEA] (TSLA.O) - 1,488,554 Shares in Tesla, Inc. (NASDAQ:TSLA) Purchased by Leigh Baldwin & CO. LLC -"
+Tesla,2025-5(w3),"21:47:23  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $318.38) Tuesday May 13, 2025 07:05 EDT -"
+Tesla,2025-5(w3),21:47:20  [GLOBUL] (TSLA.O .NDX) - Top Performers Monthly: Tesla (TSLA: $318.38) in top 3% performers of NASDAQ-100 Index in May 2025 -
+Tesla,2025-5(w3),21:47:18  [GLOBUL] (TSLA.O .NDX) - Top Performers Past Week: Tesla (TSLA: $318.38) in top 4% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(w3),21:42:29  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),"21:37:38  [MOTFOO] (TSLA.O) - Should You Buy Tesla Stock With $1,000 and Hold for 20 Years? -"
+Tesla,2025-5(w3),21:27:17  [RTRS] (YMcv1 WMT.N) - US stock futures fall as optimism wanes ahead of key inflation test (US STOCKS) -
+Tesla,2025-5(w3),21:27:14  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),21:27:10  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),"21:26:49  [ALARAC] (TSLA.O) - MBS meets Elon Musk, Sam Altman in Riyadh -"
+Tesla,2025-5(w3),21:22:35  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:22:32  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),21:22:24  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:22:20  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),21:22:07  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:22:05  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),21:17:50  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:17:45  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),21:17:40  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:17:23  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:17:11  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Los Angeles Capital Management & Equity Research continued to increase its shareholding -
+Tesla,2025-5(w3),21:17:02  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:12:51  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),21:12:50  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:12:34  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:12:22  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),21:12:20  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),"21:07:58  [TICREP] (TSLA.O) - Lazard Asset Management LLC Grows Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"21:07:11  [WATNEW] (TSLA.O) - Lazard Asset Management LLC Has $95.68 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),20:23:10  [CLSBLU] (TSLA.O) - Leaving Delaware? The Hidden Promise of Specialized Corporate Courts -
+Tesla,2025-5(w3),20:22:47  [GURCOM] (TSLA.O) - Tesla (TSLA) Experiences Significant Drop in China Sales | TSLA Stock News -
+Tesla,2025-5(w3),20:02:00  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),20:00:00  [RTRS] (TSLA.O) - Tesla's refresh to best-selling Model Y SUV starts on rocky road (ANALYSIS) -
+Tesla,2025-5(w3),"19:12:36  [MOTFOO] (TSLA.O AAPL.O) - Tesla Stock vs. Apple Stock: The Best buy Right Now, According to Wall Street -"
+Tesla,2025-5(w3),18:42:13  [DIGITI] (TSLA.O) - Tesla's futuristic trademarks 'Robotaxi' and 'Cybercab' hit snags amid legal and tech hurdles -
+Tesla,2025-5(w3),"18:18:13  [LITCOM] (TSLA.O) - ""The problem is Elon"": Tesla employees demand Musk resign -"
+Tesla,2025-5(w3),"17:40:07  [MACAUA] (TSLA.O) - ""The problem is Elon"": Tesla employees demand Musk resign -"
+Tesla,2025-5(w3),"17:37:16  [INVAUA] (TSLA.O) - ""The problem is Elon"": Tesla employees demand Musk resign -"
+Tesla,2025-5(w3),"17:30:09  [CANTIO] (TSLA.O) - ""The problem is Elon"": Tesla employees demand Musk resign -"
+Tesla,2025-5(w3),17:12:14  [NOTENG] (TSLA.O) - Tesla is in crisis: Elon Musk's ace in the hole to recover thanks to AI -
+Tesla,2025-5(w3),16:22:46  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:22:46  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),16:22:21  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),16:22:17  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:22:14  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:22:05  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),16:18:02  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:17:58  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),16:17:46  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:17:41  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:17:36  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),16:17:21  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:13:05  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:12:46  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),16:12:46  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:12:32  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:12:14  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),16:12:12  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: TCE Group accumulates another 88.2% -
+Tesla,2025-5(w3),15:37:41  [GURCOM] (TSLA.O AUR.O) - GM Hires Former Tesla Executive Sterling Anderson as Chief Product Officer -
+Tesla,2025-5(w3),"15:33:06  [MSNUKA] (TSLA.O) - Tesla sales nosedive 45.9% in Germany, BYD up 756% as drivers steer clear of Elon Musk -"
+Tesla,2025-5(w3),15:18:09  [HINDUT] (TSLA.O) - 'We can't do that with Elon Musk as CEO': Fired Tesla employee blames billionaire for tanking sales -
+Tesla,2025-5(w3),13:00:00  [RTRS] (TSLA.O 9988.HK) - China's AI-powered humanoid robots aim to transform manufacturing (INSIGHT) -
+Tesla,2025-5(w3),"12:52:05  [BUSUSA] (TSLA.O) - GM hires Aurora co-founder, ex-Tesla exec -"
+Tesla,2025-5(w3),12:42:14  [NEWWIR] (TSLA.O RAT.L) - Tesla Fourth Quarter 13F Filing: Rathbone Brothers trims its shareholding by 5.0% -
+Tesla,2025-5(w3),12:32:13  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Teachers' Retirement System Kentucky trims its shareholding by 0.2% -
+Tesla,2025-5(w3),12:27:34  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Jump Financial continued to increase its shareholding -
+Tesla,2025-5(w3),"12:27:33  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: Compagnie Lombard, Odier SCA trims its shareholding by 1.1% -"
+Tesla,2025-5(w3),12:27:32  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: SHARIAPORTFOLIO reduces its shares by 15.2% -
+Tesla,2025-5(w3),12:27:31  [NEWWIR] (TSLA.O) - Tesla Second Quarter 13F Filing: Mezzasalma Advisors decreases its shareholding by 24.3% -
+Tesla,2025-5(w3),12:27:19  [NEWWIR] (TSLA.O) - Tesla Third Quarter 13F Filing: SHARIAPORTFOLIO reduces its shares by 15.2% -
+Tesla,2025-5(w3),23:57:24  [PROINV] (TSLA.O) - Tesla reportedly forms committee to review CEO Elon Musk's pay package -
+Tesla,2025-5(w3),23:53:23  [NEWUSN] (TSLA.O) - A Comparison of Tesla's Layoffs with that of Corporate America -
+Tesla,2025-5(w3),23:47:42  [DAITIN] (TSLA.O) - Cybertruck crisis? Tesla struggles to sell $800M worth of unsold inventory -
+Tesla,2025-5(w3),"23:43:11  [INSMON] (TSLA.O) - Tesla, Inc. (TSLA) Eyes Robotaxi Expansion in Saudi Arabia Amid Robotics Push -"
+Tesla,2025-5(w3),23:43:10  [FORONL] (TSLA.O) - Tesla chair Robyn Denholm's $180 million stock sales come under scrutiny -
+Tesla,2025-5(w3),23:42:15  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Mediolanum International Funds decreases its shareholding by 26.6% -
+Tesla,2025-5(w3),23:42:13  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Cetera Investment Advisers increases its shares by 10.8% -
+Tesla,2025-5(w3),23:40:09  [VCPCOM] (TSLA.O) - Tesla Special Committee To Review Elon Musk's Compensation Package Amid $56B Pay Deal Appeal -
+Tesla,2025-5(w3),23:37:10  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Cetera Investment Advisers increases its shares by 10.8% -
+Tesla,2025-5(w3),23:37:06  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Mediolanum International Funds decreases its shareholding by 26.6% -
+Tesla,2025-5(w3),"23:34:48  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Holdings Trimmed by Malaga Cove Capital LLC -"
+Tesla,2025-5(w3),"23:24:15  [FINGEV] (AMZN.O TSLA.O) - 'Bullish For Nvidia, Tesla, Palantir, Microsoft, Alphabet, Amazon:' AI 'Revolution Is Coming' To The Saudi Kingdom, Says Wedbush's Dan Ives -"
+Tesla,2025-5(w3),23:17:35  [GURCOM] (TSLA.O) - Musk's Compensation in Flux as Tesla Probes Reset -
+Tesla,2025-5(w3),23:12:51  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),23:12:28  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),23:12:17  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),23:07:50  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Allianz Asset Management increases its holding in Tesla -
+Tesla,2025-5(w3),23:07:49  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),23:07:31  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),23:07:21  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Allianz Asset Management increases its holding in Tesla -
+Tesla,2025-5(w3),23:07:19  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),23:02:13  [DAIONL] (TSLA.O) - Elon Musk humiliated after his AI says Tesla's robot has 'limited' use -
+Tesla,2025-5(w3),"22:57:36  [WATNEW] (TSLA.O) - Nan Shan Life Insurance Co. Ltd. Has $2.95 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:57:35  [DAILYQ] (TSLA.O) - Logan Capital Management Inc. Buys 133 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:57:08  [YAHNEX] (NVDA.O TSLA.O) - Dow Jones Futures Rise As Nvidia, Tesla Rally; Super Micro Soars On $20 Billion AI Deal -"
+Tesla,2025-5(w3),"22:55:08  [DAIPOL] (TSLA.O) - Nicholas Investment Partners LP Has $1.52 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:53:50  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $334.07) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Wednesday May 14, 2025 07:05 EDT -"
+Tesla,2025-5(w3),"22:53:30  [GLOBUL] (.GDAXI TSLA.O) - Tesla top gainer in Quilter soars 28.3% in 42 days, hits 78-day high Wednesday May 14, 2025 07:05 EDT -"
+Tesla,2025-5(w3),22:53:12  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla Continues to Underperform its Peers -
+Tesla,2025-5(w3),22:52:13  [WNCOMA] (TSLA.O) - Tesla's Shanghai Gigafactory reports strong exports in April -
+Tesla,2025-5(w3),22:51:43  [FINSWI] (TSLA.O) - Tesla's Robotaxi Plans Under Federal Scrutiny Ahead Of Austin Launch As Elon Musk Vows Nationwide Rollout By Year-End -
+Tesla,2025-5(w3),"22:47:32  [NEWUSN] (USD= TSLA.O) - Tesla leads Auto sector 6.5% higher Monday, May 12, 2025 11:00:00 -"
+Tesla,2025-5(w3),22:39:08  [DAYCOM] (005380.KS TSLA.O) - Edmunds electric SUV test: 2025 Hyundai Ioniq 5 vs 2026 Tesla Model Y The Tesla Model Y and Hyundai Ioniq 5 are two of the hottest-selling small el... -
+Tesla,2025-5(w3),22:36:10  [YAHNEX] (NVDA.O TSLA.O) - Give This Stock Credit For Something Nvidia And Tesla Failed To Do -
+Tesla,2025-5(w3),"22:27:50  [WATNEW] (TSLA.O) - Main Street Group LTD Sells 131 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:27:21  [DAILYQ] (TSLA.O) - Nicholas Investment Partners LP Has $1.52 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),Which means everyone will get it cheaper and better with more competition. -
+Tesla,2025-5(w3),22:09:59  [XINHUN] (TSLA.O) - Tesla's Shanghai Gigafactory reports strong exports in April -
+Tesla,2025-5(w3),22:04:40  [INDTOE] (TSLA.O) - Tesla Optimus robot shows impressive dance moves in new video -
+Tesla,2025-5(w3),21:58:11  [YAHNEX] (TSLA.O) - Tesla board explores new pay deal for Elon Musk -
+Tesla,2025-5(w3),"21:57:13  [NEWUSN] (.IXIC TSLA.O) - NASDAQ Today's Bullish Signals: Rises in the heavyweights Tuesday May 13, 2025 16:00 EDT [in desc order of increase in MCap] -"
+Tesla,2025-5(w3),$AEO -14%: Solid Q1 prelim earnings but withdrew FY25 guidance citing macro uncertainty
+Tesla,2025-5(w3),$HNHPF +1%: Net profit topped exp. driven by strong AI server demand
+Tesla,2025-5(w3),"21:51:09  [MARBEA] (TSLA.O) - Maytus Capital Management LLC Takes $2.42 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"21:47:59  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $334.07) Wednesday May 14, 2025 07:05 EDT -"
+Tesla,2025-5(w3),21:47:52  [GLOBUL] (TSLA.O .NDX) - Top Performers Past Week: Tesla (TSLA: $334.07) in top 2% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(w3),21:42:17  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Mediolanum International Funds decreases its shareholding by 26.6% -
+Tesla,2025-5(w3),21:42:15  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Cetera Investment Advisers increases its shares by 10.8% -
+Tesla,2025-5(w3),21:38:49  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Cetera Investment Advisers increases its shares by 10.8% -
+Tesla,2025-5(w3),21:38:46  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Mediolanum International Funds decreases its shareholding by 26.6% -
+Tesla,2025-5(w3),21:36:13  [MINDUS] (TSLA.O) - Sweden: Cost of insuring most popular Tesla model increases sharply -
+Tesla,2025-5(w3),21:32:03  [DAIONL] (TSLA.O) - Elon Musk humiliated after proudly showing off new dancing robot before his own AI admits real-world use is 'limited' -
+Tesla,2025-5(w3),"21:30:08  [MARBEA] (TSLA.O) - Measured Risk Portfolios Inc. Takes $865,000 Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"21:20:13  [INDTOE] (TSLA.O) - Tesla AI software boss Ashok Elluswamy reveals how it is working with Elon Musk, says he is very funny -"
+Tesla,2025-5(w3),"21:17:07  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Holdings Raised by Morse Asset Management Inc -"
+Tesla,2025-5(w3),21:12:52  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),21:12:36  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),21:12:17  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),21:07:47  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Allianz Asset Management increases its holding in Tesla -
+Tesla,2025-5(w3),21:07:45  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),21:07:30  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),21:07:19  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Allianz Asset Management increases its holding in Tesla -
+Tesla,2025-5(w3),21:07:15  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),21:02:13  [CITYNE] (TSLA.O 005380.KS) - Edmunds electric SUV test: 2025 Hyundai Ioniq 5 vs 2026 Tesla Model Y -
+Tesla,2025-5(w3),"20:47:20  [NEWUSN] (USD= TSLA.O) - Tesla leads Auto sector 6.1% higher Monday, May 12, 2025 10:00:00 -"
+Tesla,2025-5(w3),"20:42:51  [RTRS] (TSLA.O) - Tesla board explores new pay deal for CEO Elon Musk, FT reports (UPDATE 3) -"
+Tesla,2025-5(w3),20:39:50  [RTRS] (TSLA.O 1810.HK) - Xiaomi's new EV orders slump in China as consumer backlash grows -
+Tesla,2025-5(w3),20:38:08  [GURCOM] (TSLA.O) - Tesla (TSLA) to Export Components from China for U.S. Production | TSLA Stock News -
+Tesla,2025-5(w3),20:36:26  [RTRS] (TSLA.O) - TESLA SHARES UP 1.7% PREMARKET FOLLOWING 21.3% CLIMB IN PAST FIVE SESSIONS -
+Tesla,2025-5(w3),"20:35:40  [ECOCOM] (TSLA.O) - In Tesla's wake, more big companies propose voting ""Dexit"" to depart Delaware -"
+Tesla,2025-5(w3),20:34:11  [INDTOE] (TSLA.O) - Indian-origin Tesla techie says Elon Musk works 80-90 hours a week -
+Tesla,2025-5(w3),"20:30:13  [GLOREV] (TSLA.O) - Tesla board explores new pay deal for CEO Elon Musk, FT reports -"
+Tesla,2025-5(w3),"20:22:11  [YAHUKI] (TSLA.O) - In Tesla's wake, more big companies propose voting ""Dexit"" to depart Delaware -"
+Tesla,2025-5(w3),"20:21:10  [YAHNEX] (TSLA.O) - In Tesla's wake, more big companies propose voting ""Dexit"" to depart Delaware -"
+Tesla,2025-5(w3),"20:11:52  [BENZIN] (TSLA.O) - Tesla Gears Up To Restart Key Component Shipping From China For Cybercab, Semi Truck Production In US: Report -"
+Tesla,2025-5(w3),"19:51:07  [STACHI] (TSLA.O) - Tesla to resume shipping Chinese parts for Cybercab, Semi production in the US, source says -"
+Tesla,2025-5(w3),"19:40:10  [AUTCOO] (TSLA.O) - Tesla board explores new pay deal for Elon Musk, report says -"
+Tesla,2025-5(w3),19:31:12  [YAHNEX] (TSLA.O 6752.T) - Tesla supplier Panasonic pressed to step up deliveries of US-made batteries -
+Tesla,2025-5(w3),"19:28:08  [DAIPOL] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) CFO Sells 4,000 Shares of Stock -"
+Tesla,2025-5(w3),19:22:46  [GURCOM] (TSLA.O) - Tesla (TSLA) Stock Rises Amid Renewed China-U.S. Trade Developments -
+Tesla,2025-5(w3),"19:17:38  [DAILYQ] (TSLA.O) - Insider Selling: Tesla, Inc. (NASDAQ:TSLA) CFO Sells 4,000 Shares of Stock -"
+Tesla,2025-5(w3),19:02:02  [FT] (TSLA.O 6752.T) - Tesla supplier Panasonic pressed to step up deliveries of US-made batteries -
+Tesla,2025-5(w3),"18:59:07  [DECHER] (TSLA.O) - Tesla to resume shipping Chinese parts for Cybercab, Semi production in the US, source says -"
+Tesla,2025-5(w3),It's also hard to imagine a business NOT wanting its own humanoid robot doing useful things and there are over 360M business on Earth today.
+Tesla,2025-5(w3),18:48:19  [HINDUT] (TSLA.O) - Indian-origin Tesla VP reveals what it is like to work with Elon Musk: 'He works 80-90 hours per week' -
+Tesla,2025-5(w3),"18:48:07  [INDPAK] (TSLA.O) - Tesla to resume Chinese parts shipments for Cybercab, Semi truck -"
+Tesla,2025-5(w3),"18:31:54  [TELINE] (TSLA.O) - Elon Musk posts dance video of Tesla's robot Optimus, Internet erupts -"
+Tesla,2025-5(w3),18:28:12  [INTTIM] (TSLA.O) - Tesla Special Committee To Review Elon Musk's Compensation Package Amid $56B Pay Deal Appeal -
+Tesla,2025-5(w3),18:21:13  [INSMON] (TSLA.O) - Is Tesla (TSLA) the Best High Volume Stock to Buy Now? -
+Tesla,2025-5(w3),18:12:16  [NOTENG] (TSLA.O) - Tesla's CEO went against Musk and sold 177 million euros in shares in six months -
+Tesla,2025-5(w3),17:52:12  [GURCOM] (TSLA.O) - Tesla (TSLA) Resumes Parts Shipment from China Amid Tariff Reduction -
+Tesla,2025-5(w3),"17:51:07  [YAHNEX] (TSLA.O) - Analyst Highlights Tesla (TSLA) 'Quadruple Whammy', Says Company Yet to Hit Rock Bottom -"
+Tesla,2025-5(w3),17:47:14  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Cetera Investment Advisers increases its shares by 10.8% -
+Tesla,2025-5(w3),17:47:11  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Mediolanum International Funds decreases its shareholding by 26.6% -
+Tesla,2025-5(w3),"17:47:09  [YAHNEX] (AMZN.O TSLA.O) - These Stocks Moved the Most Today: Amazon, Nvidia, Tesla, Alibaba, Eli Lilly, Pfizer, NRG Energy, Newmont, and More -"
+Tesla,2025-5(w3),17:46:50  [RTRS] (TSLA.O 7203.T) - China's BYD rises as carmaker tops Singapore vehicle sales in first 4 months (BUZZ) -
+Tesla,2025-5(w3),17:24:32  [AAFN] (TSLA.O) - Tesla Plans to Resume Shipping CN Parts to US: Rumor -
+Tesla,2025-5(w3),"17:18:38  [CNEVPO] (TSLA.O) - Tesla to resume shipping parts from China to US for Cybercab, Semi production -"
+Tesla,2025-5(w3),17:02:02  [GURCOM] (TSLA.O) - Tesla (TSLA) Board Considers Revising Musk's Compensation Package -
+Tesla,2025-5(w3),17:01:10  [BUSSTA] (TSLA.O) - Tesla eyes new pay deal for Musk as legal row over $56 bn package drags on -
+Tesla,2025-5(w3),"And multiple Optimus robots walk around the office 24/7 with no one watching over them, charging themselves as needed. -"
+Tesla,2025-5(w3),16:36:59  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Cetera Investment Advisers increases its shares by 10.8% -
+Tesla,2025-5(w3),16:22:25  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Mediolanum International Funds decreases its shareholding by 26.6% -
+Tesla,2025-5(w3),"16:15:52  [RTRS] (TSLA.O 7203.T) - BYD tops Singapore vehicle sales so far this year, replacing Toyota -"
+Tesla,2025-5(w3),16:12:49  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),16:12:35  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),16:12:26  [NOTENG] (TSLA.O) - Young woman was injured when she lost control and flipped her Tesla Cybertruck in Toluca. -
+Tesla,2025-5(w3),16:12:25  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),16:12:05  [NOTENG] (TSLA.O) - Tesla board chairwoman sold $198 million in stock in 6 months -
+Tesla,2025-5(w3),16:07:48  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Allianz Asset Management increases its holding in Tesla -
+Tesla,2025-5(w3),16:07:47  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),16:07:39  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),16:07:20  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Allianz Asset Management increases its holding in Tesla -
+Tesla,2025-5(w3),16:07:17  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: H. D. Vest Advisory Services increases its holding in Tesla -
+Tesla,2025-5(w3),"15:43:36  [ECOCOM] (TSLA.O) - Tesla to resume shipping Chinese parts for Cybercab, Semi production in the US, source says -"
+Tesla,2025-5(w3),15:37:27  [GURCOM] (TSLA.O) - Tesla (TSLA) Set to Launch Innovative Robotaxi Service in Austin -
+Tesla,2025-5(w3),15:32:06  [GURCOM] (TSLA.O) - Tesla (TSLA) Board Forms Committee to Review Elon Musk's Compensation -
+Tesla,2025-5(w3),"It's all real-time speed, zero CGI, fully learned in Simulation & zero-shot transferred to real."
+Tesla,2025-5(w3),"15:03:45  [RTRS] (TSLA.O) - Tesla to resume shipping Chinese parts for Cybercab, Semi production in the US, source says (EXCLUSIVE) -"
+Tesla,2025-5(w3),15:02:59  [RTRS] (TSLA.O) - TESLA PLANS TO START SHIPPING CHINESE COMPONENTS FOR CYBERCAB AND SEMI TRUCK PRODUCTION IN THE US LATER THIS MONTH - SOURCE (EXCLUSIVE) -
+Tesla,2025-5(w3),14:57:08  [GURCOM] (TSLA.O) - Tesla (TSLA) Optimus Robot Shows Impressive New Capabilities -
+Tesla,2025-5(w3),23:54:05  [NEWUSN] (NVDA.O TSLA.O) - Tesla continues to outperform NVIDIA by 0.2% in the past three months -
+Tesla,2025-5(w3),23:53:53  [NEWUSN] (TSLA.O RIVN.O) - Tesla continues to underperform Rivian Automotive by 7.9% in the past three months -
+Tesla,2025-5(w3),23:53:34  [NEWUSN] (TSLA.O) - How Tesla's Tax Rate compares to Its Peers -
+Tesla,2025-5(w3),23:52:55  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla Continues to Underperform its Peers -
+Tesla,2025-5(w3),"23:47:40  [DECHER] (TSLA.O) - Musk took leased cars back so Tesla could use them as ""robotaxis."" Instead, Tesla sold them -"
+Tesla,2025-5(w3),The algorithm should have a better understanding of what you are interested in
+Tesla,2025-5(w3),Unified ListDetails and UserProfile screens with edge-to-edge support and toolbar blurring
+Tesla,2025-5(w3),23:28:13  [CRYPTV] (TSLA.O MSTR.O) - Popular restaurant chain imitates MicroStrategy and Tesla in its operations 13min ago by thestreet.com -
+Tesla,2025-5(w3),"23:22:08  [TICREP] (TSLA.O POLR.L) - Polar Capital Holdings Plc Cuts Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),23:02:14  [GLOSTO] (TSLA.O) - ICYMI: Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-5(w3),"22:53:56  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $347.68) - PRE-MARKET CONFIRMATORY BULLISH SIGNAL FROM ITS GERMAN LISTING Thursday May 15, 2025 07:05 EDT -"
+Tesla,2025-5(w3),"22:53:46  [GLOBUL] (.GDAXI TSLA.O) - Tesla (TSLA: $347.68) in top 4% performers of NASDAQ-100 Index, hits 82-day high Thursday May 15, 2025 07:05 EDT -"
+Tesla,2025-5(w3),22:53:13  [NEWUSN] (TSLA.O) - How Tesla's Tax Rate compares to Its Peers -
+Tesla,2025-5(w3),22:53:06  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Intel by 6.5% in the past three months -
+Tesla,2025-5(w3),22:53:04  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla Continues to Underperform its Peers -
+Tesla,2025-5(w3),22:53:04  [NEWUSN] (TSLA.O TSLA.OQ) - Tesla continues to outperform Alphabet Class A by 8.3% in the past three months -
+Tesla,2025-5(w3),22:52:15  [GLOSTO] (TSLA.O) - Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-5(w3),"What: Annual Report (if you only read one filing, make it this one)"
+Tesla,2025-5(w3),"22:47:52  [WATNEW] (TSLA.O POLR.L) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Lowered by Polar Capital Holdings Plc -"
+Tesla,2025-5(w3),"22:47:22  [MARBEA] (TSLA.O) - Quantinno Capital Management LP Increases Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),22:41:13  [DAIJAG] (TSLA.O) - Donald Trump Qatar Visit: US President And Elon Musk Escorted By Red-Painted Tesla Cybertruck Convoy -
+Tesla,2025-5(w3),"22:38:22  [MARBEA] (TSLA.O) - Paradigm Capital Management LLC NV Acquires New Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),22:33:15  [INVCOA] (TSLA.O) - Tesla upgraded leased vehicles with software then sold them to new customers - Reuters -
+Tesla,2025-5(w3),"22:25:11  [MARBEA] (TSLA.O) - NWI Management LP Buys 9,700 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"22:17:48  [TRADAJ] (TSLA.O) - Northeast Financial Consultants Inc Acquires Shares of 681 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),22:17:19  [GLOSTO] (TSLA.O) - ICYMI: Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-5(w3),"""We've not called for the killing of white people, at least for now."
+Tesla,2025-5(w3),22:02:02  [INVCOM] (TSLA.O) - Tesla upgraded leased vehicles with software then sold them to new customers - Reuters -
+Tesla,2025-5(w3),"21:53:22  [GLOBUL] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BULLISH STOCK SNIPPETS TESLA (TSLA: $347.68) Thursday May 15, 2025 07:05 EDT -"
+Tesla,2025-5(w3),"21:52:11  [YAHIRE] (TSLA.O) - Exclusive-Musk took leased cars back so Tesla could use them as ""robotaxis."" Instead, Tesla sold them -"
+Tesla,2025-5(w3),21:47:14  [GLOBUL] (TSLA.O .NDX) - Top Performers Past Week: Tesla (TSLA: $347.68) in top 2% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(w3),"21:43:14  [YAHSIN] (TSLA.O) - Exclusive-Musk took leased cars back so Tesla could use them as ""robotaxis."" Instead, Tesla sold them -"
+Tesla,2025-5(w3),"21:38:01  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Lighthouse Investment Partners LLC -"
+Tesla,2025-5(w3),21:33:11  [GLOSTO] (TSLA.O) - Update: Thursday's Preview: Can Tesla continue its recent gains? -
+Tesla,2025-5(w3),"21:32:34  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Lighthouse Investment Partners LLC -"
+Tesla,2025-5(w3),"21:31:14  [MARBEA] (TSLA.O) - NorthRock Partners LLC Has $24.09 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"21:23:16  [MARBEA] (TSLA.O) - Nan Shan Life Insurance Co. Ltd. Has $2.95 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"21:21:09  [MARBEA] (TSLA.O) - Numerai GP LLC Purchases New Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"21:11:18  [YAHUKI] (TSLA.O) - Exclusive-Musk took leased cars back so Tesla could use them as ""robotaxis."" Instead, Tesla sold them -"
+Tesla,2025-5(w3),21:09:36  [ZAWYA] (TSLA.O MSTR.O) - PRESSR: Al Abraaj Restaurants Group announces it has become the first Bitcoin treasury company in the Middle East -
+Tesla,2025-5(w3),"21:00:01  [RTRS] (TSLA.O) - Musk took leased cars back so Tesla could use them as ""robotaxis."" Instead, Tesla sold them (EXCLUSIVE) -"
+Tesla,2025-5(w3),"20:50:10  [FINSWI] (TSLA.O) - Cathie Wood Thinks Tesla's Stock Is Going to $2,600, While Bitcoin Will Hit at Least $700,000 by 2030. Which Might Actually Happen? -"
+Tesla,2025-5(w3),"20:43:21  [YAHNEX] (TSLA.O) - Cathie Wood Thinks Tesla's Stock Is Going to $2,600, While Bitcoin Will Hit at Least $700,000 by 2030. Which Might Actually Happen? -"
+Tesla,2025-5(w3),"20:12:25  [MOTFOO] (TSLA.O) - Cathie Wood Thinks Tesla's Stock Is Going to $2,600, While Bitcoin Will Hit at Least $700,000 by 2030. Which Might Actually Happen? -"
+Tesla,2025-5(w3),20:07:20  [AUTCOO] (TSLA.O) - Tesla fires employee who says Elon Musk's leadership has hurt sales -
+Tesla,2025-5(w3),19:35:15  [INTTHI] (TSLA.O) - Tesla Austin Self-Driving Taxi Plan Faces NHTSA Probe -
+Tesla,2025-5(w3),19:30:57  [AUTPAT] (TSLA.O) - Tesla Granted Patent for Vehicle Hood Hinge Assembly -
+Tesla,2025-5(w3),19:17:07  [PEOSDB] (TSLA.O) - Tesla's Shanghai Gigafactory reports strong exports in April -
+Tesla,2025-5(w3),"19:07:23  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) CFO Sells $1,200,000.00 in Stock -"
+Tesla,2025-5(w3),19:02:24  [GURCOM] (TSLA.O) - TSLA Faces Increased Scrutiny on Robotaxi Plans Before Market Dip -
+Tesla,2025-5(w3),"18:48:10  [YAHNEX] (TSLA.O UNH.N) - These Stocks Moved the Most Today: UnitedHealth, Nvidia, Tesla, First Solar, Coinbase, Palantir, Super Micro, Boeing, Rigetti, and More -"
+Tesla,2025-5(w3),$SPY 205% (Flow request. Not my type of trade)   $HOOD 214% Follow the Money idea (FTM)
+Tesla,2025-5(w3),18:34:48  [YAHNEX] (TSLA.O) - Tesla Stock Soars as Elon Musk Goes to Saudi Arabia -
+Tesla,2025-5(w3),18:30:25  [YAHNEX] (TSLA.O) - Tesla's board chair has now sold stock worth more than half-a-billion -
+Tesla,2025-5(w3),18:14:20  [WNCOMA] (TSLA.O) - Tesla chair sold stock worth $230M while profits at Elon Musk's carmaker plunged -
+Tesla,2025-5(w3),18:02:23  [GURCOM] (TSLA.O) - Tesla (TSLA) Chairwoman Robyn Denholm Sells $198 Million in Shares -
+Tesla,2025-5(w3),18:02:14  [ECNCNC] (TSLA.O) - April exports soar to new high at Tesla's Shanghai Gigafactory -
+Tesla,2025-5(w3),17:48:51  [LIVEMI] (TSLA.O) - In Pics: US President Donald Trump receives an extravagant welcome during his Qatar visit -
+Tesla,2025-5(w3),"I mean the WSJ with its "" $TSLA board looking for a new CEO"" story showed, that you should not believe everything you read."
+Tesla,2025-5(w3),"Not the first time health insurers have trouble with the DOJ, thinking about a  a few weeks back -"
+Tesla,2025-5(w3),"I mean the WSJ with their "" $TSLA board looking for a new CEO"" story showed, that you should not believe everything you read."
+Tesla,2025-5(w3),"Not the first time health insurers have trouble with the DOJ, thinking about a  a few weeks -"
+Tesla,2025-5(w3),16:50:15  [ABCNEY] (TSLA.O) - Tesla chair sold stock worth $230M while profits at Elon Musk's carmaker plunged -
+Tesla,2025-5(w3),"16:30:16  [CRYPTV] (AMZN.O TSLA.O) - Cathie Wood Says Palantir, Tesla, Coinbase And This Amazon Rival Are 'Tip Of The Spear' As Innovation Disrupts Old World In Equity Benchmarks -"
+Tesla,2025-5(w3),"My house got robbed a couple weeks ago a few blocks from here. They took EVERYTHING. All family heirlooms, jewelry and the entire safe."
+Tesla,2025-5(w3),15:28:58  [STOCKP] (TSLA.O) - Tesla is trading 4.07 percent higher with a volume of USD 47.6 bn on Thursday 15th of May -
+Tesla,2025-5(w3),14:51:29  [WNCOMA] (TSLA.O) - 'I Was Fired From My Dream Job': Tesla Employee Claims He Lost His Job After ... -
+Tesla,2025-5(w3),"14:33:29  [WNCOMA] (TSLA.O) - Musk's AI Data Centers, Allegedly Needed To Power Tesla's Alleged Robotaxis, Are A Polluting Mess -"
+Tesla,2025-5(w3),13:37:00  [GURCOM] (TSLA.O) - Tesla (TSLA) Chair Sells $230 Million in Stock Amid Political Controversy -
+Tesla,2025-5(w3),13:13:07  [ASSOPR] (TSLA.O BA.N) - AP Top Extended Financial Headlines at 11:08 p.m. EDT -
+Tesla,2025-5(w3),13:03:09  [CHIECP] (TSLA.O) - Tesla's Shanghai Gigafactory reports strong exports in April -
+Tesla,2025-5(w3),12:51:30  [GURCOM] (TSLA.O) - Tesla Board Reviews Musk's Compensation Plan Amid Ongoing Legal Dispute (TSLA) -
+Tesla,2025-5(w3),12:37:19  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Mediolanum International Funds decreases its shareholding by 26.6% -
+Tesla,2025-5(w3),12:37:17  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Cetera Investment Advisers increases its shares by 10.8% -
+Tesla,2025-5(w3),12:32:07  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Cetera Investment Advisers increases its shares by 10.8% -
+Tesla,2025-5(w3),12:32:03  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: Mediolanum International Funds decreases its shareholding by 26.6% -
+Tesla,2025-5(w3),12:05:15  [CRYPTV] (TSLA.O COIN.O) - ARK's CEO praises Coinbase and Tesla for leading blockchain and equity market transformation -
+Tesla,2025-5(w3),12:01:55  [CRYPTT] (TSLA.O COIN.O) - ARK's CEO praises Coinbase and Tesla for leading blockchain and equity market transformation -
+Tesla,2025-5(w3),12:01:41  [CHIUSE] (TSLA.O) - Tesla's Shanghai Gigafactory reports strong exports in April -
+Tesla,2025-5(w3),"11:49:11  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) CFO Sells $1,200,000.00 in Stock -"
+Tesla,2025-5(w3),11:45:36  [HINDUT] (TSLA.O SHOP.TO) - Elon Musk's robot impresses Shopify CEO by dancing 'better than most humans' -
+Tesla,2025-5(w3),11:35:34  [AAFN] (TSLA.O SMCI.O) - USNasdaq Ends Up 136 Pts; Nvidia Leads with 4%+ Leap; AMD Surges 16% -
+Tesla,2025-5(w3),11:12:06  [GLOSTO] (TSLA.O) - Past Week: Tesla (TSLA: $347.68) in top 2% performers of NASDAQ-100 Index in past week; +$71.46 [25.9%] -
+Tesla,2025-5(w3),11:06:12  [WNCOMA] (TSLA.O) - The chair of Tesla sold stock worth $230 million while profits at Elon Musk's carmaker plunged -
+Tesla,2025-5(w3),10:41:10  [WNCOMA] (TSLA.O) - Tesla coils hold the keys to understanding everything -
+Tesla,2025-5(w3),"10:00:10  [LEGINT] (TSLA.O) - New Texas Law 'Eliminates Rogue Shareholders,' Abbott Says -"
+Tesla,2025-5(w3),"09:50:10  [LAWCOR] (TSLA.O) - New Texas Law 'Eliminates Rogue Shareholders,' Abbott Says -"
+Tesla,2025-5(w3),"09:50:08  [MARDAJ] (TSLA.O) - Obermeyer Wealth Partners Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"09:48:47  [MARDAJ] (TSLA.O) - NWI Management LP Buys 9,700 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"09:48:44  [STOOBS] (TSLA.O) - Numerai GP LLC Purchases Shares of 7,118 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"09:48:35  [STOOBS] (TSLA.O) - Quantinno Capital Management LP Increases Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"09:48:01  [MARDAJ] (TSLA.O) - Nuveen Asset Management LLC Has $5.29 Billion Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"09:47:59  [STOOBS] (TSLA.O) - Pathstone Holdings LLC Increases Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),"09:47:38  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Holdings Lifted by Quantinno Capital Management LP -"
+Tesla,2025-5(w3),"09:36:40  [BLAZEA] (TSLA.O) - 2025 Shanghai Auto Show: Tesla stays home, Xiaomi zooms ahead -"
+Tesla,2025-5(w3),"23:56:18  [ECOCOM] (TSLA.O) - Despite tanking sales, Tesla mulls mega payday for Elon Musk, sparking outrage and confusion among investors and analysts -"
+Tesla,2025-5(w3),23:55:16  [GLOMAI] (TSLA.O) - Tesla to add Chipotle executive Jack Hartung to board of directors and audit committee -
+Tesla,2025-5(w3),23:47:21  [ZACKSC] (TSLA.O NIO.N) - Is it Time to Snap Up NIO Stock While it's Still Trading Cheap? -
+Tesla,2025-5(w3),23:45:14  [STRMLS] (TSLA.O) - Tesla to add Chipotle executive Jack Hartung to board -
+Tesla,2025-5(w3),23:42:25  [MOTFOO] (TSLA.O RIVN.O) - Could Rivian Stock Help You Become a Millionaire? -
+Tesla,2025-5(w3),23:41:10  [YAHSIN] (TSLA.O) - Tesla to add Chipotle executive Jack Hartung to board -
+Tesla,2025-5(w3),23:38:09  [GURCOM] (TSLA.O) - Analyst Raises Price Target for Tesla (TSLA) Amid Changing Tariff Landscape | TSLA Stock News -
+Tesla,2025-5(w3),23:37:26  [NEWWIR] (TSLA.O FHI.N) - Tesla First Quarter 13F Filing: Federated Investors continued to increase its shareholding -
+Tesla,2025-5(w3),23:34:12  [YAHNEX] (TSLA.O) - Tesla to add Chipotle executive Jack Hartung to board -
+Tesla,2025-5(w3),23:21:15  [CHAASI] (TSLA.O) - Tesla to add Chipotle executive Jack Hartung to board -
+Tesla,2025-5(w3),23:10:17  [YAHUKI] (TSLA.O) - Tesla to add Chipotle executive Jack Hartung to board -
+Tesla,2025-5(w3),23:06:00  [RTRS] (TSLA.O CMG.N) - Tesla to add Chipotle executive Jack Hartung to board (REFILE) -
+Tesla,2025-5(w3),23:03:07  [GLOSTO] (TSLA.O) - ICYMI: Friday's Preview: Can Tesla rebound after being down? -
+Tesla,2025-5(w3),23:02:11  [YAHUKI] (TSLA.O) - Tesla stock higher as Chipotle president Jack Hartung added to the board -
+Tesla,2025-5(w3),"22:52:33  [GLOBUL] (TSLA.O .NDX) - Tesla top gainer in Bristol John W & Co soars 31.8% in 44 days Friday May 16, 2025 07:05 EDT -"
+Tesla,2025-5(w3),22:52:16  [NEWUSN] (TSLA.O TSLA.OQ) - How Tesla Has Fared Since Its Recent Analyst Ratings Changes -
+Tesla,2025-5(w3),22:48:30  [YAHNEX] (TSLA.O) - Tesla stock higher as Chipotle president Jack Hartung added to the board -
+Tesla,2025-5(w3),22:47:48  [GLOSTO] (TSLA.O) - Friday's Preview: Can Tesla rebound after being down? -
+Tesla,2025-5(w3),22:47:22  [STOCKP] (TSLA.O) - Tesla trades -1.4 percent lower on Friday 16th of May -
+Tesla,2025-5(w3),22:45:13  [YAHNEX] (TSLA.O) - Tesla is adding Chipotle's president to its board -
+Tesla,2025-5(w3),"22:40:11  [MARBEA] (TSLA.O) - 174,408 Shares in Tesla, Inc. (NASDAQ:TSLA) Acquired by Ratan Capital Management LP -"
+Tesla,2025-5(w3),"22:27:18  [ECOCOM] (TSLA.O) - 'We're a car company, right?': Tesla's jibe as Elon Musk shares videos of Optmius robot dancing like humans -"
+Tesla,2025-5(w3),22:17:17  [GLOSTO] (TSLA.O) - ICYMI: Friday's Preview: Can Tesla rebound after being down? -
+Tesla,2025-5(w3),22:11:42  [NOTENG] (TSLA.O) - Tesla studies new compensation proposal for Elon Musk; court suspended payment valued at $56 billion dollars -
+Tesla,2025-5(w3),22:05:15  [AUTCOP] (TSLA.O STLAM.MI) - Stellantis Copies Tesla - Delays Ram 1500 REV Until 2027 -
+Tesla,2025-5(w3),"22:02:30  [GURCOM] (TSLA.O) - Jack Hartung Joins Tesla (TSLA) Board, Waives Compensation -"
+Tesla,2025-5(w3),"21:56:59  [NEWUSN] (TSLA.O .NDX) - NASDAQ Today's Bearish Signals: Falls in the heavyweights Thursday May 15, 2025 16:00 EDT [in desc order of decrease in MCap] -"
+Tesla,2025-5(w3),"21:50:20  [RTRS] (TSLA.O NVDA.O) - Nvidia seeks Shanghai R&D site after US chip curbs, say sources -"
+Tesla,2025-5(w3),"21:48:45  [GLOSNI] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET STOCK SNIPPETS TESLA (TSLA: $342.82) Friday May 16, 2025 07:05 EDT -"
+Tesla,2025-5(w3),21:48:35  [GLOBUL] (TSLA.O .NDX) - Top Performers Past Week: Tesla (TSLA: $342.82) in top 2% performers of NASDAQ-100 Index in past week -
+Tesla,2025-5(w3),"21:38:26  [SIGDEV] (TSLA.O) - Tesla Inc - Appoints Jack Hartung To Board Effective June 1, 2025 - SEC Filing -"
+Tesla,2025-5(w3),21:37:40  [NEWWIR] (TSLA.O FHI.N) - Tesla First Quarter 13F Filing: Federated Investors continued to increase its shareholding -
+Tesla,2025-5(w3),21:36:58  [MENREP] (TSLA.O) - Delivery And Installation Of A Complete Magnetic Resonance Update Signatm Hde 1.5 Tesla And Specialized Medical Images Processing Systems -
+Tesla,2025-5(w3),"21:28:39  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Holdings Decreased by Prime Capital Management Co Ltd -"
+Tesla,2025-5(w3),21:28:21  [GLOSTO] (TSLA.O) - Update: Friday's Preview: Can Tesla rebound after being down? -
+Tesla,2025-5(w3),"21:25:23  [RTRS] (TSLA.O) - Tesla Inc - Appoints Jack Hartung To Board Effective June 1, 2025 - SEC Filing (BRIEF) -"
+Tesla,2025-5(w3),"21:17:11  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by ProShare Advisors LLC -"
+Tesla,2025-5(w3),- Hartung currently serves as President and Chief Strategy Officer of Chipotle $CMG
+Tesla,2025-5(w3),"21:09:38  [MARBEA] (TSLA.O) - Quadcap Wealth Management LLC Has $6.42 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-5(w3),21:02:29  [RTRS] (TSLA.O) - TESLA: SON-IN-LAW OF HARTUNG WHO IS A SALARIED EMPLOYEE OF CO DOES NOT SHARE HOUSEHOLD WITH HARTUNG -
+Tesla,2025-5(w3),"21:01:59  [RTRS] (TSLA.O) - TESLA INC: SON-IN-LAW OF HARTUNG HAS BEEN NON-EXECUTIVE, SALARIED EMPLOYEE OF CO TESLA SINCE DEC. 2016 -"
+Tesla,2025-5(w3),"21:01:08  [RTRS] (TSLA.O) - TESLA INC - APPOINTS JACK HARTUNG TO BOARD EFFECTIVE JUNE 1, 2025 - SEC FILING -"
+Tesla,2025-5(w3),20:36:55  [FORCOO] (TSLA.O GOOGL.O) - Elon Musk's Tesla Robotaxi Rollout Looks Like A Disaster Waiting To Happen -
+Tesla,2025-5(w3),20:32:25  [FORBES] (TSLA.O) - Elon Musk's Tesla Robotaxi Rollout Looks Like A Disaster Waiting To Happen -
+Tesla,2025-5(w3),20:28:30  [ZAWYA] (TSLA.O MSTR.O) - PRESSR: Al Abraaj Restaurants Group announces it has become the first Bitcoin Treasury Company in the Middle East -
+Tesla,2025-5(w3),"Futures climb as S&P turns positive YTD; Tesla, UnitedHealth rebound premarket."
+Tesla,2025-5(w3),20:13:16  [CNETAA] (TSLA.O) - Thinking About a Tesla Powerwall? Here's What It'll Actually Cost You -
+Tesla,2025-5(w3),"20:12:41  [NOTENG] (TSLA.O) - Tesla recovers 20% since Musk warned he was leaving government, but ""damage"" to company will remain -"
+Tesla,2025-5(w3),19:36:42  [NEWWIR] (TSLA.O FHI.N) - Tesla First Quarter 13F Filing: Federated Investors continued to increase its shareholding -
+Tesla,2025-5(w3),"19:23:23  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Lighthouse Investment Partners LLC -"
+Tesla,2025-5(w3),"19:05:17  [CBTNEW] (TSLA.O) - Weekly roundup: U.S. cuts tariffs in China, UK trade deals, Tesla faces new FSD probe -"
+Tesla,2025-5(w3),18:42:22  [DIGITI] (TSLA.O) - Tesla's centralized 'vehicle brain' strategy loses traction as rivals embrace domain-zonal architectures -
+Tesla,2025-5(w3),"16:47:28  [NEWPEO] (TSLA.O) - Robyn M. Denholm's two bagger Tesla in top 6% of price performers of NASDAQ stocks Friday May 16, 2025 -"
+Tesla,2025-5(w3),"For the vast majority of lines (especially overhead), that's not the case."
+Tesla,2025-5(w3),Most power lines are made from a steel core wrapped with aluminum conductors.
+Tesla,2025-5(w3),"15:57:07  [CAPBRO] (TSLA.O) - Infamous ""Tesla road rage guy"" accused of trying to hit woman at Hawaii gym -"
+Tesla,2025-5(w3),14:38:17  [BAHGAZ] (TSLA.O) - Elon Musk: Robotics and AI drive Saudi-US strategic partnership -
+Tesla,2025-5(w3),"14:37:47  [AZENEW] (TSLA.O) - Tesla to resume Chinese parts shipments for Cybercab, Semi truck -"
+Tesla,2025-5(w3),"13:47:03  [NEWUSN] (TSLA.O .NDX) - NASDAQ Today's Bearish Signals: Falls in the heavyweights Thursday May 15, 2025 16:00 EDT [in desc order of decrease in MCap] -"
+Tesla,2025-5(w3),13:41:35  [WESAUT] (9868.HK XPEV.N) - 2025 Xpeng P7 EV: Striking Tesla rival breaks cover -
+Tesla,2025-5(w3),13:41:15  [YAHUKI] (TSLA.O) - Tesla's Robotaxi Plans Under Federal Scrutiny Ahead Of Austin Launch As Elon Musk Vows Nationwide Rollout By Year-End -
+Tesla,2025-5(w3),"13:38:10  [AMESPE] (TSLA.O) - Who's Afraid of Christian Nationalism? Forget Tesla torching thugs. The real 'threat to democracy' is families, churches, and voters who refuse to ... -"
+Tesla,2025-5(w3),12:37:13  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: ARK Investment Management continued to decrease its shareholding -
+Tesla,2025-5(w3),12:29:16  [YAHNEX] (TSLA.O) - Tesla might give Elon Musk a new pay package -
+Tesla,2025-5(w3),12:00:09  [BUSUSA] (TSLA.O 6752.T) - Tesla wants Panasonic to accelerate EV-battery production in De Soto -
+Tesla,2025-5(w3),11:47:00  [AAFN] (UNH.N TSLA.O) - USDJIA Picks Up 271 Pts; S&P 500 Up for 4th Day; Techs Lag Behind -
+Tesla,2025-5(w3),11:31:11  [WATODA] (TSLA.O) - Operation Elon: The Aussie who made $820m selling her Tesla shares -
+Tesla,2025-5(w3),11:24:13  [SYDHER] (TSLA.O) - Operation Elon: The Aussie who made $820m selling her Tesla shares -
+Tesla,2025-5(w3),11:24:07  [BRITIN] (TSLA.O) - Operation Elon: The Aussie who made $820m selling her Tesla shares -
+Tesla,2025-5(w3),11:23:07  [AGEAAA] (TSLA.O) - Operation Elon: The Aussie who made $820m selling her Tesla shares -
+Tesla,2025-5(w3),11:02:06  [GLOSTO] (TSLA.O) - Past Week: Tesla (TSLA: $342.82) in top 2% performers of NASDAQ-100 Index in past week; +$58 [20.4%] -
+Tesla,2025-5(w3),"10:33:25  [CERGEM] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) is Prime Capital Management Co Ltd's Largest Position -"
+Tesla,2025-5(w3),10:13:08  [YAHNEX] (TSLA.O) - Tesla rival Daimler Truck wants to know if Elon Musk's Semi EV can actually live up to the hype: 'We'd love to get our hands on one' -
+Tesla,2025-5(w3),"09:14:47  [RTTNEW] (TSLA.O) - Tesla Under Fire For Selling ""Robotaxi"" Lease Returns To Private Buyers -"
+Tesla,2025-5(w3),08:42:19  [GLOWEE] (TSLA.O) - Tesla continues to show strength in solvency ratios -
+Tesla,2025-5(w3),"08:38:21  [GLOSTO] (TSLA.O) - Tesla (TSLA: $342.82) loses $16 billion (1.4%) in MCap, steepest heavyweight fall in Auto sector; -$4.86 [-1.4%] -"
+Tesla,2025-5(w3),08:37:31  [NEWWIR] (TSLA.O) - Tesla First Quarter 13F Filing: ARK Investment Management continued to decrease its shareholding -
+Tesla,2025-5(w3),"08:31:11  [INSMON] (TSLA.O) - Tesla, Inc. (TSLA) Poised To Dominate Physical AI As Trade Tensions Ease With China -"
+Tesla,2025-5(w3),"07:19:45  [SIGDEV] (WDAY.O TSLA.O) - Third Point LLC Dissolves Share Stake In Tesla, Workday & Reports Share Stake In Nvidia -"
+Tesla,2025-5(w3),"07:19:45  [SIGDEV] (WDAY.O TSLA.O) - Third Point LLC Dissolves Share Stake In Tesla, Workday & Reports Share Stake In Nvidia -"
+Tesla,2025-5(w3),07:18:13  [YAHNEX] (TSLA.O) - Tesla fires employee who says Elon Musk's leadership has hurt sales -
+Tesla,2025-5(w3),07:15:18  [YAHUKI] (TSLA.O 9868.HK) - Xpeng Launches ChatGPT-Endorsed EV to Rival Tesla -
+Tesla,2025-5(w3),"07:09:10  [MSNUKA] (TSLA.O) - Exclusive-Musk took leased cars back so Tesla could use them as ""robotaxis."" Instead, Tesla sold them -"
+Tesla,2025-5(w3),07:07:29  [GURCOM] (TSLA.O) - TSLA Options Activity Shows Increased Demand for Downside Protection | TSLA Stock News -
+Tesla,2025-5(w3),07:07:17  [GURCOM] (TSLA.O .SPX) - Tesla (TSLA) Experiences Slight Dip After Recent Surge -
+Tesla,2025-5(w3),"07:05:57  [RTRS] (WDAY.O TSLA.O) - Third Point LLC Dissolves Share Stake In Tesla, Workday & Reports Share Stake In Nvidia (BRIEF) -"
+Tesla,2025-5(w3),06:52:15  [GLOSTO] (TSLA.O) - Tesla top gainer in Bristol John W & Co soars 31.8% in 44 days; -$6.92 [-2.0%] -
+Tesla,2025-5(w3),06:49:16  [YAHNEX] (TSLA.O) - Meet the Supercharged Auto Stock That's a Better Buy Than Tesla -
+Tesla,2025-5(w3),"06:48:16  [GLOSTO] (TSLA.O) - Tesla (TSLA: $342.82) loses $16 billion (1.4%) in MCap, steepest heavyweight fall in Auto sector; -$4.86 [-1.4%] -"
+Tesla,2025-5(w3),"06:42:51  [RTRS] (WDAY.O TSLA.O) - THIRD POINT LLC- CHANGE IN HOLDINGS ARE AS OF MARCH 31, 2025 AND COMPARED WITH THE PREVIOUS QUARTER ENDED AS OF DECEMBER, 31, 2024 -"
+Tesla,2025-5(w3),"06:41:10  [RTRS] (WDAY.O TSLA.O) - THIRD POINT LLC RAISES SHARE STAKE IN APOLLO GLOBAL MANAGEMENT TO 2 MLN SHARES FROM 400,000 SHARES -"
+Tesla,2025-5(w3),06:27:53  [RTRS] (WDAY.O TSLA.O) - THIRD POINT LLC DISSOLVES SHARE STAKE IN WORKDAY INC -
+Tesla,2025-5(w3),06:26:56  [RTRS] (TSLA.O NVDA.O) - THIRD POINT LLC REPORTS SHARE STAKE OF 8.9 MLN SHARES IN KENVUE INC -
+Tesla,2025-5(w3),06:23:09  [RTRS] (TSLA.O) - THIRD POINT LLC DISSOLVES SHARE STAKE IN TESLA INC -
+Tesla,2025-5(w3),06:21:58  [GLOSTO] (TSLA.O) - Tesla top gainer in Bristol John W & Co soars 31.8% in 44 days; -$6.92 [-2.0%] -
+Tesla,2025-5(w3),"06:17:10  [YAHUKI] (TSLA.O) - Tesla Robot Demo Stuns Audience, Mass Production Set for 2025 -"
+Tesla,2025-5(w3),06:12:24  [NOTENG] (TSLA.O) - Revolt at Tesla: CEO of the automaker sells shares for $198 million dollars; while Elon Musk asks not to get rid of those assets -
+Tesla,2025-5(w3),06:04:12  [WNCOMA] (TSLA.O) - Infamous California Tesla road rage driver assaulted by inmates in Hawaii jail -
+Tesla,2025-5(w3),06:02:27  [NEXBIG] (TSLA.O) - AI Chips Are All of the AI Profits. How Does Tesla Win AI Chips? -
+Tesla,2025-5(w3),"05:52:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $343.09) drops 1.3%, ranks 8 in today's top 19 falls; -$4.59 [-1.3%] -"
+Tesla,2025-5(w3),05:52:11  [GLOSTO] (TSLA.O) - Tesla top gainer in Bristol John W & Co soars 31.8% in 44 days; -$6.92 [-2.0%] -
+Tesla,2025-5(w3),05:37:10  [GURCOM] (TSLA.O 9868.HK) - Xpeng Launches ChatGPT-Endorsed EV to Rival Tesla -
+Tesla,2025-5(w3),05:34:12  [WNCOMA] (TSLA.O) - Tesla lease buyouts reinstated as robotaxi strategy shifts -
+Tesla,2025-5(w3),"05:27:03  [GLOSTO] (TSLA.O) - Tesla (TSLA: $342.27) falls 1.6%, ranks 7 in today's top 20 falls; -$5.41 [-1.6%] -"

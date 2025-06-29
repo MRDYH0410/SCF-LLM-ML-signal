@@ -1,0 +1,463 @@
+firm_id,date,text
+Tesla,2025-6(13-15),23:51:09  [INSURA] (TSLA.O) - The Week Ahead: Tesla's Robotaxi Reveal & Fed Rate Decision In Focus -
+Tesla,2025-6(13-15),"23:07:33  [WATNEW] (TSLA.O) - Retirement Solution LLC Grows Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"23:05:15  [MARBEA] (TSLA.O) - Mn Services Vermogensbeheer B.V. Has $272.07 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),23:03:07  [INVCOA] (TSLA.O STLAM.MI) - Rare earth supply risks: Is Tesla the real target by China? -
+Tesla,2025-6(13-15),"22:57:16  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Morton Capital Management LLC CA -"
+Tesla,2025-6(13-15),"22:37:22  [TRADAJ] (TSLA.O) - Pinion Investment Advisors LLC Has $7.37 Million Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),22:12:04  [INVCOM] (TSLA.O) - Rare earth supply risks: Is Tesla the real target by China? -
+Tesla,2025-6(13-15),"22:04:12  [MARBEA] (TSLA.O) - Brighton Jones LLC Has $22.04 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"22:02:23  [TRADAJ] (TSLA.O) - Sound Income Strategies LLC Has $4.60 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"21:52:12  [MARBEA] (TSLA.O) - BayBridge Capital Group LLC Purchases 1,149 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"21:50:12  [MARBEA] (TSLA.O) - Atlas Private Wealth Advisors Acquires 851 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"21:11:08  [YAHUKI] (TSLA.O .SPX) - After Trump-Musk feud, here's the next issue for Tesla stock -"
+Tesla,2025-6(13-15),"21:09:07  [YAHSIN] (TSLA.O .SPX) - After Trump-Musk feud, here's the next issue for Tesla stock -"
+Tesla,2025-6(13-15),"21:08:12  [YAHNEX] (TSLA.O .SPX) - After Trump-Musk feud, here's the next issue for Tesla stock -"
+Tesla,2025-6(13-15),"20:58:09  [DAIPOL] (TSLA.O) - Affinity Capital Advisors LLC Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"20:57:45  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) is Grant Private Wealth Management Inc's 6th Largest Position -"
+Tesla,2025-6(13-15),"20:57:33  [TICREP] (TSLA.O) - Affinity Capital Advisors LLC Buys 398 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"20:57:12  [DAILYQ] (TSLA.O) - Affinity Capital Advisors LLC Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"20:52:08  [MARBEA] (TSLA.O) - Dynamic Advisor Solutions LLC Purchases Shares of 87,447 Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"20:07:12  [YAHNEX] (TSLA.O) - Baird Lowers Tesla (TSLA) to Hold, Citing Valuation and Robotaxi Risk -"
+Tesla,2025-6(13-15),"19:52:13  [INSMON] (TSLA.O) - Baird Lowers Tesla (TSLA) to Hold, Citing Valuation and Robotaxi Risk -"
+Tesla,2025-6(13-15),19:49:26  [WNCOMA] (TSLA.O) - Trump vs Musk: How the 'online fight' between US President and Tesla CEO may become a 'problem' for SpaceX -
+Tesla,2025-6(13-15),"19:46:12  [FINSWI] (NVDA.O TSLA.O) - Warren Buffett Says Buy This Index Fund. It Could Turn $400 Per Month Into $851,800 With Help From Apple, Nvidia, and Tesla. -"
+Tesla,2025-6(13-15),19:45:07  [YAHNEX] (TSLA.O) - Rare earth supply risks: Is Tesla the real target by China? -
+Tesla,2025-6(13-15),"19:43:13  [YAHNEX] (TSLA.O .SPX) - Warren Buffett Says Buy This Index Fund. It Could Turn $400 Per Month Into $851,800 With Help From Apple, Nvidia, and Tesla. -"
+Tesla,2025-6(13-15),"19:31:13  [MARBEA] (TSLA.O) - Farmers & Merchants Investments Inc. Buys 11,047 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"19:28:39  [FINGEV] (NVDA.O TSLA.O) - Warren Buffett Says Buy This Index Fund. It Could Turn $400 Per Month Into $851,800 With Help From Apple, Nvidia, and Tesla. -"
+Tesla,2025-6(13-15),"19:28:08  [INSMON] (TSLA.O) - Jim Cramer Notes Tesla Stock Was Up in the ""Wake of Two Downgrades"" -"
+Tesla,2025-6(13-15),"19:26:07  [INSMON] (TSLA.O) - Jim Cramer Calls Tesla a ""Thorn in the Side of the President"" -"
+Tesla,2025-6(13-15),"19:12:16  [BARCHA] (TSLA.O .SPX) - Warren Buffett Says Buy This Index Fund. It Could Turn $400 Per Month Into $851,800 With Help From Apple, Nvidia, and Tesla. -"
+Tesla,2025-6(13-15),"19:02:20  [MOTFOO] (TSLA.O AAPL.O) - Warren Buffett Says Buy This Index Fund. It Could Turn $400 Per Month Into $851,800 With Help From Apple, Nvidia, and Tesla. -"
+Tesla,2025-6(13-15),"18:04:09  [SOUNJA] (TSLA.O) - My son flunked his road test because he was driving a Tesla, dad says ""The examiner claimed driver assistance was active and retroactively said it ... -"
+Tesla,2025-6(13-15),17:09:07  [FORCOO] (TSLA.O) - Tesla Cybertruck Price Collapse Drives Beast Of A Deal -
+Tesla,2025-6(13-15),16:35:07  [AUTCOP] (TSLA.O) - THEY SAID HE COULDN'T DO IT! Tesla Model Y Reigns as Europe's Top-Selling Electric Vehicle in First Half of 2025 -
+Tesla,2025-6(13-15),16:30:08  [AUTPAT] (TSLA.O) - Tesla Submits Mexican Patent Application for Motor and Gearbox Fluid Formulations and Uses Thereof -
+Tesla,2025-6(13-15),16:30:00  [SMAWEE] (TSLA.O) - Global Markets: U.S. Fed Meet on 18-Jun-25 & BOJ on 17-Jun-25 Israel Attacks Iran - Geo-Political Tension in West-Asia -
+Tesla,2025-6(13-15),15:48:09  [ETFDAI] (TSLA.O) - Zacks Research Issues Optimistic Estimate for Tesla Earnings -
+Tesla,2025-6(13-15),15:42:42  [MSNUKA] (TSLA.O) - Musks Self-Driving Tesla Robotaxis Hit First US State this Month -
+Tesla,2025-6(13-15),"14:04:08  [WNCOMA] (TSLA.O) - Tesla's public robotaxi rides set for tentative June 22 start, CEO Musk says -"
+Tesla,2025-6(13-15),13:19:12  [WNCOMA] (TSLA.O) - Design Refresh of Tesla's Flagship Cars Isn't Landing With Everyone -
+Tesla,2025-6(13-15),"13:06:58  [CYPMAI] (TSLA.O) - Tesla's public robotaxi rides set for tentative June 22 start, CEO Musk says -"
+Tesla,2025-6(13-15),11:11:14  [BUSTIM] (TSLA.O) - Musk pins Tesla's comeback on robotaxis after retreat from feud -
+Tesla,2025-6(13-15),"10:41:35  [RTRS] (TSLA.O) - Elon Musk's X sees partial recovery after outage hits US users, Downdetector shows (UPDATE 1) -"
+Tesla,2025-6(13-15),"09:16:09  [YAHNEX] (TSLA.O NFLX.O) - Why Netflix Should Replace Tesla in the ""Magnificent Seven"" -"
+Tesla,2025-6(13-15),"08:33:39  [STOOBS] (TSLA.O) - West Branch Capital LLC Acquires 1,730 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"08:33:17  [STOOBS] (TSLA.O) - Elevation Point Wealth Partners LLC Sells 556 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"08:33:16  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Marshall Financial Group LLC -"
+Tesla,2025-6(13-15),"08:21:01  [MARDAJ] (TSLA.O) - Tritonpoint Wealth LLC Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"08:20:37  [CERGEM] (TSLA.O) - Pathway Financial Advisors LLC Reduces Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),08:19:24  [TALKMA] (TSLA.O) - Tesla Inc. Stock: Rises On Eased U.S. Rules For Self-Driving Cybercabs -
+Tesla,2025-6(13-15),08:19:07  [TALKMA] (TSLA.O) - Tesla Inc. Stock: Rises On Eased U.S. Rules For Self-Driving Cybercabs -
+Tesla,2025-6(13-15),"08:18:55  [MARDAJ] (TSLA.O) - West Branch Capital LLC Increases Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"08:18:17  [CERGEM] (TSLA.O) - Thomasville National Bank Buys 402 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"08:18:17  [CERGEM] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) is BNC Wealth Management LLC's 6th Largest Position -"
+Tesla,2025-6(13-15),"08:18:05  [CERGEM] (TSLA.O) - CRA Financial Services LLC Has $1.95 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),08:18:03  [POCLIN] (TSLA.O) - Not a Tesla in sight - these 4 EVs actually impressed me -
+Tesla,2025-6(13-15),"08:17:58  [CERGEM] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Goldstone Financial Group LLC -"
+Tesla,2025-6(13-15),"06:07:02  [DAILYQ] (TSLA.O) - BigSur Wealth Management LLC Makes New $905,000 Investment in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),05:38:09  [YAHNEX] (TSLA.O) - Tesla claims rival startup is built on stolen trade secrets -
+Tesla,2025-6(13-15),"05:27:10  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Jackson Square Capital LLC -"
+Tesla,2025-6(13-15),"05:27:04  [WATNEW] (TSLA.O) - Jackson Square Capital LLC Has $217,000 Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"05:27:01  [DAILYQ] (TSLA.O) - Praetorian Wealth Management Inc. Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"05:26:59  [WATNEW] (TSLA.O) - BNC Wealth Management LLC Sells 3,522 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"05:26:06  [DAIPOL] (TSLA.O) - Praetorian Wealth Management Inc. Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),04:57:08  [GURCOM] (TSLA.O) - TSLA CEO Elon Musk's SpaceX Contracts Under Review Amid Trump Dispute -
+Tesla,2025-6(13-15),"04:52:17  [DAILYQ] (TSLA.O) - Southland Equity Partners LLC Decreases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:52:14  [TICREP] (TSLA.O) - Opal Wealth Advisors LLC Increases Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:52:10  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Opal Wealth Advisors LLC -"
+Tesla,2025-6(13-15),"04:52:09  [DAILYQ] (TSLA.O) - IAG Wealth Partners LLC Purchases 117 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:52:09  [TICREP] (TSLA.O) - Southland Equity Partners LLC Reduces Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:50:07  [DAIPOL] (TSLA.O) - IAG Wealth Partners LLC Purchases 117 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:50:07  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Opal Wealth Advisors LLC -"
+Tesla,2025-6(13-15),"04:50:07  [DAIPOL] (TSLA.O) - Southland Equity Partners LLC Decreases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),04:46:28  [TALMAR] (TSLA.O) - Tesla Inc. Stock: Rises On Eased U.S. Rules For Self-Driving Cybercabs -
+Tesla,2025-6(13-15),"04:20:07  [FORCOO] (TSLA.O) - Tesla Model Y U.S. Sales For April Slow, Says Market Intelligence Firm -"
+Tesla,2025-6(13-15),Doxes and attempts to murder federal ICE agents and Police - all week
+Tesla,2025-6(13-15),And now kills a MN state rep and her husband and injures a Senator and his -
+Tesla,2025-6(13-15),Doxes and attempts to murder federal ICE agents and Police - all week
+Tesla,2025-6(13-15),And now kills a MN state rep and her husband and injures a Senator and his -
+Tesla,2025-6(13-15),"04:03:09  [YAHNEX] (TSLA.O) - 'This Is the Start of Tesla's Path to $2T,' Says Wedbush Analyst Dan Ives -"
+Tesla,2025-6(13-15),"04:02:10  [YAHUKI] (TSLA.O) - 'This Is the Start of Tesla's Path to $2T,' Says Wedbush Analyst Dan Ives -"
+Tesla,2025-6(13-15),03:54:10  [YAHUKI] (TSLA.O) - Tesla (NasdaqGS:TSLA) Sees 30% Price Jump Over Last Quarter -
+Tesla,2025-6(13-15),"03:51:09  [INSMON] (TSLA.O) - 'This Is the Start of Tesla's Path to $2T,' Says Wedbush Analyst Dan Ives -"
+Tesla,2025-6(13-15),03:18:11  [MSNUKA] (TSLA.O) - Tesla stocks up 75% in a year! Time to buy? -
+Tesla,2025-6(13-15),"03:02:09  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Avaii Wealth Management LLC -"
+Tesla,2025-6(13-15),"03:02:07  [DAIPOL] (TSLA.O) - Lakeridge Wealth Management LLC Sells 416 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"03:02:06  [TICREP] (TSLA.O) - Avaii Wealth Management LLC Purchases 7,915 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"03:02:05  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Avaii Wealth Management LLC -"
+Tesla,2025-6(13-15),"03:02:03  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Lakeridge Wealth Management LLC -"
+Tesla,2025-6(13-15),"03:02:03  [DAILYQ] (TSLA.O) - Lakeridge Wealth Management LLC Sells 416 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"02:27:10  [TICREP] (WFC.N TSLA.O) - Hoey Investments Inc. Grows Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),02:12:08  [ENASCO] (TSLA.O) - Elon Musk says Tesla's Robotaxi goes live this June: Here's what we know about the launch -
+Tesla,2025-6(13-15),01:59:07  [YAHNEX] (TSLA.O .SPX) - Where Will Tesla Stock Be in 5 Years? -
+Tesla,2025-6(13-15),"01:57:20  [DAILYQ] (TSLA.O) - Everpar Advisors LLC Sells 450 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"01:57:14  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Holdings Raised by Hoey Investments Inc. -"
+Tesla,2025-6(13-15),"01:56:07  [DAIPOL] (TSLA.O) - Everpar Advisors LLC Sells 450 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),01:51:31  [MOTFOO] (TSLA.O .SPX) - Where Will Tesla Stock Be in 5 Years? -
+Tesla,2025-6(13-15),"01:27:22  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stake Raised by CVA Family Office LLC -"
+Tesla,2025-6(13-15),"01:27:08  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Elevation Point Wealth Partners LLC -"
+Tesla,2025-6(13-15),"01:24:09  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stake Raised by CVA Family Office LLC -"
+Tesla,2025-6(13-15),01:02:38  [MISBUS] (TSLA.O) - Bill Maher Sends Bold Relationship Advice to Elon Musk After Donald Trump Feud -
+Tesla,2025-6(13-15),"00:52:06  [TICREP] (TSLA.O) - Krilogy Financial LLC Buys 662 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"00:51:59  [TRADAJ] (TSLA.O) - Marshall Financial Group LLC Decreases Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),00:36:56  [MENREP] (TSLA.O) - Procurement And Supply Of Magnetic Resonance Imaging System (mri) 1.5 Tesla With 60 Cm Bore To Government Hospitals / Institutions In Telangana Sta... -
+Tesla,2025-6(13-15),"00:17:36  [TICREP] (TSLA.O) - Hickory Asset Management Inc. Lowers Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"00:17:17  [WATNEW] (TSLA.O) - Hickory Asset Management Inc. Reduces Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"00:16:06  [ECOCOM] (TSLA.O) - Swedish pension fund AP7 blacklists Tesla, says union rights violations in U.S. crossed the ethical line -"
+Tesla,2025-6(13-15),00:05:08  [FINBOL] (TSLA.O) - Wall Street analysts update Tesla stock price ahead of Robotaxi launch -
+Tesla,2025-6(13-15),"23:07:22  [NEWPEO] (TSLA.OQ TSLA.O) - Elon Musk CEO of Tesla in top 6% of NASDAQ stocks Saturday June 14, 2025 -"
+Tesla,2025-6(13-15),"22:38:08  [DAIPOL] (TSLA.O) - Stock Yards Bank & Trust Co. Purchases 97 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"22:37:47  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Stock Yards Bank & Trust Co. -"
+Tesla,2025-6(13-15),"22:37:41  [DAILYQ] (TSLA.O) - Stock Yards Bank & Trust Co. Purchases 97 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),22:11:15  [WNCOMA] (TSLA.O) - 'Tesla-powered' net zero estate in Nevada sells for a cool $12 million -
+Tesla,2025-6(13-15),"22:07:31  [WATNEW] (TSLA.O) - Goldstone Financial Group LLC Boosts Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"22:07:29  [TICREP] (TSLA.O) - Azzad Asset Management Inc. ADV Reduces Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"22:07:27  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Azzad Asset Management Inc. ADV -"
+Tesla,2025-6(13-15),"22:06:15  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Avaii Wealth Management LLC -"
+Tesla,2025-6(13-15),"22:04:13  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Azzad Asset Management Inc. ADV -"
+Tesla,2025-6(13-15),22:02:18  [GURCOM] (TSLA.O) - Concerns Rise Over Tesla's (TSLA) Robotaxi Safety in Austin -
+Tesla,2025-6(13-15),"21:32:22  [TRADAJ] (TSLA.O) - Matauro LLC Has $1.58 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"21:21:16  [MARBEA] (TSLA.O) - Matauro LLC Has $1.58 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"20:43:11  [MARBEA] (TSLA.O) - BNC Wealth Management LLC Sells 3,522 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"20:41:14  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Azzad Asset Management Inc. ADV -"
+Tesla,2025-6(13-15),"20:34:15  [MARBEA] (TSLA.O) - BigSur Wealth Management LLC Takes Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"20:27:41  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Holdings Lifted by Krilogy Financial LLC -"
+Tesla,2025-6(13-15),"20:26:08  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Holdings Lifted by Krilogy Financial LLC -"
+Tesla,2025-6(13-15),"20:04:15  [WNCOMA] (TSLA.O) - 'My role eliminated at Tesla again': Employee claims she was laid off, exposes grim state ... -"
+Tesla,2025-6(13-15),20:02:05  [MOTFOO] (TSLA.O) - Tesla stock's up 75% in a year! Time to buy? -
+Tesla,2025-6(13-15),"19:48:07  [DAIPOL] (TSLA.O) - NorthCrest Asset Manangement LLC Sells 545 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"19:47:46  [DAILYQ] (TSLA.O) - NorthCrest Asset Manangement LLC Sells 545 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),19:18:15  [FORCOO] (TSLA.O) - You May Hate Elon But Tesla's 2025 Model Y Is Still The EV SUV To Beat -
+Tesla,2025-6(13-15),I will never be the driver on any road trip ever again unless it is a Tesla with FSD. You must live with it to understand.
+Tesla,2025-6(13-15),19:00:14  [LATNIG] (TSLA.O) - Tesla opens Casablanca office as first step in African expansion -
+Tesla,2025-6(13-15),18:32:34  [NEXBIG] (TSLA.O) - Tesla Robotaxi Without Safety Driver Approved in Texas -
+Tesla,2025-6(13-15),18:07:02  [CRYPTR] (TSLA.O) - Bitcoin Whales Have Been Shrinking Since Tesla's $1.5B BTC Buy - Coincidence or Clue? -
+Tesla,2025-6(13-15),"17:41:09  [ECOCOM] (TSLA.O) - Warren Buffett's billion-dollar EV play backed BYD, so why not Tesla? -"
+Tesla,2025-6(13-15),17:13:33  [NOTENG] (TSLA.O) - Tesla to lose 41 billion from electric car subsidy cuts -
+Tesla,2025-6(13-15),17:13:23  [NOTENG] (TSLA.O) - Beyond the White House: China's competitiveness sinks Tesla in the stock market. -
+Tesla,2025-6(13-15),17:12:20  [NOTENG] (TSLA.O) - He took his CyberTruck to the shop for a minor repair and Tesla surprised him with something completely unexpected. -
+Tesla,2025-6(13-15),16:50:28  [AZENEW] (TSLA.O) - Tesla begins testing self-driving cars in Rome -
+Tesla,2025-6(13-15),15:12:37  [NOTENG] (TSLA.O) - Tesla raises prices of Model S and Model X in the U.S. by US$5K -
+Tesla,2025-6(13-15),14:44:08  [YAHCAN] (TSLA.O) - Tesla drivers in France are suing Elon Musk's EV maker for becoming a 'far-right symbol' -
+Tesla,2025-6(13-15),14:12:08  [GURCOM] (TSLA.O) - Concerns Arise Over Tesla's (TSLA) Robotaxi Launch Amid Safety Protests -
+Tesla,2025-6(13-15),13:14:08  [THESGA] (TSLA.O) - Seeing Beyond the Surface: Why I Still Believe in Tesla -
+Tesla,2025-6(13-15),13:12:27  [NOTENG] (TSLA.O) - Tesla tries to get on track after Musk's divorce from Trump -
+Tesla,2025-6(13-15),12:28:09  [WNCOMA] (TSLA.O) - Tesla faces protests in Austin over Musk's robotaxi plans -
+Tesla,2025-6(13-15),FSD already works well in china even without training data for their US GPU clusters.
+Tesla,2025-6(13-15),12:12:35  [MSNUKA] (TSLA.O) - Tesla stock rises as Trump-Musk feud cools and robotaxi launch nears -
+Tesla,2025-6(13-15),12:11:45  [NOTENG] (TSLA.O) - Tesla revolutionizes the market with new Model S and X versions -
+Tesla,2025-6(13-15),"12:05:10  [WNCOMA] (TSLA.O) - Swedish pension fund AP7 blacklists Tesla, has sold entire stake -"
+Tesla,2025-6(13-15),"If necessary, deep space Starship missions with astronauts can fill the gap. -"
+Tesla,2025-6(13-15),11:39:07  [MSNSOU] (TSLA.O) - Tesla drivers in France are suing Elon Musks EV maker for becoming a far-right symbol -
+Tesla,2025-6(13-15),11:16:06  [GLOWEE] (TSLA.O .NDX) - Weekly: Tesla (TSLA: $325.31) in top 1% performers of NASDAQ-100 Index in past week; +$30.17 [10.2%] -
+Tesla,2025-6(13-15),11:11:38  [NOTENG] (TSLA.O) - Trump praises Tesla and says he wants to talk to Musk about electric vehicles -
+Tesla,2025-6(13-15),"10:23:07  [YAHNEX] (TSLA.O) - Former Tesla Dealership Manager Says It's ""Game Over"" for Elon Musk -"
+Tesla,2025-6(13-15),10:04:53  [AMETHI] (TSLA.O) - Pardon moi! Why are French Tesla lessors suing Tesla? -
+Tesla,2025-6(13-15),"10:00:00  [PLUPAT] (TSLA.O) - Tesla, Inc. (Texas)'s US Patent application for ""ENHANCED FRACTIONAL INTERPOLATION FOR CONVOLUTIONAL PROCESSOR IN AUTONOMOUS OR SEMI-AUTONOMOUS SYS... -"
+Tesla,2025-6(13-15),"09:22:05  [MSNAUS] (TSLA.O) - Tesla's new Model X and S are quieter, heavier, and more expensive -"
+Tesla,2025-6(13-15),09:12:37  [NOTENG] (TSLA.O) - Elon Musk: Tesla wants to get out of the crisis by raising car prices -
+Tesla,2025-6(13-15),08:52:14  [GURCOM] (TSLA.O) - Swedish Pension Fund AP7 Divests Tesla Over Union Rights Issues (TSLA) -
+Tesla,2025-6(13-15),08:09:15  [MSNAUS] (TSLA.O) - Billionaires set their sights on state supreme court races while no one's watching -
+Tesla,2025-6(13-15),"07:48:48  [STOOBS] (TSLA.O) - Everhart Financial Group Inc. Decreases Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:48:33  [STOOBS] (TSLA.O) - Martel Wealth Advisors Inc Reduces Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:48:31  [STOOBS] (TSLA.O) - RFG Holdings Inc. Raises Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:48:27  [STOOBS] (TSLA.O) - 4,300 Shares in Tesla, Inc. (NASDAQ:TSLA) Bought by Polianta Ltd -"
+Tesla,2025-6(13-15),"07:47:48  [STOOBS] (TSLA.O) - Lynch Asset Management Inc. Boosts Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:35:43  [CERGEM] (TSLA.O) - Bensler LLC Reduces Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:35:08  [CERGEM] (TSLA.O LU0092281103.BR) - Tesla, Inc. (NASDAQ:TSLA) Stake Raised by Quintet Private Bank Europe S.A. -"
+Tesla,2025-6(13-15),"07:35:02  [MARDAJ] (TSLA.O) - Polianta Ltd Invests $1.11 Million in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:35:00  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Relyea Zuckerberg Hanson LLC -"
+Tesla,2025-6(13-15),"07:34:19  [MARDAJ] (TSLA.O) - Everhart Financial Group Inc. Has $4.06 Million Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:34:09  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by RFG Holdings Inc. -"
+Tesla,2025-6(13-15),"07:34:02  [CERGEM] (TSLA.O) - Union Bancaire Privee UBP SA Lowers Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:33:43  [CERGEM] (TSLA.O) - Crowley Wealth Management Inc. Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:10:33  [WNCOMA] (TSLA.O) - From 'Neon Genesis Evangelion' to 'Death Note' Elon Musk Is a Secret Anime Lover, Here ... -"
+Tesla,2025-6(13-15),"06:51:56  [BENZIN] (TSLA.O) - Cathie Wood Buys Tesla Again, Calls Elon Musk's EV Giant 'Largest AI Project On Earth:' Report -"
+Tesla,2025-6(13-15),06:51:56  [BENZIN] (TSLA.O) - Trump Says 'I Like Tesla' As Feud With Elon Musk Subsides: 'But I Also Like Combustion Engines' -
+Tesla,2025-6(13-15),06:44:14  [YAHNEX] (TSLA.O) - Tesla EV registrations in the US fall 16% in April -
+Tesla,2025-6(13-15),06:12:19  [GURCOM] (TSLA.O) - Tesla Blacklisted by Swedish Pension Fund Over Labor Woes -
+Tesla,2025-6(13-15),06:12:02  [GURCOM] (TSLA.O) - Swedish Pension Fund AP7 Blacklists Tesla (TSLA) Over Labor Rights Issues -
+Tesla,2025-6(13-15),"06:02:06  [MSNUKA] (TSLA.O) - Swedish pension fund AP7 blacklists Tesla, has sold entire stake -"
+Tesla,2025-6(13-15),05:47:02  [NEWUSN] (TSLA.O) - Tesla top gainer in Hancock Prospecting jumps 24.9% in 73 days; +$8.03 [2.5%] -
+Tesla,2025-6(13-15),05:42:09  [GIZMOD] (TSLA.O) - Trump Regime Wants to Make Approvals Easier for Tesla's Mythical Cybercab -
+Tesla,2025-6(13-15),"05:29:07  [MSNCAN] (TSLA.O) - Tesla Treats the Model S and Model X to Yet Another Minor Refresh, And a $5000 Price Hike -"
+Tesla,2025-6(13-15),05:22:14  [DAIBRE] (TSLA.O) - Tesla sues Ex-Optimus engineer alleging theft of robotic trade secrets -
+Tesla,2025-6(13-15),05:17:23  [NEWUSN] (TSLA.O .NDX) - Tesla (TSLA: $325.10) offers Price Earnings growth of 3.89; +$5.99 [1.9%] -
+Tesla,2025-6(13-15),05:12:05  [GLOSTO] (TSLA.O) - Tesla among top gainers of Hancock Prospecting holdings; jumps 25% in 73 days; +$5.99 [1.9%] -
+Tesla,2025-6(13-15),05:03:07  [INVCOA] (TSLA.O) - Tesla stock rises as US moves to ease rules for self-driving cybercab -
+Tesla,2025-6(13-15),"04:52:13  [GLOSTO] (TSLA.O) - Tesla (TSLA: $328.45) in top 1% performers of NASDAQ-100 Index, top rise in today's top 11 rises; +$9.34 [2.9%] -"
+Tesla,2025-6(13-15),"04:52:03  [GLOSTO] (TSLA.O) - Tesla (TSLA: $328.45) climbs 2.9% on average volume, top rise in today's top 11 rises; +$9.34 [2.9%] -"
+Tesla,2025-6(13-15),"04:44:30  [GLOREV] (TSLA.O) - Swedish pension fund AP7 blacklists Tesla, has sold entire stake -"
+Tesla,2025-6(13-15),04:39:09  [YAHNEX] (TSLA.O RIVN.O) - Tesla Stock Crash: Time to Rotate and Buy Rivian Instead? -
+Tesla,2025-6(13-15),04:32:11  [BARCHA] (TSLA.O) - Tesla Fails to Meet June 12 Launch for Its Robotaxis. Is This a Big Red Flag for TSLA Stock? -
+Tesla,2025-6(13-15),"04:26:09  [FUTCOM] (TSLA.O) - Former Tesla Dealership Manager Says It's ""Game Over"" for Elon Musk -"
+Tesla,2025-6(13-15),04:25:10  [YAHNEX] (TSLA.O) - Tesla rival gets good news as robotaxi launch looms -
+Tesla,2025-6(13-15),"04:22:14  [TICREP] (TSLA.O) - Seros Financial LLC Cuts Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:22:13  [DAILYQ] (TSLA.O) - Seros Financial LLC Decreases Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:22:05  [TRADAJ] (TSLA.O) - Lynch Asset Management Inc. Boosts Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:20:12  [DAIPOL] (TSLA.O) - Seros Financial LLC Decreases Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),04:12:21  [NOTENG] (TSLA.O) - Lichnovsky's Tesla Cybertruck ended up in the CDMX's corral after committing a double infraction. -
+Tesla,2025-6(13-15),"04:12:13  [GLOSTO] (TSLA.O) - Tesla among top gainers of Hancock Prospecting holdings; soars 27% in 73 days, top rise in today's top 11 rises; +$12.06 [3.8%] -"
+Tesla,2025-6(13-15),"04:12:07  [GLOSTO] (TSLA.O) - Tesla (TSLA: $331.17) gains 3.8% against the trend, top rise in today's top 11 rises; +$12.06 [3.8%] -"
+Tesla,2025-6(13-15),04:11:52  [INVCOM] (TSLA.O) - Tesla stock rises as US moves to ease rules for self-driving cybercab -
+Tesla,2025-6(13-15),04:01:15  [YAHNEX] (TSLA.O) - Zevo's EV-only car-share fleet is helping Tesla owners make money -
+Tesla,2025-6(13-15),03:56:08  [YAHNEX] (TSLA.O) - Tesla stock rises as US moves to ease rules for self-driving cybercab -
+Tesla,2025-6(13-15),03:44:08  [YAHNEX] (TSLA.O GETY.N) - Tesla Stock Overcomes Much of the Damage From Musk-Trump Fight -
+Tesla,2025-6(13-15),03:39:13  [TECHCR] (TSLA.O) - Zevo's EV-only car-share fleet is helping Tesla owners make money -
+Tesla,2025-6(13-15),03:34:31  [TRATOP] (TSLA.O) - US to Ease Rules Hindering Tesla's Self-Driving Cybercab -
+Tesla,2025-6(13-15),"03:32:17  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR276.45) falls 2.1%, 4 days' volume in a day; -EUR5.85 [-2.1%] Vol Index 3.8 [1 is avg] -"
+Tesla,2025-6(13-15),03:23:09  [AUTCOO] (TSLA.O) - First Shift: EV registrations' first fall in 14 months -
+Tesla,2025-6(13-15),"03:22:10  [GLOSTO] (TSLA.O) - Tesla (TSLA: $327.54) climbs 2.6% strengthening above moving average price, top rise in today's top 20 rises; +$8.43 [2.6%] -"
+Tesla,2025-6(13-15),"03:22:05  [GLOSTO] (TSLA.O) - Tesla (TSLA: $327.54) in top 1% performers of NASDAQ-100 Index, top rise in today's top 20 rises; +$8.43 [2.6%] -"
+Tesla,2025-6(13-15),03:19:19  [GRAIND] (TSLA.O) - Legal Expert Comments on Tesla's Robotaxi Launch and Implications for Product Liability -
+Tesla,2025-6(13-15),"03:19:08  [MSNUKA] (TSLA.O) - BYD's Stella Li on Europe Strategy, Tesla Competition -"
+Tesla,2025-6(13-15),03:16:56  [BENZIN] (TSLA.O) - Tesla shares are trading higher following reports indicating the National Highway Traffic Safety Administration it plans to streamline reviews of r... -
+Tesla,2025-6(13-15),03:16:19  [YAHNEX] (TSLA.O) - Tesla Didn't Launch Its Robotaxi Service This Week But Did Release These 'New' Vehicles -
+Tesla,2025-6(13-15),"03:14:17  [DAIPOL] (TSLA.O) - Wealth Advisors Northwest LLC Sells 260 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"03:13:38  [WATNEW] (TSLA.O LU0092281103.BR) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Quintet Private Bank Europe S.A. -"
+Tesla,2025-6(13-15),"03:13:37  [WATNEW] (TSLA.O) - Bensler LLC Sells 1,027 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"03:13:31  [TICREP] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by RMR Wealth Builders -"
+Tesla,2025-6(13-15),"03:13:28  [DAILYQ] (TSLA.O) - Wealth Advisors Northwest LLC Sells 260 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"03:13:27  [TICREP] (TSLA.O) - Wealth Advisors Northwest LLC Reduces Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"02:52:28  [FORMID] (TSLA.O) - Swedish Pension Fund AP7 Blacklists Tesla Over Labor Rights Violation, Offloads $1.4B Stake -"
+Tesla,2025-6(13-15),02:51:48  [BENZIN] (TSLA.O) - 'United States Moves To Ease Rules Hindering Tesla's Self-Driving Cybercab' - Bloomberg News -
+Tesla,2025-6(13-15),"02:47:11  [GLOSTO] (TSLA.O) - Tesla (TSLA: $320.24) lifts $1.13, jumps 8.5% for week, ranks 14 in today's top 20 rises; +$1.13 [0.4%] -"
+Tesla,2025-6(13-15),"02:47:09  [GLOSTO] (TSLA.O) - Tesla (TSLA: $320.24) lifts $1.13, ranks 14 in today's top 20 rises; +$1.13 [0.4%] -"
+Tesla,2025-6(13-15),"02:37:32  [WATNEW] (TSLA.O) - RMR Wealth Builders Has $3.21 Million Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"02:37:14  [WATNEW] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) is Crowley Wealth Management Inc.'s 5th Largest Position -"
+Tesla,2025-6(13-15),"02:37:06  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Lessened by Twin Peaks Wealth Advisors LLC -"
+Tesla,2025-6(13-15),02:32:22  [EINPRE] (TSLA.O) - Legal Expert Comments on Tesla's Robotaxi Launch and Implications for Product Liability -
+Tesla,2025-6(13-15),02:23:09  [WNCOMA] (TSLA.O) - China boosts Tesla self-driving plan with car-data export rules -
+Tesla,2025-6(13-15),"02:02:31  [GLOBEA] (TSLA.O .NDX) - Confirmatory Bearish Trend: Tesla (TSLA: $314.30) down 3.7% in 2 days Saturday June 14, 2025 01:30 AEST7 -"
+Tesla,2025-6(13-15),02:01:52  [WNCOMA] (TSLA.O) - Elon Musk pins Tesla's comeback on robotaxis after retreat from feud with Donald Trump -
+Tesla,2025-6(13-15),01:52:22  [GLOSTO] (TSLA.O) - How Tesla's investment commitment under Trump 2.0 compares to the other 58+ companies -
+Tesla,2025-6(13-15),"01:51:54  [DAIPOL] (TSLA.O) - CCM Investment Advisers LLC Sells 27,595 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),01:47:53  [GLOTRA] (TSLA.O) - Tesla among top gainers of Hancock Prospecting holdings; jumps 23% in 73 days; +68c [0.2%] -
+Tesla,2025-6(13-15),"01:42:14  [GLOSTO] (TSLA.O) - Tesla (TSLA: $319.79) increases, ranks 8 in today's top 15 rises; +68c [0.2%] -"
+Tesla,2025-6(13-15),"01:42:10  [GLOSTO] (TSLA.O) - Tesla (TSLA: $319.79) strengthens above moving average price, ranks 8 in today's top 15 rises; +68c [0.2%] -"
+Tesla,2025-6(13-15),"01:37:41  [WNCOMA] (TSLA.O AAPL.O) - Here are Friday's biggest analyst calls: Nvidia, Apple, Tesla, Netflix, Adobe, Coinbase, Microsoft, Oracle & more -"
+Tesla,2025-6(13-15),"01:27:01  [DAILYQ] (TSLA.O) - CCM Investment Advisers LLC Sells 27,595 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"01:17:15  [YAHNEX] (NVDA.O TSLA.O) - Stock Market Today: Dow Jones Dives 500 Points After Israel Attacks Iran; Nvidia, Tesla Sell Off (Live Coverage) -"
+Tesla,2025-6(13-15),"01:14:10  [YAHNEX] (TSLA.O LMT.N) - These Stocks Are Moving the Most Today: Diamondback Energy, Lockheed, United, Tesla, Adobe, Boeing, AMD, Chime, RH, and More -"
+Tesla,2025-6(13-15),01:13:59  [NOTENG] (TSLA.O) - Tesla indicts former engineer for stealing key data from Optimus humanoid robot -
+Tesla,2025-6(13-15),01:07:13  [SILICO] (TSLA.O) - Tesla sues Ex-Optimus engineer alleging theft of robotic trade secrets -
+Tesla,2025-6(13-15),"01:02:05  [GLOBEA] (TSLA.O .NDX) - Confirmatory Bearish Trend: Tesla (TSLA: $314.30) down 3.7% in 2 days Saturday June 14, 2025 00:32 AEST7 -"
+Tesla,2025-6(13-15),"00:52:54  [TRADAJ] (TSLA.O) - Martel Wealth Advisors Inc Sells 147 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),00:51:23  [YAHSIN] (TSLA.O) - Tesla's new Model S and X vehicles are now available in the US -
+Tesla,2025-6(13-15),00:47:31  [SILICO] (TSLA.O) - Elon Musk pins Tesla's comeback on robotaxis after retreat from feud with Donald Trump -
+Tesla,2025-6(13-15),"00:47:23  [YAHSIN] (TSLA.O) - Tesla US registrations slide 16% in April, new data shows -"
+Tesla,2025-6(13-15),00:47:01  [GLOSTO] (TSLA.O) - Tesla among top gainers of Infusive Asset Management holdings; jumps 21% in 73 days; -$3.18 [-1.0%] -
+Tesla,2025-6(13-15),00:34:22  [THANEW] (TSLA.O) - United States: Tesla stock rises as Trump-Musk feud cools and robotaxi launch nears -
+Tesla,2025-6(13-15),00:29:13  [SHAENG] (TSLA.O) - Tesla raises prices on new Model S and X vehicles in the U.S. -
+Tesla,2025-6(13-15),00:22:22  [MOTFOO] (LCID.O TSLA.O) - Think Lucid Group Stock Is Expensive? This 1 Chart Might Change Your Mind. -
+Tesla,2025-6(13-15),00:12:31  [NOTENG] (TSLA.O) - Robotaxis: this is what Elon Musk's new public transportation will be like in the U.S. -
+Tesla,2025-6(13-15),"00:11:10  [YAHNEX] (TSLA.O) - Swedish pension fund AP7 blacklists Tesla, has sold entire stake -"
+Tesla,2025-6(13-15),00:03:00  [GURCOM] (TSLA.O) - Swedish Pension Fund AP7 Blacklists and Sells Tesla (TSLA) Shares Over Union Rights Issue -
+Tesla,2025-6(13-15),"00:02:15  [GLOSTO] (TSLA.O) - Tesla (TSLA: $314.30) down 3.7% in 2 days, ranks 20 in today's top 20 falls; -$4.81 [-1.5%] -"
+Tesla,2025-6(13-15),"23:42:13  [TRADAJ] (TSLA.O) - Jacksonville Wealth Management LLC Has $403,000 Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"23:42:11  [MARBEA] (TSLA.O) - CCM Investment Advisers LLC Sells 27,595 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),23:39:15  [ENGADG] (TSLA.O) - Tesla's new Model S and X vehicles are now available in the US -
+Tesla,2025-6(13-15),"23:32:59  [STOOBS] (TSLA.O) - Legacy Trust Sells 42 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),23:27:14  [BUSUSA] (TSLA.O) - Safety scrutiny continues as Tesla prepares to launch robotaxis -
+Tesla,2025-6(13-15),23:25:09  [EDGEMA] (TSLA.O) - China boosts Tesla self-driving plan with car-data export rules -
+Tesla,2025-6(13-15),"23:25:07  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Patriot Investment Management Group Inc. -"
+Tesla,2025-6(13-15),"23:25:06  [CERGEM] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Tobam -"
+Tesla,2025-6(13-15),"23:22:22  [RTRS] (TSLA.O) - Swedish pension fund AP7 blacklists Tesla, has sold entire stake (UPDATE 1) -"
+Tesla,2025-6(13-15),23:22:20  [CAPBRO] (TSLA.O) - Tesla raises prices on new Model S and X vehicles in the U.S. -
+Tesla,2025-6(13-15),"23:22:09  [MARDAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by Legacy Trust -"
+Tesla,2025-6(13-15),"23:15:17  [YAHUKI] (TSLA.O) - Swedish pension fund AP7 blacklists Tesla, has sold entire stake -"
+Tesla,2025-6(13-15),"23:04:56  [BENZIN] (TSLA.O UBER.N) - Elon Musk's Robotaxis May Struggle More Against Uber, Lyft Human Drivers Than Tesla's Self-Driving Rivals Like Waymo: 'The Challenge Is Less Techno... -"
+Tesla,2025-6(13-15),"23:02:52  [RTRS] (TSLA.O) - Swedish pension fund AP7 blacklists Tesla, has sold entire stake -"
+Tesla,2025-6(13-15),"22:58:20  [RTRS] (TSLA.O) - SWEDISH PENSION FUND AP7 SAYS IT HAS BLACKLISTED AND SOLD ALL ITS SHARES IN TESLA, POINTING TO VIOLATIONS OF UNION RIGHTS IN THE US -"
+Tesla,2025-6(13-15),22:57:14  [AUTCOO] (TSLA.O) - China releases draft guidance on transfer of car-generated data -
+Tesla,2025-6(13-15),"22:57:11  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Lessened by Twin Peaks Wealth Advisors LLC -"
+Tesla,2025-6(13-15),22:52:09  [GLOSTO] (TSLA.O) - How Tesla Has Fared Since Its Recent Analyst Ratings Changes -
+Tesla,2025-6(13-15),22:51:42  [RTRS] (TSLA.O GM.N) - US agency streamlining self-driving car exemption reviews (UPDATE 1) -
+Tesla,2025-6(13-15),22:49:19  [NEWUSN] (TSLA.O .NDX) - Friday's Preview: Can Tesla rebound after being down? -
+Tesla,2025-6(13-15),"22:24:00  [CNBC] (TSLA.O NFLX.O) - Here are Friday's biggest analyst calls: Nvidia, Apple, Tesla, Netflix, Adobe, Coinbase, Microsoft, Oracle & more -"
+Tesla,2025-6(13-15),22:12:46  [NOTENG] (TSLA.O) - Tesla redesigns the Model S and Model X. Vehicles become more expensive -
+Tesla,2025-6(13-15),22:08:05  [GURCOM] (TSLA.O) - Tesla (TSLA) Faces Declining Fundamentals Amidst Optimistic Narratives | TSLA Stock News -
+Tesla,2025-6(13-15),"22:07:16  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Stock Position Lessened by Twin Peaks Wealth Advisors LLC -"
+Tesla,2025-6(13-15),22:02:56  [STOCKP] (TSLA.O) - Tesla trades -2.24 percent lower on Friday 13th of June -
+Tesla,2025-6(13-15),"22:02:34  [RTRS] (TSLA.O GOOGL.O) - TRANSPORTATION DEPARTMENT: EXEMPTION WILL CONTINUE TO ALLOW MANUFACTURERS TO SELL UP TO 2,500 MOTOR VEHICLES PER YEAR THAT DO NOT FULLY COMPLY WITH THE FEDERAL MOTOR VEHICLE SAFETY STANDARDS -"
+Tesla,2025-6(13-15),22:00:00  [RTRS] (TSLA.O GM.N) - US agency streamlining self-driving car exemption reviews -
+Tesla,2025-6(13-15),21:58:12  [WNCOMA] (TSLA.O) - Tesla sues ex-engineer for stealing Optimus robot secrets to launch rival startup -
+Tesla,2025-6(13-15),21:57:22  [AUTCOP] (TSLA.O) - Tesla Refreshes Model S And Model X Plaid Offers With A Huge Price Increase -
+Tesla,2025-6(13-15),"21:56:54  [GLOBEA] (.GDAXI TSLA.O) - Tesla (TSLA: $319.11) - PRE-MARKET CONFIRMATORY BEARISH SIGNAL FROM ITS GERMAN LISTING Friday June 13, 2025 07:06 EDT -"
+Tesla,2025-6(13-15),"21:52:09  [GLOBEA] (.GDAXI TSLA.O) - THE NASDAQ PRE-MARKET BEARISH STOCK SNIPPETS TESLA (TSLA: $319.11) Friday June 13, 2025 07:06 EDT -"
+Tesla,2025-6(13-15),"21:52:08  [GLOBUL] (TSLA.O .NDX) - Tesla top gainer in Infusive Asset Management jumps 22.6% in 72 days Friday June 13, 2025 07:06 EDT -"
+Tesla,2025-6(13-15),"21:52:00  [GLOBUL] (TSLA.O .NDX) - Consecutive Rises Monthly: Tesla (TSLA: $319.11) rises for a second consecutive month, a two-month rise of 26% -"
+Tesla,2025-6(13-15),"21:43:13  [MARBEA] (TSLA.O) - Bensler LLC Sells 1,027 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),21:23:16  [VCPCOM] (TSLA.O) - Elon Musk Claims Tesla Robotaxi Will Hit Streets This Month: 'Most Important Product' Yet -
+Tesla,2025-6(13-15),21:22:38  [GURCOM] (TSLA.O) - Tesla (TSLA) Boosts Prices for Model S and Model X in the U.S. | TSLA Stock News -
+Tesla,2025-6(13-15),21:12:15  [AUTCOO] (TSLA.O) - EV registrations fall in April for first time in 14 months as Tesla slides 16% in U.S. -
+Tesla,2025-6(13-15),"21:02:33  [GURCOM] (TSLA.O) - TSLA Increases Model S and X Prices by $5,000 Amid Full Self-Driving Advancements -"
+Tesla,2025-6(13-15),21:01:24  [RTRS] (TSLA.O) - China issues draft guidance on transfer of car-generated data (UPDATE 1) -
+Tesla,2025-6(13-15),"21:01:21  [MARBEA] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Sold by RMR Wealth Builders -"
+Tesla,2025-6(13-15),"20:54:18  [WNCOMA] (TSLA.O) - Miles from Tesla gigafactory, a Texas community lives in a food desert -"
+Tesla,2025-6(13-15),20:42:21  [INDTOE] (TSLA.O) - Tesla sues ex-engineer for stealing Optimus robot secrets to launch rival startup -
+Tesla,2025-6(13-15),20:35:11  [MARBEA] (TSLA.O) - Zacks Research Issues Positive Forecast for Tesla Earnings -
+Tesla,2025-6(13-15),20:34:23  [ECOCOM] (TSLA.O) - Tesla sues ex-engineer for allegedly stealing humanoid robot tech to launch rival startup -
+Tesla,2025-6(13-15),"20:33:28  [NEWBIH] (TSLA.O) - June 12, 2025: Tech Cocktail, LLC Musks Self-Driving Tesla Robotaxis Hit First US State this Month -"
+Tesla,2025-6(13-15),"20:14:14  [NOTENG] (TSLA.O) - Elon Musk's 1998 prediction that is already coming true: ""It will be the end of traditional media"". -"
+Tesla,2025-6(13-15),20:11:17  [CHARTE] (TSLA.O) - The New Tesla Model S And Model X Have Been Unveiled -
+Tesla,2025-6(13-15),"20:10:21  [MARBEA] (TSLA.O) - Union Bancaire Privee UBP SA Lowers Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),20:07:23  [NDTNEW] (TSLA.O) - Tesla Model S And Model X Updated Once Again: Here's What Changed -
+Tesla,2025-6(13-15),"20:05:13  [WNCOMA] (TSLA.O) - Optimus humanoid robot's hand secrets stolen, Elon Musk's Tesla sues ex-engineer -"
+Tesla,2025-6(13-15),19:59:10  [LIVEMI] (TSLA.O) - Why regretful tweets can't fix Musk's Tesla mess -
+Tesla,2025-6(13-15),"19:52:35  [YAHNEX] (TSLA.O) - Robotaxi wars: How Waymo got the edge on the competition, and Tesla (so far) -"
+Tesla,2025-6(13-15),"19:40:12  [YAHSIN] (TSLA.O) - Robotaxi wars: How Waymo got the edge on the competition, and Tesla (so far) -"
+Tesla,2025-6(13-15),19:17:53  [GLOSTP] (TSLA.O .NDX) - Tesla seventh worst performer of NASDAQ-100 Index in 2025 -
+Tesla,2025-6(13-15),18:36:49  [BENZIN] (TSLA.O) - Elon Musk's Tesla Files Lawsuit Alleging Ex-Employee Stole Humanoid Tech To Launch Rival -
+Tesla,2025-6(13-15),18:13:25  [NOTENG] (TSLA.O) - Robotaxis: this is what Elon Musk's new public transportation will be like in the U.S. -
+Tesla,2025-6(13-15),18:12:15  [GURCOM] (TSLA.O) - Tesla Increases Prices for Model S and Model X in North America -
+Tesla,2025-6(13-15),17:49:12  [WNCOMA] (TSLA.O) - Elon Musk's Tesla sues former Optimus robot engineer for allegedly stealing trade secrets -
+Tesla,2025-6(13-15),17:38:26  [ZAWYA] (TSLA.O DEWAA.DU) - PRESSR: DEWA meets international solar and energy storage companies during road show in China -
+Tesla,2025-6(13-15),17:27:05  [GURCOM] (TSLA.O) - Tesla (TSLA) Increases Prices for Model S and Model X in the U.S. -
+Tesla,2025-6(13-15),17:23:11  [ECOCOM] (TSLA.O) - Tesla sues former employee for allegedly stealing trade secrets to launch rival startup -
+Tesla,2025-6(13-15),"Trump credited Elon for saying ""as long as I'm on the same plain as everybody else, we'll do good and make a better product."""
+Tesla,2025-6(13-15),16:22:53  [FOXNWS] (TSLA.O) - FBI Nabs Alleged L.A. Riot Leader; Blue State Governor's Squirm At  Sanctuary Hearing; Trump's Delivering His Mass Deportation Promise;  Americans ... -
+Tesla,2025-6(13-15),"16:10:19  [RTRS] (TSLA.O) - Tesla upgrades its Model S and X cars in US, raises prices by $5,000 -"
+Tesla,2025-6(13-15),"16:02:10  [RTRS] (TSLA.O) - Tesla Raises Price Of Model X Awd And Model X Plaid By $5,000 In US - Website (BRIEF) -"
+Tesla,2025-6(13-15),"15:46:20  [RTRS] (TSLA.O) - TESLA RAISES PRICE OF MODEL X AWD AND MODEL X PLAID BY $5,000 IN US - WEBSITE -"
+Tesla,2025-6(13-15),"15:44:30  [RTRS] (TSLA.O) - TESLA RAISES PRICE OF MODEL S PLAID TO $99,990 FROM $94,990 IN US - WEBSITE -"
+Tesla,2025-6(13-15),"15:43:52  [RTRS] (TSLA.O) - TESLA RAISES PRICE OF MODEL S AWD TO $84,990 FROM $79,990 IN US - WEBSITE -"
+Tesla,2025-6(13-15),15:12:27  [NOTENG] (TSLA.O) - America defender Igor Lichnovsky's Tesla Cybertruck truck is taken to the impound yard -
+Tesla,2025-6(13-15),15:07:01  [AUSBUS] (TSLA.O) - Tesla sues startup for stealing its robot hand designs -
+Tesla,2025-6(13-15),15:06:40  [SANTIM] (TSLA.O) - Tesla sues Y Combinator startup for stealing its robot hand designs -
+Tesla,2025-6(13-15),15:06:35  [SILVAL] (TSLA.O) - Tesla sues Y Combinator startup Proception for alleged theft of robotic hand designs -
+Tesla,2025-6(13-15),"13:21:23  [AAFN] (ZK.N TSLA.O) - CADA Cui Dongshu On 'Only Buy ICEVs, Not NEVs' Remarks -"
+Tesla,2025-6(13-15),13:14:22  [STOCKP] (TSLA.O) - Tesla trades 0.1 percent higher on Friday 13th of June -
+Tesla,2025-6(13-15),"13:01:22  [AAFN] (ZK.N TSLA.O) - Survey: Global Sales of BEVs, PHEVs Climb 24% YoY in May -"
+Tesla,2025-6(13-15),"12:56:22  [AAFN] (TSLA.O MS.N) - IPOTesla Supplier SANHUA (02050.HK) IPO Today; Entry Fee $2,275.72 -"
+Tesla,2025-6(13-15),11:12:04  [GLOWEE] (.IXIC TSLA.O) - Past Week: Tesla (TSLA: $319.11) in top 1% performers of NASDAQ-100 Index in past week; +$34.41 [12.1%] -
+Tesla,2025-6(13-15),11:04:16  [WNCOMA] (TSLA.O) - 'I like Tesla': Donald Trump warms to Elon Musk after tech billionaire steps back from attacks -
+Tesla,2025-6(13-15),"10:43:08  [KORJOO] (TSLA.O) - Tesla to take Japan virtual power plant business nationwide, Nikkei reports -"
+Tesla,2025-6(13-15),10:32:07  [GURCOM] (TSLA.O) - Tesla Sues Former Engineer for Alleged Theft of Robotics Secrets -
+Tesla,2025-6(13-15),10:18:10  [BERCAL] (TSLA.O) - Berkeley Wire: Cal chancellor will testify before Congress on antisemitism; Berkeley mayor considers venture-capital fund to buck up city -
+Tesla,2025-6(13-15),"10:17:07  [YAHNEX] (9888.HK BIDU.O) - The Zacks Analyst Blog Highlights Tesla, Alphabet and Baidu -"
+Tesla,2025-6(13-15),10:14:08  [CRYPTV] (TSLA.O) - Wells Fargo Issues Massively Bearish Tesla (TSLA) Price Target Despite Highly-Anticipated Robotaxi Launch: Report -
+Tesla,2025-6(13-15),"10:00:00  [PAKLAW] (TSLA.O) - United States Courts Opinion: United States District Court for the Northern District of California: 23-2352 - Ragone v. Tesla, Inc. -"
+Tesla,2025-6(13-15),"09:50:06  [STRMLS] (TSLA.O) - Tesla to take Japan virtual power plant business nationwide, Nikkei reports -"
+Tesla,2025-6(13-15),09:01:00  [RTRS] (VOWG.DE TSLA.O) - Global EV sales rise in May as China hits 2025 peak -Rho Motion -
+Tesla,2025-6(13-15),09:00:00  [FOXNWS] (TSLA.O) - FBI Nabs Alleged L.A. Riot Leader; Blue State Governor's Squirm At  Sanctuary Hearing; Trump's Delivering His Mass Deportation Promise;  Americans ... -
+Tesla,2025-6(13-15),07:53:49  [YAHIRE] (TSLA.O) - Lawrence O'Donnell Says Elon Musk Walking Back His Trump Tweets Proves He's a 'Pathological Liar' | Video -
+Tesla,2025-6(13-15),07:51:13  [WRAPAA] (TSLA.O) - Lawrence O'Donnell Says Elon Musk Walking Back His Trump Tweets Proves He's a 'Pathological Liar' | Video -
+Tesla,2025-6(13-15),07:46:12  [AAFN] (TSLA.O ORCL.N) - USDJIA Ends Up 101 Pts After Starting Lower; Oracle Leaps 13% to Record High; Boeing Slips ~5% -
+Tesla,2025-6(13-15),"07:21:08  [FUTCOM] (TSLA.O) - Tesla's Robotaxi Launch Date Was Supposed to Be Today, But We're Shocked to Hear That It's Been Pushed Back -"
+Tesla,2025-6(13-15),07:18:07  [WOMWEE] (TSLA.O) - Research from Nepal Police Hospital in the Area of Cardiology Published (Prevalence and Patterns of Circle of Willis Variants in Civil Service Hosp... -
+Tesla,2025-6(13-15),07:12:34  [NOTENG] (TSLA.O) - Trump praises Tesla and says he wants to talk to Musk about electric vehicles -
+Tesla,2025-6(13-15),"07:05:36  [STOOBS] (TSLA.O) - Yarger Wealth Strategies LLC Has $349,000 Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:05:30  [STOOBS] (TSLA.O) - Total Wealth Planning LLC Purchases 56 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),07:05:19  [WNCOMA] (TSLA.O) - Tesla Grounding Launches as Breakthrough Bio-Energy Device for Natural Body Balance -
+Tesla,2025-6(13-15),"07:05:06  [STOOBS] (TSLA.O) - Ferguson Wellman Capital Management Inc. Has $7.11 Million Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:04:36  [STOOBS] (TSLA.O FITB.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Fifth Third Bancorp -"
+Tesla,2025-6(13-15),"07:04:17  [STOOBS] (TSLA.O) - Allen Mooney & Barnes Investment Advisors LLC Boosts Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"07:03:28  [STOOBS] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Acquired by Simon Quick Advisors LLC -"
+Tesla,2025-6(13-15),"07:03:23  [STOOBS] (TSLA.O) - Ulland Investment Advisors LLC Grows Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),06:57:17  [FORONL] (TSLA.O) - Tesla sues ex-Optimus engineer alleging theft of robotic trade secrets -
+Tesla,2025-6(13-15),06:57:14  [YAHNEX] (TSLA.O) - Elon Musk's Tesla sues former Optimus robot engineer for allegedly stealing trade secrets -
+Tesla,2025-6(13-15),"06:53:29  [MARDAJ] (TSLA.O) - Total Wealth Planning LLC Acquires 56 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"06:50:53  [MARDAJ] (TSLA.O) - Bellecapital International Ltd. Boosts Stock Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"06:49:57  [DAIGAL] (TSLA.O) - A Bakery Took a 4,000-Cake Order for Tesla-Elon Musk Stepped In to Prevent Bankruptcy -"
+Tesla,2025-6(13-15),"06:49:31  [CERGEM] (TSLA.O) - Davis Investment Partners LLC Buys 162 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"06:48:58  [MARDAJ] (TSLA.O) - Ferguson Wellman Capital Management Inc. Increases Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),06:48:15  [NEWUSN] (TSLA.O .NDX) - Tesla (TSLA: $319.11) in bottom 4% performers of NASDAQ-100 Index; CFO Taneja Vaibhav sells; -$7.32 [-2.2%] -
+Tesla,2025-6(13-15),"06:48:12  [DAIPOL] (TSLA.O) - Noble Wealth Management PBC Trims Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"06:48:08  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Ulland Investment Advisors LLC -"
+Tesla,2025-6(13-15),"06:47:54  [DAILYQ] (TSLA.O) - Noble Wealth Management PBC Trims Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),06:45:13  [YAHNEX] (TSLA.O) - Tesla sues former Optimus engineer over alleged trade secret theft -
+Tesla,2025-6(13-15),"06:42:15  [YAHSIN] (TSLA.O) - Tesla to take Japan virtual power plant business nationwide, Nikkei reports -"
+Tesla,2025-6(13-15),"06:33:11  [CHAASI] (TSLA.O) - Tesla to take Japan virtual power plant business nationwide, Nikkei reports -"
+Tesla,2025-6(13-15),06:27:22  [SIGDEV] (TSLA.O) - Tesla To Take Japan Virtual Power Plant Business Nationwide - Nikkei -
+Tesla,2025-6(13-15),"Tesla to offer free storage batteries to firms, managing them remotely to stabilize energy grid."
+Tesla,2025-6(13-15),"06:21:48  [DAIPOL] (TSLA.O) - Echo45 Advisors LLC Increases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"06:19:00  [RTRS] (TSLA.O) - Tesla to take Japan virtual power plant business nationwide, Nikkei reports -"
+Tesla,2025-6(13-15),"06:17:28  [TRADAJ] (TSLA.O) - Transform Wealth LLC Lowers Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"06:17:23  [TRADAJ] (TSLA.O) - Yarger Wealth Strategies LLC Buys 67 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"06:17:09  [DAILYQ] (TSLA.O) - Echo45 Advisors LLC Increases Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),06:15:35  [YAHNEX] (TSLA.O) - Tesla's sales are stalling as demand for EVs soars. Is Musk the problem? -
+Tesla,2025-6(13-15),06:15:06  [RTRS] (TSLA.O) - Tesla To Take Japan Virtual Power Plant Business Nationwide - Nikkei (BRIEF) -
+Tesla,2025-6(13-15),06:14:37  [ASINIK] (TSLA.O) - Tesla to take Japan virtual power plant business nationwide -
+Tesla,2025-6(13-15),06:11:11  [MSNCAN] (TSLA.O) - Tesla Giveaway & Tesla's software advantage - the car that keeps getting better -
+Tesla,2025-6(13-15),06:10:30  [RTRS] (TSLA.O) - TESLA WILL EXPAND BUSINESS IN COLLABORATION WITH FUYO GENERAL LEASE AND GLOBAL ENGINEERING - NIKKEI -
+Tesla,2025-6(13-15),06:07:17  [MSNAUS] (TSLA.O) - Tesla Giveaway & Tesla's software advantage - the car that keeps getting better -
+Tesla,2025-6(13-15),06:06:09  [TECHCR] (TSLA.O) - Tesla sues former Optimus engineer over alleged trade secret theft -
+Tesla,2025-6(13-15),"05:48:52  [TRADAJ] (TSLA.O) - Sterling Financial Group Inc. Has $721,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"05:48:51  [TRADAJ] (TSLA.O) - Kelly Financial Services LLC Has $336,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"05:48:20  [TRADAJ] (TSLA.O) - Donaldson Capital Management LLC Sells 7,825 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),05:47:08  [NEWUSN] (TSLA.O) - Tesla top gainer in Infusive Asset Management jumps 22.6% in 72 days; -$7.32 [-2.2%] -
+Tesla,2025-6(13-15),05:47:06  [USOFFI] (TSLA.O) - Rams in the News: Does Elon Musk's Borrowing Show a Super Low Tesla Stock Valuation? -
+Tesla,2025-6(13-15),"05:42:05  [WATNEW] (TSLA.O) - Davis Investment Partners LLC Buys 162 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"05:41:09  [DAIPOL] (TSLA.O) - Defined Financial Planning LLC Boosts Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),05:32:23  [IPHCAN] (TSLA.O AAPL.O) - Apple's iOS 26 Liquid Glass CarPlay Arrives in Tesla -
+Tesla,2025-6(13-15),05:12:16  [YAHUKI] (TSLA.O) - Cathie Wood Just Flipped the Switch--Why Tesla's AI Bet Is Back in Play -
+Tesla,2025-6(13-15),"05:11:51  [GLOSTO] (TSLA.O) - Tesla (TSLA: $319.23) slides 2.2%, ranks 4 in today's top 11 falls; -$7.20 [-2.2%] -"
+Tesla,2025-6(13-15),"05:11:48  [GLOSTO] (TSLA.O) - Tesla (TSLA: $319.23) slides 2.2%, ranks 4 in today's top 11 falls; -$7.20 [-2.2%] -"
+Tesla,2025-6(13-15),"05:09:12  [DAIPOL] (TSLA.O) - FMB Wealth Management Has $585,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"05:07:25  [TICREP] (TSLA.O) - FMB Wealth Management Has $585,000 Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"05:07:13  [DAILYQ] (TSLA.O) - FMB Wealth Management Has $585,000 Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"05:07:10  [DAILYQ] (TSLA.O) - Defined Financial Planning LLC Boosts Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:52:02  [GLOSTO] (TSLA.O) - Tesla (TSLA: $320.64) falls 1.8%, ranks 8 in today's top 20 falls; -$5.79 [-1.8%] -"
+Tesla,2025-6(13-15),04:44:12  [YAHNEX] (TSLA.O) - Cathie Wood Just Flipped the Switch--Why Tesla's AI Bet Is Back in Play -
+Tesla,2025-6(13-15),04:44:06  [WNCOMA] (TSLA.O) - Tesla Sues Ex-Optimus Engineer Alleging Theft of Robotic Trade Secrets -
+Tesla,2025-6(13-15),"04:37:16  [RTRS] (VOWG.DE TSLA.O) - California, 10 other states sue to block Trump from killing 2035 EV rules (UPDATE 1) -"
+Tesla,2025-6(13-15),"04:32:12  [DAILYQ] (TSLA.O) - GPS Wealth Strategies Group LLC Lowers Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:32:09  [TICREP] (TSLA.O) - GPS Wealth Strategies Group LLC Sells 667 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:31:11  [DAIPOL] (TSLA.O) - GPS Wealth Strategies Group LLC Lowers Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"04:22:55  [ZOLCOM] (TSLA.O) - Zhang Financial LLC Grows Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),04:12:20  [MSNUKA] (TSLA.O) - BYD launches cheapest UK model in bid to overtake Tesla as biggest electric carmaker -
+Tesla,2025-6(13-15),"04:12:11  [GLOSTO] (TSLA.O) - Tesla (TSLA: $324.34) in 4th consecutive rise, ranks 19 in today's top 20 falls; -$2.09 [-0.6%] -"
+Tesla,2025-6(13-15),04:02:32  [GURCOM] (TSLA.O) - Tesla (TSLA) Stock Shows Resilience Amid Trump-Musk Reconciliation -
+Tesla,2025-6(13-15),03:51:57  [GLOSTO] (TSLA.O F.N) - Tesla continues to outperform Ford Motor by 4.8% in the past month -
+Tesla,2025-6(13-15),03:38:17  [MONMOR] (TSLA.O) - Should You Buy the Dip on Tesla (TSLA) Stock After Elon Musk's Apology? -
+Tesla,2025-6(13-15),"03:27:27  [GERCOM] (TSLA.DE TSLA.O) - German trading: Tesla Motors (TL0: EUR282.30) loses EUR20 billion ($23 billion) (2.3%) in MCap, steepest heavyweight fall in Health care sector; -E... -"
+Tesla,2025-6(13-15),"03:27:17  [GLOSTO] (TSLA.O) - Tesla (TSLA: $324.06) decreases $2.37, ranks 17 in today's top 20 falls; -$2.37 [-0.7%] -"
+Tesla,2025-6(13-15),03:16:12  [WNCOMA] (TSLA.O) - Trump praises Tesla after Musk backtracks in feud -
+Tesla,2025-6(13-15),02:57:14  [BARCHA] (TSLA.O) - Tesla's CEO 'Works Really Well Under Pressure': Why Cathie Wood Thinks the Trump-Musk Feud Could Be Good for TSLA Stock -
+Tesla,2025-6(13-15),02:52:39  [GLOSTO] (TSLA.O RACE.MI) - Tesla continues to outperform Ferrari by 8.3% in the past month -
+Tesla,2025-6(13-15),02:52:39  [GLOSTO] (9868.HK XPEV.N) - Tesla continues to outperform XPeng by 5.0% in the past month -
+Tesla,2025-6(13-15),"02:47:08  [TICREP] (TSLA.O) - Spectrum Asset Management Inc. NB CA Increases Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"02:42:06  [GLOSTO] (TSLA.O) - Tesla (TSLA: $329.73) keeps rising, up 16% in 5 days, ranks 9 in today's top 20 rises; +$3.30 [1.0%] -"
+Tesla,2025-6(13-15),"02:37:19  [GLOSTO] (TSLA.O) - Tesla (TSLA: $329.73) climbs 1.0% strengthening above moving average price, ranks 9 in today's top 20 rises; +$3.30 [1.0%] -"
+Tesla,2025-6(13-15),"02:28:10  [WNCOMA] (AMZN.O TSLA.O) - Larry Ellison Overtakes Jeff Bezos, Mark Zuckerberg As World's Second-Richest Person -"
+Tesla,2025-6(13-15),02:21:08  [MSNSOU] (MSFT.O TSLA.O) - Sustainability dips but still drives choice in the luxury market -
+Tesla,2025-6(13-15),02:19:17  [RTRS] (TSLA.O) - Tesla lawsuit says former engineer stole secrets for robotics startup -
+Tesla,2025-6(13-15),"02:17:43  [TRADAJ] (TSLA.O) - McElhenny Sheffield Capital Management LLC Has $576,000 Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"02:17:25  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Purchased by Allen Mooney & Barnes Investment Advisors LLC -"
+Tesla,2025-6(13-15),"02:17:13  [WATNEW] (TSLA.O) - Spectrum Asset Management Inc. NB CA Increases Stock Position in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),02:14:29  [RTRS] (TSLA.O) - Trump praises Tesla after Musk backtracks in feud -
+Tesla,2025-6(13-15),"02:08:48  [DAIPOL] (TSLA.O) - Two West Capital Advisors LLC Purchases 42 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"02:02:06  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $326.47) keeps rising, up 15% in 5 days Friday June 13, 2025 01:31 AEST6 -"
+Tesla,2025-6(13-15),01:52:22  [GLOSTO] (LCID.O TSLA.O) - Tesla continues to outperform Lucid Group by 22.6% in the past month -
+Tesla,2025-6(13-15),01:52:22  [GLOSTO] (GM.N TSLA.O) - Tesla continues to outperform General Motors by 5.8% in the past month -
+Tesla,2025-6(13-15),"01:47:58  [GLOTRA] (TSLA.O .NDX) - Tesla (TSLA: $328.62) keeps rising, up 15% in 5 days; +$2.19 [0.7%] -"
+Tesla,2025-6(13-15),"01:47:57  [TRADAJ] (TSLA.O FITB.O) - Fifth Third Bancorp Grows Stake in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),01:47:57  [GURCOM] (TSLA.O) - Tesla (TSLA) Faces 60% Crash Risk as Q2 Deliveries Fall Short -
+Tesla,2025-6(13-15),01:47:27  [GLOSTO] (TSLA.O) - Tesla among top gainers of Hancock Prospecting holdings; soars 26% in 72 days; +$2.19 [0.7%] -
+Tesla,2025-6(13-15),01:44:20  [YAHNEX] (TSLA.O) - Tesla's Texas robotaxi launch: Expect it to be 'low-key' -
+Tesla,2025-6(13-15),01:18:11  [WNCOMA] (TSLA.O) - Tesla sues ex-Optimus engineer alleging theft of robotic trade secrets -
+Tesla,2025-6(13-15),01:16:14  [MSNUKA] (TSLA.O) - BYD Dolphin Surf review: Is this what a budget Tesla should be like? -
+Tesla,2025-6(13-15),01:13:32  [GNW] (TSLA.O) - The Dawn Project and Tesla Takedown to Demonstrate the Danger Tesla Full Self-Driving Poses to Children in Live Austin Safety Tests -
+Tesla,2025-6(13-15),"01:12:19  [DAILYQ] (TSLA.O) - Two West Capital Advisors LLC Purchases 42 Shares of Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),"01:12:17  [TICREP] (TSLA.O) - Two West Capital Advisors LLC Has $383,000 Holdings in Tesla, Inc. (NASDAQ:TSLA) -"
+Tesla,2025-6(13-15),01:04:10  [YAHNEX] (TSLA.O) - Tesla Stock Drops. 4 Reasons Robo-Taxi Launch Is a Worry. -
+Tesla,2025-6(13-15),01:02:38  [THEGRD] (TSLA.O) - BYD launches cheapest UK model in bid to overtake Tesla as biggest electric carmaker -
+Tesla,2025-6(13-15),01:02:38  [THEGRD] (TSLA.O) - BYD launches cheapest UK model in bid to overtake Tesla as biggest electric carmaker -
+Tesla,2025-6(13-15),"01:02:19  [GLOBUL] (.GDAXI TSLA.O) - Confirmatory Bullish Trend: Tesla (TSLA: $326.47) keeps rising, up 15% in 5 days Friday June 13, 2025 00:32 AEST6 -"
+Tesla,2025-6(13-15),"01:02:18  [NEWUSN] (TSLA.O .NDX) - Tesla in 5th consecutive rise, nears high Thursday, June 12, 2025 10:00:00 -"
+Tesla,2025-6(13-15),"My feed has noticeably improved. Not yet great, but pretty good. -"
+Tesla,2025-6(13-15),00:58:14  [MSNUKA] (TSLA.O 002594.SZ) - BYDs new EV chargers are as fast as petrol pumps heres when theyre coming to the UK -
+Tesla,2025-6(13-15),00:52:39  [GLOSTO] (NVDA.O TSLA.O) - Tesla continues to underperform NVIDIA by 13.0% in the past month -
+Tesla,2025-6(13-15),00:52:29  [GLOSTO] (RIVN.O TSLA.O) - Tesla continues to outperform Rivian Automotive by 9.9% in the past month -
+Tesla,2025-6(13-15),"FSD in Europe will save lives of people in the car, as well as vulnerable road users like pedestrians, cyclists and pets."
+Tesla,2025-6(13-15),00:47:33  [GLOTRA] (TSLA.O) - Tesla among top gainers of Hancock Prospecting holdings; soars 25% in 72 days; +4c [0.01%] -
+Tesla,2025-6(13-15),"00:47:01  [NEWUSN] (TSLA.O .NDX) - Tesla (TSLA: $326.47) keeps rising, up 15% in 5 days; +4c [0.01%] -"
+Tesla,2025-6(13-15),00:42:26  [GURCOM] (TSLA.O) - Tesla (TSLA) Sues Former Engineer Over Alleged Data Theft and Startup Rivalry -
+Tesla,2025-6(13-15),"00:42:21  [DAIPOL] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Zhang Financial LLC -"
+Tesla,2025-6(13-15),"00:37:33  [DAILYQ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Zhang Financial LLC -"
+Tesla,2025-6(13-15),"00:37:18  [TRADAJ] (TSLA.O) - Tesla, Inc. (NASDAQ:TSLA) Shares Bought by Simon Quick Advisors LLC -"
+Tesla,2025-6(13-15),"00:22:25  [ZACKSC] (TSLA.O BIDU.O) - The Zacks Analyst Blog Highlights Tesla, Alphabet and Baidu -"
+Tesla,2025-6(13-15),"00:02:21  [GLOSTO] (TSLA.O) - Tesla among top gainers of Infusive Asset Management holdings; jumps 25% in 71 days, ranks 17 in today's top 20 falls; -$1.85 [-0.6%] -"
